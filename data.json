@@ -2524,6 +2524,18 @@
     "raons": "Por i angoixa freqüent d'afectació lleu"
   },
   {
+    "titol": "Sam Fox 23",
+    "codi": "6079538",
+    "edat": "7",
+    "raons": "Por i angoixa ocasional d'afectació mitjana;Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "Sam Fox 24",
+    "codi": "6079558",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu"
+  },
+  {
     "titol": "Sense sortida",
     "codi": "sense-sortida",
     "edat": "10"
