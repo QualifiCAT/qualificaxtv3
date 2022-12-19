@@ -178,9 +178,39 @@
     "edat": "7"
   },
   {
+    "titol": "Betapodcast 11",
+    "codi": "6182840",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
     "titol": "Beta 1x01",
     "codi": "6179627",
     "edat": "0"
+  },
+  {
+    "titol": "Beta 1x05",
+    "codi": "6183080",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu"
+  },
+  {
+    "titol": "Beta 1x06",
+    "codi": "6185800",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu"
+  },
+  {
+    "titol": "Beta 1x07",
+    "codi": "6186971",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu"
+  },
+  {
+    "titol": "Beta 1x08",
+    "codi": "6188365",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu"
   },
   {
     "titol": "Beta 1x09",
@@ -195,10 +225,10 @@
     "raons": "Por i angoixa freqüent d'afectació lleu"
   },
   {
-    "titol": "Betapodcast 11",
-    "codi": "6182840",
-    "edat": "7",
-    "raons": "Llenguatge groller ocasional d'intensitat baixa"
+    "titol": "Beta 1x11",
+    "codi": "6192126",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu"
   },
   {
     "titol": "Black Clover",
@@ -273,6 +303,48 @@
     "titol": "D'aventura castigats 2x08",
     "codi": "6095374",
     "edat": "0"
+  },
+  {
+    "titol": "D'aventura castigats 2x09",
+    "codi": "6096827",
+    "edat": "7",
+    "raons": "Por i angoixa ocasional d'afectació mitjana"
+  },
+  {
+    "titol": "D'aventura castigats 2x10",
+    "codi": "6096828",
+    "edat": "7",
+    "raons": "Por i angoixa ocasional d'afectació mitjana;Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "D'aventura castigats 3x01",
+    "codi": "6191438",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu"
+  },
+  {
+    "titol": "D'aventura castigats 3x02",
+    "codi": "6191437",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció neutra"
+  },
+  {
+    "titol": "D'aventura castigats 3x03",
+    "codi": "6191440",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+  },
+  {
+    "titol": "D'aventura castigats 3x04",
+    "codi": "6191439",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu"
+  },
+  {
+    "titol": "D'aventura castigats 3x05",
+    "codi": "6191441",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu"
   },
   {
     "titol": "Dinàmiks",
@@ -365,6 +437,12 @@
     "codi": "6150947",
     "edat": "10",
     "raons": "Por i angoixa reiterada d'afectació lleu"
+  },
+  {
+    "titol": "El 422 1x13",
+    "codi": "6152034",
+    "edat": "10",
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada;Por i angoixa reiterada d'afectació lleu;Llenguatge groller ocasional d'intensitat alta"
   },
   {
     "titol": "El detectiu Conan",
@@ -1142,6 +1220,12 @@
     "codi": "5810298",
     "edat": "7",
     "raons": "Violència ocasional, versemblant, no explícita, d'intensitat molt lleu, no legitimada;Por i angoixa freqüent d'intensitat baixa"
+  },
+  {
+    "titol": "Les aventures d'en Massagran 1x09",
+    "codi": "5810293",
+    "edat": "7",
+    "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, no legitimada;Contingut sexual ocasional d'explicitació baixa;Por i angoixa freqüent d'afectació lleu;Consum de tabac"
   },
   {
     "titol": "Les misterioses ciutats d'or",
