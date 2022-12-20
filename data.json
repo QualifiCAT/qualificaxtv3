@@ -236,11 +236,6 @@
     "edat": "13"
   },
   {
-    "titol": "Bricociència",
-    "codi": "bricociencia",
-    "edat": "0"
-  },
-  {
     "titol": "D'aventura castigats",
     "codi": "daventura-castigats",
     "edat": "7"
@@ -347,11 +342,6 @@
     "raons": "Por i angoixa freqüent d'afectació lleu"
   },
   {
-    "titol": "Dinàmiks",
-    "codi": "dinamiks",
-    "edat": "0"
-  },
-  {
     "titol": "Dracs",
     "codi": "dracs-nous-horitzons",
     "edat": "7"
@@ -443,6 +433,42 @@
     "codi": "6152034",
     "edat": "10",
     "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada;Por i angoixa reiterada d'afectació lleu;Llenguatge groller ocasional d'intensitat alta"
+  },
+  {
+    "titol": "El 422 2x01",
+    "codi": "6153277",
+    "edat": "10",
+    "raons": "Por i angoixa reiterada d'afectació lleu"
+  },
+  {
+    "titol": "El 422 2x02",
+    "codi": "6153276",
+    "edat": "10",
+    "raons": "Por i angoixa reiterada d'afectació lleu"
+  },
+  {
+    "titol": "El 422 2x03",
+    "codi": "6154311",
+    "edat": "10",
+    "raons": "Por i angoixa reiterada d'afectació lleu"
+  },
+  {
+    "titol": "El 422 2x04",
+    "codi": "6154312",
+    "edat": "10",
+    "raons": "Por i angoixa reiterada d'afectació lleu"
+  },
+  {
+    "titol": "El 422 2x05",
+    "codi": "6155382",
+    "edat": "10",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada;Por i angoixa reiterada d'afectació lleu"
+  },
+  {
+    "titol": "El 422 2x06",
+    "codi": "6155381",
+    "edat": "10",
+    "raons": "Por i angoixa reiterada d'afectació lleu"
   },
   {
     "titol": "El detectiu Conan",
@@ -1025,6 +1051,126 @@
     "raons": "Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
   },
   {
+    "titol": "Hoodie 1x21",
+    "codi": "6180513",
+    "edat": "10",
+    "raons": "Conductes i valors incívics amb sanció neutra"
+  },
+  {
+    "titol": "Hoodie 1x22",
+    "codi": "6180923",
+    "edat": "10",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada"
+  },
+  {
+    "titol": "Hoodie 1x23",
+    "codi": "6180922",
+    "edat": "10",
+    "raons": "Conductes i valors incívics amb sanció neutra"
+  },
+  {
+    "titol": "Hoodie 1x24",
+    "codi": "6180921",
+    "edat": "10",
+    "raons": "Conductes i valors incívics amb sanció neutra"
+  },
+  {
+    "titol": "Hoodie 1x25",
+    "codi": "6180924",
+    "edat": "7",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada;Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+  },
+  {
+    "titol": "Hoodie 1x26",
+    "codi": "6180925",
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa"
+  },
+  {
+    "titol": "Hoodie 1x27",
+    "codi": "6180927",
+    "edat": "10",
+    "raons": "Conductes i valors incívics amb sanció neutra"
+  },
+  {
+    "titol": "Hoodie 1x28",
+    "codi": "6180928",
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa"
+  },
+  {
+    "titol": "Hoodie 1x29",
+    "codi": "6180926",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+  },
+  {
+    "titol": "Hoodie 1x30",
+    "codi": "6180929",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+  },
+  {
+    "titol": "Hoodie 1x31",
+    "codi": "6181101",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "Hoodie 1x32",
+    "codi": "6181097",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "Hoodie 1x33",
+    "codi": "6182169",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "Hoodie 1x34",
+    "codi": "6182171",
+    "edat": "10",
+    "raons": "Conductes i valors incívics amb sanció neutra"
+  },
+  {
+    "titol": "Hoodie 1x35",
+    "codi": "6182170",
+    "edat": "10",
+    "raons": "Conductes i valors incívics amb sanció neutra"
+  },
+  {
+    "titol": "Hoodie 1x36",
+    "codi": "6182175",
+    "edat": "10",
+    "raons": "Llenguatge groller ocasional d'intensitat alta;Conductes i valors incívics amb sanció neutra"
+  },
+  {
+    "titol": "Hoodie 1x37",
+    "codi": "6182172",
+    "edat": "10",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada;Llenguatge groller ocasional d'intensitat alta;Conductes i valors incívics amb sanció neutra"
+  },
+  {
+    "titol": "Hoodie 1x38",
+    "codi": "6182173",
+    "edat": "10",
+    "raons": "Llenguatge groller ocasional d'intensitat alta"
+  },
+  {
+    "titol": "Hoodie 1x39",
+    "codi": "6182174",
+    "edat": "10",
+    "raons": "Conductes i valors incívics amb sanció neutra"
+  },
+  {
+    "titol": "Hoodie 1x40",
+    "codi": "6182178",
+    "edat": "10",
+    "raons": "Conductes i valors incívics amb sanció neutra"
+  },
+  {
     "titol": "Ideafix",
     "codi": "ideafix-irreductibles",
     "edat": "0"
@@ -1221,6 +1367,12 @@
     "codi": "5810293",
     "edat": "7",
     "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, no legitimada;Contingut sexual ocasional d'explicitació baixa;Por i angoixa freqüent d'afectació lleu;Consum de tabac"
+  },
+  {
+    "titol": "Les aventures d'en Massagran 1x10",
+    "codi": "5810299",
+    "edat": "0",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada;Por i angoixa ocasional d'afectació lleu;Consum insinuat de tabac i alcohol"
   },
   {
     "titol": "Les misterioses ciutats d'or",
@@ -2296,11 +2448,6 @@
     "raons": "Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa"
   },
   {
-    "titol": "Món maker",
-    "codi": "monmaker",
-    "edat": "0"
-  },
-  {
     "titol": "My Hero Academia Dos herois titol",
     "codi": "my-hero-academia-dos-herois",
     "edat": "13"
@@ -2606,6 +2753,12 @@
   {
     "titol": "Sam Fox 24",
     "codi": "6079558",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu"
+  },
+  {
+    "titol": "Sam Fox 25",
+    "codi": "6079752",
     "edat": "7",
     "raons": "Por i angoixa freqüent d'afectació lleu"
   },
