@@ -1278,6 +1278,84 @@
     "raons": "Por i angoixa freqüent d'afectació mitjana"
   },
   {
+    "titol": "Hoodie 2x01",
+    "codi": "6184878",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "Hoodie 2x02",
+    "codi": "6186535",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "Hoodie 2x03",
+    "codi": "6186536",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "Hoodie 2x04",
+    "codi": "6186541",
+    "edat": "10",
+    "raons": "Conductes i valors incívics amb sanció neutra"
+  },
+  {
+    "titol": "Hoodie 2x05",
+    "codi": "6186542",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+  },
+  {
+    "titol": "Hoodie 2x06",
+    "codi": "6187403",
+    "edat": "7",
+    "raons": "Conductes i valors incívics amb sanció negativa"
+  },
+  {
+    "titol": "Hoodie 2x07",
+    "codi": "6187404",
+    "edat": "10",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada;Llenguatge groller ocasional d'intensitat alta"
+  },
+  {
+    "titol": "Hoodie 2x08",
+    "codi": "6187017",
+    "edat": "10",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada"
+  },
+  {
+    "titol": "Hoodie 2x09",
+    "codi": "6187016",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "Hoodie 2x10",
+    "codi": "6187015",
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa"
+  },
+  {
+    "titol": "Hoodie 2x11",
+    "codi": "6187265",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "Hoodie 2x12",
+    "codi": "6187267",
+    "edat": "10",
+    "raons": "Conductes i valors incívics amb sanció neutra"
+  },
+  {
+    "titol": "Hoodie 2x13",
+    "codi": "6189093",
+    "edat": "10",
+    "raons": "Conductes i valors incívics amb sanció neutra"
+  },
+  {
     "titol": "Ideafix",
     "codi": "ideafix-irreductibles",
     "edat": "0"
@@ -1417,6 +1495,11 @@
     "edat": "0"
   },
   {
+    "titol": "Lara i Kali 8",
+    "codi": "6192553",
+    "edat": "0"
+  },
+  {
     "titol": "Les aventures d'en Massagran",
     "codi": "aventures-massagran",
     "edat": "7"
@@ -1496,7 +1579,15 @@
   {
     "titol": "Les aventures d'en Massagran 13",
     "codi": "5810330",
-    "edat": "
+    "edat": "7",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada;Consum d'alcohol presentat negativament"
+  },
+  {
+    "titol": "Les aventures d'en Massagran 14",
+    "codi": "5810295",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu"
+  },
   {
     "titol": "Les misterioses ciutats d'or",
     "codi": "misterioses-ciutats-or",
