@@ -471,9 +471,44 @@
     "raons": "Por i angoixa reiterada d'afectació lleu"
   },
   {
+    "titol": "El 422 2x07",
+    "codi": "6156539",
+    "edat": "10",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada;Por i angoixa reiterada d'afectació lleu"
+  },
+  {
+    "titol": "El 422 2x08",
+    "codi": "6156540",
+    "edat": "10",
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada;Por i angoixa reiterada d'afectació lleu"
+  },
+  {
+    "titol": "El 422 2x09",
+    "codi": "6157673",
+    "edat": "10",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada;Por i angoixa reiterada d'afectació lleu"
+  },
+  {
+    "titol": "El 422 2x10",
+    "codi": "6157675",
+    "edat": "10",
+    "raons": "Por i angoixa reiterada d'afectació lleu"
+  },
+  {
+    "titol": "El 422 2x11",
+    "codi": "6158820",
+    "edat": "10",
+    "raons": "Por i angoixa reiterada d'afectació lleu"
+  },
+  {
+    "titol": "El 422 2x12",
+    "codi": "6158824",
+    "edat": "Violència freqüent, irreal, no explícita, d'intensitat lleu, no legitimada;Por i angoixa reiterada d'afectació lleu"
+  },
+  {
     "titol": "El detectiu Conan",
     "codi": "detectiu-conan",
-    "edat": "10"
+    "edat": "13"
   },
   {
     "titol": "El detectiu Conan La bala escarlata titol",
@@ -1171,6 +1206,78 @@
     "raons": "Conductes i valors incívics amb sanció neutra"
   },
   {
+    "titol": "Hoodie 1x41",
+    "codi": "6183580",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+  },
+  {
+    "titol": "Hoodie 1x42",
+    "codi": "6183581",
+    "edat": "10",
+    "raons": "Conductes i valors incívics amb sanció neutra"
+  },
+  {
+    "titol": "Hoodie 1x43",
+    "codi": "6184722",
+    "edat": "10",
+    "raons": "Conductes i valors incívics amb sanció neutra"
+  },
+  {
+    "titol": "Hoodie 1x44",
+    "codi": "6184723",
+    "edat": "7",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada;Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+  },
+  {
+    "titol": "Hoodie 1x45",
+    "codi": "6184725",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+  },
+  {
+    "titol": "Hoodie 1x46",
+    "codi": "6184724",
+    "edat": "10",
+    "raons": "Conductes i valors incívics amb sanció neutra"
+  },
+  {
+    "titol": "Hoodie 1x47",
+    "codi": "6184727",
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa"
+  },
+  {
+    "titol": "Hoodie 1x48",
+    "codi": "6184726",
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa"
+  },
+  {
+    "titol": "Hoodie 1x49",
+    "codi": "6184789",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+  },
+  {
+    "titol": "Hoodie 1x50",
+    "codi": "6184788",
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa"
+  },
+  {
+    "titol": "Hoodie 1x51",
+    "codi": "6184791",
+    "edat": "10",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada;Por i angoixa freqüent d'afectació mitjana"
+  },
+  {
+    "titol": "Hoodie 1x52",
+    "codi": "6184793",
+    "edat": "10",
+    "raons": "Por i angoixa freqüent d'afectació mitjana"
+  },
+  {
     "titol": "Ideafix",
     "codi": "ideafix-irreductibles",
     "edat": "0"
@@ -1315,65 +1422,81 @@
     "edat": "7"
   },
   {
-    "titol": "Les aventures d'en Massagran 1x01",
+    "titol": "Les aventures d'en Massagran 1",
     "codi": "5810294",
     "edat": "0",
     "raons": "Por i angoixa ocasional d'afectació lleu"
   },
   {
-    "titol": "Les aventures d'en Massagran 1x02",
+    "titol": "Les aventures d'en Massagran 2",
     "codi": "5810297",
     "edat": "0",
     "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, no legitimada;Por i angoixa ocasional d'afectació lleu"
   },
   {
-    "titol": "Les aventures d'en Massagran 1x03",
+    "titol": "Les aventures d'en Massagran 3",
     "codi": "5810329",
     "edat": "0",
     "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, no legitimada;Por i angoixa ocasional d'afectació lleu"
   },
   {
-    "titol": "Les aventures d'en Massagran 1x04",
+    "titol": "Les aventures d'en Massagran 4",
     "codi": "5810332",
     "edat": "0",
     "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, no legitimada;Por i angoixa ocasional d'afectació lleu"
   },
   {
-    "titol": "Les aventures d'en Massagran 1x05",
+    "titol": "Les aventures d'en Massagran 5",
     "codi": "5810328",
     "edat": "0",
     "raons": "Por i angoixa ocasional d'afectació lleu"
   },
   {
-    "titol": "Les aventures d'en Massagran 1x06",
+    "titol": "Les aventures d'en Massagran 6",
     "codi": "5810296",
     "edat": "7",
     "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada;Por i angoixa freqüent d'afectació lleu;Consum de tabac i alcohol, presentat negativament;Situacions de racisme amb sanció negativa"
   },
   {
-    "titol": "Les aventures d'en Massagran 1x07",
+    "titol": "Les aventures d'en Massagran 7",
     "codi": "5810331",
     "edat": "7",
     "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, legitimada;Por i angoixa freqüent d'afectació lleu"
   },
   {
-    "titol": "Les aventures d'en Massagran 1x08",
+    "titol": "Les aventures d'en Massagran 8",
     "codi": "5810298",
     "edat": "7",
     "raons": "Violència ocasional, versemblant, no explícita, d'intensitat molt lleu, no legitimada;Por i angoixa freqüent d'intensitat baixa"
   },
   {
-    "titol": "Les aventures d'en Massagran 1x09",
+    "titol": "Les aventures d'en Massagran 9",
     "codi": "5810293",
     "edat": "7",
     "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, no legitimada;Contingut sexual ocasional d'explicitació baixa;Por i angoixa freqüent d'afectació lleu;Consum de tabac"
   },
   {
-    "titol": "Les aventures d'en Massagran 1x10",
+    "titol": "Les aventures d'en Massagran 10",
     "codi": "5810299",
     "edat": "0",
     "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada;Por i angoixa ocasional d'afectació lleu;Consum insinuat de tabac i alcohol"
   },
+  {
+    "titol": "Les aventures d'en Massagran 11",
+    "codi": "5810327",
+    "edat": "7",
+    "raons": "Consum de tabac vinculat al context històric;Comentaris masclistes amb sanció negativa"
+  },
+  {
+    "titol": "Les aventures d'en Massagran 12",
+    "codi": "5810300",
+    "edat": "7",
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada;Por i angoixa ocasional d'afectació mitjana;Consum de tabac"
+  },
+  {
+    "titol": "Les aventures d'en Massagran 13",
+    "codi": "5810330",
+    "edat": "
   {
     "titol": "Les misterioses ciutats d'or",
     "codi": "misterioses-ciutats-or",
@@ -2761,6 +2884,12 @@
     "codi": "6079752",
     "edat": "7",
     "raons": "Por i angoixa freqüent d'afectació lleu"
+  },
+  {
+    "titol": "Sam Fox 26",
+    "codi": "6080466",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu"
   },
   {
     "titol": "Sense sortida",
