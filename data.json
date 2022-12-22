@@ -511,6 +511,18 @@
     "edat": "13"
   },
   {
+    "titol": "El detectiu Conan 912",
+    "codi": "6106401",
+    "edat": "13",
+    "raons": "Violència freqüent, versemblant, no explícita, d'intensitat greu, no legitimada;Al·lusions i consum de drogues lícites (alcohol, tabac), presentades de forma neutra"
+  },
+  {
+    "titol": "El detectiu Conan 913",
+    "codi": "6106908",
+    "edat": "13",
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat greu, no legitimada"
+  },
+  {
     "titol": "El detectiu Conan La bala escarlata titol",
     "codi": "detectiu-conan-bala-escarlata",
     "edat": "13"
@@ -2347,6 +2359,11 @@
     "edat": "0"
   },
   {
+    "titol": "Manduka 60",
+    "codi": "6191244",
+    "edat": "0"
+  },
+  {
     "titol": "Marika",
     "codi": "marika",
     "edat": "10"
@@ -2867,6 +2884,12 @@
     "titol": "Sam Fox aventures extremes",
     "codi": "sam-fox-aventures-extremes",
     "edat": "7"
+  },
+  {
+    "titol": "Sam Fox 1",
+    "codi": "6058180",
+    "edat": "7",
+    "raons": "Por i angoixa ocasional d'afectació mitjana"
   },
   {
     "titol": "Sam Fox 8",
