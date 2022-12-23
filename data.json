@@ -511,6 +511,24 @@
     "edat": "13"
   },
   {
+    "titol": "El detectiu Conan 909",
+    "codi": "6037055",
+    "edat": "7",
+    "raons": "Por i angoixa ocasional d'afectació mitjana"
+  },
+  {
+    "titol": "El detectiu Conan 910",
+    "codi": "6105988",
+    "edat": "7",
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada (a la prèvia del següent episodi)"
+  },
+  {
+    "titol": "El detectiu Conan 911",
+    "codi": "6106200",
+    "edat": "10",
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada;Por i angoixa freqüent d'afectació mitjana"
+  },
+  {
     "titol": "El detectiu Conan 912",
     "codi": "6106401",
     "edat": "13",
@@ -760,6 +778,45 @@
     "edat": "0"
   },
   {
+    "titol": "Eufòria dance final",
+    "codi": "6193801",
+    "edat": "10",
+    "raons": "Contingut sexual freqüent d'explicitació baixa;Llenguatge groller ocasional d'intensitat alta"
+  },
+  {
+    "titol": "Eufòria dance final clàudia",
+    "codi": "6193816",
+    "edat": "0"
+  },
+  {
+    "titol": "Eufòria dance final scorpio",
+    "codi": "6193817",
+    "edat": "7",
+    "raons": "Contingut sexual ocasional d'explicitació baixa;Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "Eufòria dance final chung-man",
+    "codi": "6193820",
+    "edat": "0"
+  },
+  {
+    "titol": "Eufòria dance final deja vu",
+    "codi": "6193822",
+    "edat": "10",
+    "raons": "Contingut sexual freqüent d'explicitació baixa"
+  },
+  {
+    "titol": "Eufòria dance final jugular",
+    "codi": "6193823",
+    "edat": "0",
+    "raons": "Al·lusió implícita al suïcidi"
+  },
+  {
+    "titol": "Eufòria dance final final",
+    "codi": "6193825",
+    "edat": "0"
+  },
+  {
     "titol": "Flying Squirrels",
     "codi": "flying-squirrels",
     "edat": "7"
@@ -968,9 +1025,20 @@
     "raons": "Violència freqüent, irreal, molt explícita, d'intensitat greu, no legitimada;Por i angoixa freqüent d'afectació alta"
   },
   {
-    "titol": "Haikyuu",
+    "titol": "Haikyu",
     "codi": "haikyu",
     "edat": "10"
+  },
+  {
+    "titol": "Haikyu 2x19",
+    "codi": "6191651",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "Haikyu 2x20",
+    "codi": "6191890",
+    "edat": "0"
   },
   {
     "titol": "Hoodie",
@@ -2892,6 +2960,12 @@
     "raons": "Por i angoixa ocasional d'afectació mitjana"
   },
   {
+    "titol": "Sam Fox 2",
+    "codi": "6059076",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
     "titol": "Sam Fox 8",
     "codi": "6065591",
     "edat": "7",
@@ -3081,6 +3155,23 @@
     "codi": "6186998",
     "edat": "10",
     "raons": "Por i angoixa freqüent d'afectació mitjana"
+  },
+  {
+    "titol": "Theodosia",
+    "codi": "theodosia",
+    "edat": "7"
+  },
+  {
+    "titol": "Theodosia 1x01",
+    "codi": "6191930",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu"
+  },
+  {
+    "titol": "Theodosia 1x02",
+    "codi": "6192127",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu"
   },
   {
     "titol": "Top or fail",
