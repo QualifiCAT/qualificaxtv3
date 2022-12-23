@@ -168,6 +168,12 @@
     "edat": "0"
   },
   {
+    "titol": "Animals united",
+    "codi": "6087135",
+    "edat": "7",
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada;Llenguatge groller freqüent d'intensitat baixa;Consum de drogues lícites (alcohol) presentat negativament;Conductes i valors incívics amb sanció negativa"
+  },
+  {
     "titol": "Bestial",
     "codi": "bestial",
     "edat": "0"
@@ -506,6 +512,23 @@
     "edat": "Violència freqüent, irreal, no explícita, d'intensitat lleu, no legitimada;Por i angoixa reiterada d'afectació lleu"
   },
   {
+    "titol": "El carrer Scream",
+    "codi": "carrer-scream",
+    "edat": "7"
+  },
+  {
+    "titol": "El carrer Scream 1",
+    "codi": "6193441",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu"
+  },
+  {
+    "titol": "El carrer Scream 2",
+    "codi": "6193443",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
     "titol": "El detectiu Conan",
     "codi": "detectiu-conan",
     "edat": "13"
@@ -671,6 +694,12 @@
     "codi": "6172052",
     "edat": "0",
     "raons": "Por i angoixa ocasional d'afectació lleu"
+  },
+  {
+    "titol": "El món prodigiós Xangai",
+    "codi": "6129416",
+    "edat": "0",
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, no legitimada;Por i angoixa ocasional d'afectació lleu"
   },
   {
     "titol": "Els germans Kratt",
@@ -2758,6 +2787,12 @@
     "raons": "Violència ocasional, versemblant, explícita, d'intensitat greu, no legitimada"
   },
   {
+    "titol": "Nico 2",
+    "codi": "5806346",
+    "edat": "0",
+    "raons": "Por i angoixa freqüent d'afectació lleu"
+  },
+  {
     "titol": "Perduts a Oz",
     "codi": "perduts-a-oz",
     "edat": "7"
@@ -3162,16 +3197,28 @@
     "edat": "7"
   },
   {
-    "titol": "Theodosia 1x01",
+    "titol": "Theodosia 1",
     "codi": "6191930",
     "edat": "7",
     "raons": "Por i angoixa freqüent d'afectació lleu"
   },
   {
-    "titol": "Theodosia 1x02",
+    "titol": "Theodosia 2",
     "codi": "6192127",
     "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu"
+    "raons": "Por i angoixa ocasional d'afectació mitjana;Conductes i valors incívics amb sanció negativa"
+  },
+  {
+    "titol": "Theodosia 3",
+    "codi": "6191934",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu"
+  },
+  {
+    "titol": "Theodosia 4",
+    "codi": "6192342",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu"
   },
   {
     "titol": "Top or fail",
