@@ -555,13 +555,13 @@
     "titol": "El detectiu Conan 912",
     "codi": "6106401",
     "edat": "13",
-    "raons": "Violència freqüent, versemblant, no explícita, d'intensitat greu, no legitimada;Al·lusions i consum de drogues lícites (alcohol, tabac), presentades de forma neutra"
+    "raons": "Violència freqüent, versemblant, no explícita, d'intensitat lleu, no legitimada;Al·lusions i consum de drogues lícites (alcohol, tabac), presentades de forma neutra"
   },
   {
     "titol": "El detectiu Conan 913",
     "codi": "6106908",
-    "edat": "13",
-    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat greu, no legitimada"
+    "edat": "10",
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada"
   },
   {
     "titol": "El detectiu Conan La bala escarlata titol",
@@ -2910,13 +2910,13 @@
     "titol": "Ronja 15",
     "codi": "6191091",
     "edat": "10",
-    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada;Por i angoixa freqüent d'afectació mitjana"
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada"
   },
   {
     "titol": "Ronja 16",
     "codi": "6191092",
     "edat": "10",
-    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada;Por i angoixa freqüent d'afectació mitjana"
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada"
   },
   {
     "titol": "Ronja 17",
