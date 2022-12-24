@@ -242,6 +242,18 @@
     "edat": "13"
   },
   {
+    "titol": "Blinky Bill el coala",
+    "codi": "5806569",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+  },
+  {
+    "titol": "Buscant la màgica Doremi",
+    "codi": "6193457",
+    "edat": "13",
+    "raons": "Consum de drogues lícites (alcohol) presentat de forma neutra"
+  },
+  {
     "titol": "D'aventura castigats",
     "codi": "daventura-castigats",
     "edat": "7"
@@ -1609,6 +1621,12 @@
     "edat": "0"
   },
   {
+    "titol": "Lara i Kali 9",
+    "codi": "6193871",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu"
+  },
+  {
     "titol": "Les aventures d'en Massagran",
     "codi": "aventures-massagran",
     "edat": "7"
@@ -2459,6 +2477,12 @@
     "titol": "Manduka 60",
     "codi": "6191244",
     "edat": "0"
+  },
+  {
+    "titol": "Manduka 61",
+    "codi": "6192569",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Marika",
