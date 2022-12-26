@@ -2868,12 +2868,18 @@
     "titol": "Nico 2",
     "codi": "5806346",
     "edat": "0",
-    "raons": "Por i angoixa freqüent d'afectació lleu"
+    "raons": "Por i angoixa freqüent d'afectació lleu;Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Perduts a Oz",
     "codi": "perduts-a-oz",
     "edat": "7"
+  },
+  {
+    "titol": "Pinotxo i la seva amiga Coco",
+    "codi": "5817536",
+    "edat": "7",
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat molt lleu, no legitimada;Por i angoixa freqüent d'afectació lleu;Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Presto",
@@ -3274,6 +3280,12 @@
     "codi": "6186998",
     "edat": "10",
     "raons": "Por i angoixa freqüent d'afectació mitjana"
+  },
+  {
+    "titol": "Spirit Nadal",
+    "codi": "6075676",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu"
   },
   {
     "titol": "Theodosia",
