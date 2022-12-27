@@ -179,11 +179,6 @@
     "edat": "0"
   },
   {
-    "titol": "Beta",
-    "codi": "beta",
-    "edat": "7"
-  },
-  {
     "titol": "Betapodcast 11",
     "codi": "6182840",
     "edat": "7",
@@ -233,6 +228,12 @@
   {
     "titol": "Beta 1x11",
     "codi": "6192126",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu"
+  },
+  {
+    "titol": "Beta 1x12",
+    "codi": "6193442",
     "edat": "0",
     "raons": "Por i angoixa ocasional d'afectació lleu"
   },
@@ -633,6 +634,17 @@
     "codi": "6190210",
     "edat": "13",
     "raons": "Violència freqüent, versemblant, explícita, d'intensitat greu, no legitimada"
+  },
+  {
+    "titol": "El manual dels dracs titol",
+    "codi": "manual-dracs",
+    "edat": "7"
+  },
+  {
+    "titol": "El manual dels dracs",
+    "codi": "6087816",
+    "edat": "7",
+    "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, legitimada;Por i angoixa freqüent d'afectació lleu"
   },
   {
     "titol": "El millor en tot",
@@ -1625,6 +1637,17 @@
     "titol": "Kung Fu Panda: llegendes increïbles",
     "codi": "kung-fu-panda-llegendes-increibles",
     "edat": "7"
+  },
+  {
+    "titol": "La llegenda del drac trencaossos titol",
+    "codi": "llegenda-dracs-trencaossos",
+    "edat": "7"
+  },
+  {
+    "titol": "La llegenda del drac trencaossos",
+    "codi": "6087810",
+    "edat": "7",
+    "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, legitimada;Por i angoixa freqüent d'afectació lleu"
   },
   {
     "titol": "Lara i Kali",
@@ -3088,6 +3111,12 @@
   {
     "titol": "Sam Fox 3",
     "codi": "6060120",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu"
+  },
+  {
+    "titol": "Sam Fox 4",
+    "codi": "6061201",
     "edat": "7",
     "raons": "Por i angoixa freqüent d'afectació lleu"
   },
