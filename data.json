@@ -3121,6 +3121,12 @@
     "raons": "Por i angoixa freqüent d'afectació lleu"
   },
   {
+    "titol": "Sam Fox 5",
+    "codi": "6062303",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu"
+  },
+  {
     "titol": "Sam Fox 8",
     "codi": "6065591",
     "edat": "7",
@@ -3343,6 +3349,18 @@
   {
     "titol": "Theodosia 4",
     "codi": "6192342",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu"
+  },
+  {
+    "titol": "Theodosia 5",
+    "codi": "6191973",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu"
+  },
+  {
+    "titol": "Theodosia 6",
+    "codi": "6193077",
     "edat": "0",
     "raons": "Por i angoixa ocasional d'afectació lleu"
   },
