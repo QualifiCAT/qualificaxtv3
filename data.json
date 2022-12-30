@@ -174,6 +174,12 @@
     "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada;Llenguatge groller freqüent d'intensitat baixa;Consum de drogues lícites (alcohol) presentat negativament;Conductes i valors incívics amb sanció negativa"
   },
   {
+    "titol": "Asterix residència déus",
+    "codi": "6194455",
+    "edat": "7",
+    "raons": "Violència reiterada, irreal, explícita, d'intensitat molt lleu, legitimada;Contingut sexual ocasional d'intensitat baixa;Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
     "titol": "Bestial",
     "codi": "bestial",
     "edat": "0"
@@ -1147,6 +1153,18 @@
     "titol": "Haikyu 2x20",
     "codi": "6191890",
     "edat": "0"
+  },
+  {
+    "titol": "Haikyu 2x21",
+    "codi": "6193231",
+    "edat": "7",
+    "raons": "Contingut sexual ocasional d'explicitació baixa;Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "Haikyu 2x22",
+    "codi": "6193453",
+    "edat": "10",
+    "raons": "Consum de tabac presentat de manera neutra"
   },
   {
     "titol": "Hoodie",
@@ -3127,6 +3145,18 @@
     "raons": "Por i angoixa freqüent d'afectació lleu"
   },
   {
+    "titol": "Sam Fox 6",
+    "codi": "6063414",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu"
+  },
+  {
+    "titol": "Sam Fox 7",
+    "codi": "6064455",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu"
+  },
+  {
     "titol": "Sam Fox 8",
     "codi": "6065591",
     "edat": "7",
@@ -3365,6 +3395,30 @@
     "raons": "Por i angoixa ocasional d'afectació lleu"
   },
   {
+    "titol": "Theodosia 7",
+    "codi": "6192165",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu"
+  },
+  {
+    "titol": "Theodosia 8",
+    "codi": "6193230",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu"
+  },
+  {
+    "titol": "Theodosia 9",
+    "codi": "6192596",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu;Conductes i valors incívics amb sanció negativa"
+  },
+  {
+    "titol": "Theodosia 10",
+    "codi": "6193454",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu;Conductes i valors incívics amb sanció negativa"
+  },
+  {
     "titol": "Top or fail",
     "codi": "top-or-fail",
     "edat": "7"
@@ -3446,6 +3500,11 @@
     "titol": "Un dramarama total",
     "codi": "dramarama-total",
     "edat": "7"
+  },
+  {
+    "titol": "Vicky viking",
+    "codi": "vicky-el-viquing",
+    "edat": "0"
   },
   {
     "titol": "Yu Yu Hakusho",
