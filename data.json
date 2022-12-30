@@ -1,7 +1,6 @@
 [
   {
     "titol": "Videoclip: Adiós Jawny",
-    "codi": "6184135",
     "edat": "0"
   },
   {
@@ -3416,7 +3415,19 @@
     "titol": "Theodosia 10",
     "codi": "6193454",
     "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu;Conductes i valors incívics amb sanció negativa"
+    "raons": "Por i angoixa freqüent d'afectació lleu"
+  },
+  {
+    "titol": "Theodosia 11",
+    "codi": "6192593",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "Theodosia 12",
+    "codi": "6193675",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu"
   },
   {
     "titol": "Top or fail",
