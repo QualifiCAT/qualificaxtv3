@@ -261,6 +261,12 @@
     "raons": "Consum de drogues lícites (alcohol) presentat de forma neutra"
   },
   {
+    "titol": "Club Winx aventura màgica",
+    "codi": "5817761",
+    "edat": "7",
+    "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, legitimada;Por i angoixa freqüent d'afectació lleu;(Nota: Inclou reiteradament estereotips de gènere que poden ser problemàtics.)"
+  },
+  {
     "titol": "D'aventura castigats",
     "codi": "daventura-castigats",
     "edat": "7"
@@ -1119,6 +1125,12 @@
     "codi": "6186311",
     "edat": "13",
     "raons": "Violència freqüent, irreal, molt explícita, d'intensitat greu, no legitimada;Por i angoixa freqüent d'afectació alta"
+  },
+  {
+    "titol": "Guardians de la nit Tren infinit",
+    "codi": "6193236",
+    "edat": "13",
+    "raons": "Violència freqüent, irreal, molt explícita, d'intensitat greu, legitimada;Por i angoixa freqüent d'afectació alta"
   },
   {
     "titol": "Haikyu",
