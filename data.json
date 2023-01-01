@@ -6,7 +6,6 @@
   },
   {
     "titol": "Videoclip: Beta Creu-me",
-    "codi": "6177853",
     "edat": "0"
   },
   {
@@ -2537,6 +2536,12 @@
     "raons": "Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
   },
   {
+    "titol": "Lupin III The First",
+    "codi": "6194572",
+    "edat": "13",
+    "raons": "Violència freqüent, versemblant, explícita, d'intensitat lleu, legitimada"
+  },
+  {
     "titol": "Manduka 33",
     "codi": "6099549",
     "edat": "10",
@@ -2951,7 +2956,7 @@
     "titol": "Pinotxo i la seva amiga Coco",
     "codi": "5817536",
     "edat": "7",
-    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat molt lleu, no legitimada;Por i angoixa freqüent d'afectació lleu;Conductes i valors incívics amb sanció negativa"
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada;Por i angoixa freqüent d'afectació lleu;Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Presto",
@@ -2976,8 +2981,8 @@
   {
     "titol": "Robby toby viatge",
     "codi": "5807504",
-    "edat": "7",
-    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada;Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+    "edat": "10,
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada;Llenguatge groller ocasional d'intensitat alta"
   },
   {
     "titol": "Ronja",
