@@ -244,6 +244,12 @@
     "raons": "Por i angoixa ocasional d'afectació lleu"
   },
   {
+    "titol": "Beta 1x13",
+    "codi": "6194894",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu"
+  },
+  {
     "titol": "Black Clover",
     "codi": "black-clover",
     "edat": "13"
@@ -2599,6 +2605,12 @@
     "raons": "Llenguatge groller ocasional d'intensitat baixa"
   },
   {
+    "titol": "Manduka 62",
+    "codi": "6193902",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
     "titol": "Marika",
     "codi": "marika",
     "edat": "10"
@@ -2960,6 +2972,12 @@
     "titol": "Robin Hood el trapella de Sherwood",
     "codi": "robin-hood-mischief-sherwood",
     "edat": "0"
+  },
+  {
+    "titol": "Robby toby viatge",
+    "codi": "5807504",
+    "edat": "7",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada;Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Ronja",
@@ -3536,6 +3554,17 @@
     "titol": "Un dramarama total",
     "codi": "dramarama-total",
     "edat": "7"
+  },
+  {
+    "titol": "X3 Games titol temp",
+    "codi": "koreo",
+    "edat": "7"
+  },
+  {
+    "titol": "X3 Games",
+    "codi": "6195069",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Vicky viking",
