@@ -925,6 +925,12 @@
     "edat": "0"
   },
   {
+    "titol": "Eufòria dance millors moments",
+    "codi": "6194125",
+    "edat": "10",
+    "raons": "Contingut sexual, ocasionalment d'explicitació mitjana"
+  },
+  {
     "titol": "Flying Squirrels",
     "codi": "flying-squirrels",
     "edat": "7"
@@ -1189,6 +1195,12 @@
     "codi": "6193453",
     "edat": "10",
     "raons": "Consum de tabac presentat de manera neutra"
+  },
+  {
+    "titol": "Haikyu 2x23",
+    "codi": "6194225",
+    "edat": "7",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada"
   },
   {
     "titol": "Hoodie",
@@ -3469,6 +3481,18 @@
   {
     "titol": "Theodosia 12",
     "codi": "6193675",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu"
+  },
+  {
+    "titol": "Theodosia 13",
+    "codi": "6192595",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu;Conductes i valors incívics amb sanció negativa"
+  },
+  {
+    "titol": "Theodosia 14",
+    "codi": "6193725",
     "edat": "0",
     "raons": "Por i angoixa ocasional d'afectació lleu"
   },
