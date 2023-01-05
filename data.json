@@ -1203,6 +1203,18 @@
     "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada"
   },
   {
+    "titol": "Haikyu 2x24",
+    "codi": "6194310",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "Haikyu 2x25",
+    "codi": "6194409",
+    "edat": "7",
+    "raons": "Contingut sexual ocasional d'explicitació baixa;Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
     "titol": "Hoodie",
     "codi": "hoddie",
     "edat": "10"
@@ -3495,6 +3507,30 @@
     "codi": "6193725",
     "edat": "0",
     "raons": "Por i angoixa ocasional d'afectació lleu"
+  },
+  {
+    "titol": "Theodosia 15",
+    "codi": "6193732",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu"
+  },
+  {
+    "titol": "Theodosia 16",
+    "codi": "6194234",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "Theodosia 17",
+    "codi": "6193735",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "Theodosia 18",
+    "codi": "6194408",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu"
   },
   {
     "titol": "Thor martell màgic",
