@@ -1215,6 +1215,12 @@
     "raons": "Contingut sexual ocasional d'explicitació baixa;Llenguatge groller ocasional d'intensitat baixa"
   },
   {
+    "titol": "Haikyu 3x01",
+    "codi": "6195598",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
     "titol": "Hoodie",
     "codi": "hoddie",
     "edat": "10"
@@ -3531,6 +3537,18 @@
     "codi": "6194408",
     "edat": "7",
     "raons": "Por i angoixa freqüent d'afectació lleu"
+  },
+  {
+    "titol": "Theodosia 19",
+    "codi": "6193733",
+    "edat": "7",
+    "raons": "Por i angoixa ocasional d'afectació mitjana"
+  },
+  {
+    "titol": "Theodosia 20",
+    "codi": "6194571",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu;Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Thor martell màgic",
