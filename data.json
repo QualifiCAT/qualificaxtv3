@@ -942,6 +942,12 @@
     "raons": "Contingut sexual reiterat d'explicitació baixa, ocasionalment mitjana"
   },
   {
+    "titol": "Eufòria el concert",
+    "codi": "6194729",
+    "edat": "10",
+    "raons": "Contingut sexual ocasional d'explicitació mitjana"
+  },
+  {
     "titol": "Flying Squirrels",
     "codi": "flying-squirrels",
     "edat": "7"
@@ -1667,6 +1673,36 @@
     "codi": "6195457",
     "edat": "10",
     "raons": "Llenguatge groller freqüent d'intensitat baixa;Conductes i valors incívics amb sanció neutra"
+  },
+  {
+    "titol": "Hoodie 2x21",
+    "codi": "6195461",
+    "edat": "10",
+    "raons": "Conductes i valors incívics amb sanció neutra"
+  },
+  {
+    "titol": "Hoodie 2x22",
+    "codi": "6195462",
+    "edat": "7",
+    "raons": "Por i angoixa ocasional d'afectació mitjana;Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+  },
+  {
+    "titol": "Hoodie 2x23",
+    "codi": "6195464",
+    "edat": "10",
+    "raons": "Por i angoixa freqüent d'afectació mitjana;Llenguatge groller freqüent d'intensitat baixa;Conductes i valors incívics amb sanció neutra"
+  },
+  {
+    "titol": "Hoodie 2x24",
+    "codi": "6195467",
+    "edat": "10",
+    "raons": "Conductes i valors incívics amb sanció neutra"
+  },
+  {
+    "titol": "Hoodie 2x25",
+    "codi": "6195465",
+    "edat": "10",
+    "raons": "Violència verbal freqüent, d'intensitat lleu"
   },
   {
     "titol": "Ideafix",
