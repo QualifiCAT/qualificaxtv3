@@ -654,6 +654,17 @@
     "raons": "Violència freqüent, versemblant, explícita, d'intensitat greu, no legitimada"
   },
   {
+    "titol": "El llibre de la selva",
+    "codi": "llibre-selva",
+    "edat": "7"
+  },
+  {
+    "titol": "El llibre de la selva xafarranxo",
+    "codi": "3886430",
+    "edat": "7",
+    "raons": "Violència ocasional, irreal, explícita, d'intensitat molt lleu, legitimada;Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+  },
+  {
     "titol": "El manual dels dracs titol",
     "codi": "manual-dracs",
     "edat": "7"
@@ -1614,6 +1625,48 @@
     "codi": "6189093",
     "edat": "10",
     "raons": "Conductes i valors incívics amb sanció neutra"
+  },
+  {
+    "titol": "Hoodie 2x14",
+    "codi": "6195454",
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa;Conductes i valors incívics amb sanció neutra"
+  },
+  {
+    "titol": "Hoodie 2x15",
+    "codi": "6195453",
+    "edat": "10",
+    "raons": "Por i angoixa freqüent d'afectació mitjana"
+  },
+  {
+    "titol": "Hoodie 2x16",
+    "codi": "6195456",
+    "edat": "10",
+    "raons": "Por i angoixa freqüent d'afectació mitjana;Conductes i valors incívics amb sanció neutra"
+  },
+  {
+    "titol": "Hoodie 2x17",
+    "codi": "6195455",
+    "edat": "10",
+    "raons": "Conductes i valors incívics amb sanció neutra"
+  },
+  {
+    "titol": "Hoodie 2x18",
+    "codi": "6195458",
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa"
+  },
+  {
+    "titol": "Hoodie 2x19",
+    "codi": "6195459",
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa"
+  },
+  {
+    "titol": "Hoodie 2x20",
+    "codi": "6195457",
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa;Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "Ideafix",
@@ -2647,6 +2700,11 @@
     "raons": "Llenguatge groller ocasional d'intensitat baixa"
   },
   {
+    "titol": "Manduka 63",
+    "codi": "6194911",
+    "edat": "0"
+  },
+  {
     "titol": "Marika",
     "codi": "marika",
     "edat": "10"
@@ -3177,6 +3235,11 @@
     "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada;Por i angoixa freqüent d'afectació lleu"
   },
   {
+    "titol": "Rovelló",
+    "codi": "rovello",
+    "edat": "7"
+  },
+  {
     "titol": "Sadie Sparks",
     "codi": "sadie-sparks",
     "edat": "0"
@@ -3561,6 +3624,18 @@
     "codi": "6194721",
     "edat": "7",
     "raons": "Por i angoixa ocasional d'afectació mitjana"
+  },
+  {
+    "titol": "Theodosia 23",
+    "codi": "6194906",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu;Conductes i valors incívics amb sanció negativa"
+  },
+  {
+    "titol": "Theodosia 24",
+    "codi": "6194910",
+    "edat": "7",
+    "raons": "Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Thor martell màgic",
