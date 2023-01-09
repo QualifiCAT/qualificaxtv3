@@ -255,6 +255,12 @@
     "edat": "13"
   },
   {
+    "titol": "Black Clover 1",
+    "codi": "6195751",
+    "edat": "10",
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat greu, no legitimada"
+  },
+  {
     "titol": "Blinky Bill el coala",
     "codi": "5806569",
     "edat": "7",
@@ -797,6 +803,12 @@
     "edat": "0"
   },
   {
+    "titol": "Els investigadors i el tresor de les profunditats marines",
+    "codi": "6194917",
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa;Conductes i valors incívics amb sanció neutra"
+  },
+  {
     "titol": "Els pingüins de Madagascar",
     "codi": "pinguins-madagascar",
     "edat": "7"
@@ -1236,6 +1248,12 @@
     "codi": "6195598",
     "edat": "7",
     "raons": "Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "Haikyu 3x02",
+    "codi": "6195600",
+    "edat": "7",
+    "raons": "Al·lusió implícita al suïcidi;Contingut sexual ocasional d'explicitació baixa"
   },
   {
     "titol": "Hoodie",
@@ -1705,6 +1723,36 @@
     "raons": "Violència verbal freqüent, d'intensitat lleu"
   },
   {
+    "titol": "Hoodie 2x26",
+    "codi": "6195463",
+    "edat": "7",
+    "raons": "Situacions de racisme i masclisme presentades negativament;Conductes i valors incívics amb sanció negativa"
+  },
+  {
+    "titol": "Hoodie 2x27",
+    "codi": "6195468",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "Hoodie 2x28",
+    "codi": "6195469",
+    "edat": "10",
+    "raons": "Llenguatge groller ocasional d'intensitat alta;Conductes i valors incívics amb sanció neutra"
+  },
+  {
+    "titol": "Hoodie 2x29",
+    "codi": "6195466",
+    "edat": "10",
+    "raons": "Llenguatge groller ocasional d'intensitat alta"
+  },
+  {
+    "titol": "Hoodie 2x30",
+    "codi": "6195470",
+    "edat": "10",
+    "raons": "Llenguatge groller ocasional d'intensitat alta;Conductes i valors incívics amb sanció neutra"
+  },
+  {
     "titol": "Ideafix",
     "codi": "ideafix-irreductibles",
     "edat": "0"
@@ -1720,7 +1768,7 @@
     "edat": "0"
   },
   {
-    "titol": "Influenx3r 1",
+    "titol": "Influenx3r 0",
     "codi": "6195948",
     "edat": "0"
   },
@@ -3304,6 +3352,11 @@
   {
     "titol": "Sam Fox aventures extremes",
     "codi": "sam-fox-aventures-extremes",
+    "edat": "7"
+  },
+  {
+    "titol": "Sakura la caçadora de cartes",
+    "codi": "sakura-cacadora-cartes",
     "edat": "7"
   },
   {
