@@ -261,6 +261,12 @@
     "raons": "Violència ocasional, irreal, no explícita, d'intensitat greu, no legitimada"
   },
   {
+    "titol": "Black Clover 2",
+    "codi": "6195765",
+    "edat": "10",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada"
+  },
+  {
     "titol": "Blinky Bill el coala",
     "codi": "5806569",
     "edat": "7",
@@ -1254,6 +1260,12 @@
     "codi": "6195600",
     "edat": "7",
     "raons": "Al·lusió implícita al suïcidi;Contingut sexual ocasional d'explicitació baixa"
+  },
+  {
+    "titol": "Haikyu 3x03",
+    "codi": "6195599",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Hoodie",
