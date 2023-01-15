@@ -2852,6 +2852,12 @@
     "edat": "0"
   },
   {
+    "titol": "Manduka 64",
+    "codi": "6195947",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu"
+  },
+  {
     "titol": "Marika",
     "codi": "marika",
     "edat": "10"
@@ -3645,6 +3651,18 @@
     "codi": "6195786",
     "edat": "10",
     "raons": "Por i angoixa freqüent d'afectació mitjana"
+  },
+  {
+    "titol": "Sense sortida 3x03",
+    "codi": "6195789",
+    "edat": "10",
+    "raons": "Por i angoixa freqüent d'afectació mitjana"
+  },
+  {
+    "titol": "Sense sortida 3x04",
+    "codi": "6195787",
+    "edat": "10",
+    "raons": "Violència freqüent, irreal, no explícita, d'intensitat lleu, no legitimada (combats i agressions fantasioses, violència psicològica);Por i angoixa freqüent d'afectació mitjana"
   },
   {
     "titol": "Spirit Nadal",
