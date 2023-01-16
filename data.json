@@ -290,6 +290,12 @@
     "raons": "Violència ocasional, irreal, no explícita, d'intensitat lleu, legitimada;Consum de tabac presentat de forma neutra"
   },
   {
+    "titol": "Black Clover 5",
+    "codi": "6196135",
+    "edat": "13",
+    "raons": "Consum de drogues lícites (tabac), presentades de forma neutra"
+  },
+  {
     "titol": "Blinky Bill el coala",
     "codi": "5806569",
     "edat": "7",
@@ -1303,6 +1309,12 @@
     "raons": "Llenguatge groller freqüent d'intensitat baixa"
   },
   {
+    "titol": "Haikyu 3x06",
+    "codi": "6196134",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
     "titol": "Hoodie",
     "codi": "hoddie",
     "edat": "10"
@@ -1813,6 +1825,12 @@
     "titol": "Influenx3r 0",
     "codi": "6195948",
     "edat": "0"
+  },
+  {
+    "titol": "Influenx3r 1",
+    "codi": "6197406",
+    "edat": "7",
+    "raons": "Violència ocasional, irreal, explícita, d'intensitat molt lleu, legitimada;Conductes incíviques presentades de manera neutra"
   },
   {
     "titol": "Itch",
@@ -2855,7 +2873,7 @@
     "titol": "Manduka 64",
     "codi": "6195947",
     "edat": "0",
-    "raons": "Por i angoixa ocasional d'afectació lleu"
+    "raons": "Por i angoixa ocasional d'afectació lleu (al·lusions a l'assetjament escolar)"
   },
   {
     "titol": "Marika",
@@ -3663,6 +3681,18 @@
     "codi": "6195787",
     "edat": "10",
     "raons": "Violència freqüent, irreal, no explícita, d'intensitat lleu, no legitimada (combats i agressions fantasioses, violència psicològica);Por i angoixa freqüent d'afectació mitjana"
+  },
+  {
+    "titol": "Sense sortida 3x05",
+    "codi": "6195788",
+    "edat": "10",
+    "raons": "Por i angoixa reiterada d'afectació lleu"
+  },
+  {
+    "titol": "Sense sortida 3x06",
+    "codi": "6195793",
+    "edat": "10",
+    "raons": "Por i angoixa freqüent d'afectació mitjana"
   },
   {
     "titol": "Spirit Nadal",
