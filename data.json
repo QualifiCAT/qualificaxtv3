@@ -299,7 +299,13 @@
     "titol": "Black Clover 6",
     "codi": "6196222",
     "edat": "13",
-    "raons": "Consum de drogues lícites (tabac, alcohol), presentades de forma neutra;Estereotips de gènere, presentats de manera neutra"
+    "raons": "Consum de drogues lícites (tabac, alcohol), presentades de forma neutra;(L'episodi presenta freqüents estereotips de gènere.)"
+  },
+  {
+    "titol": "Black Clover 7",
+    "codi": "6196443",
+    "edat": "10",
+    "raons": "Consum de drogues lícites (tabac), presentades de forma neutra;Llenguatge groller freqüent d'intensitat baixa;(L'episodi presenta estereotips de gènere i algunes imatges cosificadores.)"
   },
   {
     "titol": "Blinky Bill el coala",
@@ -847,7 +853,7 @@
     "titol": "Els investigadors i el tresor de les profunditats marines",
     "codi": "6194917",
     "edat": "10",
-    "raons": "Llenguatge groller freqüent d'intensitat baixa;Conductes i valors incívics amb sanció neutra"
+    "raons": "Llenguatge groller freqüent d'intensitat baixa;Conductes i valors incívics amb sanció neutra (activitats perilloses, manca de respecte mutu)"
   },
   {
     "titol": "Els pingüins de Madagascar",
@@ -1324,7 +1330,13 @@
     "titol": "Haikyu 3x07",
     "codi": "6196221",
     "edat": "7",
-    "raons": "Por i angoixa ocasional d'afectació mitjana (ferides amb sang);Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Por i angoixa ocasional d'afectació mitjana (ferides amb sang);Discriminació per raons d'aparença física, presentat negativament;Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "Haikyu 3x08",
+    "codi": "6196442",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu"
   },
   {
     "titol": "Hoodie",
@@ -4178,5 +4190,23 @@
     "codi": "6195775",
     "edat": "7",
     "raons": "Al·lusions sexuals ocasionals d'explicitació baixa;Por i angoixa ocasional d'afectació mitjana;Situacions xenòfobes presentades negativament;Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics presentats negativament (actituds perilloses)"
-  }
+  },
+  {
+    "titol": "ZombieLars 3x05",
+    "codi": "6195778",
+    "edat": "10",
+    "raons": "Conductes i valors incívics amb sanció neutra"
+  },
+  {
+    "titol": "ZombieLars 3x06",
+    "codi": "6195779",
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa;Conductes i valors incívics amb sanció neutra (burla d'un amic)"
+  },
+  {
+    "titol": "ZombieLars 3x07",
+    "codi": "6195777",
+    "edat": "10",
+    "raons": "Por i angoixa freqüent d'afectació mitjana;Conductes i valors incívics amb sanció neutra"
+  },
 ]
