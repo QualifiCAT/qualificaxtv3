@@ -308,6 +308,12 @@
     "raons": "Consum de drogues lícites (tabac), presentades de forma neutra;Llenguatge groller freqüent d'intensitat baixa;(L'episodi presenta estereotips de gènere i algunes imatges cosificadores.)"
   },
   {
+    "titol": "Black Clover 8",
+    "codi": "6196691",
+    "edat": "13",
+    "raons": "Consum de drogues lícites (tabac, alcohol), presentades de forma neutra;(L'episodi presenta freqüents estereotips de gènere.)"
+  },
+  {
     "titol": "Blinky Bill el coala",
     "codi": "5806569",
     "edat": "7",
@@ -1339,6 +1345,12 @@
     "raons": "Por i angoixa ocasional d'afectació lleu"
   },
   {
+    "titol": "Haikyu 3x09",
+    "codi": "6196692",
+    "edat": "10"
+    "raons": "Llenguatge groller freqüent d'intensitat baixa"
+  },
+  {
     "titol": "Hoodie",
     "codi": "hoddie",
     "edat": "10"
@@ -1834,6 +1846,36 @@
     "codi": "6195470",
     "edat": "10",
     "raons": "Llenguatge groller ocasional d'intensitat alta;Conductes i valors incívics amb sanció neutra"
+  },
+  {
+    "titol": "Hoodie 2x31",
+    "codi": "6197993",
+    "edat": "10",
+    "raons": "Llenguatge groller ocasional d'intensitat alta;Conductes i valors incívics amb sanció neutra"
+  },
+  {
+    "titol": "Hoodie 2x32",
+    "codi": "6197929",
+    "edat": "10",
+    "raons": "Conductes i valors incívics amb sanció neutra"
+  },
+  {
+    "titol": "Hoodie 2x33",
+    "codi": "6197989",
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa"
+  },
+  {
+    "titol": "Hoodie 2x34",
+    "codi": "6197932",
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa"
+  },
+  {
+    "titol": "Hoodie 2x35",
+    "codi": "6197931",
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa;Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "Ideafix",
