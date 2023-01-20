@@ -4249,7 +4249,7 @@
     "titol": "ZombieLars 3x07",
     "codi": "6195777",
     "edat": "10",
-    "raons": "Por i angoixa freqüent d'afectació mitjana;Conductes i valors incívics amb sanció neutra"
+    "raons": "Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "ZombieLars 3x08",
@@ -4262,5 +4262,11 @@
     "codi": "6195783",
     "edat": "10",
     "raons": "Por i angoixa reiterada d'afectació lleu"
+  },
+  {
+    "titol": "ZombieLars 3x10",
+    "codi": "6195781",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu;Al·lusions al consum de drogues lícites (tabac, alcohol), presentades de manera negativa"
   }
 ]
