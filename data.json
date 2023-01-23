@@ -330,6 +330,12 @@
     "raons": "Consum de drogues lícites (tabac, alcohol), presentades de forma neutra;(L'episodi presenta freqüents estereotips de gènere.)"
   },
   {
+    "titol": "Black Clover 9",
+    "codi": "6197527",
+    "edat": "10",
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada;Consum de drogues lícites (tabac), presentades de forma neutra;Llenguatge groller freqüent d'intensitat baixa"
+  },
+  {
     "titol": "Blinky Bill el coala",
     "codi": "5806569",
     "edat": "7",
@@ -1365,6 +1371,12 @@
     "codi": "6196692",
     "edat": "10",
     "raons": "Llenguatge groller freqüent d'intensitat baixa"
+  },
+  {
+    "titol": "Haikyu 3x10",
+    "codi": "6197522",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Hoodie",
