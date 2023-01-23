@@ -261,6 +261,22 @@
     "raons": "Por i angoixa ocasional d'afectació lleu"
   },
   {
+    "titol": "Beta 2x01",
+    "codi": "6197636",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu"
+  },
+  {
+    "titol": "Beta 2x02",
+    "codi": "6197395",
+    "edat": "0"
+  },
+  {
+    "titol": "Beta 2x03",
+    "codi": "6198308",
+    "edat": "0"
+  },
+  {
     "titol": "Black Clover",
     "codi": "black-clover",
     "edat": "13"
@@ -1878,6 +1894,60 @@
     "raons": "Llenguatge groller freqüent d'intensitat baixa;Conductes i valors incívics amb sanció neutra"
   },
   {
+    "titol": "Hoodie 2x36",
+    "codi": "6197995",
+    "edat": "7",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada;Por i angoixa freqüent d'afectació lleu;Conductes i valors incívics amb sanció negativa"
+  },
+  {
+    "titol": "Hoodie 2x37",
+    "codi": "6197986",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+  },
+  {
+    "titol": "Hoodie 2x38",
+    "codi": "6197987",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+  },
+  {
+    "titol": "Hoodie 2x39",
+    "codi": "6197984",
+    "edat": "10",
+    "raons": "Por i angoixa freqüent d'afectació mitjana;Conductes i valors incívics amb sanció neutra"
+  },
+  {
+    "titol": "Hoodie 2x40",
+    "codi": "6197991",
+    "edat": "10",
+    "raons": "Conductes i valors incívics amb sanció neutra"
+  },
+  {
+    "titol": "Hoodie 2x41",
+    "codi": "6197416",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+  },
+  {
+    "titol": "Hoodie 2x42",
+    "codi": "6197417",
+    "edat": "10",
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada;Conductes i valors incívics amb sanció neutra"
+  },
+  {
+    "titol": "Hoodie 2x43",
+    "codi": "6197419",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+  },
+  {
+    "titol": "Hoodie 2x44",
+    "codi": "6197418",
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa"
+  },
+  {
     "titol": "Ideafix",
     "codi": "ideafix-irreductibles",
     "edat": "0"
@@ -1897,6 +1967,12 @@
     "codi": "6197406",
     "edat": "7",
     "raons": "Violència ocasional, irreal, explícita, d'intensitat molt lleu, legitimada;Conductes incíviques presentades de manera neutra"
+  },
+  {
+    "titol": "Influenx3r 2",
+    "codi": "6198761",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa ('fotre', 'merda', 'collonut', 'tonto')"
   },
   {
     "titol": "Itch",
@@ -2940,6 +3016,12 @@
     "codi": "6195947",
     "edat": "0",
     "raons": "Por i angoixa ocasional d'afectació lleu (al·lusions a l'assetjament escolar)"
+  },
+  {
+    "titol": "Manduka 65",
+    "codi": "6197180",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa ('collonut', 'cagada')"
   },
   {
     "titol": "Marika",
@@ -4274,5 +4356,17 @@
     "codi": "6195780",
     "edat": "7",
     "raons": "Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "ZombieLars 3x12",
+    "codi": "6195782",
+    "edat": "7",
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat molt lleu, no legitimada;Por i angoixa ocasional d'afectació mitjana;Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "ZombieLars 3x13",
+    "codi": "6195784",
+    "edat": "7",
+    "raons": "Al·lusions sexuals ocasionals d'explicitació baixa;Llenguatge groller ocasional d'intensitat baixa"
   }
 ]
