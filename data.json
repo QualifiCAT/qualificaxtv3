@@ -336,6 +336,12 @@
     "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada;Consum de drogues lícites (tabac), presentades de forma neutra;Llenguatge groller freqüent d'intensitat baixa"
   },
   {
+    "titol": "Black Clover 10",
+    "codi": "6197632",
+    "edat": "13",
+    "raons": "Violència ocasional, irreal, explícita, d'intensitat greu, legitimada"
+  },
+  {
     "titol": "Blinky Bill el coala",
     "codi": "5806569",
     "edat": "7",
@@ -1377,6 +1383,12 @@
     "codi": "6197522",
     "edat": "7",
     "raons": "Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "Haikyu OVA 1",
+    "codi": "6197633",
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa"
   },
   {
     "titol": "Hoodie",
