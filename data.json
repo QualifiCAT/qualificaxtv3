@@ -277,6 +277,12 @@
     "edat": "0"
   },
   {
+    "titol": "Beta 2x04",
+    "codi": "6200222",
+    "edat": "7",
+    "raons": "Conductes i valors incívics presentats de manera neutra"
+  },
+  {
     "titol": "Black Clover",
     "codi": "black-clover",
     "edat": "13"
@@ -2021,6 +2027,11 @@
     "codi": "6198761",
     "edat": "7",
     "raons": "Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "Influenx3r 3",
+    "codi": "6200227",
+    "edat": "0"
   },
   {
     "titol": "Itch",
