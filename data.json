@@ -363,13 +363,18 @@
     "titol": "Black Clover 13",
     "codi": "6198901",
     "edat": "7",
-    "raons": "Violència freqüent, irreal, no explícita, d'intensitat molt lleu, legitimada;Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa"
-  },
+    "raons": "Violència freqüent, irreal, no explícita, d'intensitat molt lleu, legitimada;Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa"  },
   {
     "titol": "Black Clover 14",
     "codi": "6198995",
     "edat": "10",
     "raons": "Consum de drogues lícites (tabac, alcohol), presentades de forma neutra"
+  },
+  {
+    "titol": "Black Clover 15",
+    "codi": "6199222",
+    "edat": "10",
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat lleu, legitimada;Llenguatge groller freqüent d'intensitat baixa"
   },
   {
     "titol": "Blinky Bill el coala",
@@ -1443,6 +1448,12 @@
     "codi": "6198996",
     "edat": "7",
     "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada (atacs esportius que acaben en lesions lleus o còmiques);Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "Haikyu 4x04",
+    "codi": "6199221",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Hoodie",
@@ -3473,6 +3484,12 @@
     "titol": "Ranma",
     "codi": "ranma",
     "edat": "13"
+  },
+  {
+    "titol": "Ranma 1",
+    "codi": "6198899",
+    "edat": "13",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat greu, no legitimada (assetjament sexual);Drogues lícites (alcohol), presentades de manera neutra;Comportaments basats en estereotips de gènere, presentats de forma neutra"
   },
   {
     "titol": "Robin Hood el trapella de Sherwood",
