@@ -931,6 +931,23 @@
     "raons": "Llenguatge groller freqüent d'intensitat baixa;Conductes i valors incívics amb sanció neutra (activitats perilloses, manca de respecte mutu)"
   },
   {
+    "titol": "Els Mini Ninges",
+    "codi": "mini-ninges",
+    "edat": "7"
+  },
+  {
+    "titol": "Els Mini Ninges 1",
+    "codi": "5874613",
+    "edat": "7",
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, legitimada;Por i angoixa freqüent d'afectació lleu"
+  },
+  {
+    "titol": "Els Mini Ninges 2",
+    "codi": "5874617",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
     "titol": "Els pingüins de Madagascar",
     "codi": "pinguins-madagascar",
     "edat": "7"
@@ -3133,6 +3150,12 @@
     "titol": "Manduka 66",
     "codi": "6198553",
     "edat": "0"
+  },
+  {
+    "titol": "Manduka 67",
+    "codi": "6199981",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu"
   },
   {
     "titol": "Marika",
