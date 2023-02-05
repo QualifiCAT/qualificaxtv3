@@ -283,6 +283,12 @@
     "raons": "Conductes i valors incívics presentats de manera neutra"
   },
   {
+    "titol": "Beta 2x05",
+    "codi": "6201380",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu"
+  },
+  {
     "titol": "Black Clover",
     "codi": "black-clover",
     "edat": "13"
@@ -2096,6 +2102,12 @@
     "titol": "Influenx3r 3",
     "codi": "6200227",
     "edat": "0"
+  },
+  {
+    "titol": "Influenx3r 4",
+    "codi": "6201601",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu (al·lusions a l'assetjament i a salut mental);Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Inuyasha",
