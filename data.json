@@ -413,7 +413,8 @@
     "titol": "Black Clover 13",
     "codi": "6198901",
     "edat": "7",
-    "raons": "Violència freqüent, irreal, no explícita, d'intensitat molt lleu, legitimada;Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa"  },
+    "raons": "Violència freqüent, irreal, no explícita, d'intensitat molt lleu, legitimada;Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa"  
+  },
   {
     "titol": "Black Clover 14",
     "codi": "6198995",
@@ -437,6 +438,12 @@
     "codi": "6200435",
     "edat": "10",
     "raons": "Violència freqüent, irreal, no explícita, d'intensitat lleu, legitimada (amb presència de sang)"
+  },
+  {
+    "titol": "Black Clover 18",
+    "codi": "6200533",
+    "edat": "10",
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat greu, no legitimada (profusió de sang, també presenta freqüent violència lleu i legitimada);Por i angoixa freqüent d'afectació mitjana;Llenguatge groller freqüent d'intensitat baixa"
   },
   {
     "titol": "Blinky Bill el coala",
@@ -1543,6 +1550,12 @@
   {
     "titol": "Haikyu 4x06",
     "codi": "6200436",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "Haikyu 4x07",
+    "codi": "6200532",
     "edat": "7",
     "raons": "Llenguatge groller ocasional d'intensitat baixa"
   },
