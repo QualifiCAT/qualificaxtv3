@@ -179,6 +179,50 @@
     "edat": "0"
   },
   {
+    "titol": "Agència galàctica 1",
+    "codi": "6164206",
+    "edat": "0"
+  },
+  {
+    "titol": "Agència galàctica 2",
+    "codi": "6164207",
+    "edat": "0",
+    "raons": "Conductes i valors incívics amb sanció negativa"
+  },
+  {
+    "titol": "Agència galàctica 3",
+    "codi": "6164223",
+    "edat": "0"
+  },
+  {
+    "titol": "Agència galàctica 4",
+    "codi": "6164227",
+    "edat": "0",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "Agència galàctica 5",
+    "codi": "6164733",
+    "edat": "0"
+  },
+  {
+    "titol": "Agència galàctica 6",
+    "codi": "6164853",
+    "edat": "0",
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, no legitimada"
+  },
+  {
+    "titol": "Agència galàctica 7",
+    "codi": "6164809",
+    "edat": "0"
+  },
+  {
+    "titol": "Agència galàctica 8",
+    "codi": "6164808",
+    "edat": "0",
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, no legitimada;Por i angoixa ocasional d'afectació lleu;Conductes i valors incívics amb sanció negativa"
+  },
+  {
     "titol": "Animals united",
     "codi": "6087135",
     "edat": "7",
@@ -3532,6 +3576,47 @@
   {
     "titol": "Presto",
     "codi": "presto-escola-magia",
+    "edat": "0"
+  },
+  {
+    "titol": "Presto 1",
+    "codi": "6178397",
+    "edat": "0"
+  },
+  {
+    "titol": "Presto 2",
+    "codi": "6178396",
+    "edat": "0"
+  },
+  {
+    "titol": "Presto 3",
+    "codi": "6178476",
+    "edat": "0"
+  },
+  {
+    "titol": "Presto 4",
+    "codi": "6178477",
+    "edat": "0"
+  },
+  {
+    "titol": "Presto 5",
+    "codi": "6178863",
+    "edat": "0"
+  },
+  {
+    "titol": "Presto 6",
+    "codi": "6178866",
+    "edat": "0",
+    "raons": "Conductes i valors incívics amb sanció negativa"
+  },
+  {
+    "titol": "Presto 7",
+    "codi": "6178878",
+    "edat": "0"
+  },
+  {
+    "titol": "Presto 8",
+    "codi": "6178876",
     "edat": "0"
   },
   {
