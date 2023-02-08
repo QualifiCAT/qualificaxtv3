@@ -470,6 +470,12 @@
     "raons": "Violència ocasional, irreal, no explícita, d'intensitat greu, no legitimada (profusió de sang, també presenta freqüent violència lleu i legitimada);Por i angoixa freqüent d'afectació mitjana;Llenguatge groller freqüent d'intensitat baixa"
   },
   {
+    "titol": "Black Clover 19",
+    "codi": "6200693",
+    "edat": "13",
+    "raons": "Violència freqüent, irreal, no explícita, d'intensitat greu, no legitimada"
+  },
+  {
     "titol": "Blinky Bill el coala",
     "codi": "5806569",
     "edat": "7",
@@ -1618,6 +1624,11 @@
     "codi": "6200532",
     "edat": "7",
     "raons": "Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "Haikyu 4x08",
+    "codi": "6200695",
+    "edat": "0"
   },
   {
     "titol": "Hoodie",
