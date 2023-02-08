@@ -223,6 +223,30 @@
     "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, no legitimada;Por i angoixa ocasional d'afectació lleu;Conductes i valors incívics amb sanció negativa"
   },
   {
+    "titol": "Agència galàctica 9",
+    "codi": "6164989",
+    "edat": "0",
+    "raons": "Conductes i valors incívics amb sanció negativa"
+  },
+  {
+    "titol": "Agència galàctica 10",
+    "codi": "6164992",
+    "edat": "0",
+    "raons": "Conductes i valors incívics amb sanció negativa"
+  },
+  {
+    "titol": "Agència galàctica 11",
+    "codi": "6165204",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu"
+  },
+  {
+    "titol": "Agència galàctica 12",
+    "codi": "6165205",
+    "edat": "0",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
     "titol": "Animals united",
     "codi": "6087135",
     "edat": "7",
@@ -1009,6 +1033,42 @@
     "codi": "5874617",
     "edat": "7",
     "raons": "Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "Els Mini Ninges 3",
+    "codi": "5874618",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu"
+  },
+  {
+    "titol": "Els Mini Ninges 4",
+    "codi": "5874616",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "Els Mini Ninges 5",
+    "codi": "5874622",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "Els Mini Ninges 6",
+    "codi": "5874619",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "Els Mini Ninges 7",
+    "codi": "5874611",
+    "edat": "7",
+    "raons": "Violència ocasional, irreal, explícita, d'intensitat molt lleu, legitimada;Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "Els Mini Ninges 8",
+    "codi": "5875870",
+    "edat": "7",
+    "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, legitimada;Por i angoixa freqüent d'afectació lleu"
   },
   {
     "titol": "Els pingüins de Madagascar",
@@ -3631,6 +3691,28 @@
     "titol": "Presto 8",
     "codi": "6178876",
     "edat": "0"
+  },
+  {
+    "titol": "Presto 9",
+    "codi": "6179320",
+    "edat": "0"
+  },
+  {
+    "titol": "Presto 10",
+    "codi": "6179321",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu"
+  },
+  {
+    "titol": "Presto 11",
+    "codi": "6179394",
+    "edat": "0"
+  },
+  {
+    "titol": "Presto 12",
+    "codi": "6179395",
+    "edat": "0",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Prodigiosa",
