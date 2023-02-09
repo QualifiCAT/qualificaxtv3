@@ -1077,6 +1077,30 @@
     "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, legitimada;Por i angoixa freqüent d'afectació lleu"
   },
   {
+    "titol": "Els Mini Ninges 9",
+    "codi": "5875872",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "Els Mini Ninges 10",
+    "codi": "5875914",
+    "edat": "7",
+    "raons": "Violència ocasional, irreal, explícita, d'intensitat molt lleu, legitimada;Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "Els Mini Ninges 11",
+    "codi": "5875891",
+    "edat": "7",
+    "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, legitimada;Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "Els Mini Ninges 12",
+    "codi": "5875889",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu"
+  },
+  {
     "titol": "Els pingüins de Madagascar",
     "codi": "pinguins-madagascar",
     "edat": "7"
@@ -3724,6 +3748,28 @@
     "codi": "6179395",
     "edat": "0",
     "raons": "Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "Presto 13",
+    "codi": "6179605",
+    "edat": "0"
+  },
+  {
+    "titol": "Presto 14",
+    "codi": "6179787",
+    "edat": "0",
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, no legitimada"
+  },
+  {
+    "titol": "Presto 15",
+    "codi": "6179988",
+    "edat": "0",
+    "raons": "Conductes i valors incívics amb sanció negativa"
+  },
+  {
+    "titol": "Presto 16",
+    "codi": "6179989",
+    "edat": "0"
   },
   {
     "titol": "Prodigiosa",
