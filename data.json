@@ -357,6 +357,12 @@
     "raons": "Por i angoixa ocasional d'afectació lleu"
   },
   {
+    "titol": "Beta 2x06",
+    "codi": "6202051",
+    "edat": "7",
+    "raons": "Conductes i valors incívics amb sanció neutra"
+  },
+  {
     "titol": "Black Clover",
     "codi": "black-clover",
     "edat": "13"
@@ -479,7 +485,13 @@
     "titol": "Black Clover 20",
     "codi": "6200914",
     "edat": "10",
-    "raons": "Llenguatge groller freqüent d'intensitat baixa;Consum de drogues lícites (tabac, alcohol), presentades de forma neutra"
+    "raons": "Consum de drogues lícites (tabac, alcohol), presentades de forma neutra;Llenguatge groller freqüent d'intensitat baixa"
+  },
+  {
+    "titol": "Black Clover 21",
+    "codi": "6201726",
+    "edat": "10",
+    "raons": "Violència freqüent, irreal, no explícita, d'intensitat lleu, no legitimada;Llenguatge groller freqüent d'intensitat baixa"
   },
   {
     "titol": "Blinky Bill el coala",
@@ -1691,6 +1703,12 @@
     "raons": "Contingut sexual (cosificació) ocasional d'explicitació mitjana;Consum de drogues lícites (alcohol) presentades de forma neutra"
   },
   {
+    "titol": "Haikyu 4x10",
+    "codi": "6201727",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
     "titol": "Hoodie",
     "codi": "hoddie",
     "edat": "10"
@@ -2308,6 +2326,12 @@
     "codi": "6201601",
     "edat": "7",
     "raons": "Por i angoixa freqüent d'afectació lleu (al·lusions a l'assetjament i a salut mental);Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "Influenx3r 5",
+    "codi": "6202983",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "Inuyasha",
@@ -3361,7 +3385,7 @@
     "titol": "Manduka 65",
     "codi": "6197180",
     "edat": "7",
-    "raons": "Llenguatge groller ocasional d'intensitat baixa ('collonut', 'cagada')"
+    "raons": "Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Manduka 66",
@@ -3373,6 +3397,12 @@
     "codi": "6199981",
     "edat": "0",
     "raons": "Por i angoixa ocasional d'afectació lleu"
+  },
+  {
+    "titol": "Manduka 68",
+    "codi": "6201383",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Marika",
