@@ -494,6 +494,12 @@
     "raons": "Violència freqüent, irreal, no explícita, d'intensitat lleu, no legitimada;Llenguatge groller freqüent d'intensitat baixa"
   },
   {
+    "titol": "Black Clover 22",
+    "codi": "6201845",
+    "edat": "10",
+    "raons": "Violència reiterada, irreal, no explícita, d'intensitat lleu, legitimada (amb presència de sang);Por i angoixa reiterada d'afectació lleu;Llenguatge groller reiterat d'intensitat baixa"
+  },
+  {
     "titol": "Blinky Bill el coala",
     "codi": "5806569",
     "edat": "7",
@@ -1143,6 +1149,18 @@
     "raons": "Violència ocasional, irreal, explícita, d'intensitat molt lleu, legitimada;Por i angoixa freqüent d'afectació lleu"
   },
   {
+    "titol": "Els Mini Ninges 17",
+    "codi": "5875910",
+    "edat": "7",
+    "raons": "Violència ocasional, irreal, explícita, d'intensitat molt lleu, legitimada;Conductes i valors incívics amb sanció negativa"
+  },
+  {
+    "titol": "Els Mini Ninges 18",
+    "codi": "5875912",
+    "edat": "7",
+    "raons": "Violència ocasional, irreal, explícita, d'intensitat molt lleu, legitimada;Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
     "titol": "Els pingüins de Madagascar",
     "codi": "pinguins-madagascar",
     "edat": "7"
@@ -1705,6 +1723,12 @@
   {
     "titol": "Haikyu 4x10",
     "codi": "6201727",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "Haikyu 4x11",
+    "codi": "6201848",
     "edat": "7",
     "raons": "Llenguatge groller ocasional d'intensitat baixa"
   },
