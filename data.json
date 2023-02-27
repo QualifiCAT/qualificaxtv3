@@ -264,6 +264,11 @@
     "edat": "0"
   },
   {
+    "titol": "Beta",
+    "codi": "beta",
+    "edat": "7"
+  },
+  {
     "titol": "Betapodcast 11",
     "codi": "6182840",
     "edat": "7",
@@ -560,6 +565,11 @@
     "raons": "Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa"
   },
   {
+    "titol": "Bricociència",
+    "codi": "bricociencia",
+    "edat": "0"
+  },
+  {
     "titol": "Buscant la màgica Doremi",
     "codi": "6193457",
     "edat": "13",
@@ -574,7 +584,7 @@
   {
     "titol": "D'aventura castigats",
     "codi": "daventura-castigats",
-    "edat": "7"
+    "edat": "10"
   },
   {
     "titol": "D'aventura castigats 1x09",
@@ -714,9 +724,19 @@
     "raons": "Por i angoixa ocasional d'afectació lleu"
   },
   {
+    "titol": "Dinàmiks",
+    "codi": "dinamiks",
+    "edat": "0"
+  },
+  {
     "titol": "Dracs",
     "codi": "dracs-nous-horitzons",
     "edat": "7"
+  },
+  {
+    "titol": "Dr. W",
+    "codi": "dr-w",
+    "edat": "0"
   },
   {
     "titol": "Efecte wow",
@@ -1085,10 +1105,20 @@
     "raons": "Por i angoixa ocasional d'afectació lleu"
   },
   {
+    "titol": "El món d'en Beakman",
+    "codi": "mon-beakman",
+    "edat": "0"
+  },
+  {
     "titol": "El món prodigiós Xangai",
     "codi": "6129416",
     "edat": "0",
     "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, no legitimada;Por i angoixa ocasional d'afectació lleu"
+  },
+  {
+    "titol": "Els extraordinaris",
+    "codi": "els-extraordinaris",
+    "edat": "0"
   },
   {
     "titol": "Els germans Kratt",
@@ -2443,6 +2473,11 @@
     "edat": "7"
   },
   {
+    "titol": "Influenx3r",
+    "codi": "influenx3r",
+    "edat": "7"
+  },
+  {
     "titol": "Influenx3r 0",
     "codi": "6195948",
     "edat": "0"
@@ -2642,6 +2677,11 @@
     "codi": "6193871",
     "edat": "0",
     "raons": "Por i angoixa ocasional d'afectació lleu"
+  },
+  {
+    "titol": "Lara què fem",
+    "codi": "lara-que-fem",
+    "edat": "10"
   },
   {
     "titol": "Les aventures d'en Massagran",
@@ -3451,6 +3491,11 @@
     "raons": "Violència freqüent, versemblant, explícita, d'intensitat lleu, legitimada"
   },
   {
+    "titol": "Manduka",
+    "codi": "manduka",
+    "edat": "10"
+  },
+  {
     "titol": "Manduka 33",
     "codi": "6099549",
     "edat": "10",
@@ -3874,6 +3919,11 @@
     "raons": "Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa"
   },
   {
+    "titol": "Món maker",
+    "codi": "monmaker",
+    "edat": "0"
+  },
+  {
     "titol": "My Hero Academia Dos herois titol",
     "codi": "my-hero-academia-dos-herois",
     "edat": "13"
@@ -3889,6 +3939,11 @@
     "codi": "5806346",
     "edat": "0",
     "raons": "Por i angoixa freqüent d'afectació lleu;Conductes i valors incívics amb sanció negativa"
+  },
+  {
+    "titol": "Objectiu 2030",
+    "codi": "objectiu-2030",
+    "edat": "7"
   },
   {
     "titol": "Perduts a Oz",
