@@ -559,6 +559,12 @@
     "raons": "Violència ocasional, irreal, explícita, d'intensitat greu, legitimada;Consum de drogues lícites (alcohol, tabac), presentades de manera neutra"
   },
   {
+    "titol": "Black Clover 30",
+    "codi": "6205455",
+    "edat": "10",
+    "raons": "Al·lusions sexuals freqüents d'explicitació baixa;Por i angoixa freqüent d'afectació mitjana;Consum de drogues lícites (tabac, alcohol), presentades de forma neutra;Llenguatge groller reiterat d'intensitat baixa;(També inclou estereotips de gènere i situacions de discriminació, amb sanció negativa.)"
+  },
+  {
     "titol": "Blinky Bill el coala",
     "codi": "5806569",
     "edat": "7",
@@ -1880,6 +1886,12 @@
     "codi": "6204414",
     "edat": "7",
     "raons": "Por i angoixa freqüent d'afectació lleu"
+  },
+  {
+    "titol": "Haikyu 4x19",
+    "codi": "6204539",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Hoodie",
