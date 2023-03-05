@@ -380,6 +380,12 @@
     "raons": "Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció neutra"
   },
   {
+    "titol": "Beta 2x09",
+    "codi": "6206582",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu"
+  },
+  {
     "titol": "Black Clover",
     "codi": "black-clover",
     "edat": "13"
@@ -2565,6 +2571,12 @@
     "raons": "Llenguatge groller ocasional d'intensitat baixa"
   },
   {
+    "titol": "Influenx3r 8",
+    "codi": "6207084",
+    "edat": "7",
+    "raons": "Violència ocasional, irreal, explícita, d'intensitat molt lleu, legitimada"
+  },
+  {
     "titol": "Inuyasha",
     "codi": "inuyasha",
     "edat": "13"
@@ -3964,6 +3976,23 @@
     "titol": "Món maker",
     "codi": "monmaker",
     "edat": "0"
+  },
+  {
+    "titol": "Mòpies",
+    "codi": "mopies",
+    "edat": "13"
+  },
+  {
+    "titol": "Mòpies 1x01",
+    "codi": "6205693",
+    "edat": "13",
+    "raons": "Por i angoixa freqüent d'afectació alta"
+  },
+  {
+    "titol": "Mòpies 1x02",
+    "codi": "6206367",
+    "edat": "13",
+    "raons": "Por i angoixa reiterada d'afectació mitjana"
   },
   {
     "titol": "My Hero Academia Dos herois titol",
