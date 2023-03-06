@@ -583,6 +583,12 @@
     "raons": "Violència ocasional, irreal, molt explícita, d'intensitat greu, no legitimada"
   },
   {
+    "titol": "Black Clover 33",
+    "codi": "6205801",
+    "edat": "13",
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat greu, no legitimada"
+  },
+  {
     "titol": "Blinky Bill el coala",
     "codi": "5806569",
     "edat": "7",
@@ -1928,6 +1934,12 @@
     "codi": "6204963",
     "edat": "10",
     "raons": "Llenguatge groller freqüent d'intensitat baixa"
+  },
+  {
+    "titol": "Haikyu 4x22",
+    "codi": "6205799",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Hoodie",
