@@ -386,6 +386,12 @@
     "raons": "Por i angoixa ocasional d'afectació lleu"
   },
   {
+    "titol": "Beta 2x10",
+    "codi": "6208216",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
     "titol": "Black Clover",
     "codi": "black-clover",
     "edat": "13"
@@ -1586,7 +1592,7 @@
   {
     "titol": "Ghostforce",
     "codi": "ghostforce",
-    "edat": "0"
+    "edat": "7"
   },
   {
     "titol": "Gos pudent",
@@ -2565,6 +2571,66 @@
     "raons": "Llenguatge groller freqüent d'intensitat baixa"
   },
   {
+    "titol": "Hoodie 2x45",
+    "codi": "6207562",
+    "edat": "10",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada;Conductes i valors incívics amb sanció neutra"
+  },
+  {
+    "titol": "Hoodie 2x46",
+    "codi": "6207564",
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa;Conductes i valors incívics amb sanció neutra"
+  },
+  {
+    "titol": "Hoodie 2x47",
+    "codi": "6207565",
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa;Conductes i valors incívics amb sanció neutra"
+  },
+  {
+    "titol": "Hoodie 2x48",
+    "codi": "6207566",
+    "edat": "10",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada (petó sense consentiment);Llenguatge groller reiterat d'intensitat baixa;Conductes i valors incívics amb sanció neutra"
+  },
+  {
+    "titol": "Hoodie 2x49",
+    "codi": "6207567",
+    "edat": "10",
+    "raons": "Conductes i valors incívics amb sanció neutra"
+  },
+  {
+    "titol": "Hoodie 2x50",
+    "codi": "6207569",
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa;Conductes i valors incívics amb sanció neutra"
+  },
+  {
+    "titol": "Hoodie 2x51",
+    "codi": "6207570",
+    "edat": "10",
+    "raons": "Conductes i valors incívics amb sanció neutra"
+  },
+  {
+    "titol": "Hoodie 2x52",
+    "codi": "6208052",
+    "edat": "10",
+    "raons": "Por i angoixa freqüent d'afectació mitjana"
+  },
+  {
+    "titol": "Hoodie 3x01",
+    "codi": "6206371",
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa;Conductes i valors incívics amb sanció neutra"
+  },
+  {
+    "titol": "Hoodie 3x02",
+    "codi": "6206594",
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa;Conductes i valors incívics amb sanció neutra"
+  },
+  {
     "titol": "Ideafix",
     "codi": "ideafix-irreductibles",
     "edat": "0"
@@ -2629,6 +2695,12 @@
     "codi": "6207084",
     "edat": "7",
     "raons": "Violència ocasional, irreal, explícita, d'intensitat molt lleu, legitimada"
+  },
+  {
+    "titol": "Influenx3r 9",
+    "codi": "6208462",
+    "edat": "7",
+    "raons": "Violència ocasional, irreal, explícita, d'intensitat molt lleu, legitimada;Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Inuyasha",
