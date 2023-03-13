@@ -613,6 +613,12 @@
     "raons": "Consum de drogues lícites (tabac), presentades de forma neutra"
   },
   {
+    "titol": "Black Clover 37",
+    "codi": "6207225",
+    "edat": "13",
+    "raons": "Consum de drogues lícites (tabac), presentades de forma neutra;(També inclou reiterada violència irreal, no explícita i legitimada, situacions masclistes i estereotips de gènere, i llenguatge groller d'intensitat baixa)"
+  },
+  {
     "titol": "Blinky Bill el coala",
     "codi": "5806569",
     "edat": "7",
@@ -1347,7 +1353,7 @@
     "codi": "6208461",
     "edat": "7",
     "raons": "Contingut sexual ocasional d'explicitació baixa;Llenguatge groller ocasional d'intensitat baixa",
-    "mesinfo": "<b>Sexe</b>;Es fan algunes al·lusions a comportaments sexuals (per exemple, es parla vagament de 'perrejar'), i algunes coreografies o vestimentes tenen una càrrega eròtica lleu en simular actituds lascives.;;<b>Llenguatge groller</b>;Es fan servir, ocasionalment, expressions com 'hòstia', 'putada' o 'acollonir', no de forma agressiva.;;En una cançó, es fa una al·lusió fugaç al consum de drogues lícites ('...vas amb ressaca al partit...')."
+    "mesinfo": "<b>Sexe</b>;Es fan algunes al·lusions a comportaments sexuals (per exemple, es parla vagament de 'perrejar' o que un noi treballava en un lloc on es va arribar a 'despullar'), i algunes coreografies o vestimentes tenen una càrrega eròtica lleu en simular actituds lascives.;;<b>Llenguatge groller</b>;Es fan servir expressions com 'hòstia', 'putada' o 'acollonir'. La seva presència és ocasional -tenint en compte la durada del programa- i gairebé anecdòtica.;;Hi ha situacions d'angoixa i por amb una afectació lleu quan els concursants diuen que han patit vivències doloroses, sense concretar en la majoria de casos, o es mostren visiblement emocionats pels resultats de les votacions i del veredicte del jurat. En una cançó, es fa una al·lusió fugaç al consum de drogues lícites ('...vas amb ressaca al partit...')."
   },
   {
     "titol": "Eufòria dance",
@@ -1989,6 +1995,11 @@
     "codi": "6206370",
     "edat": "10",
     "raons": "Consum de drogues lícites (alcohol) presentades de forma neutra;Llenguatge groller freqüent d'intensitat baixa"
+  },
+  {
+    "titol": "Haikyu OVA 3",
+    "codi": "6207227",
+    "edat": "0"
   },
   {
     "titol": "Hoodie",
