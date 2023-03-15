@@ -625,6 +625,12 @@
     "raons": "Consum de drogues lícites (tabac), presentades de forma neutra;Estereotips de gènere i comentaris masclistes i discriminatoris per aparença física, amb sanció neutra;(També inclou llenguatge groller reiterat de baixa intensitat i conductes incíviques.)"
   },
   {
+    "titol": "Black Clover 39",
+    "codi": "6207540",
+    "edat": "13",
+    "raons": "Consum de drogues lícites (tabac), presentades de forma neutra;Estereotips de gènere i comentaris discriminatoris per aparença física, amb sanció neutra;(També inclou situacions xenòfobes presentades en negatiu, llenguatge groller reiterat de baixa intensitat, una breu imatge d'un cos ensangonat, i violència de molt poca intensitat, legitimada)"
+  },
+  {
     "titol": "Blinky Bill el coala",
     "codi": "5806569",
     "edat": "7",
@@ -2099,6 +2105,12 @@
   {
     "titol": "Haikyu OVA 4",
     "codi": "6207326",
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa"
+  },
+  {
+    "titol": "Haikyu OVA 5",
+    "codi": "6207544",
     "edat": "10",
     "raons": "Llenguatge groller freqüent d'intensitat baixa"
   },
