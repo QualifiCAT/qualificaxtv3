@@ -634,7 +634,7 @@
     "titol": "Black Clover 40",
     "codi": "6209137",
     "edat": "13",
-    "raons": "Contingut sexual (al·lusions, cosificació) freqüent d'explicitació mitjana;Consum de drogues lícites (tabac, alcohol), presentades de manera positiva;(També inclou violència irreal amb presència còmica de sang, llenguatge groller freqüent de baixa intensitat, i estereotips de g.)"
+    "raons": "Contingut sexual (al·lusions, cosificació) freqüent d'explicitació mitjana;Consum de drogues lícites (tabac, alcohol), presentades de manera positiva;(També inclou violència irreal amb presència còmica de sang, llenguatge groller freqüent de baixa intensitat, i estereotips de gènere.)"
   },
   {
     "titol": "Blinky Bill el coala",
@@ -2771,7 +2771,13 @@
     "titol": "Hoodie 3x04",
     "codi": "6207329",
     "edat": "7",
-    "raons": "Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+    "raons": "Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+  },
+  {
+    "titol": "Hoodie 3x05",
+    "codi": "6207541",
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa;Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "Ideafix",
