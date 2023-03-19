@@ -828,6 +828,11 @@
     "edat": "7"
   },
   {
+    "titol": "Dracs genets illa fred",
+    "codi": "dracs-genets-illa-fred",
+    "edat": "7"
+  },
+  {
     "titol": "Efecte wow",
     "codi": "efectewow",
     "edat": "7"
@@ -2954,6 +2959,11 @@
     "codi": "6208462",
     "edat": "7",
     "raons": "Violència ocasional, irreal, explícita, d'intensitat molt lleu, legitimada;Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "Influenx3r 10",
+    "codi": "6209840",
+    "edat": "0"
   },
   {
     "titol": "Inuyasha",
