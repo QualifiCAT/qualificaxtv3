@@ -813,14 +813,19 @@
     "edat": "0"
   },
   {
+    "titol": "Dr. W",
+    "codi": "dr-w",
+    "edat": "0"
+  },
+  {
     "titol": "Dracs",
     "codi": "dracs-nous-horitzons",
     "edat": "7"
   },
   {
-    "titol": "Dr. W",
-    "codi": "dr-w",
-    "edat": "0"
+    "titol": "Dracs defensors illa fred",
+    "codi": "dracs-defensors-illa-fred",
+    "edat": "7"
   },
   {
     "titol": "Efecte wow",
@@ -4513,6 +4518,11 @@
     "titol": "Quatre amics i mig",
     "codi": "quatre-amics-i-mig",
     "edat": "7"
+  },
+  {
+    "titol": "Ràndom",
+    "codi": "random",
+    "edat": "10"
   },
   {
     "titol": "Ranma",
