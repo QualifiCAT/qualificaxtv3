@@ -622,25 +622,36 @@
     "titol": "Black Clover 37",
     "codi": "6207225",
     "edat": "13",
-    "raons": "Consum de drogues lícites (tabac), presentades de forma neutra;(També inclou reiterada violència irreal, no explícita i legitimada, situacions masclistes i estereotips de gènere, i llenguatge groller d'intensitat baixa)"
+    "raons": "Consum de drogues lícites (tabac), presentades de forma neutra",
+    "mesinfo": "<b>Drogues</b>;Un home apareix sempre fumant.;;També s'inclou reiterada violència irreal, no explícita i legitimada, situacions masclistes i estereotips de gènere, i llenguatge groller d'intensitat baixa."
   },
   {
     "titol": "Black Clover 38",
     "codi": "6207324",
     "edat": "13",
-    "raons": "Consum de drogues lícites (tabac), presentades de forma neutra;Estereotips de gènere i comentaris masclistes i discriminatoris per aparença física, amb sanció neutra;(També inclou llenguatge groller reiterat de baixa intensitat i conductes incíviques.)"
+    "raons": "Consum de drogues lícites (tabac), presentades de forma neutra;Estereotips de gènere i comentaris masclistes i discriminatoris per aparença física, amb sanció neutra",
+    "mesinfo": "<b>Drogues</b>;Un home apareix sempre fumant.;;<b>Discriminació, racisme i xenofòbia</b>;Alguns personatges són ridiculitzats per la seva aparença física, utilitzant noms com 'llom embotit'. Una dona fa comentaris que es podrien considerar continuistes d'uns estereotips de gènere quan, per exemple, es pregunta si pot ser cert que els homes prefereixin les dones que cuinen bé.;;També inclou llenguatge groller reiterat de baixa intensitat i conductes incíviques, com menjar de forma descontrolada, en un context humorístic."
   },
   {
     "titol": "Black Clover 39",
     "codi": "6207540",
     "edat": "13",
-    "raons": "Consum de drogues lícites (tabac), presentades de forma neutra;Estereotips de gènere i comentaris discriminatoris per aparença física, amb sanció neutra;(També inclou situacions xenòfobes presentades en negatiu, llenguatge groller reiterat de baixa intensitat, una breu imatge d'un cos ensangonat, i violència de molt poca intensitat, legitimada)"
+    "raons": "Consum de drogues lícites (tabac), presentades de forma neutra;Estereotips de gènere i comentaris discriminatoris per aparença física, amb sanció neutra",
+    "mesinfo": "<b>Drogues</b>;Un home apareix sempre fumant.;;<b>Discriminació, racisme i xenofòbia</b>;Alguns personatges són ridiculitzats per la seva aparença física, i una dona es mostra obsessionada pel seu físic. També s'inclouen, en forma de flashback, situacions xenòfobes presentades en negatiu, quan aïllen un home per ser foraster.;;També inclou llenguatge groller reiterat de baixa intensitat, una breu imatge d'un cos ensangonat, i violència de molt poca intensitat, legitimada."
   },
   {
     "titol": "Black Clover 40",
     "codi": "6209137",
     "edat": "13",
-    "raons": "Contingut sexual (al·lusions, cosificació) freqüent d'explicitació mitjana;Consum de drogues lícites (tabac, alcohol), presentades de manera positiva;(També inclou violència irreal amb presència còmica de sang, llenguatge groller freqüent de baixa intensitat, i estereotips de gènere.)"
+    "raons": "Contingut sexual freqüent d'explicitació mitjana;Consum de drogues lícites (tabac, alcohol), presentades de manera positiva",
+    "mesinfo": "<b>Sexe</b>;Es fan primers plans de cossos femenins en roba interior, amb intenció cosificadora. Durant tot l'episodi se'n fan comentaris al respecte, preguntant-se si un biquini 'tapa' molt o no o com ha de ser per poder ser l'atracció dels homes. Alguns homes intenten lligar amb noies a la platja però són rebutjats.;;<b>Drogues</b>;Un home apareix sempre fumant. Una dona beu alcohol per 'gaudir' de la seva estada a la platja.;;També inclou violència irreal, amb presència còmica de sang, llenguatge groller freqüent de baixa intensitat, i estereotips de gènere."
+  },
+  {
+    "titol": "Black Clover 41",
+    "codi": "6208581",
+    "edat": "13",
+    "raons": "Consum de drogues lícites (tabac, alcohol), presentades de manera positiva",
+    "mesinfo": "<b>Drogues</b>;Un home apareix sempre fumant. Una dona vomita arcs de Sant Martí després de beure alcohol en un episodi anterior, i diu que ho ha de deixar. En una escena posterior, diu que beurà per a celebrar un èxit d'una companya. El consum de drogues es presenta còmicament, com si fos un tret que defineix aquests personatges, sense intencions serioses de mostrar-ne els efectes.;;Es fa servir llenguatge groller durant tot l'episodi, com 'inútil', 'ruc', 'tanoca' o 'collons'. Hi ha situacions angoixants de poca intensitat quan un personatge recorda mals records del passat, i membres de la seva família li deien que la seva mare va morir per culpa de la seva ineptitud. Hi ha situacions pretesament masclistes presentades en negatiu. A un home li surt sang del nas quan pensa en la seva germana, menor. En la seqüència d'introducció, uns nois tenen sang a la cara."
   },
   {
     "titol": "Blinky Bill el coala",
@@ -652,6 +663,27 @@
     "titol": "Bricociència",
     "codi": "bricociencia",
     "edat": "0"
+  },
+  {
+    "titol": "Busca'm a París 1x01",
+    "codi": "6208571",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "<b>Por i angoixa</b>; La protagonista és perseguida per uns homes i acaba travessant un portal que la duu enrere en el temps. Allà està desconcertada i cau desmaiada. Hi ha moments en què està angoixada o afectada emocionalment perquè vol tornar amb el seu nòvio. Es fa menció a què la família d'un noi va patir un accident tràgic, sense donar detalls.;;<b>Llenguatge groller</b>;Es diu 'fotre'.;;<b>Conductes i valors incívics</b>;Alguns personatges li parlen en to despectiu a la protagonista, s'enriuen d'ella o li menteixen. El seu comportament no es presenta en positiu."
+  },
+  {
+    "titol": "Busca'm a París 1x02",
+    "codi": "6208580",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "<b>Llenguatge groller</b>;Es diu 'cagada', 'això és l'hòstia' o 'quedar com el cul'.;;<b>Conductes i valors incívics</b>;La protagonista pateix assetjament i ciberassetjament quan, per exemple, es difon un vídeo d'ella caient a terra mentre fa un ball que tothom considera ridícul. Aquests comportaments són recriminats implícitament per l'argument.;;També inclou situacions d'angoixa ocasional d'afectació lleu."
+  },
+  {
+    "titol": "Busca'm a París 1x03",
+    "codi": "6208579",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu;Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "<b>Por i angoixa</b>;Hi ha escenes de persecució entre un grup d'homes, la protagonista i el seu nòvio, qui tenen capturat. Hi ha moments en què ella es mostra visiblement afectada. Es fa menció d'una tragèdia familiar.;;<b>Conductes i valors incívics</b>;Una amiga descobreix que la protagonista li està mentint i ella li explica la veritat. Es recrimina el comportament egoista d'una rival."
   },
   {
     "titol": "Buscant la màgica Doremi",
