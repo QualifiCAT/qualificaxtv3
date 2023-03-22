@@ -679,6 +679,11 @@
     "edat": "0"
   },
   {
+    "titol": "Busca'm a París",
+    "codi": "buscam-paris",
+    "edat": "10"
+  },
+  {
     "titol": "Busca'm a París 1x01",
     "codi": "6208571",
     "edat": "7",
@@ -698,6 +703,20 @@
     "edat": "7",
     "raons": "Por i angoixa freqüent d'afectació lleu;Conductes i valors incívics amb sanció negativa",
     "mesinfo": "<b>Por i angoixa</b>;Hi ha escenes de persecució entre un grup d'homes, la protagonista i el seu nòvio, qui tenen capturat. Hi ha moments en què ella es mostra visiblement afectada. Es fa menció d'una tragèdia familiar.;;<b>Conductes i valors incívics</b>;Una amiga descobreix que la protagonista li està mentint i ella li explica la veritat. Es recrimina el comportament egoista d'una rival."
+  },
+  {
+    "titol": "Busca'm a París 1x04",
+    "codi": "6208569",
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b>;Una escena gira entorn a la paraula 'acollonida'. També es diuen 'cagada', 'no fotem' i 'idiota'."
+  },
+  {
+    "titol": "Busca'm a París 1x05",
+    "codi": "6208573",
+    "edat": "7",
+    "raons": "Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "<b>Conductes i valors incívics</b>;La protagonista i un amic seu se salten una classe de l'escola voluntàriament. En arribar tard, són castigats. Un noi critica irrespectuosament el caràcter d'una amiga seva i s'enfada, però s'acaben reconciliant. Una noia penja a les xarxes un vídeo sense permís.;;Dos amics es diuen expressions com 'penjada' o 'beneit', sense ànim d'ofendre. Hi ha situacions de por i angoixa ocasionals amb una afectació lleu quan la protagonista nota la presència del seu enyorat nòvio, qui viatja en el temps, o quan ell és amenaçat per un altre home amb una arma irreal."
   },
   {
     "titol": "Buscant la màgica Doremi",
@@ -2948,6 +2967,12 @@
   {
     "titol": "Hoodie 3x09",
     "codi": "6208695",
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa"
+  },
+  {
+    "titol": "Hoodie 3x10",
+    "codi": "6208927",
     "edat": "10",
     "raons": "Llenguatge groller freqüent d'intensitat baixa"
   },
