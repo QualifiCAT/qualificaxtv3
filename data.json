@@ -668,6 +668,13 @@
     "mesinfo": "<b>Drogues</b>;Un home apareix sovint fumant. Una dona aguanta una ampolla d'alcohol, i es fa un comentari que, tot i anar sempre 'entrompada', aquest cop se n'ha sortit prou bé.;;<b>Discriminació, racisme i xenofòbia</b>;Un home vell, mentre elogia una dona per la seva habilitat en la lluita, aprofita per dir que té 'bones mamelles'. El seu company l'anomena 'vell verd', però no li recrimina el comentari.;;Inclou llenguatge groller freqüent d'intensitat baixa, entre insults i expressions com 'torracollons' o 'qui et va parir'. Inclou violència freqüent, irreal, legitimada i de molt poca intensitat, tot i que a vegades l'impacte és més explícit i es veu sang."
   },
   {
+    "titol": "Black Clover 44",
+    "codi": "6209379",
+    "edat": "13",
+    "raons": "Violència freqüent, irreal, no explícita, d'intensitat greu, legitimada;Consum de drogues lícites (tabac, alcohol), presentades de manera neutra",
+    "mesinfo": "<b>Violència</b>;Un monstre pega a la cara d'un grup de mags i els deixa estesos a terra, en bassals de sang. Hi ha combats fantàstics on els personatges provoquen explosions i surten disparats, i van dessagnant-se cada cop més intensament. Hi ha situacions menys intenses i amb intencionalitat més còmica, com quan un noi es pega a la cara per asserenar-se, i li surt sang del nas, o un noi n'electrocuta un altre per fer-li una broma.;;<b>Drogues</b>;Un home i una dona apareixen ocasionalment fumant tabac i bebent alcohol, respectivament.;;Hi ha llenguatge groller freqüent d'intensitat baixa, com insults i expressions com 'malparit' o 'merda'."
+  },
+  {
     "titol": "Blinky Bill el coala",
     "codi": "5806569",
     "edat": "7",
@@ -717,6 +724,20 @@
     "edat": "7",
     "raons": "Conductes i valors incívics amb sanció negativa",
     "mesinfo": "<b>Conductes i valors incívics</b>;La protagonista i un amic seu se salten una classe de l'escola voluntàriament. En arribar tard, són castigats. Un noi critica irrespectuosament el caràcter d'una amiga seva i s'enfada, però s'acaben reconciliant. Una noia penja a les xarxes un vídeo sense permís.;;Dos amics es diuen expressions com 'penjada' o 'beneit', sense ànim d'ofendre. Hi ha situacions de por i angoixa ocasionals amb una afectació lleu quan la protagonista nota la presència del seu enyorat xicot, qui viatja en el temps, o quan ell és amenaçat per un altre home amb una arma irreal."
+  },
+  {
+    "titol": "Busca'm a París 1x06",
+    "codi": "6208576",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "<b>Llenguatge groller</b>;Es diu 'això és l'hòstia', 'cagar', 'fotimer' i 'tòtil'.;;<b>Conductes i valors incívics</b>;Unes nenes manipuladores dediquen l'episodi a enganyar les protagonistes per tal de sabotejar-les i fer que rivalitzin encara més. Aquests comportaments se sancionen explícitament.;;Hi ha situacions d'angoixa ocasionals d'afectació lleu quan un home és perseguit i acorralat. Hi ha una escena en què els personatges s'escapen per un conducte de ventilació, i a un noi li fan un copet al cap perquè diu ximpleries."
+  },
+  {
+    "titol": "Busca'm a París 1x07",
+    "codi": "6208568",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "<b>Llenguatge groller</b>;Es diu 'vés a cagar' i 'cagondena'.;;<b>Conductes i valors incívics</b>;Un noi s'enriu del que ha dit una noia i el renyen immediatament. Una noia és la rival de la protagonista, i li parla despectivament."
   },
   {
     "titol": "Buscant la màgica Doremi",
