@@ -740,6 +740,20 @@
     "mesinfo": "<b>Llenguatge groller</b>;Es diu 'vés a cagar' i 'cagondena'.;;<b>Conductes i valors incívics</b>;Un noi s'enriu del que ha dit una noia i el renyen immediatament. Una noia és la rival de la protagonista, i li parla despectivament."
   },
   {
+    "titol": "Busca'm a París 1x08",
+    "codi": "6208572",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b>;Es diu 'merda' i 'de l'hòstia'.;;Una noia desagradable beu un suc després que li diguin explícitament que no ho podia fer, o és desagradable amb la protagonista, en escenes puntuals. Hi ha situacions de por o angoixa ocasional d'afectació lleu quan un home és acorralat i atrapat, o quan una noia comenta sense donar detalls que els seus pares es van divorciar."
+  },
+  {
+    "titol": "Busca'm a París 1x09",
+    "codi": "6208578",
+    "edat": "10",
+    "raons": "Conductes i valors incívics amb sanció neutra",
+    "mesinfo": "<b>Conductes i valors incívics</b>;Un noi fa servir el telèfon a classe tot i tenir-ho estrictament prohibit. Ell diu que només ho està 'si ens enxampen'. El professor se'l mira mentre el fa servir però no diu res. En altres escenes es presenta de manera divertida enriure's de l'aparença dels altres, o de les capacitats vocals d'un altre. El pare d'un noi truca el seu fill per telèfon i ell li rebutja la trucada.;;Es diu 'fotre', 'collons' i 'hòstia', un cop cadascuna. Hi ha situacions de por i angoixa ocasional amb afectació lleu quan una noia comenta sense detall el divorci dels seus pares, o quan un noi lligat a una butaca és amenaçat mentre sona música de tensió."
+  },
+  {
     "titol": "Buscant la màgica Doremi",
     "codi": "6193457",
     "edat": "13",
@@ -2998,6 +3012,12 @@
     "raons": "Llenguatge groller freqüent d'intensitat baixa"
   },
   {
+    "titol": "Hoodie 3x11",
+    "codi": "6209153",
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa;Conductes i valors incívics amb sanció neutra"
+  },
+  {
     "titol": "Ideafix",
     "codi": "ideafix-irreductibles",
     "edat": "0"
@@ -4664,10 +4684,11 @@
     "edat": "0"
   },
   {
-    "titol": "Robby toby viatge",
+    "titol": "Robby, Toby i el viatge fantàstic",
     "codi": "5807504",
     "edat": "10",
-    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada;Llenguatge groller ocasional d'intensitat alta"
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada;Llenguatge groller ocasional d'intensitat alta",
+    "mesinfo": "<b>Violència</b>;El protagonista pateix assetjament escolar, i hi ha escenes en què li disparen pilotes de paintball, el llencen a les escombraries o l'insulten. Hi ha una altra escena, presentant la violència en positiu però amb intencionalitat còmica, en què una dona es baralla amb una colla de motoristes.;;<b>Llenguatge groller</b>;Un noi fa servir expressions com 'fotre', 'acollonir' o 'cagar a les calces' en una sola escena, agreujades per tenir intencionalitat ofensiva i algunes per la seva naturalesa sexista. També se'n senten d'altres durant la pel·lícula, que el protagonista menor fa servir, com 'merda'.;;Hi ha situacions freqüents de por i angoixa amb una afectació lleu, ja que el protagonista està sovint en perill. També es mostren conductes i valors incívics presentats de manera negativa, com quan el protagonista amaga als seus pares que pateix assetjament."
   },
   {
     "titol": "Ronja",
