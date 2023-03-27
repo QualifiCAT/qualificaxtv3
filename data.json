@@ -681,6 +681,13 @@
     "mesinfo": "<b>Violència</b>;Un monstre pega a la cara d'un grup de mags i els deixa estesos a terra, en bassals de sang. Hi ha combats fantàstics on els personatges provoquen explosions i surten disparats, i van dessagnant-se cada cop més intensament. Hi ha situacions menys intenses i amb intencionalitat més còmica, com quan un noi es pega a la cara per asserenar-se, i li surt sang del nas, o un noi n'electrocuta un altre per fer-li una broma.;;<b>Drogues</b>;Un home i una dona apareixen ocasionalment fumant tabac i bebent alcohol, respectivament.;;Hi ha llenguatge groller freqüent d'intensitat baixa, com insults i expressions com 'malparit' o 'merda'."
   },
   {
+    "titol": "Black Clover 45",
+    "codi": "6210706",
+    "edat": "13",
+    "raons": "Violència freq, irreal, explícita, d'intensitat greu, legitimada;Consum de drogues lícites (tabac), presentades de manera neutra",
+    "mesinfo": "<b>Violència</b>;Dos nois amb la cara ensangonada cauen desplomats a terra després d'un atac màgic. Un monstre envia pels aires a dos nois, deixant-los amb la cara ensangonada. A un d'ells li provoca talls a diverses parts del cos i li estreny amb força el braç, fent-lo cridar de dolor. Hi ha altres escenes de violència, perpetuades pels protagonistes, menys intenses, caracteritzades per explosions i atacs irreals on els dolents surten disparats pels aires, sense presència de sang. Es fa servir freqüentment un llenguatge violent, amb amenaces a la mort i a la tortura.;;<b>Drogues</b>;Un home se'l veu ocasionalment fumant. Una dona alcohòlica diu que 'no és moment de beure'.;;Hi ha llenguatge groller reiterat d'intensitat baixa ('merda', 'malparit', 'escòria', 'desgraciat', 'insecte', 'beneit'...), incloent-hi al·lusions despectives a l'aparença o al comportament d'altres ('fas cara de tenir uns anys ja', 'la golafre del front gros'). A un noi li surt sang del nas quan pensa en la seva germana."
+  },
+  {
     "titol": "Blinky Bill el coala",
     "codi": "5806569",
     "edat": "7",
@@ -3176,7 +3183,7 @@
   },
   {
     "titol": "Influenx3r 11",
-    "codi": "",
+    "codi": "6211159",
     "edat": "7",
     "raons": "Violència ocasional, irreal, explícita, d'intensitat molt lleu, legitimada;Llenguatge groller ocasional d'intensitat baixa",
     "mesinfo": "<b>Violència</b>;En alguns reptes, els concursants fan bromes pesades, fàcilment imitables, als seus familiars, com fer cops al cap amb una ampolla si fallen una pregunta, bufetejar-se amb menjar o llençar-se (o escopir-se) aigua freda a sobre.;;<b>Llenguatge groller</b>;En un vídeo s'ensenya el dit del mig a càmera, sense intenció ofensiva i en un context distès. També es fan algunes bromes escatològiques i es diu 'tonto' i 'fotre';;En una situació d'angoixa d'afectació lleu, la persona guanyadora del programa plora d'emoció."
