@@ -121,7 +121,7 @@
     "titol": "Videoclip: Opening Yu Yu Hakusho",
     "codi": "6179409",
     "edat": "0",
-    "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, no legitimada;Por i angoixa ocasional d'afectació lleu"
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa ocasional d'afectació lleu"
   },
   {
     "titol": "Videoclip: Opening Ronja",
@@ -220,7 +220,7 @@
     "titol": "Agència galàctica 8",
     "codi": "6164808",
     "edat": "0",
-    "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, no legitimada;Por i angoixa ocasional d'afectació lleu;Conductes i valors incívics amb sanció negativa"
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa ocasional d'afectació lleu<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Agència galàctica 9",
@@ -250,13 +250,13 @@
     "titol": "Animals united",
     "codi": "6087135",
     "edat": "7",
-    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada;Llenguatge groller freqüent d'intensitat baixa;Consum de drogues lícites (alcohol) presentat negativament;Conductes i valors incívics amb sanció negativa"
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada<br>Llenguatge groller freqüent d'intensitat baixa<br>Consum de drogues lícites (alcohol) presentat negativament<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Asterix residència déus",
     "codi": "6194455",
     "edat": "7",
-    "raons": "Violència reiterada, irreal, explícita, d'intensitat molt lleu, legitimada;Contingut sexual ocasional d'explicitació baixa;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Violència reiterada, irreal, explícita, d'intensitat molt lleu, legitimada<br>Contingut sexual ocasional d'explicitació baixa<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Bestial",
@@ -353,7 +353,7 @@
     "titol": "Beta 2x04",
     "codi": "6200222",
     "edat": "7",
-    "raons": "Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics presentats de manera neutra"
+    "raons": "Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics presentats de manera neutra"
   },
   {
     "titol": "Beta 2x05",
@@ -377,7 +377,7 @@
     "titol": "Beta 2x08",
     "codi": "6204730",
     "edat": "7",
-    "raons": "Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció neutra"
+    "raons": "Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "Beta 2x09",
@@ -389,7 +389,7 @@
     "titol": "Beta 2x10",
     "codi": "6208216",
     "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Beta 2x11",
@@ -430,7 +430,7 @@
     "titol": "Black Clover 4",
     "codi": "6195767",
     "edat": "10",
-    "raons": "Violència ocasional, irreal, no explícita, d'intensitat lleu, legitimada;Consum de tabac presentat de forma neutra"
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat lleu, legitimada<br>Consum de tabac presentat de forma neutra"
   },
   {
     "titol": "Black Clover 5",
@@ -442,25 +442,25 @@
     "titol": "Black Clover 6",
     "codi": "6196222",
     "edat": "13",
-    "raons": "Consum de drogues lícites (tabac, alcohol), presentades de forma neutra;(L'episodi presenta freqüents estereotips de gènere.)"
+    "raons": "Consum de drogues lícites (tabac, alcohol), presentades de forma neutra<br>(L'episodi presenta freqüents estereotips de gènere.)"
   },
   {
     "titol": "Black Clover 7",
     "codi": "6196443",
     "edat": "10",
-    "raons": "Consum de drogues lícites (tabac), presentades de forma neutra;Llenguatge groller freqüent d'intensitat baixa;(L'episodi presenta estereotips de gènere i algunes imatges cosificadores.)"
+    "raons": "Consum de drogues lícites (tabac), presentades de forma neutra<br>Llenguatge groller freqüent d'intensitat baixa<br>(L'episodi presenta estereotips de gènere i algunes imatges cosificadores.)"
   },
   {
     "titol": "Black Clover 8",
     "codi": "6196691",
     "edat": "13",
-    "raons": "Consum de drogues lícites (tabac, alcohol), presentades de forma neutra;(L'episodi presenta freqüents estereotips de gènere.)"
+    "raons": "Consum de drogues lícites (tabac, alcohol), presentades de forma neutra<br>(L'episodi presenta freqüents estereotips de gènere.)"
   },
   {
     "titol": "Black Clover 9",
     "codi": "6197527",
     "edat": "10",
-    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada;Consum de drogues lícites (tabac), presentades de forma neutra;Llenguatge groller freqüent d'intensitat baixa"
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada<br>Consum de drogues lícites (tabac), presentades de forma neutra<br>Llenguatge groller freqüent d'intensitat baixa"
   },
   {
     "titol": "Black Clover 10",
@@ -472,19 +472,19 @@
     "titol": "Black Clover 11",
     "codi": "6198549",
     "edat": "13",
-    "raons": "Consum de drogues lícites (tabac), presentades de forma neutra;Comportaments masclistes presentats de forma neutra"
+    "raons": "Consum de drogues lícites (tabac), presentades de forma neutra<br>Comportaments masclistes presentats de forma neutra"
   },
   {
     "titol": "Black Clover 12",
     "codi": "6198322",
     "edat": "7",
-    "raons": "Violència ocasional, irreal, no explícita, d'intensitat lleu, no legitimada;Por i angoixa freqüent d'afectació lleu;Comportaments discriminatoris amb sanció negativa;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat lleu, no legitimada<br>Por i angoixa freqüent d'afectació lleu<br>Comportaments discriminatoris amb sanció negativa<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Black Clover 13",
     "codi": "6198901",
     "edat": "7",
-    "raons": "Violència freqüent, irreal, no explícita, d'intensitat molt lleu, legitimada;Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa"  
+    "raons": "Violència freqüent, irreal, no explícita, d'intensitat molt lleu, legitimada<br>Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"  
   },
   {
     "titol": "Black Clover 14",
@@ -496,13 +496,13 @@
     "titol": "Black Clover 15",
     "codi": "6199222",
     "edat": "10",
-    "raons": "Violència ocasional, irreal, no explícita, d'intensitat lleu, legitimada;Llenguatge groller freqüent d'intensitat baixa"
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat lleu, legitimada<br>Llenguatge groller freqüent d'intensitat baixa"
   },
   {
     "titol": "Black Clover 16",
     "codi": "6199468",
     "edat": "10",
-    "raons": "Violència freqüent, irreal, no explícita, d'intensitat lleu, legitimada (amb presència breu de sang);Por i angoixa reiterada d'afectació lleu;Llenguatge groller freqüent d'intensitat baixa"
+    "raons": "Violència freqüent, irreal, no explícita, d'intensitat lleu, legitimada (amb presència breu de sang)<br>Por i angoixa reiterada d'afectació lleu<br>Llenguatge groller freqüent d'intensitat baixa"
   },
   {
     "titol": "Black Clover 17",
@@ -514,7 +514,7 @@
     "titol": "Black Clover 18",
     "codi": "6200533",
     "edat": "10",
-    "raons": "Violència ocasional, irreal, no explícita, d'intensitat greu, no legitimada (profusió de sang, també presenta freqüent violència lleu i legitimada);Por i angoixa freqüent d'afectació mitjana;Llenguatge groller freqüent d'intensitat baixa"
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat greu, no legitimada (profusió de sang, també presenta freqüent violència lleu i legitimada)<br>Por i angoixa freqüent d'afectació mitjana<br>Llenguatge groller freqüent d'intensitat baixa"
   },
   {
     "titol": "Black Clover 19",
@@ -526,19 +526,19 @@
     "titol": "Black Clover 20",
     "codi": "6200914",
     "edat": "10",
-    "raons": "Consum de drogues lícites (tabac, alcohol), presentades de forma neutra;Llenguatge groller freqüent d'intensitat baixa"
+    "raons": "Consum de drogues lícites (tabac, alcohol), presentades de forma neutra<br>Llenguatge groller freqüent d'intensitat baixa"
   },
   {
     "titol": "Black Clover 21",
     "codi": "6201726",
     "edat": "10",
-    "raons": "Violència freqüent, irreal, no explícita, d'intensitat lleu, no legitimada;Llenguatge groller freqüent d'intensitat baixa"
+    "raons": "Violència freqüent, irreal, no explícita, d'intensitat lleu, no legitimada<br>Llenguatge groller freqüent d'intensitat baixa"
   },
   {
     "titol": "Black Clover 22",
     "codi": "6201845",
     "edat": "10",
-    "raons": "Violència reiterada, irreal, no explícita, d'intensitat lleu, legitimada (amb presència de sang);Por i angoixa reiterada d'afectació lleu;Llenguatge groller reiterat d'intensitat baixa"
+    "raons": "Violència reiterada, irreal, no explícita, d'intensitat lleu, legitimada (amb presència de sang)<br>Por i angoixa reiterada d'afectació lleu<br>Llenguatge groller reiterat d'intensitat baixa"
   },
   {
     "titol": "Black Clover 23",
@@ -550,7 +550,7 @@
     "titol": "Black Clover 24",
     "codi": "6202282",
     "edat": "10",
-    "raons": "Violència freqüent, irreal, no explícita, d'intensitat lleu, no legitimada;Llenguatge groller freqüent d'intensitat baixa"
+    "raons": "Violència freqüent, irreal, no explícita, d'intensitat lleu, no legitimada<br>Llenguatge groller freqüent d'intensitat baixa"
   },
   {
     "titol": "Black Clover 25",
@@ -568,31 +568,31 @@
     "titol": "Black Clover 27",
     "codi": "6203409",
     "edat": "10",
-    "raons": "Consum de drogues lícites (tabac), presentades de forma neutra;Llenguatge groller freqüent d'intensitat baixa"
+    "raons": "Consum de drogues lícites (tabac), presentades de forma neutra<br>Llenguatge groller freqüent d'intensitat baixa"
   },
   {
     "titol": "Black Clover 28",
     "codi": "6203637",
     "edat": "10",
-    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada (assetjament sexual);Al·lusions sexuals ocasionals d'explicitació mitjana;(També inclou freqüents estereotips de gènere i consum de drogues lícites, presentat, generalment, de forma negativa.)"
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada (assetjament sexual)<br>Al·lusions sexuals ocasionals d'explicitació mitjana<br>(També inclou freqüents estereotips de gènere i consum de drogues lícites, presentat, generalment, de forma negativa.)"
   },
   {
     "titol": "Black Clover 29",
     "codi": "6204415",
     "edat": "13",
-    "raons": "Violència ocasional, irreal, explícita, d'intensitat greu, legitimada;Consum de drogues lícites (alcohol, tabac), presentades de manera neutra"
+    "raons": "Violència ocasional, irreal, explícita, d'intensitat greu, legitimada<br>Consum de drogues lícites (alcohol, tabac), presentades de manera neutra"
   },
   {
     "titol": "Black Clover 30",
     "codi": "6205455",
     "edat": "10",
-    "raons": "Al·lusions sexuals freqüents d'explicitació baixa;Por i angoixa freqüent d'afectació mitjana;Consum de drogues lícites (tabac, alcohol), presentades de forma neutra;Llenguatge groller reiterat d'intensitat baixa;(També inclou estereotips de gènere i situacions de discriminació, amb sanció negativa.)"
+    "raons": "Al·lusions sexuals freqüents d'explicitació baixa<br>Por i angoixa freqüent d'afectació mitjana<br>Consum de drogues lícites (tabac, alcohol), presentades de forma neutra<br>Llenguatge groller reiterat d'intensitat baixa<br>(També inclou estereotips de gènere i situacions de discriminació, amb sanció negativa.)"
   },
   {
     "titol": "Black Clover 31",
     "codi": "6205454",
     "edat": "10",
-    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada (també n'inclou d'irreal i legitimada);Por i angoixa freqüent d'afectació mitjana;Llenguatge groller reiterat d'intensitat baixa"
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada (també n'inclou d'irreal i legitimada)<br>Por i angoixa freqüent d'afectació mitjana<br>Llenguatge groller reiterat d'intensitat baixa"
   },
   {
     "titol": "Black Clover 32",
@@ -604,13 +604,13 @@
     "titol": "Black Clover 33",
     "codi": "6205801",
     "edat": "13",
-    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat greu, no legitimada;Consum de drogues lícites (tabac) presentades de forma neutra"
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat greu, no legitimada<br>Consum de drogues lícites (tabac) presentades de forma neutra"
   },
   {
     "titol": "Black Clover 34",
     "codi": "6205895",
     "edat": "13",
-    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat greu, no legitimada (també n'inclou d'irreal, freqüent, d'intensitat lleu, legitimada);Consum reiterat de drogues lícites (tabac) presentant-ne els efectes de manera neutra"
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat greu, no legitimada (també n'inclou d'irreal, freqüent, d'intensitat lleu, legitimada)<br>Consum reiterat de drogues lícites (tabac) presentant-ne els efectes de manera neutra"
   },
   {
     "titol": "Black Clover 35",
@@ -629,97 +629,97 @@
     "codi": "6207225",
     "edat": "13",
     "raons": "Consum de drogues lícites (tabac), presentades de forma neutra",
-    "mesinfo": "<b>Drogues</b>;Un home apareix sempre fumant.;;També s'inclou reiterada violència irreal, no explícita i legitimada, situacions masclistes i estereotips de gènere, i llenguatge groller d'intensitat baixa."
+    "mesinfo": "<b>Drogues</b><br>Un home apareix sempre fumant.<br><br>També s'inclou reiterada violència irreal, no explícita i legitimada, situacions masclistes i estereotips de gènere, i llenguatge groller d'intensitat baixa."
   },
   {
     "titol": "Black Clover 38",
     "codi": "6207324",
     "edat": "13",
-    "raons": "Consum de drogues lícites (tabac), presentades de forma neutra;Estereotips de gènere i comentaris masclistes i discriminatoris per aparença física, amb sanció neutra",
-    "mesinfo": "<b>Drogues</b>;Un home apareix sempre fumant.;;<b>Discriminació, racisme i xenofòbia</b>;Alguns personatges són ridiculitzats per la seva aparença física, utilitzant noms com 'llom embotit'. Una dona fa comentaris que es podrien considerar continuistes d'uns estereotips de gènere quan, per exemple, es pregunta si pot ser cert que els homes prefereixin les dones que cuinen bé.;;També inclou llenguatge groller reiterat de baixa intensitat i conductes incíviques, com menjar de forma descontrolada, en un context humorístic."
+    "raons": "Consum de drogues lícites (tabac), presentades de forma neutra<br>Estereotips de gènere i comentaris masclistes i discriminatoris per aparença física, amb sanció neutra",
+    "mesinfo": "<b>Drogues</b><br>Un home apareix sempre fumant.<br><br><b>Discriminació, racisme i xenofòbia</b><br>Alguns personatges són ridiculitzats per la seva aparença física, utilitzant noms com 'llom embotit'. Una dona fa comentaris que es podrien considerar continuistes d'uns estereotips de gènere quan, per exemple, es pregunta si pot ser cert que els homes prefereixin les dones que cuinen bé.<br><br>També inclou llenguatge groller reiterat de baixa intensitat i conductes incíviques, com menjar de forma descontrolada, en un context humorístic."
   },
   {
     "titol": "Black Clover 39",
     "codi": "6207540",
     "edat": "13",
-    "raons": "Consum de drogues lícites (tabac), presentades de forma neutra;Estereotips de gènere i comentaris discriminatoris per aparença física, amb sanció neutra",
-    "mesinfo": "<b>Drogues</b>;Un home apareix sempre fumant.;;<b>Discriminació, racisme i xenofòbia</b>;Alguns personatges són ridiculitzats per la seva aparença física, i una dona es mostra obsessionada pel seu físic. També s'inclouen, en forma de flashback, situacions xenòfobes presentades en negatiu, quan aïllen un home per ser foraster.;;També inclou llenguatge groller reiterat de baixa intensitat, una breu imatge d'un cos ensangonat, i violència de molt poca intensitat, legitimada."
+    "raons": "Consum de drogues lícites (tabac), presentades de forma neutra<br>Estereotips de gènere i comentaris discriminatoris per aparença física, amb sanció neutra",
+    "mesinfo": "<b>Drogues</b><br>Un home apareix sempre fumant.<br><br><b>Discriminació, racisme i xenofòbia</b><br>Alguns personatges són ridiculitzats per la seva aparença física, i una dona es mostra obsessionada pel seu físic. També s'inclouen, en forma de flashback, situacions xenòfobes presentades en negatiu, quan aïllen un home per ser foraster.<br><br>També inclou llenguatge groller reiterat de baixa intensitat, una breu imatge d'un cos ensangonat, i violència de molt poca intensitat, legitimada."
   },
   {
     "titol": "Black Clover 40",
     "codi": "6209137",
     "edat": "13",
-    "raons": "Contingut sexual freqüent d'explicitació mitjana;Consum de drogues lícites (tabac, alcohol), presentades de manera positiva",
-    "mesinfo": "<b>Sexe</b>;Es fan primers plans de cossos femenins en roba de bany, amb intenció cosificadora. Durant tot l'episodi se'n fan comentaris al respecte, preguntant-se si un biquini 'tapa' molt o no o com ha de ser per poder ser l'atracció dels homes. Alguns homes intenten lligar amb noies a la platja però són rebutjats.;;<b>Drogues</b>;Un home apareix sempre fumant. Una dona beu alcohol per 'gaudir' de la seva estada a la platja.;;També inclou violència irreal, amb presència còmica de sang, llenguatge groller freqüent de baixa intensitat, i estereotips de gènere."
+    "raons": "Contingut sexual freqüent d'explicitació mitjana<br>Consum de drogues lícites (tabac, alcohol), presentades de manera positiva",
+    "mesinfo": "<b>Sexe</b><br>Es fan primers plans de cossos femenins en roba de bany, amb intenció cosificadora. Durant tot l'episodi se'n fan comentaris al respecte, preguntant-se si un biquini 'tapa' molt o no o com ha de ser per poder ser l'atracció dels homes. Alguns homes intenten lligar amb noies a la platja però són rebutjats.<br><br><b>Drogues</b><br>Un home apareix sempre fumant. Una dona beu alcohol per 'gaudir' de la seva estada a la platja.<br><br>També inclou violència irreal, amb presència còmica de sang, llenguatge groller freqüent de baixa intensitat, i estereotips de gènere."
   },
   {
     "titol": "Black Clover 41",
     "codi": "6208581",
     "edat": "13",
     "raons": "Consum de drogues lícites (tabac, alcohol), presentades de manera positiva",
-    "mesinfo": "<b>Drogues</b>;Un home apareix sempre fumant. Una dona vomita arcs de Sant Martí després de beure alcohol en un episodi anterior, i diu que ho ha de deixar. En una escena posterior, diu que beurà per a celebrar un èxit d'una companya. El consum de drogues es presenta còmicament, com si fos un tret que defineix aquests personatges, sense intencions serioses de mostrar-ne els efectes.;;Es fa servir llenguatge groller durant tot l'episodi, com 'inútil', 'ruc', 'tanoca' o 'collons'. Hi ha situacions angoixants de poca intensitat quan un personatge recorda mals records del passat, i membres de la seva família li deien que la seva mare va morir per culpa de la seva ineptitud. Hi ha situacions pretesament masclistes presentades en negatiu. A un home li surt sang del nas quan pensa en la seva germana, menor. En la seqüència d'introducció, uns nois tenen sang a la cara."
+    "mesinfo": "<b>Drogues</b><br>Un home apareix sempre fumant. Una dona vomita arcs de Sant Martí després de beure alcohol en un episodi anterior, i diu que ho ha de deixar. En una escena posterior, diu que beurà per a celebrar un èxit d'una companya. El consum de drogues es presenta còmicament, com si fos un tret que defineix aquests personatges, sense intencions serioses de mostrar-ne els efectes.<br><br>Es fa servir llenguatge groller durant tot l'episodi, com 'inútil', 'ruc', 'tanoca' o 'collons'. Hi ha situacions angoixants de poca intensitat quan un personatge recorda mals records del passat, i membres de la seva família li deien que la seva mare va morir per culpa de la seva ineptitud. Hi ha situacions pretesament masclistes presentades en negatiu. A un home li surt sang del nas quan pensa en la seva germana, menor. En la seqüència d'introducció, uns nois tenen sang a la cara."
   },
   {
     "titol": "Black Clover 42",
     "codi": "6208693",
     "edat": "13",
     "raons": "Consum de drogues lícites (tabac, alcohol), presentades de manera neutra",
-    "mesinfo": "<b>Drogues</b>;Un home apareix sempre fumant. Una dona fa referències al consum d'alcohol, quelcom que els altres personatges recriminen, insultant-la per borratxa.;;Hi ha una escena d'assetjament sexual, en què un home gran vol fer tocaments a dues noies, que és immediatament aturat per una d'elles abans no passi res, mitjançant la violència. Posteriorment, ell diu que feia broma. Hi ha més situacions de violència irreal, i hemorràgies, de molt poca intensitat, legitimades, i presentades còmicament. Hi ha llenguatge groller freqüent d'intensitat baixa, i por i angoixa ocasional d'afectació lleu."
+    "mesinfo": "<b>Drogues</b><br>Un home apareix sempre fumant. Una dona fa referències al consum d'alcohol, quelcom que els altres personatges recriminen, insultant-la per borratxa.<br><br>Hi ha una escena d'assetjament sexual, en què un home gran vol fer tocaments a dues noies, que és immediatament aturat per una d'elles abans no passi res, mitjançant la violència. Posteriorment, ell diu que feia broma. Hi ha més situacions de violència irreal, i hemorràgies, de molt poca intensitat, legitimades, i presentades còmicament. Hi ha llenguatge groller freqüent d'intensitat baixa, i por i angoixa ocasional d'afectació lleu."
   },
   {
     "titol": "Black Clover 43",
     "codi": "6208924",
     "edat": "13",
-    "raons": "Consum de drogues lícites (tabac, alcohol), presentades de manera neutra;Comentaris masclistes amb sanció neutra",
-    "mesinfo": "<b>Drogues</b>;Un home apareix sovint fumant. Una dona aguanta una ampolla d'alcohol, i es fa un comentari que, tot i anar sempre 'entrompada', aquest cop se n'ha sortit prou bé.;;<b>Discriminació, racisme i xenofòbia</b>;Un home vell, mentre elogia una dona per la seva habilitat en la lluita, aprofita per dir que té 'bones mamelles'. El seu company l'anomena 'vell verd', però no li recrimina el comentari.;;Inclou llenguatge groller freqüent d'intensitat baixa, entre insults i expressions com 'torracollons' o 'qui et va parir'. Inclou violència freqüent, irreal, legitimada i de molt poca intensitat, tot i que a vegades l'impacte és més explícit i es veu sang."
+    "raons": "Consum de drogues lícites (tabac, alcohol), presentades de manera neutra<br>Comentaris masclistes amb sanció neutra",
+    "mesinfo": "<b>Drogues</b><br>Un home apareix sovint fumant. Una dona aguanta una ampolla d'alcohol, i es fa un comentari que, tot i anar sempre 'entrompada', aquest cop se n'ha sortit prou bé.<br><br><b>Discriminació, racisme i xenofòbia</b><br>Un home vell, mentre elogia una dona per la seva habilitat en la lluita, aprofita per dir que té 'bones mamelles'. El seu company l'anomena 'vell verd', però no li recrimina el comentari.<br><br>Inclou llenguatge groller freqüent d'intensitat baixa, entre insults i expressions com 'torracollons' o 'qui et va parir'. Inclou violència freqüent, irreal, legitimada i de molt poca intensitat, tot i que a vegades l'impacte és més explícit i es veu sang."
   },
   {
     "titol": "Black Clover 44",
     "codi": "6209379",
     "edat": "13",
-    "raons": "Violència freqüent, irreal, no explícita, d'intensitat greu, legitimada;Consum de drogues lícites (tabac, alcohol), presentades de manera neutra",
-    "mesinfo": "<b>Violència</b>;Un monstre pega a la cara d'un grup de mags i els deixa estesos a terra, en bassals de sang. Hi ha combats fantàstics on els personatges provoquen explosions i surten disparats, i van dessagnant-se cada cop més intensament. Hi ha situacions menys intenses i amb intencionalitat més còmica, com quan un noi es pega a la cara per asserenar-se, i li surt sang del nas, o un noi n'electrocuta un altre per fer-li una broma.;;<b>Drogues</b>;Un home i una dona apareixen ocasionalment fumant tabac i bebent alcohol, respectivament.;;Hi ha llenguatge groller freqüent d'intensitat baixa, com insults i expressions com 'malparit' o 'merda'."
+    "raons": "Violència freqüent, irreal, no explícita, d'intensitat greu, legitimada<br>Consum de drogues lícites (tabac, alcohol), presentades de manera neutra",
+    "mesinfo": "<b>Violència</b><br>Un monstre pega a la cara d'un grup de mags i els deixa estesos a terra, en bassals de sang. Hi ha combats fantàstics on els personatges provoquen explosions i surten disparats, i van dessagnant-se cada cop més intensament. Hi ha situacions menys intenses i amb intencionalitat més còmica, com quan un noi es pega a la cara per asserenar-se, i li surt sang del nas, o un noi n'electrocuta un altre per fer-li una broma.<br><br><b>Drogues</b><br>Un home i una dona apareixen ocasionalment fumant tabac i bebent alcohol, respectivament.<br><br>Hi ha llenguatge groller freqüent d'intensitat baixa, com insults i expressions com 'malparit' o 'merda'."
   },
   {
     "titol": "Black Clover 45",
     "codi": "6210706",
     "edat": "13",
-    "raons": "Violència freqüent, irreal, explícita, d'intensitat greu, legitimada;Consum de drogues lícites (tabac), presentades de manera neutra",
-    "mesinfo": "<b>Violència</b>;Dos nois amb la cara ensangonada cauen desplomats a terra després d'un atac màgic. Un monstre envia pels aires a dos nois, deixant-los amb la cara ensangonada. A un d'ells li provoca talls a diverses parts del cos i li estreny amb força el braç, fent-lo cridar de dolor. Hi ha altres escenes de violència, perpetuades pels protagonistes, menys intenses, caracteritzades per explosions i atacs irreals on els dolents surten disparats pels aires, sense presència de sang. Es fa servir freqüentment un llenguatge violent, amb amenaces a la mort i a la tortura.;;<b>Drogues</b>;Un home se'l veu ocasionalment fumant. Una dona alcohòlica diu que 'no és moment de beure'.;;Hi ha llenguatge groller reiterat d'intensitat baixa ('merda', 'malparit', 'escòria', 'desgraciat', 'insecte', 'beneit'...), incloent-hi al·lusions despectives a l'aparença o al comportament d'altres ('fas cara de tenir uns anys ja', 'la golafre del front gros'). A un noi li surt sang del nas quan pensa en la seva germana."
+    "raons": "Violència freqüent, irreal, explícita, d'intensitat greu, legitimada<br>Consum de drogues lícites (tabac), presentades de manera neutra",
+    "mesinfo": "<b>Violència</b><br>Dos nois amb la cara ensangonada cauen desplomats a terra després d'un atac màgic. Un monstre envia pels aires a dos nois, deixant-los amb la cara ensangonada. A un d'ells li provoca talls a diverses parts del cos i li estreny amb força el braç, fent-lo cridar de dolor. Hi ha altres escenes de violència, perpetuades pels protagonistes, menys intenses, caracteritzades per explosions i atacs irreals on els dolents surten disparats pels aires, sense presència de sang. Es fa servir freqüentment un llenguatge violent, amb amenaces a la mort i a la tortura.<br><br><b>Drogues</b><br>Un home se'l veu ocasionalment fumant. Una dona alcohòlica diu que 'no és moment de beure'.<br><br>Hi ha llenguatge groller reiterat d'intensitat baixa ('merda', 'malparit', 'escòria', 'desgraciat', 'insecte', 'beneit'...), incloent-hi al·lusions despectives a l'aparença o al comportament d'altres ('fas cara de tenir uns anys ja', 'la golafre del front gros'). A un noi li surt sang del nas quan pensa en la seva germana."
   },
   {
     "titol": "Black Clover 46",
     "codi": "6210708",
     "edat": "13",
-    "raons": "Violència ocasional, irreal, molt explícita, d'intensitat greu, no legitimada;Por i angoixa reiterada d'afectació mitjana;Consum de drogues lícites (tabac), presentades de manera neutra",
-    "mesinfo": "<b>Violència</b>;Un monstre amputa una cama a un noi, que veiem volar pels aires en silueta, i trenca les cordes vocals a una noia, fent-los un cop sec, expulsant sang. En una escena de l'episodi anterior, aquest monstre intenta trencar-li el braç a un noi mentre el deixa malferit. Hi ha més imatges de sang, com quan s'enfoquen ocasionalment dos cossos malferits més, estesos a terra. En un flashback, tot de persones moren travessades per fletxes que surten del cel. Una noia llança un atac màgic que deixa al monstre sense braç, però no es veu sang i la violència és implícita.;;<b>Por i angoixa</b>;Durant l'episodi es manté una tensió moderada ateses les situacions de perill i de violència en les que es troben els protagonistes, que no s'aturen en cap moment.;;<b>Drogues</b>;Un home se'l veu fumant sempre que es mostra en escena.;;Hi ha llenguatge groller ocasional d'intensitat baixa."
+    "raons": "Violència ocasional, irreal, molt explícita, d'intensitat greu, no legitimada<br>Por i angoixa reiterada d'afectació mitjana<br>Consum de drogues lícites (tabac), presentades de manera neutra",
+    "mesinfo": "<b>Violència</b><br>Un monstre amputa una cama a un noi, que veiem volar pels aires en silueta, i trenca les cordes vocals a una noia, fent-los un cop sec, expulsant sang. En una escena de l'episodi anterior, aquest monstre intenta trencar-li el braç a un noi mentre el deixa malferit. Hi ha més imatges de sang, com quan s'enfoquen ocasionalment dos cossos malferits més, estesos a terra. En un flashback, tot de persones moren travessades per fletxes que surten del cel. Una noia llança un atac màgic que deixa al monstre sense braç, però no es veu sang i la violència és implícita.<br><br><b>Por i angoixa</b><br>Durant l'episodi es manté una tensió moderada ateses les situacions de perill i de violència en les que es troben els protagonistes, que no s'aturen en cap moment.<br><br><b>Drogues</b><br>Un home se'l veu fumant sempre que es mostra en escena.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa."
   },
   {
     "titol": "Black Clover 47",
     "codi": "6210718",
     "edat": "13",
-    "raons": "Violència ocasional, irreal, molt explícita, d'intensitat greu, no legitimada;Consum de drogues lícites (tabac), presentades de manera neutra",
-    "mesinfo": "<b>Violència</b>;Es repeteixen les escenes més cruentes de l'episodi anterior, en què una cama surt disparada i un monstre trenca les cordes vocals d'una noia amb un cop sec. Hi ha més imatges de sang, quan noi se'l veu reiteradament amb sang a la cara, o un monstre rep un atac no explícit que li deixa la cara ensangonada. En una escena d'intensitat lleu, una dona obliga un home a clavar-se una mena d'estaca, que li fa xuclar la vitalitat.;;<b>Drogues</b>;Un home se'l veu fumant sempre que es mostra en escena, i una dona insinua que hauria d'haver vingut 'entrompada'.;;Hi ha contingut sexual ocasional d'explicitació mitjana, quan una dona li ofereix a un noi plorar sobre el seu pit, i en la seqüència extra del final, quan es mostra una imatge suggerent de dues noies en banyador, una posicionada sobre l'altra, mentre la càmera ressegueix els seus cossos de punta a punta. Hi ha situacions de por i angoixa freqüents d'afectació mitjana, a causa de les situacions de violència i de tensió, aquest cop atenuades per la presència de moments còmics. Hi ha llenguatge groller freqüent d'intensitat baixa, quan es diuen expressions com 'hòsties', 'fotre' o 'malparit'."
+    "raons": "Violència ocasional, irreal, molt explícita, d'intensitat greu, no legitimada<br>Consum de drogues lícites (tabac), presentades de manera neutra",
+    "mesinfo": "<b>Violència</b><br>Es repeteixen les escenes més cruentes de l'episodi anterior, en què una cama surt disparada i un monstre trenca les cordes vocals d'una noia amb un cop sec. Hi ha més imatges de sang, quan noi se'l veu reiteradament amb sang a la cara, o un monstre rep un atac no explícit que li deixa la cara ensangonada. En una escena d'intensitat lleu, una dona obliga un home a clavar-se una mena d'estaca, que li fa xuclar la vitalitat.<br><br><b>Drogues</b><br>Un home se'l veu fumant sempre que es mostra en escena, i una dona insinua que hauria d'haver vingut 'entrompada'.<br><br>Hi ha contingut sexual ocasional d'explicitació mitjana, quan una dona li ofereix a un noi plorar sobre el seu pit, i en la seqüència extra del final, quan es mostra una imatge suggerent de dues noies en banyador, una posicionada sobre l'altra, mentre la càmera ressegueix els seus cossos de punta a punta. Hi ha situacions de por i angoixa freqüents d'afectació mitjana, a causa de les situacions de violència i de tensió, aquest cop atenuades per la presència de moments còmics. Hi ha llenguatge groller freqüent d'intensitat baixa, quan es diuen expressions com 'hòsties', 'fotre' o 'malparit'."
   },
   {
     "titol": "Black Clover 48",
     "codi": "6211618",
     "edat": "13",
-    "raons": "Violència freqüent, irreal, explícita, d'intensitat greu, legitimada;Consum de drogues lícites (tabac), presentades de manera neutra",
-    "mesinfo": "<b>Violència</b>;L'heroi es baralla a cops d'espasa amb el monstre antagonista: li impacta a la galta, a l'espatlla, i diverses vegades li travessa el tors, totes acompanyades d'hemorràgies. Ambdós es mostren reiteradament amb sang a la cara. En una escena, l'heroi rep un atac d'urpa al cos i sagna profundament. Es veu un cos a qui li falta una cama, fruit de fets d'episodis anteriors. Es veuen més escenes, aquest cop sense sang, d'explosions o de personatges volant pels aires per impactes d'espasa.;;<b>Drogues</b>;Un home se'l veu fumant sempre que es mostra en escena. Una dona es refereix a sí mateixa com a 'buidaampolles'.;;Hi ha llenguatge groller reiterat d'intensitat baixa ('fotimer', 'merda', 'qui em va parir', 'pebrots', 'caganer', 'front ample', 'torracollons'...). Hi ha situacions de por i angoixa freqüents d'afectació mitjana, per les escenes de violència, així com flashbacks, d'afectació lleu, mostrant el maltractament simbòlic que van patir alguns personatges en la seva infància. Un home diu que la seva cara 'triomfa entre les noies', i se'l veu tirant floretes a algunes dones."
+    "raons": "Violència freqüent, irreal, explícita, d'intensitat greu, legitimada<br>Consum de drogues lícites (tabac), presentades de manera neutra",
+    "mesinfo": "<b>Violència</b><br>L'heroi es baralla a cops d'espasa amb el monstre antagonista: li impacta a la galta, a l'espatlla, i diverses vegades li travessa el tors, totes acompanyades d'hemorràgies. Ambdós es mostren reiteradament amb sang a la cara. En una escena, l'heroi rep un atac d'urpa al cos i sagna profundament. Es veu un cos a qui li falta una cama, fruit de fets d'episodis anteriors. Es veuen més escenes, aquest cop sense sang, d'explosions o de personatges volant pels aires per impactes d'espasa.<br><br><b>Drogues</b><br>Un home se'l veu fumant sempre que es mostra en escena. Una dona es refereix a sí mateixa com a 'buidaampolles'.<br><br>Hi ha llenguatge groller reiterat d'intensitat baixa ('fotimer', 'merda', 'qui em va parir', 'pebrots', 'caganer', 'front ample', 'torracollons'...). Hi ha situacions de por i angoixa freqüents d'afectació mitjana, per les escenes de violència, així com flashbacks, d'afectació lleu, mostrant el maltractament simbòlic que van patir alguns personatges en la seva infància. Un home diu que la seva cara 'triomfa entre les noies', i se'l veu tirant floretes a algunes dones."
   },
   {
     "titol": "Black Clover 49",
     "codi": "6211617",
     "edat": "13",
-    "raons": "Violència freqüent, irreal, explícita, d'intensitat greu, legitimada;Consum de drogues lícites (tabac), presentades de manera neutra",
-    "mesinfo": "<b>Violència<b>;L'heroi rep un atac d'urpa al tors per part del monstre antagonista i sagna profundament. L'heroi l'ataca amb una espasa que li travessa el cos, amb sang i crits. El noi també crida de dolor i se senten cruixits perquè aparentment el monstre li està fent mal al braç. Li claven uns fils per tal que els seus amics li controlin els braços malmesos, d'on surt sang. El monstre s'arranca l'espasa que té clavada i hi surt sang. L'heroi es torna poderós i ataca al monstre a diverses parts del cos, d'on surt sang. El remata i cau desplomat amb la boca oberta, amb el tors ensangonat. Un home talla el monstre per la meitat en silueta, sang inclosa. Es veuen breument cadàvers estesos a terra, i un home a terra amb sang al nas. L'heroi i altres personatges tenen sang a la cara durant tot l'episodi. També es veuen atacs des de la distància que no li provoquen cap ferida.;;<b>Drogues</b>;Un home se'l veu fumant sempre que es mostra en escena. Una dona ofereix obrir 'un bon vinet' per a una celebració, però li diuen que 'ara no és moment d'entrompar-se'.;;Hi ha llenguatge groller freqüent d'intensitat baixa ('torracollons', 'desgraciat', 'malparit', 'pebrots'...)."
+    "raons": "Violència freqüent, irreal, explícita, d'intensitat greu, legitimada<br>Consum de drogues lícites (tabac), presentades de manera neutra",
+    "mesinfo": "<b>Violència<b><br>L'heroi rep un atac d'urpa al tors per part del monstre antagonista i sagna profundament. L'heroi l'ataca amb una espasa que li travessa el cos, amb sang i crits. El noi també crida de dolor i se senten cruixits perquè aparentment el monstre li està fent mal al braç. Li claven uns fils per tal que els seus amics li controlin els braços malmesos, d'on surt sang. El monstre s'arranca l'espasa que té clavada i hi surt sang. L'heroi es torna poderós i ataca al monstre a diverses parts del cos, d'on surt sang. El remata i cau desplomat amb la boca oberta, amb el tors ensangonat. Un home talla el monstre per la meitat en silueta, sang inclosa. Es veuen breument cadàvers estesos a terra, i un home a terra amb sang al nas. L'heroi i altres personatges tenen sang a la cara durant tot l'episodi. També es veuen atacs des de la distància que no li provoquen cap ferida.<br><br><b>Drogues</b><br>Un home se'l veu fumant sempre que es mostra en escena. Una dona ofereix obrir 'un bon vinet' per a una celebració, però li diuen que 'ara no és moment d'entrompar-se'.<br><br>Hi ha llenguatge groller freqüent d'intensitat baixa ('torracollons', 'desgraciat', 'malparit', 'pebrots'...)."
   },
   {
     "titol": "Blinky Bill el coala",
     "codi": "5806569",
     "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Bricociència",
@@ -735,64 +735,64 @@
     "titol": "Busca'm a París 1x01",
     "codi": "6208571",
     "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa",
-    "mesinfo": "<b>Por i angoixa</b>; La protagonista és perseguida per uns homes i acaba travessant un portal que la duu enrere en el temps. Allà està desconcertada i cau desmaiada. Hi ha moments en què està angoixada o afectada emocionalment perquè vol tornar amb el seu xicot. Es fa menció a què la família d'un noi va patir un accident tràgic, sense donar detalls.;;<b>Llenguatge groller</b>;Es diu 'fotre'.;;<b>Conductes i valors incívics</b>;Alguns personatges li parlen en to despectiu a la protagonista, s'enriuen d'ella o li menteixen. El seu comportament no es presenta en positiu."
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "<b>Por i angoixa</b><br> La protagonista és perseguida per uns homes i acaba travessant un portal que la duu enrere en el temps. Allà està desconcertada i cau desmaiada. Hi ha moments en què està angoixada o afectada emocionalment perquè vol tornar amb el seu xicot. Es fa menció a què la família d'un noi va patir un accident tràgic, sense donar detalls.<br><br><b>Llenguatge groller</b><br>Es diu 'fotre'.<br><br><b>Conductes i valors incívics</b><br>Alguns personatges li parlen en to despectiu a la protagonista, s'enriuen d'ella o li menteixen. El seu comportament no es presenta en positiu."
   },
   {
     "titol": "Busca'm a París 1x02",
     "codi": "6208580",
     "edat": "7",
-    "raons": "Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa",
-    "mesinfo": "<b>Llenguatge groller</b>;Es diu 'cagada', 'això és l'hòstia' o 'quedar com el cul'.;;<b>Conductes i valors incívics</b>;La protagonista pateix assetjament i ciberassetjament quan, per exemple, es difon un vídeo d'ella caient a terra mentre fa un ball que tothom considera ridícul. Aquests comportaments són recriminats implícitament per l'argument.;;També inclou situacions d'angoixa ocasional d'afectació lleu."
+    "raons": "Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'cagada', 'això és l'hòstia' o 'quedar com el cul'.<br><br><b>Conductes i valors incívics</b><br>La protagonista pateix assetjament i ciberassetjament quan, per exemple, es difon un vídeo d'ella caient a terra mentre fa un ball que tothom considera ridícul. Aquests comportaments són recriminats implícitament per l'argument.<br><br>També inclou situacions d'angoixa ocasional d'afectació lleu."
   },
   {
     "titol": "Busca'm a París 1x03",
     "codi": "6208579",
     "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu;Conductes i valors incívics amb sanció negativa",
-    "mesinfo": "<b>Por i angoixa</b>;Hi ha escenes de persecució entre un grup d'homes, la protagonista i el seu nòvio, qui tenen capturat. Hi ha moments en què ella es mostra visiblement afectada. Es fa menció d'una tragèdia familiar.;;<b>Conductes i valors incívics</b>;Una amiga descobreix que la protagonista li està mentint i ella li explica la veritat. Es recrimina el comportament egoista d'una rival."
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "<b>Por i angoixa</b><br>Hi ha escenes de persecució entre un grup d'homes, la protagonista i el seu nòvio, qui tenen capturat. Hi ha moments en què ella es mostra visiblement afectada. Es fa menció d'una tragèdia familiar.<br><br><b>Conductes i valors incívics</b><br>Una amiga descobreix que la protagonista li està mentint i ella li explica la veritat. Es recrimina el comportament egoista d'una rival."
   },
   {
     "titol": "Busca'm a París 1x04",
     "codi": "6208569",
     "edat": "10",
     "raons": "Llenguatge groller freqüent d'intensitat baixa",
-    "mesinfo": "<b>Llenguatge groller</b>;Una escena gira entorn de la paraula 'acollonida'. També es diuen 'cagada', 'no fotem' i 'idiota'."
+    "mesinfo": "<b>Llenguatge groller</b><br>Una escena gira entorn de la paraula 'acollonida'. També es diuen 'cagada', 'no fotem' i 'idiota'."
   },
   {
     "titol": "Busca'm a París 1x05",
     "codi": "6208573",
     "edat": "7",
     "raons": "Conductes i valors incívics amb sanció negativa",
-    "mesinfo": "<b>Conductes i valors incívics</b>;La protagonista i un amic seu se salten una classe de l'escola voluntàriament. En arribar tard, són castigats. Un noi critica irrespectuosament el caràcter d'una amiga seva i s'enfada, però s'acaben reconciliant. Una noia penja a les xarxes un vídeo sense permís.;;Dos amics es diuen expressions com 'penjada' o 'beneit', sense ànim d'ofendre. Hi ha situacions de por i angoixa ocasionals amb una afectació lleu quan la protagonista nota la presència del seu enyorat xicot, qui viatja en el temps, o quan ell és amenaçat per un altre home amb una arma irreal."
+    "mesinfo": "<b>Conductes i valors incívics</b><br>La protagonista i un amic seu se salten una classe de l'escola voluntàriament. En arribar tard, són castigats. Un noi critica irrespectuosament el caràcter d'una amiga seva i s'enfada, però s'acaben reconciliant. Una noia penja a les xarxes un vídeo sense permís.<br><br>Dos amics es diuen expressions com 'penjada' o 'beneit', sense ànim d'ofendre. Hi ha situacions de por i angoixa ocasionals amb una afectació lleu quan la protagonista nota la presència del seu enyorat xicot, qui viatja en el temps, o quan ell és amenaçat per un altre home amb una arma irreal."
   },
   {
     "titol": "Busca'm a París 1x06",
     "codi": "6208576",
     "edat": "7",
-    "raons": "Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa",
-    "mesinfo": "<b>Llenguatge groller</b>;Es diu 'això és l'hòstia', 'cagar', 'fotimer' i 'tòtil'.;;<b>Conductes i valors incívics</b>;Unes nenes manipuladores dediquen l'episodi a enganyar les protagonistes per tal de sabotejar-les i fer que rivalitzin encara més. Aquests comportaments se sancionen explícitament.;;Hi ha situacions d'angoixa ocasionals d'afectació lleu quan un home és perseguit i acorralat. Hi ha una escena en què els personatges s'escapen per un conducte de ventilació, i a un noi li fan un copet al cap perquè diu ximpleries."
+    "raons": "Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'això és l'hòstia', 'cagar', 'fotimer' i 'tòtil'.<br><br><b>Conductes i valors incívics</b><br>Unes nenes manipuladores dediquen l'episodi a enganyar les protagonistes per tal de sabotejar-les i fer que rivalitzin encara més. Aquests comportaments se sancionen explícitament.<br><br>Hi ha situacions d'angoixa ocasionals d'afectació lleu quan un home és perseguit i acorralat. Hi ha una escena en què els personatges s'escapen per un conducte de ventilació, i a un noi li fan un copet al cap perquè diu ximpleries."
   },
   {
     "titol": "Busca'm a París 1x07",
     "codi": "6208568",
     "edat": "7",
-    "raons": "Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa",
-    "mesinfo": "<b>Llenguatge groller</b>;Es diu 'vés a cagar' i 'cagondena'.;;<b>Conductes i valors incívics</b>;Un noi s'enriu del que ha dit una noia i el renyen immediatament. Una noia és la rival de la protagonista, i li parla despectivament."
+    "raons": "Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'vés a cagar' i 'cagondena'.<br><br><b>Conductes i valors incívics</b><br>Un noi s'enriu del que ha dit una noia i el renyen immediatament. Una noia és la rival de la protagonista, i li parla despectivament."
   },
   {
     "titol": "Busca'm a París 1x08",
     "codi": "6208572",
     "edat": "7",
     "raons": "Llenguatge groller ocasional d'intensitat baixa",
-    "mesinfo": "<b>Llenguatge groller</b>;Es diu 'merda' i 'de l'hòstia'.;;Una noia desagradable beu un suc després que li diguin explícitament que no ho podia fer, o és desagradable amb la protagonista, en escenes puntuals. Hi ha situacions de por o angoixa ocasional d'afectació lleu quan un home és acorralat i atrapat, o quan una noia comenta sense donar detalls que els seus pares es van divorciar."
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'merda' i 'de l'hòstia'.<br><br>Una noia desagradable beu un suc després que li diguin explícitament que no ho podia fer, o és desagradable amb la protagonista, en escenes puntuals. Hi ha situacions de por o angoixa ocasional d'afectació lleu quan un home és acorralat i atrapat, o quan una noia comenta sense donar detalls que els seus pares es van divorciar."
   },
   {
     "titol": "Busca'm a París 1x09",
     "codi": "6208578",
     "edat": "10",
     "raons": "Conductes i valors incívics amb sanció neutra",
-    "mesinfo": "<b>Conductes i valors incívics</b>;Un noi fa servir el telèfon a classe tot i tenir-ho estrictament prohibit. Ell diu que només ho està 'si ens enxampen'. El professor se'l mira mentre el fa servir però no diu res. En altres escenes es presenta de manera divertida enriure's de l'aparença dels altres, o de les capacitats vocals d'un altre. El pare d'un noi truca el seu fill per telèfon i ell li rebutja la trucada.;;Es diu 'fotre', 'collons' i 'hòstia', un cop cadascuna. Hi ha situacions de por i angoixa ocasional amb afectació lleu quan una noia comenta sense detall el divorci dels seus pares, o quan un noi lligat a una butaca és amenaçat mentre sona música de tensió."
+    "mesinfo": "<b>Conductes i valors incívics</b><br>Un noi fa servir el telèfon a classe tot i tenir-ho estrictament prohibit. Ell diu que només ho està 'si ens enxampen'. El professor se'l mira mentre el fa servir però no diu res. En altres escenes es presenta de manera divertida enriure's de l'aparença dels altres, o de les capacitats vocals d'un altre. El pare d'un noi truca el seu fill per telèfon i ell li rebutja la trucada.<br><br>Es diu 'fotre', 'collons' i 'hòstia', un cop cadascuna. Hi ha situacions de por i angoixa ocasional amb afectació lleu quan una noia comenta sense detall el divorci dels seus pares, o quan un noi lligat a una butaca és amenaçat mentre sona música de tensió."
   },
   {
     "titol": "Buscant la màgica Doremi",
@@ -804,7 +804,7 @@
     "titol": "Club Winx aventura màgica",
     "codi": "5817761",
     "edat": "7",
-    "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, legitimada;Por i angoixa freqüent d'afectació lleu;(Nota: Inclou reiteradament estereotips de gènere que poden ser problemàtics.)"
+    "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, legitimada<br>Por i angoixa freqüent d'afectació lleu<br>(Nota: Inclou reiteradament estereotips de gènere que poden ser problemàtics.)"
   },
   {
     "titol": "D'aventura castigats",
@@ -839,7 +839,7 @@
     "titol": "D'aventura castigats 2x03",
     "codi": "6092861",
     "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "D'aventura castigats 2x04",
@@ -851,13 +851,13 @@
     "titol": "D'aventura castigats 2x05",
     "codi": "6093949",
     "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "D'aventura castigats 2x06",
     "codi": "6093948",
     "edat": "7",
-    "raons": "Por i angoixa ocasional d'afectació mitjana;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Por i angoixa ocasional d'afectació mitjana<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "D'aventura castigats 2x07",
@@ -880,7 +880,7 @@
     "titol": "D'aventura castigats 2x10",
     "codi": "6096828",
     "edat": "7",
-    "raons": "Por i angoixa ocasional d'afectació mitjana;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Por i angoixa ocasional d'afectació mitjana<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "D'aventura castigats 3x01",
@@ -892,13 +892,13 @@
     "titol": "D'aventura castigats 3x02",
     "codi": "6191437",
     "edat": "7",
-    "raons": "Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció neutra"
+    "raons": "Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "D'aventura castigats 3x03",
     "codi": "6191440",
     "edat": "7",
-    "raons": "Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+    "raons": "Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "D'aventura castigats 3x04",
@@ -916,7 +916,7 @@
     "titol": "D'aventura castigats 3x06",
     "codi": "6192794",
     "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "D'aventura castigats 3x07",
@@ -993,7 +993,7 @@
     "titol": "El 422 1x02",
     "codi": "6138996",
     "edat": "10",
-    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada;Por i angoixa reiterada d'afectació lleu"
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada<br>Por i angoixa reiterada d'afectació lleu"
   },
   {
     "titol": "El 422 1x03",
@@ -1011,19 +1011,19 @@
     "titol": "El 422 1x05",
     "codi": "6142606",
     "edat": "10",
-    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada;Por i angoixa reiterada d'afectació lleu"
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada<br>Por i angoixa reiterada d'afectació lleu"
   },
   {
     "titol": "El 422 1x06",
     "codi": "6143775",
     "edat": "10",
-    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada;Por i angoixa reiterada d'afectació lleu"
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada<br>Por i angoixa reiterada d'afectació lleu"
   },
   {
     "titol": "El 422 1x07",
     "codi": "6144892",
     "edat": "10",
-    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada;Por i angoixa reiterada d'afectació lleu"
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada<br>Por i angoixa reiterada d'afectació lleu"
   },
   {
     "titol": "El 422 1x08",
@@ -1059,7 +1059,7 @@
     "titol": "El 422 1x13",
     "codi": "6152034",
     "edat": "10",
-    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada;Por i angoixa reiterada d'afectació lleu;Llenguatge groller ocasional d'intensitat alta"
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada<br>Por i angoixa reiterada d'afectació lleu<br>Llenguatge groller ocasional d'intensitat alta"
   },
   {
     "titol": "El 422 2x01",
@@ -1089,7 +1089,7 @@
     "titol": "El 422 2x05",
     "codi": "6155382",
     "edat": "10",
-    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada;Por i angoixa reiterada d'afectació lleu"
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada<br>Por i angoixa reiterada d'afectació lleu"
   },
   {
     "titol": "El 422 2x06",
@@ -1101,19 +1101,19 @@
     "titol": "El 422 2x07",
     "codi": "6156539",
     "edat": "10",
-    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada;Por i angoixa reiterada d'afectació lleu"
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada<br>Por i angoixa reiterada d'afectació lleu"
   },
   {
     "titol": "El 422 2x08",
     "codi": "6156540",
     "edat": "10",
-    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada;Por i angoixa reiterada d'afectació lleu"
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada<br>Por i angoixa reiterada d'afectació lleu"
   },
   {
     "titol": "El 422 2x09",
     "codi": "6157673",
     "edat": "10",
-    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada;Por i angoixa reiterada d'afectació lleu"
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada<br>Por i angoixa reiterada d'afectació lleu"
   },
   {
     "titol": "El 422 2x10",
@@ -1131,7 +1131,7 @@
     "titol": "El 422 2x12",
     "codi": "6158824",
     "edat": "10",
-    "raons": "Violència freqüent, irreal, no explícita, d'intensitat lleu, no legitimada;Por i angoixa reiterada d'afectació lleu"
+    "raons": "Violència freqüent, irreal, no explícita, d'intensitat lleu, no legitimada<br>Por i angoixa reiterada d'afectació lleu"
   },
   {
     "titol": "El carrer Scream",
@@ -1148,7 +1148,7 @@
     "titol": "El carrer Scream 2",
     "codi": "6193443",
     "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "El detectiu Conan",
@@ -1171,13 +1171,13 @@
     "titol": "El detectiu Conan 911",
     "codi": "6106200",
     "edat": "10",
-    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada;Por i angoixa freqüent d'afectació mitjana"
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada<br>Por i angoixa freqüent d'afectació mitjana"
   },
   {
     "titol": "El detectiu Conan 912",
     "codi": "6106401",
     "edat": "13",
-    "raons": "Violència freqüent, versemblant, no explícita, d'intensitat lleu, no legitimada;Al·lusions i consum de drogues lícites (alcohol, tabac), presentades de forma neutra"
+    "raons": "Violència freqüent, versemblant, no explícita, d'intensitat lleu, no legitimada<br>Al·lusions i consum de drogues lícites (alcohol, tabac), presentades de forma neutra"
   },
   {
     "titol": "El detectiu Conan 913",
@@ -1194,7 +1194,7 @@
     "titol": "El detectiu Conan La bala escarlata",
     "codi": "6190209",
     "edat": "13",
-    "raons": "Violència ocasional, versemblant, explícita, d'intensitat greu, no legitimada;Abús de drogues lícites (alcohol), presentat neutralment"
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat greu, no legitimada<br>Abús de drogues lícites (alcohol), presentat neutralment"
   },
   {
     "titol": "El detectiu Conan The Scarlet Alibi titol",
@@ -1216,7 +1216,7 @@
     "titol": "El llibre de la selva xafarranxo",
     "codi": "3886430",
     "edat": "7",
-    "raons": "Violència ocasional, irreal, explícita, d'intensitat molt lleu, legitimada;Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+    "raons": "Violència ocasional, irreal, explícita, d'intensitat molt lleu, legitimada<br>Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "El manual dels dracs titol",
@@ -1227,14 +1227,14 @@
     "titol": "El manual dels dracs",
     "codi": "6087816",
     "edat": "7",
-    "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, legitimada;Por i angoixa freqüent d'afectació lleu"
+    "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, legitimada<br>Por i angoixa freqüent d'afectació lleu"
   },
   {
     "titol": "El meu gos és un detectiu",
     "codi": "6209979",
     "edat": "10",
-    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, legitimada;Conductes i valors incívics amb sanció neutra",
-    "mesinfo": "<b>Violència</b>;Uns homes tenen armes, però no les fan servir. Una dona li dona una puntada de peu a l'entrecuix d'un home. La dona li llença una bossa a un home, abans que ell la tanqui amb clau en una habitació. Un nen dispara un dard de joguina a un home, fent-lo caure. Un gos fa caure un home a terra. Una noia pega l'entrecuix d'un home amb un martell. Un home llença un plat sobre el cap d'un home qui, en despertar-se, es posa el coll a lloc. Un home amenaça una nena i ella respon donant-li una puntada de peu. Les escenes de violència tenen molt poca intensitat, i tenen naturalesa còmica, però es presenten en positiu, ja que qui la provoquen són els protagonistes, bons, contra els dolents, mentre es feliciten pel que han fet.;;<b>Conductes i valors incívics</b>;Els gossos mascles fan constantment comentaris sobre el físic d'altres personatges femenins o per poder cridar la seva atenció ('és una dona molt atractiva', 'ella és molt guapa', 't'has de fer les ungles', '(la nena) es fa la dura, m'agrada', 'veig que has tornat, preciosa', 'la Cleo és un bombonet', etc.). Els nens protagonistes es colen d'amagat a la casa dels dolents, cosa que no rep cap càstig al final de la història ja que, gràcies als seus actes, resolen el cas i acaben amb els malfactors. L'antagonista té corromput un agent de policia i tracta amb menyspreu la gent del seu entorn, com quan suposa infundadament que alguns d'ells tenen 'problemes mentals'.;;Hi ha llenguatge groller ocasional d'intensitat baixa, com 'merder'. La mort passada de la mare del protagonista menor d'edat i com ho viuen ell i el seu pare és un tema recurrent, però es presenta amb delicadesa."
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, legitimada<br>Conductes i valors incívics amb sanció neutra",
+    "mesinfo": "<b>Violència</b><br>Uns homes tenen armes, però no les fan servir. Una dona li dona una puntada de peu a l'entrecuix d'un home. La dona li llença una bossa a un home, abans que ell la tanqui amb clau en una habitació. Un nen dispara un dard de joguina a un home, fent-lo caure. Un gos fa caure un home a terra. Una noia pega l'entrecuix d'un home amb un martell. Un home llença un plat sobre el cap d'un home qui, en despertar-se, es posa el coll a lloc. Un home amenaça una nena i ella respon donant-li una puntada de peu. Les escenes de violència tenen molt poca intensitat, i tenen naturalesa còmica, però es presenten en positiu, ja que qui la provoquen són els protagonistes, bons, contra els dolents, mentre es feliciten pel que han fet.<br><br><b>Conductes i valors incívics</b><br>Els gossos mascles fan constantment comentaris sobre el físic d'altres personatges femenins o per poder cridar la seva atenció ('és una dona molt atractiva', 'ella és molt guapa', 't'has de fer les ungles', '(la nena) es fa la dura, m'agrada', 'veig que has tornat, preciosa', 'la Cleo és un bombonet', etc.). Els nens protagonistes es colen d'amagat a la casa dels dolents, cosa que no rep cap càstig al final de la història ja que, gràcies als seus actes, resolen el cas i acaben amb els malfactors. L'antagonista té corromput un agent de policia i tracta amb menyspreu la gent del seu entorn, com quan suposa infundadament que alguns d'ells tenen 'problemes mentals'.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa, com 'merder'. La mort passada de la mare del protagonista menor d'edat i com ho viuen ell i el seu pare és un tema recurrent, però es presenta amb delicadesa."
   },
   {
     "titol": "El millor en tot",
@@ -1262,7 +1262,7 @@
     "titol": "El millor en tot 1x04",
     "codi": "6152208",
     "edat": "7",
-    "raons": "Al·lusions violentes freqüents i ús d'armes en un context esportiu;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Al·lusions violentes freqüents i ús d'armes en un context esportiu<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "El millor en tot 1x05",
@@ -1326,7 +1326,7 @@
     "titol": "El millor en tot 2x05",
     "codi": "6169662",
     "edat": "7",
-    "raons": "Al·lusió al suïcidi;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Al·lusió al suïcidi<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "El millor en tot 2x06",
@@ -1338,7 +1338,7 @@
     "titol": "El millor en tot 2x07",
     "codi": "6171333",
     "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "El millor en tot 2x08",
@@ -1355,7 +1355,7 @@
     "titol": "El món prodigiós Xangai",
     "codi": "6129416",
     "edat": "0",
-    "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, no legitimada;Por i angoixa ocasional d'afectació lleu"
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa ocasional d'afectació lleu"
   },
   {
     "titol": "Els 3 de sota contes d'Arcàdia",
@@ -1376,7 +1376,7 @@
     "titol": "Els investigadors i el tresor de les profunditats marines",
     "codi": "6194917",
     "edat": "10",
-    "raons": "Llenguatge groller freqüent d'intensitat baixa;Conductes i valors incívics amb sanció neutra (activitats perilloses, manca de respecte mutu)"
+    "raons": "Llenguatge groller freqüent d'intensitat baixa<br>Conductes i valors incívics amb sanció neutra (activitats perilloses, manca de respecte mutu)"
   },
   {
     "titol": "Els Mini Ninges",
@@ -1387,13 +1387,13 @@
     "titol": "Els Mini Ninges 1",
     "codi": "5874613",
     "edat": "7",
-    "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, legitimada;Por i angoixa freqüent d'afectació lleu"
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, legitimada<br>Por i angoixa freqüent d'afectació lleu"
   },
   {
     "titol": "Els Mini Ninges 2",
     "codi": "5874617",
     "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Els Mini Ninges 3",
@@ -1417,19 +1417,19 @@
     "titol": "Els Mini Ninges 6",
     "codi": "5874619",
     "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Els Mini Ninges 7",
     "codi": "5874611",
     "edat": "7",
-    "raons": "Violència ocasional, irreal, explícita, d'intensitat molt lleu, legitimada;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Violència ocasional, irreal, explícita, d'intensitat molt lleu, legitimada<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Els Mini Ninges 8",
     "codi": "5875870",
     "edat": "7",
-    "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, legitimada;Por i angoixa freqüent d'afectació lleu"
+    "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, legitimada<br>Por i angoixa freqüent d'afectació lleu"
   },
   {
     "titol": "Els Mini Ninges 9",
@@ -1441,13 +1441,13 @@
     "titol": "Els Mini Ninges 10",
     "codi": "5875914",
     "edat": "7",
-    "raons": "Violència ocasional, irreal, explícita, d'intensitat molt lleu, legitimada;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Violència ocasional, irreal, explícita, d'intensitat molt lleu, legitimada<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Els Mini Ninges 11",
     "codi": "5875891",
     "edat": "7",
-    "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, legitimada;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, legitimada<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Els Mini Ninges 12",
@@ -1477,25 +1477,25 @@
     "titol": "Els Mini Ninges 16",
     "codi": "5875890",
     "edat": "7",
-    "raons": "Violència ocasional, irreal, explícita, d'intensitat molt lleu, legitimada;Por i angoixa freqüent d'afectació lleu"
+    "raons": "Violència ocasional, irreal, explícita, d'intensitat molt lleu, legitimada<br>Por i angoixa freqüent d'afectació lleu"
   },
   {
     "titol": "Els Mini Ninges 17",
     "codi": "5875910",
     "edat": "7",
-    "raons": "Violència ocasional, irreal, explícita, d'intensitat molt lleu, legitimada;Conductes i valors incívics amb sanció negativa"
+    "raons": "Violència ocasional, irreal, explícita, d'intensitat molt lleu, legitimada<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Els Mini Ninges 18",
     "codi": "5875912",
     "edat": "7",
-    "raons": "Violència ocasional, irreal, explícita, d'intensitat molt lleu, legitimada;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Violència ocasional, irreal, explícita, d'intensitat molt lleu, legitimada<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Els Mini Ninges 19",
     "codi": "5875892",
     "edat": "7",
-    "raons": "Violència ocasional, irreal, explícita, d'intensitat molt lleu, legitimada;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Violència ocasional, irreal, explícita, d'intensitat molt lleu, legitimada<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Els Mini Ninges 20",
@@ -1533,14 +1533,14 @@
     "titol": "Eufòria el càsting final els últims escollits",
     "codi": "6207008",
     "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Eufòria 2 gala 1",
     "codi": "6208461",
     "edat": "7",
-    "raons": "Contingut sexual ocasional d'explicitació baixa;Llenguatge groller ocasional d'intensitat baixa",
-    "mesinfo": "<b>Sexe</b>;Es fan algunes al·lusions a comportaments sexuals (per exemple, es parla vagament de 'perrejar' o que un noi treballava en un lloc on es va arribar a 'despullar'), i algunes coreografies o vestimentes tenen una càrrega eròtica lleu en simular actituds lascives.;;<b>Llenguatge groller</b>;Es fan servir expressions com 'hòstia', 'putada' o 'acollonir'. La seva presència és ocasional -tenint en compte la durada del programa- i gairebé anecdòtica.;;Hi ha situacions d'angoixa i por amb una afectació lleu quan els concursants diuen que han patit vivències doloroses, sense concretar en la majoria de casos, o es mostren visiblement emocionats pels resultats de les votacions i del veredicte del jurat. En una cançó, es fa una al·lusió fugaç al consum de drogues lícites ('...vas amb ressaca al partit...')."
+    "raons": "Contingut sexual ocasional d'explicitació baixa<br>Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Sexe</b><br>Es fan algunes al·lusions a comportaments sexuals (per exemple, es parla vagament de 'perrejar' o que un noi treballava en un lloc on es va arribar a 'despullar'), i algunes coreografies o vestimentes tenen una càrrega eròtica lleu en simular actituds lascives.<br><br><b>Llenguatge groller</b><br>Es fan servir expressions com 'hòstia', 'putada' o 'acollonir'. La seva presència és ocasional -tenint en compte la durada del programa- i gairebé anecdòtica.<br><br>Hi ha situacions d'angoixa i por amb una afectació lleu quan els concursants diuen que han patit vivències doloroses, sense concretar en la majoria de casos, o es mostren visiblement emocionats pels resultats de les votacions i del veredicte del jurat. En una cançó, es fa una al·lusió fugaç al consum de drogues lícites ('...vas amb ressaca al partit...')."
   },
   {
     "titol": "Eufòria 2 gala 1 clip alèxia",
@@ -1636,7 +1636,7 @@
     "codi": "6209846",
     "edat": "10",
     "raons": "Llenguatge groller freqüent d'intensitat baixa",
-    "mesinfo": "<b>Llenguatge groller</b>;Es fan servir, amb certa freqüència durant el programa, expressions com 'merda', 'hòstia', 'fotre', 'cagat', 'fins als collons' o 'collonuda'.;;Algunes coreografies, puntualment, simulen actituds lascives amb una càrrega eròtica lleu. Hi ha situacions ocasionals d'angoixa amb una afectació lleu quan els concursants s'emocionen, o estan nerviosos, pels resultats de les votacions."
+    "mesinfo": "<b>Llenguatge groller</b><br>Es fan servir, amb certa freqüència durant el programa, expressions com 'merda', 'hòstia', 'fotre', 'cagat', 'fins als collons' o 'collonuda'.<br><br>Algunes coreografies, puntualment, simulen actituds lascives amb una càrrega eròtica lleu. Hi ha situacions ocasionals d'angoixa amb una afectació lleu quan els concursants s'emocionen, o estan nerviosos, pels resultats de les votacions."
   },
   {
     "titol": "Eufòria 2 gala 2 clip sofia",
@@ -1716,8 +1716,8 @@
     "titol": "Eufòria 2 gala 3",
     "codi": "6211165",
     "edat": "10",
-    "raons": "Contingut sexual freqüent d'explicitació baixa;Al·lusions ocasionals al consum d'alcohol, presentat de manera neutra;Llenguatge groller ocasional d'intensitat alta",
-    "mesinfo": "<b>Sexe</b>;Algunes actuacions presenten al·lusions a situacions sexuals, tant verbals (per exemple, lletres com 'a les nits que estic calent et necessito', 'voldria resseguir-te la pell') com visuals (coreografies sexualitzades). Entre actuacions es fan més comentaris, com dir que una noia és 'sexi', preguntar-se què vol dir la frase 'voulez-vous coucher avec moi' o com quan la presentadora li diu a un concursant que li agrada que vagi lleuger de roba. Algunes lletres es critiquen per masclistes.;;<b>Drogues</b>;Es fa una broma que un concursant, per com ha cantat, semblava 'un borratxo' en un comiat de solter. Es consumeix vi en dues situacions, en un bar fictici i en un dinar familiar. En una cançó es diu 'perdoneu, que l'alcohol em reclama'.;;<b>Llenguatge groller</b>;Un concursant crida 'me càgon la puta'. Primer demana perdó però tothom li diu immediatament que això és el que ha de fer per alliberar-se. També es fan servir ocasionalment 'merda', 'hòstia', 'fotre' i 'cagada'.;;Hi ha situacions ocasionals que poden provocar por o angoixa lleument, quan es comenta que un noi està acostumat a viure sense els pares o que els avis són 'al cel', així com diversos moments en què els concursants ploren pels resultats de les votacions."
+    "raons": "Contingut sexual freqüent d'explicitació baixa<br>Al·lusions ocasionals al consum d'alcohol, presentat de manera neutra<br>Llenguatge groller ocasional d'intensitat alta",
+    "mesinfo": "<b>Sexe</b><br>Algunes actuacions presenten al·lusions a situacions sexuals, tant verbals (per exemple, lletres com 'a les nits que estic calent et necessito', 'voldria resseguir-te la pell') com visuals (coreografies sexualitzades). Entre actuacions es fan més comentaris, com dir que una noia és 'sexi', preguntar-se què vol dir la frase 'voulez-vous coucher avec moi' o com quan la presentadora li diu a un concursant que li agrada que vagi lleuger de roba. Algunes lletres es critiquen per masclistes.<br><br><b>Drogues</b><br>Es fa una broma que un concursant, per com ha cantat, semblava 'un borratxo' en un comiat de solter. Es consumeix vi en dues situacions, en un bar fictici i en un dinar familiar. En una cançó es diu 'perdoneu, que l'alcohol em reclama'.<br><br><b>Llenguatge groller</b><br>Un concursant crida 'me càgon la puta'. Primer demana perdó però tothom li diu immediatament que això és el que ha de fer per alliberar-se. També es fan servir ocasionalment 'merda', 'hòstia', 'fotre' i 'cagada'.<br><br>Hi ha situacions ocasionals que poden provocar por o angoixa lleument, quan es comenta que un noi està acostumat a viure sense els pares o que els avis són 'al cel', així com diversos moments en què els concursants ploren pels resultats de les votacions."
   },
   {
     "titol": "Eufòria 2 gala 3 clip jim",
@@ -1795,7 +1795,7 @@
     "titol": "Eufòria dance càsting",
     "codi": "6190114",
     "edat": "10",
-    "raons": "Contingut sexual freqüent d'explicitació baixa;Llenguatge groller ocasional d'intensitat alta"
+    "raons": "Contingut sexual freqüent d'explicitació baixa<br>Llenguatge groller ocasional d'intensitat alta"
   },
   {
     "titol": "Eufòria dance comença",
@@ -1841,7 +1841,7 @@
     "titol": "Eufòria dance finalistes",
     "codi": "6192725",
     "edat": "10",
-    "raons": "Contingut sexual freqüent d'explicitació baixa;Llenguatge groller ocasional d'intensitat alta"
+    "raons": "Contingut sexual freqüent d'explicitació baixa<br>Llenguatge groller ocasional d'intensitat alta"
   },
   {
     "titol": "Eufòria dance finalistes clip stefani",
@@ -1875,7 +1875,7 @@
     "titol": "Eufòria dance final",
     "codi": "6193801",
     "edat": "10",
-    "raons": "Contingut sexual freqüent d'explicitació baixa;Llenguatge groller ocasional d'intensitat alta"
+    "raons": "Contingut sexual freqüent d'explicitació baixa<br>Llenguatge groller ocasional d'intensitat alta"
   },
   {
     "titol": "Eufòria dance final clàudia",
@@ -1886,7 +1886,7 @@
     "titol": "Eufòria dance final scorpio",
     "codi": "6193817",
     "edat": "7",
-    "raons": "Contingut sexual ocasional d'explicitació baixa;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Contingut sexual ocasional d'explicitació baixa<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Eufòria dance final chung-man",
@@ -1948,19 +1948,19 @@
     "titol": "Fora de control 3",
     "codi": "6138642",
     "edat": "7",
-    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada;Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció neutra"
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "Fora de control 4",
     "codi": "6138640",
     "edat": "10",
-    "raons": "Por i angoixa freqüent d'afectació mitjana;Llenguatge groller ocasional d'intensitat alta"
+    "raons": "Por i angoixa freqüent d'afectació mitjana<br>Llenguatge groller ocasional d'intensitat alta"
   },
   {
     "titol": "Fora de control 5",
     "codi": "6139771",
     "edat": "7",
-    "raons": "Por i angoixa ocasional d'afectació mitjana;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Por i angoixa ocasional d'afectació mitjana<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Fora de control 6",
@@ -1972,31 +1972,31 @@
     "titol": "Fora de control 7",
     "codi": "6140981",
     "edat": "10",
-    "raons": "Por i angoixa reiterada d'afectació lleu;Conductes i valors incívics amb sanció neutra"
+    "raons": "Por i angoixa reiterada d'afectació lleu<br>Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "Fora de control 8",
     "codi": "6142178",
     "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu;Conductes i valors incívics amb sanció neutra"
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "Fora de control 9",
     "codi": "6143353",
     "edat": "7",
-    "raons": "Por i angoixa ocasional d'afectació mitjana;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Por i angoixa ocasional d'afectació mitjana<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Fora de control 10",
     "codi": "6144495",
     "edat": "10",
-    "raons": "Por i angoixa freqüent d'afectació mitjana;Conductes i valors incívics amb sanció neutra"
+    "raons": "Por i angoixa freqüent d'afectació mitjana<br>Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "Fora de control 11",
     "codi": "6145668",
     "edat": "10",
-    "raons": "Por i angoixa freqüent d'afectació mitjana;Conductes i valors incívics amb sanció neutra"
+    "raons": "Por i angoixa freqüent d'afectació mitjana<br>Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "Fora de control 12",
@@ -2068,37 +2068,37 @@
     "titol": "Guardians de la nit 1x03",
     "codi": "6178877",
     "edat": "10",
-    "raons": "Violència ocasional, irreal, no explícita, d'intensitat greu, no legitimada (imatges cruentes);Por i angoixa ocasional d'afectació alta"
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat greu, no legitimada (imatges cruentes)<br>Por i angoixa ocasional d'afectació alta"
   },
   {
     "titol": "Guardians de la nit 1x09",
     "codi": "6180862",
     "edat": "13",
-    "raons": "Violència freqüent, irreal, molt explícita, d'intensitat greu, legitimada;Por i angoixa freqüent d'afectació alta"
+    "raons": "Violència freqüent, irreal, molt explícita, d'intensitat greu, legitimada<br>Por i angoixa freqüent d'afectació alta"
   },
   {
     "titol": "Guardians de la nit 1x18",
     "codi": "6183531",
     "edat": "13",
-    "raons": "Violència freqüent, irreal, molt explícita, d'intensitat greu, legitimada;Por i angoixa freqüent d'afectació alta"
+    "raons": "Violència freqüent, irreal, molt explícita, d'intensitat greu, legitimada<br>Por i angoixa freqüent d'afectació alta"
   },
   {
     "titol": "Guardians de la nit 1x19",
     "codi": "6183755",
     "edat": "13",
-    "raons": "Violència freqüent, irreal, molt explícita, d'intensitat greu, legitimada;Por i angoixa freqüent d'afectació alta"
+    "raons": "Violència freqüent, irreal, molt explícita, d'intensitat greu, legitimada<br>Por i angoixa freqüent d'afectació alta"
   },
   {
     "titol": "Guardians de la nit 1x20",
     "codi": "6183898",
     "edat": "13",
-    "raons": "Violència freqüent, irreal, molt explícita, d'intensitat greu, legitimada;Por i angoixa freqüent d'afectació alta"
+    "raons": "Violència freqüent, irreal, molt explícita, d'intensitat greu, legitimada<br>Por i angoixa freqüent d'afectació alta"
   },
   {
     "titol": "Guardians de la nit 1x21",
     "codi": "6185129",
     "edat": "13",
-    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat greu, no legitimada;Por i angoixa freqüent d'afectació alta"
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat greu, no legitimada<br>Por i angoixa freqüent d'afectació alta"
   },
   {
     "titol": "Guardians de la nit 1x22",
@@ -2116,7 +2116,7 @@
     "titol": "Guardians de la nit 1x24",
     "codi": "6185333",
     "edat": "10",
-    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat greu, no legitimada;Por i angoixa ocasional d'afectació alta;Llenguatge groller ocasional d'intensitat alta"
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat greu, no legitimada<br>Por i angoixa ocasional d'afectació alta<br>Llenguatge groller ocasional d'intensitat alta"
   },
   {
     "titol": "Guardians de la nit 1x25",
@@ -2128,13 +2128,13 @@
     "titol": "Guardians de la nit 1x26",
     "codi": "6186311",
     "edat": "13",
-    "raons": "Violència freqüent, irreal, molt explícita, d'intensitat greu, no legitimada;Por i angoixa freqüent d'afectació alta"
+    "raons": "Violència freqüent, irreal, molt explícita, d'intensitat greu, no legitimada<br>Por i angoixa freqüent d'afectació alta"
   },
   {
     "titol": "Guardians de la nit Tren infinit",
     "codi": "6193236",
     "edat": "13",
-    "raons": "Violència freqüent, irreal, molt explícita, d'intensitat greu, legitimada;Por i angoixa freqüent d'afectació alta"
+    "raons": "Violència freqüent, irreal, molt explícita, d'intensitat greu, legitimada<br>Por i angoixa freqüent d'afectació alta"
   },
   {
     "titol": "Haikyu",
@@ -2145,7 +2145,7 @@
     "titol": "Haikyu 2x15",
     "codi": "6190203",
     "edat": "7",
-    "raons": "Comentaris sexuals ocasionals d'explicitació baixa;Por i angoixa ocasional d'afectació mitjana;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Comentaris sexuals ocasionals d'explicitació baixa<br>Por i angoixa ocasional d'afectació mitjana<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Haikyu 2x16",
@@ -2180,7 +2180,7 @@
     "titol": "Haikyu 2x21",
     "codi": "6193231",
     "edat": "7",
-    "raons": "Contingut sexual ocasional d'explicitació baixa;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Contingut sexual ocasional d'explicitació baixa<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Haikyu 2x22",
@@ -2204,7 +2204,7 @@
     "titol": "Haikyu 2x25",
     "codi": "6194409",
     "edat": "7",
-    "raons": "Contingut sexual ocasional d'explicitació baixa;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Contingut sexual ocasional d'explicitació baixa<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Haikyu 3x01",
@@ -2216,7 +2216,7 @@
     "titol": "Haikyu 3x02",
     "codi": "6195600",
     "edat": "7",
-    "raons": "Al·lusió implícita al suïcidi;Contingut sexual ocasional d'explicitació baixa"
+    "raons": "Al·lusió implícita al suïcidi<br>Contingut sexual ocasional d'explicitació baixa"
   },
   {
     "titol": "Haikyu 3x03",
@@ -2246,7 +2246,7 @@
     "titol": "Haikyu 3x07",
     "codi": "6196221",
     "edat": "7",
-    "raons": "Por i angoixa ocasional d'afectació mitjana (ferides amb sang);Discriminació per raons d'aparença física, presentat negativament;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Por i angoixa ocasional d'afectació mitjana (ferides amb sang)<br>Discriminació per raons d'aparença física, presentat negativament<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Haikyu 3x08",
@@ -2276,7 +2276,7 @@
     "titol": "Haikyu OVA 2",
     "codi": "6197847",
     "edat": "10",
-    "raons": "Consum de tabac presentat de manera neutra;Llenguatge groller freqüent d'intensitat baixa"
+    "raons": "Consum de tabac presentat de manera neutra<br>Llenguatge groller freqüent d'intensitat baixa"
   },
   {
     "titol": "Haikyu 4x01",
@@ -2294,7 +2294,7 @@
     "titol": "Haikyu 4x03",
     "codi": "6198996",
     "edat": "7",
-    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada (atacs esportius que acaben en lesions lleus o còmiques);Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada (atacs esportius que acaben en lesions lleus o còmiques)<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Haikyu 4x04",
@@ -2329,7 +2329,7 @@
     "titol": "Haikyu 4x09",
     "codi": "6200915",
     "edat": "10",
-    "raons": "Contingut sexual (cosificació) ocasional d'explicitació mitjana;Consum de drogues lícites (alcohol) presentades de forma neutra"
+    "raons": "Contingut sexual (cosificació) ocasional d'explicitació mitjana<br>Consum de drogues lícites (alcohol) presentades de forma neutra"
   },
   {
     "titol": "Haikyu 4x10",
@@ -2371,13 +2371,13 @@
     "titol": "Haikyu 4x16",
     "codi": "6203633",
     "edat": "7",
-    "raons": "Contingut sexual (cosificació) ocasional d'explicitació baixa;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Contingut sexual (cosificació) ocasional d'explicitació baixa<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Haikyu 4x17",
     "codi": "6203640",
     "edat": "7",
-    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Haikyu 4x18",
@@ -2425,7 +2425,7 @@
     "titol": "Haikyu 4x25",
     "codi": "6206370",
     "edat": "10",
-    "raons": "Consum de drogues lícites (alcohol) presentades de forma neutra;Llenguatge groller freqüent d'intensitat baixa"
+    "raons": "Consum de drogues lícites (alcohol) presentades de forma neutra<br>Llenguatge groller freqüent d'intensitat baixa"
   },
   {
     "titol": "Haikyu OVA 3",
@@ -2459,13 +2459,13 @@
     "titol": "Hoodie 1x02",
     "codi": "6178395",
     "edat": "7",
-    "raons": "Referències sexuals ocasionals d'explicitació baixa;Situacions de masclisme i racisme amb sanció negativa;Conductes i valors incívics amb sanció negativa"
+    "raons": "Referències sexuals ocasionals d'explicitació baixa<br>Situacions de masclisme i racisme amb sanció negativa<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Hoodie 1x03",
     "codi": "6178399",
     "edat": "10",
-    "raons": "Llenguatge groller freqüent d'intensitat baixa;Conductes i valors incívics amb sanció neutra"
+    "raons": "Llenguatge groller freqüent d'intensitat baixa<br>Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "Hoodie 1x04",
@@ -2519,7 +2519,7 @@
     "titol": "Hoodie 1x12",
     "codi": "6179992",
     "edat": "10",
-    "raons": "Llenguatge groller freqüent d'intensitat baixa;Conductes i valors incívics amb sanció neutra"
+    "raons": "Llenguatge groller freqüent d'intensitat baixa<br>Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "Hoodie 1x13",
@@ -2531,7 +2531,7 @@
     "titol": "Hoodie 1x14",
     "codi": "6180305",
     "edat": "10",
-    "raons": "Llenguatge groller freqüent d'intensitat baixa;Conductes i valors incívics amb sanció neutra"
+    "raons": "Llenguatge groller freqüent d'intensitat baixa<br>Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "Hoodie 1x15",
@@ -2561,13 +2561,13 @@
     "titol": "Hoodie 1x19",
     "codi": "6180511",
     "edat": "10",
-    "raons": "Por i angoixa freqüent d'afectació mitjana;Llenguatge groller freqüent d'intensitat baixa;Conductes i valors incívics amb sanció neutra"
+    "raons": "Por i angoixa freqüent d'afectació mitjana<br>Llenguatge groller freqüent d'intensitat baixa<br>Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "Hoodie 1x20",
     "codi": "6180512",
     "edat": "7",
-    "raons": "Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+    "raons": "Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Hoodie 1x21",
@@ -2597,7 +2597,7 @@
     "titol": "Hoodie 1x25",
     "codi": "6180924",
     "edat": "7",
-    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada;Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Hoodie 1x26",
@@ -2621,13 +2621,13 @@
     "titol": "Hoodie 1x29",
     "codi": "6180926",
     "edat": "7",
-    "raons": "Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+    "raons": "Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Hoodie 1x30",
     "codi": "6180929",
     "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Hoodie 1x31",
@@ -2663,13 +2663,13 @@
     "titol": "Hoodie 1x36",
     "codi": "6182175",
     "edat": "10",
-    "raons": "Llenguatge groller ocasional d'intensitat alta;Conductes i valors incívics amb sanció neutra"
+    "raons": "Llenguatge groller ocasional d'intensitat alta<br>Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "Hoodie 1x37",
     "codi": "6182172",
     "edat": "10",
-    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada;Llenguatge groller ocasional d'intensitat alta;Conductes i valors incívics amb sanció neutra"
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada<br>Llenguatge groller ocasional d'intensitat alta<br>Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "Hoodie 1x38",
@@ -2693,7 +2693,7 @@
     "titol": "Hoodie 1x41",
     "codi": "6183580",
     "edat": "7",
-    "raons": "Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+    "raons": "Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Hoodie 1x42",
@@ -2711,13 +2711,13 @@
     "titol": "Hoodie 1x44",
     "codi": "6184723",
     "edat": "7",
-    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada;Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Hoodie 1x45",
     "codi": "6184725",
     "edat": "7",
-    "raons": "Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+    "raons": "Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Hoodie 1x46",
@@ -2741,7 +2741,7 @@
     "titol": "Hoodie 1x49",
     "codi": "6184789",
     "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Hoodie 1x50",
@@ -2753,7 +2753,7 @@
     "titol": "Hoodie 1x51",
     "codi": "6184791",
     "edat": "10",
-    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada;Por i angoixa freqüent d'afectació mitjana"
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada<br>Por i angoixa freqüent d'afectació mitjana"
   },
   {
     "titol": "Hoodie 1x52",
@@ -2765,19 +2765,19 @@
     "titol": "Hoodie 2x01",
     "codi": "6184878",
     "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Hoodie 2x02",
     "codi": "6186535",
     "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Hoodie 2x03",
     "codi": "6186536",
     "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Hoodie 2x04",
@@ -2789,7 +2789,7 @@
     "titol": "Hoodie 2x05",
     "codi": "6186542",
     "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Hoodie 2x06",
@@ -2801,7 +2801,7 @@
     "titol": "Hoodie 2x07",
     "codi": "6187404",
     "edat": "10",
-    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada;Llenguatge groller ocasional d'intensitat alta"
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada<br>Llenguatge groller ocasional d'intensitat alta"
   },
   {
     "titol": "Hoodie 2x08",
@@ -2843,7 +2843,7 @@
     "titol": "Hoodie 2x14",
     "codi": "6195454",
     "edat": "10",
-    "raons": "Llenguatge groller freqüent d'intensitat baixa;Conductes i valors incívics amb sanció neutra"
+    "raons": "Llenguatge groller freqüent d'intensitat baixa<br>Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "Hoodie 2x15",
@@ -2855,7 +2855,7 @@
     "titol": "Hoodie 2x16",
     "codi": "6195456",
     "edat": "10",
-    "raons": "Por i angoixa freqüent d'afectació mitjana;Conductes i valors incívics amb sanció neutra"
+    "raons": "Por i angoixa freqüent d'afectació mitjana<br>Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "Hoodie 2x17",
@@ -2879,7 +2879,7 @@
     "titol": "Hoodie 2x20",
     "codi": "6195457",
     "edat": "10",
-    "raons": "Llenguatge groller freqüent d'intensitat baixa;Conductes i valors incívics amb sanció neutra"
+    "raons": "Llenguatge groller freqüent d'intensitat baixa<br>Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "Hoodie 2x21",
@@ -2891,13 +2891,13 @@
     "titol": "Hoodie 2x22",
     "codi": "6195462",
     "edat": "7",
-    "raons": "Por i angoixa ocasional d'afectació mitjana;Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+    "raons": "Por i angoixa ocasional d'afectació mitjana<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Hoodie 2x23",
     "codi": "6195464",
     "edat": "10",
-    "raons": "Por i angoixa freqüent d'afectació mitjana;Llenguatge groller freqüent d'intensitat baixa;Conductes i valors incívics amb sanció neutra"
+    "raons": "Por i angoixa freqüent d'afectació mitjana<br>Llenguatge groller freqüent d'intensitat baixa<br>Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "Hoodie 2x24",
@@ -2915,7 +2915,7 @@
     "titol": "Hoodie 2x26",
     "codi": "6195463",
     "edat": "7",
-    "raons": "Situacions de racisme i masclisme presentades negativament;Conductes i valors incívics amb sanció negativa"
+    "raons": "Situacions de racisme i masclisme presentades negativament<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Hoodie 2x27",
@@ -2927,7 +2927,7 @@
     "titol": "Hoodie 2x28",
     "codi": "6195469",
     "edat": "10",
-    "raons": "Llenguatge groller ocasional d'intensitat alta;Conductes i valors incívics amb sanció neutra"
+    "raons": "Llenguatge groller ocasional d'intensitat alta<br>Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "Hoodie 2x29",
@@ -2939,13 +2939,13 @@
     "titol": "Hoodie 2x30",
     "codi": "6195470",
     "edat": "10",
-    "raons": "Llenguatge groller ocasional d'intensitat alta;Conductes i valors incívics amb sanció neutra"
+    "raons": "Llenguatge groller ocasional d'intensitat alta<br>Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "Hoodie 2x31",
     "codi": "6197993",
     "edat": "10",
-    "raons": "Llenguatge groller ocasional d'intensitat alta;Conductes i valors incívics amb sanció neutra"
+    "raons": "Llenguatge groller ocasional d'intensitat alta<br>Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "Hoodie 2x32",
@@ -2969,31 +2969,31 @@
     "titol": "Hoodie 2x35",
     "codi": "6197931",
     "edat": "10",
-    "raons": "Llenguatge groller freqüent d'intensitat baixa;Conductes i valors incívics amb sanció neutra"
+    "raons": "Llenguatge groller freqüent d'intensitat baixa<br>Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "Hoodie 2x36",
     "codi": "6197995",
     "edat": "7",
-    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada;Por i angoixa freqüent d'afectació lleu;Conductes i valors incívics amb sanció negativa"
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa freqüent d'afectació lleu<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Hoodie 2x37",
     "codi": "6197986",
     "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Hoodie 2x38",
     "codi": "6197987",
     "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Hoodie 2x39",
     "codi": "6197984",
     "edat": "10",
-    "raons": "Por i angoixa freqüent d'afectació mitjana;Conductes i valors incívics amb sanció neutra"
+    "raons": "Por i angoixa freqüent d'afectació mitjana<br>Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "Hoodie 2x40",
@@ -3005,7 +3005,7 @@
     "titol": "Hoodie 2x41",
     "codi": "6197416",
     "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Hoodie 2x42",
@@ -3017,7 +3017,7 @@
     "titol": "Hoodie 2x43",
     "codi": "6197419",
     "edat": "7",
-    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat molt lleu, no legitimada;Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Hoodie 2x44",
@@ -3029,25 +3029,25 @@
     "titol": "Hoodie 2x45",
     "codi": "6207562",
     "edat": "10",
-    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada;Conductes i valors incívics amb sanció neutra"
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada<br>Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "Hoodie 2x46",
     "codi": "6207564",
     "edat": "10",
-    "raons": "Llenguatge groller freqüent d'intensitat baixa;Conductes i valors incívics amb sanció neutra"
+    "raons": "Llenguatge groller freqüent d'intensitat baixa<br>Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "Hoodie 2x47",
     "codi": "6207565",
     "edat": "10",
-    "raons": "Llenguatge groller freqüent d'intensitat baixa;Conductes i valors incívics amb sanció neutra"
+    "raons": "Llenguatge groller freqüent d'intensitat baixa<br>Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "Hoodie 2x48",
     "codi": "6207566",
     "edat": "10",
-    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada (petó sense consentiment);Llenguatge groller reiterat d'intensitat baixa;Conductes i valors incívics amb sanció neutra"
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada (petó sense consentiment)<br>Llenguatge groller reiterat d'intensitat baixa<br>Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "Hoodie 2x49",
@@ -3059,7 +3059,7 @@
     "titol": "Hoodie 2x50",
     "codi": "6207569",
     "edat": "10",
-    "raons": "Llenguatge groller freqüent d'intensitat baixa;Conductes i valors incívics amb sanció neutra"
+    "raons": "Llenguatge groller freqüent d'intensitat baixa<br>Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "Hoodie 2x51",
@@ -3077,43 +3077,43 @@
     "titol": "Hoodie 3x01",
     "codi": "6206371",
     "edat": "10",
-    "raons": "Llenguatge groller freqüent d'intensitat baixa;Conductes i valors incívics amb sanció neutra"
+    "raons": "Llenguatge groller freqüent d'intensitat baixa<br>Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "Hoodie 3x02",
     "codi": "6206594",
     "edat": "10",
-    "raons": "Llenguatge groller freqüent d'intensitat baixa;Conductes i valors incívics amb sanció neutra"
+    "raons": "Llenguatge groller freqüent d'intensitat baixa<br>Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "Hoodie 3x03",
     "codi": "6207228",
     "edat": "7",
-    "raons": "Por i angoixa ocasional d'afectació mitjana;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Por i angoixa ocasional d'afectació mitjana<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Hoodie 3x04",
     "codi": "6207329",
     "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Hoodie 3x05",
     "codi": "6207541",
     "edat": "10",
-    "raons": "Llenguatge groller freqüent d'intensitat baixa;Conductes i valors incívics amb sanció neutra"
+    "raons": "Llenguatge groller freqüent d'intensitat baixa<br>Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "Hoodie 3x06",
     "codi": "6207786",
     "edat": "10",
-    "raons": "Por i angoixa freqüent d'afectació mitjana;Llenguatge groller freqüent d'intensitat baixa;Conductes i valors incívics amb sanció neutra"
+    "raons": "Por i angoixa freqüent d'afectació mitjana<br>Llenguatge groller freqüent d'intensitat baixa<br>Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "Hoodie 3x07",
     "codi": "6208005",
     "edat": "10",
-    "raons": "Por i angoixa reiterada d'afectació lleu;Llenguatge groller freqüent d'intensitat baixa"
+    "raons": "Por i angoixa reiterada d'afectació lleu<br>Llenguatge groller freqüent d'intensitat baixa"
   },
   {
     "titol": "Hoodie 3x08",
@@ -3137,7 +3137,7 @@
     "titol": "Hoodie 3x11",
     "codi": "6209153",
     "edat": "10",
-    "raons": "Llenguatge groller freqüent d'intensitat baixa;Conductes i valors incívics amb sanció neutra"
+    "raons": "Llenguatge groller freqüent d'intensitat baixa<br>Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "Ideafix",
@@ -3163,7 +3163,7 @@
     "titol": "Influenx3r 1",
     "codi": "6197406",
     "edat": "7",
-    "raons": "Violència ocasional, irreal, explícita, d'intensitat molt lleu, legitimada;Conductes incíviques presentades de manera neutra"
+    "raons": "Violència ocasional, irreal, explícita, d'intensitat molt lleu, legitimada<br>Conductes incíviques presentades de manera neutra"
   },
   {
     "titol": "Influenx3r 2",
@@ -3180,13 +3180,13 @@
     "titol": "Influenx3r 4",
     "codi": "6201601",
     "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu (al·lusions a l'assetjament i a salut mental);Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Por i angoixa freqüent d'afectació lleu (al·lusions a l'assetjament i a salut mental)<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Influenx3r 5",
     "codi": "6202983",
     "edat": "7",
-    "raons": "Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció neutra"
+    "raons": "Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "Influenx3r 6",
@@ -3209,7 +3209,7 @@
     "titol": "Influenx3r 9",
     "codi": "6208462",
     "edat": "7",
-    "raons": "Violència ocasional, irreal, explícita, d'intensitat molt lleu, legitimada;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Violència ocasional, irreal, explícita, d'intensitat molt lleu, legitimada<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Influenx3r 10",
@@ -3220,8 +3220,8 @@
     "titol": "Influenx3r 11",
     "codi": "6211159",
     "edat": "7",
-    "raons": "Violència ocasional, irreal, explícita, d'intensitat molt lleu, legitimada;Llenguatge groller ocasional d'intensitat baixa",
-    "mesinfo": "<b>Violència</b>;En alguns reptes, els concursants fan bromes pesades, fàcilment imitables, als seus familiars, com fer cops al cap amb una ampolla si fallen una pregunta, bufetejar-se amb menjar o llençar-se (o escopir-se) aigua freda a sobre.;;<b>Llenguatge groller</b>;En un vídeo s'ensenya el dit del mig a càmera, sense intenció ofensiva i en un context distès. També es fan algunes bromes escatològiques i es diu 'tonto' i 'fotre'.;;En una situació d'angoixa d'afectació lleu, la persona guanyadora del programa plora d'emoció."
+    "raons": "Violència ocasional, irreal, explícita, d'intensitat molt lleu, legitimada<br>Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Violència</b><br>En alguns reptes, els concursants fan bromes pesades, fàcilment imitables, als seus familiars, com fer cops al cap amb una ampolla si fallen una pregunta, bufetejar-se amb menjar o llençar-se (o escopir-se) aigua freda a sobre.<br><br><b>Llenguatge groller</b><br>En un vídeo s'ensenya el dit del mig a càmera, sense intenció ofensiva i en un context distès. També es fan algunes bromes escatològiques i es diu 'tonto' i 'fotre'.<br><br>En una situació d'angoixa d'afectació lleu, la persona guanyadora del programa plora d'emoció."
   },
   {
     "titol": "Inuyasha",
@@ -3243,13 +3243,13 @@
     "titol": "Itch 2x02",
     "codi": "6143160",
     "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Itch 2x03",
     "codi": "6144320",
     "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Itch 2x04",
@@ -3261,7 +3261,7 @@
     "titol": "Itch 2x05",
     "codi": "6145453",
     "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu;Conductes i valors incívics amb sanció negativa"
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Itch 2x06",
@@ -3279,13 +3279,13 @@
     "titol": "Itch 2x08",
     "codi": "6146698",
     "edat": "10",
-    "raons": "Por i angoixa reiterada d'afectació lleu;Conductes i valors incívics amb sanció neutra"
+    "raons": "Por i angoixa reiterada d'afectació lleu<br>Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "Itch 2x09",
     "codi": "6147955",
     "edat": "10",
-    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, legitimada;Por i angoixa freqüent d'afectació mitjana"
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, legitimada<br>Por i angoixa freqüent d'afectació mitjana"
   },
   {
     "titol": "Itch 2x10",
@@ -3322,7 +3322,7 @@
     "titol": "La llegenda del drac trencaossos",
     "codi": "6087810",
     "edat": "7",
-    "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, legitimada;Por i angoixa freqüent d'afectació lleu"
+    "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, legitimada<br>Por i angoixa freqüent d'afectació lleu"
   },
   {
     "titol": "Lara i Kali",
@@ -3334,7 +3334,7 @@
     "codi": "6179631",
     "edat": "10",
     "raons": "Llenguatge groller freqüent d'intensitat baixa",
-    "mesinfo": "<b>Llenguatge groller</b>;Es fan servir sovint expressions com 'merda', 'hosti' o 'acollonida'.;;Hi ha algunes situacions angoixants amb una afectació lleu quan la protagonista duu a terme activitats perilloses, que s'adverteixen com a tals en tot moment."
+    "mesinfo": "<b>Llenguatge groller</b><br>Es fan servir sovint expressions com 'merda', 'hosti' o 'acollonida'.<br><br>Hi ha algunes situacions angoixants amb una afectació lleu quan la protagonista duu a terme activitats perilloses, que s'adverteixen com a tals en tot moment."
   },
   {
     "titol": "Lara i Kali 2",
@@ -3389,8 +3389,8 @@
     "titol": "La Ventafocs i el príncep secret",
     "codi": "6209977",
     "edat": "7",
-    "raons": "Violència freqüent, irreal, explícita, d'intensitat lleu, no legitimada;Por i angoixa freqüent d'afectació lleu",
-    "mesinfo": "<b>Violència</b>;Unes dones intenten fer fora uns ratolins amb cops d'escombra o llençant-los gots de vidre, que no impacten mai contra ells. Una bruixa llença un encanteri contra la paret que la destrossa. Un home empenta una nena que vol aturar els seus plans. Dos homes, un de bo i un de dolent, es barallen amb espases, sense impactar al cos. Acaben a una teulada i el bo desarma al dolent, que eventualment aconsegueix fer-se amb un pal i empentar al bo, que gairebé cau d'una teulada. Ell intenta fer-lo caure trepitjant-li el peu però el bo aconsegueix fer caure el dolent fent-lo perdre l'equilibri, qui sembla sobreviure a la caiguda ja que el veiem arrossegar-se per terra. En una escena posterior, una bruixa llença encanteris contra alguns personatges, que els fa impactar contra el terra o contra una columna. La bruixa segueix i una mena de màgia els envolta i els fa levitar mentre panteixen. Un atac fa caure el sostre, i la bruixa intenta aturar els herois llençant-los encanteris, però això només accelera l'enderrocament, i la seva implícita mort.;;<b>Por i angoixa</b>;Un ratolí cau des d'una gran alçada, i un gat els persegueix per la casa mentre també terroritza els humans que hi viuen. Unes pomes enmig d'un bosc espanten els protagonistes en aparèixer-los-hi ulls i els persegueixen. Una nena i uns ratolins descobreixen un ombrívol passadís secret on troben una bruixa -amb una àguila que l'ajuda- que practica màgia negra, que s'adona de la seva presència i els comença a perseguir i llençar encanteris. Un home comenta que amb sis anys 'perd els pares', i es veu com la seva tutora es torna malvada i la transforma en ratolí. La protagonista també comenta que va perdre els pares. Una planta gegant apareix en un bosc i persegueix els protagonistes, atrapa a un d'ells i eventualment els fa caure a tots a un riu, però aconsegueixen salvar-se. L'àguila de la bruixa torna a aparèixer i roba un anell màgic i un dels ratolins. Uns guàrdies apareixen a casa de la protagonista i se l'enduen al castell. En l'escena de lluita a la teulada, un dels homes té por de caure, i li diu a l'altre que 'quan moris seràs recordat com un ratolí'. Una nena s'encara amb la bruixa quan revela la seva veritable identitat, i li pregunta per què la va abandonar. La confrontació dels herois amb la bruixa també pot ser angoixant i terrorífica, a més que sembla tenir un final agredolç, però que al final acaba bé per als protagonistes.;;Alguns dels personatges es comporten de manera estereotipada, incloent-hi un dels ratolins protagonistes, més corpulent, que està obsessionat amb el menjar, o no és capaç de 'volar' com els altres. Un dels ratolins, mascle, se sent ridícul quan li posen un vestit de princesa. Es fan servir expressions com 'beneit', 'sonada' o 'ratolí estúpid', i en una escena un dels ratolins fa pets. Es comenta negativament que els ratolins robaven menjar."
+    "raons": "Violència freqüent, irreal, explícita, d'intensitat lleu, no legitimada<br>Por i angoixa freqüent d'afectació lleu",
+    "mesinfo": "<b>Violència</b><br>Unes dones intenten fer fora uns ratolins amb cops d'escombra o llençant-los gots de vidre, que no impacten mai contra ells. Una bruixa llença un encanteri contra la paret que la destrossa. Un home empenta una nena que vol aturar els seus plans. Dos homes, un de bo i un de dolent, es barallen amb espases, sense impactar al cos. Acaben a una teulada i el bo desarma al dolent, que eventualment aconsegueix fer-se amb un pal i empentar al bo, que gairebé cau d'una teulada. Ell intenta fer-lo caure trepitjant-li el peu però el bo aconsegueix fer caure el dolent fent-lo perdre l'equilibri, qui sembla sobreviure a la caiguda ja que el veiem arrossegar-se per terra. En una escena posterior, una bruixa llença encanteris contra alguns personatges, que els fa impactar contra el terra o contra una columna. La bruixa segueix i una mena de màgia els envolta i els fa levitar mentre panteixen. Un atac fa caure el sostre, i la bruixa intenta aturar els herois llençant-los encanteris, però això només accelera l'enderrocament, i la seva implícita mort.<br><br><b>Por i angoixa</b><br>Un ratolí cau des d'una gran alçada, i un gat els persegueix per la casa mentre també terroritza els humans que hi viuen. Unes pomes enmig d'un bosc espanten els protagonistes en aparèixer-los-hi ulls i els persegueixen. Una nena i uns ratolins descobreixen un ombrívol passadís secret on troben una bruixa -amb una àguila que l'ajuda- que practica màgia negra, que s'adona de la seva presència i els comença a perseguir i llençar encanteris. Un home comenta que amb sis anys 'perd els pares', i es veu com la seva tutora es torna malvada i la transforma en ratolí. La protagonista també comenta que va perdre els pares. Una planta gegant apareix en un bosc i persegueix els protagonistes, atrapa a un d'ells i eventualment els fa caure a tots a un riu, però aconsegueixen salvar-se. L'àguila de la bruixa torna a aparèixer i roba un anell màgic i un dels ratolins. Uns guàrdies apareixen a casa de la protagonista i se l'enduen al castell. En l'escena de lluita a la teulada, un dels homes té por de caure, i li diu a l'altre que 'quan moris seràs recordat com un ratolí'. Una nena s'encara amb la bruixa quan revela la seva veritable identitat, i li pregunta per què la va abandonar. La confrontació dels herois amb la bruixa també pot ser angoixant i terrorífica, a més que sembla tenir un final agredolç, però que al final acaba bé per als protagonistes.<br><br>Alguns dels personatges es comporten de manera estereotipada, incloent-hi un dels ratolins protagonistes, més corpulent, que està obsessionat amb el menjar, o no és capaç de 'volar' com els altres. Un dels ratolins, mascle, se sent ridícul quan li posen un vestit de princesa. Es fan servir expressions com 'beneit', 'sonada' o 'ratolí estúpid', i en una escena un dels ratolins fa pets. Es comenta negativament que els ratolins robaven menjar."
   },
   {
     "titol": "Les aventures d'en Massagran",
@@ -3407,7 +3407,7 @@
     "titol": "Les aventures d'en Massagran 2",
     "codi": "5810297",
     "edat": "0",
-    "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, no legitimada;Por i angoixa ocasional d'afectació lleu"
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa ocasional d'afectació lleu"
   },
   {
     "titol": "Les aventures d'en Massagran 3",
@@ -3419,7 +3419,7 @@
     "titol": "Les aventures d'en Massagran 4",
     "codi": "5810332",
     "edat": "0",
-    "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, no legitimada;Por i angoixa ocasional d'afectació lleu"
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa ocasional d'afectació lleu"
   },
   {
     "titol": "Les aventures d'en Massagran 5",
@@ -3431,49 +3431,49 @@
     "titol": "Les aventures d'en Massagran 6",
     "codi": "5810296",
     "edat": "7",
-    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada;Por i angoixa freqüent d'afectació lleu;Consum de tabac i alcohol, presentat negativament;Situacions de racisme amb sanció negativa"
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada<br>Por i angoixa freqüent d'afectació lleu<br>Consum de tabac i alcohol, presentat negativament<br>Situacions de racisme amb sanció negativa"
   },
   {
     "titol": "Les aventures d'en Massagran 7",
     "codi": "5810331",
     "edat": "7",
-    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, legitimada;Por i angoixa freqüent d'afectació lleu"
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, legitimada<br>Por i angoixa freqüent d'afectació lleu"
   },
   {
     "titol": "Les aventures d'en Massagran 8",
     "codi": "5810298",
     "edat": "7",
-    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat molt lleu, no legitimada;Por i angoixa freqüent d'intensitat baixa"
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa freqüent d'intensitat baixa"
   },
   {
     "titol": "Les aventures d'en Massagran 9",
     "codi": "5810293",
     "edat": "7",
-    "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, no legitimada;Contingut sexual ocasional d'explicitació baixa;Por i angoixa freqüent d'afectació lleu;Consum de tabac"
+    "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, no legitimada<br>Contingut sexual ocasional d'explicitació baixa<br>Por i angoixa freqüent d'afectació lleu<br>Consum de tabac"
   },
   {
     "titol": "Les aventures d'en Massagran 10",
     "codi": "5810299",
     "edat": "0",
-    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada;Por i angoixa ocasional d'afectació lleu;Consum insinuat de tabac i alcohol"
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa ocasional d'afectació lleu<br>Consum insinuat de tabac i alcohol"
   },
   {
     "titol": "Les aventures d'en Massagran 11",
     "codi": "5810327",
     "edat": "7",
-    "raons": "Consum de tabac vinculat al context històric;Comentaris masclistes amb sanció negativa"
+    "raons": "Consum de tabac vinculat al context històric<br>Comentaris masclistes amb sanció negativa"
   },
   {
     "titol": "Les aventures d'en Massagran 12",
     "codi": "5810300",
     "edat": "7",
-    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada;Por i angoixa ocasional d'afectació mitjana;Consum de tabac"
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada<br>Por i angoixa ocasional d'afectació mitjana<br>Consum de tabac"
   },
   {
     "titol": "Les aventures d'en Massagran 13",
     "codi": "5810330",
     "edat": "7",
-    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada;Consum d'alcohol presentat negativament"
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada<br>Consum d'alcohol presentat negativament"
   },
   {
     "titol": "Les aventures d'en Massagran 14",
@@ -3506,7 +3506,7 @@
     "titol": "Les regles de la Floor 1x02",
     "codi": "6061032",
     "edat": "7",
-    "raons": "Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+    "raons": "Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Les regles de la Floor 1x03",
@@ -3518,7 +3518,7 @@
     "titol": "Les regles de la Floor 1x04",
     "codi": "6063210",
     "edat": "7",
-    "raons": "Contingut sexual ocasional d'explicitació baixa;Conductes i valors incívics amb sanció negativa"
+    "raons": "Contingut sexual ocasional d'explicitació baixa<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Les regles de la Floor 1x05",
@@ -3536,7 +3536,7 @@
     "titol": "Les regles de la Floor 1x07",
     "codi": "6066460",
     "edat": "7",
-    "raons": "Comportaments masclistes amb sanció negativa;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Comportaments masclistes amb sanció negativa<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Les regles de la Floor 1x08",
@@ -3548,7 +3548,7 @@
     "titol": "Les regles de la Floor 1x09",
     "codi": "6068848",
     "edat": "7",
-    "raons": "Al·lusions al consum de drogues lícites (alcohol) entre menors presentat negativament;Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+    "raons": "Al·lusions al consum de drogues lícites (alcohol) entre menors presentat negativament<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Les regles de la Floor 1x10",
@@ -3566,19 +3566,19 @@
     "titol": "Les regles de la Floor 1x12",
     "codi": "6072585",
     "edat": "10",
-    "raons": "Comportaments capacitistes amb sanció neutra;Llenguatge groller ocasional d'intensitat alta;Conductes i valors incívics amb sanció neutra"
+    "raons": "Comportaments capacitistes amb sanció neutra<br>Llenguatge groller ocasional d'intensitat alta<br>Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "Les regles de la Floor 1x13",
     "codi": "6073693",
     "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Les regles de la Floor 1x14",
     "codi": "6074847",
     "edat": "7",
-    "raons": "Contingut sexual ocasional d'explicitació baixa;Consum de drogues lícites (alcohol) presentat negativament;Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+    "raons": "Contingut sexual ocasional d'explicitació baixa<br>Consum de drogues lícites (alcohol) presentat negativament<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Les regles de la Floor 1x15",
@@ -3596,13 +3596,13 @@
     "titol": "Les regles de la Floor 2x01",
     "codi": "6077569",
     "edat": "7",
-    "raons": "Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+    "raons": "Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Les regles de la Floor 2x02",
     "codi": "6078778",
     "edat": "7",
-    "raons": "Contingut sexual ocasional d'explicitació baixa;Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+    "raons": "Contingut sexual ocasional d'explicitació baixa<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Les regles de la Floor 2x03",
@@ -3614,13 +3614,13 @@
     "titol": "Les regles de la Floor 2x04",
     "codi": "6081178",
     "edat": "7",
-    "raons": "Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+    "raons": "Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Les regles de la Floor 2x05",
     "codi": "6082538",
     "edat": "7",
-    "raons": "Contingut sexual ocasional d'explicitació baixa;Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+    "raons": "Contingut sexual ocasional d'explicitació baixa<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Les regles de la Floor 2x06",
@@ -3661,25 +3661,25 @@
     "titol": "Les regles de la Floor 2x12",
     "codi": "6091377",
     "edat": "10",
-    "raons": "Consum d'alcohol;Conductes i valors incívics amb sanció neutra"
+    "raons": "Consum d'alcohol<br>Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "Les regles de la Floor 2x13",
     "codi": "6091378",
     "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu;Conductes i valors incívics amb sanció negativa"
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Les regles de la Floor 2x14",
     "codi": "6092654",
     "edat": "10",
-    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada (inclou al·lusions a l'abús sexual);Llenguatge groller freqüent d'intensitat baixa;Conductes i valors incívics amb sanció neutra"
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada (inclou al·lusions a l'abús sexual)<br>Llenguatge groller freqüent d'intensitat baixa<br>Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "Les regles de la Floor 2x15",
     "codi": "6093686",
     "edat": "7",
-    "raons": "Referències sexuals ocasionals amb explicitació baixa;Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+    "raons": "Referències sexuals ocasionals amb explicitació baixa<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Les regles de la Floor 2x16",
@@ -3709,7 +3709,7 @@
     "titol": "Les regles de la Floor 3x04",
     "codi": "6101592",
     "edat": "7",
-    "raons": "Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+    "raons": "Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Les regles de la Floor 3x05",
@@ -3721,13 +3721,13 @@
     "titol": "Les regles de la Floor 3x06",
     "codi": "6103991",
     "edat": "7",
-    "raons": "Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+    "raons": "Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Les regles de la Floor 3x07",
     "codi": "6105145",
     "edat": "7",
-    "raons": "Situacions d'edatisme, amb sanció negativa;Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+    "raons": "Situacions d'edatisme, amb sanció negativa<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Les regles de la Floor 3x08",
@@ -3745,25 +3745,25 @@
     "titol": "Les regles de la Floor 3x10",
     "codi": "6107820",
     "edat": "10",
-    "raons": "Al·lusions a drogues il·lícites, presentades negativament;Llenguatge groller freqüent d'intensitat baixa"
+    "raons": "Al·lusions a drogues il·lícites, presentades negativament<br>Llenguatge groller freqüent d'intensitat baixa"
   },
   {
     "titol": "Les regles de la Floor 3x11",
     "codi": "6108903",
     "edat": "7",
-    "raons": "Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+    "raons": "Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Les regles de la Floor 3x12",
     "codi": "6110093",
     "edat": "10",
-    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada;Llenguatge groller freqüent d'intensitat baixa"
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada<br>Llenguatge groller freqüent d'intensitat baixa"
   },
   {
     "titol": "Les regles de la Floor 3x13",
     "codi": "6111235",
     "edat": "7",
-    "raons": "Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+    "raons": "Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Les regles de la Floor 3x14",
@@ -3804,7 +3804,7 @@
     "titol": "Les sisters 3",
     "codi": "5784500",
     "edat": "7",
-    "raons": "Referències sexuals ocasionals d'explicitació baixa;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Referències sexuals ocasionals d'explicitació baixa<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Les sisters 4",
@@ -3840,7 +3840,7 @@
     "titol": "Les sisters 10",
     "codi": "5785066",
     "edat": "7",
-    "raons": "Referències sexuals ocasionals d'explicitació baixa;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Referències sexuals ocasionals d'explicitació baixa<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Les sisters 11",
@@ -3852,13 +3852,13 @@
     "titol": "Les sisters 12",
     "codi": "5785457",
     "edat": "7",
-    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada;Conductes i valors incívics amb sanció neutra"
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada<br>Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "Les sisters 13",
     "codi": "5785469",
     "edat": "7",
-    "raons": "Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció neutra"
+    "raons": "Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "Les sisters 14",
@@ -3892,19 +3892,19 @@
     "titol": "Lucas etc 2",
     "codi": "6060273",
     "edat": "7",
-    "raons": "Violència ocasional, irreal, no explícita, d'intensitat lleu, no legitimada;Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat lleu, no legitimada<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Lucas etc 3",
     "codi": "6061029",
     "edat": "7",
-    "raons": "Violència ocasional, irreal, explícita, d'intensitat lleu, no legitimada;Por i angoixa freqüent d'afectació lleu;Conductes i valors incívics amb sanció negativa"
+    "raons": "Violència ocasional, irreal, explícita, d'intensitat lleu, no legitimada<br>Por i angoixa freqüent d'afectació lleu<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Lucas etc 4",
     "codi": "6061025",
     "edat": "10",
-    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada;Discriminació per motius de condició social i aparença física"
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada<br>Discriminació per motius de condició social i aparença física"
   },
   {
     "titol": "Lucas etc 5",
@@ -3933,13 +3933,13 @@
     "titol": "Lucas etc 9",
     "codi": "6064444",
     "edat": "10",
-    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada;Discriminació per motius d'aparença física"
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada<br>Discriminació per motius d'aparença física"
   },
   {
     "titol": "Lucas etc 10",
     "codi": "6064439",
     "edat": "7",
-    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada;Al·lusions al consum d'alcohol"
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada<br>Al·lusions al consum d'alcohol"
   },
   {
     "titol": "Lucas etc 11",
@@ -3963,13 +3963,13 @@
     "titol": "Lucas etc 14",
     "codi": "6066459",
     "edat": "10",
-    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada;Llenguatge groller freqüent d'intensitat baixa"
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada<br>Llenguatge groller freqüent d'intensitat baixa"
   },
   {
     "titol": "Lucas etc 15",
     "codi": "6067553",
     "edat": "7",
-    "raons": "Al·lusions al consum d'alcohol;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Al·lusions al consum d'alcohol<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Lucas etc 16",
@@ -3981,7 +3981,7 @@
     "titol": "Lucas etc 17",
     "codi": "6068846",
     "edat": "7",
-    "raons": "Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+    "raons": "Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Lucas etc 18",
@@ -3993,25 +3993,25 @@
     "titol": "Lucas etc 19",
     "codi": "6070004",
     "edat": "10",
-    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada;Conductes i valors incívics amb sanció neutra"
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada<br>Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "Lucas etc 20",
     "codi": "6070001",
     "edat": "7",
-    "raons": "Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+    "raons": "Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Lucas etc 21",
     "codi": "6071330",
     "edat": "7",
-    "raons": "Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+    "raons": "Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Lucas etc 22",
     "codi": "6071328",
     "edat": "10",
-    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada;Por i angoixa freqüent d'afectació mitjana"
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada<br>Por i angoixa freqüent d'afectació mitjana"
   },
   {
     "titol": "Lucas etc 23",
@@ -4047,7 +4047,7 @@
     "titol": "Lucas etc 28",
     "codi": "6076034",
     "edat": "7",
-    "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, legitimada;Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, legitimada<br>Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Lucas etc 29",
@@ -4065,13 +4065,13 @@
     "titol": "Lucas etc 31",
     "codi": "6077565",
     "edat": "7",
-    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat molt lleu, no legitimada;Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Lucas etc 32",
     "codi": "6077566",
     "edat": "7",
-    "raons": "Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+    "raons": "Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Lucas etc 33",
@@ -4095,13 +4095,13 @@
     "titol": "Lucas etc 36",
     "codi": "6079952",
     "edat": "7",
-    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat molt lleu, no legitimada;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat molt lleu, no legitimada<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Lucas etc 37",
     "codi": "6081170",
     "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Lucas etc 38",
@@ -4113,19 +4113,19 @@
     "titol": "Lucas etc 39",
     "codi": "6082535",
     "edat": "7",
-    "raons": "Referències sexuals ocasionals d'explicitació baixa;Por i angoixa ocasional d'afectació mitjana;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Referències sexuals ocasionals d'explicitació baixa<br>Por i angoixa ocasional d'afectació mitjana<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Lucas etc 40",
     "codi": "6082536",
     "edat": "7",
-    "raons": "Referències sexuals ocasionals d'explicitació baixa;Situacions masclistes amb sanció negativa;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Referències sexuals ocasionals d'explicitació baixa<br>Situacions masclistes amb sanció negativa<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Lucas etc 41",
     "codi": "6074838",
     "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Lucas etc 42",
@@ -4137,13 +4137,13 @@
     "titol": "Lucas etc 43",
     "codi": "6083806",
     "edat": "7",
-    "raons": "Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+    "raons": "Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Lucas etc 44",
     "codi": "6085117",
     "edat": "10",
-    "raons": "Referències sexuals ocasionals d'explicitació mitjana;Conductes i valors incívics amb sanció neutra"
+    "raons": "Referències sexuals ocasionals d'explicitació mitjana<br>Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "Lucas etc 45",
@@ -4161,7 +4161,7 @@
     "titol": "Lucas etc 47",
     "codi": "6086351",
     "edat": "7",
-    "raons": "Referències sexuals ocasionals d'explicitació baixa;Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+    "raons": "Referències sexuals ocasionals d'explicitació baixa<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Lucas etc 48",
@@ -4173,7 +4173,7 @@
     "titol": "Lucas etc 49",
     "codi": "6087574",
     "edat": "7",
-    "raons": "Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+    "raons": "Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Lucas etc 50",
@@ -4185,13 +4185,13 @@
     "titol": "Lucas etc 51",
     "codi": "6088841",
     "edat": "7",
-    "raons": "Conductes discriminatòries, incloent una al·lusió a violència masclista, presentades negativament;Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+    "raons": "Conductes discriminatòries, incloent una al·lusió a violència masclista, presentades negativament<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Lucas etc 52",
     "codi": "6090068",
     "edat": "7",
-    "raons": "Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+    "raons": "Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Lupin III The First",
@@ -4208,7 +4208,7 @@
     "titol": "Manduka 33",
     "codi": "6099549",
     "edat": "10",
-    "raons": "Comentaris amb al·lusions a la violència i al suïcidi, no recriminats;Llenguatge groller freqüent d'intensitat baixa;Conductes i valors incívics amb sanció neutra"
+    "raons": "Comentaris amb al·lusions a la violència i al suïcidi, no recriminats<br>Llenguatge groller freqüent d'intensitat baixa<br>Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "Manduka 34",
@@ -4237,13 +4237,13 @@
     "titol": "Manduka 55",
     "codi": "6184371",
     "edat": "7",
-    "raons": "Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció neutra"
+    "raons": "Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "Manduka 56",
     "codi": "6185812",
     "edat": "7",
-    "raons": "Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció neutra"
+    "raons": "Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "Manduka 57",
@@ -4405,7 +4405,7 @@
     "titol": "Marika 2x05",
     "codi": "6101594",
     "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu;Conductes i valors incívics amb sanció neutra"
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "Marika 2x06",
@@ -4441,49 +4441,49 @@
     "titol": "Marika 3x01",
     "codi": "6117913",
     "edat": "7",
-    "raons": "Al·lusions al consum de tabac i alcohol, presentat negativament;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Al·lusions al consum de tabac i alcohol, presentat negativament<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Marika 3x02",
     "codi": "6119092",
     "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu;Consum d'alcohol;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Consum d'alcohol<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Marika 3x03",
     "codi": "6120353",
     "edat": "7",
-    "raons": "Por i angoixa ocasional d'afectació mitjana;Al·lusions al consum de tabac i alcohol, presentat negativament;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Por i angoixa ocasional d'afectació mitjana<br>Al·lusions al consum de tabac i alcohol, presentat negativament<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Marika 3x04",
     "codi": "6121617",
     "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu;Al·lusions al consum de tabac, presentat negativament;Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Al·lusions al consum de tabac, presentat negativament<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Marika 3x05",
     "codi": "6122825",
     "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Marika 3x06",
     "codi": "6123998",
     "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu;Conductes i valors incívics amb sanció neutra"
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "Marika 3x07",
     "codi": "6125311",
     "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu;Conductes i valors incívics amb sanció neutra"
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "Marika 3x08",
     "codi": "6126591",
     "edat": "7",
-    "raons": "Por i angoixa ocasional d'afectació mitjana;Conductes i valors incívics amb sanció neutra"
+    "raons": "Por i angoixa ocasional d'afectació mitjana<br>Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "Marika 3x09",
@@ -4525,19 +4525,19 @@
     "titol": "Marika 4x05",
     "codi": "6132672",
     "edat": "10",
-    "raons": "Violència ocasional, irreal, no explícita, d'intensitat greu, no legitimada;Por i angoixa freqüent d'afectació mitjana"
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat greu, no legitimada<br>Por i angoixa freqüent d'afectació mitjana"
   },
   {
     "titol": "Marika 4x06",
     "codi": "6132671",
     "edat": "10",
-    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada;Por i angoixa freqüent d'afectació mitjana"
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada<br>Por i angoixa freqüent d'afectació mitjana"
   },
   {
     "titol": "Marika 4x07",
     "codi": "6133600",
     "edat": "10",
-    "raons": "Por i angoixa freqüent d'afectació mitjana;Conductes i valors incívics amb sanció neutra"
+    "raons": "Por i angoixa freqüent d'afectació mitjana<br>Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "Marika 4x08",
@@ -4549,7 +4549,7 @@
     "titol": "Marika 4x09",
     "codi": "6133598",
     "edat": "10",
-    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada;Por i angoixa freqüent d'afectació mitjana"
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada<br>Por i angoixa freqüent d'afectació mitjana"
   },
   {
     "titol": "Marika 4x10",
@@ -4583,7 +4583,7 @@
     "titol": "Missió Àrtic 3",
     "codi": "6135251",
     "edat": "7",
-    "raons": "Por i angoixa ocasional d'afectació mitjana;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Por i angoixa ocasional d'afectació mitjana<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Missió Àrtic 4",
@@ -4607,7 +4607,7 @@
     "titol": "Missió Àrtic 7",
     "codi": "6136418",
     "edat": "7",
-    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat molt lleu, legitimada;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat molt lleu, legitimada<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Missió Àrtic 8",
@@ -4625,7 +4625,7 @@
     "titol": "Missió Àrtic 10",
     "codi": "6136851",
     "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Món maker",
@@ -4642,28 +4642,28 @@
     "codi": "6205693",
     "edat": "13",
     "raons": "Por i angoixa freqüent d'afectació alta",
-    "mesinfo": "<b>Por i angoixa</b>;Inclou múltiples escenes de por o angoixa, sovint inesperades, o agreujades per efectes sonors i visuals. En una d'elles, la protagonista escup una mena de viscositat negra en una mena de somni. Es fa referència a actes macabres, com quan es diu explícitament que en un arbre hi havia penjats cadàvers amb la llengua enfora.;;També inclou llenguatge groller freqüent d'intensitat baixa, com 'merda', 'hosti' o 'imbècil'. Inclou conductes incíviques presentades de manera neutra quan, per exemple, un dels protagonistes furta una màscara d'una botiga i la seva germana li permet quedar-se-la. Una dona ofereix cervesa a una altra però se'n desdiu quan recorda que encara és menor."
+    "mesinfo": "<b>Por i angoixa</b><br>Inclou múltiples escenes de por o angoixa, sovint inesperades, o agreujades per efectes sonors i visuals. En una d'elles, la protagonista escup una mena de viscositat negra en una mena de somni. Es fa referència a actes macabres, com quan es diu explícitament que en un arbre hi havia penjats cadàvers amb la llengua enfora.<br><br>També inclou llenguatge groller freqüent d'intensitat baixa, com 'merda', 'hosti' o 'imbècil'. Inclou conductes incíviques presentades de manera neutra quan, per exemple, un dels protagonistes furta una màscara d'una botiga i la seva germana li permet quedar-se-la. Una dona ofereix cervesa a una altra però se'n desdiu quan recorda que encara és menor."
   },
   {
     "titol": "Mòpies 1x02",
     "codi": "6206367",
     "edat": "13",
     "raons": "Por i angoixa reiterada d'afectació mitjana",
-    "mesinfo": "<b>Por i angoixa</b>;Es manté una sensació de tensió i angoixa durant tot l'episodi, degut a l'estat sever d'angoixa de la protagonista i de més escenes de por, agreujades per efectes sonors i visuals.;;També inclou llenguatge groller ocasional d'intensitat alta ('putes')."
+    "mesinfo": "<b>Por i angoixa</b><br>Es manté una sensació de tensió i angoixa durant tot l'episodi, degut a l'estat sever d'angoixa de la protagonista i de més escenes de por, agreujades per efectes sonors i visuals.<br><br>També inclou llenguatge groller ocasional d'intensitat alta ('putes')."
   },
   {
     "titol": "Mòpies 1x03",
     "codi": "6206372",
     "edat": "13",
-    "raons": "Por i angoixa freqüent d'afectació alta;Consum de drogues lícites (tabac, alcohol), presentat de manera neutra",
-    "mesinfo": "<b>Por i angoixa</b>;En una escena particularment intensa, un home posseït ataca els protagonistes. L'acompanyen més escenes de por i inquietants.;;<b>Drogues</b>;Una dona consumeix tabac i alcohol, sense que ningú faci comentaris al respecte.;;També inclou llenguatge groller ocasional amb una intensitat baixa, com 'merda' o 'colló'."
+    "raons": "Por i angoixa freqüent d'afectació alta<br>Consum de drogues lícites (tabac, alcohol), presentat de manera neutra",
+    "mesinfo": "<b>Por i angoixa</b><br>En una escena particularment intensa, un home posseït ataca els protagonistes. L'acompanyen més escenes de por i inquietants.<br><br><b>Drogues</b><br>Una dona consumeix tabac i alcohol, sense que ningú faci comentaris al respecte.<br><br>També inclou llenguatge groller ocasional amb una intensitat baixa, com 'merda' o 'colló'."
   },
   {
     "titol": "Mòpies 1x04",
     "codi": "6206368",
     "edat": "13",
-    "raons": "Violència ocasional, versemblant, explícita, d'intensitat greu, no legitimada;Por i angoixa freqüent d'afectació alta;Consum de drogues lícites (tabac), presentat de manera neutra",
-    "mesinfo": "<b>Violència</b>;Un ésser trenca el coll d'una dona. Hi ha apunyalaments no explícits.;;<b>Por i angoixa</b>;Es manté una sensació de tensió i angoixa durant tot l'episodi, degut a que la majoria de l'acció té lloc en un entorn tancat i amb poca llum. La tensió augmenta quan les protagonistes se separen i una d'elles és atacada.;;<b>Drogues</b>;Una dona fuma tabac, sense comentaris al respecte.;;També inclou llenguatge groller ocasional amb una intensitat alta, com 'puta'."
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat greu, no legitimada<br>Por i angoixa freqüent d'afectació alta<br>Consum de drogues lícites (tabac), presentat de manera neutra",
+    "mesinfo": "<b>Violència</b><br>Un ésser trenca el coll d'una dona. Hi ha apunyalaments no explícits.<br><br><b>Por i angoixa</b><br>Es manté una sensació de tensió i angoixa durant tot l'episodi, degut a que la majoria de l'acció té lloc en un entorn tancat i amb poca llum. La tensió augmenta quan les protagonistes se separen i una d'elles és atacada.<br><br><b>Drogues</b><br>Una dona fuma tabac, sense comentaris al respecte.<br><br>També inclou llenguatge groller ocasional amb una intensitat alta, com 'puta'."
   },
   {
     "titol": "My Hero Academia Dos herois titol",
@@ -4680,7 +4680,7 @@
     "titol": "Nico 2",
     "codi": "5806346",
     "edat": "0",
-    "raons": "Por i angoixa freqüent d'afectació lleu;Conductes i valors incívics amb sanció negativa"
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Objectiu 2030",
@@ -4696,7 +4696,7 @@
     "titol": "Pinotxo i la seva amiga Coco",
     "codi": "5817536",
     "edat": "7",
-    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada;Por i angoixa freqüent d'afectació lleu;Conductes i valors incívics amb sanció negativa"
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada<br>Por i angoixa freqüent d'afectació lleu<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Presto",
@@ -4812,7 +4812,7 @@
     "titol": "Ranma 1",
     "codi": "6198899",
     "edat": "13",
-    "raons": "Violència ocasional, versemblant, explícita, d'intensitat greu, no legitimada (assetjament sexual);Drogues lícites (alcohol), presentades de manera neutra;Comportaments basats en estereotips de gènere, presentats de forma neutra"
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat greu, no legitimada (assetjament sexual)<br>Drogues lícites (alcohol), presentades de manera neutra<br>Comportaments basats en estereotips de gènere, presentats de forma neutra"
   },
   {
     "titol": "Robin Hood el trapella de Sherwood",
@@ -4823,8 +4823,8 @@
     "titol": "Robby, Toby i el viatge fantàstic",
     "codi": "5807504",
     "edat": "10",
-    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada;Llenguatge groller ocasional d'intensitat alta",
-    "mesinfo": "<b>Violència</b>;El protagonista pateix assetjament escolar, i hi ha escenes en què li disparen pilotes de paintball, el llencen a les escombraries o l'insulten. Hi ha una altra escena, presentant la violència en positiu però amb intencionalitat còmica, en què una dona es baralla amb una colla de motoristes.;;<b>Llenguatge groller</b>;Un noi fa servir expressions com 'fotre', 'acollonir' o 'cagar a les calces' en una sola escena, agreujades per tenir intencionalitat ofensiva i algunes per la seva naturalesa sexista. També se'n senten d'altres durant la pel·lícula, que el protagonista menor fa servir, com 'merda'.;;Hi ha situacions freqüents de por i angoixa amb una afectació lleu, ja que el protagonista està sovint en perill. També es mostren conductes i valors incívics presentats de manera negativa, com quan el protagonista amaga als seus pares que pateix assetjament."
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada<br>Llenguatge groller ocasional d'intensitat alta",
+    "mesinfo": "<b>Violència</b><br>El protagonista pateix assetjament escolar, i hi ha escenes en què li disparen pilotes de paintball, el llencen a les escombraries o l'insulten. Hi ha una altra escena, presentant la violència en positiu però amb intencionalitat còmica, en què una dona es baralla amb una colla de motoristes.<br><br><b>Llenguatge groller</b><br>Un noi fa servir expressions com 'fotre', 'acollonir' o 'cagar a les calces' en una sola escena, agreujades per tenir intencionalitat ofensiva i algunes per la seva naturalesa sexista. També se'n senten d'altres durant la pel·lícula, que el protagonista menor fa servir, com 'merda'.<br><br>Hi ha situacions freqüents de por i angoixa amb una afectació lleu, ja que el protagonista està sovint en perill. També es mostren conductes i valors incívics presentats de manera negativa, com quan el protagonista amaga als seus pares que pateix assetjament."
   },
   {
     "titol": "Ronja",
@@ -4871,13 +4871,13 @@
     "titol": "Ronja 7",
     "codi": "6189535",
     "edat": "7",
-    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada;Por i angoixa freqüent d'afectació lleu"
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada<br>Por i angoixa freqüent d'afectació lleu"
   },
   {
     "titol": "Ronja 8",
     "codi": "6189536",
     "edat": "0",
-    "raons": "Violència ocasional, irreal, explícita, d'intensitat molt lleu, no legitimada;Por i angoixa ocasional d'afectació lleu"
+    "raons": "Violència ocasional, irreal, explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa ocasional d'afectació lleu"
   },
   {
     "titol": "Ronja 9",
@@ -4913,7 +4913,7 @@
     "titol": "Ronja 14",
     "codi": "6191093",
     "edat": "7",
-    "raons": "Violència ocasional, irreal, no explícita, d'intensitat lleu, no legitimada;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat lleu, no legitimada<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Ronja 15",
@@ -4955,19 +4955,19 @@
     "titol": "Ronja 21",
     "codi": "6191098",
     "edat": "7",
-    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada;Por i angoixa freqüent d'afectació lleu"
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa freqüent d'afectació lleu"
   },
   {
     "titol": "Ronja 22",
     "codi": "6191101",
     "edat": "7",
-    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada;Por i angoixa freqüent d'afectació lleu"
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa freqüent d'afectació lleu"
   },
   {
     "titol": "Ronja 23",
     "codi": "6191096",
     "edat": "7",
-    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada;Por i angoixa freqüent d'afectació lleu"
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa freqüent d'afectació lleu"
   },
   {
     "titol": "Ronja 24",
@@ -4985,7 +4985,7 @@
     "titol": "Ronja 26",
     "codi": "6191106",
     "edat": "7",
-    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada;Por i angoixa freqüent d'afectació lleu"
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada<br>Por i angoixa freqüent d'afectació lleu"
   },
   {
     "titol": "Rovelló",
@@ -5017,7 +5017,7 @@
     "titol": "Sam Fox 2",
     "codi": "6059076",
     "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Sam Fox 3",
@@ -5059,7 +5059,7 @@
     "titol": "Sam Fox 9",
     "codi": "6066639",
     "edat": "7",
-    "raons": "Por i angoixa ocasional d'afectació mitjana;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Por i angoixa ocasional d'afectació mitjana<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Sam Fox 10",
@@ -5107,7 +5107,7 @@
     "titol": "Sam Fox 17",
     "codi": "6076183",
     "edat": "0",
-    "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, no legitimada;Por i angoixa ocasional d'afectació lleu"
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa ocasional d'afectació lleu"
   },
   {
     "titol": "Sam Fox 18",
@@ -5143,7 +5143,7 @@
     "titol": "Sam Fox 23",
     "codi": "6079538",
     "edat": "7",
-    "raons": "Por i angoixa ocasional d'afectació mitjana;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Por i angoixa ocasional d'afectació mitjana<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Sam Fox 24",
@@ -5208,7 +5208,7 @@
     "titol": "Sense sortida 2x01",
     "codi": "6187008",
     "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Sense sortida 2x02",
@@ -5220,7 +5220,7 @@
     "titol": "Sense sortida 2x03",
     "codi": "6186975",
     "edat": "10",
-    "raons": "Por i angoixa freqüent d'afectació mitjana;Llenguatge groller freqüent d'intensitat baixa"
+    "raons": "Por i angoixa freqüent d'afectació mitjana<br>Llenguatge groller freqüent d'intensitat baixa"
   },
   {
     "titol": "Sense sortida 2x04",
@@ -5262,7 +5262,7 @@
     "titol": "Sense sortida 3x04",
     "codi": "6195787",
     "edat": "10",
-    "raons": "Violència freqüent, irreal, no explícita, d'intensitat lleu, no legitimada (combats i agressions fantasioses, violència psicològica);Por i angoixa freqüent d'afectació mitjana"
+    "raons": "Violència freqüent, irreal, no explícita, d'intensitat lleu, no legitimada (combats i agressions fantasioses, violència psicològica)<br>Por i angoixa freqüent d'afectació mitjana"
   },
   {
     "titol": "Sense sortida 3x05",
@@ -5297,7 +5297,7 @@
     "titol": "Theodosia 2",
     "codi": "6192127",
     "edat": "7",
-    "raons": "Por i angoixa ocasional d'afectació mitjana;Conductes i valors incívics amb sanció negativa"
+    "raons": "Por i angoixa ocasional d'afectació mitjana<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Theodosia 3",
@@ -5339,7 +5339,7 @@
     "titol": "Theodosia 9",
     "codi": "6192596",
     "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu;Conductes i valors incívics amb sanció negativa"
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Theodosia 10",
@@ -5351,7 +5351,7 @@
     "titol": "Theodosia 11",
     "codi": "6192593",
     "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Theodosia 12",
@@ -5363,7 +5363,7 @@
     "titol": "Theodosia 13",
     "codi": "6192595",
     "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu;Conductes i valors incívics amb sanció negativa"
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Theodosia 14",
@@ -5387,7 +5387,7 @@
     "titol": "Theodosia 17",
     "codi": "6193735",
     "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Theodosia 18",
@@ -5405,7 +5405,7 @@
     "titol": "Theodosia 20",
     "codi": "6194571",
     "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu;Conductes i valors incívics amb sanció negativa"
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Theodosia 21",
@@ -5423,7 +5423,7 @@
     "titol": "Theodosia 23",
     "codi": "6194906",
     "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu;Conductes i valors incívics amb sanció negativa"
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Theodosia 24",
@@ -5447,7 +5447,7 @@
     "titol": "Thor martell màgic",
     "codi": "5808425",
     "edat": "7",
-    "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, legitimada;Comentaris sexuals ocasionals d'explicitació baixa;Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, legitimada<br>Comentaris sexuals ocasionals d'explicitació baixa<br>Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Top or fail",
@@ -5470,7 +5470,7 @@
     "titol": "Top or fail 3",
     "codi": "6125898",
     "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Top or fail 4",
@@ -5573,13 +5573,13 @@
     "titol": "ZombieLars 1x01",
     "codi": "6179329",
     "edat": "10",
-    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada;Por i angoixa freqüent d'afectació mitjana"
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada<br>Por i angoixa freqüent d'afectació mitjana"
   },
   {
     "titol": "ZombieLars 1x02",
     "codi": "6179333",
     "edat": "7",
-    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat molt lleu, no legitimada;Por i angoixa ocasional d'afectació mitjana;Situacions de xenofòbia amb sanció negativa;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa ocasional d'afectació mitjana<br>Situacions de xenofòbia amb sanció negativa<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "ZombieLars 1x03",
@@ -5591,13 +5591,13 @@
     "titol": "ZombieLars 1x04",
     "codi": "6179574",
     "edat": "7",
-    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada;Por i angoixa ocasional d'afectació mitjana;Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa ocasional d'afectació mitjana<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "ZombieLars 1x05",
     "codi": "6179582",
     "edat": "7",
-    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada;Por i angoixa freqüent d'afectació lleu;Llenguatge groller d'intensitat baixa"
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller d'intensitat baixa"
   },
   {
     "titol": "ZombieLars 1x06",
@@ -5609,7 +5609,7 @@
     "titol": "ZombieLars 1x07",
     "codi": "6179595",
     "edat": "10",
-    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada;Por i angoixa freqüent d'afectació mitjana;Conductes i valors incívics amb sanció neutra"
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada<br>Por i angoixa freqüent d'afectació mitjana<br>Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "ZombieLars 1x08",
@@ -5627,55 +5627,55 @@
     "titol": "ZombieLars 1x10",
     "codi": "6179606",
     "edat": "10",
-    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada;Conductes i valors incívics amb sanció neutra"
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada<br>Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "ZombieLars 1x11",
     "codi": "6179601",
     "edat": "10",
-    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada;Llenguatge groller ocasional d'intensitat alta;Conductes i valors incívics amb sanció neutra"
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada<br>Llenguatge groller ocasional d'intensitat alta<br>Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "ZombieLars 1x12",
     "codi": "6179604",
     "edat": "7",
-    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "ZombieLars 1x13",
     "codi": "6179611",
     "edat": "7",
-    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada;Situacions de xenofòbia amb sanció negativa;Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics amb sanció negativa"
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada<br>Situacions de xenofòbia amb sanció negativa<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "ZombieLars 2x01",
     "codi": "6187007",
     "edat": "10",
-    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada;Conductes i valors incívics amb sanció neutra"
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada<br>Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "ZombieLars 2x02",
     "codi": "6186977",
     "edat": "7",
-    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada;Por i angoixa ocasional d'afectació mitjana;Conductes i valors incívics amb sanció negativa"
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa ocasional d'afectació mitjana<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "ZombieLars 2x03",
     "codi": "6186988",
     "edat": "10",
-    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, legitimada;Por i angoixa freqüent d'afectació mitjana"
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, legitimada<br>Por i angoixa freqüent d'afectació mitjana"
   },
   {
     "titol": "ZombieLars 2x04",
     "codi": "6186995",
     "edat": "10",
-    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada;Por i angoixa freqüent d'afectació mitjana"
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada<br>Por i angoixa freqüent d'afectació mitjana"
   },
   {
     "titol": "ZombieLars 2x05",
     "codi": "6186991",
     "edat": "10",
-    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada;Llenguatge groller ocasional d'intensitat alta;Conductes i valors incívics amb sanció neutra"
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada<br>Llenguatge groller ocasional d'intensitat alta<br>Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "ZombieLars 2x06",
@@ -5711,43 +5711,43 @@
     "titol": "ZombieLars 2x11",
     "codi": "6187002",
     "edat": "7",
-    "raons": "Por i angoixa ocasional d'afectació mitjana;Situacions de xenofòbia amb sanció negativa"
+    "raons": "Por i angoixa ocasional d'afectació mitjana<br>Situacions de xenofòbia amb sanció negativa"
   },
   {
     "titol": "ZombieLars 2x12",
     "codi": "6187003",
     "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu;Situacions de xenofòbia amb sanció negativa;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Situacions de xenofòbia amb sanció negativa<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "ZombieLars 2x13",
     "codi": "6187004",
     "edat": "10",
-    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada;Por i angoixa freqüent d'afectació mitjana"
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada<br>Por i angoixa freqüent d'afectació mitjana"
   },
   {
     "titol": "ZombieLars 3x01",
     "codi": "6195774",
     "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu;Situacions de xenofòbia presentades negativament;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Situacions de xenofòbia presentades negativament<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "ZombieLars 3x02",
     "codi": "6195772",
     "edat": "10",
-    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada;Conductes i valors incívics amb sanció neutra"
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada<br>Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "ZombieLars 3x03",
     "codi": "6195773",
     "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu;Situacions de xenofòbia presentades negativament;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Situacions de xenofòbia presentades negativament<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "ZombieLars 3x04",
     "codi": "6195775",
     "edat": "7",
-    "raons": "Al·lusions sexuals ocasionals d'explicitació baixa;Por i angoixa ocasional d'afectació mitjana;Situacions xenòfobes presentades negativament;Llenguatge groller ocasional d'intensitat baixa;Conductes i valors incívics presentats negativament (actituds perilloses)"
+    "raons": "Al·lusions sexuals ocasionals d'explicitació baixa<br>Por i angoixa ocasional d'afectació mitjana<br>Situacions xenòfobes presentades negativament<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics presentats negativament (actituds perilloses)"
   },
   {
     "titol": "ZombieLars 3x05",
@@ -5759,7 +5759,7 @@
     "titol": "ZombieLars 3x06",
     "codi": "6195779",
     "edat": "10",
-    "raons": "Llenguatge groller freqüent d'intensitat baixa;Conductes i valors incívics amb sanció neutra (burla d'un amic)"
+    "raons": "Llenguatge groller freqüent d'intensitat baixa<br>Conductes i valors incívics amb sanció neutra (burla d'un amic)"
   },
   {
     "titol": "ZombieLars 3x07",
@@ -5771,7 +5771,7 @@
     "titol": "ZombieLars 3x08",
     "codi": "6195776",
     "edat": "10",
-    "raons": "Al·lusions sexuals ocasionals d'explicitació mitjana;Al·lusions a l'abús de drogues lícites (tabac, alcohol, medicaments) entre menors, presentat de manera negativa"
+    "raons": "Al·lusions sexuals ocasionals d'explicitació mitjana<br>Al·lusions a l'abús de drogues lícites (tabac, alcohol, medicaments) entre menors, presentat de manera negativa"
   },
   {
     "titol": "ZombieLars 3x09",
@@ -5783,24 +5783,24 @@
     "titol": "ZombieLars 3x10",
     "codi": "6195781",
     "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu;Al·lusions al consum de drogues lícites (tabac, alcohol), presentades de manera negativa"
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Al·lusions al consum de drogues lícites (tabac, alcohol), presentades de manera negativa"
   },
   {
     "titol": "ZombieLars 3x11",
     "codi": "6195780",
     "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "ZombieLars 3x12",
     "codi": "6195782",
     "edat": "7",
-    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat molt lleu, no legitimada;Por i angoixa ocasional d'afectació mitjana;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa ocasional d'afectació mitjana<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "ZombieLars 3x13",
     "codi": "6195784",
     "edat": "7",
-    "raons": "Al·lusions sexuals ocasionals d'explicitació baixa;Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Al·lusions sexuals ocasionals d'explicitació baixa<br>Llenguatge groller ocasional d'intensitat baixa"
   }
 ]
