@@ -963,6 +963,13 @@
     "raons": "Por i angoixa ocasional d'afectació lleu"
   },
   {
+    "titol": "Digimon Adventure: L'última evolució Kizuna",
+    "codi": "6211646",
+    "edat": "10",
+    "raons": "Violència freqüent, irreal, explícita, d'intensitat lleu, legitimada<br>Por i angoixa freqüent d'afectació mitjana<br>Consum de drogues lícites (alcohol), presentades de manera neutra",
+    "mesinfo": "<b>Violència</b><br>Hi ha escenes en què criatures fantàstiques lluiten entre si amb atacs d'energia, fletxes, cops, tirotejos amb armes fictícies i explosions. Algunes batalles tenen lloc en ciutats, i comporten la destrucció d'edificis o cotxes. En una escena, un noi surt disparat i se'l veu amb força sang a la cara.<br><br><b>Por i angoixa</b><br>Gran part de l'argument succeeix en un món ominós creat a conveniència d'una persona emocionalment afectada, que vol retenir els nens i les seves mascotes en un lloc perquè puguin viure per sempre, sense envellir i sense separar-se, però sense ànima i obeint-la a ella. Quan els herois intenten aturar-la, mitjançant la violència, els nens volen detenir-los, inexpressius i amb els ulls vermells, mentre sona una música molt dramàtica. La resolució és emotiva en tant que la temàtica principal gira entorn de deixar enrere la infància i éssers estimats. Hi ha altres situacions que poden angoixar, com unes imatges breus de gent que ha perdut el coneixement, de gent segrestada lligada a unes cadires, o presenciar atemorits com un home té una pistola real.<br><br><b>Drogues</b><br>Dos universitaris beuen una birra cadascun en un bar. Es veuen cerveses i vins en altres poques escenes, però no es consumeixen.<br><br>Hi ha una referència sexual d'explicitació baixa en una escena en què es troben unes fotografies de noies que el protagonista, avergonyit, diu que són 'coses de grans'."
+  },
+  {
     "titol": "Dinàmiks",
     "codi": "dinamiks",
     "edat": "0"
@@ -1799,6 +1806,69 @@
     "codi": "6211148",
     "edat": "10",
     "raons": "Contingut sexual freqüent d'explicitació baixa"
+  },
+  {
+    "titol": "Eufòria 2 gala 4",
+    "codi": "6212605",
+    "edat": "10",
+    "raons": "Al·lusions ocasionals al consum d'alcohol, presentat de manera neutra",
+    "mesinfo": "<b>Drogues</b><br>Es fan mencions molt ocasionals a estar 'borratxo' o a begudes alcohòliques ('una ronda de White Russian', 'whisky'). En un vídeo, una família brinda amb cervesa en un restaurant. Una cançó fa menció del CBD.<br><br>Hi ha violència irreal en una actuació en què unes fletxes són clavades en el cos d'un noi i li fan sagnar. Hi ha continguts sexuals ocasionals d'explicitació baixa, sobretot en forma de referències verbals, en lletres de cançons ('estic tan bona', 'tu me fas coses que no sé explicar... fent l'amor') o en insinuacions còmiques (quan li diuen a una noia que utilitzi objectes vibradors i es pregunta rient que 'què insinua', o considerar que un cantant 'va fort' pel nom d'un disc anomenat 'Entre fluids'). Hi ha llenguatge groller ocasional d'intensitat baixa com 'hòstia', 'cagar', 'collonuda', 'fotre' o 'cabrón'. Hi ha situacions ocasionals susceptibles de provocar por o angoixa amb una afectació mitjana, concretament l'escena de sang i alguns comentaris que reflectien l'angoixa patida per algunes concursants en la seva infantesa o adolescència."
+  },
+  {
+    "titol": "Eufòria 2 gala 4 clip elena",
+    "codi": "6212599",
+    "edat": "10",
+    "raons": "Contingut sexual freqüent d'explicitació baixa"
+  },
+  {
+    "titol": "Eufòria 2 gala 4 clip jan",
+    "codi": "6212597",
+    "edat": "7",
+    "raons": "Contingut sexual ocasional d'explicitació baixa"
+  },
+  {
+    "titol": "Eufòria 2 gala 4 clip carlos",
+    "codi": "6212595",
+    "edat": "10",
+    "raons": "Violència freqüent, irreal, explícita, d'intensitat lleu, no legitimada"
+  },
+  {
+    "titol": "Eufòria 2 gala 4 clip jim",
+    "codi": "6212594",
+    "edat": "0"
+  },
+  {
+    "titol": "Eufòria 2 gala 4 clip alèxia",
+    "codi": "6212588",
+    "edat": "0"
+  },
+  {
+    "titol": "Eufòria 2 gala 4 clip clàudia",
+    "codi": "6212592",
+    "edat": "0",
+    "raons": "(No s'analitza el contingut de la lletra en anglès.)"
+  },
+  {
+    "titol": "Eufòria 2 gala 4 clip tomàs",
+    "codi": "6212590",
+    "edat": "0"
+  },
+  {
+    "titol": "Eufòria 2 gala 4 clip sofia",
+    "codi": "6212586",
+    "edat": "7",
+    "raons": "Contingut sexual ocasional d'explicitació baixa"
+  },
+  {
+    "titol": "Eufòria 2 gala 4 clip domènec",
+    "codi": "6212587",
+    "edat": "7",
+    "raons": "Contingut sexual ocasional d'explicitació baixa"
+  },
+  {
+    "titol": "Eufòria 2 gala 4 clip carla",
+    "codi": "6212585",
+    "edat": "0"
   },
   {
     "titol": "Eufòria dance",
