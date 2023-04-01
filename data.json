@@ -736,6 +736,13 @@
     "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
+    "titol": "Bola de drac Super: Broly",
+    "codi": "6210525",
+    "edat": "10",
+    "raons": "Violència freqüent, irreal, explícita, d'intensitat lleu, legitimada<br>Conductes i valors incívics amb sanció neutra",
+    "mesinfo": "<b>Violència</b><br>Mitja pel·lícula és un prolongat combat cos a cos amb cops de puny, cops de cap, trets d'atacs d'energia, intents d'ofegament, explosions, etc., destrossant muntanyes o el terra. No es veu mai sang ni ferides greus; com a molt, s'escup saliva després d'un impacte fort. En una escena, un home mor un altre amb una pistola làser, i en una altra, un home mor després que un atac amb el dit li perfori el pit. Hi ha moments on es dona a entendre que un dolent ha comès un genocidi. Hi ha una escena d'assetjament sexual en què un home ebri s'apropa a una dona i li ofereix de passar-ho bé; un home es baralla amb ell per defensar-la, però és electrocutat abans no pugui fer més mal a l'assetjador.<br><br><b>Conductes i valors incívics</b><br>Es fa un comentari de culte al cos en què una dona diu que el seu somni és tenir cinc anys menys. En una altra escena, una noia roba i trenca un objecte per tal d'alliberar el seu amic del seu pare.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa, com 'merda', 'desgraciat' o 'imbècil'. Hi ha consum d'alcohol implícit, presentat negativament."
+  },
+  {
     "titol": "Bricociència",
     "codi": "bricociencia",
     "edat": "0"
@@ -4806,7 +4813,7 @@
     "codi": "6210284",
     "edat": "13",
     "raons": "Violència freqüent, irreal, molt explícita, d'intensitat greu, legitimada",
-    "mesinfo": "<b>Violència</b><br>Hi ha freqüents combats entre personatges amb superpoders, amb explosions, electrocutacions, incendis, tirotejos, cops de puny, fletxes, armes, atropellaments... Algunes escenes són cruents, provoquen hemorràgies abundants i es fa èmfasi en la sang. Per exemple, un dolent té una arma formada per fulles molt esmolades i travessen, freguen, i es claven, per tot el cos d'un dels herois, deixant-lo malferit per tot arreu, fins i tot a l'ull. Uns làsers travessen el cos d'un heroi per diverses zones, com el cap o les cames, i sagna profundament. També disparen a un noi i veiem com deixa un rastre de sang per les parets i pel terra mentre intenta fer passes, fins al punt que rellisca amb la seva pròpia sang, s'arrossega per terra i es dona per mort. Claven una fletxa en el cos d'un noi i surt sang, també quan se l'arrenca per la força. En altres escenes, hi ha pànic entre la població, i un atemptat mostra com gent mor després de patir combustió espontània o provocar destrucció.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa, com 'merda', 'merdosos' o 'idiota'. Hi ha conductes i valors incívics en forma d'actes criminals com atracaments o robatoris, presentats de manera negativa. Molt ocasionalment, es veu un bar on s'hi ofereixen i consumeixen begudes alcohòliques."
+    "mesinfo": "<b>Violència</b><br>Hi ha freqüents combats entre personatges amb superpoders, amb explosions, electrocutacions, incendis, tirotejos, cops de puny, fletxes, armes, atropellaments... Algunes escenes són cruents, provoquen hemorràgies abundants i es fa èmfasi en la sang. Per exemple, un dolent té una arma formada per fulles molt esmolades i travessen, freguen, i es claven, per tot el cos d'un dels herois, deixant-lo malferit per tot arreu, fins i tot a l'ull. Uns làsers travessen el cos d'un heroi per diverses zones, com el cap o les cames, i sagna profundament. També disparen a un noi i veiem com deixa un rastre de sang per les parets i pel terra mentre intenta fer passes, fins al punt que rellisca amb la seva pròpia sang, s'arrossega per terra i es dona per mort. Claven una fletxa en el cos d'un noi i surt sang, també quan se l'arrenca per la força. En altres escenes, hi ha pànic entre la població, i un atemptat mostra com gent mor després de patir combustió espontània o provocar destrucció. Un malvat diu que va plantejar-se el suïcidi.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa, com 'merda', 'merdosos' o 'idiota'. Hi ha conductes i valors incívics en forma d'actes criminals com atracaments o robatoris, presentats de manera negativa. Molt ocasionalment, es veu un bar on s'hi ofereixen i consumeixen begudes alcohòliques."
   },
   {
     "titol": "Nico 2",
