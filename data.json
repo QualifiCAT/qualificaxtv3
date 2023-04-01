@@ -3398,6 +3398,13 @@
     "edat": "7"
   },
   {
+    "titol": "La colla de la selva al rescat!: El retorn al gel",
+    "codi": "6211640",
+    "edat": "7",
+    "raons": "Violència reiterada, irreal, explícita, d'intensitat molt lleu, legitimada<br>Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Violència</b><br>Uns dolents tenen amenaçat un poble i la missió dels herois és fer-los fora violentament. Es fa un ús pràcticament ininterromput de llenguatge violent ('us fotrà un mastegot', 'lluitarem cos a cos', 'm'ha trencat les costelles', 'qui s'ha mort', 'picar els dolents', 'els estomacarem', 'hauràs de passar per sobre del meu cadàver', 'revenja', 'esclaus'). Personatges es fan cops al cap, es bufetegen o juguen a ser mestres d'arts marcials. En una batalla campal on bons i dolents no paren de fer-se cops, un dels dolents envia l'heroi contra una superfície i el deixa estabornit; té intencions d'empalar-lo amb un ullal però el seu amic el salva: salta i li mossega l'ull al dolent.<br><br><b>Llenguatge groller</b><br>Es diu 'fotre' i 'idiotes'."
+  },
+  {
     "titol": "La llegenda del drac trencaossos titol",
     "codi": "llegenda-dracs-trencaossos",
     "edat": "7"
@@ -4784,7 +4791,7 @@
   {
     "titol": "Nico 2",
     "codi": "5806346",
-    "edat": "0",
+    "edat": "7",
     "raons": "Por i angoixa freqüent d'afectació lleu<br>Conductes i valors incívics amb sanció negativa"
   },
   {
