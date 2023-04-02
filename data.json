@@ -1004,6 +1004,17 @@
     "edat": "7"
   },
   {
+    "titol": "Dracs: El regal de la fúria nocturna títol",
+    "codi": "dracs-regal-furia-nocturna",
+    "edat": "7"
+  },
+  {
+    "titol": "Dracs: El regal de la fúria nocturna",
+    "codi": "6202323",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
     "titol": "Dracs genets illa fred",
     "codi": "dracs-genets-illa-fred",
     "edat": "7"
@@ -3242,6 +3253,42 @@
     "codi": "6209153",
     "edat": "10",
     "raons": "Llenguatge groller freqüent d'intensitat baixa<br>Conductes i valors incívics amb sanció neutra"
+  },
+  {
+    "titol": "Hoodie 3x12",
+    "codi": "6209382",
+    "edat": "7",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada<br>Conductes i valors incívics amb sanció negativa"
+  },
+  {
+    "titol": "Hoodie 3x13",
+    "codi": "6209973",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa"
+  },
+  {
+    "titol": "Hoodie 3x14",
+    "codi": "6210077",
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa"
+  },
+  {
+    "titol": "Hoodie 3x15",
+    "codi": "6210278",
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa"
+  },
+  {
+    "titol": "Hoodie 3x16",
+    "codi": "6210516",
+    "edat": "10",
+    "raons": "Conductes i valors incívics amb sanció neutra"
+  },
+  {
+    "titol": "Hoodie 3x17",
+    "codi": "6210721",
+    "edat": "10",
+    "raons": "Por i angoixa freqüent d'afectació mitjana<br>Llenguatge groller freq"
   },
   {
     "titol": "Ideafix",
