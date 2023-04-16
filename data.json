@@ -451,6 +451,12 @@
     "raons": "Por i angoixa freqüent d'afectació lleu"
   },
   {
+    "titol": "Beta 3x01",
+    "codi": "6214777",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu"
+  },
+  {
     "titol": "Black Clover",
     "codi": "black-clover",
     "edat": "13"
@@ -2725,6 +2731,27 @@
     "edat": "7",
     "raons": "Por i angoixa freqüent d'afectació lleu",
     "mesinfo": "<b>Por i angoixa</b><br>Dramatitzacions mostren una noia sent arrossegada per l'aigua i un gos rescatant-la. Durant l'episodi es fan simulacions d'ofegaments, i al·lusions a la mort. Imatges breus mostren gossos barallant-se per una presa o intentant caçar un ànec."
+  },
+  {
+    "titol": "Herois amb cua 7",
+    "codi": "6064454",
+    "edat": "10",
+    "raons": "Por i angoixa freqüent d'afectació mitjana",
+    "mesinfo": "<b>Por i angoixa</b><br>Dramatitzacions mostren un home inconscient a terra amb sang al cap després que li hagi caigut una branca a sobre. Les imatges de l'accident i de l'home es repeteixen freqüentment. Més tard, el fet és recreat utilitzant un ninot i tacant el seu crani amb quètxup. Es diu que la mare d'un cangur va morir atropellada i que un nen va perdre's en un bosc.<br><br>Hi ha imatges de baralles, d'intensitat molt lleu, entre cangurs o d'un cangur atacant un home i a l'inrevés."
+  },
+  {
+    "titol": "Herois amb cua 8",
+    "codi": "6065593",
+    "edat": "7",
+    "raons": "Violència freqüent, versemblant, explícita, d'intensitat molt lleu, no legitimada",
+    "mesinfo": "<b>Violència</b><br>Imatges reals que es repeteixen sovint mostren, des de certa distància, un gos atacant un nen per la cama, i una gata defensant-lo atacant el gos. També es mostren gats capturant ratolins morts, i gats o lleons barallant-se entre ells."
+  },
+  {
+    "titol": "Herois amb cua 9",
+    "codi": "6066641",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu",
+    "mesinfo": "<b>Por i angoixa</b><br>Dramatitzacions mostren un elefant refugiant una nena i gent angoixada perquè s'acosta un tsunami i temen per ella. Hi ha imatges reals de tsunamis i terratrèmols, elefants desmaiant-se per la calor o espantant persones, i al·lusions a la caça d'animals.<br><br>Es diu que un dels caçadors era un 'desgraciat'. Un nen fica el dit en excrements d'elefant i el llepa."
   },
   {
     "titol": "Hoodie",
