@@ -2682,7 +2682,7 @@
   {
     "titol": "Herois amb cua",
     "codi": "herois-amb-cua",
-    "edat": "7"
+    "edat": "10"
   },
   {
     "titol": "Herois amb cua 1",
@@ -2704,6 +2704,27 @@
     "edat": "7",
     "raons": "Por i angoixa freqüent d'afectació lleu<br>Conductes i valors incívics amb sanció neutra",
     "mesinfo": "<b>Por i angoixa</b><br>Són freqüents durant l'episodi referències visuals i verbals a incidents en què gent ha de ser rescatada després de restar immòbil al ras durant dies, i les conseqüències físiques i mentals. En dues escenes, deixen un nen refredant-se en una sala climatitzada per a un experiment.<br><br><b>Conductes i valors incívics</b><br>Un nen escup llet a terra perquè li fa fàstic."
+  },
+  {
+    "titol": "Herois amb cua 4",
+    "codi": "6061206",
+    "edat": "10",
+    "raons": "Por i angoixa freqüent d'afectació mitjana",
+    "mesinfo": "<b>Por i angoixa</b><br>Imatges reals mostren dos nens inconscients que han caigut des d'una gran alçada en el refugi d'uns goril·les. En una ocasió, en despertar-se, veiem que el nen té sang a la cara i a terra. Les imatges es repeteixen i se'n fan referències freqüentment, tot i que amb un to tranquil·litzador i puntualitzant que es van recuperar completament."
+  },
+  {
+    "titol": "Herois amb cua 5",
+    "codi": "6062482",
+    "edat": "10",
+    "raons": "Conductes i valors incívics amb sanció neutra",
+    "mesinfo": "<b>Conductes i valors incívics</b><br>Uns nens fan un experiment en què mantenen la mà en un bol ple de cubs de gel, i mesurant quanta estona poden aguantar. No es fan comentaris en relació amb la perillositat de l'activitat, més enllà de com pot influir en la seva pressió sanguínia o que, si s'acaricia un gos, es pot sentir menys dolor.<br><br>Dramatitzacions mostren soldats entrant amb armes en una casa, apuntant als homes que hi ha dins, que s'han d'ajupir a terra. Es mostren armes i es diu que s'haurien utilitzat per a fer molt mal. Es fa referència a la salut mental dels soldats, a morts per explosions i al càncer. Es fan al·lusions al tràfic de drogues, i es veuen unes bosses, però no s'especifica de què (en una altra escena, hi apareix escrit 'heroin'). Un presumpte terrorista fuma una shisha."
+  },
+  {
+    "titol": "Herois amb cua 6",
+    "codi": "6063413",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu",
+    "mesinfo": "<b>Por i angoixa</b><br>Dramatitzacions mostren una noia sent arrossegada per l'aigua i un gos rescatant-la. Durant l'episodi es fan simulacions d'ofegaments, i al·lusions a la mort. Imatges breus mostren gossos barallant-se per una presa o intentant caçar un ànec."
   },
   {
     "titol": "Hoodie",
