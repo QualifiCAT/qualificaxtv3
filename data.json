@@ -3699,6 +3699,12 @@
     "raons": "Por i angoixa reiterada d'afectació lleu<br>Llenguatge groller reiterat d'intensitat baixa"
   },
   {
+    "titol": "Hoodie 3x36",
+    "codi": "6215451",
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa"
+  },
+  {
     "titol": "Ideafix",
     "codi": "ideafix-irreductibles",
     "edat": "0"
@@ -4838,6 +4844,11 @@
   {
     "titol": "Mags: contes d'Arcàdia",
     "codi": "mags-contes-arcadia",
+    "edat": "10"
+  },
+  {
+    "titol": "Mags: contes d'Arcàdia (alt)",
+    "codi": "66876",
     "edat": "10"
   },
   {
