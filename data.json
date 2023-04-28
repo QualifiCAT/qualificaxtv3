@@ -2109,8 +2109,8 @@
     "titol": "Eufòria 2 gala 7",
     "codi": "6217585",
     "edat": "10",
-    "raons": "Al·lusions ocasionals al consum d'alcohol, presentat de manera neutra",
-    "mesinfo": "<b>Drogues</b><br>Es fa una menció al tabac en una cançó. Una noia confon 'moscatell' amb 'moscató' i una d'elles diu que és 'més de moscatell'. Es parla breument de fer un vermut o una cervesa. En un vídeo hi apareix una ampolla de cervesa.<br><br>Hi ha continguts sexuals ocasionals d'explicitació baixa, tant visuals (coreografies sexualitzades) com verbals (lletres i comentaris com 'hi ha hagut sexe entre concursants?', 'ens protegia de la llengua dels veïns', 'sexi', 'el compte d'OnlyFans', 'potser he deixat embarassada a més d'un'). Hi ha llenguatge groller ocasional d'intensitat baixa quan es diuen 'hòstia' o 'fotre'. (Es diu 'fuck' i hi ha referències sexuals en anglès, que no han estat tingudes en compte.) Un home diu que un noi, que ha fet una actuació emotiva, ha tret el seu cantó més 'femení'."
+    "raons": "Al·lusions ocasionals al consum d'alcohol i tabac, presentat de manera neutra",
+    "mesinfo": "<b>Drogues</b><br>Es fa una menció al tabac en una cançó. Una noia confon 'moscatell' amb 'moscató' i una d'elles diu que és 'més de moscatell'. Es parla de fer un vermut o una cervesa. En un vídeo gravat per uns joves s'hi pot veure una ampolla de cervesa.<br><br>Hi ha continguts sexuals ocasionals d'explicitació baixa, tant visuals (coreografies sexualitzades) com verbals (lletres i comentaris com 'hi ha hagut sexe entre concursants?', 'ens protegia de la llengua dels veïns', 'sexi', 'el compte d'OnlyFans', 'potser he deixat embarassada a més d'una'). Hi ha llenguatge groller ocasional d'intensitat baixa quan es diuen 'hòstia' o 'fotre'. (Es diu 'fuck' i hi ha referències sexuals en anglès, que no han estat tingudes en compte.) Un home diu que un noi, que ha fet una actuació emotiva, ha tret el seu cantó més 'femení'."
   },
   {
     "titol": "Eufòria 2 gala 7 clip grupal",
@@ -3769,6 +3769,12 @@
   {
     "titol": "Hoodie 3x36",
     "codi": "6215451",
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa"
+  },
+  {
+    "titol": "Hoodie 3x37",
+    "codi": "6215881",
     "edat": "10",
     "raons": "Llenguatge groller freqüent d'intensitat baixa"
   },
