@@ -924,7 +924,20 @@
     "codi": "6208567",
     "edat": "7",
     "raons": "Llenguatge groller ocasional d'intensitat baixa",
-    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'idiota' i 'merda'. A vegades, els personatges es responen maleducadament ('ningú t'havia preguntat').<br><br>Hi ha situacions de por o angoixa ocasional d'afectació lleu, amb persecucions, plors i un segrest. L'antagonista saboteja a una noia, el que la fa posar en un compromís i es veu obligada a mentir a una autoritat. Un noi agafa un altre per l'orella. Un noi xoca el cap contra una paret en algunes escenes."
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'idiota' i 'merda'. A vegades, els personatges es responen maleducadament ('ningú t'ha preguntat').<br><br>Hi ha situacions de por o angoixa ocasional d'afectació lleu; una noia plora després de presenciar com algú invisible segresta el seu nòvio. Una noia fa un petó a un noi de forma sobtada. L'antagonista saboteja la protagonista, el que la fa posar en un compromís i es veu obligada a mentir. Un noi agafa un altre per l'orella. Un noi xoca el cap contra la paret en algunes escenes en to de broma."
+  },
+  {
+    "titol": "Busca'm a París 1x14",
+    "codi": "6208575",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu, un cop cadascuna, 'idiotes', 'merda', 'fotre' i 'hòstia'.<br><br>Hi ha situacions de por o angoixa ocasional d'afectació lleu."
+  },
+  {
+    "titol": "Busca'm a París 1x15",
+    "codi": "6210755",
+    "edat": "0",
+    "mesinfo": "Es diu que un objecte és 'estúpid'. En una escena, un noi dona un petit clatellot a un altre."
   },
   {
     "titol": "Buscant la màgica Doremi",
