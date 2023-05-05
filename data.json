@@ -15,6 +15,11 @@
     "edat": "0"
   },
   {
+    "titol": "Videoclip: Beta Full Festa",
+    "codi": "6218209",
+    "edat": "0"
+  },
+  {
     "titol": "Videoclip: Carlos Pacheco",
     "codi": "6185950",
     "edat": "0"
@@ -3853,7 +3858,19 @@
     "titol": "Hoodie 3x42",
     "codi": "6216748",
     "edat": "10",
-    "raons": "Por i angoixa reiterada d'afectació lleu<br>Llenguatge groller freqüent d'intensitat baixa<br>Conductes i valors inc"
+    "raons": "Por i angoixa reiterada d'afectació lleu<br>Llenguatge groller freqüent d'intensitat baixa<br>Conductes i valors incívics amb sanció neutra"
+  },
+  {
+    "titol": "Hoodie 3x43",
+    "codi": "6216875",
+    "edat": "10",
+    "raons": "Por i angoixa reiterada d'afectació lleu"
+  },
+  {
+    "titol": "Hoodie 3x44",
+    "codi": "6216876",
+    "edat": "10",
+    "raons": "Por i angoixa reiterada d'afectació lleu"
   },
   {
     "titol": "Ideafix",
