@@ -859,7 +859,7 @@
     "codi": "6208579",
     "edat": "7",
     "raons": "Por i angoixa freqüent d'afectació lleu<br>Conductes i valors incívics amb sanció negativa",
-    "mesinfo": "<b>Por i angoixa</b><br>Hi ha escenes de persecució entre un grup d'homes, la protagonista i el seu nòvio, qui tenen capturat. Hi ha moments en què ella es mostra visiblement afectada. Es fa menció d'una tragèdia familiar.<br><br><b>Conductes i valors incívics</b><br>Una amiga descobreix que la protagonista li està mentint i ella li explica la veritat. Es recrimina el comportament egoista d'una rival."
+    "mesinfo": "<b>Por i angoixa</b><br>Hi ha escenes de persecució entre un grup d'homes, la protagonista i el seu xicot, qui tenen capturat. Hi ha moments en què ella es mostra visiblement afectada. Es fa menció d'una tragèdia familiar.<br><br><b>Conductes i valors incívics</b><br>Una amiga descobreix que la protagonista li està mentint i ella li explica la veritat. Es recrimina el comportament egoista d'una rival."
   },
   {
     "titol": "Busca'm a París 1x04",
@@ -922,14 +922,14 @@
     "codi": "6208577",
     "edat": "7",
     "raons": "Llenguatge groller ocasional d'intensitat baixa",
-    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'cagat'.<br><br>Hi ha situacions ocasionals de por o angoixa amb afectació lleu quan una noia i un noi s'enfaden, o es posen tristos perquè són desqualificats per a una actuació, o quan ella tem que no veurà més el seu nòvio."
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'cagat'.<br><br>Hi ha situacions ocasionals de por o angoixa amb afectació lleu quan una noia i un noi s'enfaden, o es posen tristos perquè són desqualificats per a una actuació, o quan ella tem que no veurà més el seu xicot."
   },
   {
     "titol": "Busca'm a París 1x13",
     "codi": "6208567",
     "edat": "7",
     "raons": "Llenguatge groller ocasional d'intensitat baixa",
-    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'idiota' i 'merda'. A vegades, els personatges es responen maleducadament ('ningú t'ha preguntat').<br><br>Hi ha situacions de por o angoixa ocasional d'afectació lleu; una noia plora després de presenciar com algú invisible segresta el seu nòvio. Una noia fa un petó a un noi de forma sobtada. L'antagonista saboteja la protagonista, el que la fa posar en un compromís i es veu obligada a mentir. Un noi agafa un altre per l'orella. Un noi xoca el cap contra la paret en algunes escenes en to de broma."
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'idiota' i 'merda'. A vegades, els personatges es responen maleducadament ('ningú t'ha preguntat').<br><br>Hi ha situacions de por o angoixa ocasional d'afectació lleu; una noia plora després de presenciar com algú invisible segresta el seu xicot. Una noia fa un petó a un noi de forma sobtada. L'antagonista saboteja la protagonista, el que la fa posar en un compromís i es veu obligada a mentir. Un noi agafa un altre per l'orella. Un noi xoca el cap contra la paret en algunes escenes en to de broma."
   },
   {
     "titol": "Busca'm a París 1x14",
@@ -943,6 +943,83 @@
     "codi": "6210755",
     "edat": "0",
     "mesinfo": "Es diu que un objecte és 'estúpid'. En una escena, un noi dona un petit clatellot a un altre."
+  },
+  {
+    "titol": "Busca'm a París 1x16",
+    "codi": "6210757",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "<b>Por i angoixa</b><br>Personatges discuteixen i es mostren afectats emocionalment.<br><br><b>Conductes i valors incívics</b><br>L'antagonista saboteja a la protagonista, i això té conseqüències negatives per a l'assetjadora."
+  },
+  {
+    "titol": "Busca'm a París 1x17",
+    "codi": "6210768",
+    "edat": "10",
+    "raons": "Llenguatge groller ocasional d'intensitat alta",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'putada'.<br><br>Hi ha freqüents mostres de conductes i valors incívics, presentats de manera negativa."
+  },
+  {
+    "titol": "Busca'm a París 1x18",
+    "codi": "6210778",
+    "edat": "7",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada<br>Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Violència</b><br>Un noi s'encara agressivament a un altre noi, empenyent-lo. Més tard, el desprecia aixecant el to.<br><br><b>Llenguatge groller</b><br>Es diu 'com el cul', 'fotem el camp' i 'hosti'."
+  },
+  {
+    "titol": "Busca'm a París 1x19",
+    "codi": "6210771",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diuen 'cagat' i 'l'hòstia'.<br><br><b>Conductes i valors incívics</b><br>Es revela que un noi ha estat mentint sobre el seu passat, i que el seu pare no és mort com ha fet creure a tothom. El noi s'encara al seu pare i li retreu que no ha estat mai per ell. La protagonista, qui també ha mentit, és comprensiva amb ell, però els seus amics no."
+  },
+  {
+    "titol": "Busca'm a París 1x20",
+    "codi": "6210799",
+    "edat": "7",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa ocasional d'afectació mitjana<br>Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Violència</b><br>Es repeteix una escena d'un episodi anterior en què un noi empeny un altre. Un home alça la veu parlant amb el seu fill.<br><br><b>Por i angoixa</b><br>Un noi retreu al seu pare que l'abandonessin en un internat de petit, i que no hagi volgut saber res d'ell fins aleshores.<br><br><b>Llenguatge groller</b><br>Es diu 'merder' i 'fotre'.<br><br>Hi ha una persecució. Uns nois visiten un centre de nens orfes perquè un amic aprengui a valorar el que té, qui més tard es disculpa per haver-los mentit sobre la seva família."
+  },
+  {
+    "titol": "Busca'm a París 1x21",
+    "codi": "6210877",
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diuen, amb relativa freqüència, 'fotre', 'hòstia', 'merda' i 'cagar'.<br><br>Hi ha conductes i valors incívics presentats de manera negativa; la protagonista li diu a la seva rival que deixi d'assetjar-la i que accepti que és millor que ella."
+  },
+  {
+    "titol": "Busca'm a París 1x22",
+    "codi": "6210876",
+    "edat": "10",
+    "raons": "Conductes i valors incívics amb sanció neutra",
+    "mesinfo": "<b>Conductes i valors incívics</b><br>Uns joves aprofiten una sortida escolar per fer unes activitats, distraient i amagant-ho al professor. Eventualment se n'adona i els renya. Els joves es disculpen, mostren al professor el vídeo que han fet al marge d'ell i aconsegueixen no ser castigats. En una escena, un noi diu que la seva tècnica per lligar és passar d'una noia perquè s'interessi per ell. La protagonista menteix als alumnes i al professor sobre el seu passat.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa ('hosti', 'idiota', 'cagar'). Hi ha situacions de provocar por o angoixa ocasionals amb afectació lleu."
+  },
+  {
+    "titol": "Busca'm a París 1x23",
+    "codi": "6210975",
+    "edat": "7",
+    "raons": "Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "<b>Conductes i valors incívics</b><br>La rival de la protagonista grava la conversa que tenen ella i la seva amiga sense consentiment per sabotejar-la. Es fa passar per ella, roba un objecte que no li pertany i menteix a un professor. D'altra banda, la protagonista pacta amb la seva amiga d'anar a un lloc juntes però acaba anant-hi sola; tot plegat li porta conseqüències negatives.<br><br>Hi ha situacions de provocar por o angoixa ocasionals amb afectació lleu."
+  },
+  {
+    "titol": "Busca'm a París 1x24",
+    "codi": "6210994",
+    "edat": "7",
+    "raons": "Violència verbal ocasional d'intensitat lleu, no legitimada",
+    "mesinfo": "<b>Violència</b><br>Personatges discuteixen entre ells en algunes escenes. Un professor parla agressivament als seus alumnes i llença objectes a terra, frustrat.<br><br>Hi ha situacions de provocar por o angoixa ocasionals amb afectació lleu."
+  },
+  {
+    "titol": "Busca'm a París 1x25",
+    "codi": "6210996",
+    "edat": "7",
+    "raons": "Violència verbal ocasional d'intensitat lleu, no legitimada<br>Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Violència</b><br>Personatges discuteixen entre ells, aixecant el to, en algunes escenes.<br><br><b>Llenguatge groller</b><br>Un noi diu que 'això és la rehòstia'. Una noia diu que la seva vida se'n pot 'anar a la merda' pel que ha fet la seva amiga."
+  },
+  {
+    "titol": "Busca'm a París 1x26",
+    "codi": "6210976",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Por i angoixa</b><br>Hi ha persecucions i gent que està atrapada en llocs tancats, en escenes amb certa naturalesa còmica. Es crea un forat en el temps per la presència de dues màquines del temps juntes. Personatges ploren perquè han d'acomiadar-se.<br><br><b>Llenguatge groller</b><br>Es diu 'merda', 'cagar' i 'acollonida' un cop cadascun.<br><br>Un noi veu un el seu cap amb una noia qui no coneix i es creu que ell està lligant."
   },
   {
     "titol": "Buscant la màgica Doremi",
@@ -2280,7 +2357,8 @@
   {
     "titol": "Eufòria 2 gala 8 clip carla",
     "codi": "6218802",
-    "edat": "0"
+    "edat": "7",
+    "raons": "Contingut sexual ocasional d'explicitació baixa"
   },
   {
     "titol": "Eufòria 2 gala 8 clip sofia",
@@ -3940,6 +4018,12 @@
     "raons": "Por i angoixa reiterada d'afectació lleu"
   },
   {
+    "titol": "Hoodie 3x45",
+    "codi": "6217130",
+    "edat": "10",
+    "raons": "Por i angoixa reiterada d'afectació lleu<br>Conductes i valors incívics amb sanció neutra"
+  },
+  {
     "titol": "Ideafix",
     "codi": "ideafix-irreductibles",
     "edat": "0"
@@ -4249,6 +4333,13 @@
     "edat": "0",
     "raons": "Por i angoixa ocasional d'afectació lleu",
     "mesinfo": "<b>Por i angoixa</b><br>Hi ha algunes escenes de perill, com una dramatització en què un home perd el control d'una avioneta, que estan acompanyades de música de tensió, però presentades de tal manera que provoquen una angoixa mínima. Es comenta que un ximpanzé era maltractat i que està malalt."
+  },
+  {
+    "titol": "Lara i Kali 12",
+    "codi": "6218585",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu",
+    "mesinfo": "<b>Por i angoixa</b><br>La protagonista rellisca a la neu i cau rodolant. També té algunes dificultats baixant una muntanya fent ràpel, mentre sona música de tensió. Hi ha una al·lusió a la mort i a les conseqüències del canvi climàtic."
   },
   {
     "titol": "Lara què fem",
