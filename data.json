@@ -1220,6 +1220,11 @@
     "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
+    "titol": "Dracs: Els nou regnes",
+    "codi": "dracs-nou-regnes",
+    "edat": "7"
+  },
+  {
     "titol": "Dracs genets illa fred",
     "codi": "dracs-genets-illa-fred",
     "edat": "7"
@@ -4030,6 +4035,12 @@
     "raons": "Por i angoixa reiterada d'afectació lleu<br>Conductes i valors incívics amb sanció neutra"
   },
   {
+    "titol": "Hoodie 3x46",
+    "codi": "6217731",
+    "edat": "10",
+    "raons": "Conductes i valors incívics amb sanció neutra"
+  },
+  {
     "titol": "Ideafix",
     "codi": "ideafix-irreductibles",
     "edat": "0"
@@ -4211,6 +4222,11 @@
   {
     "titol": "Kung Fu Panda: llegendes increïbles",
     "codi": "kung-fu-panda-llegendes-increibles",
+    "edat": "7"
+  },
+  {
+    "titol": "La casa d'Anubis",
+    "codi": "casa-anubis",
     "edat": "7"
   },
   {
