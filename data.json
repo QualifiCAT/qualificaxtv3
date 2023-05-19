@@ -1231,6 +1231,41 @@
     "edat": "7"
   },
   {
+    "titol": "Dracs: Els nou regnes 1x01",
+    "codi": "6219199",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "<br>Por i angoixa</b><br>Hi ha un terratrèmol i una dona gairebé cau al buit, però és rescatada. Es fan al·lusions a la mort. Un noi rellisca quan baixava un esvoranc i gairebé cau a un riu de lava.<br><br><b>Conductes i valors incívics</b><br>Un noi desobeeix les normes i posa la gent en perill, i el renyen."
+  },
+  {
+    "titol": "Dracs: Els nou regnes 1x02",
+    "codi": "6219201",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu"
+    "mesinfo": "<b>Por i angoixa</b><br>En dues escenes, un noi rellisca i cau directe al fons d'una fissura, però és rescatat a temps per un drac. Es fan al·lusions a la mort."
+  },
+  {
+    "titol": "Dracs: Els nou regnes 1x03",
+    "codi": "6219197",
+    "edat": "7",
+    "raons": "Violència ocasional, irreal, explícita, d'intensitat molt lleu, legitimada<br>Por i angoixa freqüent d'afectació lleu",
+    "mesinfo": "<b>Violència</b><br>Uns dracs lluiten entre ells escopint foc per la boca.<br><br><b>Por i angoixa</b><br>Hi ha freqüents escenes en què els protagonistes són atemorits i perseguits per uns dracs que es troben en una cova, amb el perill afegit que el seu moviment provoca esfondraments. Hi ha al·lusions a la mort."
+  },
+  {
+    "titol": "Dracs: Els nou regnes 1x04",
+    "codi": "6219207",
+    "edat": "7",
+    "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, legitimada<br>Por i angoixa freqüent d'afectació lleu",
+    "mesinfo": "<b>Violència</b><br>Uns dracs peguen un drac més petit. Uns dracs lluiten entre ells o ataquen persones escopint-los bombes de foc, o fent-los xocar amb cristalls o llençant-los sobre seu.<br><br><b>Por i angoixa</b>Hi ha freqüents escenes de persecucions on els protagonistes són atemorits i perseguits per uns dracs d'una cova. Hi ha al·lusions a la mort."
+  },
+  {
+    "titol": "Dracs: Els nou regnes 1x05",
+    "codi": "6219394",
+    "edat": "7",
+    "raons": "Violència ocasional, irreal, explícita, d'intensitat molt lleu, legitimada<br>Por i angoixa freqüent d'afectació lleu",
+    "mesinfo": "<b>Violència</b><br>Per distreure uns guàrdies de seguretat, un drac llença un llamp que electrocuta una ovella, que corre directe cap a ells.<br><br><b>Por i angoixa</b><br>Hi ha freqüents escenes de tensió, encara que algunes tenen naturalesa còmica. Un drac invisible segueix una noia, entra a casa seva, li canvia els objectes de lloc i la persegueix. Uns nois intenten protegir els seus dracs amagant-los dels adults. Una noia parla de l'angoixa que sent quan surt de la seva zona de confort. Hi ha al·lusions a la mort."
+  },
+  {
     "titol": "Dracs genets illa fred",
     "codi": "dracs-genets-illa-fred",
     "edat": "7"
@@ -4335,6 +4370,104 @@
     "edat": "10"
   },
   {
+    "titol": "La casa d'Anubis 1x01",
+    "codi": "4840035",
+    "edat": "10",
+    "raons": "Por i angoixa reiterada d'afectació lleu<br>Conductes i valors incívics amb sanció neutra",
+    "mesinfo": "<b>Por i angoixa</b><br>Durant tot l'episodi es manté una sensació d'inquietud quan una noia entra en un misteriós internat. Se senten veus quan troba que la porta de la casa és mig oberta. Es fan al·lusions a la mort, a vegades emfatitzades amb efectes sonors.<br><br><b>Conductes i valors incívics</b><br>Un noi de l'institut paga a un altre noi perquè li faci els deures. Un noi falseja una hemorràgia amb la intenció d'escaquejar-se d'un examen; els professors se'l creuen, tot i que tots els alumnes sàpiguen que fa comèdia.<br><br>Es diu 'pringat' i una noia diu que un noi està 'bo'."
+  },
+  {
+    "titol": "La casa d'Anubis 1x01 VO",
+    "codi": "4840033",
+    "edat": "10",
+    "raons": "Repeated mild scary or distressing situations<br>Antisocial behaviour presented in a neutral light"
+  },
+  {
+    "titol": "La casa d'Anubis 1x02",
+    "codi": "4840034",
+    "edat": "10",
+    "raons": "Por i angoixa reiterada d'afectació lleu",
+    "mesinfo": "<b>Por i angoixa</b><br>Es manté una sensació d'inquietud quan se sospita que el director de l'escola pot tenir alguna cosa a veure amb la desaparició d'una noia; una noia en culpa la nouvinguda, que es posa a plorar. Una noia es troba un missatge al lavabo suposadament escrit per la noia desapareguda.<br><br>Hi ha freqüents situacions de conductes i valors incívics, presentades de manera negativa: els joves menteixen, són envejosos, arraconen i insulten a una noia, o juguen a llençar-se menjar entre ells mentre sopen. Hi ha llenguatge groller ocasional d'intensitat baixa ('no fotis')."
+  },
+  {
+    "titol": "La casa d'Anubis 1x02 VO",
+    "codi": "4840036",
+    "edat": "10",
+    "raons": "Repeated mild scary or distressing situations"
+  },
+  {
+    "titol": "La casa d'Anubis 1x03",
+    "codi": "4840671",
+    "edat": "10",
+    "raons": "Por i angoixa reiterada d'afectació lleu<br>Conductes i valors incívics amb sanció neutra",
+    "mesinfo": "<b>Por i angoixa</b><br>Es manté una sensació d'inquietud durant tot l'episodi, emfatitzada per efectes sonors. Una noia pregunta a un professor què se n'ha fet de la noia desapareguda. La protagonista es troba una dona gran, que sembla conèixer-la, que li diu que la casa està maleïda. Una noia té un malson mentre li plouen plomes d'ocell a la vida real. Es fa una broma en relació amb la mort d'un gos.<br><br><b>Conductes i valors incívics</b><br>Un noi s'ho passa bé mentint a una noia.<br><br>Una noia pega un noi amb un coixí."
+  },
+  {
+    "titol": "La casa d'Anubis 1x03 VO",
+    "codi": "4840672",
+    "edat": "10",
+    "raons": "Repeated mild scary or distressing situations"
+  },
+  {
+    "titol": "La casa d'Anubis 1x04",
+    "codi": "4840674",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "<b>Por i angoixa</b><br>Hi ha situacions de tensió. Es repeteix l'escena del malson de l'episodi anterior. Es fan comentaris insensibles en relació amb la mort d'una noia i de la seva relació amb la seva àvia.<br><br><b>Llenguatge groller</b><br>Es fan servir insults com 'inútil' o 'mala pècora'.<br><br><b>Conductes i valors incívics</b><br>Una noia és gelosa perquè vol el seu xicot només per ella. Uns nois s'enriuen de la protagonista i la involucren en una cerimònia inventada per tal d'integrar-la al grup, que involucra el robatori de les claus al director. En aquest episodi, aquestes actituds són sancionades negativament."
+  },
+  {
+    "titol": "La casa d'Anubis 1x04 VO",
+    "codi": "4840673",
+    "edat": "7",
+    "raons": "Frequent mild scary or distressing situations<br>Occasional mild coarse language<br>Antisocial behaviour presented in a negative light"
+  },
+  {
+    "titol": "La casa d'Anubis 1x05",
+    "codi": "4841591",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "<b>Por i angoixa</b><br>Hi ha situacions de tensió, com quan una noia és atrapada a les golfes i hi sent veus.<br><br><b>Conductes i valors incívics</b><br>Una noia que vol el seu xicot només per ella fa un petó per sorpresa a un altre noi davant d'ell per posar-lo gelós. Una noia fa robar a la protagonista unes claus per entrar en unes golfes on tenen prohibit entrar-hi i així passar una suposada cerimònia d'iniciació; un cop ella hi entra, la tanca allà dins, pel disgust de tots els companys. El director se n'adona del xivarri i els obliga a tornar a les habitacions, però la noia tancada no hi és."
+  },
+  {
+    "titol": "La casa d'Anubis 1x05 VO",
+    "codi": "4841593",
+    "edat": "7",
+    "raons": "Frequent mild scary or distressing situations<br>Antisocial behaviour presented in a negative light"
+  },
+  {
+    "titol": "La casa d'Anubis 1x06",
+    "codi": "4841592",
+    "edat": "10",
+    "raons": "Por i angoixa reiterada d'afectació lleu<br>Conductes i valors incívics amb sanció neutra",
+    "mesinfo": "<b>Por i angoixa</b><br>Una noia està emocionalment afectada per la desaparició de la seva amiga. Una noia queda atrapada en unes golfes terrorífiques; tot i que n'acaba sortint, diu que vol tornar-hi per tal de trobar-hi pistes sobre la desaparició.<br><br><b>Conductes i valors incívics</b><br>Una noia té un forat en una paret que li serveix per espiar els professors. Una noia obre una guixeta amb un regle tot i la desaprovació dels professors i de la seva amiga. Una noia actua amb gelosia perquè vol el seu xicot només per ella.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa ('què fotem')."
+  },
+  {
+    "titol": "La casa d'Anubis 1x06 VO",
+    "codi": "4841594",
+    "edat": "10",
+    "raons": "Repeated mild scary or distressing situations<br>Antisocial behaviour presented in a neutral light"
+  },
+  {
+    "titol": "La casa d'Anubis 1x07",
+    "codi": "4846851",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "<b>Por i angoixa</b><br>Hi ha situacions de tensió, com quan uns nois s'infiltren a unes golfes i s'espanten.<br><br><b>Llenguatge groller</b><br>Es diu 'burro'.<br><br><b>Conductes i valors incívics</b><br>Una noia distreu un professor perquè la seva amiga pugui infiltrar-se en el seu despatx i robar-li un expedient, però eventualment se n'adonen."
+  },
+  {
+    "titol": "La casa d'Anubis 1x07 VO",
+    "codi": "4846852",
+    "edat": "7",
+    "raons": "Frequent mild scary or distressing situations<br>Occasional mild coarse language<br>Antisocial behaviour presented in a negative light"
+  },
+  {
+    "titol": "La casa d'Anubis 1x08",
+    "codi": "4858891",
+    "edat": "10",
+    "raons": "Por i angoixa reiterada d'afectació lleu",
+    "mesinfo": "<b>Por i angoixa</b><br>Hi ha situacions de tensió durant tot l'episodi, al voltant de la desaparició d'una noia. A les golfes, se sent de sobte una gravació d'un nen parlant d'animals dissecats i sobre la mort dels seus pares.<br><br>Un noi aconsella a un amic seu sobre lligar i li diu coses com que les dones 'volen que se'ls tirin als peus' o que han d'estar en perill perquè un home faci d'heroi. Per fer-ho, posen una bomba de fum, cosa que obliga a evacuar l'edifici. Totes aquestes conductes tenen sanció negativa. Hi ha llenguatge groller ocasional d'intensitat baixa ('idiota')."
+  },
+  {
     "titol": "La colla de la selva al rescat!",
     "codi": "colla-selva-rescat",
     "edat": "7"
@@ -6158,8 +6291,13 @@
     "edat": "7"
   },
   {
-    "titol": "Sakura la caçadora de cartes",
+    "titol": "Sakura, la caçadora de cartes",
     "codi": "sakura-cacadora-cartes",
+    "edat": "7"
+  },
+  {
+    "titol": "Sakura, la caçadora de cartes: Les cartes transparents",
+    "codi": "sakura-cacadora-cartes-transparents",
     "edat": "7"
   },
   {
@@ -6430,6 +6568,11 @@
     "codi": "6195793",
     "edat": "10",
     "raons": "Por i angoixa freqüent d'afectació mitjana"
+  },
+  {
+    "titol": "STEM a Mart: Missió Hypatia",
+    "codi": "stem-a-mart",
+    "edat": "0"
   },
   {
     "titol": "Spirit Nadal",
@@ -6706,9 +6849,14 @@
     "raons": "Por i angoixa ocasional d'afectació lleu"
   },
   {
-    "titol": "X3 Games titol temp",
+    "titol": "Kóreo",
     "codi": "koreo",
-    "edat": "7"
+    "edat": "0"
+  },
+  {
+    "titol": "Kóreo gala 1",
+    "codi": "6220740",
+    "edat": "0"
   },
   {
     "titol": "X3 Games",
