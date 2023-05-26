@@ -4523,10 +4523,42 @@
   },
   {
     "titol": "La casa d'Anubis 1x08",
+    "codi": "4846932",
+    "edat": "7",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa freqüent d'afectació lleu<br>Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "<b>Violència</b><br>Un noi empeny deliberadament un altre noi per venjança, i diu que li ha trencat el turmell.<br><br><b>Por i angoixa</b>Alguns personatges es mostren emocionalment afectats per la desaparició d'una noia, i hi ha freqüent música i sensació de tensió quan es parla d'una maledicció.<br><br><b>Conductes i valors incívics</b><br>Dos joves parlen de faltar a classe i de no fer els deures. Un noi manipula a un altre perquè no parli més amb la seva ex, i entre ells es parlen i es tracten amb despreci; els renyen, i les noies diuen que els nois no tenen res al cap. Hi ha corrupció institucional quan un policia conspira amb el malvat director de la casa."
+  },
+  {
+    "titol": "La casa d'Anubis 1x08 VO",
+    "codi": "4846931",
+    "edat": "7",
+    "raons": "Occasional, realistic, explicit, very mild, and not legitimized, violence<br>Frequent mild scary or distressing situations<br>Antisocial behaviour presented in a negative light"
+  },
+  {
+    "titol": "La casa d'Anubis 1x09",
+    "codi": "4849092",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "<b>Por i angoixa</b><br>Hi ha una escena prolongada en què uns nois baixen d'amagat unes escales intentant que el director no els vegi, però fan soroll sense voler i s'han d'amagar d'ell. Ell rellisca amb un graó de l'escala i diu que se l'ha d'embenar.<br><br><b>Llenguatge groller</b><br>Es diu 'idiota' i 'imbècil'. El director anomena els nois 'llimacs'.<br><br><b>Conductes i valors incívics</b><br>Un dels nois amenaça a un altre de revelar als professors que guanya diners venent els seus deures a altres alumnes si no fa les paus amb un noi a qui ha mentit. Una noia es disculpa amb la resta de nois per haver-los tractat malament i sospitar d'ells. Un noi fa veure que està malalt per no haver de fer res."
+  },
+  {
+    "titol": "La casa d'Anubis 1x09 VO",
+    "codi": "4849072",
+    "edat": "7",
+    "raons": "Frequent mild scary or distressing situations<br>Occasional mild coarse language<br>Antisocial behaviour presented in a negative light"
+  },
+  {
+    "titol": "La casa d'Anubis 1x17",
     "codi": "4858891",
     "edat": "10",
     "raons": "Por i angoixa reiterada d'afectació lleu",
     "mesinfo": "<b>Por i angoixa</b><br>Hi ha situacions de tensió durant tot l'episodi, al voltant de la desaparició d'una noia. A les golfes, se sent de sobte una gravació d'un nen parlant d'animals dissecats i sobre la mort dels seus pares.<br><br>Un noi aconsella a un amic seu sobre lligar i li diu coses com que les dones 'volen que se'ls tirin als peus' o que han d'estar en perill perquè un home faci d'heroi. Per fer-ho, posen una bomba de fum, cosa que obliga a evacuar l'edifici. Totes aquestes conductes tenen sanció negativa. Hi ha llenguatge groller ocasional d'intensitat baixa ('idiota')."
+  },
+  {
+    "titol": "La casa d'Anubis 1x17 VO",
+    "codi": "4858911",
+    "edat": "10",
+    "raons": "Repeated mild scary or distressing situations"
   },
   {
     "titol": "La colla de la selva al rescat!",
@@ -6925,6 +6957,12 @@
     "titol": "Kóreo gala 1",
     "codi": "6220740",
     "edat": "0"
+  },
+  {
+    "titol": "Kóreo gala 2",
+    "codi": "6222124",
+    "edat": "0",
+    "mesinfo": "Es mencionen fugaçment el bullying i es parla de la guerra de Corea sense donar detalls. La presentadora diu 'em moro de ganes'. Algunes coreografies presenten una sexualització molt lleu. Més enllà d'aquestes minúcies, el programa és 'per a tothom' i està net de cap a peus."
   },
   {
     "titol": "X3 Games",
