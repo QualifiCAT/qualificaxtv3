@@ -252,6 +252,17 @@
     "raons": "Llenguatge groller ocasional d'intensitat baixa"
   },
   {
+    "titol": "Al mar!",
+    "codi": "vela-rs-a-blanes",
+    "edat": "0"
+  },
+  {
+    "titol": "Al mar! Vela RS a Blanes",
+    "codi": "6223713",
+    "edat": "0",
+    "mesinfo": "Se sent música de tensió quan s'ensenyen imatges de taurons o comença a ploure."
+  },
+  {
     "titol": "Animals united",
     "codi": "6087135",
     "edat": "7",
@@ -1318,6 +1329,27 @@
     "edat": "7",
     "raons": "Por i angoixa freqüent d'afectació lleu<br>Conductes i valors incívics amb sanció negativa",
     "mesinfo": "<b>Por i angoixa</b><br>Un noi gairebé cau en enfilar-se a un aerogenerador. Una noia té por d'un drac aranya, que se li enganxa al cap. Els protagonistes són atemorits i atacats per dracs aranya; dues noies queden atrapades en una teranyina, i molts dracs aranya s'apropen a elles. Es fan al·lusions a la mort.<br><br><b>Conductes i valors incíviques</b><br>Arran d'una discussió que té amb el seu pare, un noi es baralla amb el seu amic, i no paren de discutir per tot, però eventualment fan les paus. El noi reconeix que vol ser lleiai i protegir als seus amics dracs alhora, encara que això últim signifiqui desobeir les normes. També fa les paus amb el seu pare."
+  },
+  {
+    "titol": "Dracs: Els nou regnes 2x06",
+    "codi": "6222354",
+    "edat": "7",
+    "raons": "Violència ocasional, irreal, explícita, d'intensitat molt lleu, legitimada<br>Por i angoixa freqüent d'afectació lleu",
+    "mesinfo": "<b>Violència</b><br>Hi ha baralles entre dracs, normalment disparant-se atacs amb la boca. Un noi s'enganxa els dits en trampes per a ratolins en una escena còmica.<br><br><b>Por i angoixa</b><br>Hi ha múltiples escenes en què els protagonistes són amenaçats i atacats per uns dracs. En una escena, queden acorralats per una anella de foc i un d'ells farà un sobreesforç per poder-los salvar."
+  },
+  {
+    "titol": "Dracs: Els nou regnes 2x07",
+    "codi": "6222619",
+    "edat": "",
+    "raons": "",
+    "mesinfo": ""
+  },
+  {
+    "titol": "Dracs: Els nou regnes 3x01",
+    "codi": "",
+    "edat": "",
+    "raons": "",
+    "mesinfo": ""
   },
   {
     "titol": "Dracs genets illa fred",
@@ -4766,6 +4798,58 @@
     "raons": "Repeated mild scary or distressing situations"
   },
   {
+    "titol": "La casa d'Anubis 1x18",
+    "codi": "4858874",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "<b>Por i angoixa</b><br>Se sent sovint música de suspens. Hi ha una escena en què els professors i el director de la casa participen en un ritual.<br><br><b>Llenguatge groller</b><br>Es diu 'merda'.<br><br><b>Conductes i valors incívics</b><br>Una noia entra a una habitació aliena per robar un penjoll que no li pertany, cosa que és sancionada, encara que ho fa perquè vol saber més sobre la desaparició de la seva amiga. Un noi fa servir un MP3 a classe i la professora ho considera de mala educació. Un noi intenta lligar amb una noia fent-li comentaris ridículs i desfasats. Els personatges menteixen entre ells per protegir els seus interessos."
+  },
+  {
+    "titol": "La casa d'Anubis 1x18 VO",
+    "codi": "4858875",
+    "edat": "7",
+    "raons": "Frequent mild scary or distressing situations<br>Occasional mild coarse language<br>Antisocial behaviour presented in a negative light"
+  },
+  {
+    "titol": "La casa d'Anubis 1x19",
+    "codi": "4860772",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'imbècil' i 'boja' amb intencionalitat ofensiva.<br><br><b>Conductes i valors incívics</b><br>Una noia deixa anar una gerra plena d'aigua sobre el cap d'una noia perquè, segons ella, l'ha traït revelant un secret. Ho fa a taula i tothom li ho recrimina. A una noia li sona el telèfon a classe i la professora se li confisca, encara que és malvada i li espia els missatges.<br><br>Hi ha situacions de por i angoixa ocasionals d'afectació lleu."
+  },
+  {
+    "titol": "La casa d'Anubis 1x19 VO",
+    "codi": "4860791",
+    "edat": "7",
+    "raons": "Occasional mild coarse language<br>Antisocial behaviour presented in a negative light"
+  },
+  {
+    "titol": "La casa d'Anubis 1x20",
+    "codi": "4860773",
+    "edat": "7",
+    "raons": "Por i angoixa ocasional d'afectació mitjana<br>Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "<b>Por i angoixa</b><br>Dues noies presencien com un home s'endú un altre, aparentment inconscient, segrestat en un vehicle. Es veu sang en la mà d'un home. Es fa servir música de tensió per intensificar les situacions de tensió.<br><br><b>Conductes i valors incívics</b><br>Els personatges menteixen entre ells per protegir els seus interessos. Per exemple, una noia fa veure que té febre per poder cuidar un gat d'amagat, però això li du conseqüències negatives. Un noi estripa una postal que ha escrit un altre noi per a regalar-li a una amiga, amb l'excusa que era horrible."
+  },
+  {
+    "titol": "La casa d'Anubis 1x20 VO",
+    "codi": "4860774",
+    "edat": "7",
+    "raons": "Occasional moderate scary or distressing situations<br>Antisocial behaviour presented in a negative light"
+  },
+  {
+    "titol": "La casa d'Anubis 1x21",
+    "codi": "4862653",
+    "edat": "10",
+    "raons": "Por i angoixa freqüent d'afectació mitjana",
+    "mesinfo": "<b>Por i angoixa</b><br>Una noia s'espanta molt en veure un gat dissecat en un soterrani, que sospita que és el gat que cuidava. Hi ha una escena tensa en què incriminen el director en la mort del gat."
+  },
+  {
+    "titol": "La casa d'Anubis 1x21 VO",
+    "codi": "4862691",
+    "edat": "10",
+    "raons": "Frequent moderate scary or distressing situations"
+  },
+  {
     "titol": "La colla de la selva al rescat!",
     "codi": "colla-selva-rescat",
     "edat": "7"
@@ -6290,6 +6374,39 @@
     "codi": "5817536",
     "edat": "7",
     "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada<br>Por i angoixa freqüent d'afectació lleu<br>Conductes i valors incívics amb sanció negativa"
+  },
+  {
+    "titol": "Polinòpolis",
+    "codi": "polinopolis",
+    "edat": "7"
+  },
+  {
+    "titol": "Polinòpolis 1x01",
+    "codi": "6221850",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Un noi parla de 'merda d'amor romàntic'. Un noi es mira al mirall i es diu a si mateix 'sexi'.<br><br>Hi ha escenes còmiques en les quals a una mòmia li salten els ulls de les conques, de manera no realista."
+  },
+  {
+    "titol": "Polinòpolis 1x02",
+    "codi": "6221851",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu",
+    "mesinfo": "<b>Por i angoixa</b><br>La protagonista de l'episodi, en conèixer la nota d'un examen, es torna inestable mentalment, plora, treu guspires del cos i escridassa els seus amics, cada cop més intensament durant el transcurs de l'episodi. A més, es passa tanta estona estudiant sense descansar que li rebenten els ulls (de manera no realista) i al·lucina.<br><br>Un noi intenta copiar en un examen. Uns nois acompanyen una noia que acaba de suspendre un examen dient-li 'benvinguda al fang de la mediocritat'; l'episodi dona el missatge que també es pot ser el millor 'encara que treguis un 1 de tant en tant'. Un fantasma té enganxada al cap una destral, de manera no realista."
+  },
+  {
+    "titol": "Polinòpolis 1x03",
+    "codi": "6221848",
+    "edat": "7",
+    "raons": "Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "<b>Conductes i valors incívics</b><br>La protagonista es queda un fermall que ha trobat pel carrer perquè li sembla molt maco, però més endavant es creurà que és una delinqüent i acabarà disculpant-se. Alguns amics dubten de l'estat mental de la protagonista, i s'utilitzen expressions com 'sonat' o 'tòtila'.<br><br>Hi ha situacions de tensió d'afectació lleu i violència irreal molt lleu quan un dimoni pega un àngel amb un matamosques."
+  },
+  {
+    "titol": "Polinòpolis 1x04",
+    "codi": "6221849",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Por i angoixa</b><br>Un noi cau en un forat enmig del bosc, on no té cobertura, està tot fosc i sembla que hi ha algú, però no és capaç de veure'l. Es grava a si mateix, plorant i amb el nas ple de mocs, pensant-se que morirà. Quan encenen el llum, un talp li diu que no podrà sortir d'allà, però no li fa massa cas. S'espanta quan veu ossos i esquelets d'altres espècies que també hi han caigut i que se suposa que ha devorat el talp. El noi s'amaga en una muntanya d'ossos mentre el talp el busca, però el final és positiu.<br><br><b>Llenguatge groller</b><br>Un noi eructa sorollosament després de menjar bolets podrits. Més tard, té molts gasos.<br><br>Un noi és egocèntric, no fa cas dels seus amics i està obsessionat amb el seu telèfon, tot i que eventualment aprèn la lliçó. Hi ha violència irreal molt lleu."
   },
   {
     "titol": "Presto",
