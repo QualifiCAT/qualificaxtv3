@@ -253,7 +253,7 @@
   },
   {
     "titol": "Al mar!",
-    "codi": "vela-rs-a-blanes",
+    "codi": "al-mar",
     "edat": "0"
   },
   {
@@ -1340,16 +1340,23 @@
   {
     "titol": "Dracs: Els nou regnes 2x07",
     "codi": "6222619",
-    "edat": "",
-    "raons": "",
-    "mesinfo": ""
+    "edat": "7",
+    "raons": "Violència, freqüent, irreal, explícita, d'intensitat molt lleu, legitimada<br>Por i angoixa freqüent d'afectació lleu",
+    "mesinfo": "<b>Violència</b><br>Hi ha batalles entre dracs, fent servir atacs elèctrics. A vegades, els nois que ensinistren els dracs s'enrampen o surten disparats, però sense ferides, tret d'una ocasió en què el protagonista acaba amb la mà vermella, que es cura sola. La violència es presenta en positiu, ja que es diu que el drac del protagonista ha de venjar-se del que li ha fet el drac dolent.<br><br><b>Por i angoixa</b><br>A part de la intensitat derivada de les escenes de violència, els protagonistes es troben en un laberint de gel que col·lapsa progressivament amb ells a dins.<br><br>Un noi li pregunta a un altre si està 'boig'. En unes escenes còmiques, un noi intenta esbrinar la contrasenya del portàtil de la seva germana i li regira un quadern que té."
   },
   {
     "titol": "Dracs: Els nou regnes 3x01",
     "codi": "6222885",
-    "edat": "",
-    "raons": "",
-    "mesinfo": ""
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu",
+    "mesinfo": "<b>Por i angoixa</b><br>Hi ha freqüents situacions en les quals s'intenta ensinistrar un drac, però aquest es torna violent o incontrolable. En una escena, el protagonista xoca contra una paret i queda sord, i li diuen que té sort d'estar viu. Un noi es presenta davant d'un altre noi al bosc, afilant una destral, amb actitud lleugerament amenaçadora.<br><br>Es fa servir sovint la paraula 'boig' o similars."
+  },
+  {
+    "titol": "Dracs: Els nou regnes 3x02",
+    "codi": "6222981",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu",
+    "mesinfo": "<b>Por i angoixa</b><br>Uns dracs assetgen un drac més petit i els herois intenten salvar-lo. Hi ha dues escenes de persecucions en les que els dracs dolents persegueixen els herois, i ocasionalment s'hi enfronten, tot i que la violència és mínima. Es fan al·lusions a la mort.<br><br>Es fa servir la paraula 'boig'."
   },
   {
     "titol": "Dracs genets illa fred",
@@ -4848,6 +4855,19 @@
     "codi": "4862691",
     "edat": "10",
     "raons": "Frequent moderate scary or distressing situations"
+  },
+  {
+    "titol": "La casa d'Anubis 1x22",
+    "codi": "4862732",
+    "edat": "7",
+    "raons": "Comportaments discriminatoris amb sanció negativa<br>Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "<b>Discriminació, racisme i xenofòbia</b><br>Uns nois dubten que una noia sàpiga més d'esports que ells perquè 'és una noia', i ella els demostra que sí que en sap.<br><br><b>Conductes i valors incívics</b><br>Un noi acusa una noia de tramposa perquè encertava totes les respostes d'un concurs i ell, no. Li diuen que s'ha comportat malament i s'acaba disculpant. Hi ha un personatge que fa un comentari de culte al cos ('les càmeres engreixen molt'), que un protagonista desaprova.<br><br>Hi ha situacions ocasionals de por o angoixa amb afectació lleu. Els joves protesten per les decisions del director no menjant el que els posa a taula o fent-los bromes davant les càmeres de seguretat que ha instal·lat. Es diu 'estúpid'."
+  },
+  {
+    "titol": "La casa d'Anubis 1x22 VO",
+    "codi": "4862733",
+    "edat": "7",
+    "raons": "Discriminatory attitudes presented in a negative light<br>Antisocial behaviour in a negative light"
   },
   {
     "titol": "La colla de la selva al rescat!",
