@@ -5017,6 +5017,13 @@
     "mesinfo": "<b>Por i angoixa</b><br>Es fa servir música de suspens a l'inici de l'episodi. Es mostren breument unes pintures que il·lustren una guerra."
   },
   {
+    "titol": "Lara i Kali 14",
+    "codi": "6223702",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu",
+    "mesinfo": "<b>Por i angoixa</b><br>Es fa servir música de suspens en moments com quan una esllavissada obstaculitza el pas d'una carretera o quan la protagonista camina per llocs perillosos, però sense perdre el control i resolent positivament i ràpidament la tensió."
+  },
+  {
     "titol": "Lara què fem",
     "codi": "lara-que-fem",
     "edat": "10"
