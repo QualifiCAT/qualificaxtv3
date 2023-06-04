@@ -10,11 +10,6 @@
     "edat": "0"
   },
   {
-    "titol": "Videoclip: Beta Nadal",
-    "codi": "6191710",
-    "edat": "0"
-  },
-  {
     "titol": "Videoclip: Beta Full Festa",
     "codi": "6218209",
     "edat": "0"
@@ -513,6 +508,12 @@
     "codi": "6222605",
     "edat": "7",
     "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "Beta 3x08",
+    "codi": "6191710",
+    "edat": "7",
+    "raons": "Por i angoixa freq
   },
   {
     "titol": "Black Clover",
