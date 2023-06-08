@@ -258,6 +258,12 @@
     "mesinfo": "Se sent música de tensió quan s'ensenyen imatges de taurons o comença a ploure."
   },
   {
+    "titol": "Al mar! Surf a la Pineda, Vila-seca",
+    "codi": "6223972",
+    "edat": "0",
+    "mesinfo": "Un home diu que dedica les seves acrobàcies a una persona que és 'al cel'."
+  },
+  {
     "titol": "Animals united",
     "codi": "6087135",
     "edat": "7",
@@ -4674,7 +4680,7 @@
     "titol": "La casa d'Anubis 1x01 VO",
     "codi": "4840033",
     "edat": "10",
-    "raons": "Repeated mild scary or distressing situations<br>Antisocial behaviour presented in a neutral light"
+    "raons": "Pervasive mild scary or distressing situations<br>Antisocial behaviour presented in a neutral light"
   },
   {
     "titol": "La casa d'Anubis 1x02",
@@ -4687,7 +4693,7 @@
     "titol": "La casa d'Anubis 1x02 VO",
     "codi": "4840036",
     "edat": "10",
-    "raons": "Repeated mild scary or distressing situations"
+    "raons": "Pervasive mild scary or distressing situations"
   },
   {
     "titol": "La casa d'Anubis 1x03",
@@ -4700,7 +4706,7 @@
     "titol": "La casa d'Anubis 1x03 VO",
     "codi": "4840672",
     "edat": "10",
-    "raons": "Repeated mild scary or distressing situations"
+    "raons": "Pervasive mild scary or distressing situations"
   },
   {
     "titol": "La casa d'Anubis 1x04",
@@ -4739,7 +4745,7 @@
     "titol": "La casa d'Anubis 1x06 VO",
     "codi": "4841594",
     "edat": "10",
-    "raons": "Repeated mild scary or distressing situations<br>Antisocial behaviour presented in a neutral light"
+    "raons": "Pervasive mild scary or distressing situations<br>Antisocial behaviour presented in a neutral light"
   },
   {
     "titol": "La casa d'Anubis 1x07",
@@ -4817,7 +4823,7 @@
     "titol": "La casa d'Anubis 1x12 VO",
     "codi": "4851474",
     "edat": "10",
-    "raons": "Repeated mild scary or distressing situations"
+    "raons": "Pervasive mild scary or distressing situations"
   },
   {
     "titol": "La casa d'Anubis 1x13",
@@ -4830,7 +4836,7 @@
     "titol": "La casa d'Anubis 1x13 VO",
     "codi": "4852593",
     "edat": "10",
-    "raons": "Repeated mild scary or distressing situations<br>Antisocial behaviour presented in a neutral light"
+    "raons": "Pervasive mild scary or distressing situations<br>Antisocial behaviour presented in a neutral light"
   },
   {
     "titol": "La casa d'Anubis 1x14",
@@ -4843,7 +4849,7 @@
     "titol": "La casa d'Anubis 1x14 VO",
     "codi": "4852611",
     "edat": "10",
-    "raons": "Repeated mild scary or distressing situations"
+    "raons": "Pervasive mild scary or distressing situations"
   },
   {
     "titol": "La casa d'Anubis 1x15",
@@ -4882,7 +4888,7 @@
     "titol": "La casa d'Anubis 1x17 VO",
     "codi": "4858911",
     "edat": "10",
-    "raons": "Repeated mild scary or distressing situations"
+    "raons": "Pervasive mild scary or distressing situations"
   },
   {
     "titol": "La casa d'Anubis 1x18",
@@ -4948,6 +4954,71 @@
     "codi": "4862733",
     "edat": "7",
     "raons": "Discriminatory attitudes presented in a negative light<br>Antisocial behaviour in a negative light"
+  },
+  {
+    "titol": "La casa d'Anubis 1x23",
+    "codi": "4863634",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu",
+    "mesinfo": "<b>Por i angoixa</b><br>Es fa servir música de tensió en una escena prolongada en què el director s'encara i amenaça verbalment un grup d'alumnes, quan una noia té vint segons per trobar un secret abans no l'enxampin, i quan els alumnes fan un descobriment."
+  },
+  {
+    "titol": "La casa d'Anubis 1x23 VO",
+    "codi": "4863671",
+    "edat": "7",
+    "raons": "Frequent mild scary or distressing situations"
+  },
+  {
+    "titol": "La casa d'Anubis 1x24",
+    "codi": "4863651",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "<b>Por i angoixa</b><br>Uns nois baixen a un soterrani, a les fosques, on senten sorolls estranys, veuen animals dissecats i s'espanten quan, davant seu, s'obre un armari on hi ha dos monstres. Hi ha música de tensió en escenes que involucren el director de la casa.<br><br><b>Llenguatge groller</b><br>Es diu 'cagada'.<br><br><b>Conductes i valors incívics</b><br>Una noia explica a una altra que s'ha fet un petó amb un noi. Ella intenta manipular-la dient-li que no és el seu tipus i que patirà si segueix amb ell. Li respon que només està gelosa."
+  },
+  {
+    "titol": "La casa d'Anubis 1x24 VO",
+    "codi": "4863691",
+    "edat": "7",
+    "raons": "Frequent mild scary or distressing situations<br>Occasional mild coarse language<br>Antisocial behaviour presented in a negative light"
+  },
+  {
+    "titol": "La casa d'Anubis 1x25",
+    "codi": "4866291",
+    "edat": "7",
+    "raons": "Por i angoixa ocasional d'afectació mitjana<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "<b>Por i angoixa</b><br>Una noia mostra una fotografia a una dona, que l'horroritza: acusa l'home de la foto d'assassinar els seus pares i canta una cançó de bressol per calmar-se.<br><br><b>Llenguatge groller</b><br>Es diu 'imbècils' i 'tontos'.<br><br><b>Conductes i valors incívics</b><br>Dos nois fan bromes pesades a altra gent: espanten uns nois que investigaven un soterrani, i organitzen un càsting on insulten els candidats i els rebutgen d'entrada tot i cobrar-los l'entrada. Un professor se n'adona, i decideix castigar-los i posar-los en ridícul davant de tothom."
+  },
+  {
+    "titol": "La casa d'Anubis 1x25 VO",
+    "codi": "4866311",
+    "edat": "7",
+    "raons": "Occasional moderate scary or distressing situations<br>Occasional mild coarse language<br>Antisocial behaviour presented in a negative light"
+  },
+  {
+    "titol": "La casa d'Anubis 1x26",
+    "codi": "4866333",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "<b>Por i angoixa</b><br>Es fan mencions d'un assassinat. Uns nois porten disfresses de zombi que simulen que tenen carn i ossos al descobert. Un noi queda atrapat en un soterrani i es tanca en un armari quan sent entrar algú; un cop dins, sent unes veus com si es tractés d'un ritual i entreobre la porta per veure-ho, i queda aterrit.<br><br><b>Conductes i valors incívics</b><b>Dos nois volen fer més bromes pesades per venjar-se del càstig que els ha caigut, però la jugada no els surt bé. Una noia fa veure que és una persona diferent i simula rebel·lia: mastega xiclet a classe i no fa els deures. Tothom desaprova aquests comportaments. Un noi diu que, per fer més atractiva una obra, hi hauria d'haver 'noies en bikini'. Uns nois menteixen a un professor per protegir una persona."
+  },
+  {
+    "titol": "La casa d'Anubis 1x26 VO",
+    "codi": "4866332",
+    "edat": "7",
+    "raons": "Frequent mild scary or distressing situations<br>Antisocial behaviour presented in a negative light"
+  },
+  {
+    "titol": "La casa d'Anubis 1x27",
+    "codi": "4870212",
+    "edat": "10",
+    "raons": "Por i angoixa reiterada d'afectació lleu",
+    "mesinfo": "<b>Por i angoixa</b><br>Uns nois baixen al soterrani a recuperar un noi que s'hi ha quedat atrapat; el troben dins un armari, molt afectat pel que ha pogut veure. El deixen al llit i és incapaç de dormir, té malsons, sua molt i està molt nerviós. Els nois no són capaços de controlar-lo i l'han de dur a l'hospital. Es fan al·lusions a la mort i a aquests fets durant tot l'episodi, ja que tots els protagonistes acaben també afectats, i es fa servir contínuament música de tensió.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa ('emmerdat') i conductes incíviques presentades negativament (una noia deliberadament arruïna la roba d'un noi que era amic seu encongint-la a la rentadora)."
+  },
+  {
+    "titol": "La casa d'Anubis 1x27 VO",
+    "codi": "4870211",
+    "edat": "10",
+    "raons": "Pervasive mild scary or distressing situations"
   },
   {
     "titol": "La colla de la selva al rescat!",
