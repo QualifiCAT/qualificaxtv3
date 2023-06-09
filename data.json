@@ -7470,10 +7470,17 @@
     "edat": "0"
   },
   {
+    "titol": "Kóreo gala 4",
+    "codi": "6225256",
+    "edat": "0",
+    "mesinfo": "Algunes coreografies presenten una sexualització molt lleu, diluïda enmig de l'actuació i atenuada per canvis de càmera molt fugaços. (S'inclouen imatges intermitents que poden afectar a espectadors susceptibles a l'epilèpsia fotosensible.)"
+  },
+  {
     "titol": "X3 Games",
     "codi": "6195069",
     "edat": "7",
-    "raons": "Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>En una ocasió, se senten cançons que utilitzen expressions com 'prendre pel sac' o 'merda'."
   },
   {
     "titol": "Vicky viking",
