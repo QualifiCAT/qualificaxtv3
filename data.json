@@ -264,6 +264,12 @@
     "mesinfo": "Un home diu que dedica les seves acrobàcies a una persona que és 'al cel'."
   },
   {
+    "titol": "Al mar! Windsurf IQFoil a Salou",
+    "codi": "6226323",
+    "edat": "0",
+    "mesinfo": "Hi ha una escena en què una noia cau d'una planxa i sembla que cridi 'hòstia', però el crit és ocultat pel fet d'estar gravant des de l'aigua."
+  },
+  {
     "titol": "Animals united",
     "codi": "6087135",
     "edat": "7",
@@ -335,7 +341,7 @@
   {
     "titol": "Beta",
     "codi": "beta",
-    "edat": "7"
+    "edat": "10"
   },
   {
     "titol": "Betapodcast 11",
@@ -526,6 +532,13 @@
     "codi": "6224981",
     "edat": "7",
     "raons": "Por i angoixa freqüent d'afectació lleu"
+  },
+  {
+    "titol": "Beta 3x10",
+    "codi": "6226312",
+    "edat": "10",
+    "raons": "Por i angoixa reiterada d'afectació lleu",
+    "mesinfo": "<b>Por i angoixa</b><br>Hi ha una escena prolongada, situada a les fosques i amb música de tensió constant, en què un ordinador malvat es presenta i s'encara als protagonistes, revelant-los el seu pla per dominar el món i que els ha estat enganyant fins ara. De manera aparent, electrocuta a un d'ells i posseeix a certes persones fent que els seus iris es tornin liles, inclòs un famós presentador de televisió, qui riu malèvolament mentre l'emissió 's'espatlla'. També hi ha escenes de malsons amb crits i moviments borrosos i inestables de la càmera. Tots els intents d'aturar-la són frustrats i la resolució del capítol no és positiva.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa ('merda')."
   },
   {
     "titol": "Black Clover",
