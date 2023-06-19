@@ -4599,7 +4599,7 @@
   {
     "titol": "Ideafix",
     "codi": "ideafix-irreductibles",
-    "edat": "0"
+    "edat": "7"
   },
   {
     "titol": "Inazuma Eleven",
@@ -5302,6 +5302,13 @@
     "edat": "0",
     "raons": "Por i angoixa ocasional d'afectació lleu",
     "mesinfo": "<b>Por i angoixa</b><br>Es fa servir música de suspens en moments com quan una esllavissada obstaculitza el pas d'una carretera o quan la protagonista camina per llocs perillosos, però sense perdre el control i resolent positivament i ràpidament la tensió."
+  },
+  {
+    "titol": "Lara i Kali 15",
+    "codi": "6225699",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'merda' en una ocasió.<br><br>Hi ha situacions ocasionals de por i angoixa d'afectació lleu; s'utilitza música de tensió quan la protagonista perd la seva gossa i la crida sense èxit i quan perd l'equilibri en caiac."
   },
   {
     "titol": "Lara què fem",
@@ -7609,6 +7616,12 @@
     "codi": "6225256",
     "edat": "0",
     "mesinfo": "Algunes coreografies presenten una sexualització molt lleu, diluïda enmig de l'actuació i atenuada per canvis de càmera molt fugaços. (S'inclouen imatges intermitents que poden afectar a espectadors susceptibles a l'epilèpsia fotosensible.)"
+  },
+  {
+    "titol": "Kóreo gala 5",
+    "codi": "6225905",
+    "edat": "0",
+    "mesinfo": "Algunes coreografies presenten una sexualització molt lleu. Una de les actuacions utilitza vestimenta i maquillatge vermell que simbolitza sang, de manera poc realista."
   },
   {
     "titol": "X3 Games",
