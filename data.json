@@ -5208,6 +5208,25 @@
     "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, legitimada<br>Por i angoixa freqüent d'afectació lleu"
   },
   {
+    "titol": "La mainadera ninja",
+    "codi": "mainadera-ninja",
+    "edat": "10"
+  },
+  {
+    "titol": "La mainadera ninja 1x01",
+    "codi": "6225903",
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa<br>Conductes i valors incívics amb sanció neutra",
+    "mesinfo": "<b>Llenguatge groller</b><br>S'utilitzen expressions com 'imbècil', 'idiota', 'merda', 'fotre' o 'desgraciada'. Es fan servir termes discriminatoris, com 'pervertit' o 'tarat', per referir-se a un noi que s'estava maquillant. Es diu que una noia té un estic ficat al cul i es diu 'flauta' per referir-se al penis. Una noia és insultada dient-li 'quino-pija'.<br><br><b>Conductes i valors incívics</b><br>Una noia que és diagnosticada amb TDAH llença les pastilles al vàter. La mainadera l'observa mentre ho fa, però no la sanciona. Hi ha altres conductes, com assetjament escolar, que sí que són sancionades pel relat. La protagonista rebutja la seva família adoptiva quan recalca que té 'germanastres' o que no viu amb el seu pare.<br><br>Hi ha dues situacions de violència versemblant i d'intensitat molt lleu en què una noia empeny una altra, fent-la caure a terra, i ella intenta tornar-s'hi pegant-li a la cara, però és aturada. En una altra escena, les mateixes noies acorralen la protagonista, i li col·loquen un estic d'hoquei al coll, fins que és rescatada. Hi ha situacions de xenofòbia i de LGTBIfòbia, que són sancionades explícitament. Hi ha una al·lusió sexual d'explicitació baixa quan una dona pregunta al seu home si s'ha ficat 'al llit' amb una altra dona. Hi ha situacions ocasionals de por o angoixa amb afectació lleu."
+  },
+  {
+    "titol": "La mainadera ninja 1x02",
+    "codi": "6225904",
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa<br>Conductes i valors incívics amb sanció neutra",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es fan servir expressions com 'merda', 'cagat' i 'fotre'. Un home diu que la seva filla 'els té ben posats com un home' i que té 'pebrots'.<br><br><b>Conductes i valors incívics</b><br>La protagonista i el seu amic rebutgen les pastilles que els ha recomanat el psiquiatre, i s'animen entre ells a llençar-les al vàter. La mainadera encobreix la protagonista, i menteix a la seva mare sobre com ha perdut les pastilles. La protagonista roba uns plànols a la casa de la família enemiga.<br><br>Hi ha una situació de violència versemblant en què una noia empeny una altra contra la paret. També es fan al·lusions violentes verbals ('matar') i no verbals (es representa un tall de coll amb la mà). Els adults de la família antagonista profereixen comentaris masclistes i consumeixen alcohol en un dinar. Hi ha situacions ocasionals de por o angoixa moderada quan es veuen animals morts per terra, i també quan una nena cau a una piscina i quan un cotxet amb un nadó perd el control, fins que són rescatats."
+  },
+  {
     "titol": "Lara i Kali",
     "codi": "lara-i-kali",
     "edat": "10"
@@ -7025,7 +7044,7 @@
   {
     "titol": "Sadie Sparks",
     "codi": "sadie-sparks",
-    "edat": "0"
+    "edat": "7"
   },
   {
     "titol": "Sam Fox aventures extremes",
