@@ -15,6 +15,11 @@
     "edat": "0"
   },
   {
+    "titol": "Videoclip: Beta Llimonada",
+    "codi": "6227475",
+    "edat": "0"
+  },
+  {
     "titol": "Videoclip: Carlos Pacheco",
     "codi": "6185950",
     "edat": "0"
@@ -5217,6 +5222,45 @@
   {
     "titol": "La casa d'Anubis 1x33 VO",
     "codi": "4875671",
+    "edat": "7",
+    "raons": "Frequent mild scary or distressing situations<br>Antisocial behaviour presented in a negative light"
+  },
+  {
+    "titol": "La casa d'Anubis 1x34",
+    "codi": "4875673",
+    "edat": "10",
+    "raons": "Conductes i valors incívics amb sanció neutra",
+    "mesinfo": "<b>Conductes i valors incívics</b><br>Un dels alumnes menteix i substitueix un DVD per un altre, per tal d'humiliar el director davant de tothom i per encobrir la seva amiga, que va robar uns objectes de la seva caixa forta.<br><br>Hi ha situacions freqüents de por i angoixa amb afectació lleu, quan veiem que un home ha segrestat una noia i amenaça al director de l'escola, i també quan el director de la casa amenaça als alumnes. La noia intenta fugir i li deixa caure caixes sobre el cap del segrestador qui, tot i semblar inconscient, es desperta de cop i li agafa la cama, i l'anomena 'estúpida'."
+  },
+  {
+    "titol": "La casa d'Anubis 1x34 VO",
+    "codi": "4875711",
+    "edat": "10",
+    "raons": "Antisocial behaviour presented in a neutral light"
+  },
+  {
+    "titol": "La casa d'Anubis 1x35",
+    "codi": "4876712",
+    "edat": "7",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "<b>Violència</b><br>Un home tapa la boca d'una noia que té segrestada per tal que no cridi i se l'emporta per la força.<br><br><b>Por i angoixa</b><br>S'utilitza música misteriosa de tensió en diverses escenes. Un home aparentment inconscient sorprèn a la noia que té reclosa agafant-la per la cama, i l'amenaça. Unes noies entren en el magatzem del segrestador i hi acaben elles tancades.<br><br><b>Llenguatge groller</b><br>Es diu 'estúpida'.<br><br><b>Conductes i valors incívics</b><br>Amb l'ajuda del seu amic, un noi farda de càrrecs que no té davant dels seus pares perquè se sentin orgullosos d'ell. L'amic se'n va de la llengua -entre d'altres, elogia el físic de la mare- i li demana que calli."
+  },
+  {
+    "titol": "La casa d'Anubis 1x35 VO",
+    "codi": "4876771",
+    "edat": "7",
+    "raons": "Occasional, realistic, explicit, very mild, and not legitimized, violence<br>Frequent mild scary or distressing situations<br>Occasional mild coarse language<br>Antisocial behaviour presented in a negative light"
+  },
+  {
+    "titol": "La casa d'Anubis 1x36",
+    "codi": "4876731",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "<b>Por i angoixa</b><br>S'utilitza música misteriosa de tensió en diverses escenes. Un home tanca unes noies en un magatzem, sense violència, i són rescatades poc més tard. Una dona i el segrestador negocien per tal d'alliberar la noia, mentre els nois intenten rescatar-la pel seu compte del maleter de la furgoneta.<br><br><b>Conductes i valors incívics</b><br>Dos nois fan una broma pesada on intercanvien la roba d'un noi per la d'una noia, però es presenta com a quelcom negatiu. Un noi intenta obrir el maleter d'una furgoneta amb una barra de ferro per salvar la seva amiga, sense èxit."
+  },
+  {
+    "titol": "La casa d'Anubis 1x36 VO",
+    "codi": "4876751",
     "edat": "7",
     "raons": "Frequent mild scary or distressing situations<br>Antisocial behaviour presented in a negative light"
   },
