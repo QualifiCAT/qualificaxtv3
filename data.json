@@ -5324,26 +5324,39 @@
   },
   {
     "titol": "La casa d'Anubis 1x40",
+    "codi": "4880995",
+    "edat": "10",
+    "raons": "Conductes i valors incívics amb sanció neutra",
+    "mesinfo": "<b>Conductes i valors incívics</b><br>Dos nois competeixen i fan la pilota a una noia per guanyar-se-la. Un grup menteix a un noi per tal de treure-se'l de sobre.<br><br>Hi ha situacions freqüents de por o angoixa lleus."
+  },
+  {
+    "titol": "La casa d'Anubis 1x40 VO",
+    "codi": "4881011",
+    "edat": "10",
+    "raons": "Antisocial behaviour presented in a neutral light"
+  },
+  {
+    "titol": "La casa d'Anubis 1x41",
     "codi": "4882852",
     "edat": "10",
     "raons": "Conductes i valors incívics amb sanció neutra",
     "mesinfo": "<b>Conductes i valors incívics</b><br>Un noi parla malament sobre el físic d'una noia a la seva esquena. En canvi, uns nois indirectament li fan la pilota a una noia per tal de guanyar-se-la; per exemple, un d'ells penja un cartell on s'hi veu el cos d'un culturista amb el cap d'ella, dient que així sembla que està 'bona'. Una noia és gelosa pel fet que el seu ex-xicot ara està amb una altra noia i li diu davant d'ella tot el que ell li ha dit abans.<br><br>Hi ha situacions ocasionals de por o angoixa moderades, quan apareix una frase misteriosa en una paret, quan un noi s'imagina la professora amb ulls i pell de rèptil, i l'angoixa que pateix una dona gran en intentar recordar el seu passat."
   },
   {
-    "titol": "La casa d'Anubis 1x40 VO",
+    "titol": "La casa d'Anubis 1x41 VO",
     "codi": "4882812",
     "edat": "10",
     "raons": "Antisocial behaviour presented in a neutral light"
   },
   {
-    "titol": "La casa d'Anubis 1x41",
+    "titol": "La casa d'Anubis 1x42",
     "codi": "4882833",
     "edat": "10",
     "raons": "Conductes i valors incívics amb sanció neutra",
     "mesinfo": "<b>Conductes i valors incívics</b><br>Un noi es xiva al director per tal d'arruïnar una cita que té un noi amb una noia que vol per ell. Una noia menteix.<br><br>Hi ha situacions ocasionals de por o angoixa moderades, sobretot al final, quan un noi té un atac de pànic en recordar un fet esgarrifós que va presenciar."
   },
   {
-    "titol": "La casa d'Anubis 1x41 VO",
+    "titol": "La casa d'Anubis 1x42 VO",
     "codi": "4882853",
     "edat": "10",
     "raons": "Antisocial behaviour presented in a neutral light"
