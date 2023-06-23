@@ -4612,6 +4612,25 @@
     "edat": "7"
   },
   {
+    "titol": "Inazuma Eleven Go",
+    "codi": "inazuma-eleven-go",
+    "edat": "7"
+  },
+  {
+    "titol": "Inazuma Eleven Go 1",
+    "codi": "6227209",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu",
+    "mesinfo": "<b>Por i angoixa</b><br>Hi ha tensió, prolongada en el temps però amb una intensitat baixa, en escenes que involucren personatges antagonistes. Xuts de pilota superpoderosos del rival que impacten contra els nois fan que surtin disparats o es desplomin a terra esgotats. Una escena mostra un nen a punt de caure-li a sobre un tros de fusta d'una zona en obres fins que és salvat immediatament."
+  },
+  {
+    "titol": "Inazuma Eleven Go 2",
+    "codi": "6227210",
+    "edat": "7",
+    "raons": "Violència freqüent, irreal, no explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa freqüent d'afectació lleu",
+    "mesinfo": "<b>Violència</b><br>Vegeu 'Por i angoixa'.<br><br><b>Por i angoixa</b><br>Hi ha tensió prolongada lligada a l'aparició de personatges malvats i a que l'equip dels bons és incapaç de guanyar el partit. L'antagonista intimida i invoca xuts de pilota superpoderosos i esperits gegants i tenebrosos que ataquen impactant contra els nois de manera irreal i no detallada, acabant desplomats sense forces. Un noi de l'equip dels bons plora perquè no sap protegir els seus amics i, utilitzant l'angoixa, invoca un esperit."
+  },
+  {
     "titol": "Influenx3r",
     "codi": "influenx3r",
     "edat": "7"
@@ -5256,13 +5275,78 @@
     "codi": "4876731",
     "edat": "7",
     "raons": "Por i angoixa freqüent d'afectació lleu<br>Conductes i valors incívics amb sanció negativa",
-    "mesinfo": "<b>Por i angoixa</b><br>S'utilitza música misteriosa de tensió en diverses escenes. Un home tanca unes noies en un magatzem, sense violència, i són rescatades poc més tard. Una dona i el segrestador negocien per tal d'alliberar la noia, mentre els nois intenten rescatar-la pel seu compte del maleter de la furgoneta.<br><br><b>Conductes i valors incívics</b><br>Dos nois fan una broma pesada on intercanvien la roba d'un noi per la d'una noia, però es presenta com a quelcom negatiu. Un noi intenta obrir el maleter d'una furgoneta amb una barra de ferro per salvar la seva amiga, sense èxit."
+    "mesinfo": "<b>Por i angoixa</b><br>S'utilitza música misteriosa de tensió en diverses escenes. Un home tanca unes noies en un magatzem, sense violència, i són rescatades poc més tard. Una dona i el segrestador negocien per tal d'alliberar la noia, mentre els nois intenten rescatar-la pel seu compte del maleter de la furgoneta.<br><br><b>Conductes i valors incívics</b><br>Dos nois fan una broma pesada on intercanvien la roba d'un noi per la d'una noia, però es presenta com a quelcom negatiu.<br><br>Un noi intenta obrir el maleter d'una furgoneta amb una barra de ferro per salvar la seva amiga."
   },
   {
     "titol": "La casa d'Anubis 1x36 VO",
     "codi": "4876751",
     "edat": "7",
     "raons": "Frequent mild scary or distressing situations<br>Antisocial behaviour presented in a negative light"
+  },
+  {
+    "titol": "La casa d'Anubis 1x37",
+    "codi": "4880492",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu",
+    "mesinfo": "<b>Por i angoixa</b><br>Uns nois intenten obrir el maleter d'una furgoneta per salvar una amiga, mentre sona música èpica. Hi ha tensió quan els nois parlen amb l'amiga desapareguda per videotrucada, però no els pot dir quan tornarà. Un noi es posa trist quan li pregunten si veu mai la seva família."
+  },
+  {
+    "titol": "La casa d'Anubis 1x37 VO",
+    "codi": "4880531",
+    "edat": "7",
+    "raons": "Frequent mild scary or distressing situations"
+  },
+  {
+    "titol": "La casa d'Anubis 1x38",
+    "codi": "4880471",
+    "edat": "10",
+    "raons": "Conductes i valors incívics amb sanció neutra",
+    "mesinfo": "<b>Conductes i valors incívics</b><br>Els dos protagonistes entren al despatx del director i li remenen les coses sense permís. Un noi insulta una noia pel seu físic a la seva esquena.<br><br>Hi ha situacions freqüents de por o angoixa amb afectació lleu, especialment al final, quan una noia té un malson on se li presenta una dona gran que coneix i recita una misteriosa cadena de nombres."
+  },
+  {
+    "titol": "La casa d'Anubis 1x38 VO",
+    "codi": "4880552",
+    "edat": "10",
+    "raons": "Antisocial behaviour presented in a neutral light"
+  },
+  {
+    "titol": "La casa d'Anubis 1x39",
+    "codi": "4880992",
+    "edat": "7",
+    "raons": "Por i angoixa ocasional d'afectació mitjana<br>Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Por i angoixa</b><br>Una noia té un malson on recorda com l'home que li havia segrestat es desperta de cop i li immobilitza la cama, i es desperta cridant. Més tard, la mateixa noia s'adorm a classe i veu aquest home en el cos d'un professor i d'un alumne, i es desperta cridant i marxa corrents del pànic. Els protagonistes manipulen un objecte antic que provoca un terratrèmol a la casa.<br><br><b>Llenguatge groller</b><br>Es diu 'estúpida' i 'cagat de por'.<br><br>Es dona a entendre que a un noi li han robat un objecte i que li han fet una broma pesada pel fet que creu en els extraterrestres."
+  },
+  {
+    "titol": "La casa d'Anubis 1x39 VO",
+    "codi": "4880994",
+    "edat": "7",
+    "raons": "Occasional moderate scary or distressing situations<br>Occasional mild coarse language"
+  },
+  {
+    "titol": "La casa d'Anubis 1x40",
+    "codi": "4882852",
+    "edat": "10",
+    "raons": "Conductes i valors incívics amb sanció neutra",
+    "mesinfo": "<b>Conductes i valors incívics</b><br>Un noi parla malament sobre el físic d'una noia a la seva esquena. En canvi, uns nois indirectament li fan la pilota a una noia per tal de guanyar-se-la; per exemple, un d'ells penja un cartell on s'hi veu el cos d'un culturista amb el cap d'ella, dient que així sembla que està 'bona'. Una noia és gelosa pel fet que el seu ex-xicot ara està amb una altra noia i li diu davant d'ella tot el que ell li ha dit abans.<br><br>Hi ha situacions ocasionals de por o angoixa moderades, quan apareix una frase misteriosa en una paret, quan un noi s'imagina la professora amb ulls i pell de rèptil, i l'angoixa que pateix una dona gran en intentar recordar el seu passat."
+  },
+  {
+    "titol": "La casa d'Anubis 1x40 VO",
+    "codi": "4882812",
+    "edat": "10",
+    "raons": "Antisocial behaviour presented in a neutral light"
+  },
+  {
+    "titol": "La casa d'Anubis 1x41",
+    "codi": "4882833",
+    "edat": "10",
+    "raons": "Conductes i valors incívics amb sanció neutra",
+    "mesinfo": "<b>Conductes i valors incívics</b><br>Un noi es xiva al director per tal d'arruïnar una cita que té un noi amb una noia que vol per ell. Una noia menteix.<br><br>Hi ha situacions ocasionals de por o angoixa moderades, sobretot al final, quan un noi té un atac de pànic en recordar un fet esgarrifós que va presenciar."
+  },
+  {
+    "titol": "La casa d'Anubis 1x41 VO",
+    "codi": "4882853",
+    "edat": "10",
+    "raons": "Antisocial behaviour presented in a neutral light"
   },
   {
     "titol": "La colla de la selva al rescat!",
@@ -7458,6 +7542,39 @@
     "mesinfo": "<b>Violència</b><br>Hi ha una persecució, amb edificis enfonsant-se, atropellaments i crits. Dos personatges discuteixen, es barallen físicament i un intenta donar-li un cop de puny. Els herois lluiten contra drons que treuen rajos làser, hi ha tot d'explosions, trets i tensió. L'heroi fa esnifar un somnífer al seu company. Un dolent congela un personatge amb una arma, i es tem per la seva vida; se l'intenta reviure amb un desfibril·lador. Es disparen tranquil·litzants per intentar aturar un drac fora de control. Bufetegen un personatge fins que es desperta. El dolent torna a aparèixer i intenta glaçar l'heroi i aturar-lo llençant-li objectes voluminosos a sobre; es barallen, hi ha tirotejos, cops de puny i es llencen contra la paret. En una altra batalla, tots lluiten entre ells: l'heroi esgarrapa a l'ull, dona cops de puny i fa cruixir els braços d'uns dolents; el malvat fa servir la seva arma de congelació i llença a la gent contra el terra. Hi ha més moments de tensió quan es creu que gent propera a alguns personatges mor.<br><br>Hi ha algunes actituds incíviques, contextualitzades, com quan el protagonista és arrogant amb el seu company, menteix sobre la seva identitat o juga amb un extintor per poder anar més de pressa. Hi ha llenguatge groller ocasional d'intensitat baixa, com 'estúpid' o 'burro'. Es veuen begudes alcohòliques breument en una ocasió, però no es consumeixen."
   },
   {
+    "titol": "Súper 4",
+    "codi": "super-4",
+    "edat": "7"
+  },
+  {
+    "titol": "Súper 4 1x01",
+    "codi": "5490655",
+    "edat": "0",
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa ocasional d'afectació lleu",
+    "mesinfo": "<b>Violència</b><br>Vegeu 'Por i angoixa'.<br><br><b>Por i angoixa</b><br>Hi ha persecucions en les quals un dinosaure o un robot controlat per un malvat empaita els protagonistes i els dispara amb rajos làser, però no els impacta mai i qualsevol tensió és mínima. Es fa una al·lusió a la mort."
+  },
+  {
+    "titol": "Súper 4 1x02",
+    "codi": "5490654",
+    "edat": "0",
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa ocasional d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Violència</b><br>Els bons brandeixen espases i disparen fletxes contra els enemics que intenten cremar-los i esfondrar-los el castell, sense èxit, atès que el diàleg i l'astúcia dels protagonistes resol el conflicte.<br><br><b>Por i angoixa</b><br>Vegeu 'Violència'. Es fa una al·lusió a la mort.<br><br><b>Llenguatge groller</b><br>Un dolent anomena 'estúpid' a un nadó de dinosaure. També s'utilitzen altres termes molt lleus com 'cervell de mosquit' o 'soca'."
+  },
+  {
+    "titol": "Súper 4 1x03",
+    "codi": "5490660",
+    "edat": "7",
+    "raons": "Violència freqüent, irreal, no explícita, d'intensitat molt lleu, legitimada<br>Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Violència</b><br>Unes fades intenten aturar els herois amb atacs màgics. Bons i dolents lluiten xocant-se espases. Una noia llença una tassa contra el cap d'un amic seu, pensant-se que era un dolent.<br><br><b>Llenguatge groller</b><br>Es diu 'idiotes', entre d'altres expressions molt lleus. Un dels bons li diu al dolent que s'estarà tancat 'fins que et moris'."
+  },
+  {
+    "titol": "Súper 4 1x04",
+    "codi": "5490662",
+    "edat": "7",
+    "raons": "Violència ocasional, irreal, explícita, d'intensitat molt lleu, legitimada<br>Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Violència</b><br>Per obrir-se pas, els herois tallen els braços d'uns robots i els seus cossos per la meitat amb espases. Uns robots disparen rajos làser contra els herois.<br><br><b>Llenguatge groller</b><br>Es diu 'desgraciat' per insultar a algú."
+  },
+  {
     "titol": "Theodosia",
     "codi": "theodosia",
     "edat": "7"
@@ -7750,6 +7867,12 @@
     "codi": "6225905",
     "edat": "0",
     "mesinfo": "Algunes coreografies presenten una sexualització molt lleu. Una de les actuacions utilitza vestimenta i maquillatge vermell que simbolitza sang, de manera poc realista."
+  },
+  {
+    "titol": "Kóreo gala 6",
+    "codi": "6227668",
+    "edat": "0",
+    "mesinfo": "Algunes coreografies presenten una sexualització molt lleu. No s'han tingut en compte expressiones grolleres i referències fetes en anglès en la lletra d'algunes cançons."
   },
   {
     "titol": "X3 Games",
