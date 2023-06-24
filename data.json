@@ -1432,6 +1432,13 @@
     "mesinfo": "<b>Por i angoixa</b><br>Un dolent contínuament tracta de capturar un drac, amenaçant-lo amb una destral. Eventualment el persegueix i també tracta d'atacar els nois protagonistes.<br><br><b>Llenguatge groller</b><br>Un antagonista és anomenat 'psicòpata', 'boig' i expressions de l'estil."
   },
   {
+    "titol": "Dracs: Els nou regnes 4x02",
+    "codi": "6225025",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "<b>Por i angoixa</b><br>Dos dracs són abandonats i els seus amos temen per la seva seguretat. Els dos dracs amenaçats per un drac dolent. Quan els nois tornen per recuperar-los, s'enfronten al drac dolent, qui els ataca i intenta esfondrar la cova.<br><br><b>Llenguatge groller</b><br>Es diu 'burro'.<br><br><b>Conductes i valors incívics</b><br>Dos nois menteixen a un vigilant i els seus amics els acusen de vulnerar les seves pròpies normes."
+  },
+  {
     "titol": "Dracs genets illa fred",
     "codi": "dracs-genets-illa-fred",
     "edat": "7"
@@ -5362,6 +5369,45 @@
     "raons": "Antisocial behaviour presented in a neutral light"
   },
   {
+    "titol": "La casa d'Anubis 1x43",
+    "codi": "4883792",
+    "edat": "10",
+    "raons": "Conductes i valors incívics amb sanció neutra",
+    "mesinfo": "<b>Conductes i valors incívics</b><br>Un noi revela un secret que un altre noi té sense haver-ho autoritzat, per tal de guanyar-se la confiança d'una noia. Aquest mateix noi també insulta una noia rival pel seu físic, amb el mateix objectiu, tot i que això està explícitament sancionat.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa ('imbècil') i situacions ocasionals de por o angoixa lleus."
+  },
+  {
+    "titol": "La casa d'Anubis 1x43 VO",
+    "codi": "4883811",
+    "edat": "10",
+    "raons": "Antisocial behaviour presented in a neutral light"
+  },
+  {
+    "titol": "La casa d'Anubis 1x44",
+    "codi": "4883851",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "<b>Por i angoixa</b><br>Una dona gran s'espanta en veure la cara d'un home, qui anomena assassí, mentre recorda el seu passat. Es mostren retrospectives d'un home parlant malament al seu fill i d'amenaçar-lo d'anar a un orfenat. L'home amenaça la dona i li parla malament. Més tard, aquesta dona es presenta en un somni de la protagonista.<br><br><b>Llenguatge groller</b><br>Es diu 'imbècil'.<br><br><b>Conductes i valors incívics</b><br>Una noia menteix al director, però ell sap que és mentida. Es critica que un dels nois revelés un secret i robés una carta en episodis anteriors."
+  },
+  {
+    "titol": "La casa d'Anubis 1x44 VO",
+    "codi": "4883831",
+    "edat": "7",
+    "raons": "Frequent mild scary or distressing situations<br>Occasional mild coarse language<br>Antisocial behaviour presented in a negative light"
+  },
+  {
+    "titol": "La casa d'Anubis 1x45",
+    "codi": "4884293",
+    "edat": "10",
+    "raons": "Conductes i valors incívics amb sanció neutra",
+    "mesinfo": "<b>Conductes i valors incívics</b><br>Un noi suborna a l'encarregat de l'escrutini d'unes eleccions escolars perquè guanyi la seva xicota. Immediatament després, un noi paga a l'encarregat perquè li digui qui està guanyant.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa ('merda'), i situacions freqüents de por o angoixa lleus, amb referències a la mort d'una dona gran."
+  },
+  {
+    "titol": "La casa d'Anubis 1x45 VO",
+    "codi": "4884294",
+    "edat": "10",
+    "raons": "Antisocial behaviour presented in a neutral light"
+  },
+  {
     "titol": "La colla de la selva al rescat!",
     "codi": "colla-selva-rescat",
     "edat": "7"
@@ -5401,6 +5447,32 @@
     "edat": "7",
     "raons": "Violència reiterada, irreal, explícita, d'intensitat molt lleu, legitimada<br>Llenguatge groller ocasional d'intensitat baixa",
     "mesinfo": "<b>Violència</b><br>Uns dolents tenen amenaçat un poble i la missió dels herois és fer-los fora violentament. Es fa un ús pràcticament ininterromput de llenguatge violent ('us fotrà un mastegot', 'lluitarem cos a cos', 'm'ha trencat les costelles', 'qui s'ha mort', 'picar els dolents', 'els estomacarem', 'hauràs de passar per sobre del meu cadàver', 'revenja', 'esclaus'). Personatges es fan cops al cap, es bufetegen o juguen a ser mestres d'arts marcials. En una batalla campal on bons i dolents no paren de fer-se cops, un dels dolents envia l'heroi contra una superfície i el deixa estabornit; té intencions d'empalar-lo amb un ullal però el seu amic el salva: salta i li mossega l'ull al dolent.<br><br><b>Llenguatge groller</b><br>Es diu 'fotre' i 'idiotes'."
+  },
+  {
+    "titol": "La colla del camp",
+    "codi": "colla-camp",
+    "edat": "10"
+  },
+  {
+    "titol": "La colla del camp 1x01",
+    "codi": "6227451",
+    "edat": "10",
+    "raons": "Llenguatge groller reiterat d'intensitat baixa<br>Conductes i valors incívics amb sanció neutra",
+    "mesinfo": "<b>Llenguatge groller</b><br>Constant ús d'expressions com 'merda', 'idiota', 'cagat', 'babau', 'ruc', 'el mato', entre d'altres.<br><br><b>Conductes i valors incívics</b><br>Els nens protagonistes es barallen constantment, tant físicament com verbalment (amb intensitat molt lleu), sense que l'episodi ho presenti amb una finalitat constructiva ni educativa.<br><br>Hi ha situacions freqüents de por o angoixa lleu, amb al·lusions a la mort."
+  },
+  {
+    "titol": "La colla del camp 1x02",
+    "codi": "6227452",
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa<br>Conductes i valors incívics amb sanció neutra",
+    "mesinfo": "<b>Llenguatge groller</b>Freqüent ús d'expressions com 'tanoca', 'burro', 'pallús', 'idiota', 'ruc', 'capsigrany', 'us matarem', entre d'altres.<br><br><b>Conductes i valors incívics</b><br>Una nena insulta una dona pel seu físic. Un nen es planteja robar en una botiga i els seus amics li diuen que ser un lladre 'mola' perquè fa respecte. Els nens es plantegen mentir a les seves famílies."
+  },
+  {
+    "titol": "La colla del camp 1x03",
+    "codi": "6227453",
+    "edat": "7",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "<b>Violència</b><br>Es fan al·lusions a la mort. Una nena fa caure un nen mentre juguen a rugbi. Una nena li diu a un nen que ataqui amb totes les seves forces encara que sigui 'una nena', i ell respon amb un cop fort a la panxa que li fa mal.<br><br><b>Llenguatge groller</b><br>Es diu 'idiota', 'burro' i 'foteu el camp'.<br><br><b>Conductes i valors incívics</b><br>Un grup de nens dolents roben una pilota i trenquen un vidre d'una casa, i fugen corrents. Veiem més tard com els mateixos nens discuteixen si obrir un moneder perdut al bosc o no. Els nens protagonistes assumeixen les culpes i es donen missatges d'amistat al final."
   },
   {
     "titol": "La llegenda del drac trencaossos titol",
