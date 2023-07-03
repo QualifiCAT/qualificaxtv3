@@ -3232,6 +3232,12 @@
     "raons": "Violència ocasional, irreal, no explícita, d'intensitat greu, no legitimada (imatges cruentes)<br>Por i angoixa ocasional d'afectació alta"
   },
   {
+    "titol": "Guardians de la nit 1x04",
+    "codi": "6178889",
+    "edat": "13",
+    "raons": "Violència freqüent, irreal, molt explícita, d'intensitat greu, legitimada"
+  },
+  {
     "titol": "Guardians de la nit 1x09",
     "codi": "6180862",
     "edat": "13",
@@ -5450,6 +5456,58 @@
   {
     "titol": "La casa d'Anubis 1x46 VO",
     "codi": "4884311",
+    "edat": "10",
+    "raons": "Antisocial behaviour presented in a neutral light"
+  },
+  {
+    "titol": "La casa d'Anubis 1x47",
+    "codi": "4888352",
+    "edat": "10",
+    "raons": "Por i angoixa reiterada d'afectació lleu<br>Conductes i valors incívics amb sanció neutra",
+    "mesinfo": "<b>Por i angoixa</b><br>Es manté música de suspens durant tot l'episodi, i el final queda obert, amb els protagonistes a punt de ser descoberts mentre el director s'apropa al seu amagatall lentament.<br><br><b>Conductes i valors incívics</b><br>Una de les noies utilitza l'ordinador del director sense el seu consentiment."
+  },
+  {
+    "titol": "La casa d'Anubis 1x47 VO",
+    "codi": "4888371",
+    "edat": "10",
+    "raons": "Pervasive mild scary or distressing situations<br>Antisocial behaviour presented in a neutral light"
+  },
+  {
+    "titol": "La casa d'Anubis 1x48",
+    "codi": "4888373",
+    "edat": "10",
+    "raons": "Conductes i valors incívics amb sanció neutra",
+    "mesinfo": "<b>Conductes i valors incívics</b><br>Un noi gelós xafardeja el mòbil d'una companya sense consentiment i roba un número. Aconsegueix trucar i quedar amb aquesta persona, que li dona diners a canvi de mantenir-lo informat sobre què fan els nois.<br><br>Una noia menteix però el director sap que l'estan mentint. Hi ha situacions freqüents de por lleu, en forma de música de suspens."
+  },
+  {
+    "titol": "La casa d'Anubis 1x48 VO",
+    "codi": "4888391",
+    "edat": "10",
+    "raons": "Antisocial behaviour presented in a neutral light"
+  },
+  {
+    "titol": "La casa d'Anubis 1x49",
+    "codi": "4890092",
+    "edat": "10",
+    "raons": "Conductes i valors incívics amb sanció neutra",
+    "mesinfo": "<b>Conductes i valors incívics</b><br>Els nois es menteixen entre ells. Un noi gelós perquè se sent exclòs del grup roba un 'walkie-talkie' que no és seu i es fa passar pel seu usuari legítim. Un noi roba un objecte.<br><br>Hi ha situacions freqüents de por lleu."
+  },
+  {
+    "titol": "La casa d'Anubis 1x49 VO",
+    "codi": "4890171",
+    "edat": "10",
+    "raons": "Antisocial behaviour presented in a neutral light"
+  },
+  {
+    "titol": "La casa d'Anubis 1x50",
+    "codi": "4890093",
+    "edat": "10",
+    "raons": "Conductes i valors incívics amb sanció neutra",
+    "mesinfo": "<b>Conductes i valors incívics</b><br>Un noi menteix i manipula el seu amic, i li ordena que reveli secrets i robi objectes per tal d'obtenir-ne benefici econòmic.<br><br>Hi ha situacions freqüents de por lleu: hi ha música de suspens i una noia sent veus."
+  },
+  {
+    "titol": "La casa d'Anubis 1x50 VO",
+    "codi": "4890091",
     "edat": "10",
     "raons": "Antisocial behaviour presented in a neutral light"
   },
