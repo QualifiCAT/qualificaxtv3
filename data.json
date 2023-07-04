@@ -3238,6 +3238,12 @@
     "raons": "Violència freqüent, irreal, molt explícita, d'intensitat greu, legitimada"
   },
   {
+    "titol": "Guardians de la nit 1x05",
+    "codi": "6179717",
+    "edat": "13",
+    "raons": "Violència ocasional, versemblant, molt explícita, d'intensitat greu, no legitimada"
+  },
+  {
     "titol": "Guardians de la nit 1x09",
     "codi": "6180862",
     "edat": "13",
@@ -5510,6 +5516,19 @@
     "codi": "4890091",
     "edat": "10",
     "raons": "Antisocial behaviour presented in a neutral light"
+  },
+  {
+    "titol": "La casa d'Anubis 1x51",
+    "codi": "4892152",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "<b>Por i angoixa</b><br>Es fa servir música de suspens sovint. Els nois descobreixen un objecte girant-li el coll a un corb dissecat, que fa que se li desenganxi del cos.<br><br><b>Llenguatge groller</b><br>Es diu 'idiota' i 'merder'.<br><br><b>Conductes i valors incívics</b><br>Una noia fingeix un desmai, dos nois juguen amb aigua de la pica d'una cuina i dos protagonistes entren a un despatx sense permís. Un noi manipula un altre i li demana que robi objectes, i pretenen enculpar a una persona innocent. En aquest cas, les conductes es presenten generalment amb conseqüències negatives."
+  },
+  {
+    "titol": "La casa d'Anubis 1x51 VO",
+    "codi": "",
+    "edat": "7",
+    "raons": "Frequent mild scary or distressing situations<br>Occasional mild coarse language<br>Antisocial behaviour presented in a negative light"
   },
   {
     "titol": "La colla de la selva al rescat!",
