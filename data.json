@@ -3244,6 +3244,18 @@
     "raons": "Violència ocasional, versemblant, molt explícita, d'intensitat greu, no legitimada"
   },
   {
+    "titol": "Guardians de la nit 1x06",
+    "codi": "6179794",
+    "edat": "13",
+    "raons": "Violència freqüent, irreal, molt explícita, d'intensitat greu, legitimada<br>Por i angoixa freqüent d'afectació alta"
+  },
+  {
+    "titol": "Guardians de la nit 1x07",
+    "codi": "6179996",
+    "edat": "13",
+    "raons": "Violència freqüent, irreal, molt explícita, d'intensitat greu, legitimada<br>Por i angoixa freqüent d'afectació alta"
+  },
+  {
     "titol": "Guardians de la nit 1x09",
     "codi": "6180862",
     "edat": "13",
@@ -5540,6 +5552,19 @@
   {
     "titol": "La casa d'Anubis 1x52 VO",
     "codi": "4892211",
+    "edat": "10",
+    "raons": "Antisocial behaviour presented in a neutral light"
+  },
+  {
+    "titol": "La casa d'Anubis 1x53",
+    "codi": "4893152",
+    "edat": "10",
+    "raons": "Conductes i valors incívics amb sanció neutra",
+    "mesinfo": "<b>Conductes i valors incívics</b><br>Els protagonistes tanquen amb clau i enganyen i menteixen als professors per tal de recuperar un objecte que tenen amagat i que no volen que el malvat trobi. Ni els personatges bons ni els dolents actuen de manera respectuosa amb els altres. Una noia es mostra obsessionada per maquillar-se i vestir bé. Un noi roba un objecte a un altre per obtenir-ne un benefici propi, actitud que és sancionada.<br><br>Hi ha situacions freqüents de por o angoixa lleu, amb al·lusions no detallades a la mort, i llenguatge groller ocasional d'intensitat baixa ('merder', 'rates')."
+  },
+  {
+    "titol": "La casa d'Anubis 1x53 VO",
+    "codi": "4893172",
     "edat": "10",
     "raons": "Antisocial behaviour presented in a neutral light"
   },
