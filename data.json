@@ -5588,6 +5588,19 @@
     "raons": "Occasional mild coarse language"
   },
   {
+    "titol": "La casa d'Anubis 1x55",
+    "codi": "4894232",
+    "edat": "10",
+    "raons": "Por i angoixa reiterada d'afectació lleu",
+    "mesinfo": "<b>Por i angoixa</b><br>Es fa servir música de tensió de manera pràcticament ininterrompuda durant tot l'episodi, on els protagonistes planegen i executen un pla per tancar un perillós malvat en un soterrani. Té un final obert, on el dolent captura una noia agafant-la pel braç i la fa cridar en el moment en què ell intenta sortir."
+  },
+  {
+    "titol": "La casa d'Anubis 1x55 VO",
+    "codi": "4894233",
+    "edat": "10",
+    "raons": "Pervasive mild scary or distressing situations"
+  },
+  {
     "titol": "La colla de la selva al rescat!",
     "codi": "colla-selva-rescat",
     "edat": "7"
@@ -5723,8 +5736,8 @@
     "titol": "La mainadera ninja 1x08",
     "codi": "6229537",
     "edat": "10",
-    "raons": "Por i angoixa ocasional d'afectació alta<br>Llenguatge groller freqüent d'intensitat baixa<br>Conductes i valors incívics amb sanció neutra",
-    "mesinfo": "<b>Por i angoixa</b><br>Troben una noia a la teulada d'un institut amb aparents intencions de matar-se. Un noi que ho presencia fa comentaris encoratjadors del suïcidi. La protagonista la redueix a terra abans no intenti res, mentre ella plora. També hi ha una escena en què una nena apunta amb una escopeta a taula i tothom aixeca les mans; quan la hi confisquen, la nena pregunta al seu avi si ha mort mai algú amb aquesta arma.<br><br><b>Llenguatge groller</b><br>Una noia ensenya el dit del mig a una altra. Es diu freqüentment 'merda', 'merder', 'malparit' o 'fot'.<br><br><b>Conductes i valors incívics</b><br>La protagonista es queda unes sabates esportives que una noia nouvinguda ha robat d'una botiga. Decideix que fer el bé no és tornar-les a la botiga, sinó deixar-les a la noia benvinguda perquè les necessita. Obre el seu armariet amb un cop de peu i les hi deixa allà. També hi ha una escena en què una noia roba menjar d'un menjador.<br><br>Hi ha comentaris xenòfobs quan es critica el lema d'un empresari dient 'farem neteja de tot el que no sigui d'aquí', i d'un comentari de 'tots els refugiats són uns lladres'. Una noia vomita en un lavabo, a jutjar pels efectes sonors."
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada<br>Llenguatge groller freqüent d'intensitat baixa<br>Conductes i valors incívics amb sanció neutra",
+    "mesinfo": "<b>Violència</b><br>Troben una noia a la teulada d'un institut amb aparents intencions de matar-se. Un noi que ho presencia fa comentaris encoratjadors del suïcidi. La protagonista la redueix a terra abans no intenti res, mentre ella plora. També hi ha una escena en què una nena apunta amb una escopeta a taula i tothom aixeca les mans; quan la hi confisquen, la nena pregunta al seu avi si ha mort mai algú amb aquesta arma.<br><br><b>Llenguatge groller</b><br>Una noia ensenya el dit del mig a una altra. Es diu freqüentment 'merda', 'merder', 'malparit' o 'fot'.<br><br><b>Conductes i valors incívics</b><br>La protagonista es queda unes sabates esportives que una noia nouvinguda ha robat d'una botiga. Decideix que fer el bé no és tornar-les a la botiga, sinó deixar-les a la noia benvinguda perquè les necessita. Obre el seu armariet amb un cop de peu i les hi deixa allà. També hi ha una escena en què una noia roba menjar d'un menjador.<br><br>Hi ha comentaris xenòfobs quan es critica el lema d'un empresari dient 'farem neteja de tot el que no sigui d'aquí', i d'un comentari de 'tots els refugiats són uns lladres'. Una noia vomita en un lavabo, a jutjar pels efectes sonors."
   },
   {
     "titol": "Lara i Kali",
