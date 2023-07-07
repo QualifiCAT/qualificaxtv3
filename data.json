@@ -3256,6 +3256,12 @@
     "raons": "Violència freqüent, irreal, molt explícita, d'intensitat greu, legitimada<br>Por i angoixa freqüent d'afectació alta"
   },
   {
+    "titol": "Guardians de la nit 1x08",
+    "codi": "6180206",
+    "edat": "13",
+    "raons": "Violència ocasional, irreal, molt explícita, d'intensitat greu, no legitimada"
+  },
+  {
     "titol": "Guardians de la nit 1x09",
     "codi": "6180862",
     "edat": "13",
@@ -5567,6 +5573,19 @@
     "codi": "4893172",
     "edat": "10",
     "raons": "Antisocial behaviour presented in a neutral light"
+  },
+  {
+    "titol": "La casa d'Anubis 1x54",
+    "codi": "4893191",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'idiota' i 'boig'.<br><br>Hi ha situacions ocasionals de por lleu i referències a conductes incíviques perpetuades en episodis anteriors, presentades de manera negativa."
+  },
+  {
+    "titol": "La casa d'Anubis 1x54 VO",
+    "codi": "4893174",
+    "edat": "7",
+    "raons": "Occasional mild coarse language"
   },
   {
     "titol": "La colla de la selva al rescat!",
