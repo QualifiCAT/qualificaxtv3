@@ -5713,6 +5713,20 @@
     "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'anormal' una vegada. També es diuen 'merda', 'parida', 'tarat' i 'imbècil'.<br><br>Hi ha situacions ocasionals de violència molt lleu en retrospectives fugaces d'actes violents d'episodis anteriors. Hi ha situacions de LGTBI-fòbia, masclisme, racisme i xenofòbia, presentades negativament: un noi fa comentaris masclistes insinuant que les dones no poden ser lluitadores i que han de ser espirituals, un home desagradable anomena 'tarat' a un noi i diu que no voldria que la seva filla 'sortís amb un...', una comissària s'eixuga després d'encaixar les mans amb una noia, i un policia es refereix a un home com a 'el negre' i són acusats de racistes i que es pensen que tots els negres són delinqüents. Hi ha conductes incíviques presentades negativament, quan diversos personatges menteixen i un d'ells vol amagar amb qui va estar fa uns dies, i la seva dona es pensa que l'està enganyant. Hi ha situacions ocasionals d'angoixa moderada quan es creu que la mare de la protagonista tindrà 'una depressió' i 'es divorciaran', quan un home plora perquè no vol enganyar a la seva dona, i quan un home apunta amb una escopeta als protagonistes. Es fan referències ocasionals al consum d'alcohol i de tabac, presentant-los negativament. Un home s'insinua a la seva dona, dient-li en to suggerent que 't'interessen altres coses'."
   },
   {
+    "titol": "La mainadera ninja 1x07",
+    "codi": "6229536",
+    "edat": "10",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, legitimada<br>Conductes i valors incívics amb sanció neutra",
+    "mesinfo": "<b>Violència</b><br>La protagonista llença una pilota contra la cara d'un professor deliberadament. Una persona empeny una altra i roba un objecte; l'heroi aconsegueix atrapar la lladre i l'intenta immobilitzar pel coll. Dues persones xoquen espases.<br><br><b>Conductes i valors incívics</b><br>La protagonista regira les pertinences privades de la seva mainadera, sense el seu consentiment, per conèixer més sobre la seva família. També menteix freqüentment a persones del seu entorn, sense conseqüències.<br><br>Hi ha situacions de discriminació, presentades en negatiu: hi ha situacions xenòfobes quan es diu que els refugiats que venen són 'terroristes i violadors', quan els alumnes d'una escola miren malament una alumna nouvinguda, i quan el professor parla amb condescendència amb ella; hi ha situacions masclistes quan un noi diu que el vestit d'una noia és 'transgressor' i que voldria veure una ninja en vestit, i quan una noia burxa una altra pel seu vestit i li diu que ha vingut 'sexi'; hi ha situacions de LGTBI-fòbia quan una noia xiula en to burleta quan dues noies s'asseuen juntes, i quan la mateixa noia li pregunta a un noi gai si té 'nòvia' i que es pensava que li agradaven 'els tios'. Hi ha llenguatge groller ocasional d'intensitat baixa ('merda', 'idiota', 'fot'). Hi ha consum d'alcohol en una escena que protagonista un personatge desagradable."
+  },
+  {
+    "titol": "La mainadera ninja 1x08",
+    "codi": "6229537",
+    "edat": "10",
+    "raons": "Por i angoixa ocasional d'afectació alta<br>Llenguatge groller freqüent d'intensitat baixa<br>Conductes i valors incívics amb sanció neutra",
+    "mesinfo": "<b>Por i angoixa</b><br>Troben una noia a la teulada d'un institut amb aparents intencions de matar-se. Un noi que ho presencia fa comentaris encoratjadors del suïcidi. La protagonista la redueix a terra abans no intenti res, mentre ella plora. També hi ha una escena en què una nena apunta amb una escopeta a taula i tothom aixeca les mans; quan la hi confisquen, la nena pregunta al seu avi si ha mort mai algú amb aquesta arma.<br><br><b>Llenguatge groller</b><br>Una noia ensenya el dit del mig a una altra. Es diu freqüentment 'merda', 'merder', 'malparit' o 'fot'.<br><br><b>Conductes i valors incívics</b><br>La protagonista es queda unes sabates esportives que una noia nouvinguda ha robat d'una botiga. Decideix que fer el bé no és tornar-les a la botiga, sinó deixar-les a la noia benvinguda perquè les necessita. Obre el seu armariet amb un cop de peu i les hi deixa allà. També hi ha una escena en què una noia roba menjar d'un menjador.<br><br>Hi ha comentaris xenòfobs quan es critica el lema d'un empresari dient 'farem neteja de tot el que no sigui d'aquí', i d'un comentari de 'tots els refugiats són uns lladres'. Una noia vomita en un lavabo, a jutjar pels efectes sonors."
+  },
+  {
     "titol": "Lara i Kali",
     "codi": "lara-i-kali",
     "edat": "10"
@@ -8179,6 +8193,11 @@
     "codi": "6228923",
     "edat": "0",
     "mesinfo": "Algunes coreografies presenten una sexualització molt lleu. No s'han tingut en compte expressiones grolleres i referències fetes en anglès en la lletra d'algunes cançons."
+  },
+  {
+    "titol": "Kóreo gala 8",
+    "codi": "6230072",
+    "edat": "0"
   },
   {
     "titol": "X3 Games",
