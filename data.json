@@ -3084,6 +3084,18 @@
     "raons": "Contingut sexual ocasional d'explicitació mitjana"
   },
   {
+    "titol": "Expedient Zack",
+    "codi": "expedient-zack",
+    "edat": "7"
+  },
+  {
+    "titol": "Expedient Zack 1x01",
+    "codi": "6230121",
+    "edat": "7",
+    "raons": "Expressions masclistes amb sanció negativa<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "<b>Discriminació, racisme i xenofòbia</b><br>En dues ocasions, li retreuen a un noi que llegeix un llibre per a noies. Ell diu que no només és per nenes.<br><br><b>Llenguatge groller</b><br>Es diu 'no fotis', i expressions com 'sonada' o 'boig'.<br><br><b>Conductes i valors incívics</b><br>Hi ha freqüents conductes incíviques. Els protagonistes s'enriuen d'un noi, li arrenquen fulls d'una llibreta i les masteguen. Els nois intenten planegen com retornar un llibre trencat i que havien d'haver tornat fa divuit mesos sense patir-ne les conseqüències; ho proven subornant-los, col·locant-hi diners a dins o entrant a la biblioteca de nit sense permís. Un noi menteix al seu pare sobre com s'ha esquinçat la roba que duia, però acaba reconeixent l'error. Les conseqüències d'aquestes conductes són irreals, però l'episodi dona un missatge generalment negatiu, acompanyat d'una lliçó final.<br><br>Hi ha situacions ocasionals de por o angoixa lleu, incloent-hi al·lusions no detallades a la mort i a decapitacions en un context irreal."
+  },
+  {
     "titol": "Flying Squirrels",
     "codi": "flying-squirrels",
     "edat": "7"
@@ -5601,6 +5613,19 @@
     "raons": "Pervasive mild scary or distressing situations"
   },
   {
+    "titol": "La casa d'Anubis 1x56",
+    "codi": "4894252",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu",
+    "mesinfo": "<b>Por i angoixa</b><br>Un home que intenta fugir agafa una noia pel braç i ella crida. Hi ha situacions tenses quan personatges pugen el to de veu o s'amenacen. Els nois juguen amb peces ancestrals i desencadenen un terratrèmol a la casa.<br><br>Un home perillós és anomenat 'psicòpata'."
+  },
+  {
+    "titol": "La casa d'Anubis 1x56 VO",
+    "codi": "4894253",
+    "edat": "7",
+    "raons": "Frequent mild scary or distressing situations"
+  },
+  {
     "titol": "La colla de la selva al rescat!",
     "codi": "colla-selva-rescat",
     "edat": "7"
@@ -7215,6 +7240,13 @@
     "titol": "One Piece",
     "codi": "one-piece",
     "edat": "13"
+  },
+  {
+    "titol": "One Piece 1x01",
+    "codi": "6228193",
+    "edat": "10",
+    "raons": "Expressions discriminatòries amb sanció neutra",
+    "mesinfo": "<b>Discriminació, racisme i xenofòbia</b><br>Els protagonistes insulten una pirata malvada pel seu físic. Un noi és anomenat 'quatre ulls'.<br><br>Hi ha freqüent violència irreal, no explícita, d'intensitat molt lleu i legitimada, en forma de combats de naturalesa còmica que no provoquen ferides de cap mena; en una escena, un home rep una puntada de peu als genitals. Hi ha freqüent llenguatge violent, amb al·lusions a lluitar fins a la mort per assolir un objectiu. Hi ha llenguatge groller ocasional, com 'merder' o 'burro'. Una persona fuma a la seqüència d'introducció, i s'al·ludeix al vi."
   },
   {
     "titol": "One Piece: Estampida",
