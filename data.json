@@ -3110,6 +3110,13 @@
     "mesinfo": "<b>Violència</b><br>En una seqüència còmica, prèvia als credits, es diu que un home, si no hagués estat per influència de tercers, 's'hauria tirat daltabaix d'un punt'. Un noi que s'hi hauria d'haver tirat.<br><br><b>Sexe</b><br>Es diu que uns nois van ballar amb 'ties bones'.<br><br><b>Llenguatge groller</b><br>Es diu 'merder' i 'babau'.<br><br><b>Conductes i valors incívics</b><br>Es diu que un noi suborna a un altre perquè es presenti a unes eleccions. El protagonista descobreix que el fet d'eximir-se de les seves responsabilitats i evitar presentar-se en unes eleccions per tenir més temps lliure el converteix, en el futur, en un addicte a la televisió i a l'escola, en una dictadura.<br><br>Hi ha situacions ocasionals de por o angoixa lleu."
   },
   {
+    "titol": "Expedient Zack 1x04",
+    "codi": "6228727",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Por i angoixa</b><br>Hi ha freqüents al·lusions a la mort, quan es creu que hi ha un assassí rondant que vol matar nens. En una escena, un home sospitós s'apropa cap als nois i sembla voler confessar, però acaba sent un malentès. En una altra, un noi entra en un despatx on hi troba un xerrac, i una dona li diu que serveix per obrir ossos del cos, però resulta que només és forense. Un noi sent un soroll exordador i cau a terra. Hi ha situacions de suspens.<br><br><b>Llenguatge groller</b><br>Es fan servir expressions com 'merda'.<br><br>Els protagonistes utilitzen mètodes inversemblants per espiar un rival, per revelar les trampes que fa o simplement per venjança. Un noi té una ràdio amagada en un llibre escolar i l'escolta a classe."
+  },
+  {
     "titol": "Flying Squirrels",
     "codi": "flying-squirrels",
     "edat": "7"
@@ -5640,6 +5647,19 @@
     "raons": "Frequent mild scary or distressing situations"
   },
   {
+    "titol": "La casa d'Anubis 1x57",
+    "codi": "4901071",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "<b>Por i angoixa</b><br>Hi ha situacions de suspens i un home amenaça un noi. En tocar unes relíquies, es desencadena un terratrèmol a la casa. Una noia té un malson on parla amb el fantasma d'una dona gran morta.<br><br><b>Llenguatge groller</b><br>Es diu 'idiota' un cop.<br><br><b>Conductes i valors incívics</b><br>Un noi humilia una noia davant de tothom. Un noi regira les pertinences dels seus amics, però se n'adonen al moment."
+  },
+  {
+    "titol": "La casa d'Anubis 1x57 VO",
+    "codi": "4901072",
+    "edat": "7",
+    "raons": "Frequent mild scary or distressing situations<br>Occasional mild coarse language<br>Antisocial behaviour presented in a negative light"
+  },
+  {
     "titol": "La colla de la selva al rescat!",
     "codi": "colla-selva-rescat",
     "edat": "7"
@@ -7256,11 +7276,18 @@
     "edat": "13"
   },
   {
-    "titol": "One Piece 1x01",
+    "titol": "One Piece 1",
     "codi": "6228193",
     "edat": "10",
     "raons": "Expressions discriminatòries amb sanció neutra",
     "mesinfo": "<b>Discriminació, racisme i xenofòbia</b><br>Els protagonistes insulten una pirata malvada pel seu físic. Un noi és anomenat 'quatre ulls'.<br><br>Hi ha freqüent violència irreal, no explícita, d'intensitat molt lleu i legitimada, en forma de combats de naturalesa còmica que no provoquen ferides de cap mena; en una escena, un home rep una puntada de peu als genitals. Hi ha freqüent llenguatge violent, amb al·lusions a lluitar fins a la mort per assolir un objectiu. Hi ha llenguatge groller ocasional, com 'merder' o 'burro'. Una persona fuma a la seqüència d'introducció, i s'al·ludeix al vi."
+  },
+  {
+    "titol": "One Piece 2",
+    "codi": "6228194",
+    "edat": "7",
+    "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa freqüent d'afectació lleu<br>Consum de drogues lícites (tabac, alcohol), presentat de manera negativa",
+    "mesinfo": "<b>Violència</b><br>En un context irreal, hi ha freqüents al·lusions a la mort, en forma d'amenaces com demanar matar o executar algú però que no es compleixen. Una seqüència mostra una silueta caient desplomada després d'un atac no explícit. Un llop intenta atacar una nena i llencen una cadira contra l'animal per estabornir-lo. Un home pega a un malvat i brandeix un sabre que col·loca al costat seu. Un noi pega un malvat, mentre el seu amic intenta aturar-lo. Un malvat pega al seu fill i a un dels seus ajudants. Uns malvats apunten contra un home amb pistoles, però un noi s'hi col·loca a davant i rebota totes les bales. La intensitat d'aquestes escenes és molt baixa i a vegades té naturalesa còmica.<br><br><b>Por i angoixa</b><br>Hi ha situacions en què persones són amenaçades o terroritzades pels malvats en un poble; vegeu 'Violència'.<br><br><b>Drogues</b><br>Un malvat demana vi i cervesa en un bar i un altre malvat fuma un cigar.<br><br>Es fan servir expressions com 'fill estúpid'."
   },
   {
     "titol": "One Piece: Estampida",
