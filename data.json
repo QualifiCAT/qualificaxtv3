@@ -7290,18 +7290,32 @@
     "edat": "13"
   },
   {
-    "titol": "One Piece 1",
+    "titol": "One Piece 1x01",
     "codi": "6228193",
     "edat": "10",
     "raons": "Expressions discriminatòries amb sanció neutra",
     "mesinfo": "<b>Discriminació, racisme i xenofòbia</b><br>Els protagonistes insulten una pirata malvada pel seu físic. Un noi és anomenat 'quatre ulls'.<br><br>Hi ha freqüent violència irreal, no explícita, d'intensitat molt lleu i legitimada, en forma de combats de naturalesa còmica que no provoquen ferides de cap mena; en una escena, un home rep una puntada de peu als genitals. Hi ha freqüent llenguatge violent, amb al·lusions a lluitar fins a la mort per assolir un objectiu. Hi ha llenguatge groller ocasional, com 'merder' o 'burro'. Una persona fuma a la seqüència d'introducció, i s'al·ludeix al vi."
   },
   {
-    "titol": "One Piece 2",
+    "titol": "One Piece 1x02",
     "codi": "6228194",
     "edat": "7",
     "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa freqüent d'afectació lleu<br>Consum de drogues lícites (tabac, alcohol), presentat de manera negativa",
     "mesinfo": "<b>Violència</b><br>En un context irreal, hi ha freqüents al·lusions a la mort, en forma d'amenaces com demanar matar o executar algú però que no es compleixen. Una seqüència mostra una silueta caient desplomada després d'un atac no explícit. Un llop intenta atacar una nena i llencen una cadira contra l'animal per estabornir-lo. Un home pega a un malvat i brandeix un sabre que col·loca al costat seu. Un noi pega un malvat, mentre el seu amic intenta aturar-lo. Un malvat pega al seu fill i a un dels seus ajudants. Uns malvats apunten contra un home amb pistoles, però un noi s'hi col·loca a davant i rebota totes les bales. La intensitat d'aquestes escenes és molt baixa i a vegades té naturalesa còmica.<br><br><b>Por i angoixa</b><br>Hi ha situacions en què persones són amenaçades o terroritzades pels malvats en un poble; vegeu 'Violència'.<br><br><b>Drogues</b><br>Un malvat demana vi i cervesa en un bar i un altre malvat fuma un cigar.<br><br>Es fan servir expressions com 'fill estúpid'."
+  },
+  {
+    "titol": "One Piece 1x03",
+    "codi": "6228199",
+    "edat": "10",
+    "raons": "Violència freqüent, irreal, explícita, d'intensitat lleu, legitimada<br>Llenguatge groller ocasional d'intensitat alta",
+    "mesinfo": "<b>Violència</b><br>Hi ha baralles on es donen cops de peu i cops de puny a la cara. Un home diu que es farà el harakiri si no assoleix el seu objectiu. Un home encoratja als seus ajudants a disparar-se un tret al cap si fallen en una missió. Es fan amenaces de mort. Un home apunta contra el cap d'un nen amb una pistola; aquest home acaba quedant estabornit amb sang al nas. Un malvat cau mort després d'un atac per sorpresa dels dos protagonistes.<br><br><b>Llenguatge groller</b><br>Es diu 'malparit' en una situació especialment tensa. També es diuen 'merda', 'burro' o 'fotre'.<br><br>Es fa un comentari despectiu sobre el físic d'una persona. Hi ha imatges de consum de tabac en la seqüència introductòria del següent episodi i a l'opening."
+  },
+  {
+    "titol": "One Piece 1x04",
+    "codi": "6228197",
+    "edat": "13",
+    "raons": "Consum de drogues lícites (alcohol), presentat de manera neutra",
+    "mesinfo": "<b>Drogues</b><br>En un bar, els pirates consumeixen cervesa, i s'enriuen d'un nen que 'encara' beu suc. Uns bandits entren al bar i demanen totes les existències d'alcohol. No es fa cap comentari crític amb el seu consum tret de retreure als bandits de 'malgastar' l'alcohol. Un home fuma.<br><br>Hi ha llenguatge groller freqüent ('porca', 'merda', 'burro'). Hi ha violència irreal freqüent, sense presència de sang; un bo mata un dolent disparant-lo al cap, i un bo perd el braç per una queixalada d'un monstre marí. Hi ha situacions de tensió quan uns homes són amenaçats de mort o quan llencen un nen a mar obert i no pot nedar."
   },
   {
     "titol": "One Piece: Estampida",
