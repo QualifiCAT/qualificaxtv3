@@ -7324,6 +7324,34 @@
     "mesinfo": "<b>Drogues</b><br>En un bar, els pirates consumeixen cervesa, i s'enriuen d'un nen que 'encara' beu suc. Uns bandits entren al bar i demanen totes les existències d'alcohol. No es fa cap comentari crític amb el seu consum tret de retreure als bandits de 'malgastar' l'alcohol. Un home fuma.<br><br>Hi ha llenguatge groller freqüent ('porca', 'merda', 'burro'). Hi ha violència irreal freqüent, sense presència de sang; un bo mata un dolent disparant-lo al cap, i un bo perd el braç per una queixalada d'un monstre marí. Hi ha situacions de tensió quan uns homes són amenaçats de mort o quan llencen un nen a mar obert i no pot nedar."
   },
   {
+    "titol": "One Piece 1x05",
+    "codi": "6228195",
+    "edat": "10",
+    "raons": "Violència ocasional, irreal, explícita, d'intensitat greu, no legitimada<br>Llenguatge groller freqüent d'intensitat baixa",
+    "mesinfo": "<b>Violència</b><br>Un pirata dolent asfixia un dels seus ajudants amb els seus poders, sense tocar-lo. Un pirata clava una espasa a l'abdomen d'un home, i es veu una mica de sang. Hi ha altres situacions de baralles amb menys intensitat incloent cops de puny, xocs d'espases o l'ús d'un canó que arrasa edificis.<br><br><b>Llenguatge groller</b><br>Es fan servir expressions com 'merda' i 'burro' sovint.<br><br>Hi ha consum d'alcohol, a vegades abusant-ne, per part dels pirates dolents. Una noia apaga una metxa amb els dits. L'aparença d'un personatge al·ludeix a un estereotip racista."
+  },
+  {
+    "titol": "One Piece 1x06",
+    "codi": "6228196",
+    "edat": "10",
+    "raons": "Violència ocasional, irreal, explícita, d'intensitat greu, no legitimada<br>Consum de drogues lícites (tabac), presentat de manera neutra",
+    "mesinfo": "<b>Violència</b><br>Un pirata clava una espasa en l'abdomen d'un home; surt sang de la ferida, fins al punt que un efecte visual esquitxa tota la pantalla. Un lleó gegant ataca un gos, que surt disparat, i hi veiem sang. Un home té una ferida al braç. Es veu sang en la seqüència d'introducció del següent episodi. Hi ha altres escenes, com quan un lleó gegant envia un noi contra una casa i la fa explotar, quan un noi es venja i pega un dels dolents, i un intent d'asfíxia per part d'un malvat.<br><br><b>Drogues</b><br>Un home fuma una pipa en una escena.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa, com 'fotre'. Hi ha situacions dramàtiques en forma de retrospectives on es veu la relació que tenien un gos amb un home que va morir per una malaltia."
+  },
+  {
+    "titol": "One Piece 1x07",
+    "codi": "6228198",
+    "edat": "10",
+    "raons": "Violència ocasional, irreal, explícita, d'intensitat greu, no legitimada",
+    "mesinfo": "<b>Violència</b><br>Un home dona una puntada de peu a un home, justament a on té una ferida, i li hi clava una espasa, i li surt més sang. Ell s'hi torna fent-li, a l'altre, un tall a l'abdomen que li fa treure sang i desplomar-lo a terra. Un home perd un braç en una retrospectiva. Hi ha més escenes de batalles; en una, una espasa frega la galta d'un noi i li surt sang, però no li fa mal. També hi ha situacions de violència còmica molt lleu. Un dels personatges critica l'ús constant de la violència per part dels pirates.<br><br>Hi ha llenguatge groller ocasional ('merda', 'burro'). Per reduir un vigilant borratxo, una noia diu que li fa mal el pit, el que fa que l'home es fixi en el seu escot (s'hi fa un primer pla) per distreure'l i deixar-lo estabornit."
+  },
+  {
+    "titol": "One Piece 1x08",
+    "codi": "6228200",
+    "edat": "13",
+    "raons": "Consum de drogues lícites (alcohol), presentat de manera positiva",
+    "mesinfo": "<b>Drogues</b><br>Uns pirates, borratxos, celebren bebent alcohol.<br><br>Hi ha llenguatge groller freqüent d'intensitat baixa ('pebrots', 'imbècil', 'cagats', 'què fot', 'burro', 'merda'). Hi ha algunes imatges de sang arran d'atacs violents. Hi ha violència irreal, molt lleu, en forma de combats amb cops de puny, puntades de peu als genitals, cops contra la paret o intents d'ofegament de manera còmica."
+  },
+  {
     "titol": "One Piece: Estampida",
     "codi": "6210083",
     "edat": "13",
