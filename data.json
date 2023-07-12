@@ -5680,6 +5680,19 @@
     "raons": "Frequent mild scary or distressing situations<br>Occasional mild coarse language<br>Antisocial behaviour presented in a negative light"
   },
   {
+    "titol": "La casa d'Anubis 1x58",
+    "codi": "4901091",
+    "edat": "7",
+    "raons": "Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "<b>Conductes i valors incívics</b><br>Un noi roba un vestit que una noia havia comprat i el canvia per un vestit de nina, com a broma pesada. Un amic seu desfà l'intercanvi.<br><br>Hi ha situacions ocasionals de por o angoixa lleu."
+  },
+  {
+    "titol": "La casa d'Anubis 1x58 VO",
+    "codi": "4901075",
+    "edat": "7",
+    "raons": "Antisocial behaviour presented in a negative light"
+  },
+  {
     "titol": "La colla de la selva al rescat!",
     "codi": "colla-selva-rescat",
     "edat": "7"
@@ -7349,7 +7362,7 @@
     "codi": "6228200",
     "edat": "13",
     "raons": "Consum de drogues lícites (alcohol), presentat de manera positiva",
-    "mesinfo": "<b>Drogues</b><br>Uns pirates, borratxos, celebren bebent alcohol.<br><br>Hi ha llenguatge groller freqüent d'intensitat baixa ('pebrots', 'imbècil', 'cagats', 'què fot', 'burro', 'merda'). Hi ha algunes imatges de sang arran d'atacs violents. Hi ha violència irreal, molt lleu, en forma de combats amb cops de puny, puntades de peu als genitals, cops contra la paret o intents d'ofegament de manera còmica."
+    "mesinfo": "<b>Drogues</b><br>Uns pirates celebren bebent alcohol.<br><br>Hi ha llenguatge groller freqüent d'intensitat baixa ('pebrots', 'imbècil', 'cagats', 'què fot', 'burro', 'merda'). Hi ha algunes imatges de sang arran d'atacs violents. Hi ha violència irreal, molt lleu, en forma de combats amb cops de puny, puntades de peu als genitals, cops contra la paret o intents d'ofegament de manera còmica."
   },
   {
     "titol": "One Piece: Estampida",
