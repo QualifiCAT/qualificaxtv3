@@ -1,187 +1,11 @@
 [
   {
-    "titol": "Videoclip: Adiós Jawny",
-    "codi": "6184135",
-    "edat": "0"
-  },
-  {
-    "titol": "Videoclip: Beta Creu-me",
-    "codi": "6177853",
-    "edat": "0"
-  },
-  {
-    "titol": "Videoclip: Beta Full Festa",
-    "codi": "6218209",
-    "edat": "0"
-  },
-  {
-    "titol": "Videoclip: Beta Llimonada",
-    "codi": "6227475",
-    "edat": "0"
-  },
-  {
-    "titol": "Videoclip: Carlos Pacheco",
-    "codi": "6185950",
-    "edat": "0"
-  },
-  {
-    "titol": "Videoclip: Celestial Ed Sheeran",
-    "codi": "6179497",
-    "edat": "0"
-  },
-  {
-    "titol": "Videoclip: Cold Heart Eufòria",
-    "codi": "6188478",
-    "edat": "0"
-  },
-  {
-    "titol": "Videoclip: David Rinaldo acrobàcies",
-    "codi": "6184136",
-    "edat": "0"
-  },
-  {
-    "titol": "Videoclip: Deja vu Scorpio",
-    "codi": "6186777",
-    "edat": "7",
-    "raons": "Contingut sexual ocasional d'explicitació baixa"
-  },
-  {
-    "titol": "Videoclip: Electricitat",
-    "codi": "6191680",
-    "edat": "0"
-  },
-  {
-    "titol": "Videoclip: Egipcis",
-    "codi": "6184278",
-    "edat": "0"
-  },
-  {
-    "titol": "Videoclip: Et deixo la mà",
-    "codi": "6191682",
-    "edat": "0"
-  },
-  {
-    "titol": "Videoclip: I'm only sleeping Beatles",
-    "codi": "6188475",
-    "edat": "0"
-  },
-  {
-    "titol": "Videoclip: Insectes nocturns",
-    "codi": "6186776",
-    "edat": "0"
-  },
-  {
-    "titol": "Videoclip: Interlude Hollow coves",
-    "codi": "6188473",
-    "edat": "0"
-  },
-  {
-    "titol": "Videoclip: Jo ho intueixo Catarres",
-    "codi": "6188476",
-    "edat": "0"
-  },  
-  {
-    "titol": "Videoclip: La casa de Mr Doodle Sam Cox",
-    "codi": "6181403",
-    "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu"
-  },
-  {
-    "titol": "Videoclip: Lady low",
-    "codi": "6188477",
-    "edat": "0"
-  },
-  {
-    "titol": "Videoclip: La història comença aquí Siderland",
-    "codi": "6184139",
-    "edat": "0"
-  },
-  {
-    "titol": "Videoclip: La primavera Edu Esteve",
-    "codi": "6187383",
-    "edat": "0"
-  },
-  {
-    "titol": "Videoclip: Mai Joan Liaño",
-    "codi": "6181404",
-    "edat": "0"
-  },
-  {
-    "titol": "Videoclip: Opening Guardians de la nit",
-    "codi": "6179485",
-    "edat": "0",
-    "raons": "Por i angoixa ocasional d'afectació lleu"
-  },
-  {
-    "titol": "Videoclip: Opening Haikyu",
-    "codi": "6179092",
-    "edat": "0"
-  },
-  {
-    "titol": "Videoclip: Opening Inazuma Eleven",
-    "codi": "6179091",
-    "edat": "0"
-  },
-  {
-    "titol": "Videoclip: Opening Yu Yu Hakusho",
-    "codi": "6179409",
-    "edat": "0",
-    "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa ocasional d'afectació lleu"
-  },
-  {
-    "titol": "Videoclip: Opening Ronja",
-    "codi": "6190948",
-    "edat": "0"
-  },
-  {
-    "titol": "Videoclip: Opening 1 Black Clover",
-    "codi": "6195830",
-    "edat": "7",
-    "raons": "Contingut sexual (cosificació) ocasional d'explicitació baixa"
-  },
-  {
-    "titol": "Videoclip: Opening Sakura",
-    "codi": "6195832",
-    "edat": "0"
-  },
-  {
-    "titol": "Videoclip: Pel cor",
-    "codi": "6191681",
-    "edat": "0"
-  },
-  {
-    "titol": "Videoclip: Road trip Triquell",
-    "codi": "6184138",
-    "edat": "7",
-    "raons": "Llenguatge groller ocasional d'intensitat baixa"
-  },
-  {
-    "titol": "Videoclip: Stop desnonaments Xiula",
-    "codi": "6179491",
-    "edat": "0",
-    "raons": "Por i angoixa ocasional d'afectació lleu"
-  },
-  {
-    "titol": "Videoclip: The children's revolution Muchoyó",
-    "codi": "6179490",
-    "edat": "0",
-    "raons": "Por i angoixa ocasional d'afectació lleu"
-  },
-  {
-    "titol": "Videoclip: Que pasa nen Alizzz",
-    "codi": "6179495",
-    "edat": "7",
-    "raons": "Llenguatge groller ocasional d'intensitat baixa"
-  },
-  {
-    "titol": "Videoclip: Walk like an egyptian The bangles",
-    "codi": "6184137",
-    "edat": "0"
-  },
-  {
     "titol": "Agència galàctica",
     "codi": "agencia-galactica",
-    "edat": "0"
+    "edat": "0",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Agència galàctica 1",
@@ -254,28 +78,31 @@
   {
     "titol": "Al mar!",
     "codi": "al-mar",
-    "edat": "0"
+    "edat": "0",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
-    "titol": "Al mar! Vela RS a Blanes",
+    "titol": "Al mar! 1x01",
     "codi": "6223713",
     "edat": "0",
     "mesinfo": "Se sent música de tensió quan s'ensenyen imatges de taurons o comença a ploure."
   },
   {
-    "titol": "Al mar! Surf a la Pineda, Vila-seca",
+    "titol": "Al mar! 1x02",
     "codi": "6223972",
     "edat": "0",
     "mesinfo": "Un home diu que dedica les seves acrobàcies a una persona que és 'al cel'."
   },
   {
-    "titol": "Al mar! Windsurf IQFoil a Salou",
+    "titol": "Al mar! 1x03",
     "codi": "6226323",
     "edat": "0",
     "mesinfo": "Hi ha una escena en què una noia cau d'una planxa i sembla que cridi 'hòstia', però el crit és ocultat pel fet d'estar gravant des de l'aigua."
   },
   {
-    "titol": "Al mar! Optimist a Cambrils",
+    "titol": "Al mar! 1x04",
     "codi": "6227906",
     "edat": "0"
   },
@@ -283,81 +110,85 @@
     "titol": "Animals united",
     "codi": "6087135",
     "edat": "7",
+    "orig": "TP",
+    "peli": true,
+    "x3": true,
     "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada<br>Llenguatge groller freqüent d'intensitat baixa<br>Consum de drogues lícites (alcohol) presentat negativament<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Artús i els vailets de la Taula Rodona",
     "codi": "artus-vailets-taula-rodona",
-    "edat": "7"
+    "edat": "7",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
-    "titol": "Artús i els vailets de la Taula Rodona (alt)",
-    "codi": "59316",
-    "edat": "7"
-  },
-  {
-    "titol": "Artús 2x01",
+    "titol": "Artús i els vailets de la Taula Rodona 2x01",
     "codi": "6211288",
     "edat": "7",
     "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, legitimada"
   },
   {
-    "titol": "Artús 2x02",
+    "titol": "Artús i els vailets de la Taula Rodona 2x02",
     "codi": "6211289",
     "edat": "7",
     "raons": "Llenguatge groller ocasional d'intensitat baixa"
   },
   {
-    "titol": "Artús 2x03",
+    "titol": "Artús i els vailets de la Taula Rodona 2x03",
     "codi": "6211287",
     "edat": "0",
     "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa ocasional d'afectació lleu"
   },
   {
-    "titol": "Artús 2x04",
+    "titol": "Artús i els vailets de la Taula Rodona 2x04",
     "codi": "6211290",
     "edat": "0",
     "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa ocasional d'afectació lleu<br>Conductes i valors incívics amb sanció negativa"
   },
   {
-    "titol": "Artús 2x05",
+    "titol": "Artús i els vailets de la Taula Rodona 2x05",
     "codi": "6211291",
     "edat": "0",
     "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa ocasional d'afectació lleu<br>Conductes i valors incívics amb sanció negativa"
   },
   {
-    "titol": "Artús 2x06",
+    "titol": "Artús i els vailets de la Taula Rodona 2x06",
     "codi": "6211408",
     "edat": "7",
     "raons": "Llenguatge groller ocasional d'intensitat baixa"
   },
   {
-    "titol": "Artús 2x07",
+    "titol": "Artús i els vailets de la Taula Rodona 2x07",
     "codi": "6211412",
     "edat": "7",
     "raons": "Llenguatge groller ocasional d'intensitat baixa"
   },
   {
-    "titol": "Asterix residència déus",
+    "titol": "Astèrix: La residència dels déus",
     "codi": "6194455",
     "edat": "7",
+    "orig": "TP",
+    "peli": true,
+    "x3": true,
     "raons": "Violència reiterada, irreal, explícita, d'intensitat molt lleu, legitimada<br>Contingut sexual ocasional d'explicitació baixa<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
-    "titol": "Bestial",
+    "titol": "Bestial!",
     "codi": "bestial",
-    "edat": "0"
+    "edat": "0",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Beta",
     "codi": "beta",
-    "edat": "10"
-  },
-  {
-    "titol": "Betapodcast 11",
-    "codi": "6182840",
-    "edat": "7",
-    "raons": "Llenguatge groller ocasional d'intensitat baixa"
+    "edat": "10",
+    "orig": "ERI",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Beta 1x01",
@@ -553,7 +384,10 @@
   {
     "titol": "Black Clover",
     "codi": "black-clover",
-    "edat": "13"
+    "edat": "13",
+    "orig": "12",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Black Clover 1",
@@ -877,15 +711,21 @@
     "mesinfo": "<b>Violència</b><br>Es repeteix una escena d'episodis anteriors en què un monstre sagna profundament d'un tall vertical al cap. Es veuen ocasionalment imatges de cadàvers estesos a terra, a vegades sobre un bassal de sang. Hi ha més escenes de violència irreal, molt menys intenses, en què uns dolents ataquen una ciutat.<br><br><b>Drogues</b><br>Un home no para de fumar en tot l'episodi. Una dona diu que 'fer una copeta o buidar una ampolla' és 'relaxant'.<br><br>Un noi està obsessionat amb lligar amb noies, i una noia no para de menjar. Hi ha llenguatge groller ocasional d'intensitat baixa, com 'foteses' o 'fotimer', o quan s'insulta un home per la seva aparença."
   },
   {
-    "titol": "Blinky Bill el coala",
+    "titol": "Blinky Bill, el coala",
     "codi": "5806569",
     "edat": "7",
+    "orig": "TP",
+    "peli": true,
+    "x3": true,
     "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Bola de drac Super: Broly",
     "codi": "6210525",
     "edat": "10",
+    "orig": "7",
+    "peli": true,
+    "x3": true,
     "raons": "Violència freqüent, irreal, explícita, d'intensitat lleu, legitimada<br>Conductes i valors incívics amb sanció neutra",
     "mesinfo": "<b>Violència</b><br>Mitja pel·lícula és un prolongat combat cos a cos amb cops de puny, cops de cap, trets d'atacs d'energia, intents d'ofegament, explosions, etc., destrossant muntanyes o el terra. No es veu mai sang ni ferides greus; com a molt, s'escup saliva després d'un impacte fort. En una escena, un home mor un altre amb una pistola làser, i en una altra, un home mor després que un atac amb el dit li perfori el pit. Hi ha moments on es dona a entendre que un dolent ha comès un genocidi. Un home dispara contra una criatura, mutilant-li l'orella. Hi ha una escena d'assetjament sexual en què un home ebri s'apropa a una dona i li ofereix de passar-ho bé; un home es baralla amb ell per defensar-la, però és electrocutat abans no pugui fer més mal a l'assetjador.<br><br><b>Conductes i valors incívics</b><br>Es fa un comentari de culte al cos en què una dona diu que el seu somni és tenir cinc anys menys. En una altra escena, una noia roba i trenca un objecte per tal d'alliberar el seu amic del seu pare.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa, com 'merda', 'desgraciat' o 'imbècil'. Hi ha consum d'alcohol implícit, presentat negativament."
   },
@@ -893,23 +733,27 @@
     "titol": "Bola de drac Z: La resurrecció de F",
     "codi": "6210524",
     "edat": "10",
+    "orig": "7",
+    "peli": true,
+    "x3": true,
     "raons": "Violència freqüent, irreal, explícita, d'intensitat lleu, legitimada",
     "mesinfo": "<b>Violència</b><br>Hi ha combats cos a cos, prolongats en el temps, amb cops de tot tipus i pertot arreu, arts marcials, atacs d'energia, foc i explosions, sortint volant i destrossant-ho tot. Hi ha una escena que podria considerar-se d'intensitat greu, en què disparen al pit d'un home amb una pistola de rajos, fent-lo escopir sang, i el malvat el tortura donant-li cops contínuament. És l'únic moment en què s'intueixen ferides greus o es veu sang, a part de rascades i d'un petit tall enmig d'un combat. També, el dolent dispara contra un home dels seus, matant-lo, i un altre surt violentament per la finestra. Un policia pega uns atracadors de bancs.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa, com 'merda', 'malparit' o 'escòria'. Hi ha una escena en què s'insinua el consum d'alcohol, tot i que no queda clar que ho sigui."
   },
   {
     "titol": "Bricociència",
     "codi": "bricociencia",
-    "edat": "0"
+    "edat": "0",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Busca'm a París",
     "codi": "buscam-paris",
-    "edat": "10"
-  },
-  {
-    "titol": "Busca'm a París (alt)",
-    "codi": "66336",
-    "edat": "10"
+    "edat": "10",
+    "orig": "7 (prèviament: 10)",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Busca'm a París 1x01",
@@ -1096,18 +940,27 @@
     "titol": "Buscant la màgica Doremi",
     "codi": "6193457",
     "edat": "13",
+    "orig": "TP",
+    "peli": true,
+    "x3": true,
     "raons": "Consum de drogues lícites (alcohol) presentat de forma neutra"
   },
   {
     "titol": "Club Winx aventura màgica",
     "codi": "5817761",
     "edat": "7",
+    "orig": "TP",
+    "peli": true,
+    "x3": true,
     "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, legitimada<br>Por i angoixa freqüent d'afectació lleu<br>(Nota: Inclou reiteradament estereotips de gènere que poden ser problemàtics.)"
   },
   {
     "titol": "D'aventura castigats",
     "codi": "daventura-castigats",
-    "edat": "10"
+    "edat": "10",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "D'aventura castigats 1x09",
@@ -1250,28 +1103,43 @@
     "titol": "Digimon Adventure: L'última evolució Kizuna",
     "codi": "6211646",
     "edat": "10",
+    "orig": "7",
+    "peli": true,
+    "x3": true,
     "raons": "Violència freqüent, irreal, explícita, d'intensitat lleu, legitimada<br>Por i angoixa freqüent d'afectació mitjana<br>Consum de drogues lícites (alcohol), presentades de manera neutra",
     "mesinfo": "<b>Violència</b><br>Hi ha escenes en què criatures fantàstiques lluiten entre si amb atacs d'energia, fletxes, cops, tirotejos amb armes fictícies i explosions. Algunes batalles tenen lloc en ciutats, i comporten la destrucció d'edificis o cotxes. En una escena, un noi surt disparat i se'l veu amb força sang a la cara.<br><br><b>Por i angoixa</b><br>Gran part de l'argument succeeix en un món ominós creat a conveniència d'una persona emocionalment afectada, que vol retenir els nens i les seves mascotes en un lloc perquè puguin viure per sempre, sense envellir i sense separar-se, però sense ànima i obeint-la a ella. Quan els herois intenten aturar-la, mitjançant la violència, els nens volen detenir-los, inexpressius i amb els ulls vermells, mentre sona una música molt dramàtica. La resolució és emotiva en tant que la temàtica principal gira entorn de deixar enrere la infància i éssers estimats. Hi ha altres situacions que poden angoixar, com unes imatges breus de gent que ha perdut el coneixement, de gent segrestada lligada a unes cadires, o presenciar atemorits com un home té una pistola real.<br><br><b>Drogues</b><br>Dos universitaris beuen una birra cadascun en un bar. Es veuen cerveses i vins en altres poques escenes, però no es consumeixen.<br><br>Hi ha una referència sexual d'explicitació baixa en una escena en què es troben unes fotografies de noies que el protagonista, avergonyit, diu que són 'coses de grans'."
   },
   {
     "titol": "Dinàmiks",
     "codi": "dinamiks",
-    "edat": "0"
+    "edat": "0",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Dr. W",
     "codi": "dr-w",
-    "edat": "0"
+    "edat": "0",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
-    "titol": "Dracs",
+    "titol": "Dracs: cap a nous horitzons",
     "codi": "dracs-nous-horitzons",
-    "edat": "7"
+    "edat": "7",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
-    "titol": "Dracs defensors illa fred",
+    "titol": "Dracs: els defensors de l'illa del fred",
     "codi": "dracs-defensors-illa-fred",
-    "edat": "7"
+    "edat": "7",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Dracs: El regal de la fúria nocturna títol",
@@ -1282,12 +1150,18 @@
     "titol": "Dracs: El regal de la fúria nocturna",
     "codi": "6202323",
     "edat": "7",
+    "orig": "TP",
+    "peli": true,
+    "x3": true,
     "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Dracs: Els nou regnes",
     "codi": "dracs-nou-regnes",
-    "edat": "7"
+    "edat": "7",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Dracs: Els nou regnes 1x01",
@@ -1474,17 +1348,26 @@
   {
     "titol": "Dracs genets illa fred",
     "codi": "dracs-genets-illa-fred",
-    "edat": "7"
+    "edat": "7",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Efecte wow",
     "codi": "efectewow",
-    "edat": "7"
+    "edat": "7",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "El 422",
     "codi": "422",
-    "edat": "10"
+    "edat": "10",
+    "orig": "7",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "El 422 1x01",
@@ -1639,7 +1522,10 @@
   {
     "titol": "El carrer Scream",
     "codi": "carrer-scream",
-    "edat": "7"
+    "edat": "7",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "El carrer Scream 1",
@@ -1656,7 +1542,10 @@
   {
     "titol": "El detectiu Conan",
     "codi": "detectiu-conan",
-    "edat": "13"
+    "edat": "13",
+    "orig": "7 (prèviament: 13)",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "El detectiu Conan 909",
@@ -1692,6 +1581,9 @@
     "titol": "El detectiu Conan: Història d'amor a la comissaria",
     "codi": "6211303",
     "edat": "13",
+    "orig": "12",
+    "peli": true,
+    "x3": true,
     "raons": "Violència freqüent, versemblant, no explícita, d'intensitat lleu, no legitimada<br>Consum de drogues lícites, presentades de manera neutra",
     "mesinfo": "<b>Violència</b><br>Dues persones són assassinades per l'impacte d'explosions. Ocasionalment, es veuen imatges de persones malferides o mortes, tacades de sang negra. Es fan freqüents al·lusions al suïcidi, i es poden veure vagament els cossos de tres persones penjades al sostre, i una altra que mor en beure verí barrejat amb alcohol davant de la policia. Hi ha moments en què la policia s'encara amb els delinqüents, per reduir-los o amenaçar-los de disparar, i situacions de segrestos. En una d'elles, un home li diu a una dona que es casarà amb ella i li farà un petó si no la venen a buscar. En una altra, un home pega un altre amb un bat de beisbol i li dispara amb una pistola, però sobreviu perquè la bala no li ha impactat al cos. Gran part de la pel·lícula mostra com s'intenta salvar un policia amb perill de morir deshidratat, per l'impacte d'una explosió o per asfíxia, ja que està immobilitzat per les extremitats i el coll i es troba a metres de distància del terra i sobre una superfície fràgil. Un home dona una bufetada a una dona per fer-li entrar en raó.<br><br><b>Drogues</b><br>Dos policies són fumadors. Un d'ells, en veure un senyal de prohibit fumar, diu, com si s'adrecés a l'audiència, que 'feu veure que no ho veieu, avui'. Hi ha consum ocasional d'alcohol i es fa referència a l'alcoholisme, presentat negativament. En una escena, es diu que una bossa conté droga d'uns traficants, però no s'identifica quina.<br><br>Hi ha situacions de por i angoixa freqüents amb afectació mitjana, per la tensió que poden generar les situacions i descripcions violentes. Hi ha llenguatge groller ocasional d'intensitat baixa, com 'merda', 'imbècil' o 'idiota'. Hi ha comentaris sexuals ocasionals d'explicitació baixa, com quan un home remarca que a una dona se li ha aixecat la faldilla, o es diu que un home 'seduïa' altres dones o que li agradaven 'massa'."
   },
@@ -1704,6 +1596,9 @@
     "titol": "El detectiu Conan La bala escarlata",
     "codi": "6190209",
     "edat": "13",
+    "orig": "7",
+    "peli": true,
+    "x3": true,
     "raons": "Violència ocasional, versemblant, explícita, d'intensitat greu, no legitimada<br>Abús de drogues lícites (alcohol), presentat neutralment"
   },
   {
@@ -1715,17 +1610,26 @@
     "titol": "El detectiu Conan The Scarlet Alibi",
     "codi": "6190210",
     "edat": "13",
+    "orig": "12",
+    "peli": true,
+    "x3": true,
     "raons": "Violència freqüent, versemblant, explícita, d'intensitat greu, no legitimada"
   },
   {
     "titol": "El llibre de la selva",
     "codi": "llibre-selva",
-    "edat": "7"
+    "edat": "7",
+    "orig": "Tots els públics (prèviament: 7)",
+    "serie": true,
+    "x3": true
   },
   {
-    "titol": "El llibre de la selva xafarranxo",
+    "titol": "El llibre de la selva: Xafarranxo a la selva",
     "codi": "3886430",
     "edat": "7",
+    "orig": "TP",
+    "peli": true,
+    "x3": true,
     "raons": "Violència ocasional, irreal, explícita, d'intensitat molt lleu, legitimada<br>Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa"
   },
   {
@@ -1737,19 +1641,28 @@
     "titol": "El manual dels dracs",
     "codi": "6087816",
     "edat": "7",
+    "orig": "TP",
+    "peli": true,
+    "x3": true,
     "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, legitimada<br>Por i angoixa freqüent d'afectació lleu"
   },
   {
     "titol": "El meu gos és un detectiu",
     "codi": "6209979",
     "edat": "10",
+    "orig": "7",
+    "peli": true,
+    "x3": true,
     "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, legitimada<br>Conductes i valors incívics amb sanció neutra",
     "mesinfo": "<b>Violència</b><br>Uns homes tenen armes, però no les fan servir. Una dona li dona una puntada de peu a l'entrecuix d'un home. La dona li llença una bossa a un home, abans que ell la tanqui amb clau en una habitació. Un nen dispara un dard de joguina a un home, fent-lo caure. Un gos fa caure un home a terra. Una noia pega l'entrecuix d'un home amb un martell. Un home llença un plat sobre el cap d'un home qui, en despertar-se, es posa el coll a lloc. Un home amenaça una nena i ella respon donant-li una puntada de peu. Les escenes de violència tenen molt poca intensitat, i tenen naturalesa còmica, però es presenten en positiu, ja que qui la provoquen són els protagonistes, bons, contra els dolents, mentre es feliciten pel que han fet.<br><br><b>Conductes i valors incívics</b><br>Els gossos mascles fan constantment comentaris sobre el físic d'altres personatges femenins o per poder cridar la seva atenció ('és una dona molt atractiva', 'ella és molt guapa', 't'has de fer les ungles', '(la nena) es fa la dura, m'agrada', 'veig que has tornat, preciosa', 'la Cleo és un bombonet', etc.). Els nens protagonistes es colen d'amagat a la casa dels dolents, cosa que no rep cap càstig al final de la història ja que, gràcies als seus actes, resolen el cas i acaben amb els malfactors. L'antagonista té corromput un agent de policia i tracta amb menyspreu la gent del seu entorn, com quan suposa infundadament que alguns d'ells tenen 'problemes mentals'.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa, com 'merder'. La mort passada de la mare del protagonista menor d'edat i com ho viuen ell i el seu pare és un tema recurrent, però es presenta amb delicadesa."
   },
   {
     "titol": "El millor en tot",
     "codi": "millor-en-tot",
-    "edat": "7"
+    "edat": "7",
+    "orig": "TP",
+    "peli": true,
+    "x3": true
   },
   {
     "titol": "El millor en tot 1x01",
@@ -1859,44 +1772,68 @@
   {
     "titol": "El món d'en Beakman",
     "codi": "mon-beakman",
-    "edat": "0"
+    "edat": "0",
+    "orig": "7 (prèviament: 10)",
+    "serie": true,
+    "x3": true
   },
   {
-    "titol": "El món prodigiós Xangai",
+    "titol": "El món prodigiós: Xangai, la llegenda de Ladydragon",
     "codi": "6129416",
     "edat": "0",
+    "orig": "TP",
+    "peli": true,
+    "x3": true,
     "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa ocasional d'afectació lleu"
   },
   {
-    "titol": "Els 3 de sota contes d'Arcàdia",
+    "titol": "Els 3 de sota: Contes d'Arcàdia",
     "codi": "3-sota-contes-arcadia",
-    "edat": "10"
+    "edat": "10",
+    "orig": "7",
+    "serie": "true",
+    "x3": true
   },
   {
     "titol": "Els Dalton",
     "codi": "dalton",
-    "edat": "7"
+    "edat": "7",
+    "orig": "TP (prèviament: 7)",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Els extraordinaris",
     "codi": "els-extraordinaris",
-    "edat": "0"
+    "edat": "0",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Els germans Kratt",
     "codi": "germans-kratt",
-    "edat": "0"
+    "edat": "0",
+    "orig": "TP (prèviament: 7)",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Els investigadors i el tresor de les profunditats marines",
     "codi": "6194917",
     "edat": "10",
+    "orig": "TP",
+    "peli": true,
+    "x3": true,
     "raons": "Llenguatge groller freqüent d'intensitat baixa<br>Conductes i valors incívics amb sanció neutra (activitats perilloses, manca de respecte mutu)"
   },
   {
     "titol": "Els Mini Ninges",
     "codi": "mini-ninges",
-    "edat": "7"
+    "edat": "7",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Els Mini Ninges 1",
@@ -2021,22 +1958,35 @@
   {
     "titol": "Els pingüins de Madagascar",
     "codi": "pinguins-madagascar",
-    "edat": "7"
+    "edat": "7",
+    "orig": "TP (prèviament: 7)",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "El xai Shaun",
     "codi": "xai-shaun",
-    "edat": "0"
+    "edat": "0",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "En Grizzy i els Lèmmings",
     "codi": "grizzy-i-els-lemmings",
-    "edat": "0"
+    "edat": "0",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Eufòria",
     "codi": "euforia",
-    "edat": "10"
+    "edat": "10",
+    "orig": "TP",
+    "serie": true,
+    "x3": true,
+    "tv3": true
   },
   {
     "titol": "Eufòria el càsting final coneixem els concursants",
@@ -2950,7 +2900,11 @@
   {
     "titol": "Eufòria dance",
     "codi": "euforia-dance",
-    "edat": "10"
+    "edat": "10",
+    "orig": "TP",
+    "serie": true,
+    "x3": true,
+    "tv3": true
   },
   {
     "titol": "Eufòria dance càsting",
@@ -3086,7 +3040,10 @@
   {
     "titol": "Expedient Zack",
     "codi": "expedient-zack",
-    "edat": "7"
+    "edat": "7",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Expedient Zack 1x01",
@@ -3133,12 +3090,18 @@
   {
     "titol": "Flying Squirrels",
     "codi": "flying-squirrels",
-    "edat": "7"
+    "edat": "7",
+    "orig": "7",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Fora de control",
     "codi": "fora-control",
-    "edat": "10"
+    "edat": "10",
+    "orig": "7",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Fora de control 1",
@@ -3233,17 +3196,26 @@
   {
     "titol": "George de la jungla",
     "codi": "george-jungla",
-    "edat": "7"
+    "edat": "7",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Ghostforce",
     "codi": "ghostforce",
-    "edat": "7"
+    "edat": "7",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Gos pudent",
     "codi": "gos-pudent",
-    "edat": "0"
+    "edat": "0",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Gos pudent 1",
@@ -3258,7 +3230,10 @@
   {
     "titol": "Guardians de la nit",
     "codi": "guardians-nit-kimetsu",
-    "edat": "13"
+    "edat": "13",
+    "orig": "13 (prèviament: 12)",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Guardians de la nit 1x01",
@@ -3378,12 +3353,18 @@
     "titol": "Guardians de la nit Tren infinit",
     "codi": "6193236",
     "edat": "13",
+    "orig": "16",
+    "peli": true,
+    "x3": true,
     "raons": "Violència freqüent, irreal, molt explícita, d'intensitat greu, legitimada<br>Por i angoixa freqüent d'afectació alta"
   },
   {
     "titol": "Haikyu",
     "codi": "haikyu",
-    "edat": "10"
+    "edat": "10",
+    "orig": "12",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Haikyu 2x15",
@@ -3691,7 +3672,10 @@
   {
     "titol": "Herois amb cua",
     "codi": "herois-amb-cua",
-    "edat": "10"
+    "edat": "10",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Herois amb cua 1",
@@ -3787,7 +3771,10 @@
   {
     "titol": "Hoodie",
     "codi": "hoddie",
-    "edat": "10"
+    "edat": "10",
+    "orig": "10",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Hoodie 1x01",
@@ -4727,17 +4714,26 @@
   {
     "titol": "Ideafix",
     "codi": "ideafix-irreductibles",
-    "edat": "7"
+    "edat": "7",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Inazuma Eleven",
     "codi": "inazuma-eleven",
-    "edat": "7"
+    "edat": "7",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Inazuma Eleven Go",
     "codi": "inazuma-eleven-go",
-    "edat": "7"
+    "edat": "7",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Inazuma Eleven Go 1",
@@ -4756,7 +4752,10 @@
   {
     "titol": "Influenx3r",
     "codi": "influenx3r",
-    "edat": "7"
+    "edat": "7",
+    "orig": "ERI",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Influenx3r 0",
@@ -4830,12 +4829,18 @@
   {
     "titol": "InfoK",
     "codi": "infok",
-    "edat": "0"
+    "edat": "0",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Inuyasha",
     "codi": "inuyasha",
-    "edat": "13"
+    "edat": "13",
+    "orig": "13",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Inuyasha (alt)",
@@ -4845,7 +4850,10 @@
   {
     "titol": "Itch",
     "codi": "itch",
-    "edat": "10"
+    "edat": "10",
+    "orig": "7",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Itch 1x10",
@@ -4916,27 +4924,42 @@
   {
     "titol": "Invizimals",
     "codi": "invizimals",
-    "edat": "7"
+    "edat": "7",
+    "orig": "7",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Jo Elvis Riboldi",
     "codi": "jo-elvis-riboldi",
-    "edat": "0"
+    "edat": "0",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Kung Fu Panda: Les potes del destí",
     "codi": "kung-fu-panda-potes-desti",
-    "edat": "7"
+    "edat": "7",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Kung Fu Panda: llegendes increïbles",
     "codi": "kung-fu-panda-llegendes-increibles",
-    "edat": "7"
+    "edat": "7",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "La casa d'Anubis",
     "codi": "casa-anubis",
-    "edat": "10"
+    "edat": "10",
+    "orig": "7",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "La casa d'Anubis 1x01",
@@ -5695,7 +5718,10 @@
   {
     "titol": "La colla de la selva al rescat!",
     "codi": "colla-selva-rescat",
-    "edat": "7"
+    "edat": "7",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "La colla de la selva al rescat! (alt)",
@@ -5730,13 +5756,19 @@
     "titol": "La colla de la selva al rescat!: El retorn al gel",
     "codi": "6211640",
     "edat": "7",
+    "orig": "TP",
+    "peli": true,
+    "x3": true,
     "raons": "Violència reiterada, irreal, explícita, d'intensitat molt lleu, legitimada<br>Llenguatge groller ocasional d'intensitat baixa",
     "mesinfo": "<b>Violència</b><br>Uns dolents tenen amenaçat un poble i la missió dels herois és fer-los fora violentament. Es fa un ús pràcticament ininterromput de llenguatge violent ('us fotrà un mastegot', 'lluitarem cos a cos', 'm'ha trencat les costelles', 'qui s'ha mort', 'picar els dolents', 'els estomacarem', 'hauràs de passar per sobre del meu cadàver', 'revenja', 'esclaus'). Personatges es fan cops al cap, es bufetegen o juguen a ser mestres d'arts marcials. En una batalla campal on bons i dolents no paren de fer-se cops, un dels dolents envia l'heroi contra una superfície i el deixa estabornit; té intencions d'empalar-lo amb un ullal però el seu amic el salva: salta i li mossega l'ull al dolent.<br><br><b>Llenguatge groller</b><br>Es diu 'fotre' i 'idiotes'."
   },
   {
     "titol": "La colla del camp",
     "codi": "colla-camp",
-    "edat": "10"
+    "edat": "10",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "La colla del camp 1x01",
@@ -5768,12 +5800,18 @@
     "titol": "La llegenda del drac trencaossos",
     "codi": "6087810",
     "edat": "7",
+    "orig": "TP",
+    "peli": true,
+    "x3": true,
     "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, legitimada<br>Por i angoixa freqüent d'afectació lleu"
   },
   {
     "titol": "La mainadera ninja",
     "codi": "mainadera-ninja",
-    "edat": "10"
+    "edat": "10",
+    "orig": "7",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "La mainadera ninja 1x01",
@@ -5834,7 +5872,10 @@
   {
     "titol": "Lara i Kali",
     "codi": "lara-i-kali",
-    "edat": "10"
+    "edat": "10",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Lara i Kali (alt)",
@@ -5942,14 +5983,20 @@
     "mesinfo": "<b>Por i angoixa</b><br>Es mostren imatges reals d'aus devorant les seves preses, però són breus i sense enfocar-ho en detall. Es fa servir música de suspens en algunes escenes on res particularment preocupant passa. La protagonista cau i mostra a càmera les esgarrapades que té a la cama. Es diu que s'utilitzaven els dolmens per enterrar-hi persones."
   },
   {
-    "titol": "Lara què fem",
+    "titol": "Lara, què fem?",
     "codi": "lara-que-fem",
-    "edat": "10"
+    "edat": "10",
+    "orig": "10",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "La Ventafocs i el príncep secret",
     "codi": "6209977",
     "edat": "7",
+    "orig": "TP",
+    "peli": true,
+    "x3": true
     "raons": "Violència freqüent, irreal, explícita, d'intensitat lleu, no legitimada<br>Por i angoixa freqüent d'afectació lleu",
     "mesinfo": "<b>Violència</b><br>Unes dones intenten fer fora uns ratolins amb cops d'escombra o llençant-los gots de vidre, que no impacten mai contra ells. Una bruixa llença un encanteri contra la paret que la destrossa. Un home empenta una nena que vol aturar els seus plans. Dos homes, un de bo i un de dolent, es barallen amb espases, sense impactar al cos. Acaben a una teulada i el bo desarma al dolent, que eventualment aconsegueix fer-se amb un pal i empentar al bo, que gairebé cau d'una teulada. Ell intenta fer-lo caure trepitjant-li el peu però el bo aconsegueix fer caure el dolent fent-lo perdre l'equilibri, qui sembla sobreviure a la caiguda ja que el veiem arrossegar-se per terra. En una escena posterior, una bruixa llença encanteris contra alguns personatges, que els fa impactar contra el terra o contra una columna. La bruixa segueix i una mena de màgia els envolta i els fa levitar mentre panteixen. Un atac fa caure el sostre, i la bruixa intenta aturar els herois llençant-los encanteris, però això només accelera l'enderrocament, i la seva implícita mort.<br><br><b>Por i angoixa</b><br>Un ratolí cau des d'una gran alçada, i un gat els persegueix per la casa mentre també terroritza els humans que hi viuen. Unes pomes enmig d'un bosc espanten els protagonistes en aparèixer-los-hi ulls i els persegueixen. Una nena i uns ratolins descobreixen un ombrívol passadís secret on troben una bruixa -amb una àguila que l'ajuda- que practica màgia negra, que s'adona de la seva presència i els comença a perseguir i llençar encanteris. Un home comenta que amb sis anys 'perd els pares', i es veu com la seva tutora es torna malvada i la transforma en ratolí. La protagonista també comenta que va perdre els pares. Una planta gegant apareix en un bosc i persegueix els protagonistes, atrapa a un d'ells i eventualment els fa caure a tots a un riu, però aconsegueixen salvar-se. L'àguila de la bruixa torna a aparèixer i roba un anell màgic i un dels ratolins. Uns guàrdies apareixen a casa de la protagonista i se l'enduen al castell. En l'escena de lluita a la teulada, un dels homes té por de caure, i li diu a l'altre que 'quan moris seràs recordat com un ratolí'. Una nena s'encara amb la bruixa quan revela la seva veritable identitat, i li pregunta per què la va abandonar. La confrontació dels herois amb la bruixa també pot ser angoixant i terrorífica, a més que sembla tenir un final agredolç, però que al final acaba bé per als protagonistes.<br><br>Alguns dels personatges es comporten de manera estereotipada, incloent-hi un dels ratolins protagonistes, més corpulent, que està obsessionat amb el menjar, o no és capaç de 'volar' com els altres. Un dels ratolins, mascle, se sent ridícul quan li posen un vestit de princesa. Es fan servir expressions com 'beneit', 'sonada' o 'ratolí estúpid', i en una escena un dels ratolins fa pets. Es comenta negativament que els ratolins robaven menjar."
   },
@@ -5957,13 +6004,19 @@
     "titol": "Leo da Vinci: Missió Mona Lisa",
     "codi": "6209978",
     "edat": "7",
+    "orig": "TP",
+    "peli": true,
+    "x3": true,
     "raons": "Por i angoixa freqüent d'afectació lleu<br>Consum de drogues lícites (tabac), presentades de manera negativa<br>Llenguatge groller freqüent d'intensitat baixa",
     "mesinfo": "<b>Por i angoixa</b><br>Un noi es queda sense aire submergit a l'aigua, però es recupera ràpidament. Un incendi crema la casa d'un dels personatges principals; una noia se li ho retreu a un noi, dient que és culpa seva, i diu que no el vol veure més. Un noi espia uns pirates i acaba capturat, però més tard se n'allibera. Un noi es torna a capbussar, i troba les restes d'un vaixell enfonsat amb calaveres, esquelets i taurons que se'l volen cruspir, però la tensió es resol còmicament. Una noia plora per la situació familiar i perquè la volen casar a la força. Un pirata atrapa uns nens, els amenaça d'arrancar-los la llengua 'd'un sol cop d'espasa', i els vol llençar als taurons. Els pirates ataquen els protagonistes disparant-los canons, i a vegades els impacta directament i no saben si han sobreviscut. Hi ha moments en què els pirates brandeixen espases, però no impacten contra ningú. Qualsevol situació es resol ràpidament i positivament.<br><br><b>Drogues</b><br>Un pirata dolent fuma una pipa. En una altra situació, un pirata apaga un misto amb la boca i exhala fum.<br><br><b>Llenguatge groller</b><br>Es fan servir expressions com 'cagat', 'marrec', 'ruc' o 'inútil'.<br><br>Una nena roba un mapa als protagonistes i escapa per la taula, per poder cridar-los l'atenció i fer-se amic d'ells. Hi ha escenes de violència molt lleus en què els pirates ataquen els bons amb canons, o fugaces quan el protagonista dona una puntada a un home o un clatellot 'amistós' a un amic seu."
   },
   {
     "titol": "Les aventures d'en Massagran",
     "codi": "aventures-massagran",
-    "edat": "7"
+    "edat": "7",
+    "orig": "7",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Les aventures d'en Massagran 1",
@@ -6052,17 +6105,26 @@
   {
     "titol": "Les misterioses ciutats d'or",
     "codi": "misterioses-ciutats-or",
-    "edat": "7"
+    "edat": "7",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Les noves aventures de Peter Pan",
     "codi": "les-noves-aventures-de-peter-pan",
-    "edat": "0"
+    "edat": "0",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Les regles de la Floor",
     "codi": "regles-de-la-floor",
-    "edat": "10" 
+    "edat": "10",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Les regles de la Floor 1x01",
@@ -6354,7 +6416,10 @@
   {
     "titol": "Les sisters",
     "codi": "les-sisters",
-    "edat": "7"
+    "edat": "7",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Les sisters 1",
@@ -6443,12 +6508,18 @@
     "titol": "L'origen de les curses de dracs",
     "codi": "6087813",
     "edat": "7",
+    "orig": "TP",
+    "peli": true,
+    "x3": true,
     "raons": "Violència freqüent, irreal, no explícita, d'intensitat molt lleu, legitimada"
   },
   {
     "titol": "Lucas etc",
     "codi": "lucas-etc",
-    "edat": "10"
+    "edat": "10",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Lucas etc 1",
@@ -6765,12 +6836,18 @@
     "titol": "Lupin III The First",
     "codi": "6194572",
     "edat": "13",
+    "orig": "7",
+    "peli": true,
+    "x3": true,
     "raons": "Violència freqüent, versemblant, explícita, d'intensitat lleu, legitimada"
   },
   {
     "titol": "Mags: contes d'Arcàdia",
     "codi": "mags-contes-arcadia",
-    "edat": "10"
+    "edat": "10",
+    "orig": "7",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Mags: contes d'Arcàdia (alt)",
@@ -6780,7 +6857,10 @@
   {
     "titol": "Manduka",
     "codi": "manduka",
-    "edat": "10"
+    "edat": "10",
+    "orig": "ERI",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Manduka 33",
@@ -6893,7 +6973,10 @@
   {
     "titol": "Marika",
     "codi": "marika",
-    "edat": "10"
+    "edat": "10",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Marika 1x01",
@@ -7139,6 +7222,9 @@
     "titol": "Mary i la flor de la bruixa",
     "codi": "6211735",
     "edat": "7",
+    "orig": "TP",
+    "peli": true,
+    "x3": true,
     "raons": "Por i angoixa freqüent d'afectació lleu",
     "mesinfo": "<b>Por i angoixa</b><br>La pel·lícula comença mostrant uns edificis incendiats i explosions i una nena que gairebé cau per un penya-segat mentre intenta escapar d'uns guàrdies que la segueixen; el vent i les flames fan que perdi el control i cau. Una flor blava misteriosa espurneja i, més tard, fa aparèixer una boira espessa que fa atemorir uns gats. Una nena volant en una escombra té por de caure perquè no la sap controlar i entra dins un núvol de tempesta. En una universitat, és rebuda per una dona que inicialment es presenta com un ésser aquàtic gegant, i els estudiants duen màscares tenebroses. Mentre intenta fer un encanteri, la nena crea sense voler un tornado que ho regira tot. Més tard, aquest ésser es torna a presentar davant seu per comunicar-li que han atrapat el seu amic. Quan torna a la universitat, ella és capturada i tancada junt amb el seu amic i uns animals transformats en monstres, atrapats en gàbies, que eventualment recuperen la seva forma original. Aquests animals etziben violentament una porta per escapar i ho destrossen tot. Més tard, el noi torna a ser atrapat. Ella torna a una casa i, en una dramàtica escena, parla amb una noia i una dona gran, que es preocupen per ella, per un mirall màgic. Una dona i unes criatures persegueixen i intenten sabotejar la nena, que torna a caure de l'escombra; té rascades a la mà i plora. Quan hi torna, el seu amic es troba en un recipient mentre li fan experiments, una mena de tubs aquàtics s'introdueixen dins seu. El recipient explota i la massa blava es descontrola, es fa grossa i ho ataca tot, mentre el noi fa esforços per treure el cap. La pel·lícula té una resolució positiva.<br><br>En un primer moment, la protagonista menteix sobre les seves habilitats o furta un objecte, cosa que, eventualment, li comporta conseqüències negatives."
   },
@@ -7146,18 +7232,27 @@
     "titol": "Mazinger Z: Infinity",
     "codi": "6210082",
     "edat": "10",
+    "orig": "7",
+    "peli": true,
+    "x3": true,
     "raons": "Violència freqüent, irreal, explícita, d'intensitat lleu, legitimada<br>Contingut sexual ocasional d'explicitació mitjana<br>Por i angoixa freqüent d'afectació mitjana",
     "mesinfo": "<b>Violència</b><br>Inclou freqüents escenes d'acció entre robots gegants, amb explosions, projectils, tirotejos, edificis destruïts, etc. Ocasionalment es veu sang: alguns homes es mostren amb ferides al cap, i alguns robots reben impactes més forts del normal a la boca. En una escena, hi ha un tiroteig, sense èxit, contra els protagonistes; una d'ells contraataca lluitant cos a cos contra els dolents. Un home ofereix a una dona de tenir un fill, i ella li etziba una bufetada, perquè ho ha dit públicament.<br><br><b>Sexe</b><br>De tant en tant, es fan primers plans breus, amb intenció cosificadora, de cossos femenins. En dues escenes, personatges femenins es presenten sacsejant els pits i el cul.<br><br><b>Por i angoixa</b><br>Vegeu 'Violència'."
   },
   {
     "titol": "Mike el magnífic",
     "codi": "mike-el-magnific",
-    "edat": "0"
+    "edat": "0",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Missió Àrtic",
     "codi": "missio-artic",
-    "edat": "7"
+    "edat": "7",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Missió Àrtic 1",
@@ -7222,12 +7317,18 @@
   {
     "titol": "Món maker",
     "codi": "monmaker",
-    "edat": "0"
+    "edat": "0",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Mòpies",
     "codi": "mopies",
-    "edat": "13"
+    "edat": "13",
+    "orig": "13",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Mòpies 1x01",
@@ -7266,12 +7367,18 @@
     "titol": "My Hero Academia Dos herois",
     "codi": "6189552",
     "edat": "13",
+    "orig": "12",
+    "peli": true,
+    "x3": true,
     "raons": "Violència ocasional, versemblant, explícita, d'intensitat greu, no legitimada"
   },
   {
     "titol": "My Hero Academia: El despertar dels herois",
     "codi": "6210526",
     "edat": "13",
+    "orig": "12",
+    "peli": true,
+    "x3": true,
     "raons": "Violència reiterada, irreal, explícita, d'intensitat greu, legitimada",
     "mesinfo": "<b>Violència</b><br>Hi ha incessants batalles entre personatges amb superpoders i involucrant explosions, rajos d'energia, atacs de foc, metralletes irreals, destrucció d'edificis i del terra, etc. Freqüentment, els atacs que infereixen dolents contra bons acaben amb ferides greus, que eventualment són curades, i l'aparició de sang. Hi ha una persecució de vehicles amb descarrilaments, atropellaments i explosions. Un dolent agafa persones pel cap i les hi estreny per robar-los el poder. Els herois tenen, sovint, sang al cap a causa de la violència, de ser enviats lluny i impactant contra parets o roques. Un atac frega la galta de l'heroi i li surt força sang, i després el fereixen al maluc. Es diu que un atac ha rebentat les costelles d'un heroi. Un dolent tus sang. Unes punxes impacten contra la cama d'una heroïna, li fan caure i impactar el cap contra unes roques, vessant-hi sang. Dos herois xoquen el cap i s'estan estesos a terra, vessant-hi sang. Un heroi intenta protegir uns nens i el fereixen als braços. Un dolent alça una nena i li pressiona el coll. Un atac superpoderós fa que els braços rebentin, surti sang i quedin abrasats. El malvat està molt malferit i s'arrossega per terra, deixant un rastre de sang.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa, com 'merda' o 'desgraciat'. Hi ha consum de tabac presentat de manera negativa."
   },
@@ -7279,6 +7386,9 @@
     "titol": "My Hero Academia: Missió mundial d'herois",
     "codi": "6210284",
     "edat": "13",
+    "orig": "7",
+    "peli": true,
+    "x3": true,
     "raons": "Violència freqüent, irreal, molt explícita, d'intensitat greu, legitimada<br>Por i angoixa freqüent d'afectació alta",
     "mesinfo": "<b>Violència</b><br>Hi ha freqüents combats entre personatges amb superpoders, amb explosions, electrocutacions, incendis, tirotejos, cops de puny, fletxes, armes, atropellaments... Algunes escenes són cruents, provoquen hemorràgies abundants i es fa èmfasi en la sang. Per exemple, un dolent té una arma formada per fulles molt esmolades i travessen, freguen, i es claven, per tot el cos d'un dels herois, deixant-lo malferit per tot arreu, fins i tot a l'ull. Uns làsers travessen el cos d'un heroi per diverses zones, com el cap o les cames, i sagna profundament. També disparen a un noi i veiem com deixa un rastre de sang per les parets i pel terra mentre intenta fer passes, fins al punt que rellisca amb la seva pròpia sang, s'arrossega per terra i es dona per mort. L'heroi fa talls en els braços del dolent per rematar-lo. Claven una fletxa en el cos d'un noi i surt sang, també quan se l'arrenca per la força. En altres escenes, hi ha pànic entre la població, i un atemptat mostra com gent mor després de patir combustió espontània o provocar destrucció. Un malvat diu que va plantejar-se el suïcidi.<br><br><b>Por i angoixa</b><br>Vegeu 'Violència'.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa, com 'merda', 'merdosos' o 'idiota'. Hi ha conductes i valors incívics en forma d'actes criminals com atracaments o robatoris, presentats de manera negativa. Molt ocasionalment, es veu un bar on s'hi ofereixen i consumeixen begudes alcohòliques."
   },
@@ -7286,27 +7396,42 @@
     "titol": "Nico 2",
     "codi": "5806346",
     "edat": "7",
+    "orig": "TP",
+    "peli": true,
+    "x3": true,
     "raons": "Por i angoixa freqüent d'afectació lleu<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "No callis!",
     "codi": "no-callis",
-    "edat": "0"
+    "edat": "0",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "No callis! Contra el bullying",
     "codi": "6217905",
-    "edat": "0"
+    "edat": "0",
+    "orig": "TP",
+    "peli": true,
+    "x3": true
   },
   {
     "titol": "Objectiu 2030",
     "codi": "objectiu-2030",
-    "edat": "7"
+    "edat": "7",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "One Piece",
     "codi": "one-piece",
-    "edat": "13"
+    "edat": "13",
+    "orig": "10 (prèviament: 13)",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "One Piece 1x01",
@@ -7368,24 +7493,36 @@
     "titol": "One Piece: Estampida",
     "codi": "6210083",
     "edat": "13",
+    "orig": "16",
+    "peli": true,
+    "x3": true,
     "raons": "Consum de drogues lícites (tabac, alcohol), presentades de manera positiva",
     "mesinfo": "<b>Drogues</b><br>Diversos personatges es mostren fumant de forma reiterada, sigui una cigarreta, un cigar o dos cigars alhora. Alguns també tenen begudes alcohòliques, i se'n fan comentaris en positiu ('segur que hi ha licors dels bons').<br><br>Hi ha violència freqüent, irreal, explícita, d'intensitat lleu i legitimada, formada bàsicament per combats entre personatges amb superpoders i explosions, espases, cops de puny màgics, puntades de peu en flames, forats a terra, canons, amenaces de mort, etc. De tant en tant, aquesta violència comporta l'aparició de sang, com quan uns nois perden el coneixement i les forces i estan estesos a terra, però sense ferides greus. Aquestes escenes també porten associada certa tensió o angoixa, ja que el dolent principal ho arrasa tot i es transforma en un monstre gegant. Hi ha llenguatge groller freqüent d'intensitat baixa, amb expressions com 'merda', 'idiota', 'fotre', 'estúpid', 'malparit' o 'desgraciat'. Diversos personatges femenins estan sexualitzats; alguns d'ells es presenten per primer cop a l'espectador amb primers plans del seu cos."
   },
   {
     "titol": "Perduts a Oz",
     "codi": "perduts-a-oz",
-    "edat": "7"
+    "edat": "7",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Pinotxo i la seva amiga Coco",
     "codi": "5817536",
     "edat": "7",
+    "orig": "TP",
+    "peli": true,
+    "x3": true,
     "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada<br>Por i angoixa freqüent d'afectació lleu<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Polinòpolis",
     "codi": "polinopolis",
-    "edat": "7"
+    "edat": "7",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Polinòpolis 1x01",
@@ -7418,7 +7555,10 @@
   {
     "titol": "Presto",
     "codi": "presto-escola-magia",
-    "edat": "0"
+    "edat": "0",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Presto 1",
@@ -7508,22 +7648,34 @@
   {
     "titol": "Prodigiosa",
     "codi": "aventures-ladybug-gat-noir",
-    "edat": "7"
+    "edat": "7",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Quatre amics i mig",
     "codi": "quatre-amics-i-mig",
-    "edat": "7"
+    "edat": "7",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Ràndom",
     "codi": "random",
-    "edat": "10"
+    "edat": "10",
+    "orig": "10",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Ranma",
     "codi": "ranma",
-    "edat": "13"
+    "edat": "13",
+    "orig": "13",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Ranma 1",
@@ -7534,19 +7686,28 @@
   {
     "titol": "Robin Hood el trapella de Sherwood",
     "codi": "robin-hood-mischief-sherwood",
-    "edat": "0"
+    "edat": "0",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Robby, Toby i el viatge fantàstic",
     "codi": "5807504",
     "edat": "10",
+    "orig": "TP",
+    "peli": true,
+    "x3": true,
     "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada<br>Llenguatge groller ocasional d'intensitat alta",
     "mesinfo": "<b>Violència</b><br>El protagonista pateix assetjament escolar, i hi ha escenes en què li disparen pilotes de paintball, el llencen a les escombraries o l'insulten. Hi ha una altra escena, presentant la violència en positiu però amb intencionalitat còmica, en què una dona es baralla amb una colla de motoristes.<br><br><b>Llenguatge groller</b><br>Un noi fa servir expressions com 'fotre', 'acollonir' o 'cagar a les calces' en una sola escena, agreujades per tenir intencionalitat ofensiva i algunes per la seva naturalesa sexista. També se'n senten d'altres durant la pel·lícula, que el protagonista menor fa servir, com 'merda'.<br><br>Hi ha situacions freqüents de por i angoixa amb una afectació lleu, ja que el protagonista està sovint en perill. També es mostren conductes i valors incívics presentats de manera negativa, com quan el protagonista amaga als seus pares que pateix assetjament."
   },
   {
     "titol": "Ronja",
     "codi": "ronja-filla-bandoler",
-    "edat": "10"
+    "edat": "10",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Ronja 1",
@@ -7707,180 +7868,195 @@
   {
     "titol": "Rovelló",
     "codi": "rovello",
-    "edat": "7"
+    "edat": "7",
+    "orig": "TP (prèviament: 7)",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Sadie Sparks",
     "codi": "sadie-sparks",
-    "edat": "7"
-  },
-  {
-    "titol": "Sam Fox aventures extremes",
-    "codi": "sam-fox-aventures-extremes",
-    "edat": "7"
+    "edat": "7",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Sakura, la caçadora de cartes",
     "codi": "sakura-cacadora-cartes",
-    "edat": "7"
+    "edat": "7",
+    "orig": "7",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Sakura, la caçadora de cartes: Les cartes transparents",
     "codi": "sakura-cacadora-cartes-transparents",
-    "edat": "7"
+    "edat": "7",
+    "orig": "7",
+    "serie": true,
+    "x3": true
+  },
+    {
+    "titol": "Sam Fox: aventures extremes",
+    "codi": "sam-fox-aventures-extremes",
+    "edat": "7",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
-    "titol": "Sam Fox 1",
+    "titol": "Sam Fox: aventures extremes 1x01",
     "codi": "6058180",
     "edat": "7",
     "raons": "Por i angoixa ocasional d'afectació mitjana"
   },
   {
-    "titol": "Sam Fox 2",
+    "titol": "Sam Fox: aventures extremes 1x02",
     "codi": "6059076",
     "edat": "7",
     "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
-    "titol": "Sam Fox 3",
+    "titol": "Sam Fox: aventures extremes 1x03",
     "codi": "6060120",
     "edat": "7",
     "raons": "Por i angoixa freqüent d'afectació lleu"
   },
   {
-    "titol": "Sam Fox 4",
+    "titol": "Sam Fox: aventures extremes 1x04",
     "codi": "6061201",
     "edat": "7",
     "raons": "Por i angoixa freqüent d'afectació lleu"
   },
   {
-    "titol": "Sam Fox 5",
+    "titol": "Sam Fox: aventures extremes 1x05",
     "codi": "6062303",
     "edat": "7",
     "raons": "Por i angoixa freqüent d'afectació lleu"
   },
   {
-    "titol": "Sam Fox 6",
+    "titol": "Sam Fox: aventures extremes 1x06",
     "codi": "6063414",
     "edat": "7",
     "raons": "Por i angoixa freqüent d'afectació lleu"
   },
   {
-    "titol": "Sam Fox 7",
+    "titol": "Sam Fox: aventures extremes 1x07",
     "codi": "6064455",
     "edat": "0",
     "raons": "Por i angoixa ocasional d'afectació lleu"
   },
   {
-    "titol": "Sam Fox 8",
+    "titol": "Sam Fox: aventures extremes 1x08",
     "codi": "6065591",
     "edat": "7",
     "raons": "Por i angoixa freqüent d'afectació lleu"
   },
   {
-    "titol": "Sam Fox 9",
+    "titol": "Sam Fox: aventures extremes 1x09",
     "codi": "6066639",
     "edat": "7",
     "raons": "Por i angoixa ocasional d'afectació mitjana<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
-    "titol": "Sam Fox 10",
+    "titol": "Sam Fox: aventures extremes 1x10",
     "codi": "6067771",
     "edat": "7",
     "raons": "Por i angoixa freqüent d'afectació lleu"
   },
   {
-    "titol": "Sam Fox 11",
+    "titol": "Sam Fox: aventures extremes 1x11",
     "codi": "6069027",
     "edat": "7",
     "raons": "Por i angoixa freqüent d'afectació lleu"
   },
   {
-    "titol": "Sam Fox 12",
+    "titol": "Sam Fox: aventures extremes 1x12",
     "codi": "6070222",
     "edat": "7",
     "raons": "Por i angoixa freqüent d'afectació lleu"
   },
   {
-    "titol": "Sam Fox 13",
+    "titol": "Sam Fox: aventures extremes 1x13",
     "codi": "6071562",
     "edat": "7",
     "raons": "Llenguatge groller ocasional d'intensitat baixa"
   },
   {
-    "titol": "Sam Fox 14",
+    "titol": "Sam Fox: aventures extremes 1x14",
     "codi": "6072799",
     "edat": "7",
     "raons": "Por i angoixa freqüent d'afectació lleu"
   },
   {
-    "titol": "Sam Fox 15",
+    "titol": "Sam Fox: aventures extremes 1x15",
     "codi": "6073895",
     "edat": "0",
     "raons": "Por i angoixa ocasional d'afectació lleu"
   },
   {
-    "titol": "Sam Fox 16",
+    "titol": "Sam Fox: aventures extremes 1x16",
     "codi": "6075045",
     "edat": "7",
     "raons": "Por i angoixa freqüent d'afectació lleu"
   },
   {
-    "titol": "Sam Fox 17",
+    "titol": "Sam Fox: aventures extremes 1x17",
     "codi": "6076183",
     "edat": "0",
     "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa ocasional d'afectació lleu"
   },
   {
-    "titol": "Sam Fox 18",
+    "titol": "Sam Fox: aventures extremes 1x18",
     "codi": "6076927",
     "edat": "0",
     "raons": "Por i angoixa ocasional d'afectació lleu"
   },
   {
-    "titol": "Sam Fox 19",
+    "titol": "Sam Fox: aventures extremes 1x19",
     "codi": "6077772",
     "edat": "0",
     "raons": "Por i angoixa ocasional d'afectació lleu"
   },
   {
-    "titol": "Sam Fox 20",
+    "titol": "Sam Fox: aventures extremes 1x20",
     "codi": "6078347",
     "edat": "7",
     "raons": "Por i angoixa freqüent d'afectació lleu"
   },
   {
-    "titol": "Sam Fox 21",
+    "titol": "Sam Fox: aventures extremes 1x21",
     "codi": "6078535",
     "edat": "7",
     "raons": "Por i angoixa freqüent d'afectació lleu"
   },
   {
-    "titol": "Sam Fox 22",
+    "titol": "Sam Fox: aventures extremes 1x22",
     "codi": "6079539",
     "edat": "7",
     "raons": "Por i angoixa freqüent d'afectació lleu"
   },
   {
-    "titol": "Sam Fox 23",
+    "titol": "Sam Fox: aventures extremes 1x23",
     "codi": "6079538",
     "edat": "7",
     "raons": "Por i angoixa ocasional d'afectació mitjana<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
-    "titol": "Sam Fox 24",
+    "titol": "Sam Fox: aventures extremes 1x24",
     "codi": "6079558",
     "edat": "7",
     "raons": "Por i angoixa freqüent d'afectació lleu"
   },
   {
-    "titol": "Sam Fox 25",
+    "titol": "Sam Fox: aventures extremes 1x25",
     "codi": "6079752",
     "edat": "7",
     "raons": "Por i angoixa freqüent d'afectació lleu"
   },
   {
-    "titol": "Sam Fox 26",
+    "titol": "Sam Fox: aventures extremes 1x26",
     "codi": "6080466",
     "edat": "0",
     "raons": "Por i angoixa ocasional d'afectació lleu"
@@ -7888,7 +8064,10 @@
   {
     "titol": "Sense sortida",
     "codi": "sense-sortida",
-    "edat": "10"
+    "edat": "10",
+    "orig": "10",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Sense sortida 1x01",
@@ -8001,25 +8180,37 @@
   {
     "titol": "STEM a Mart: Missió Hypatia",
     "codi": "stem-a-mart",
-    "edat": "0"
+    "edat": "0",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
-    "titol": "Spirit Nadal",
+    "titol": "Spirit, cavalcant en llibertat: L'esperit de Nadal",
     "codi": "6075676",
     "edat": "0",
+    "orig": "TP",
+    "peli": true,
+    "x3": true,
     "raons": "Por i angoixa ocasional d'afectació lleu"
   },
   {
     "titol": "Spycies: Dos espies rebels",
     "codi": "6210962",
     "edat": "10",
+    "orig": "TP",
+    "peli": true,
+    "x3": true,
     "raons": "Violència freqüent, irreal, explícita, d'intensitat lleu, legitimada",
     "mesinfo": "<b>Violència</b><br>Hi ha una persecució, amb edificis enfonsant-se, atropellaments i crits. Dos personatges discuteixen, es barallen físicament i un intenta donar-li un cop de puny. Els herois lluiten contra drons que treuen rajos làser, hi ha tot d'explosions, trets i tensió. L'heroi fa esnifar un somnífer al seu company. Un dolent congela un personatge amb una arma, i es tem per la seva vida; se l'intenta reviure amb un desfibril·lador. Es disparen tranquil·litzants per intentar aturar un drac fora de control. Bufetegen un personatge fins que es desperta. El dolent torna a aparèixer i intenta glaçar l'heroi i aturar-lo llençant-li objectes voluminosos a sobre; es barallen, hi ha tirotejos, cops de puny i es llencen contra la paret. En una altra batalla, tots lluiten entre ells: l'heroi esgarrapa a l'ull, dona cops de puny i fa cruixir els braços d'uns dolents; el malvat fa servir la seva arma de congelació i llença a la gent contra el terra. Hi ha més moments de tensió quan es creu que gent propera a alguns personatges mor.<br><br>Hi ha algunes actituds incíviques, contextualitzades, com quan el protagonista és arrogant amb el seu company, menteix sobre la seva identitat o juga amb un extintor per poder anar més de pressa. Hi ha llenguatge groller ocasional d'intensitat baixa, com 'estúpid' o 'burro'. Es veuen begudes alcohòliques breument en una ocasió, però no es consumeixen."
   },
   {
     "titol": "Súper 4",
     "codi": "super-4",
-    "edat": "7"
+    "edat": "7",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Súper 4 1x01",
@@ -8052,7 +8243,10 @@
   {
     "titol": "Theodosia",
     "codi": "theodosia",
-    "edat": "7"
+    "edat": "7",
+    "orig": "7",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Theodosia 1",
@@ -8211,15 +8405,21 @@
     "raons": "Por i angoixa freqüent d'afectació lleu"
   },
   {
-    "titol": "Thor martell màgic",
+    "titol": "Thor: La llegenda del martell màgic",
     "codi": "5808425",
     "edat": "7",
+    "orig": "TP",
+    "peli": true,
+    "x3": true,
     "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, legitimada<br>Comentaris sexuals ocasionals d'explicitació baixa<br>Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Top or fail",
     "codi": "top-or-fail",
-    "edat": "7"
+    "edat": "7",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Top or fail 1",
@@ -8297,23 +8497,35 @@
   {
     "titol": "Trollhunters contes Arcàdia",
     "codi": "trollhunters-contes-arcadia",
-    "edat": "10"
+    "edat": "10",
+    "orig": "7",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Un dramarama total",
     "codi": "dramarama-total",
-    "edat": "7"
+    "edat": "7",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
-    "titol": "Xavier Enigma pel·lícula",
+    "titol": "Xavier Enigma i la pel·lícula secreta. Soc la senyora presidenta",
     "codi": "6122038",
     "edat": "0",
+    "orig": "TP",
+    "peli": true,
+    "x3": true,
     "raons": "Por i angoixa ocasional d'afectació lleu"
   },
   {
     "titol": "Kóreo",
     "codi": "koreo",
-    "edat": "0"
+    "edat": "0",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Kóreo gala 1",
@@ -8364,30 +8576,45 @@
     "titol": "X3 Games",
     "codi": "6195069",
     "edat": "7",
+    "orig": "TP",
+    "peli": true,
+    "x3": true,
     "raons": "Llenguatge groller ocasional d'intensitat baixa",
     "mesinfo": "<b>Llenguatge groller</b><br>En una ocasió, se senten cançons que utilitzen expressions com 'prendre pel sac' o 'merda'."
   },
   {
     "titol": "Vicky viking",
     "codi": "vicky-el-viquing",
-    "edat": "0"
+    "edat": "0",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Yokai Watch: La pel·lícula",
     "codi": "6213073",
     "edat": "7",
+    "orig": "TP",
+    "peli": true,
+    "x3": true,
     "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, legitimada<br>Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa",
     "mesinfo": "<b>Violència</b><br>Diferents monstres, tant bons com dolents, s'esbatussen entre ells mitjançant cops, martellets de joguina, llamps elèctrics o explosions. Majoritàriament, ningú no surt ferit perquè alguns monstres simplement desapareixen en tocar-los, però el combat de la segona part de la pel·lícula és més prolongat i intens. Un dels bons és segrestat i amenaçat de morir cremat, de forma còmica. Hi ha una escena de violència versemblant, que es repeteix alguns cops, en què uns abusananos peguen un nen a terra, de forma no explícita, i ell s'enfada amb el seu amic perquè ha presenciat l'agressió i no l'ha ajudat. En una breu escena d'una sèrie de televisió, se senten trets i es veu una pistola, però no succeeix res més. Hi ha moments en què els monstres bons amics del protagonista són trepitjats o atropellats de forma còmica.<br><br><b>Por i angoixa</b><br>A més de les escenes de violència més tenses del final, hi ha moments en què veiem persones posseïdes, amb el rostre negre i ulls vermells, que atemoreixen els protagonistes, o quan creuen que algú els vigila. Tanmateix, en aquests casos qualsevol tensió sol ser breu i tallada ràpidament per situacions còmiques. Un dels monstres dolents té un aspecte de cara humana amb arrugues molt detallades; al final, aquest es transforma en un ésser més gros que provoca un esfondrament i tothom ha de fugir.<br><br><b>Llenguatge groller</b><br>Es diu 'fotre' ('no fotis', 'et fotré un bon crit') i 'idiotes'. També s'empren expressions com 'vell xaruc' o 'marrec', i bromes de naturalesa escatològica, concretament de fer pets i de tenir un tap al cul. En una escena, s'insinua que el fet de tenir capa de superheroi farà que totes les noies estiguin 'boges' per ell."
   },
   {
     "titol": "Yu Yu Hakusho",
     "codi": "yu-yu-hakusho-defensors-mes-enlla",
-    "edat": "13"
+    "edat": "13",
+    "orig": "12 (prèviament: 13)",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "ZombieLars",
     "codi": "zombielars",
-    "edat": "10"
+    "edat": "10",
+    "orig": "7",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "ZombieLars 1x01",
