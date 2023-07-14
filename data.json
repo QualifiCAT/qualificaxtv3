@@ -946,7 +946,7 @@
     "raons": "Consum de drogues lícites (alcohol) presentat de forma neutra"
   },
   {
-    "titol": "Club Winx aventura màgica",
+    "titol": "Club Winx. L'aventura màgica",
     "codi": "5817761",
     "edat": "7",
     "orig": "TP",
@@ -1134,7 +1134,7 @@
     "x3": true
   },
   {
-    "titol": "Dracs: els defensors de l'illa del fred",
+    "titol": "Dracs: els defensors de l'illa del Fred",
     "codi": "dracs-defensors-illa-fred",
     "edat": "7",
     "orig": "TP",
@@ -1346,7 +1346,7 @@
     "mesinfo": "<b>Violència</b><br>Dracs, tant bons com dolents, es barallen disparant-se atacs de gel, de foc o elèctrics. Un dels nois va sobre un dels dracs i té una espasa que recondueix l'electricitat. També aprofita un objecte antic per pegar físicament a un dels dolents i per enganxar-se'l a la boca. A vegades, dels atacs, el noi surt disparat del drac i impacta contra el terra, sense provocar-li ferides.<br><br><b>Por i angoixa</b><br>Vegeu 'Violència'.<br><br><b>Llenguatge groller</b><br>Es diu 'burro'."
   },
   {
-    "titol": "Dracs genets illa fred",
+    "titol": "Dracs: els genets de l'Illa del Fred",
     "codi": "dracs-genets-illa-fred",
     "edat": "7",
     "orig": "TP",
@@ -1593,7 +1593,7 @@
     "edat": "13"
   },
   {
-    "titol": "El detectiu Conan La bala escarlata",
+    "titol": "El detectiu Conan: La bala escarlata",
     "codi": "6190209",
     "edat": "13",
     "orig": "7",
@@ -1607,7 +1607,7 @@
     "edat": "13"
   },
   {
-    "titol": "El detectiu Conan The Scarlet Alibi",
+    "titol": "El detectiu Conan: The Scarlet Alibi",
     "codi": "6190210",
     "edat": "13",
     "orig": "12",
@@ -1619,7 +1619,7 @@
     "titol": "El llibre de la selva",
     "codi": "llibre-selva",
     "edat": "7",
-    "orig": "Tots els públics (prèviament: 7)",
+    "orig": "TP (prèviament: 7)",
     "serie": true,
     "x3": true
   },
@@ -1825,7 +1825,7 @@
     "orig": "TP",
     "peli": true,
     "x3": true,
-    "raons": "Llenguatge groller freqüent d'intensitat baixa<br>Conductes i valors incívics amb sanció neutra (activitats perilloses, manca de respecte mutu)"
+    "raons": "Llenguatge groller freqüent d'intensitat baixa<br>Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "Els Mini Ninges",
@@ -3032,9 +3032,13 @@
     "raons": "Contingut sexual reiterat d'explicitació baixa, ocasionalment mitjana"
   },
   {
-    "titol": "Eufòria el concert",
+    "titol": "Eufòria: el concert",
     "codi": "6194729",
     "edat": "10",
+    "orig": "TP",
+    "peli": true,
+    "x3": true,
+    "tv3": true,
     "raons": "Contingut sexual ocasional d'explicitació mitjana"
   },
   {
@@ -3228,7 +3232,7 @@
     "edat": "0"
   },
   {
-    "titol": "Guardians de la nit",
+    "titol": "Guardians de la nit: Kimetsu no Yaiba",
     "codi": "guardians-nit-kimetsu",
     "edat": "13",
     "orig": "13 (prèviament: 12)",
@@ -3236,121 +3240,133 @@
     "x3": true
   },
   {
-    "titol": "Guardians de la nit 1x01",
+    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x01",
     "codi": "6178403",
     "edat": "13",
     "raons": "Violència ocasional, versemblant, no explícita, d'intensitat greu, no legitimada (imatges cruentes de cadàvers, alguns infants)"
   },
   {
-    "titol": "Guardians de la nit 1x02",
+    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x02",
     "codi": "6178484",
     "edat": "13",
     "raons": "Violència ocasional, irreal, molt explícita, d'intensitat greu, legitimada"
   },
   {
-    "titol": "Guardians de la nit 1x03",
+    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x03",
     "codi": "6178877",
     "edat": "10",
     "raons": "Violència ocasional, irreal, no explícita, d'intensitat greu, no legitimada (imatges cruentes)<br>Por i angoixa ocasional d'afectació alta"
   },
   {
-    "titol": "Guardians de la nit 1x04",
+    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x04",
     "codi": "6178889",
     "edat": "13",
     "raons": "Violència freqüent, irreal, molt explícita, d'intensitat greu, legitimada"
   },
   {
-    "titol": "Guardians de la nit 1x05",
+    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x05",
     "codi": "6179717",
     "edat": "13",
     "raons": "Violència ocasional, versemblant, molt explícita, d'intensitat greu, no legitimada"
   },
   {
-    "titol": "Guardians de la nit 1x06",
+    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x06",
     "codi": "6179794",
     "edat": "13",
     "raons": "Violència freqüent, irreal, molt explícita, d'intensitat greu, legitimada<br>Por i angoixa freqüent d'afectació alta"
   },
   {
-    "titol": "Guardians de la nit 1x07",
+    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x07",
     "codi": "6179996",
     "edat": "13",
     "raons": "Violència freqüent, irreal, molt explícita, d'intensitat greu, legitimada<br>Por i angoixa freqüent d'afectació alta"
   },
   {
-    "titol": "Guardians de la nit 1x08",
+    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x08",
     "codi": "6180206",
     "edat": "13",
     "raons": "Violència ocasional, irreal, molt explícita, d'intensitat greu, no legitimada"
   },
   {
-    "titol": "Guardians de la nit 1x09",
+    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x09",
     "codi": "6180862",
     "edat": "13",
     "raons": "Violència freqüent, irreal, molt explícita, d'intensitat greu, legitimada<br>Por i angoixa freqüent d'afectació alta"
   },
   {
-    "titol": "Guardians de la nit 1x10",
+    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x10",
     "codi": "6180951",
     "edat": "13",
     "raons": "Violència freqüent, irreal, molt explícita, d'intensitat greu, no legitimada<br>Por i angoixa freqüent d'afectació alta"
   },
   {
-    "titol": "Guardians de la nit 1x18",
+    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x11",
+    "codi": "6181113",
+    "edat": "13",
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat greu, no legitimada"
+  },
+  {
+    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x12",
+    "codi": "6181359",
+    "edat": "13",
+    "raons": "Violència freqüent, irreal, molt explícita, d'intensitat greu, legitimada<br>Por i angoixa freqüent d'afectació alta"
+  },
+  {
+    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x18",
     "codi": "6183531",
     "edat": "13",
     "raons": "Violència freqüent, irreal, molt explícita, d'intensitat greu, legitimada<br>Por i angoixa freqüent d'afectació alta"
   },
   {
-    "titol": "Guardians de la nit 1x19",
+    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x19",
     "codi": "6183755",
     "edat": "13",
     "raons": "Violència freqüent, irreal, molt explícita, d'intensitat greu, legitimada<br>Por i angoixa freqüent d'afectació alta"
   },
   {
-    "titol": "Guardians de la nit 1x20",
+    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x20",
     "codi": "6183898",
     "edat": "13",
     "raons": "Violència freqüent, irreal, molt explícita, d'intensitat greu, legitimada<br>Por i angoixa freqüent d'afectació alta"
   },
   {
-    "titol": "Guardians de la nit 1x21",
+    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x21",
     "codi": "6185129",
     "edat": "13",
     "raons": "Violència ocasional, versemblant, no explícita, d'intensitat greu, no legitimada<br>Por i angoixa freqüent d'afectació alta"
   },
   {
-    "titol": "Guardians de la nit 1x22",
+    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x22",
     "codi": "6185130",
     "edat": "13",
     "raons": "Violència ocasional, irreal, molt explícita, d'intensitat greu, no legitimada"
   },
   {
-    "titol": "Guardians de la nit 1x23",
+    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x23",
     "codi": "6185330",
     "edat": "10",
     "raons": "Violència ocasional, irreal, no explícita, d'intensitat greu, no legitimada"
   },
   {
-    "titol": "Guardians de la nit 1x24",
+    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x24",
     "codi": "6185333",
     "edat": "10",
     "raons": "Violència ocasional, versemblant, no explícita, d'intensitat greu, no legitimada<br>Por i angoixa ocasional d'afectació alta<br>Llenguatge groller ocasional d'intensitat alta"
   },
   {
-    "titol": "Guardians de la nit 1x25",
+    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x25",
     "codi": "6186203",
     "edat": "10",
     "raons": "Violència ocasional, irreal, no explícita, d'intensitat greu, no legitimada"
   },
   {
-    "titol": "Guardians de la nit 1x26",
+    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x26",
     "codi": "6186311",
     "edat": "13",
     "raons": "Violència freqüent, irreal, molt explícita, d'intensitat greu, no legitimada<br>Por i angoixa freqüent d'afectació alta"
   },
   {
-    "titol": "Guardians de la nit Tren infinit",
+    "titol": "Guardians de la nit: el tren infinit",
     "codi": "6193236",
     "edat": "13",
     "orig": "16",
@@ -3359,7 +3375,7 @@
     "raons": "Violència freqüent, irreal, molt explícita, d'intensitat greu, legitimada<br>Por i angoixa freqüent d'afectació alta"
   },
   {
-    "titol": "Haikyu",
+    "titol": "Haikyu!",
     "codi": "haikyu",
     "edat": "10",
     "orig": "12",
@@ -4930,7 +4946,7 @@
     "x3": true
   },
   {
-    "titol": "Jo Elvis Riboldi",
+    "titol": "Jo, Elvis Riboldi",
     "codi": "jo-elvis-riboldi",
     "edat": "0",
     "orig": "TP",
@@ -5714,6 +5730,32 @@
     "codi": "4901075",
     "edat": "7",
     "raons": "Antisocial behaviour presented in a negative light"
+  },
+  {
+    "titol": "La casa d'Anubis 1x59",
+    "codi": "4903412",
+    "edat": "10",
+    "raons": "Por i angoixa reiterada d'afectació lleu",
+    "mesinfo": "<b>Por i angoixa</b>Hi ha situacions d'angoixa i tensió reiterades. Un home té amenaçats un grup d'alumnes mentre els professors capturen una noia que intentava escapar, i fan un ritual misteriós amb la intenció d'aconseguir la vida eterna, sacrificant la vida d'alguns alumnes. Un home llença un telèfon contra la paret, frustrat, mentre escridassa els alumnes. Un rellotge de sorra mortal es trenca i el seu contingut ataca l'home, com si fossin mosques, i el deixen estabornit a terra amb erupcions a la cara, però no mort, ja que obre sobtadament els ulls al final de l'episodi. Es comenta que un home té una malaltia degenerativa.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa ('imbècil', 'estúpid', 'burro')."
+  },
+  {
+    "titol": "La casa d'Anubis 1x59 VO",
+    "codi": "4903431",
+    "edat": "10",
+    "raons": "Pervasive mild scary or distressing situations"
+  },
+  {
+    "titol": "La casa d'Anubis 1x60",
+    "codi": "4903492",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Por i angoixa</b><br>Hi ha freqüents situacions de tensió. Un home amb erupcions a la cara apareix de sobte i amenaça una noia. Un noi s'està ofegant i es diu que morirà, però només estava fingint.<br><br><b>Llenguatge groller</b><br>Es diu 'idiotes'."
+  },
+  {
+    "titol": "La casa d'Anubis 1x60 VO",
+    "codi": "4903493",
+    "edat": "7",
+    "raons": "Frequent mild scary or distressing situations<br>Occasional mild coarse language"
   },
   {
     "titol": "La colla de la selva al rescat!",
@@ -7359,12 +7401,12 @@
     "mesinfo": "<b>Violència</b><br>Un ésser trenca el coll d'una dona. Hi ha apunyalaments no explícits.<br><br><b>Por i angoixa</b><br>Es manté una sensació de tensió i angoixa durant tot l'episodi, degut a que la majoria de l'acció té lloc en un entorn tancat i amb poca llum. La tensió augmenta quan les protagonistes se separen i una d'elles és atacada.<br><br><b>Drogues</b><br>Una dona fuma tabac, sense comentaris al respecte.<br><br>També inclou llenguatge groller ocasional amb una intensitat alta, com 'puta'."
   },
   {
-    "titol": "My Hero Academia Dos herois titol",
+    "titol": "My Hero Academia: Dos herois titol",
     "codi": "my-hero-academia-dos-herois",
     "edat": "13"
   },
   {
-    "titol": "My Hero Academia Dos herois",
+    "titol": "My Hero Academia: Dos herois",
     "codi": "6189552",
     "edat": "13",
     "orig": "12",
@@ -7393,7 +7435,7 @@
     "mesinfo": "<b>Violència</b><br>Hi ha freqüents combats entre personatges amb superpoders, amb explosions, electrocutacions, incendis, tirotejos, cops de puny, fletxes, armes, atropellaments... Algunes escenes són cruents, provoquen hemorràgies abundants i es fa èmfasi en la sang. Per exemple, un dolent té una arma formada per fulles molt esmolades i travessen, freguen, i es claven, per tot el cos d'un dels herois, deixant-lo malferit per tot arreu, fins i tot a l'ull. Uns làsers travessen el cos d'un heroi per diverses zones, com el cap o les cames, i sagna profundament. També disparen a un noi i veiem com deixa un rastre de sang per les parets i pel terra mentre intenta fer passes, fins al punt que rellisca amb la seva pròpia sang, s'arrossega per terra i es dona per mort. L'heroi fa talls en els braços del dolent per rematar-lo. Claven una fletxa en el cos d'un noi i surt sang, també quan se l'arrenca per la força. En altres escenes, hi ha pànic entre la població, i un atemptat mostra com gent mor després de patir combustió espontània o provocar destrucció. Un malvat diu que va plantejar-se el suïcidi.<br><br><b>Por i angoixa</b><br>Vegeu 'Violència'.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa, com 'merda', 'merdosos' o 'idiota'. Hi ha conductes i valors incívics en forma d'actes criminals com atracaments o robatoris, presentats de manera negativa. Molt ocasionalment, es veu un bar on s'hi ofereixen i consumeixen begudes alcohòliques."
   },
   {
-    "titol": "Nico 2",
+    "titol": "Nico 2: Germà petit, problema gran",
     "codi": "5806346",
     "edat": "7",
     "orig": "TP",
@@ -7665,7 +7707,7 @@
     "titol": "Ràndom",
     "codi": "random",
     "edat": "10",
-    "orig": "10",
+    "orig": "10 (prèviament: 12)",
     "serie": true,
     "x3": true
   },
@@ -7684,7 +7726,7 @@
     "raons": "Violència ocasional, versemblant, explícita, d'intensitat greu, no legitimada (assetjament sexual)<br>Drogues lícites (alcohol), presentades de manera neutra<br>Comportaments basats en estereotips de gènere, presentats de forma neutra"
   },
   {
-    "titol": "Robin Hood el trapella de Sherwood",
+    "titol": "Robin Hood, el trapella de Sherwood",
     "codi": "robin-hood-mischief-sherwood",
     "edat": "0",
     "orig": "TP",
@@ -7702,7 +7744,7 @@
     "mesinfo": "<b>Violència</b><br>El protagonista pateix assetjament escolar, i hi ha escenes en què li disparen pilotes de paintball, el llencen a les escombraries o l'insulten. Hi ha una altra escena, presentant la violència en positiu però amb intencionalitat còmica, en què una dona es baralla amb una colla de motoristes.<br><br><b>Llenguatge groller</b><br>Un noi fa servir expressions com 'fotre', 'acollonir' o 'cagar a les calces' en una sola escena, agreujades per tenir intencionalitat ofensiva i algunes per la seva naturalesa sexista. També se'n senten d'altres durant la pel·lícula, que el protagonista menor fa servir, com 'merda'.<br><br>Hi ha situacions freqüents de por i angoixa amb una afectació lleu, ja que el protagonista està sovint en perill. També es mostren conductes i valors incívics presentats de manera negativa, com quan el protagonista amaga als seus pares que pateix assetjament."
   },
   {
-    "titol": "Ronja",
+    "titol": "Ronja, la filla del bandoler",
     "codi": "ronja-filla-bandoler",
     "edat": "10",
     "orig": "TP",
@@ -7710,157 +7752,157 @@
     "x3": true
   },
   {
-    "titol": "Ronja 1",
+    "titol": "Ronja, la filla del bandoler 1x01",
     "codi": "6189544",
     "edat": "0",
     "raons": "Por i angoixa ocasional d'afectació lleu"
   },
   {
-    "titol": "Ronja 2",
+    "titol": "Ronja, la filla del bandoler 1x02",
     "codi": "6189545",
     "edat": "0",
     "raons": "Por i angoixa ocasional d'afectació lleu"
   },
   {
-    "titol": "Ronja 3",
+    "titol": "Ronja, la filla del bandoler 1x03",
     "codi": "6189546",
     "edat": "7",
     "raons": "Por i angoixa freqüent d'afectació lleu"
   },
   {
-    "titol": "Ronja 4",
+    "titol": "Ronja, la filla del bandoler 1x04",
     "codi": "6189533",
     "edat": "7",
     "raons": "Por i angoixa ocasional d'afectació mitjana"
   },
   {
-    "titol": "Ronja 5",
+    "titol": "Ronja, la filla del bandoler 1x05",
     "codi": "6189534",
     "edat": "0",
     "raons": "Por i angoixa ocasional d'afectació lleu"
   },
   {
-    "titol": "Ronja 6",
+    "titol": "Ronja, la filla del bandoler 1x06",
     "codi": "6189532",
     "edat": "7",
     "raons": "Violència verbal freqüent d'intensitat lleu"
   },
   {
-    "titol": "Ronja 7",
+    "titol": "Ronja, la filla del bandoler 1x07",
     "codi": "6189535",
     "edat": "7",
     "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada<br>Por i angoixa freqüent d'afectació lleu"
   },
   {
-    "titol": "Ronja 8",
+    "titol": "Ronja, la filla del bandoler 1x08",
     "codi": "6189536",
     "edat": "0",
     "raons": "Violència ocasional, irreal, explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa ocasional d'afectació lleu"
   },
   {
-    "titol": "Ronja 9",
+    "titol": "Ronja, la filla del bandoler 1x09",
     "codi": "6189540",
     "edat": "0",
     "raons": "Por i angoixa ocasional d'afectació lleu"
   },
   {
-    "titol": "Ronja 10",
+    "titol": "Ronja, la filla del bandoler 1x10",
     "codi": "6189539",
     "edat": "7",
     "raons": "Por i angoixa freqüent d'afectació lleu"
   },
   {
-    "titol": "Ronja 11",
+    "titol": "Ronja, la filla del bandoler 1x11",
     "codi": "6189542",
     "edat": "0",
     "raons": "Por i angoixa ocasional d'afectació lleu"
   },
   {
-    "titol": "Ronja 12",
+    "titol": "Ronja, la filla del bandoler 1x12",
     "codi": "6189541",
     "edat": "0",
     "raons": "Por i angoixa ocasional d'afectació lleu"
   },
   {
-    "titol": "Ronja 13",
+    "titol": "Ronja, la filla del bandoler 1x13",
     "codi": "6189543",
     "edat": "0",
     "raons": "Por i angoixa ocasional d'afectació lleu"
   },
   {
-    "titol": "Ronja 14",
+    "titol": "Ronja, la filla del bandoler 1x14",
     "codi": "6191093",
     "edat": "7",
     "raons": "Violència ocasional, irreal, no explícita, d'intensitat lleu, no legitimada<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
-    "titol": "Ronja 15",
+    "titol": "Ronja, la filla del bandoler 1x15",
     "codi": "6191091",
     "edat": "10",
     "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada"
   },
   {
-    "titol": "Ronja 16",
+    "titol": "Ronja, la filla del bandoler 1x16",
     "codi": "6191092",
     "edat": "10",
     "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada"
   },
   {
-    "titol": "Ronja 17",
+    "titol": "Ronja, la filla del bandoler 1x17",
     "codi": "6191094",
     "edat": "7",
     "raons": "Por i angoixa freqüent d'afectació lleu"
   },
   {
-    "titol": "Ronja 18",
+    "titol": "Ronja, la filla del bandoler 1x18",
     "codi": "6191100",
     "edat": "7",
     "raons": "Por i angoixa freqüent d'afectació lleu"
   },
   {
-    "titol": "Ronja 19",
+    "titol": "Ronja, la filla del bandoler 1x19",
     "codi": "6191097",
     "edat": "7",
     "raons": "Por i angoixa ocasional d'afectació mitjana"
   },
   {
-    "titol": "Ronja 20",
+    "titol": "Ronja, la filla del bandoler 1x20",
     "codi": "6191099",
     "edat": "7",
     "raons": "Por i angoixa freqüent d'afectació lleu"
   },
   {
-    "titol": "Ronja 21",
+    "titol": "Ronja, la filla del bandoler 1x21",
     "codi": "6191098",
     "edat": "7",
     "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa freqüent d'afectació lleu"
   },
   {
-    "titol": "Ronja 22",
+    "titol": "Ronja, la filla del bandoler 1x22",
     "codi": "6191101",
     "edat": "7",
     "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa freqüent d'afectació lleu"
   },
   {
-    "titol": "Ronja 23",
+    "titol": "Ronja, la filla del bandoler 1x23",
     "codi": "6191096",
     "edat": "7",
     "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa freqüent d'afectació lleu"
   },
   {
-    "titol": "Ronja 24",
+    "titol": "Ronja, la filla del bandoler 1x24",
     "codi": "6191103",
     "edat": "10",
     "raons": "Al·lusions violentes i violència verbal freqüent d'intensitat lleu, no legitimada, i una escena breu de violència versemblant explícita"
   },
   {
-    "titol": "Ronja 25",
+    "titol": "Ronja, la filla del bandoler 1x25",
     "codi": "6191105",
     "edat": "10",
     "raons": "Violència freqüent, versemblant, explícita, d'intensitat lleu, legitimada"
   },
   {
-    "titol": "Ronja 26",
+    "titol": "Ronja, la filla del bandoler 1x26",
     "codi": "6191106",
     "edat": "7",
     "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada<br>Por i angoixa freqüent d'afectació lleu"
@@ -8495,7 +8537,7 @@
     "raons": "Por i angoixa ocasional d'afectació lleu"
   },
   {
-    "titol": "Trollhunters contes Arcàdia",
+    "titol": "Trollhunters: contes d'Arcàdia",
     "codi": "trollhunters-contes-arcadia",
     "edat": "10",
     "orig": "7",
@@ -8573,6 +8615,12 @@
     "edat": "0"
   },
   {
+    "titol": "Kóreo gala 9",
+    "codi": "6231558",
+    "edat": "0",
+    "mesinfo": "Algunes coreografies presenten una sexualització molt lleu. Una cançó fa servir l'expressió 'sexy lady' de fons."
+  },
+  {
     "titol": "X3 Games",
     "codi": "6195069",
     "edat": "7",
@@ -8601,7 +8649,7 @@
     "mesinfo": "<b>Violència</b><br>Diferents monstres, tant bons com dolents, s'esbatussen entre ells mitjançant cops, martellets de joguina, llamps elèctrics o explosions. Majoritàriament, ningú no surt ferit perquè alguns monstres simplement desapareixen en tocar-los, però el combat de la segona part de la pel·lícula és més prolongat i intens. Un dels bons és segrestat i amenaçat de morir cremat, de forma còmica. Hi ha una escena de violència versemblant, que es repeteix alguns cops, en què uns abusananos peguen un nen a terra, de forma no explícita, i ell s'enfada amb el seu amic perquè ha presenciat l'agressió i no l'ha ajudat. En una breu escena d'una sèrie de televisió, se senten trets i es veu una pistola, però no succeeix res més. Hi ha moments en què els monstres bons amics del protagonista són trepitjats o atropellats de forma còmica.<br><br><b>Por i angoixa</b><br>A més de les escenes de violència més tenses del final, hi ha moments en què veiem persones posseïdes, amb el rostre negre i ulls vermells, que atemoreixen els protagonistes, o quan creuen que algú els vigila. Tanmateix, en aquests casos qualsevol tensió sol ser breu i tallada ràpidament per situacions còmiques. Un dels monstres dolents té un aspecte de cara humana amb arrugues molt detallades; al final, aquest es transforma en un ésser més gros que provoca un esfondrament i tothom ha de fugir.<br><br><b>Llenguatge groller</b><br>Es diu 'fotre' ('no fotis', 'et fotré un bon crit') i 'idiotes'. També s'empren expressions com 'vell xaruc' o 'marrec', i bromes de naturalesa escatològica, concretament de fer pets i de tenir un tap al cul. En una escena, s'insinua que el fet de tenir capa de superheroi farà que totes les noies estiguin 'boges' per ell."
   },
   {
-    "titol": "Yu Yu Hakusho",
+    "titol": "Yu Yu Hakusho: Els defensors del més enllà",
     "codi": "yu-yu-hakusho-defensors-mes-enlla",
     "edat": "13",
     "orig": "12 (prèviament: 13)",
