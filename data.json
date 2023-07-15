@@ -906,14 +906,14 @@
     "codi": "6210876",
     "edat": "10",
     "raons": "Conductes i valors incívics amb sanció neutra",
-    "mesinfo": "<b>Conductes i valors incívics</b><br>Uns joves aprofiten una sortida escolar per fer unes activitats, distraient i amagant-ho al professor. Eventualment se n'adona i els renya. Els joves es disculpen, mostren al professor el vídeo que han fet al marge d'ell i aconsegueixen no ser castigats. En una escena, un noi diu que la seva tècnica per lligar és passar d'una noia perquè s'interessi per ell. La protagonista menteix als alumnes i al professor sobre el seu passat.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa ('hosti', 'idiota', 'cagar'). Hi ha situacions de provocar por o angoixa ocasionals amb afectació lleu."
+    "mesinfo": "<b>Conductes i valors incívics</b><br>Uns joves aprofiten una sortida escolar per fer unes activitats, distraient i amagant-ho al professor. Eventualment se n'adona i els renya. Els joves es disculpen, mostren al professor el vídeo que han fet al marge d'ell i aconsegueixen no ser castigats. En una escena, un noi diu que la seva tècnica per lligar és passar d'una noia perquè s'interessi per ell. La protagonista menteix als alumnes i al professor sobre el seu passat.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa ('hosti', 'idiota', 'cagar'). Hi ha situacions que por o angoixa ocasionals amb afectació lleu."
   },
   {
     "titol": "Busca'm a París 1x23",
     "codi": "6210975",
     "edat": "7",
     "raons": "Conductes i valors incívics amb sanció negativa",
-    "mesinfo": "<b>Conductes i valors incívics</b><br>La rival de la protagonista grava la conversa que tenen ella i la seva amiga sense consentiment per sabotejar-la. Es fa passar per ella, roba un objecte que no li pertany i menteix a un professor. D'altra banda, la protagonista pacta amb la seva amiga d'anar a un lloc juntes però acaba anant-hi sola; tot plegat li porta conseqüències negatives.<br><br>Hi ha situacions de provocar por o angoixa ocasionals amb afectació lleu."
+    "mesinfo": "<b>Conductes i valors incívics</b><br>La rival de la protagonista grava la conversa que tenen ella i la seva amiga sense consentiment per sabotejar-la. Es fa passar per ella, roba un objecte que no li pertany i menteix a un professor. D'altra banda, la protagonista pacta amb la seva amiga d'anar a un lloc juntes però acaba anant-hi sola; tot plegat li porta conseqüències negatives.<br><br>Hi ha situacions de por o angoixa ocasionals amb afectació lleu."
   },
   {
     "titol": "Busca'm a París 1x24",
@@ -935,6 +935,20 @@
     "edat": "7",
     "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa",
     "mesinfo": "<b>Por i angoixa</b><br>Hi ha persecucions i gent que està atrapada en llocs tancats, en escenes amb certa naturalesa còmica. Es crea un forat en el temps per la presència de dues màquines del temps juntes. Personatges ploren perquè han d'acomiadar-se.<br><br><b>Llenguatge groller</b><br>Es diu 'merda', 'cagar' i 'acollonida' un cop cadascun.<br><br>Un noi veu un el seu cap amb una noia qui no coneix i es creu que ell està lligant."
+  },
+  {
+    "titol": "Busca'm a París 2x01",
+    "codi": "6230935",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Por i angoixa</b><br>Diverses persones es mostren visiblement afectades pel fet que un company d'escola l'abandoni. Hi ha persecucions i uns nois s'han d'amagar en un armari perquè han entrat uns vigilants per inspeccionar un despatx.<br><br><b>Llenguatge groller</b><br>Es diu 'acollonint', 'hosti' i 'se la va fotre' un cop cadascun.<br><br>Una noia antagonista es fa passar per una altra persona davant d'una persona inexperta en una època passada, i queda evident que menteix. Dues noies parlen, aparentment de broma, de hackejar el compte d'una noia que ha marxat."
+  },
+  {
+    "titol": "Busca'm a París 2x02",
+    "codi": "6230939",
+    "edat": "7",
+    "raons": "Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "<b>Conductes i valors incívics</b><br>Dues amigues menteixen i manipulen el compte d'una altra persona mentre ella no hi és, amb la intenció que no es noti que ha desaparegut. Uns alumnes parlen a classe i es distreuen, en part pel fet que aquesta noia desaparegués, el que fa que el professor els cridi l'atenció. Uns alumnes no es creuen les publicacions que es pengen en el compte de la noia desapareguda, però no hi ha una sanció explícita pel fet que les responsables menteixin. Igualment, el context és tan irreal que és difícil que inciti a imitar-ne els comportaments.<br><br>Hi ha situacions de por o angoixa ocasionals amb afectació lleu, quan un professor alça el to renyant a una alumna."
   },
   {
     "titol": "Buscant la màgica Doremi",
