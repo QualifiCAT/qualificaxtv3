@@ -5964,8 +5964,8 @@
     "titol": "La mainadera ninja 1x10",
     "codi": "6231168",
     "edat": "10",
-    "raons": "Conductes i valors incívics amb sanció neutra",
-    "mesinfo": "<b>Conductes i valors incívics</b><br>Una nena marxa de casa i segresta el seu germanastre, preocupant greument els seus pares, per tal de rebre més atenció per part dels seus pares, que a tot li 'diuen que no'. A les persones que la 'salven', els demana que no ho expliquin.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa ('merda', 'ruc, 'sonat'). Hi ha situacions de por i angoixa ocasionals d'afectació mitjana; vegeu 'Conductes i valors incívics': el suposat segrestador parla amb la família per telèfon i els amenaça de matar els nens, i un noi visiblement afectat s'encara amb una noia amb una arma. Una dona, molt angoixada, demana un cigarret, però no la veiem fumant. Un home és un masclista que, a un comentari de 'no sé pas què faria sense tu', respon 'totes les dones em diuen el mateix', i pica el cul de la dona que li ho diu."
+    "raons": "Conductes i valors incívics amb sanció positiva",
+    "mesinfo": "<b>Conductes i valors incívics</b><br>Una nena marxa de casa i segresta el seu germanastre, preocupant greument els seus pares, per tal de rebre més atenció per part dels seus pares, que a tot li 'diuen que no'. A les persones que la 'salven', els demana que no ho expliquin. La nena aconsegueix el seu objectiu i sense rebre cap sanció negativa de ningú.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa ('merda', 'ruc, 'sonat'). Hi ha situacions de por i angoixa ocasionals d'afectació mitjana; vegeu 'Conductes i valors incívics': el suposat segrestador parla amb la família per telèfon i els amenaça de matar els nens, i un noi visiblement afectat s'encara amb una noia amb una arma. Una dona, molt angoixada, demana un cigarret, però no la veiem fumant. Un home és un masclista que, a un comentari de 'no sé pas què faria sense tu', respon 'totes les dones em diuen el mateix', i pica el cul de la dona que li ho diu."
   },
   {
     "titol": "Lara i Kali",
@@ -7602,6 +7602,13 @@
     "edat": "10",
     "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada",
     "mesinfo": "<b>Violència</b><br>Un home explica el seu pla per matar una dona i fer que sembli un accident, per tal d'heretar totes les seves propietats. Es mostra, de manera no explícita, com un home és executat públicament. Imatges impressionistes mostren un atac en un poble i atacs d'espasa. En resposta als insults que li ha donat, un home pega (no explícitament) a un altre, deixant-li la galta vermella, i l'agafa per la camisa i aixeca el puny, però no passa res perquè són aturats.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa, com 'idiota', 'burro' o 'merda'."
+  },
+  {
+    "titol": "One Piece 1x11",
+    "codi": "6228285",
+    "edat": "10",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada<br>Por i angoixa freqüent d'afectació mitjana",
+    "mesinfo": "<b>Violència</b><br>Un home dispara contra un altre, deixant-li una ferida al braç; la sang es mostra a càmera en comptades ocasions. Hi ha situacions de violència molt lleu: un cop de puny implícit d'un episodi anterior, l'ús de bales de goma llençades per un home per reduir uns guàrdies, i una bufetada implícita que una noia dona a un home.<br><br><b>Por i angoixa</b><br>La història relata com un home, després de saber que uns pirates saquejaran un poble i mataran una amiga seva, intenta advertir-los i ajudar-los a fugir, però ningú no se'l creu perquè ell té fama de no dir la veritat mai. La història es presenta de manera especialment dramàtica. Vegeu també 'Violència'.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa, com 'merda' i 'burro'."
   },
   {
     "titol": "One Piece: Estampida",
