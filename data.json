@@ -20,7 +20,7 @@
     "codi": "6154006",
     "edat": "10",
     "orig": "TP",
-    "comp": "🇪🇦 16 (RTVE) 🇫🇷 Tous publics",
+    "comp": "🇪🇦 16 (RTVE) 🇫🇷 TP",
     "raons": "Violència ocasional, irreal, explícita, d'intensitat greu, no legitimada<br>Por i angoixa freqüent d'afectació mitjana<br>Llenguatge groller ocasional d'intensitat alta",
     "mesinfo": "<b>Violència</b><br>En una escena provinent d'una sèrie humorística de televisió que protagonitzava, Zelenski agafa unes metralladores i comença a disparar indiscriminadament a tota la gent que es trobava en una sala, fent-los caure a tots de forma poc realista i sense fer brollar sang, tot i que amb cert èmfasi per l'ús d'efectes de càmera lenta. Pel to del documental queda evident que no es pretén legitimar la violència, i només serveix d'exemple per a demostrar com el seu paper de president va acabar esdevenint real.<br><br><b>Por i angoixa</b><br>Durant el programa hi ha múltiples usos de llenguatge violent en referir-se a la guerra que s'està patint a Ucraïna, com intent d'assassinat, bombes, invasió, armes, resistència, matances, 'repartiment d'armes a tothom qui tingui experiència en combat', 'lluitar pels nostres drets, per sobreviure', així com referències poc detallades a l'extermini dels jueus durant la Segona Guerra Mundial (amb una imatge de gent menjant al carrer) i als enfrontaments a la Plaça Maidan. Les imatges més explícites de violència també són limitades. Tanmateix, s'intercalen sovint en el documental imatges d'explosions o incendis enmig del carrer o en edificis, d'un atac que fa sacsejar la càmera, o de soldats o tancs disparant. En una ocasió, es veu una persona estesa a terra.<br><br><b>Llenguatge groller</b><br>Un cartell diu, segons els subtítols, 'Ucraïna no és una puta'. Un fragment d'una sèrie de televisió que Zelenski protagonista mostra una discussió amb un alumne, que se subtitula: 'Aquells inútils arriben al poder i ens foten tot el que tenim, collons! Els malparits es diuen noms diferents, però tots foten el mateix. (...) S'haurien acabat (...) totes les collonades.' La versió original del fragment en realitat censurava el llenguatge groller.<br><br>Hi ha continguts sexuals ocasionals d'explicitació baixa: en alguns fragments esporàdics provinents dels esquetxos que protagonitzà com a humorista, Zelenski apareix en un llit amb dues dones, fent moviments pelvians de broma, ballant en roba relativament suggerent o es menciona una 'amant secreta'. En una de les actuacions, ell i una altra persona simulen que estan tocant un piano amb el penis. En una ocasió es fa una referència a servir-se 'un gotet de Martini'. En un altre moment, Zelenski diu que vol demostrar a la gent que entre els candidats a president no hi ha 'alcohòlics ni toxicòmans'."
   },
@@ -169,6 +169,7 @@
     "codi": "artus-vailets-taula-rodona",
     "edat": "7",
     "orig": "TP",
+    "comp": "🇩🇪 0 🇵🇱 7",
     "serie": true,
     "x3": true
   },
@@ -219,6 +220,7 @@
     "codi": "6194455",
     "edat": "7",
     "orig": "TP",
+    "comp": "🇩🇪 0 🇬🇧 PG 🇦🇺 PG 🇳🇱 6 🇫🇮 7 🇧🇷 L",
     "peli": true,
     "x3": true,
     "raons": "Violència reiterada, irreal, explícita, d'intensitat molt lleu, legitimada<br>Contingut sexual ocasional d'explicitació baixa<br>Llenguatge groller ocasional d'intensitat baixa"
@@ -243,6 +245,7 @@
     "codi": "bestial",
     "edat": "0",
     "orig": "TP",
+    "comp": "🇦🇺 G",
     "serie": true,
     "x3": true
   },
@@ -450,6 +453,7 @@
     "codi": "black-clover",
     "edat": "13",
     "orig": "12",
+    "comp": "🇺🇲 TV-14 🇩🇪 12 🇬🇧 15 🇦🇺 M 🇫🇷 10",
     "serie": true,
     "x3": true
   },
@@ -779,6 +783,7 @@
     "codi": "5806569",
     "edat": "7",
     "orig": "TP",
+    "comp": "🇺🇲 PG 🇩🇪 0 🇬🇧 U 🇦🇺 G 🇫🇮 7 🇫🇷 TP",
     "peli": true,
     "x3": true,
     "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
@@ -788,6 +793,7 @@
     "codi": "6210525",
     "edat": "10",
     "orig": "7",
+    "comp": "🇺🇲 PG 🇩🇪 12 🇬🇧 PG 🇦🇺 PG 🇳🇱 6 🇧🇷 10 🇫🇷 TP amb avís",
     "peli": true,
     "x3": true,
     "raons": "Violència freqüent, irreal, explícita, d'intensitat lleu, legitimada<br>Conductes i valors incívics amb sanció neutra",
@@ -798,6 +804,7 @@
     "codi": "6210524",
     "edat": "10",
     "orig": "7",
+    "comp": "🇺🇲 TV-PG 🇩🇪 12 🇬🇧 12 🇦🇺 PG 🇳🇱 12 🇧🇷 10",
     "peli": true,
     "x3": true,
     "raons": "Violència freqüent, irreal, explícita, d'intensitat lleu, legitimada",
@@ -808,6 +815,7 @@
     "codi": "bricociencia",
     "edat": "0",
     "orig": "TP",
+    "comp": "🇺🇲 TV-PG",
     "serie": true,
     "x3": true
   },
@@ -870,6 +878,7 @@
     "codi": "buscam-paris",
     "edat": "10",
     "orig": "7 (prèviament: 10)",
+    "comp": "🇺🇲 TV-PG 🇩🇪 6 🇦🇺 G 🇳🇱 6 🇫🇮 7",
     "serie": true,
     "x3": true
   },
@@ -1129,6 +1138,7 @@
     "codi": "6193457",
     "edat": "13",
     "orig": "TP",
+    "comp": "🇬🇧 PG",
     "peli": true,
     "x3": true,
     "raons": "Consum de drogues lícites (alcohol) presentat de forma neutra"
@@ -1138,6 +1148,7 @@
     "codi": "5817761",
     "edat": "7",
     "orig": "TP",
+    "comp": "🇳🇱 6",
     "peli": true,
     "x3": true,
     "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, legitimada<br>Por i angoixa freqüent d'afectació lleu<br>(Nota: Inclou reiteradament estereotips de gènere que poden ser problemàtics.)"
@@ -1147,6 +1158,7 @@
     "codi": "daventura-castigats",
     "edat": "10",
     "orig": "TP",
+    "comp": "🇺🇲 TV-PG",
     "serie": true,
     "x3": true
   },
@@ -1292,6 +1304,7 @@
     "codi": "6211646",
     "edat": "10",
     "orig": "7",
+    "comp": "🇩🇪 12 🇬🇧 PG 🇦🇺 PG",
     "peli": true,
     "x3": true,
     "raons": "Violència freqüent, irreal, explícita, d'intensitat lleu, legitimada<br>Por i angoixa freqüent d'afectació mitjana<br>Consum de drogues lícites (alcohol), presentades de manera neutra",
@@ -1318,6 +1331,7 @@
     "codi": "dracs-nous-horitzons",
     "edat": "7",
     "orig": "TP",
+    "comp": "🇪🇸 7 (VOD) 🇺🇲 TV-Y7-FV 🇩🇪 6 🇬🇧 PG 🇦🇺 PG 🇳🇱 6 🇧🇷 L",
     "serie": true,
     "x3": true
   },
@@ -1326,19 +1340,16 @@
     "codi": "dracs-defensors-illa-fred",
     "edat": "7",
     "orig": "TP",
+    "comp": "🇺🇲 TV-PG 🇩🇪 6 🇬🇧 PG 🇦🇺 PG 🇳🇱 6 🇫🇮 7 🇧🇷 L",
     "serie": true,
     "x3": true
-  },
-  {
-    "titol": "Dracs: El regal de la fúria nocturna títol",
-    "codi": "dracs-regal-furia-nocturna",
-    "edat": "7"
   },
   {
     "titol": "Dracs: El regal de la fúria nocturna",
     "codi": "6202323",
     "edat": "7",
     "orig": "TP",
+    "comp": "🇺🇲 TV-G 🇬🇧 U",
     "peli": true,
     "x3": true,
     "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
@@ -1348,6 +1359,7 @@
     "codi": "dracs-nou-regnes",
     "edat": "7",
     "orig": "TP",
+    "comp": "🇺🇲 TV-Y7",
     "serie": true,
     "x3": true
   },
@@ -1538,6 +1550,7 @@
     "codi": "dracs-genets-illa-fred",
     "edat": "7",
     "orig": "TP",
+    "comp": "🇺🇲 TV-PG 🇩🇪 6 🇬🇧 PG 🇦🇺 PG 🇳🇱 6 🇫🇮 7 🇧🇷 L",
     "serie": true,
     "x3": true
   },
@@ -1732,6 +1745,7 @@
     "codi": "detectiu-conan",
     "edat": "13",
     "orig": "7 (prèviament: 13)",
+    "comp": "🇪🇸 12 (VOD) 🇺🇲 TV-14 🇩🇪 12 🇬🇧 12 🇦🇺 M 🇫🇷 10",
     "serie": true,
     "x3": true
   },
@@ -1769,7 +1783,7 @@
     "titol": "El detectiu Conan: Història d'amor a la comissaria",
     "codi": "6211303",
     "edat": "13",
-    "orig": "12",
+    "orig": "12"
     "peli": true,
     "x3": true,
     "raons": "Violència freqüent, versemblant, no explícita, d'intensitat lleu, no legitimada<br>Consum de drogues lícites, presentades de manera neutra",
@@ -1780,6 +1794,7 @@
     "codi": "6190209",
     "edat": "13",
     "orig": "7",
+    "comp": "🇩🇪 12 🇦🇺 M 🇳🇱 12",
     "peli": true,
     "x3": true,
     "raons": "Violència ocasional, versemblant, explícita, d'intensitat greu, no legitimada<br>Abús de drogues lícites (alcohol), presentat neutralment"
@@ -1788,7 +1803,7 @@
     "titol": "El detectiu Conan: The Scarlet Alibi",
     "codi": "6190210",
     "edat": "13",
-    "orig": "12",
+    "orig": "12"
     "peli": true,
     "x3": true,
     "raons": "Violència freqüent, versemblant, explícita, d'intensitat greu, no legitimada"
@@ -1798,6 +1813,7 @@
     "codi": "llibre-selva",
     "edat": "7",
     "orig": "TP (prèviament: 7)",
+    "comp": "🇺🇲 TV-Y7 🇩🇪 6 🇬🇧 U 🇦🇺 G 🇫🇮 7",
     "serie": true,
     "x3": true
   },
@@ -1806,6 +1822,7 @@
     "codi": "3886430",
     "edat": "7",
     "orig": "TP",
+    "comp": "🇺🇲 G",
     "peli": true,
     "x3": true,
     "raons": "Violència ocasional, irreal, explícita, d'intensitat molt lleu, legitimada<br>Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa"
@@ -1815,6 +1832,7 @@
     "codi": "6087816",
     "edat": "7",
     "orig": "TP",
+    "comp": "🇺🇲 TV-PG 🇬🇧 U",
     "peli": true,
     "x3": true,
     "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, legitimada<br>Por i angoixa freqüent d'afectació lleu"
@@ -1824,6 +1842,7 @@
     "codi": "6209979",
     "edat": "10",
     "orig": "7",
+    "comp": "🇺🇲 PG",
     "peli": true,
     "x3": true,
     "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, legitimada<br>Conductes i valors incívics amb sanció neutra",
@@ -1834,6 +1853,7 @@
     "codi": "millor-en-tot",
     "edat": "7",
     "orig": "TP",
+    "comp": "🇳🇴 A",
     "serie": true,
     "x3": true
   },
@@ -1947,6 +1967,7 @@
     "codi": "mon-beakman",
     "edat": "0",
     "orig": "7 (prèviament: 10)",
+    "comp": "🇺🇲 TV-PG 🇧🇷 L",
     "serie": true,
     "x3": true
   },
@@ -1955,6 +1976,7 @@
     "codi": "6129416",
     "edat": "0",
     "orig": "TP",
+    "comp": "🌐 6+ (Disney+) 🇺🇲 TV-Y7",
     "peli": true,
     "x3": true,
     "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa ocasional d'afectació lleu"
@@ -1964,6 +1986,7 @@
     "codi": "3-sota-contes-arcadia",
     "edat": "10",
     "orig": "7",
+    "comp": "🇺🇲 TV-Y7-FV 🇩🇪 6 🇬🇧 PG 🇦🇺 PG 🇳🇱 6 🇧🇷 10",
     "serie": "true",
     "x3": true
   },
@@ -1972,6 +1995,7 @@
     "codi": "dalton",
     "edat": "7",
     "orig": "TP (prèviament: 7)",
+    "comp": "🇺🇲 TV-PG 🇫🇮 7",
     "serie": true,
     "x3": true
   },
@@ -1988,6 +2012,7 @@
     "codi": "germans-kratt",
     "edat": "0",
     "orig": "TP (prèviament: 7)",
+    "comp": "🇺🇲 TV-Y 🇩🇪 0 🇬🇧 U 🇦🇺 G",
     "serie": true,
     "x3": true
   },
@@ -1996,6 +2021,7 @@
     "codi": "6194917",
     "edat": "10",
     "orig": "TP",
+    "comp": "🇩🇪 6 🇳🇱 9",
     "peli": true,
     "x3": true,
     "raons": "Llenguatge groller freqüent d'intensitat baixa<br>Conductes i valors incívics amb sanció neutra"
@@ -2005,6 +2031,7 @@
     "codi": "mini-ninges",
     "edat": "7",
     "orig": "TP",
+    "comp": "🇳🇱 6 🇫🇮 7",
     "serie": true,
     "x3": true
   },
@@ -2133,6 +2160,7 @@
     "codi": "pinguins-madagascar",
     "edat": "7",
     "orig": "TP (prèviament: 7)",
+    "comp": "🇺🇲 TV-Y7 🇩🇪 6 🇬🇧 U 🇦🇺 PG 🇳🇱 6 🇫🇮 7 🇧🇷 L",
     "serie": true,
     "x3": true
   },
@@ -2141,6 +2169,7 @@
     "codi": "xai-shaun",
     "edat": "0",
     "orig": "TP",
+    "comp": "🇺🇲 TV-G 🇩🇪 0 🇬🇧 U 🇦🇺 G 🇳🇱 AL 🇫🇮 S 🇧🇷 L",
     "serie": true,
     "x3": true
   },
@@ -2149,6 +2178,7 @@
     "codi": "grizzy-i-els-lemmings",
     "edat": "0",
     "orig": "TP",
+    "comp": "🇺🇲 TV-Y7 🇩🇪 6 🇬🇧 U 🇦🇺 G 🇳🇱 6 🇫🇮 7 🇧🇷 L",
     "serie": true,
     "x3": true
   },
@@ -3234,6 +3264,7 @@
     "codi": "expedient-zack",
     "edat": "7",
     "orig": "TP (prèviament: 10)",
+    "comp": "🇺🇲 TV-Y7 🇩🇪 0",
     "serie": true,
     "x3": true
   },
@@ -3306,6 +3337,7 @@
     "codi": "fora-control",
     "edat": "10",
     "orig": "7",
+    "comp": "🇺🇲 TV-PG 🇩🇪 6 🇬🇧 PG 🇦🇺 PG 🇳🇱 12 🇧🇷 10",
     "serie": true,
     "x3": true
   },
@@ -3404,6 +3436,7 @@
     "codi": "george-jungla",
     "edat": "7",
     "orig": "TP",
+    "comp": "🇺🇲 TV-Y7 🇦🇺 G 🇳🇱 AL 🇫🇮 7",
     "serie": true,
     "x3": true
   },
@@ -3412,6 +3445,7 @@
     "codi": "ghostforce",
     "edat": "7",
     "orig": "TP",
+    "comp": "🇪🇸 TP (TV) 🇺🇲 TV-Y7 🇩🇪 6 🇳🇱 6",
     "serie": true,
     "x3": true
   },
@@ -3438,6 +3472,7 @@
     "codi": "guardians-nit-kimetsu",
     "edat": "13",
     "orig": "13 (prèviament: 12)",
+    "comp": "🇪🇦 12 (DVD), 18 (VOD) 🇺🇲 TV-MA (TV), TV-14 (DVD) 🇩🇪 16 🇬🇧 15 🇦🇺 MA15+ 🇳🇱 12 🇧🇷 16 🇫🇷 10",
     "serie": true,
     "x3": true
   },
@@ -3457,7 +3492,7 @@
     "titol": "Guardians de la nit: Kimetsu no Yaiba 1x03",
     "codi": "6178877",
     "edat": "10",
-    "raons": "Violència ocasional, irreal, no explícita, d'intensitat greu, no legitimada (imatges cruentes)<br>Por i angoixa ocasional d'afectació alta"
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat greu, no legitimada<br>Por i angoixa ocasional d'afectació alta"
   },
   {
     "titol": "Guardians de la nit: Kimetsu no Yaiba 1x04",
@@ -3578,6 +3613,7 @@
     "codi": "6193236",
     "edat": "13",
     "orig": "16",
+    "comp": "🇺🇲 R 🇩🇪 16 🇬🇧 15 🇦🇺 MA15+ 🇳🇱 12 🇫🇮 12 🇧🇷 14 🇫🇷 TP amb avís 🇵🇹 M/14",
     "peli": true,
     "x3": true,
     "raons": "Violència freqüent, irreal, molt explícita, d'intensitat greu, legitimada<br>Por i angoixa freqüent d'afectació alta"
@@ -3587,6 +3623,7 @@
     "codi": "haikyu",
     "edat": "10",
     "orig": "12",
+    "comp": "🇺🇲 TV-14 🇩🇪 12 🇬🇧 12 🇦🇺 PG",
     "serie": true,
     "x3": true
   },
@@ -3898,6 +3935,7 @@
     "codi": "herois-amb-cua",
     "edat": "10",
     "orig": "TP",
+    "comp": "🇳🇱 9",
     "serie": true,
     "x3": true
   },
@@ -3997,6 +4035,7 @@
     "codi": "hoddie",
     "edat": "10",
     "orig": "10",
+    "comp": "🇳🇱 9",
     "serie": true,
     "x3": true
   },
@@ -4936,7 +4975,7 @@
     "edat": "0"
   },
   {
-    "titol": "Ideafix",
+    "titol": "Ideafix i els irreductibles",
     "codi": "ideafix-irreductibles",
     "edat": "7",
     "orig": "TP",
@@ -4948,6 +4987,7 @@
     "codi": "inazuma-eleven",
     "edat": "7",
     "orig": "TP",
+    "comp": "🇪🇦 TP (VOD, TV) 🇺🇲 TV-Y7 🇩🇪 6 🇳🇱 6 🇧🇷 L",
     "serie": true,
     "x3": true
   },
@@ -5063,6 +5103,7 @@
     "codi": "inuyasha",
     "edat": "13",
     "orig": "13",
+    "comp": "🇪🇸 13 (<2010), 12 (DVD), 16 (VOD) 🇺🇲 TV-14 🇩🇪 12 🇬🇧 15 🇦🇺 M 🇳🇱 6 🇧🇷 12",
     "serie": true,
     "x3": true
   },
@@ -5071,6 +5112,7 @@
     "codi": "itch",
     "edat": "10",
     "orig": "7",
+    "comp": "🇺🇲 TV-PG 🇦🇺 PG 🇫🇮 12",
     "serie": true,
     "x3": true
   },
@@ -5145,6 +5187,7 @@
     "codi": "invizimals",
     "edat": "7",
     "orig": "7",
+    "comp": "🇺🇲 TV-Y7 🇩🇪 6 🇦🇺 PG 🇳🇱 6",
     "serie": true,
     "x3": true
   },
@@ -5196,6 +5239,7 @@
     "codi": "jo-elvis-riboldi",
     "edat": "0",
     "orig": "TP",
+    "comp": "🇦🇺 G 🇳🇱 AL 🇫🇮 7",
     "serie": true,
     "x3": true
   },
@@ -5204,6 +5248,7 @@
     "codi": "kung-fu-panda-potes-desti",
     "edat": "7",
     "orig": "TP",
+    "comp": "🇺🇲 TV-Y7 🇩🇪 6 🇬🇧 PG 🇳🇱 6",
     "serie": true,
     "x3": true
   },
@@ -5212,6 +5257,7 @@
     "codi": "kung-fu-panda-llegendes-increibles",
     "edat": "7",
     "orig": "TP",
+    "comp": "🇺🇲 TV-Y7 🇩🇪 6 🇬🇧 PG 🇦🇺 PG 🇳🇱 6 🇫🇮 7",
     "serie": true,
     "x3": true
   },
@@ -5220,6 +5266,7 @@
     "codi": "casa-anubis",
     "edat": "10",
     "orig": "7",
+    "comp": "🇺🇲 TV-G 🇩🇪 6 🇬🇧 PG 🇦🇺 PG 🇳🇱 9 🇫🇮 7 🇧🇷 10",
     "serie": true,
     "x3": true
   },
@@ -6008,6 +6055,7 @@
     "codi": "colla-selva-rescat",
     "edat": "7",
     "orig": "TP",
+    "comp": "🇺🇲 TV-Y 🇩🇪 0 🇫🇮 7",
     "serie": true,
     "x3": true
   },
@@ -6040,6 +6088,7 @@
     "codi": "6211640",
     "edat": "7",
     "orig": "TP",
+    "comp": "🇩🇪 0",
     "peli": true,
     "x3": true,
     "raons": "Violència reiterada, irreal, explícita, d'intensitat molt lleu, legitimada<br>Llenguatge groller ocasional d'intensitat baixa",
@@ -6079,6 +6128,7 @@
     "codi": "6087810",
     "edat": "7",
     "orig": "TP",
+    "comp": "🇺🇲 TV-PG 🇬🇧 U 🇳🇱 6",
     "peli": true,
     "x3": true,
     "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, legitimada<br>Por i angoixa freqüent d'afectació lleu"
@@ -6088,6 +6138,7 @@
     "codi": "mainadera-ninja",
     "edat": "10",
     "orig": "7",
+    "comp": "🇳🇱 9",
     "serie": true,
     "x3": true
   },
@@ -6281,6 +6332,7 @@
     "codi": "lara-que-fem",
     "edat": "10",
     "orig": "10",
+    "comp": "🇫🇮 7",
     "serie": true,
     "x3": true
   },
@@ -6289,6 +6341,7 @@
     "codi": "6209977",
     "edat": "7",
     "orig": "TP",
+    "comp": "🇺🇲 PG 🇦🇺 G",
     "peli": true,
     "x3": true,
     "raons": "Violència freqüent, irreal, explícita, d'intensitat lleu, no legitimada<br>Por i angoixa freqüent d'afectació lleu",
@@ -6299,6 +6352,7 @@
     "codi": "6209978",
     "edat": "7",
     "orig": "TP",
+    "comp": "🇩🇪 6 🇦🇺 PG",
     "peli": true,
     "x3": true,
     "raons": "Por i angoixa freqüent d'afectació lleu<br>Consum de drogues lícites (tabac), presentades de manera negativa<br>Llenguatge groller freqüent d'intensitat baixa",
@@ -6401,6 +6455,7 @@
     "codi": "misterioses-ciutats-or",
     "edat": "7",
     "orig": "TP",
+    "comp": "🇩🇪 6 🇬🇧 PG 🇦🇺 PG",
     "serie": true,
     "x3": true
   },
@@ -6409,6 +6464,7 @@
     "codi": "les-noves-aventures-de-peter-pan",
     "edat": "0",
     "orig": "TP",
+    "comp": "🇺🇲 TV-Y7-FV 🇩🇪 0 🇦🇺 PG 🇳🇱 6",
     "serie": true,
     "x3": true
   },
@@ -6417,6 +6473,7 @@
     "codi": "regles-de-la-floor",
     "edat": "10",
     "orig": "TP",
+    "comp": "🇪🇸 7 (TV) 🇩🇪 6 🇳🇱 9",
     "serie": true,
     "x3": true
   },
@@ -6712,6 +6769,7 @@
     "codi": "les-sisters",
     "edat": "7",
     "orig": "TP",
+    "comp": "🇳🇱 AL",
     "serie": true,
     "x3": true
   },
@@ -6798,6 +6856,7 @@
     "codi": "6087813",
     "edat": "7",
     "orig": "TP",
+    "comp": "🇺🇲 TV-PG 🇩🇪 0 🇬🇧 U",
     "peli": true,
     "x3": true,
     "raons": "Violència freqüent, irreal, no explícita, d'intensitat molt lleu, legitimada"
@@ -6807,6 +6866,7 @@
     "codi": "lucas-etc",
     "edat": "10",
     "orig": "TP",
+    "comp": "🇳🇱 9",
     "serie": true,
     "x3": true
   },
@@ -7141,6 +7201,7 @@
     "codi": "6194572",
     "edat": "13",
     "orig": "7",
+    "comp": "🇩🇪 12 🇬🇧 12 🇦🇺 M 🇫🇷 TP",
     "peli": true,
     "x3": true,
     "raons": "Violència freqüent, versemblant, explícita, d'intensitat lleu, legitimada"
@@ -7150,6 +7211,7 @@
     "codi": "mags-contes-arcadia",
     "edat": "10",
     "orig": "7",
+    "comp": "🇺🇲 TV-Y7-FV 🇩🇪 6 🇬🇧 PG 🇦🇺 PG 🇳🇱 6 🇧🇷 10",
     "serie": true,
     "x3": true
   },
@@ -7527,6 +7589,7 @@
     "codi": "6211735",
     "edat": "7",
     "orig": "TP",
+    "comp": "🇺🇲 PG 🇩🇪 6 🇬🇧 U 🇦🇺 PG 🇫🇮 7 🇧🇷 L 🇫🇷 TP",
     "peli": true,
     "x3": true,
     "raons": "Por i angoixa freqüent d'afectació lleu",
@@ -7537,6 +7600,7 @@
     "codi": "6210082",
     "edat": "10",
     "orig": "7",
+    "comp": "🇧🇷 12",
     "peli": true,
     "x3": true,
     "raons": "Violència freqüent, irreal, explícita, d'intensitat lleu, legitimada<br>Contingut sexual ocasional d'explicitació mitjana<br>Por i angoixa freqüent d'afectació mitjana",
@@ -7631,6 +7695,7 @@
     "codi": "mopies",
     "edat": "13",
     "orig": "13",
+    "comp": "🇪🇸 7, TP (segons canal de TV)",
     "serie": true,
     "x3": true
   },
@@ -7667,6 +7732,7 @@
     "codi": "6189552",
     "edat": "13",
     "orig": "12",
+    "comp": "🇺🇲 PG-13 🇩🇪 12 🇬🇧 15 🇦🇺 M 🇳🇱 12 🇧🇷 12",
     "peli": true,
     "x3": true,
     "raons": "Violència ocasional, versemblant, explícita, d'intensitat greu, no legitimada"
@@ -7676,6 +7742,7 @@
     "codi": "6210526",
     "edat": "13",
     "orig": "12",
+    "comp": "🇺🇲 PG-13 🇩🇪 12 🇬🇧 12 🇦🇺 PG 🇳🇱 12 🇫🇮 12 🇧🇷 12",
     "peli": true,
     "x3": true,
     "raons": "Violència reiterada, irreal, explícita, d'intensitat greu, legitimada",
@@ -7686,6 +7753,7 @@
     "codi": "6210284",
     "edat": "13",
     "orig": "7",
+    "comp": "🇺🇲 PG-13 🇩🇪 12 🇬🇧 15 🇦🇺 MA15+ 🇳🇱 12 🇫🇮 12 🇧🇷 12 🇫🇷 TP",
     "peli": true,
     "x3": true,
     "raons": "Violència freqüent, irreal, molt explícita, d'intensitat greu, legitimada<br>Por i angoixa freqüent d'afectació alta",
@@ -7696,6 +7764,7 @@
     "codi": "5806346",
     "edat": "7",
     "orig": "TP",
+    "comp": "🇺🇲 G 🇩🇪 0 🇳🇱 6 🇫🇮 7 🇧🇷 L 🇫🇷 TP",
     "peli": true,
     "x3": true,
     "raons": "Por i angoixa freqüent d'afectació lleu<br>Conductes i valors incívics amb sanció negativa"
@@ -7729,6 +7798,7 @@
     "codi": "one-piece",
     "edat": "13",
     "orig": "10 (prèviament: 13)",
+    "comp": "🇺🇲 TV-14 🇩🇪 12 🇬🇧 15 🇦🇺 MA15+ 🇳🇱 6 🇧🇷 16 🇫🇷 10",
     "serie": true,
     "x3": true
   },
@@ -7863,6 +7933,7 @@
     "codi": "6210083",
     "edat": "13",
     "orig": "16",
+    "comp": "🇺🇲 TV-14 🇩🇪 12 🇬🇧 12 🇦🇺 PG",
     "peli": true,
     "x3": true,
     "raons": "Consum de drogues lícites (tabac, alcohol), presentades de manera positiva",
@@ -7873,6 +7944,7 @@
     "codi": "perduts-a-oz",
     "edat": "7",
     "orig": "TP",
+    "comp": "🇪🇸 7 (VOD) 🇺🇲 TV-Y7 🇩🇪 6 🇬🇧 U 🇳🇱 6 🇫🇮 7",
     "serie": true,
     "x3": true
   },
@@ -7881,6 +7953,7 @@
     "codi": "5817536",
     "edat": "7",
     "orig": "TP",
+    "comp": "🇩🇪 0",
     "peli": true,
     "x3": true,
     "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada<br>Por i angoixa freqüent d'afectació lleu<br>Conductes i valors incívics amb sanció negativa"
@@ -7965,7 +8038,7 @@
     "mesinfo": "<b>Violència</b><br>Un esquetx del programa tracta els casos dels coneguts de Vladímir Putin que van morir en 'estranyes circumstàncies'. Es veu un home penjat (només se li veuen els peus, i com queda suspès en l'aire), i es diu que 'semblava un suïcidi' però que va ser assassinat. Altres escenes de morts són més inversemblants, i mostren un ninot saltant d'una finestra i un home a qui li ha caigut un piano a sobre. El programa inclou altres continguts violents d'intensitat lleu, també amb una intencionalitat còmica, com quan Putin i un militar rus apunten amb armes per intimidar o quan Pere Aragonès fa servir una tàser contra Gabriel Rufián. També es torna a veure la bufetada a Puigneró i les imatges de violència policial de l'episodi anterior.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa ('hòstia', 'merda', 'fotre', 'acollonint'). Apareixen, en el resum de l'episodi anterior, algunes declaracions discriminatòries, que es presenten en forma de paròdia. Es mencionen la cervesa i el vi."
   },
   {
-    "titol": "Presto",
+    "titol": "Presto! L'escola de màgia",
     "codi": "presto-escola-magia",
     "edat": "0",
     "orig": "TP",
@@ -7973,95 +8046,96 @@
     "x3": true
   },
   {
-    "titol": "Presto 1",
+    "titol": "Presto! L'escola de màgia 1",
     "codi": "6178397",
     "edat": "0"
   },
   {
-    "titol": "Presto 2",
+    "titol": "Presto! L'escola de màgia 2",
     "codi": "6178396",
     "edat": "0"
   },
   {
-    "titol": "Presto 3",
+    "titol": "Presto! L'escola de màgia 3",
     "codi": "6178476",
     "edat": "0"
   },
   {
-    "titol": "Presto 4",
+    "titol": "Presto! L'escola de màgia 4",
     "codi": "6178477",
     "edat": "0"
   },
   {
-    "titol": "Presto 5",
+    "titol": "Presto! L'escola de màgia 5",
     "codi": "6178863",
     "edat": "0"
   },
   {
-    "titol": "Presto 6",
+    "titol": "Presto! L'escola de màgia 6",
     "codi": "6178866",
     "edat": "0",
     "raons": "Conductes i valors incívics amb sanció negativa"
   },
   {
-    "titol": "Presto 7",
+    "titol": "Presto! L'escola de màgia 7",
     "codi": "6178878",
     "edat": "0"
   },
   {
-    "titol": "Presto 8",
+    "titol": "Presto! L'escola de màgia 8",
     "codi": "6178876",
     "edat": "0"
   },
   {
-    "titol": "Presto 9",
+    "titol": "Presto! L'escola de màgia 9",
     "codi": "6179320",
     "edat": "0"
   },
   {
-    "titol": "Presto 10",
+    "titol": "Presto! L'escola de màgia 10",
     "codi": "6179321",
     "edat": "0",
     "raons": "Por i angoixa ocasional d'afectació lleu"
   },
   {
-    "titol": "Presto 11",
+    "titol": "Presto! L'escola de màgia 11",
     "codi": "6179394",
     "edat": "0"
   },
   {
-    "titol": "Presto 12",
+    "titol": "Presto! L'escola de màgia 12",
     "codi": "6179395",
     "edat": "0",
     "raons": "Llenguatge groller ocasional d'intensitat baixa"
   },
   {
-    "titol": "Presto 13",
+    "titol": "Presto! L'escola de màgia 13",
     "codi": "6179605",
     "edat": "0"
   },
   {
-    "titol": "Presto 14",
+    "titol": "Presto! L'escola de màgia 14",
     "codi": "6179787",
     "edat": "0",
     "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, no legitimada"
   },
   {
-    "titol": "Presto 15",
+    "titol": "Presto! L'escola de màgia 15",
     "codi": "6179988",
     "edat": "0",
     "raons": "Conductes i valors incívics amb sanció negativa"
   },
   {
-    "titol": "Presto 16",
+    "titol": "Presto! L'escola de màgia 16",
     "codi": "6179989",
     "edat": "0"
   },
   {
-    "titol": "Prodigiosa",
+    "titol": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
     "codi": "aventures-ladybug-gat-noir",
     "edat": "7",
     "orig": "TP",
+    "comp": "🇪🇸 TP (TV), 7 (VOD) 🇺🇲 TV-Y7 🇩🇪 6 🇬🇧 PG 🇦🇺 PG 🇳🇱 6 🇫🇮 7",
     "serie": true,
     "x3": true
   },
@@ -8070,6 +8144,7 @@
     "codi": "quatre-amics-i-mig",
     "edat": "7",
     "orig": "TP",
+    "comp": "🇺🇲 TV-G 🇫🇮 7",
     "serie": true,
     "x3": true
   },
@@ -8086,6 +8161,7 @@
     "codi": "ranma",
     "edat": "13",
     "orig": "13",
+    "comp": "🇺🇲 TV-14 🇦🇺 M",
     "serie": true,
     "x3": true
   },
@@ -8100,6 +8176,7 @@
     "codi": "robin-hood-mischief-sherwood",
     "edat": "0",
     "orig": "TP",
+    "comp": "🇺🇲 TV-Y7 🇳🇱 AL 🇫🇮 7",
     "serie": true,
     "x3": true
   },
@@ -8108,6 +8185,7 @@
     "codi": "5807504",
     "edat": "10",
     "orig": "TP",
+    "comp": "🇩🇪 0 🇧🇷 10",
     "peli": true,
     "x3": true,
     "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada<br>Llenguatge groller ocasional d'intensitat alta",
@@ -8118,6 +8196,7 @@
     "codi": "ronja-filla-bandoler",
     "edat": "10",
     "orig": "TP",
+    "comp": "🇺🇲 TV-Y7-FV 🇩🇪 6 🇬🇧 PG 🇦🇺 PG 🇫🇮 7",
     "serie": true,
     "x3": true
   },
@@ -8290,6 +8369,7 @@
     "codi": "sadie-sparks",
     "edat": "7",
     "orig": "TP",
+    "comp": "🇳🇱 6 🇫🇮 7",
     "serie": true,
     "x3": true
   },
@@ -8298,6 +8378,7 @@
     "codi": "sakura-cacadora-cartes",
     "edat": "7",
     "orig": "7",
+    "comp": "🇺🇲 TV-Y7 🇩🇪 6 🇬🇧 PG 🇦🇺 G 🇳🇱 6 🇧🇷 10",
     "serie": true,
     "x3": true
   },
@@ -8306,6 +8387,7 @@
     "codi": "sakura-cacadora-cartes-transparents",
     "edat": "7",
     "orig": "7",
+    "comp": "🇺🇲 TV-PG 🇩🇪 6 🇬🇧 PG 🇦🇺 PG 🇳🇱 6",
     "serie": true,
     "x3": true
   },
@@ -8314,6 +8396,7 @@
     "codi": "sam-fox-aventures-extremes",
     "edat": "7",
     "orig": "TP",
+    "comp": "🇩🇪 6 🇦🇺 PG 🇳🇱 9",
     "serie": true,
     "x3": true
   },
@@ -8486,6 +8569,7 @@
     "codi": "6100449",
     "edat": "10",
     "orig": "TP",
+    "comp": "🇪🇸 7 (ICEC), 13 o 16 (segons VOD)",
     "raons": "Por i angoixa freqüent d'afectació mitjana",
     "mesinfo": "<b>Por i angoixa</b><br>La pel·lícula intercala testimonis verbals de la mà dels propis testimonis i dels agents de rescat, imatges d'arxiu i recreacions. El grau d'afectació mitjà es deu a la intensitat i la duresa en què els supervivents expliquen com van intentar sobreviure fins que van ser socorreguts i com amics o la parella es van haver de quedar enrere, donant detalls de com es va produir la seva mort o experiència propera a la mort.<br><br>De manera anecdòtica, es diuen 'cardar' i 'hosti'. Durant un segon, es veu un home amb una cigarreta a la boca."
   },
@@ -8526,6 +8610,7 @@
     "codi": "6165933",
     "edat": "18",
     "orig": "13",
+    "comp": "🇺🇲 TV-MA 🇦🇺 MA15+",
     "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt greu, no legitimada (violació)"
   },
   {
@@ -8540,6 +8625,7 @@
     "codi": "6200910",
     "edat": "18",
     "orig": "18",
+    "comp": "🇪🇸 16 (VOD) 🇩🇪 16 🇬🇧 15 🇦🇺 MA15+ 🇳🇱 12",
     "raons": "Abús de drogues il·lícites, presentat de manera negativa"
   },
   {
@@ -8576,6 +8662,7 @@
     "codi": "sense-sortida",
     "edat": "10",
     "orig": "10",
+    "comp": "🇵🇹 10AP 🇫🇮 12 🇧🇷 10",
     "serie": true,
     "x3": true
   },
@@ -8709,6 +8796,7 @@
     "codi": "6210962",
     "edat": "10",
     "orig": "TP",
+    "comp": "🇩🇪 6 🇬🇧 PG 🇦🇺 PG 🇧🇷 L",
     "peli": true,
     "x3": true,
     "raons": "Violència freqüent, irreal, explícita, d'intensitat lleu, legitimada",
@@ -8719,6 +8807,7 @@
     "codi": "super-4",
     "edat": "7",
     "orig": "TP",
+    "comp": "🇺🇲 TV-Y7",
     "serie": true,
     "x3": true
   },
@@ -8755,6 +8844,7 @@
     "codi": "theodosia",
     "edat": "7",
     "orig": "7",
+    "comp": "🇺🇲 TV-PG 🇩🇪 6 🇳🇱 9 🇧🇷 L",
     "serie": true,
     "x3": true
   },
@@ -8919,6 +9009,7 @@
     "codi": "5808425",
     "edat": "7",
     "orig": "TP",
+    "comp": "🇺🇲 PG 🇩🇪 6 🇬🇧 U 🇳🇱 6 🇫🇮 7 🇧🇷 L",
     "peli": true,
     "x3": true,
     "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, legitimada<br>Comentaris sexuals ocasionals d'explicitació baixa<br>Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
@@ -9009,6 +9100,7 @@
     "codi": "trollhunters-contes-arcadia",
     "edat": "10",
     "orig": "7",
+    "comp": "🇪🇸 12 (TV), 7 (VOD) 🇺🇲 TV-Y7-FV 🇩🇪 12 🇬🇧 PG 🇦🇺 PG 🇳🇱 6 🇧🇷 10",
     "serie": true,
     "x3": true
   },
@@ -9017,6 +9109,7 @@
     "codi": "dramarama-total",
     "edat": "7",
     "orig": "TP",
+    "comp": "🇺🇲 TV-Y7 🇦🇺 PG 🇳🇱 6 🇧🇷 L",
     "serie": true,
     "x3": true
   },
@@ -9099,10 +9192,11 @@
     "mesinfo": "<b>Llenguatge groller</b><br>En una ocasió, se senten cançons que utilitzen expressions com 'prendre pel sac' o 'merda'."
   },
   {
-    "titol": "Vicky viking",
+    "titol": "Vicky, el viking",
     "codi": "vicky-el-viquing",
     "edat": "0",
     "orig": "TP",
+    "comp": "🇺🇲 TV-Y7 🇩🇪 0 🇦🇺 G 🇫🇮 S",
     "serie": true,
     "x3": true
   },
@@ -9121,6 +9215,7 @@
     "codi": "yu-yu-hakusho-defensors-mes-enlla",
     "edat": "13",
     "orig": "12 (prèviament: 13)",
+    "comp": "🇪🇸 12 (DVD), 7 o TP (<2010) 🇺🇲 TV-14 🇬🇧 15 🇦🇺 M 🇳🇱 12",
     "serie": true,
     "x3": true
   },
@@ -9129,6 +9224,7 @@
     "codi": "zombielars",
     "edat": "10",
     "orig": "7",
+    "comp": "🇳🇱 9 🇫🇮 12 🇫🇷 10",
     "serie": true,
     "x3": true
   },
