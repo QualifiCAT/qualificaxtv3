@@ -33,6 +33,28 @@
     "mesinfo": "<b>Drogues</b><br>En un moment del documental, es compara l'addicció a les pantalles amb l'addicció a la cocaïna."
   },
   {
+    "titol": "A2Veus",
+    "codi": "a-2-veus",
+    "edat": "10",
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "A2Veus 2x01",
+    "codi": "6166141",
+    "edat": "10",
+    "raons": "Llenguatge groller ocasional d'intensitat alta",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es fan servir expressions com 'de puta mare', 'putada', 'putejar', 'hòstia' o 'tocar els ous'.<br><br>Hi ha situacions ocasionals de por o angoixa lleu, amb al·lusions passatgeres a la mort o a 'lidiar amb coses xungues'. En un sopar i de manera fugaç, uns joves se serveixen i brinden amb gots de cervesa."
+  },
+  {
+    "titol": "A2Veus 2x02",
+    "codi": "6167168",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es fan servir expressions com 'molta merda', 'hòstia' i 'fot-li'.<br><br>En escenes fugaces, uns joves aguanten begudes alcohòliques."
+  },
+  {
     "titol": "Agència galàctica",
     "codi": "agencia-galactica",
     "edat": "0",
@@ -2222,19 +2244,33 @@
     "tv3": true
   },
   {
-    "titol": "Eufòria el càsting final coneixem els concursants",
+    "titol": "Eufòria 1: Gala 1",
+    "codi": "6149766",
+    "edat": "10",
+    "raons": "Contingut sexual ocasional d'explicitació mitjana<br>Al·lusions al consum de drogues lícites (alcohol) i menció a una droga il·lícita (cocaïna), amb una presentació neutra<br>Llenguatge groller ocasional d'intensitat alta",
+    "mesinfo": "<b>Sexe</b><br>En una ocasió, un dels concursants diu que vol provocar 'un orgasme musical' a l'audiència. Altres continguts sexuals d'explicitació baixa inclouen balls suggerents, o parlar d'estar 'sexi' o de 'desfer la neu a dins dels teus llençols'.<br><br><b>Drogues</b><br>En una ocasió, el presentador diu que es va desil·lusionar quan va entendre que el VAR no era un bar i que 'aquí no hi ha birres, no hi ha cubates...', i el públic respon, trist: 'ooooh!'. Més tard, pregunta quantes birres es podrà comprar amb una moneda imaginària amb el seu nom. Una cançó en anglès present en el programa menciona la droga 'cocaine'.<br><br><b>Llenguatge groller</b><br>Es fan servir expressions com 'hòstia', 'joder', 'putada', 'merda' o 'fotre'.<br><br>Hi ha situacions ocasionals d'angoixa amb una afectació lleu quan els concursants s'emocionen, o comenten de passada que van patir assetjament o la pèrdua d'algun familiar."
+  },
+  {
+    "titol": "Eufòria 1: La final",
+    "codi": "6164636",
+    "edat": "7",
+    "raons": "Contingut sexual ocasional d'explicitació baixa<br>Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Sexe</b><br>Són presents algunes insinuacions sexuals, principalment per les coreografies o vestits suggerents dels ballarins que emfatitzen certes parts del cos. En una ocasió, un d'ells s'esquinça la samarreta provocativament i se'n fan comentaris com que 'faràs que els volcans explotin', 'm'ha agafat calor' o que és 'supersexi' o 'molt sensual'. També se sent de fons, en dues ocasions, una cançó que inclou la línia 'puja la calor a la secció de congelat'.<br><br><b>Llenguatge groller</b><br>Es diu 'merda', 'hòstia', 'fotre', 'parir' o 'joder'. Una noia ensenya el dit del mig per demostrar rebel·lia, no de forma ofensiva. Algunes converses pràcticament inaudibles inclouen 'puta mare' o 'puto bèstia'.<br><br>Hi ha situacions ocasionals d'angoixa amb una afectació lleu quan els concursants s'emocionen. Hi ha alguna referència fugaç al consum d'alcohol ('glop de birra', 'veniu per les copetes'). La cançó del grup convidat inclou referències violentes, com per exemple: 'cadáveres exquisitos', 'aunque me cortaras una extremidad', 'si me aplicaras la inyección letal'."
+  },
+  {
+    "titol": "Eufòria 2, el càsting final: coneixem els concursants",
     "codi": "6205272",
     "edat": "7",
     "raons": "Llenguatge groller ocasional d'intensitat baixa"
   },
   {
-    "titol": "Eufòria el càsting final els últims escollits",
+    "titol": "Eufòria 2, el càsting final: els últims escollits",
     "codi": "6207008",
     "edat": "7",
     "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
-    "titol": "Eufòria 2 gala 1",
+    "titol": "Eufòria 2: Gala 1",
     "codi": "6208461",
     "edat": "7",
     "raons": "Contingut sexual ocasional d'explicitació baixa<br>Llenguatge groller ocasional d'intensitat baixa",
@@ -2330,7 +2366,7 @@
     "edat": "0"
   },
   {
-    "titol": "Eufòria 2 gala 2",
+    "titol": "Eufòria 2: Gala 2",
     "codi": "6209846",
     "edat": "10",
     "raons": "Llenguatge groller freqüent d'intensitat baixa",
@@ -2411,7 +2447,7 @@
     "edat": "0"
   },
   {
-    "titol": "Eufòria 2 gala 3",
+    "titol": "Eufòria 2: Gala 3",
     "codi": "6211165",
     "edat": "10",
     "raons": "Contingut sexual freqüent d'explicitació baixa<br>Al·lusions ocasionals al consum d'alcohol, presentat de manera neutra<br>Llenguatge groller ocasional d'intensitat alta",
@@ -2485,7 +2521,7 @@
     "raons": "Contingut sexual freqüent d'explicitació baixa"
   },
   {
-    "titol": "Eufòria 2 gala 4",
+    "titol": "Eufòria 2: Gala 4",
     "codi": "6212605",
     "edat": "10",
     "raons": "Al·lusions ocasionals al consum d'alcohol, presentat de manera neutra",
@@ -2561,7 +2597,7 @@
     "mesinfo": "<b>Sexe</b><br>Algunes actuacions presenten al·lusions a situacions sexuals, tant verbals (lletres com 'estic tan bona', 'trenquem el llit', 'i a les nits que estic calent', 'tot és sexualitzable en el context adequat', 'fent l'amor') com visuals (coreografies sexualitzades). Algunes lletres es critiquen per masclistes.<br><br>Hi ha violència irreal, que pot provocar por o angoixa amb afectació mitjana, en una actuació en què unes fletxes són clavades en el cos d'un noi i li fan sagnar. Molt ocasionalment i de forma fugaç, es fan al·lusions a l'alcohol ('una ronda de White Russian', 'vas amb ressaca')."
   },
   {
-    "titol": "Eufòria 2 gala 5",
+    "titol": "Eufòria 2: Gala 5",
     "codi": "6215024",
     "edat": "10",
     "raons": "Contingut sexual ocasional d'explicitació mitjana<br>Al·lusions ocasionals al consum d'alcohol, presentat de manera neutra<br>Llenguatge groller freqüent d'intensitat baixa",
@@ -2615,7 +2651,7 @@
     "edat": "0"
   },
   {
-    "titol": "Eufòria 2 gala 6",
+    "titol": "Eufòria 2: Gala 6",
     "codi": "6216344",
     "edat": "10",
     "raons": "Al·lusions ocasionals al consum d'alcohol, presentat de manera neutra<br>Llenguatge groller freqüent d'intensitat baixa",
@@ -2676,7 +2712,7 @@
     "edat": "0"
   },
   {
-    "titol": "Eufòria 2 gala 7",
+    "titol": "Eufòria 2: Gala 7",
     "codi": "6217585",
     "edat": "10",
     "raons": "Al·lusions ocasionals al consum d'alcohol i tabac, presentat de manera neutra",
@@ -2744,7 +2780,7 @@
     "edat": "0"
   },
   {
-    "titol": "Eufòria 2 gala 8",
+    "titol": "Eufòria 2: Gala 8",
     "codi": "6218807",
     "edat": "7",
     "raons": "Contingut sexual ocasional d'explicitació baixa<br>Llenguatge groller ocasional d'intensitat baixa",
@@ -2812,11 +2848,11 @@
     "edat": "0"
   },
   {
-    "titol": "Eufòria 2 gala 9",
+    "titol": "Eufòria 2: Gala 9",
     "codi": "6220055",
     "edat": "10",
     "raons": "Contingut sexual freqüent d'explicitació baixa<br>Llenguatge groller ocasional d'intensitat alta",
-    "mesinfo": "<b>Sexe</b><br>Les actuacions presenten freqüentment coreografies sexualitzades, tant per la vestimenta com per balls i moviments provocatius. Es comenta que la lletra d'una de les cançons cantades, 'Remena, nena', té un doble sentit, però no es donen detalls. Una de les actuacions mostra dues noies ballant 'pole dance' en una barra vertical, i la presentadora fa bromes amb els membres del jurat perquè s'animin a aprendre a ballar-ho. La lletra d'una de les cançons, 'Xuculatina', està formada, totalment, per insinuacions sexuals ('24/7 per fotre la cullera', 'el suc entra bé, exprimim plaer', 'el veí que ens sent, amb això s'encén, em diu no parem', 't'ausculta i et cura els mals', 'protagonista de fantasies', 'treballador del clit').<br><br><b>Llenguatge groller</b><br>En una escena, es diu: 'hi ha aquesta cosa de sentir-te la puta ama, i de sentir-te una puta merda'. En una altra ocasió, es diu: 'no em truquis que estic de puta mare'. També es diuen 'hòstia', 'joder' (subtitulat com a 'collons'), 'parir' i 'fotre' ocasionalment.<br><br>Hi ha situacions ocasionals que poden generar por o angoixa amb afectació mitjana, quan els concursants parlen de les seves vivències i de la seva salut mental, i que una noia visitava psicòlegs i tenia atacs d'ansietat; també es fan al·lusions còmiques a la mort, i una cançó fa referència al fet que uns joves 'es penjaven'. Un dels concursants duu una lentilla que pot provocar certa sensació d'angúnia. Es fa menció a 'licors', i una cançó utilitza el terme 'borratxera', tot i que la cantant no la vocalitza."
+    "mesinfo": "<b>Sexe</b><br>Les actuacions presenten freqüentment coreografies sexualitzades, tant per la vestimenta com per balls i moviments provocatius. Es comenta que la lletra d'una de les cançons cantades, 'Remena, nena', té un doble sentit, però no es donen detalls. Una de les actuacions mostra dues noies ballant 'pole Dance' en una barra vertical, i la presentadora fa bromes amb els membres del jurat perquè s'animin a aprendre a ballar-ho. La lletra d'una de les cançons, 'Xuculatina', està formada, totalment, per insinuacions sexuals ('24/7 per fotre la cullera', 'el suc entra bé, exprimim plaer', 'el veí que ens sent, amb això s'encén, em diu no parem', 't'ausculta i et cura els mals', 'protagonista de fantasies', 'treballador del clit').<br><br><b>Llenguatge groller</b><br>En una escena, es diu: 'hi ha aquesta cosa de sentir-te la puta ama, i de sentir-te una puta merda'. En una altra ocasió, es diu: 'no em truquis que estic de puta mare'. També es diuen 'hòstia', 'joder' (subtitulat com a 'collons'), 'parir' i 'fotre' ocasionalment.<br><br>Hi ha situacions ocasionals que poden generar por o angoixa amb afectació mitjana, quan els concursants parlen de les seves vivències i de la seva salut mental, i que una noia visitava psicòlegs i tenia atacs d'ansietat; també es fan al·lusions còmiques a la mort, i una cançó fa referència al fet que uns joves 'es penjaven'. Un dels concursants duu una lentilla que pot provocar certa sensació d'angúnia. Es fa menció a 'licors', i una cançó utilitza el terme 'borratxera', tot i que la cantant no la vocalitza."
   },
   {
     "titol": "Eufòria 2 gala 9 clip núria",
@@ -2876,7 +2912,7 @@
     "raons": "Por i angoixa ocasional d'afectació mitjana"
   },
   {
-    "titol": "Eufòria 2 gala 10",
+    "titol": "Eufòria 2: Gala 10",
     "codi": "6221422",
     "edat": "10",
     "raons": "Llenguatge groller ocasional d'intensitat alta",
@@ -2931,7 +2967,7 @@
     "edat": "0"
   },
   {
-    "titol": "Eufòria 2 gala 11",
+    "titol": "Eufòria 2: Gala 11",
     "codi": "6222875",
     "edat": "10",
     "raons": "Contingut sexual ocasional d'explicitació mitjana<br>Llenguatge groller ocasional d'intensitat alta",
@@ -2997,7 +3033,7 @@
     "edat": "0"
   },
   {
-    "titol": "Eufòria 2 gala 12",
+    "titol": "Eufòria 2: Gala 12",
     "codi": "6224187",
     "edat": "7",
     "raons": "Contingut sexual ocasional d'explicitació baixa<br>Llenguatge groller ocasional d'intensitat baixa",
@@ -3070,7 +3106,7 @@
     "edat": "0"
   },
   {
-    "titol": "Eufòria 2 gala 13",
+    "titol": "Eufòria 2: Gala 13",
     "codi": "6225485",
     "edat": "7",
     "raons": "Contingut sexual ocasional d'explicitació baixa<br>Llenguatge groller ocasional d'intensitat baixa",
@@ -3131,8 +3167,8 @@
     "edat": "0"
   },
   {
-    "titol": "Eufòria dance",
-    "codi": "euforia-dance",
+    "titol": "Eufòria Dance",
+    "codi": "euforia-Dance",
     "edat": "10",
     "orig": "TP",
     "serie": true,
@@ -3140,129 +3176,129 @@
     "tv3": true
   },
   {
-    "titol": "Eufòria dance càsting",
+    "titol": "Eufòria Dance: El càsting",
     "codi": "6190114",
     "edat": "10",
     "raons": "Contingut sexual freqüent d'explicitació baixa<br>Llenguatge groller ocasional d'intensitat alta"
   },
   {
-    "titol": "Eufòria dance comença",
+    "titol": "Eufòria Dance: Comença la competició",
     "codi": "6191365",
     "edat": "10",
     "raons": "Contingut sexual, ocasionalment d'explicitació mitjana"
   },
   {
-    "titol": "Eufòria dance comença clip op",
+    "titol": "Eufòria Dance comença clip op",
     "codi": "6191379",
     "edat": "10",
     "raons": "Contingut sexual reiterat d'explicitació baixa"
   },
   {
-    "titol": "Eufòria dance comença clip nuria",
+    "titol": "Eufòria Dance comença clip nuria",
     "codi": "6191380",
     "edat": "10",
     "raons": "Contingut sexual reiterat d'explicitació baixa"
   },
   {
-    "titol": "Eufòria dance comença clip estela",
+    "titol": "Eufòria Dance comença clip estela",
     "codi": "6191382",
     "edat": "13",
     "raons": "Contingut sexual freqüent d'explicitació mitjana"
   },
   {
-    "titol": "Eufòria dance comença clip pedro",
+    "titol": "Eufòria Dance comença clip pedro",
     "codi": "6191383",
     "edat": "10",
     "raons": "Contingut sexual freqüent d'explicitació baixa"
   },
   {
-    "titol": "Eufòria dance comença clip mai",
+    "titol": "Eufòria Dance comença clip mai",
     "codi": "6191384",
     "edat": "0"
   },
   {
-    "titol": "Eufòria dance comença clip cupido",
+    "titol": "Eufòria Dance comença clip cupido",
     "codi": "6191385",
     "edat": "0"
   },
   {
-    "titol": "Eufòria dance finalistes",
+    "titol": "Eufòria Dance: Triem els finalistes",
     "codi": "6192725",
     "edat": "10",
     "raons": "Contingut sexual freqüent d'explicitació baixa<br>Llenguatge groller ocasional d'intensitat alta"
   },
   {
-    "titol": "Eufòria dance finalistes clip stefani",
+    "titol": "Eufòria Dance finalistes clip stefani",
     "codi": "6192713",
     "edat": "10",
     "raons": "Contingut sexual freqüent d'explicitació baixa"
   },
   {
-    "titol": "Eufòria dance finalistes clip homas",
+    "titol": "Eufòria Dance finalistes clip homas",
     "codi": "6192714",
     "edat": "10",
     "raons": "Contingut sexual freqüent d'explicitació baixa"
   },
   {
-    "titol": "Eufòria dance finalistes madonna",
+    "titol": "Eufòria Dance finalistes madonna",
     "codi": "6192715",
     "edat": "10",
     "raons": "Contingut sexual freqüent d'explicitació baixa"
   },
   {
-    "titol": "Eufòria dance finalistes edu",
+    "titol": "Eufòria Dance finalistes edu",
     "codi": "6192718",
     "edat": "0"
   },
   {
-    "titol": "Eufòria dance finalistes mariona",
+    "titol": "Eufòria Dance finalistes mariona",
     "codi": "6192719",
     "edat": "0"
   },
   {
-    "titol": "Eufòria dance final",
+    "titol": "Eufòria Dance: La gran final",
     "codi": "6193801",
     "edat": "10",
     "raons": "Contingut sexual freqüent d'explicitació baixa<br>Llenguatge groller ocasional d'intensitat alta"
   },
   {
-    "titol": "Eufòria dance final clàudia",
+    "titol": "Eufòria Dance final clàudia",
     "codi": "6193816",
     "edat": "0"
   },
   {
-    "titol": "Eufòria dance final scorpio",
+    "titol": "Eufòria Dance final scorpio",
     "codi": "6193817",
     "edat": "7",
     "raons": "Contingut sexual ocasional d'explicitació baixa<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
-    "titol": "Eufòria dance final chung-man",
+    "titol": "Eufòria Dance final chung-man",
     "codi": "6193820",
     "edat": "0"
   },
   {
-    "titol": "Eufòria dance final deja vu",
+    "titol": "Eufòria Dance final deja vu",
     "codi": "6193822",
     "edat": "10",
     "raons": "Contingut sexual freqüent d'explicitació baixa"
   },
   {
-    "titol": "Eufòria dance final jugular",
+    "titol": "Eufòria Dance final jugular",
     "codi": "6193823",
     "edat": "0",
     "raons": "Al·lusió implícita al suïcidi"
   },
   {
-    "titol": "Eufòria dance final final",
+    "titol": "Eufòria Dance final final",
     "codi": "6193825",
     "edat": "0"
   },
   {
-    "titol": "Eufòria dance millors moments",
+    "titol": "Eufòria Dance: millors moments",
     "codi": "6194125",
     "edat": "10",
-    "raons": "Contingut sexual reiterat d'explicitació baixa, ocasionalment mitjana"
+    "raons": "Contingut sexual reiterat d'explicitació baixa"
   },
   {
     "titol": "Eufòria: el concert",
@@ -6139,6 +6175,21 @@
     "mesinfo": "<b>Violència</b><br>Es fan al·lusions a la mort. Una nena fa caure un nen mentre juguen a rugbi. Una nena li diu a un nen que ataqui amb totes les seves forces encara que sigui 'una nena', i ell respon amb un cop fort a la panxa que li fa mal.<br><br><b>Llenguatge groller</b><br>Es diu 'idiota', 'burro' i 'foteu el camp'.<br><br><b>Conductes i valors incívics</b><br>Un grup de nens dolents roben una pilota i trenquen un vidre d'una casa, i fugen corrents. Veiem més tard com els mateixos nens discuteixen si obrir un moneder perdut al bosc o no. Els nens protagonistes assumeixen les culpes i es donen missatges d'amistat al final."
   },
   {
+    "titol": "La gran vetllada",
+    "codi": "la-gran-vetllada",
+    "edat": "13",
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "La gran vetllada 1x01",
+    "codi": "6165947",
+    "edat": "13",
+    "raons": "Consum de drogues lícites (alcohol) amb una presentació positiva",
+    "mesinfo": "<b>Drogues</b><br>Se serveix i es consumeix cervesa en dues de les tres vetllades que apareixen en aquest programa. Una noia diu que, tot i ser catòlica, 'jo surto de festa, bec, m'ho passo bé...'. La conductora del programa narra que una noia 'va molt forta i això que encara no s'ha pres ni el vermut'. Una dona gran pregunta si tenen alcohol. Ella diu que 'potser una mica d'alcohol m'aniria bé per animar-me una mica'; li serveixen molt poca quantitat (diu que així n'hi ha prou) o, en paraules de la veu en off, 'un culet, que encara queden dues vetllades'. Algunes cançons de fons mencionen el tabac.<br><br>Hi ha llenguatge groller ocasional d'intensitat alta ('putada', 'perra', 'fotre'). Es fan al·lusions a la violència: una noia diu que vol fer plats vegetals sense 'animales torturados', i es diu que l'Església té una 'part fosca', sense entrar en detalls."
+  },
+  {
     "titol": "La llegenda del drac trencaossos",
     "codi": "6087810",
     "edat": "7",
@@ -7622,6 +7673,29 @@
     "mesinfo": "<b>Violència</b><br>Inclou freqüents escenes d'acció entre robots gegants, amb explosions, projectils, tirotejos, edificis destruïts, etc. Ocasionalment es veu sang: alguns homes es mostren amb ferides al cap, i alguns robots reben impactes més forts del normal a la boca. En una escena, hi ha un tiroteig, sense èxit, contra els protagonistes; una d'ells contraataca lluitant cos a cos contra els dolents. Un home ofereix a una dona de tenir un fill, i ella li etziba una bufetada, perquè ho ha dit públicament.<br><br><b>Sexe</b><br>De tant en tant, es fan primers plans breus, amb intenció cosificadora, de cossos femenins. En dues escenes, personatges femenins es presenten sacsejant els pits i el cul.<br><br><b>Por i angoixa</b><br>Vegeu 'Violència'."
   },
   {
+    "titol": "Merlí. Sapere aude",
+    "codi": "merli-sapere-aude",
+    "edat": "13",
+    "orig": "16",
+    "comp": "🇺🇲 TV-MA 🇩🇪 16 🇬🇧 15 🇦🇺 MA15+",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Merlí. Sapere aude 2x01",
+    "codi": "99999999999999",
+    "edat": "13",
+    "raons": "Consum de drogues lícites (alcohol, tabac) i al·lusions al seu abús (alcohol) amb una sanció neutra<br>Llenguatge groller freqüent d'intensitat alta",
+    "mesinfo": "<b>Drogues</b><br>Una dona comenta que s'està recuperant de l'alcoholisme, però no per això se li acaben les 'temptacions'; de fet, diu que fuma 'per no beure'. En un moment donat, descobreixen una ampolla que estava amagada i diu que no és seva. Unes joves parlen de quedar per fer unes birres. En una escena, mentre estudien, beuen cervesa i un d'ells fuma al costat d'una finestra. El protagonista gairebé lia tabac, però és interromput.<br><br><b>Llenguatge groller</b><br>S'inclouen freqüentment expressions grolleres d'intensitat alta, de tant en tant de naturalesa sexual i de forma agressiva: 'follar' ('éramos follamigos', 'te lo estás follando'), 'polla', 'joder', 'hòstia', 'collons', 'cony', 'fotre', 'merda' ('li importa una merda', 'quina bona merda'), 'de puta mare', 'pedazo de tontopollas', 'tonta', 'idiota', 'cagar' ('me cago en tu madre') i 'tarat'.<br><br>Hi ha situacions ocasionals de por o angoixa d'afectació mitjana, quan un personatge descobreix, en una escena prolongada i tensa emocionalment, que té la VIH. També es fan al·lusions a la mort i hi ha violència verbal. Hi ha continguts sexuals ocasionals d'explicitació mitjana, amb referències a 'follamigos', a follar 'amb condó' o a tenir 'la polla de madera de abedul', entre d'altres; a més, un home entra en una dutxa on una dona s'hi banya, i li toca els pits insinuant que vol tenir relacions sexuals amb ella. Hi ha conductes incíviques presentades negativament."
+  },
+  {
+    "titol": "Merlí. Sapere aude 2x02",
+    "codi": "934823948234923498",
+    "edat": "13",
+    "raons": "Consum de drogues lícites (alcohol, tabac), al·lusions al seu abús (alcohol, medicaments) i també a drogues il·lícites (marihuana), amb una sanció neutra<br>Llenguatge groller freqüent d'intensitat alta",
+    "mesinfo": "<b>Drogues</b><br>Veiem al protagonista fumar. Una escena es recrea en fer que una persona que està fumant tabac sembli que està fumant marihuana. Uns joves beuen alcohol a casa i es parla de convidar a fer una birra. Una persona assisteix a una sessió d'alcohòlics anònims i manifesta les seves ganes de prendre whisky. A casa, amb una ampolla a la mà, parla de prendre més medicaments del compte. Mentre fuma, ofereix un got de whisky al protagonista, que se'l beu; en preguntar-li què se sent, respon: 'cierta calma'. El protagonista diu que li hauria anat millor la vida 'passant droga'.<br><br><b>Llenguatge groller</b><br>S'inclouen freqüentment expressions grolleres d'intensitat alta, de tant en tant de naturalesa sexual i de forma agressiva: 'follar' ('follo amb condó sempre', 'fóllate a un comercial'), 'polla' ('dibujante de pollas'), 'fotre' ('fotent-me pastilles'), hòstia' ('mala hòstia'), 'joder' ('no jodamos'), 'merda', 'puta' ('m'importa una puta merda', 'por su puta mala cabeza', 'te'n recordaràs tota la teva puta vida'), 'hòstia puta', 'collons' ('de què collons vas tu'), 'fotre' ('no fotis', 'fot el camp'), 'idiota' ('ma mare és idiota', 'tu ets idiota'), 'gilipollas', 'a tomar por culo', 'acollonit', 'tocarle los huevos', 'dedo por el culo', 'loca' i 'niñato'.<br><br>S'inclouen freqüents situacions susceptibles de tensió o angoixa amb afectació mitjana, ja que veiem sovint com està d'afectat un personatge principal: es troba tens i distant (tenen lloc discussions, perd les ganes de fer res), reacciona agressivament en saber que haurà de medicar-se permanentment, és incapaç de concentrar-se i actua de forma irreflexiva vandalitzant el supermercat on treballa el company amb qui havia tingut relacions; al final de l'episodi, li confessa els seus sentiments a un conegut i el conforta. Hi ha continguts sexuals ocasionals d'explicitació mitjana en forma de comentaris, la majoria crus (vegeu 'Llenguatge groller'). Hi ha conductes incíviques presentades negativament."
+  },
+  {
     "titol": "Mike el magnífic",
     "codi": "mike-el-magnific",
     "edat": "0",
@@ -8038,7 +8112,7 @@
     "codi": "6153051",
     "edat": "10",
     "raons": "Violència freqüent, irreal, explícita, d'intensitat lleu, no legitimada<br>Al·lusions sexuals ocasionals d'explicitació mitjana<br>Llenguatge groller freqüent d'intensitat baixa",
-    "mesinfo": "<b>Violència</b><br>Es fa una broma molt implícita sobre abús de menors, parlant de l'església. Es fan bromes sobre decapitacions. Es fa broma sobre l'afusellament de Lluís Companys, i el personatge apareix ferit, amb sang a la cara i al nas, després d'una baralla fora de càmera. Una psicòloga es llença per la finestra despreś d'escoltar a diferents pacients. Un personatge apareix maltractant el seu majordom, fins al punt d'obligar-lo a fer servir la seva mà de lavabo. Un personatge intenta escanyar a un altre amb una corda. Una escena recreant una escola mostra un home donant-li un clatellot a un altre, o assetjant a una noia nova. Un home dispara al sostre amb una pistola.<br><br><b>Sexe</b><br>Es comenta que molts monarques tenien l'afició de 'fornicar' amb membres de la família, i això els va deixar amb problemes genètics. En una escena, apareix una dona que es presenta com a 'chica del Club Sensation', que diu que han preparat 'un pole dance a media asta a ras del suelo'. També es fan insinuacions d'explicitació baixa, quan un home li pregunta a una dona si 'vols que t'ensenyi les meves joies de la corona'.<br><br><b>Llenguatge groller</b><br>S'inclouen expressions com 'hòstia', 'mierda', 'collons', 'fotre', 'cabrón' i 'coño', i una persona ensenya el dit del mig. Tot i que a vegades s'utilitzin per insultar, generalment el context és còmic.<br><br>En un rètol d'un esquetx burlant-se de l'actuació del govern espanyol, hi apareix: 'immigrants no'."
+    "mesinfo": "<b>Violència</b><br>Es fa una broma molt implícita sobre abús de menors, parlant de l'església. Es fan bromes sobre decapitacions. Es fa broma sobre l'afusellament de Lluís Companys, i el personatge apareix ferit, amb sang a la cara i al nas, després d'una baralla fora de càmera. Una psicòloga es llença per la finestra despreś d'escoltar a diferents pacients. Un personatge apareix maltractant el seu majordom, fins al punt d'obligar-lo a fer servir la seva mà de lavabo. Un personatge intenta escanyar a un altre amb una corda. Una escena recreant una escola mostra un home donant-li un clatellot a un altre, o assetjant a una noia nova. Un home dispara al sostre amb una pistola.<br><br><b>Sexe</b><br>Es comenta que molts monarques tenien l'afició de 'fornicar' amb membres de la família, i això els va deixar amb problemes genètics. En una escena, apareix una dona que es presenta com a 'chica del Club Sensation', que diu que han preparat 'un pole Dance a media asta a ras del suelo'. També es fan insinuacions d'explicitació baixa, quan un home li pregunta a una dona si 'vols que t'ensenyi les meves joies de la corona'.<br><br><b>Llenguatge groller</b><br>S'inclouen expressions com 'hòstia', 'mierda', 'collons', 'fotre', 'cabrón' i 'coño', i una persona ensenya el dit del mig. Tot i que a vegades s'utilitzin per insultar, generalment el context és còmic.<br><br>En un rètol d'un esquetx burlant-se de l'actuació del govern espanyol, hi apareix: 'immigrants no'."
   },
   {
     "titol": "Polònia 22/9/2022",
