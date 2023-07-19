@@ -148,7 +148,7 @@
     "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada<br>Llenguatge groller freqüent d'intensitat baixa<br>Consum de drogues lícites (alcohol) presentat negativament<br>Conductes i valors incívics amb sanció negativa"
   },
   {
-    "titol": "APM?",
+    "titol": "APM",
     "codi": "apm",
     "edat": "13",
     "orig": "10 (prèviament: 13, TP)",
@@ -156,7 +156,7 @@
     "tv3": true
   },
   {
-    "titol": "APM? 15/9/2021",
+    "titol": "APM 15/9/2021",
     "codi": "https://www.youtube.com/watch?v=iyhqQQD0JR8",
     "edat": "13",
     "raons": "Referències sexuals freqüents d'explicitació mitjana<br>Referències al consum de drogues il·lícites (marihuana), presentada de manera neutra<br>Llenguatge groller freqüent d'intensitat alta",
@@ -7947,6 +7947,20 @@
     "edat": "13",
     "raons": "Al·lusions a drogues lícites (alcohol, tabac) i consum d'il·lícites (peiot, marihuana) presentades negativament<br>Llenguatge groller freqüent d'intensitat alta",
     "mesinfo": "<b>Drogues</b><br>Hi ha referències al consum de tabac i d'alcohol, que es ridiculitzen. En una escena còmica, una dona ofereix una bola de peiot a una persona perquè, en comptes de viatjar a certa població en transport públic, hi viatgi 'astralment'; en prendre-se-la, l'home comença a tenir al·lucinacions. En una altra escena, una dona ensenya una bossa amb marihuana i es diu que és per fer 'porros'.<br><br><b>Llenguatge groller</b><br>S'inclouen sovint expressions de naturalesa sexual i emprades de manera crua, encara que el programa en censura algunes per a produir un efecte humorístic. Per exemple, se censura la paraula 'polla' en múltiples ocasions, tot i que s'arriba a sentir 'polles d'aigua' i el malnom 'Carapolla'. També es diu 'puta' ('puta CUP', 'puto'), 'que se joda', 'merda', 'collons' i s'ensenya el dit del mig. Un esquetx sencer es basa a ridiculitzar un personatge polític per la seva intel·ligència, anomenant-lo 'cortito', 'tonto' o que només la 'caga'.<br><br>Hi ha violència ocasional, irreal, d'intensitat lleu: a més, es veu un dit seccionat i es diu que a un gat se li va aplicar eutanàsia per error. Hi ha al·lusions sexuals ocasionals d'explicitació mitjana. Un personatge interpretant el paper de Santiago Abascal diu que els homes enviïn a les seves dones a comprar la seva 'cistella de la compra'."
+  },
+  {
+    "titol": "Polònia 29/9/2022",
+    "codi": "6178075",
+    "edat": "13",
+    "raons": "Llenguatge groller freqüent d'intensitat alta",
+    "mesinfo": "<b>Llenguatge groller</b><br>Una estesa part del programa es basa a parodiar el partit guanyador de les últimes eleccions a Itàlia. Es fa ús de llenguatge discriminatori com 'moro' o 'marieta', acompanyat de discursos vexatoris presentats sense ànim d'ofendre. L'edició inclou dues escenes en què Artur Mas diu l'expressió 'puta CUP' de forma reiterada, i s'arriba a dir aproximadament cinquanta vegades. També es diuen 'merda', 'cabrones', 'hòsties', 'joder', 'collons' i s'ensenya el dit del mig, i es fan freqüents bromes escatològiques, com beure una cervesa amb 'restes fecals', parlar de refregar-se quelcom pels genitals, al·lusions crues a l'anus o un joc de paraules amb 'penne rigate'.<br><br>Diversos esquetxos es basen a imitar el discurs dels partits d'extrema dreta guanyadors de les eleccions a Itàlia; aquests comentaris són anomenats 'merda feixista' en una ocasió per un personatge rellevant i el programa ridiculitza els seus autors. Hi ha violència ocasional, irreal, d'intensitat lleu: dos homes es peguen en un combat de boxa i tenen sang a la cara, i es peguen a l'estómac, a l'entrecuix i a la cara. Una persona apareix cremant-se en imatges d'arxiu, i es mostren breument imatges de la violència policial de l'1 d'octubre de 2017. En una situació de por o angoixa ocasional d'afectació mitjana, unes persones es troben en estat de descomposició, una d'elles amb el braç caigut i una altra que vomita sang."
+  },
+  {
+    "titol": "Polònia 6/10/2022",
+    "codi": "6179272",
+    "edat": "10",
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada",
+    "mesinfo": "<b>Violència</b><br>Un esquetx del programa tracta els casos dels coneguts de Vladímir Putin que van morir en 'estranyes circumstàncies'. Es veu un home penjat (només se li veuen els peus, i com queda suspès en l'aire), i es diu que 'semblava un suïcidi' però que va ser assassinat. Altres escenes de morts són més inversemblants, i mostren un ninot saltant d'una finestra i un home a qui li ha caigut un piano a sobre. El programa inclou altres continguts violents d'intensitat lleu, també amb una intencionalitat còmica, com quan Putin i un militar rus apunten amb armes per intimidar o quan Pere Aragonès fa servir una tàser contra Gabriel Rufián. També es torna a veure la bufetada a Puigneró i les imatges de violència policial de l'episodi anterior.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa ('hòstia', 'merda', 'fotre', 'acollonint'). Apareixen, en el resum de l'episodi anterior, algunes declaracions discriminatòries, que es presenten en forma de paròdia. Es mencionen la cervesa i el vi."
   },
   {
     "titol": "Presto",
