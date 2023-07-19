@@ -226,19 +226,12 @@
     "raons": "Violència reiterada, irreal, explícita, d'intensitat molt lleu, legitimada<br>Contingut sexual ocasional d'explicitació baixa<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
-    "titol": "Au pair",
-    "codi": "au-pair",
-    "edat": "13",
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
-  },
-  {
     "titol": "Au pair 1x02",
     "codi": "6113367",
     "edat": "10",
+    "tv3": true,
     "raons": "Llenguatge groller freqüent d'intensitat baixa",
-    "mesinfo": "<b>Llenguatge groller</b><br>Un nen utilitza regularment la paraula 'collons'. Tant el convidat com la veu en off li recriminen aquest comportament a base de bromes. Es diu 'fotre', 'puta' i 'joder' de manera ocasional, també per part de nens en algun cas.<br><br>Hi ha situacions ocasionals de por o angoixa moderada: una persona apareix de sobte amb una ferida oberta al braç, es veuen algunes corredisses i la veu en off vol 'morbo', és a dir, que s'enfoqui la ferida. Un nen fa rots i el renyen. Apareix una cervesa de fons que no és mencionada. En Jair fa una broma a un nen sobre si ha encès mai un 'cigarro'. A taula. uns nens juguen a tirar-se coses i a cridar-se; els diuen que això no està bé."
+    "mesinfo": "<b>Llenguatge groller</b><br>Un nen utilitza regularment la paraula 'collons'. Tant el convidat com la veu en off li recriminen aquest comportament a base de bromes. Es diu 'fotre', 'puta' i 'joder' de manera ocasional, també per part de nens en algun cas.<br><br>Hi ha situacions ocasionals de por o angoixa moderada: una persona apareix de sobte amb una ferida oberta al braç, es veuen algunes corredisses i la veu en off vol 'morbo', és a dir, que s'enfoqui la ferida. Apareix una cervesa de fons que no és mencionada. En Jair fa una broma a un nen sobre si ha encès mai un 'cigarro'. Un nen fa rots i el renyen. A taula. uns nens juguen a tirar-se coses i a cridar-se; els diuen que això no està bé."
   },
   {
     "titol": "Bestial!",
@@ -1745,7 +1738,7 @@
     "codi": "detectiu-conan",
     "edat": "13",
     "orig": "7 (prèviament: 13)",
-    "comp": "🇪🇸 12 (VOD) 🇺🇲 TV-14 🇩🇪 12 🇬🇧 12 🇦🇺 M 🇫🇷 10",
+    "comp": "🇪🇸 13 (<2010), 12 (VOD) 🇺🇲 TV-14 🇩🇪 12 🇬🇧 12 🇦🇺 M 🇫🇷 10",
     "serie": true,
     "x3": true
   },
@@ -1982,6 +1975,14 @@
     "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa ocasional d'afectació lleu"
   },
   {
+    "titol": "El negre de Banyoles 1x01",
+    "codi: "6198075",
+    "edat": "10",
+    "tv3": true,
+    "raons": "Contingut sexual ocasional d'explicitació mitjana<br>Llenguatge groller freqüent d'intensitat baixa",
+    "mesinfo": "<b>Sexe</b><br>En una ocasió, es mostren unes fotografies. Una d'elles té connotacions sexuals ja que s'hi veu un home nu aguantant-se un penis en forma de tronc enorme.<br><br><b>Llenguatge groller</b><br>El programa inclou expressions com 'torracollons', 'hòstia', 'merda' i 'fotre'.<br><br>Es fan comentaris sobre la vida difícil de la poeta, incloent-hi la seva mort i de gent qui estimava. Es fan algunes al·lusions a l'alcohol, però no hi ha imatges de consum."
+  },
+  {
     "titol": "Els 3 de sota: Contes d'Arcàdia",
     "codi": "3-sota-contes-arcadia",
     "edat": "10",
@@ -2196,6 +2197,20 @@
     "edat": "13",
     "raons": "Al·lusions sexuals freqüents d'explicitació mitjana<br>Al·lusions al consum de drogues lícites (alcohol) i il·lícites (cànnabis), presentat de manera neutra",
     "mesinfo": "<b>Sexe</b><br>Es discuteix que una novel·la sigui del gènere 'eròtico-satànica', es menciona 'fer el 69' sense entrar en què consisteix i en un moment es llegeix un fragment on es diu 'agarrando los huevos', però llavors la lectura s'atura immediatament. En un altre moment, un dels presentadors simula que l'estimula sexualment l'actuació de la policia. També es mostra un dibuix cru d'un penis en el front d'una persona. Es fa broma amb què un bisbe ha tingut relacions amb un major d'edat.<br><br><b>Drogues</b><br>Un dels presentadors diu que el cànnabis fa que una persona sigui més receptiva. Aquest comentari no és recriminat i va acompanyat d'una imatge d'un porro. En tot el programa es fan bromes sobre l'alcohol, concretament amb el comportament 'que s'ha de tenir' en els 'botellots', per exemple, quan s'ha de cantar si s'està borratxo.<br><br>Hi ha situacions freqüents de por o angoixa lleu, ja que es fan diverses referències a la mort en tot el programa, la majoria de forma còmica. Es reprodueixen unes declaracions homòfobes proferides per un bisbe, que diu, entre d'altres coses, que una persona 'esdevé' homosexual si li ha mancat figura paterna en la seva infància, comentari que es recrimina explícitament. Hi ha llenguatge groller ocasional d'intensitat baixa ('hòstia', 'guarra'). Un dels presentadors acostuma a utilitzar un to més agressiu quan parla."
+  },
+  {
+    "titol": "Està passant 5/9/2022",
+    "codi": "6174306",
+    "edat": "10",
+    "raons": "Llenguatge groller ocasional d'intensitat alta",
+    "mesinfo": "<b>Llenguatge groller</b><br>En una secció concreta, es fan servir expressions com 'què collons', 'me càgon la put...', 'puta' i 'gilipolles'. Durant la resta de programa, també es diu 'hòsties', 'merda', 'idiota', 'imbècil', 'fotre' i 'cagar'.<br><br>Hi ha situacions freqüents de por o angoixa lleu, en forma de bromes sobre la mort. Hi ha continguts sexuals ocasionals d'explicitació baixa, quan s'enfoca el 'paquet' d'una persona i es diu que hi porta un 'retolador de punta gruixuda' i un 'plumier cilíndric', i quan es diu que, en una festa, a algú li faltava una 'tita al cap'. Es fa un comentari passatger sobre 'deixar la beguda', a 'narcotraficants' i al consum de bolets al·lucinògens per accident ('potser sí que veuràs barrufets si te'ls menges')."
+  },
+  {
+    "titol": "Està passant 6/9/2022",
+    "codi": "6174442",
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa<br>Conductes i valors incívics amb sanció neutra",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu, de forma freqüent, 'hòstia', sobretot en la secció de l'entrevista improvisada. També es diu sovint 'cagar' ja que es fa ús freqüent d'humor escatològic (vegeu 'Conductes i valors incívics'). En una ocasió, es fa un joc de paraules que conclou amb la paraula 'Merdas', i un altre que acaba amb 'cara-ampollas', en referència al sobrenom de l'alcalde de Madrid. També es fa ús de 'fotre', d''imbècil' i de 'fills de p...', i argot com 'xinos' o 'quillo'.<br><br><b>Conductes i valors incívics</b><br>Durant l'edició es fan reiterades bromes que fan ús d'humor cru, incloent-hi estereotips culturals, befes al físic, a la mort o a l'escatologia. Per exemple, gran part d'una secció es dedica a teoritzar sobre la taca que tenia a la cara Mikhaïl Gorbatxov, i si podria ser un excrement d'algun animal amb problemes digestius.<br><br>Hi ha al·lusions al consum d'alcohol, en tots els casos, ridiculitzant els efectes de consumir-ne (per exemple, es diu 'Què passa quan abuses de la cervesa? No saps ni com et dius', 'un glop de vodka i estabornit' o 'un borratxo estirat allà que no se sap si és mort'). Hi ha continguts sexuals ocasionals d'explicitació baixa quan torna a aparèixer la imatge del president de l'edició anterior, on el presentador es pregunta si guanyarà el seu 'gasoducte', i diu que competirà 'a veure qui la té... qui en sap més'."
   },
   {
     "titol": "Eufòria",
@@ -7615,6 +7630,15 @@
     "x3": true
   },
   {
+    "titol": "Miró",
+    "codi": "6215459",
+    "edat": "13",
+    "orig": "7",
+    "comp": "🇪🇸 7 o TP (segons TV)",
+    "raons": "Consum de drogues lícites (tabac, alcohol), presentades de manera neutra",
+    "mesinfo": "<b>Drogues</b><br>Durant tota la pel·lícula, múltiples personatges consumeixen begudes alcohòliques o fumen tabac, sense una presentació crítica dels seus efectes.<br><br>Hi ha situacions freqüents de por o angoixa moderada: atès que es fan al·lusions a la guerra i a la salut de la gent propera al protagonista, com van emmalaltint i morint. En una escena de violència versemblant i d'intensitat lleu, el pare del protagonista agafa el seu fill per la força, el fa asseure, l'insulta i l'amenaça aixecant el to; ell i la seva germana ploren. Hi ha llenguatge groller ocasional d'intensitat baixa ('la mare que el va parir', 'merda')."
+  },
+  {
     "titol": "Missió Àrtic",
     "codi": "missio-artic",
     "edat": "7",
@@ -8140,6 +8164,15 @@
     "x3": true
   },
   {
+    "titol": "Quanta guerra! 1x01",
+    "codi": "6174323",
+    "edat": "10",
+    "orig": "TP",
+    "tv3": true,
+    "raons": "Llenguatge groller freqüent d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>El programa inclou freqüentment expressions com 'collons' i 'hòstia'. Es diuen, sobretot, per demostrar sorpresa o molèstia, com en una escena on tant l'Eloi com l'Andreu volen sentir com és caminar descalç per terra sense asfaltar. En cap cas s'utilitzen ofensivament. També es diu 'mare que em va parir', 'cagar', 'coño' o 'fotre el camp'.<br><br>Hi ha situacions de por i angoixa freqüent d'afectació lleu, en forma de múltiples al·lusions a la guerra i a la mort, així com imatges d'arxiu no detallades. Es comenta que una dona gran robava i donava tabac d'amagat al seu fill -i ell li deia que no ho havia de fer- o bevia alcohol a la seva habitació."
+  },
+  {
     "titol": "Quatre amics i mig",
     "codi": "quatre-amics-i-mig",
     "edat": "7",
@@ -8363,6 +8396,16 @@
     "orig": "TP (prèviament: 7)",
     "serie": true,
     "x3": true
+  },
+  {
+    "titol": "Ruta 40. Viatjant amb Catalunya Ràdio",
+    "codi": "6227449",
+    "edat": "10",
+    "orig": "TP",
+    "peli": true,
+    "tv3": true,
+    "raons": "Al·lusions sexuals ocasionals d'explicitació mitjana",
+    "mesinfo": "<b>Sexe</b><br>Una cançó que sona de fons inclou: 'Quan engego la moto, quin orgasme sideral'. Un presentador diu que 'en català es pot fer porno, es pot fer sexe'.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa, com 'merda', 'fins als ous', 'hosti' o 'fotre', en contextos distesos i sense intencionalitat agressiva. Hi ha situacions de por o angoixa moderades quan es mostren, de manera breu i poc detallada, imatges i narracions de successos que la ràdio ha cobert durant aquests 40 anys, incloent-hi desastres naturals, atemptats, l'atac a les Torres Bessones, accidents de tren, guerres com la d'Ucraïna o la violència policial del referèndum del 2017. Es mostren actors fumant o bevent en imatges molt fugaces provinents de pel·lícules, i es fa servir el terme 'ressaca' de manera metafòrica. En una ocasió, hi ha dones que denuncien que han patit masclisme a la feina on, per exemple, se les infravalorava per raó de sexe."
   },
   {
     "titol": "Sadie Sparks",
@@ -8840,6 +8883,16 @@
     "mesinfo": "<b>Violència</b><br>Per obrir-se pas, els herois tallen els braços d'uns robots i els seus cossos per la meitat amb espases. Uns robots disparen rajos làser contra els herois.<br><br><b>Llenguatge groller</b><br>Es diu 'desgraciat' per insultar a algú."
   },
   {
+    "titol": "Teatre - Escape room",
+    "codi": "6227240",
+    "edat": "13",
+    "orig": "10",
+    "peli": true,
+    "tv3": true,
+    "raons": "Consum de drogues lícites (tabac, alcohol) presentat de manera neutra<br>Llenguatge groller reiterat d'intensitat alta",
+    "mesinfo": "<b>Drogues</b><br>A l'inici de l'obra, una noia enrotlla tabac i es fuma el cigarret. Es comenta que dues persones havien begut en una festa -encara que un d'ells reitera que no beu mai- i que van tenir relacions sota els efectes de l'alcohol. Al final, per a celebrar que són lliures, un d'ells proposa anar 'a fer uns drinkings', 'em salto la norma', i comenten que, si es volen 'emborratxar', han d'anar sumant begudes: 'un gintònic', 'dos gintònics', 'un tequila', 'l'ampolla sencera'...<br><br><b>Llenguatge groller</b><br>Es fan servir expressions malsonants de manera pràcticament incessant, en molts casos de manera agressiva: 'malfollada', 'follat', 'fill de puta', 'puto', 'puta', 'de puta mare', 'puteta', 'càgon la puta', 'putero', 'hòstia puta', 'li surt del cony', 'què cony', 'càgon cony', 'collons', 'acollonir', 'collonets', 'collonut', 'quins pebrots', 'hòstia', 'merda', 'hosti', 'merdeta', 'no fotis', 'fotre', 'cagalera', 'capullo', 'joder', 'la mare que l'ha parit', 'mongolo', 'tarado de mierda', 'gilipollas'...<br><br>Hi ha continguts sexuals ocasionals d'explicitació mitjana, parlant de les vegades que una parella s'ha estat infidel i fent al·lusió a ser 'nimfòmana' i a la prostitució, i gesticulant actes sexuals com ara fel·lacions. Hi ha violència irreal, no explícita i d'intensitat greu i, alhora, situacions de por o angoixa ocasionals d'afectació alta: es mostren parts del cos mutilades; un cap dins d'una caixa resulta ser real perquè no té ulls de plàstic; al final, un home apareix mort amb sang a la paret darrere seu. També hi ha violència verbal i referències a actes macabres que han succeït en realitat. Hi ha comportaments i comentaris masclistes presentats de manera negativa. Hi ha conductes i valors incívics presentats negativament, ja que es revela que les parelles s'han mentit entre elles durant anys."
+  },
+  {
     "titol": "Theodosia",
     "codi": "theodosia",
     "edat": "7",
@@ -9105,6 +9158,14 @@
     "x3": true
   },
   {
+    "titol": "Una de les nostres 1x01",
+    "codi": "6202067",
+    "edat": "7",
+    "tv3": true,
+    "raons": "Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Durant el programa, s'utilitzen ocasionalment les expressions 'cagar', 'fotre', 'merda' i 'hòstia'. Es diuen al voltant de menors o bé les profereixen ells. No es fan servir mai amb intenció ofensiva."
+  },
+  {
     "titol": "Un dramarama total",
     "codi": "dramarama-total",
     "edat": "7",
@@ -9215,7 +9276,7 @@
     "codi": "yu-yu-hakusho-defensors-mes-enlla",
     "edat": "13",
     "orig": "12 (prèviament: 13)",
-    "comp": "🇪🇸 12 (DVD), 7 o TP (<2010) 🇺🇲 TV-14 🇬🇧 15 🇦🇺 M 🇳🇱 12",
+    "comp": "🇪🇸 12 (DVD), 7 (<2010) 🇺🇲 TV-14 🇬🇧 15 🇦🇺 M 🇳🇱 12",
     "serie": true,
     "x3": true
   },
