@@ -8281,11 +8281,17 @@
     "x3": true
   },
   {
+    "titol": "Quanta guerra!",
+    "codi": "quanta-guerra",
+    "edat": "10",
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Quanta guerra! 1x01",
     "codi": "6174323",
     "edat": "10",
-    "orig": "TP",
-    "tv3": true,
     "raons": "Llenguatge groller freqüent d'intensitat baixa",
     "mesinfo": "<b>Llenguatge groller</b><br>El programa inclou freqüentment expressions com 'collons' i 'hòstia'. Es diuen, sobretot, per demostrar sorpresa o molèstia, com en una escena on tant l'Eloi com l'Andreu volen sentir com és caminar descalç per terra sense asfaltar. En cap cas s'utilitzen ofensivament. També es diu 'mare que em va parir', 'cagar', 'coño' o 'fotre el camp'.<br><br>Hi ha situacions de por i angoixa freqüent d'afectació lleu, en forma de múltiples al·lusions a la guerra i a la mort, així com imatges d'arxiu no detallades. Es comenta que una dona gran robava i donava tabac d'amagat al seu fill -i ell li deia que no ho havia de fer- o bevia alcohol a la seva habitació."
   },
