@@ -292,6 +292,40 @@
     "mesinfo": "<b>Llenguatge groller</b><br>Un nen utilitza regularment la paraula 'collons'. Tant el convidat com la veu en off li recriminen aquest comportament a base de bromes. Es diu 'fotre', 'puta' i 'joder' de manera ocasional, també per part de nens en algun cas.<br><br>Hi ha situacions ocasionals de por o angoixa moderada: una persona apareix de sobte amb una ferida oberta al braç, es veuen algunes corredisses i la veu en off vol 'morbo', és a dir, que s'enfoqui la ferida. Apareix una cervesa de fons que no és mencionada. El convidat fa una broma a un nen sobre si ha encès mai un 'cigarro'. Un nen fa rots i el renyen. A taula, uns nens juguen a tirar-se coses i a cridar-se; els diuen que això no està bé."
   },
   {
+    "titol": "Batalla monumental",
+    "codi": "batalla-monumental",
+    "edat": "7",
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Batalla monumental 2x01 - Batalla de fortaleses: Castell de Mur-Castell de Montsoriu",
+    "codi": "6138552",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu, un cop cadascun, 'hosti', 'fotre' i 'punyetes'.<br><br>Hi ha imatges de violència ocasional, irreal, d'intensitat molt lleu, en recreacions de batalles medievals amb espases i escuts, sense contacte directe. Hi ha situacions ocasionals de por o angoixa amb afectació lleu, quan es fan mencions, amb la intenció d'explicar què s'hi ha viscut en unes fortaleses militars, a 'decapitar' i a 'tallar el cap', a 'palmar' o al testament, o es parla de guerres i d'armes sense entrar en detalls."
+  },
+  {
+    "titol": "Benvinguts a la família",
+    "codi": "benvinguts-a-la-familia",
+    "edat": "13",
+    "orig": "7",
+    "comp": "🇪🇸 12 🇺🇲 TV-MA 🇩🇪 12 🇬🇧 15 🇦🇺 M 🇳🇱 12 🇧🇷 14",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Berenàveu a les fosques",
+    "codi": "6134163",
+    "edat": "13",
+    "orig": "13 (prèviament: 7)",
+    "peli": true,
+    "tv3": true,
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat greu, no legitimada<br>Contingut sexual ocasional d'explicitació alta<br>Consum de drogues lícites (alcohol), presentat de manera neutra",
+    "mesinfo": "<b>Violència</b><br>Hi ha una escena de suïcidi explícit: un home tanca les finestres, encén un fogó de gas i s'asseu en una butaca per morir intoxicat. Hi ha situacions de violència verbal i violència de gènere: davant d'una nena, un home dona una bufetada a una dona. Hi ha una escena implícita de violència sexual on un home comença a petonejar una dona qui reitera que no vol i que té feina, però se l'enduu a una habitació igualment (una narració immediatament posterior pot suggerir una legitimació del comportament d'aquest home perquè es diu que 'tenia debilitats' o que 'tot ho devem a homes com ell'). Es fan altres mencions verbals a actes violents i al suïcidi.<br><br><b>Sexe</b><br>Hi ha una breu escena de sexe explícita en què una dona gemega mentre l'home la penetra vaginalment de manera evident. Hi ha situacions d'explicitació baixa en què una parella es petoneja i es comencen a despullar, així com referències a la infidelitat ('un home que s'acontenti amb unes soles faldilles') i a la prostitució ('a les Rambles, faltarà que trobis clients...').<br><br><b>Drogues</b><br>Hi ha escenes en què personatges adults beuen begudes alcohòliques com conyac o anís, de forma moderada.<br><br>Hi ha situacions freqüents de por o angoixa amb afectació mitjana. Hi ha llenguatge groller ocasional d'intensitat alta; es fan servir termes eufemístics com 'bagassa', 'fulanes', 'meuca', 'llorda', així com 'cagat', 'merda', 'fotre' o 'què collons', a vegades en moments de crispació. Hi ha conductes incíviques presentades de manera neutra."
+  },
+  {
     "titol": "Bestial!",
     "codi": "bestial",
     "edat": "0",
@@ -1624,9 +1658,29 @@
     "titol": "Efecte wow",
     "codi": "efectewow",
     "edat": "7",
-    "orig": "TP",
+    "orig": "TP (en algunes promos: 7)",
     "serie": true,
     "x3": true
+  },
+  {
+    "titol": "Efecte wow 1x01",
+    "codi": "6089634",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'fotre' i 'hosti'.<br><br>Es fan bromes sobre la mort. Una cançó de fons inclou les paraules 'embriagar amb el teu perfum'. Un home fa broma ell mateix sobre el seu físic."
+  },
+  {
+    "titol": "Efecte wow 1x02",
+    "codi": "6089854",
+    "edat": "0",
+    "mesinfo": "En una escena còmica, els companys d'en Dani menteixen per no voler anar amb ell a passar una nit despullats dins un iglú. Ell ho fa, i en moments còmics se censuren els genitals amb el logotip del programa o esborronant la imatge. Aquesta i altres situacions perilloses com agafar una bola en flames amb el palmell de la mà se situen en un context de divulgació científica i sense instruccions que puguin facilitar la seva imitació."
+  },
+  {
+    "titol": "Efecte wow 1x03",
+    "codi": "6091154",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'hosti' un cop."
   },
   {
     "titol": "El 422",
@@ -1908,6 +1962,21 @@
     "edat": "7",
     "raons": "Al·lusions al consum d'alcohol, presentat negativament",
     "mesinfo": "<b>Drogues</b><br>En un punt del programa, es debat sobre el risc de consumir alcohol per a la salut. El màxim responsable de l'empresa assegura que els estudis que consideren que el seu consum, fins i tot en dosis mínimes, és nociu, no tenen en compte la dieta predominant a Catalunya que és la mediterrània, on, segons ell, el vi és comú i saludable en poques dosis. El presentador ho considera 'màrqueting', assimila la indústria del vi a la del tabac i considera que separar el vi de begudes amb major graduació com si fossin menys nocives no té fonament, i creu que l'abstèmia serà la norma en els anys futurs.<br><br>Hi ha situacions ocasionals de por o angoixa d'afectació lleu quan es comenta que un celler va patir un bombardeig durant la guerra civil, i es mencionen escorxadors i les conseqüències del canvi climàtic."
+  },
+  {
+    "titol": "El foraster",
+    "codi": "el-foraster",
+    "edat": "10",
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "El foraster - Sant Ramon",
+    "codi": "6142707",
+    "edat": "10",
+    "raons": "Consum de drogues lícites (alcohol), amb presentació neutra<br>Llenguatge groller reiterat d'intensitat baixa",
+    "mesinfo": "<b>Drogues</b><br>Es diu que un ritual d'esmorzar que tenen uns homes inclou la 'cervesa de la victòria', per beure-la abans de treballar. Veiem tots ells bevent-ne una (amb la marca expressament visible). Més tard, ofereixen vi al protagonista, que se'l beu, i fa bromes sobre la seva graduació.<br><br><b>Llenguatge groller</b><br>De manera reiterada, el presentador fa servir expressions com 'hòstia' i 'fotre', encara que mai de manera ofensiva. De manera ocasional també es diuen 'ni puta idea', 'cabrón', 'merda' i 'el puta'.<br><br>Hi ha situacions ocasionals de por o angoixa moderada, quan home relata que va patir un intent de suïcidi, que va estar vuit mesos en hospitals i que va entrar en depressió; diu que el fet de trobar gent amable al poble que li donés feina l'ha ajudat a tirar endavant. Hi ha bromes sexuals ocasionals d'explicitació baixa: gent gran diu que 'de sexe no n'hi ha', que fan l'amor sense fer sexe, i que 'la líbido no sé on ha anat'; es fan insinuacions sobre què vol dir 'cuca', d'obrir 'en canal' i de repetir 'patapam' mentre es fan moviments de maluc bruscos. Hi ha violència irreal, no explícita, d'intensitat molt lleu quan, en un dels seus monòlegs, el presentador ironitza amb utilitzar una desbrossadora per tallar-li la barba i pegar-lo."
   },
   {
     "titol": "El llibre de la selva",
@@ -3469,6 +3538,21 @@
     "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'burro' i 'idiotes'.<br><br>Hi ha situacions ocasionals de por o angoixa lleu, quan una dona d'un videojoc i un nen del món real s'intercanvien posicions i la dona decideix no voler tornar. En el videojoc, unes serps atrapen el noi, i es veu un pal amb un cap a sobre en un suposat campament caníbal, però les situacions es presenten còmiques i del tot irreals, sense conseqüències negatives. Un nen comenta que vol mirar pel·lícules d'assassins i de 'sang i fetge'. Es diu que el pare del protagonista 'està massa enfeinat per pensar en dones', entre altres comentaris de l'estil."
   },
   {
+    "titol": "Fake night",
+    "codi": "fake-night",
+    "edat": "10",
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Fake night 1x04 - Fake Night amb Josep Cuní",
+    "codi": "6121335",
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>En tot el programa hi ha una presència freqüent de llenguatge groller, si bé no s'utilitza mai agressivament i té sempre una forta càrrega còmica. Es diu 'no m'acollonis', 'acolloniment', 'això és una merda', alguns usos de 'cony', 'colló' o 'hòstia' en un context de sorpresa, 'fotent merder', 'bona merda', 'titafreda', 'no fotem', 'no et prepares per les putades' o 'no hi ha pebrots'. En un moment l'entrevistat diu que 'aquesta és la puta realitat'; llavors el presentador es pregunta si es pot dir 'puta' a TV3 i li diuen que sí si es disculpa, i així ho fa l'entrevistat. Tot i la gravetat dels termes, no tenen una intensitat alta en la manera i el context en què s'utilitzen.<br><br>L'entrevistat és preguntat sobre si ell era de 'tancar bars' i 'd'emborratxar-se'; respon que no. Hi ha conductes incíviques en un context còmic. Hi ha una escena còmica de tensió en què el presentador creu que ha entrat algú al lavabo on s'hi troba. Es fan al·lusions violentes ('donar-lo per mort', 'veure com pateix' o 'menjar-se viu' algú) de forma metafòrica."
+  },
+  {
     "titol": "Flying Squirrels",
     "codi": "flying-squirrels",
     "edat": "7",
@@ -3583,6 +3667,22 @@
     "comp": "🇺🇲 TV-Y7 🇦🇺 G 🇳🇱 AL 🇫🇮 7",
     "serie": true,
     "x3": true
+  },
+  {
+    "titol": "Germans",
+    "codi": "germans",
+    "edat": "10",
+    "orig": "TP",
+    "comp": "🇪🇸 7 (TV) 🇹🇷 7+",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Germans 1x01",
+    "codi": "2932483294523849",
+    "edat": "10",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada<br>Continguts sexuals freqüents d'explicitació baixa<br>Por i angoixa freqüent d'afectació mitjana<br>Llenguatge groller ocasional d'intensitat alta<br>Conductes i valors incívics amb sanció neutra",
+    "mesinfo": "<b>Violència</b><br>Hi ha una escena de violència verbal en què un home desqualifica a un altre dient que no val per res, que faria el ridícul i que no és cap actor 'superestrella'; l'altre respon agressivament i li diu exactament això: 'no em vull menjar aquesta merda de xocolatines', 'ja li pots dir al teu client que es foti les xocolatines pel cul, una per una, però digues-li, sobretot, que no es conformi amb només una, que se les hi foti totes, totes pel cul...', 'tu també te la pots fotre pel cul, i que no sigui només una, totes, ben endins'.<br><br><b>Sexe</b><br>Una dona fa un ball relativament sensual davant d'un home. En un altre moment un home diu a la panxa d'una dona embarassada que 'tanquin' els ulls perquè 'la mare i jo tenim coses a fer', i l'escena es talla de cop. En una altra escena un home petoneja a una dona i ell diu: 'res del que diguis em podrà fer parar', però acaba parant perquè ella diu que ha 'trencat aigües'. Es filma un anunci on es fa èmfasi en els abdominals d'un home mentre camina al costat d'una dona.<br><br><b>Por i angoixa</b><br>Hi ha alguna broma passatgera a la mort o al suïcidi ('et juro que et mato', 'vols que em mori', 'xai degollat', 'els que tinguin compassió me'ls carrego'). Una persona cau; no es veu cap ferida, però després s'hi aplica gel. Un home diu que acaba de conèixer el seu pare biològic. Una parella rep amb preocupació la notícia que un metge s'ha trencat l'apèndix i que no el podran atendre; també veiem com una dona embarassada gemega i com rep la notícia que l'embaràs podria tenir 'riscos'.<br><br><b>Llenguatge groller</b><br>Vegeu 'Violència'. També es diu ocasionalment 'no et fot', 'enfotent' i 'idiota'.<br><br><b>Conductes i valors incívics</b><br>Una dona té un trastorn alimentari: s'apunta les calories de cada producte de la nevera i es pesa contínuament. Fa comentaris desqualificant-se a ella mateixa dient que 'a qui agradaré tal com estic', que és 'la crisi dels 35' o que alguna cosa farà 'bé', encara que el seu germà intenti animar-la (ella li diu 'tu tens èxit amb les noies'). Aquest li diu en to de broma: 'em promets que no et suïcidaràs?'. També diu que la dona 's'hauria de distanciar' de la seva amiga perquè l'anima a buscar parella per internet; diu que és 'malaltís'. Ella busca parella amb una aplicació on només hi ha persones grasses, i quan arriba al restaurant, un altre home s'hi apropa fingint que era la persona amb qui havia parlat, però al final li explica la veritat. Ell vol fer-la sentir bé i li diu coses com 'no li dono importància al pes'. Una altra persona que també se sent grassa rep el suport d'un home: 'm'agraden tots els kilos del teu cos'. Un home assegura que si no es beu alcohol ni aigua es marquen més els abdominals. Un home té certa predisposició a dir que tot el que diu és cert i gairebé no deixar parlar a la seva dona, encara que ho fa per amor. Un home diu que un 'tio' és 'pesadíssim' i una dona fa comentaris despectius sobre altres pares."
   },
   {
     "titol": "Ghostforce",
@@ -5404,6 +5504,21 @@
     "comp": "🇺🇲 TV-Y7 🇩🇪 6 🇬🇧 PG 🇦🇺 PG 🇳🇱 6 🇫🇮 7",
     "serie": true,
     "x3": true
+  },
+  {
+    "titol": "Labanda sonora",
+    "codi": "labanda-sonora",
+    "edat": "10",
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Labanda sonora 1x01 - Els Amics de les Arts, Suu, Lildami i Joan Dausà",
+    "codi": "6126051",
+    "edat": "10",
+    "raons": "Llenguatge groller ocasional d'intensitat alta",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'sacadita de polla' per referir-se a quelcom valent que ha fet algú. Un home crida 'fill de puta' a algú del carrer. Es diu 'puto' dos cops per elogiar la figura d'algú, i algú que no vol soroll és un 'puta'. També es diu 'hòstia', 'hosti' o 'fotré'. Quan un home diu que plora molt, li diuen que és 'una bleda'.<br><br>Hi ha consum d'alcohol presentat negativament, quan es fa una broma en què un home beu tants 'chupitos' com persones amb qui s'ha 'liat' a TV3, i diu que no pot conduir així. Es fan al·lusions ocasionals a la mort. Hi ha una broma molt ambigua en què un home, parlant de 'canvis modals', diu que 'vas a fer la major i hauria de fer la menor', i un altre diu: 'és que la menor ara està mal vist', i la resta de convidats aclamen com si l'hagués deixat malament. Hi ha moments que el conductor té un comportament irresponsable al volant, però es dona un missatge, al final de l'episodi, que el programa s'ha 'gravat amb condicions i mesures de seguretat viària especials'."
   },
   {
     "titol": "La casa d'Anubis",
@@ -8140,6 +8255,21 @@
     "x3": true
   },
   {
+    "titol": "Persona infiltrada",
+    "codi": "persona-infiltrada",
+    "edat": "13",
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Persona infiltrada 3x01 - Òscar Andreu - família Basolí Sánchez",
+    "codi": "6126586",
+    "edat": "10",
+    "raons": "Contingut sexual freqüent d'explicitació baixa<br>Llenguatge groller ocasional d'intensitat alta",
+    "mesinfo": "<b>Sexe</b><br>Es revela que un membre de la família és un 'stripper'; a vegades els dedica balls on es despulla fins quedar en roba interior; alguns membres intenten fer un ball i intentar semblar suggerents, sense èxit, en situacions despreocupades que redueixen el component eròtic. Es fan comentaris com 'per dintre hi havia un...', 'està pujant la temperatura', 'a mi no m'ho ha fet mai en privat' o 'tenia el fre de mà posat, tu saps més coses'. En una altra escena, es mostren un preservatiu i un lubricant, i se'n fan comentaris ('el kit de l'amor, el circ Raluy', 'protegeixes el teu sexe'). Amb intenció còmica, dos nois es morregen acompanyats de sons exagerats, i gent que els observa comenta que s'hi volen apuntar, 'que no estan fent res mal fet', etc. Un rètol pregunta si els àngels 'tenen sexe'. Sonen gemecs superposats cada cop que es fan insinuacions sexuals. Un home pregunta si 'es pot explicar a aquesta hora' com una parella es va conèixer.<br><br><b>Llenguatge groller</b><br>Un cop cadascuna, es diuen 'ni puta idea', 'puta merda', 'a joderse' i 'quina putada'. També es diuen 'hòstia', 'merda' o 'fotut'.<br><br>Un home mostra unes birres com a 'premi' després d'haver fet esport, en una seqüència en què es presenta ell mateix per al programa. Hi ha un moment en què es diu que una bicicleta era robada. Hi ha referències i veiem a membres de la família mentir en el context competitiu del programa, que acaba sent recompensat perquè aquesta acaba guanyant." 
+  },
+  {
     "titol": "Pinotxo i la seva amiga Coco",
     "codi": "5817536",
     "edat": "7",
@@ -8989,6 +9119,15 @@
     "codi": "6195793",
     "edat": "10",
     "raons": "Por i angoixa freqüent d'afectació mitjana"
+  },
+  {
+    "titol": "Si no t'hagués conegut",
+    "codi": "si-no-thagues-conegut",
+    "edat": "13",
+    "orig": "7",
+    "comp": "🇪🇸 16 (VOD) 🇺🇲 TV-MA 🇩🇪 16 🇬🇧 18 🇦🇺 MA15+ 🇳🇱 12 🇧🇷 16",
+    "serie": true,
+    "tv3": true
   },
   {
     "titol": "STEM a Mart: Missió Hypatia",
