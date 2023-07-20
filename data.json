@@ -1400,6 +1400,28 @@
     "raons": "Por i angoixa ocasional d'afectació lleu"
   },
   {
+    "titol": "Després de tu",
+    "codi": "despres-de-tu",
+    "edat": "13",
+    "orig": "7",
+    "serie": true,
+    "x3": true
+  },
+  {
+    "titol": "Després de tu 1x01 - Teràpia familiar",
+    "codi": "6141759",
+    "edat": "13",
+    "raons": "Llenguatge groller freqüent d'intensitat alta",
+    "mesinfo": "<b>Llenguatge groller</b><br>Sovint, amb intencionalitat agressiva, es fan servir expressions com 'hòstia', 'merder', 'idiota', 'hòstia puta', 'collons' o 'merda'.<br><br>La manera en què la família supera la mort de la mare, en especial per part del vidu, és el fil conductor de l'episodi. Es menciona que el dol comporta conseqüències negatives com la depressió o l'insomni; de fet s'observa com al protagonista li costa dormir i li costa evitar abusar els ansiolítics (no s'observa que això succeeixi). Sovint, el protagonista s'imagina la dona i parla amb ella, sense que la resta se n'adoni. Algunes persones fan comentaris insensibles que són recriminats. En una escena còmica, la filla té un accident i té una hemorràgia nasal, i alhora, el fill comença a trobar-se malament i el pare diu que no pot estar pels dos alhora. El protagonista i el seu amic es prenen una cervesa en un bar mentre mantenen una conversa. Hi ha referències a un acte violent (pegar a una persona i trencar-li el mòbil) que són recriminats i no es mostren en cap moment."
+  },
+  {
+    "titol": "Després de tu 1x02 - Galetes",
+    "codi": "6141756",
+    "edat": "13",
+    "raons": "Al·lusions al consum de drogues lícites (alcohol) entre menors, amb presentació neutra<br>Llenguatge groller freqüent d'intensitat alta",
+    "mesinfo": "<b>Drogues</b><br>Un home pregunta si amb 16 anys és normal beure cafè, i li responen que 'amb 16 anys (els joves) ja es fan tequiles'.<br><br><b>Llenguatge groller</b><br>Es fan servir expressions com 'hòstia', 'merda', 'collona', 'puto' i 'puta merda'.<br><br>Algunes persones fan comentaris insensibles; en un d'ells, el protagonista diu que la manera de vestir de la seva filla es deu al fet que està pensant a 'llançar-se d'un pont', i ella respon: 'sort que no estic pensant en suïcidar-me, perquè quin poc tacte per a tocar el tema!'. Es mostra una retrospectiva on la dona del protagonista cau desmaiada a la cuina de casa."
+  },
+  {
     "titol": "Digimon Adventure: L'última evolució Kizuna",
     "codi": "6211646",
     "edat": "10",
@@ -3870,6 +3892,34 @@
     "comp": "🇺🇲 TV-14 🇩🇪 12 🇬🇧 12 🇦🇺 PG",
     "serie": true,
     "x3": true
+  },
+  {
+    "titol": "Haikyu! 1x06",
+    "codi": "3943943849934",
+    "edat": "10",
+    "raons": "Comentari masclista presentat de manera neutra<br>Llenguatge groller freqüent d'intensitat baixa<br>Conductes i valors incívics amb sanció neutra",
+    "mesinfo": "<b>Discriminació, racisme i xenofòbia</b><br>Un personatge secundari parla d'una delegada de l'institut, i diu que l'únic que recorda d'ella és que era 'guapa' i 'sexi'.<br><br><b>Llenguatge groller</b><br>Els jugadors fan servir sovint insults per menysprear-se entre ells i enriure's del físic o de les seves accions, com 'idiota', 'empanat', 'ximple', 'rave', 'espagueti', 'ruc', 'tap de bassa', 'tros d'ase' o 'no la caguis'.<br><br>Hi ha moments en què alguns jugadors tenen actituds amenaçadores, s'escridassen, s'agafen pels cabells o es fan cops a l'esquena, però sempre amb una intencionalitat còmica i sense intencions de fer mal."
+  },
+  {
+    "titol": "Haikyu! 1x07",
+    "codi": "4998435843952",
+    "edat": "10",
+    "raons": "Consum de drogues lícites (tabac) presentat de forma neutra<br>Llenguatge groller freqüent d'intensitat baixa",
+    "mesinfo": "<b>Drogues</b><br>Un personatge secundari apareix fumant tabac en un establiment. No es fan comentaris al respecte.<br><br><b>Llenguatge groller</b><br>Es diu sovint 'merda' i insults com 'imbècil', 'idiota', 'burro' i 'tap de bassa'."
+  },
+  {
+    "titol": "Haikyu! 1x08",
+    "codi": "4323343243243",
+    "edat": "7",
+    "raons": "Consum de drogues lícites (tabac) presentat de forma negativa<br>Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Drogues</b><br>Un personatge secundari apareix fumant tabac en un establiment. Aquest cop, la seva presència inclou connotacions subtilment negatives.<br><br><b>Llenguatge groller</b><br>Es diuen ocasionalment insults com 'inútil', 'idiota' o 'imbècil'.<br><br>Un personatge manifesta tenir una admiració per la vestimenta escolar de les noies. Quan la delegada apareix duent el vestit, el noi intenta llençar-s'hi al damunt i ella li dona una bufetada, implícita. L'escena es presenta en to d'humor. Un noi aixeca a un altre de la camisa i el llença, en una escena còmica i irreal, i respon que no li agraden les baralles entre companys. En escenes posteriors, li dona un cop i un clatellot de forma amistosa."
+  },
+  {
+    "titol": "Haikyu! 1x09",
+    "codi": "3439423493433",
+    "edat": "7",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada<br>Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Violència</b><br>Dos nois discuteixen i un d'ells agafa un altre de la jaqueta i s'hi intenta barallar, fins que els separen. Després, un home li fica les mans al damunt i l'aparta amb força. Un noi li dona un cop amistós a un altre. Un noi agafa un home i el sacseja, en una escena còmica.<br><br><b>Llenguatge groller</b><br>Es diu ocasionalment 'merda', 'idiota' i 'burro'.<br><br>Un noi recorda amb frustració com no podia fer guanyar el seu equip, en una escena en què s'emfatitza el seu estat d'ànim. Un personatge apareix breument amb un cigarret a la boca."
   },
   {
     "titol": "Haikyu! 2x15",
