@@ -538,7 +538,7 @@
     "codi": "black-clover",
     "edat": "13",
     "orig": "12",
-    "comp": "🇺🇲 TV-14 🇩🇪 12 🇬🇧 15 🇦🇺 M 🇫🇷 10",
+    "comp": "🇺🇲 TV-14 🇩🇪 12 🇬🇧 15 🇦🇺 M 🇫🇷 -10",
     "serie": true,
     "x3": true
   },
@@ -1244,6 +1244,33 @@
     "mesinfo": "<b>Sexe</b><br>El presentador fa referència a un fill com a 'un momento de un calentón'. També es fan múltiples mencions a la relació extramatrimonial que van mantenir dos amants i com això estava vist en l'època franquista, i també es diu que una noia tenia la 'maionesa tallada' i 'gent que li anava al darrere' però no tenia una relació estable.<br><br><b>Por i angoixa</b><br>Tot el programa gira al voltant de buscar la identitat i la relació entre persones que han mort. Per tant, es fan freqüents mencions a la mort, incloent-ne algunes de còmiques per part del conductor del programa, tot i que no són malintencionades. Es fa menció que una mare va morir de part, que dues filles van morir 'de párvulo' a causa de les condicions higièniques de l'època o que provenien de centres com orfenats. En Roger també visita un cementiri i troba una làpida amb una inscripció que inclou la hipèrbole 'y el corazón me sangra'. Es fan referències a com s'intentava mantenir un 'matrimoni fingit' en un 'ambient franquista repressiu' i com vivia la Cristina sense passar desapercebuda 'en un món d'homes'. En Roger diu que no sap si sentir-se 'depressiu' quan no rep la informació que desitja. La majoria d'aquestes referències manquen en detalls.<br><br>Hi ha un moment en què l'hereu rep la notícia amb incredulitat, i diu: 'y un huevo'."
   },
   {
+    "titol": "Chip y Chop: Vida en el parque",
+    "codi": "chip-chop",
+    "edat": "0",
+    "comp": "🌐 6+ (Disney+) 🇺🇲 TV-G",
+    "serie": true,
+    "misc": true
+  },
+  {
+    "titol": "Chip y Chop: Vida en el parque 1x01a",
+    "codi": "10239294303",
+    "edat": "0"
+  },
+  {
+    "titol": "Chip y Chop: Vida en el parque 1x01b",
+    "codi": "94838943284",
+    "edat": "0",
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa ocasional d'afectació lleu",
+    "mesinfo": "<b>Violència</b><br>Un dels bebès li dona dos cops de peu a Chip i l'envia lluny, sense provocar-li cap ferida.<br><br><b>Por i angoixa</b><br>En alguns moments es mostren els personatges en un perill molt lleu i irreal que ràpidament es dissipa (per exemple, Chop s'espanta en veure un bebè apropant-se a ell; un dels bebès té una actitud amenaçadora i és hostil a ser 'domat'; un ramat de bebès que corren com cavalls sembla que estan a punt de caure per un penya-segat, però ràpidament frenen i sabem que el 'forat' no és tan gros), o en un estat de tristesa que els fa plorar desconsoladament."
+  },
+  {
+    "titol": "Chip y Chop: Vida en el parque 1x01c",
+    "codi": "94839423434",
+    "edat": "0",
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, no legitimada",
+    "mesinfo": "<b>Violència</b><br>Chop fa córrer un cotxe de joguina i intenta utilitzar una de les rodes en moviment com si fos una radial per poder tallar el nus de la cua que l'uneix a Chip."
+  },
+  {
     "titol": "Club Winx. L'aventura màgica",
     "codi": "5817761",
     "edat": "7",
@@ -1411,8 +1438,8 @@
     "titol": "Després de tu 1x01 - Teràpia familiar",
     "codi": "6141759",
     "edat": "13",
-    "raons": "Llenguatge groller freqüent d'intensitat alta",
-    "mesinfo": "<b>Llenguatge groller</b><br>Sovint, amb intencionalitat agressiva, es fan servir expressions com 'hòstia', 'merder', 'idiota', 'hòstia puta', 'collons' o 'merda'.<br><br>La manera en què la família supera la mort de la mare, en especial per part del vidu, és el fil conductor de l'episodi. Es menciona que el dol comporta conseqüències negatives com la depressió o l'insomni; de fet s'observa com al protagonista li costa dormir i li costa evitar abusar els ansiolítics (no s'observa que això succeeixi). Sovint, el protagonista s'imagina la dona i parla amb ella, sense que la resta se n'adoni. Algunes persones fan comentaris insensibles que són recriminats. En una escena còmica, la filla té un accident i té una hemorràgia nasal, i alhora, el fill comença a trobar-se malament i el pare diu que no pot estar pels dos alhora. El protagonista i el seu amic es prenen una cervesa en un bar mentre mantenen una conversa. Hi ha referències a un acte violent (pegar a una persona i trencar-li el mòbil) que són recriminats i no es mostren en cap moment."
+    "raons": "Consum de drogues lícites (alcohol), amb presentació neutra<br>Llenguatge groller freqüent d'intensitat alta",
+    "mesinfo": "<b>Drogues</b><br>El protagonista i el seu amic es prenen una cervesa en un bar mentre mantenen una conversa.<br><br><b>Llenguatge groller</b><br>Sovint, amb intencionalitat agressiva, es fan servir expressions com 'hòstia', 'merder', 'idiota', 'hòstia puta', 'collons' o 'merda'.<br><br>La manera en què la família supera la mort de la mare, en especial per part del vidu, és el fil conductor de l'episodi. Es menciona que el dol comporta conseqüències negatives com la depressió o l'insomni; de fet s'observa com al protagonista li costa dormir i li costa evitar abusar els ansiolítics (no s'observa que això succeeixi). Sovint, el protagonista s'imagina la dona i parla amb ella, sense que la resta se n'adoni. Algunes persones fan comentaris insensibles que són recriminats. En una escena còmica, la filla té un accident i té una hemorràgia nasal, i alhora, el fill comença a trobar-se malament i el pare diu que no pot estar pels dos alhora. Hi ha referències a un acte violent (pegar a una persona i trencar-li el mòbil) que són recriminats i no es mostren en cap moment."
   },
   {
     "titol": "Després de tu 1x02 - Galetes",
@@ -1887,7 +1914,7 @@
     "codi": "detectiu-conan",
     "edat": "13",
     "orig": "7 (prèviament: 13)",
-    "comp": "🇪🇸 13 (<2010), 12 (VOD) 🇺🇲 TV-14 🇩🇪 12 🇬🇧 12 🇦🇺 M 🇫🇷 10",
+    "comp": "🇪🇸 13 (<2010), 12 (VOD) 🇺🇲 TV-14 🇩🇪 12 🇬🇧 12 🇦🇺 M 🇫🇷 -10",
     "serie": true,
     "x3": true
   },
@@ -3746,7 +3773,7 @@
     "codi": "guardians-nit-kimetsu",
     "edat": "13",
     "orig": "13 (prèviament: 12)",
-    "comp": "🇪🇦 12 (DVD), 18 (VOD) 🇺🇲 TV-MA (TV), TV-14 (DVD) 🇩🇪 16 🇬🇧 15 🇦🇺 MA15+ 🇳🇱 12 🇧🇷 16 🇫🇷 10",
+    "comp": "🇪🇦 12 (DVD), 18 (VOD) 🇺🇲 TV-MA (TV), TV-14 (DVD) 🇩🇪 16 🇬🇧 15 🇦🇺 MA15+ 🇳🇱 12 🇧🇷 16 🇫🇷 -10",
     "serie": true,
     "x3": true
   },
@@ -3905,8 +3932,8 @@
     "titol": "Haikyu! 1x06",
     "codi": "6179716",
     "edat": "10",
-    "raons": "Comentari masclista presentat de manera neutra<br>Llenguatge groller freqüent d'intensitat baixa<br>Conductes i valors incívics amb sanció neutra",
-    "mesinfo": "<b>Discriminació, racisme i xenofòbia</b><br>Un personatge secundari parla d'una delegada de l'institut, i diu que l'únic que recorda d'ella és que era 'guapa' i 'sexi'.<br><br><b>Llenguatge groller</b><br>Els jugadors fan servir sovint insults per menysprear-se entre ells i enriure's del físic o de les seves accions, com 'idiota', 'empanat', 'ximple', 'rave', 'espagueti', 'ruc', 'tap de bassa', 'tros d'ase' o 'no la caguis'.<br><br>Hi ha moments en què alguns jugadors tenen actituds amenaçadores, s'escridassen, s'agafen pels cabells o es fan cops a l'esquena, però sempre amb una intencionalitat còmica i sense intencions de fer mal."
+    "raons": "Comentari masclista presentat de manera neutra<br>Llenguatge groller freqüent d'intensitat baixa",
+    "mesinfo": "<b>Discriminació, racisme i xenofòbia</b><br>Un noi parla d'una delegada de l'institut, i diu que l'únic que recorda d'ella és que era 'guapa' i 'sexi'.<br><br><b>Llenguatge groller</b><br>Els jugadors fan servir sovint insults per menysprear-se entre ells i enriure's del físic o de les seves accions, com 'idiota', 'empanat', 'ximple', 'rave', 'espagueti', 'ruc', 'tap de bassa', 'tros d'ase' o 'no la caguis'.<br><br>Hi ha moments en què alguns jugadors tenen actituds amenaçadores, s'escridassen, s'agafen pels cabells o es fan cops a l'esquena, però sempre amb una intencionalitat còmica i sense intencions de fer mal."
   },
   {
     "titol": "Haikyu! 1x07",
@@ -6545,6 +6572,28 @@
     "mesinfo": "<b>Conductes i valors incívics</b><br>Una nena marxa de casa i segresta el seu germanastre, preocupant greument els seus pares, per tal de rebre més atenció per part dels seus pares, que a tot li 'diuen que no'. A les persones que la 'salven', els demana que no ho expliquin. La nena aconsegueix el seu objectiu i sense rebre cap sanció negativa de ningú.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa ('merda', 'ruc, 'sonat'). Hi ha situacions de por i angoixa ocasionals d'afectació mitjana; vegeu 'Conductes i valors incívics': el suposat segrestador parla amb la família per telèfon i els amenaça de matar els nens, i un noi visiblement afectat s'encara amb una noia amb una arma. Una dona, molt angoixada, demana un cigarret, però no la veiem fumant. Un home és un masclista que, a un comentari de 'no sé pas què faria sense tu', respon 'totes les dones em diuen el mateix', i pica el cul de la dona que li ho diu."
   },
   {
+    "titol": "La maldición de Molly McGee",
+    "codi": "mcgee",
+    "edat": "7",
+    "comp": "🌐 6+ (Disney+) 🇪🇦 TP 🇺🇲 TV-Y7 🇦🇺 PG 🇳🇱 6",
+    "serie": true,
+    "misc": true
+  },
+  {
+    "titol": "La maldición de Molly McGee 1x04a - Mamá curranta",
+    "codi": "049340384",
+    "edat": "7",
+    "raons": "Conductes i valors incivics amb sanció neutra",
+    "mesinfo": "<b>Conductes i valors incívics</b><br>Un dels personatges principals és maleducat i tira bosses de menjar per terra, roba menjar i l'escup. Tant el germà com el pare de la protagonista actuen de forma immadura, i per obrir una caixa forta inclús intenten fer-ho amb el cap. Acaben provocant un dany a la casa que la seva mare i ella hauran d'arreglar, però s'ho prenen positivament i com una oportunitat per seguir treballant pel bé de la família.<br><br>Hi ha situacions ocasionals que poden provocar por o angoixa amb una afectació lleu. Hi ha violència ocasional, irreal, no explícita i d'intensitat molt lleu."
+  },
+  {
+    "titol": "La maldición de Molly McGee 1x04b - ¡Hurra por Mollywood!",
+    "codi": "489395483",
+    "edat": "7",
+    "raons": "Conductes i valors incívics amb sanció neutra",
+    "mesinfo": "<b>Conductes i valors incívics</b><br>Una companya de la protagonista és egoista i maleducada amb ella. Quan s'apropia del rodatge d'una pel·lícula que estaven fent els protagonistes, ells se'n vengen, espanten a tothom i sabotegen l'estudi mentre ho enregistren per enriure-se'n més endavant i 'donar-los una lliçó'. Un dels personatges és groller, expulsa ventositats o menja compulsivament. La protagonista diu que tindrà malsons durant setmanes després de veure una pel·lícula de terror, però que tant li és.<br><br>Hi ha situacions ocasionals que poden provocar por o angoixa amb una afectació lleu, ja que el fantasma principal és capaç d'adoptar aparença terrorífica, i quan s'ensenya 'sang falsa' o es parla de 'pocs caps tallats' en una pel·lícula de por. Es diu 'a la porra'."
+  },
+  {
     "titol": "Lara i Kali",
     "codi": "lara-i-kali",
     "edat": "10",
@@ -7192,6 +7241,14 @@
     "peli": true,
     "x3": true,
     "raons": "Violència freqüent, irreal, no explícita, d'intensitat molt lleu, legitimada"
+  },
+  {
+    "titol": "Los Green en la gran ciudad",
+    "codi": "green-ciudad",
+    "edat": "10",
+    "comp": "🌐 6+ (Disney+) 🇪🇦 TP 🇺🇲 TV-Y7 🇦🇺 PG 🇳🇱 6 🇧🇷 L 🇰🇷 12",
+    "serie": true,
+    "misc": true
   },
   {
     "titol": "Lost Ollie",
@@ -8198,7 +8255,7 @@
     "codi": "one-piece",
     "edat": "13",
     "orig": "10 (prèviament: 13)",
-    "comp": "🇺🇲 TV-14 🇩🇪 12 🇬🇧 15 🇦🇺 MA15+ 🇳🇱 6 🇧🇷 16 🇫🇷 10",
+    "comp": "🇺🇲 TV-14 🇩🇪 12 🇬🇧 15 🇦🇺 MA15+ 🇳🇱 6 🇧🇷 16 🇫🇷 -10",
     "serie": true,
     "x3": true
   },
@@ -9739,7 +9796,7 @@
     "codi": "zombielars",
     "edat": "10",
     "orig": "7",
-    "comp": "🇳🇱 9 🇫🇮 12 🇫🇷 10",
+    "comp": "🇳🇱 9 🇫🇮 12 🇫🇷 -10",
     "serie": true,
     "x3": true
   },
