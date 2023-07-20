@@ -2001,6 +2001,14 @@
     "mesinfo": "<b>Drogues</b><br>Es diu que un ritual d'esmorzar que tenen uns homes inclou la 'cervesa de la victòria', per beure-la abans de treballar. Veiem tots ells bevent-ne una (amb la marca expressament visible). Ofereixen vi al protagonista, que se'l beu per alleugerir la sensació de picant del bitxo, i fa bromes sobre la seva graduació.<br><br><b>Llenguatge groller</b><br>De manera constant, el presentador fa servir expressions com 'hòstia' i 'fotre', encara que mai de manera ofensiva. De manera ocasional també es diuen 'ni puta idea', 'cabrón', 'merda' i 'el puta'.<br><br>Hi ha situacions ocasionals de por o angoixa moderada, quan home relata que va patir un intent de suïcidi, que va estar vuit mesos en hospitals i que va entrar en depressió; diu que el fet de trobar gent amable al poble que li donés feina l'ha ajudat a tirar endavant. Hi ha bromes sexuals ocasionals d'explicitació baixa: gent gran diu que 'de sexe no n'hi ha', que fan l'amor sense fer sexe, i que 'la líbido no sé on ha anat'; es fan insinuacions sobre què vol dir 'cuca', d'obrir 'en canal' i de repetir 'patapam' mentre es fan moviments de maluc bruscos. Hi ha violència irreal, no explícita, d'intensitat molt lleu quan, en un dels seus monòlegs, el presentador ironitza amb utilitzar una desbrossadora per tallar-li la barba i pegar-lo."
   },
   {
+    "titol": "El juego del calamar",
+    "codi": "juego-calamardo",
+    "edat": "18",
+    "comp": "🇪🇦 16 🇺🇲 TV-MA 🇩🇪 16 🇬🇧 15 🇦🇺 MA15+ 🇳🇱 16 🇧🇷 18",
+    "serie": true,
+    "misc": true
+  },
+  {
     "titol": "El llibre de la selva",
     "codi": "llibre-selva",
     "edat": "7",
@@ -8804,6 +8812,22 @@
     "comp": "🇳🇱 6 🇫🇮 7",
     "serie": true,
     "x3": true
+  },
+  {
+    "titol": "Sálvame",
+    "codi": "salvame",
+    "edat": "13",
+    "comp": "🇪🇸 16, 12, 7 (depèn) (prèviament: 13 i TP)",
+    "serie": true,
+    "misc": true
+  },
+  {
+    "titol": "Sálvame Limón/Naranja 15/11/2022",
+    "codi": "9348439348",
+    "edat": "13",
+    "orig": "16",
+    "raons": "Violència freqüent, versemblant, no explícita, d'intensitat lleu, legitimada<br>Conductes i valors incívics amb sanció positiva",
+    "mesinfo": "<b>Violència</b><br>S'inclouen freqüents situacions de violència verbal, que són encoratjades i animades per part de la direcció del programa, els presentadors i del públic, que les consideren divertides i estimulants.<br><br><b>Conductes i valors incívics</b><br>Els col·laboradors contínuament es llencen retrets, s'insulten i discuteixen (vegeu 'Violència'), i són animats tant pels presentadors com pel públic, que riu o aclama segons quines intervencions. Durant el programa també es legitimen comportaments com espiar un domicili, comentar vides alienes de forma vexatòria o sarcàstica i seguir pel carrer a persones que no volen saber res d'ells per intentar-les entrevistar. Tot i que a vegades s'emfatitzi amb algunes d'elles i es digui que això que fan és linxament, des del programa sempre es defensa que estan en el seu dret perquè no estan envaint la seva propietat ni la seva vida privada i no fan res dolent.<br><br>Hi ha llenguatge groller ocasional d'intensitat alta ('retardo', 'vete a la mierda', 'hostia', 'hijo de puta', 'mierda', 'dar por culo', 'ni puto caso', 'gilipollez', 'coño'). Hi ha continguts sexuals ocasionals d'explicitació baixa, en forma d'al·lusions a serveis sexuals per a adults, 'perreos', imatges de balls suggerents i un comentari considerat masclista, quan una dona li recomana a una altra que es doni 'una alegría macarena' al seu cos. Hi ha situacions ocasionals de por o angoixa d'afectació lleu, quan un muntatge es recrea en la crisi emocional que pateix una persona, o hi ha persones emocionalment afectades i a punt de plorar."
   },
   {
     "titol": "Sakura, la caçadora de cartes",
