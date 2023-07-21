@@ -1928,6 +1928,28 @@
     "raons": "Violència freqüent, irreal, no explícita, d'intensitat lleu, no legitimada<br>Por i angoixa reiterada d'afectació lleu"
   },
   {
+    "titol": "El asombroso mundo de Gumball",
+    "codi": "gumball",
+    "edat": "10",
+    "comp": "🇪🇦 TP (TV censurat) 🇺🇲 TV-Y7-FV 🇩🇪 0 🇬🇧 PG 🇦🇺 PG 🇳🇱 9 🇧🇷 L 🇰🇷 7",
+    "serie": true,
+    "misc": true
+  },
+  {
+    "titol": "El asombroso mundo de Gumball 3x31 - El oráculo",
+    "codi": "4545454545",
+    "edat": "7",
+    "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, no legitimada<br>Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>V"
+  },
+  {
+    "titol": "El asombroso mundo de Gumball 5x38 - La cola",
+    "codi": "49349384",
+    "edat": "7",
+    "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, no legitimada",
+    "mesinfo": "<b>Violència</b><br>Un noi s'empipa i llença un mòbil a terra, el seu company diu que era seu i que no l'hauria d'haver trencat. En una paròdia de 'Star Wars', dos personatges es barallen verbalment i es llencen objectes flotants, i en un moment un d'ells està a punt de caure al buit i l'altre intenta perjudicar-lo, però l'escena s'atura. Un personatge en forma de plàtan es mossega el braç i comença a menjar-se ell mateix (de forma implícita) fins no quedar res. Hi ha una persecució còmica on un carretó de la compra i una moto col·lisionen lateralment, un dels conductors fa el gest de pegar a l'altre i l'empenta, i fa que xoqui contra un camió. Més tard entren en un centre comercial trencant el vidre i intenten atacar-se llençant-se llaunes. Un robot dispara rajos làser, i acaba destruït després que l'esclafin amb cubells de la brossa. Encara dins la persecució, un noi fa veure que ofega la seva mare, que cau desplomada (de forma implícita: només se sent un cruixit i es veu com panteixa durant dos segons). Un monstre gegant cau a terra després de lligar-lo de cames. Al final tot ha estat en va perquè han estat enganyats.<br><br>Hi ha situacions ocasionals de por o angoixa lleu (un personatge adopta una cara esgarrifosa breument; durant un moment sembla que un home amb un respirador s'està ofegant, però ràpidament es descobreix que no és cert; un personatge en forma de torrada s'aterra en veure uns coloms). Quan una nena idea un pla 'malvat', el seu germà li diu: 'por eso no tienes amigos'. Hi ha diversos moments on se separa entre 'gent normal' i 'frikis', i es diu que aquests últims solen no tenir parella, treure males notes i que estan acostumats a ser humiliats en públic, tanmateix, els 'frikis' acaben humiliant-los a tots ells implícitament al final de l'episodi."
+  },
+  {
     "titol": "El carrer Scream",
     "codi": "carrer-scream",
     "edat": "7",
@@ -2245,6 +2267,28 @@
     "peli": true,
     "x3": true,
     "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa ocasional d'afectació lleu"
+  },
+  {
+    "titol": "El mundo de Craig",
+    "codi": "mundo-craig",
+    "edat": "7",
+    "comp": "🇪🇦 7 (VOD), TP (TV) 🇺🇲 TV-Y7 🇦🇺 PG 🇳🇱 9 🇧🇷 L 🇰🇷 7",
+    "serie": true,
+    "misc": true
+  },
+  {
+    "titol": "El mundo de Craig 2x02 - El suelo es lava",
+    "codi": "4854546594",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu",
+    "mesinfo": "<b>Por i angoixa</b><br>L'episodi inclou escenes dramàtiques exagerades quan els amics juguen a 'el terra és lava'. Tot i que es deixa bastant clar que només estan jugant i que la lava visible és mentida, inclou moments amb la intenció de sobresaltar. Per exemple, quan la lava comença a inundar-ho tot, un noi en un gronxador emergeix de la lava sense carn, només l'esquelet. Es fan comentaris com 'la lava me derrite el cerebro' o 'me he caído y he empezado a arder', enmig de les situacions de 'tensió'. Uns nens es barallen per uns xiclets en una cabanya, que fa que es desestabilitzi i es destrossi, fent-los caure a la lava.<br><br>Un nen es discuteix amb una nena perquè no li agradava com estava fent un dibuix, però se li ho recriminen immediatament, li sap greu i s'acaben disculpant."
+  },
+  {
+    "titol": "El mundo de Craig 2x03 - El consejo del bosque: Operación mente colmena",
+    "codi": "943754345",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu",
+    "mesinfo": "<b>Por i angoixa</b><br>Es mostra sovint com una abella pica el protagonista i també la ferida que li deixa. En una ocasió, ell exagera l'accident, fent veure que li ha picat a prop del cor. Hi ha tensió lleu quan un dels nens té la intenció de deixar anar unes abelles a una llar d'infants, i ell mateix agafa por quan destapa la caixa.<br><br>Uns companys li fan el buit a un noi perquè no els convenç la seva idea, que ell decideix executar pel seu compte. Al final de l'episodi, s'arregla la situació dialogant. L'episodi inclou dues situacions de violència involuntària o tipus slapstick: en una, una noia llença una pilota que acaba impactant contra un noi; en una altra, unes persones s'aparten perquè volen sortir a càmera."
   },
   {
     "titol": "El negre de Banyoles",
@@ -4438,6 +4482,14 @@
     "mesinfo": "<b>Por i angoixa</b><br>Es mostren cadàvers d'animals; un llop s'alimenta d'un d'ells. Es fan referències a la hipotèrmia. Un experiment involucra una nena en una banyera glaçada per tal de mesurar-li la temperatura corporal. Un home té una congelació i mostra els seus peus amb els dits amputats. Una dramatització poc detallada mostra una parella atrapada a la neu, i es diu que un gos va excavar fins que li van sagnar les potes. Es diu que van morir anys més tard."
   },
   {
+    "titol": "Historias corrientes",
+    "codi": "historias-corrientes",
+    "edat": "10",
+    "comp": "🇪🇦 TP (censurat), 12 (VOD, censurat) 🇺🇲 TV-PG 🇬🇧 12 🇦🇺 PG 🇳🇱 12 🇧🇷 10 (censurat) 🇰🇷 12",
+    "serie": true,
+    "misc": true
+  },
+  {
     "titol": "Hoodie",
     "codi": "hoddie",
     "edat": "10",
@@ -5380,6 +5432,14 @@
     "titol": "Hoodie 3x52",
     "codi": "6218359",
     "edat": "0"
+  },
+  {
+    "titol": "Hora de aventuras",
+    "codi": "hora-de-aventuras",
+    "edat": "10",
+    "comp": "🇪🇦 TP (TV censurat), 7 o 13 (VOD) 🇺🇲 TV-PG 🇩🇪 6 🇬🇧 12 🇦🇺 PG 🇳🇱 9 🇧🇷 12 (TV censurat), 10 (DVD) 🇰🇷 7",
+    "serie": true,
+    "misc": true
   },
   {
     "titol": "Ideafix i els irreductibles",
@@ -7331,6 +7391,28 @@
     "codi": "5785674",
     "edat": "7",
     "raons": "Conductes i valors incívics amb sanció neutra"
+  },
+  {
+    "titol": "Looney Tunes Cartoons",
+    "codi": "looney-tunes-cartoons",
+    "edat": "7",
+    "comp": "🇪🇦 7 (VOD), TP (TV) 🇺🇲 TV-PG 🇳🇱 6 🇧🇷 L",
+    "serie": true,
+    "misc": true
+  },
+  {
+    "titol": "Looney Tunes Cartoons 2x02 - El hotel del faraón / Gag del poste telefónico 2: El poste telefónico que encoge / ¡En la carretera otra vez!",
+    "codi": "475865478",
+    "edat": "7",
+    "raons": "Violència reiterada, irreal, explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa ocasional d'afectació mitjana",
+    "mesinfo": "Nota: A Espanya s'emet una versió censurada d'aquest episodi, que elimina una escena de violència en què una mòmia 'tortura' en Bugs partint-li els braços i les cames i estirant-li el cos i el coll mentre crida de dolor. Encara que no ho sembli en un primer moment, en surt il·lès i ho considera un 'massatge'. La qualificació de la versió sense censura d'aquest episodi seria de NR<10 anys.<br><br><b>Violència</b><br>El fragment protagonitzat per Bugs Bunny inclou reiterades situacions còmiques en què infligeix violència de forma involuntària contra el personatge de la mòmia que l'està perseguint. Es poden observar unes il·lustracions on una persona és partida per la meitat. Uns escarabats es llencen contra la mòmia i li roseguen la cara. Bugs deixa anar un totxo sobre els braços de la mòmia, que fa que caiguin i reveli els ossos, i l'acaba desfent com si fossin fideus. La mòmia atrapa en Bugs, en una escena que al principi és aterridora (vegeu la nota), però que després resulta que no ho ha estat per a ell. Bugs ataca la mòmia amb un tros de cinta com si fos un fuet, i fa que surti disparada. En el fragment amb Wile E. Coyote, ell queda atrapat dins un forat que se cimenta, més tard juga amb un trepant perquè pugui sortir i impacta contra parets, cau, etc.<br><br><b>Por i angoixa</b><br>Bugs descobreix, dins uns recipients i -aparentment- sense adonar-se, òrgans humans realistes com un cor, intestins o un fetge. Bugs introdueix de forma forçada tots aquests òrgans dins la boca de la mòmia que el persegueix, oferint una imatge pertorbadora. Més tard els escup. Vegeu també 'Violència'."
+  },
+  {
+    "titol": "Looney Tunes Cartoons 2x10 - La montaña sin fin / Gag del poste telefónico 2: Tirolina / Surfeando sobre señales",
+    "codi": "948374985",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu",
+    "mesinfo": "<b>Por i angoixa</b><br>Un monstre toca Porky i això fa que adopti un color blavós i es congeli. En una escena melodramàtica, Porky diu que es morirà; apareixen espelmes al costat seu i envien records a familiars i amics mentre ploren desconsolats, de forma exagerada. Després de patir accidents, Porky i Lucas es veuen amb ferides a la cara com ulls morats o rascades, i ossos del revés, però no de forma explícita. Hi ha escenes en què ploren o tenen por de caure o de trobar-se amb una allau o un monstre.<br><br>Hi ha violència ocasional, irreal, molt lleu i no legitimada (Lucas li tira el mapa a terra a Porky, l'agafa de la roba com si l'amenacés i el tira a terra en una escena no agressiva; un ocell apareix amb intenció de venjar-se perquè Lucas i Porky li han 'trencat el coll' sense voler anteriorment, així que els agafa i els deixa anar des de molt amunt; Piolín talla amb un ganivet la corda que ha deixat Silvestre i això fa que acabi impactant contra la paret; Wile E. Coyote cau des de molt alt i impacta sobre seu un senyal i una ràdio)."
   },
   {
     "titol": "L'origen de les curses de dracs",
@@ -9447,6 +9529,36 @@
     "tv3": true
   },
   {
+    "titol": "Somos osos",
+    "codi": "somos-osos",
+    "edat": "7",
+    "comp": "🇪🇦 TP 🇺🇲 TV-Y7 🇩🇪 6 🇬🇧 U 🇦🇺 PG 🇳🇱 6 🇧🇷 L 🇰🇷 7",
+    "serie": true,
+    "misc": true
+  },
+  {
+    "titol": "Somos ositos",
+    "codi": "somos-ositos",
+    "edat": "7",
+    "comp": "🇪🇦 TP (TV), 7 (VOD) 🇺🇲 TV-Y7 🇧🇷 L 🇰🇷 ALL",
+    "serie": true,
+    "misc": true
+  },
+  {
+    "titol": "Somos ositos 1x03 - ¿Quién ha siiido?",
+    "codi": "94384943",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu",
+    "mesinfo": "<b>Por i angoixa</b><br>Un fantasma posseeix un dels ossos, que fa que tot l'entorn seu agafi un to vermellós, que el seu cos pugui volar i que els objectes flotin al voltant seu. Els germans aconsegueixen que el seu jo real es rebel·li contra el fantasma i pugui recuperar el control del seu cos, i succeeixen. A més, un dels ossos s'espanta en veure una mansió imponent. Un cop dins, s'hi troben un fantasma que gira el cap 360 graus, però que ràpidament es presenten com a inofensius. Un dels ossos s'espanta quan troba una estora en forma d'os.<br><br>Els ossos ataquen un plat de menjar de forma grollera."
+  },
+  {
+    "titol": "Somos ositos 1x05 - Una familia moderna de la Edad de Piedra",
+    "codi": "9343743984",
+    "edat": "7",
+    "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, legitimada",
+    "mesinfo": "<b>Violència</b><br>Una família es baralla per un pseudocomandament de televisor: un d'ells li dona una puntada de peu que el llença pels aires, dos d'ells agafen uns bastos que acaben impactant contra ells mateixos, algú li esquinça la roba a un d'ells (no explícit) i després tots es barallen entre ells formant un núvol de pols (no explícit). En aquest cas, el seu comportament és explícitament recriminat. Més endavant, però, els ossos atacaran a l'antagonista -que ha segrestat el bebè de la família- i en sortiran victoriosos. Un d'ells li llença una castanya (no explícit) i li trenca les ulleres. Un membre de la família apareix i xuta una altra castanya que li impacta a la galta i li fa saltar una dent. Els dos nois de la família apareixen i li fan un cop al cap amb els bastos (no explícit), i el fan caure a terra. Allà algú li esquinça els pantalons (no explícit) i, avergonyit, es tapa els calçotets, mentre alguns personatges riuen. Es fan també amenaces, de similar intensitat.<br><br>Hi ha situacions ocasionals de por o angoixa lleu."
+  },
+  {
     "titol": "Star contra las fuerzas del mal",
     "codi": "star-fuerzas-mal",
     "edat": "10",
@@ -9461,6 +9573,14 @@
     "orig": "TP",
     "serie": true,
     "x3": true
+  },
+  {
+    "titol": "Steven Universe",
+    "codi": "steven-universe",
+    "edat": "10",
+    "comp": "🇪🇦 TP (TV censurat), 7 (VOD censurat) 🇺🇲 TV-PG 🇬🇧 PG 🇦🇺 PG 🇳🇱 9 🇧🇷 10 (censurat) 🇰🇷 7",
+    "serie": true,
+    "misc": true
   },
   {
     "titol": "Spirit, cavalcant en llibertat: L'esperit de Nadal",
@@ -9532,14 +9652,14 @@
     "codi": "89474859482562",
     "edat": "7",
     "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, no legitimada<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa",
-    "mesinfo": "<b>Violència</b><br>    <br><br><b>Conductes i valors incívics</b><br>Els protagonistes donen detalls nutritius sobre els alvocats, tant positius com negatius. Després que un d'ells s'obsessioni amb menjar-ne ja que li atorguen 'superpoders', li recorden que molts greixos bons acaben sent dolents per la salut. Ell acaba amb un sobrepès exagerat i es transforma en un monstre gegant en forma d'alvocat, i que sembla no haver après la lliçó al final de l'episodi un cop és 'derrotat' pels seus amics.<br><br>Un rètol molt breu diu: 'salir de aquí, tontos'. Hi ha situacions ocasionals de por o angoixa lleu (d'una llavor d'alvocat surt una planta que atrapa als protagonistes)."
+    "mesinfo": "<b>Violència</b><br>Una 'mà' ajuda al seu 'amo' en una lluita: un dolent llença caixes fortes, però les esquiven i la mà li dona un cop de puny al dolent, fent que perdi una dent i enviant-lo a la paret. Es recupera i intenta esclafar-la, però la mà, amb un pal, comença a fer-li cops de cap, una bufetada i un cop de puny, i l'envia lluny i el fa xocar contra un hidrant. Tot i que en un principi els actes violents de la mà es presenten heroicament, més tard s'adonen que és malvada i l'han de reduir: el seu 'amo' li dona un cop de puny, que es llança contra ell, ell la mossega com si fos un gos i la mà li clava una bufetada.<br><br><b>Llenguatge groller</b><br>Es diu 'flipao' i 'inútil'.<br><br><b>Conductes i valors incívics</b><br>Els protagonistes fan un seguit de conductes antihigièniques que faci que un noi els parli de la necessitat de la higiene personal; més tard, però, li fan un petó a la mà i ell mateix diu que no se la rentarà mai més, ignorant els avisos que això propiciarà el desenvolupament de bacteris. El noi s'acaba penedint i disculpant, tot i que al final de l'episodi es presenta humorísticament que no sembla haver après la lliçó. En una ocasió, es fa burla de la 'mà de bebè' del noi.<br><br>Hi ha situacions ocasionals de por o angoixa lleu (l'alè d'una noia fa que la carn d'un noi es desintegri, deixant només l'esquelet en una escena còmica, breu i irreal; li cau la mà a un noi, que està infectada i ha cobrat vida, però no es comporta de manera erràtica fins més tard, quan intenta 'devorar el cervell' d'una noia)."
   },
   {
     "titol": "Teen Titans Go! 4x21 - El aguacadios",
     "codi": "8947485948256",
     "edat": "7",
     "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, no legitimada<br>Conductes i valors incívics amb sanció negativa",
-    "mesinfo": "<b>Violència</b><br>Un robot gegant destrueix un edifici i llença a un noi contra la paret; el robot agafa un cotxe i el noi el fa explotar amb els seus poders. Ell pega el robot amb una llavor d'alvocat com a guant (no explícit) i provoca una explosió gegant. Un monstre gegant destrueix alguns arbres per plantar-hi els seus fins que els protagonistes lluiten contra ell, llençant projectils, disparant làsers o punys gegants contra ell, o atacant-lo amb un fibló transformat en abella per atacar-lo, en escenes de molt poca intensitat i sense èxit, ja que acaben provant una alternativa no violenta.<br><br><b>Conductes i valors incívics</b><br>Els protagonistes donen detalls nutritius sobre els alvocats, tant positius com negatius. Després que un d'ells s'obsessioni amb menjar-ne ja que li atorguen 'superpoders', li recorden que molts greixos bons acaben sent dolents per la salut. Ell acaba amb un sobrepès exagerat i es transforma en un monstre gegant en forma d'alvocat, i que sembla no haver après la lliçó al final de l'episodi un cop és 'derrotat' pels seus amics.<br><br>Un rètol molt breu diu: 'salir de aquí, tontos'. Hi ha situacions ocasionals de por o angoixa lleu (d'una llavor d'alvocat surt una planta que atrapa als protagonistes)."
+    "mesinfo": "<b>Violència</b><br>Un robot gegant destrueix un edifici i llença a un noi contra la paret; el robot agafa un cotxe i el noi el fa explotar amb els seus poders. Ell pega el robot amb una llavor d'alvocat com a guant (no explícit) i provoca una explosió gegant. Un monstre gegant destrueix alguns arbres per plantar-hi els seus fins que els protagonistes lluiten contra ell, llençant projectils, disparant làsers o punys gegants contra ell, o atacant-lo amb un fibló transformat en abella per atacar-lo, en escenes de molt poca intensitat i sense èxit, ja que acaben provant una alternativa no violenta.<br><br><b>Conductes i valors incívics</b><br>Els protagonistes donen detalls nutritius sobre els alvocats, tant positius com negatius. Després que un d'ells s'obsessioni amb menjar-ne ja que li atorguen 'superpoders', li recorden que molts greixos bons acaben sent dolents per la salut. Ell acaba amb un sobrepès exagerat i es transforma en un monstre gegant en forma d'alvocat, i que sembla no haver après la lliçó al final de l'episodi un cop és 'derrotat' pels seus amics.<br><br>Un rètol molt breu diu: 'salir de aquí, tontos'. Hi ha situacions ocasionals de por o angoixa lleu (d'una llavor d'alvocat surt una planta que atrapa als protagonistes). S'inclou una insinuació molt lleu quan la llengua de Robin es refrega contra un tros d'alvocat mentre sona música romàntica i diu: 'oh, sí, aguacate, te adoro, sí'."
   },
   {
     "titol": "Teen Titans Go! 7x20 - Preparacionistas del juicio final",
