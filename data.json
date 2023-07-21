@@ -154,27 +154,43 @@
     "x3": true
   },
   {
-    "titol": "Al mar! 1x01",
+    "titol": "Al mar! 1x01 - Una classe de vela lleugera a Blanes",
     "codi": "6223713",
     "edat": "0",
     "mesinfo": "Se sent música de tensió quan s'ensenyen imatges de taurons o comença a ploure."
   },
   {
-    "titol": "Al mar! 1x02",
+    "titol": "Al mar! 1x02 - Trucs per fer surf, a Vila-seca",
     "codi": "6223972",
     "edat": "0",
     "mesinfo": "Un home diu que dedica les seves acrobàcies a una persona que és 'al cel'."
   },
   {
-    "titol": "Al mar! 1x03",
+    "titol": "Al mar! 1x03 - La Carlota prova un nou windsurf a Salou",
     "codi": "6226323",
     "edat": "0",
     "mesinfo": "Hi ha una escena en què una noia cau d'una planxa i sembla que cridi 'hòstia', però el crit és ocultat pel fet d'estar gravant des de l'aigua."
   },
   {
-    "titol": "Al mar! 1x04",
+    "titol": "Al mar! 1x04 - Coneixem un jove campió a Cambrils",
     "codi": "6227906",
     "edat": "0"
+  },
+  {
+    "titol": "Al mar! 1x05 - Esport blau escolar a Vilanova i la Geltrú",
+    "codi": "6229118",
+    "edat": "0",
+    "mesinfo": "Una noia diu que el mar li fa respecte quan no veu el fons, mentre sona música de tensió molt breu."
+  },
+  {
+    "titol": "Al mar! 1x06 - Windsurf a Roses",
+    "codi": "6230073",
+    "edat": "0"
+  },
+  {
+    "titol": "Al mar! 1x07 - Trucs per fer caiac a Castelldefels",
+    "codi": "6231743",
+    "edat": "0000000"
   },
   {
     "titol": "Anfibilandia",
@@ -1326,6 +1342,34 @@
     "comp": "🇺🇲 TV-PG",
     "serie": true,
     "x3": true
+  },
+  {
+    "titol": "D'aventura castigats 1x01",
+    "codi": "6084347",
+    "edat": "7",
+    "raons": "Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "<b>Conductes i valors incívics</b><br>Uns nois vandalitzen una estàtua, una classe o el passadís de l'institut i acaben castigats. Un dels nois diu que és un 'habitual' de l'aula de castigats, mentre que una noia diu que no vol freqüentar-la perquè tacarà el seu historial.<br><br>Es fan servir expressions com 'sonada' o 'ni boja'."
+  },
+  {
+    "titol": "D'aventura castigats 1x02",
+    "codi": "6084348",
+    "edat": "10",
+    "raons": "Conductes i valors incívics amb sanció neutra",
+    "mesinfo": "<b>Conductes i valors incívics</b><br>Per evitar que el director de l'escola entri a l'aula de castigats i vegi el descobriment que han fet els alumnes, un d'ells fa de barricada per evitar que s'obri la porta i col·loca una perxa en un pany per inutilitzar-li les claus. Quan el director aconsegueix entrar, sospita d'aquest alumne i li fa una pregunta sobre el llibre que suposadament està llegint, però resulta que respon correctament. Amb la intenció de tornar a entrar a l'aula de castigats per seguir fent descobriments, els alumnes tornen a vandalitzar l'institut, inundant un lavabo o simulant que hi ha una persona atrapada en un armariet.<br><br>Hi ha situacions de tensió lleu i al·lusions violentes. Un noi és insultat amb noms com 'troglodita' o 'ignorant'."
+  },
+  {
+    "titol": "D'aventura castigats 1x03",
+    "codi": "6085336",
+    "edat": "10",
+    "raons": "Conductes i valors incívics amb sanció neutra",
+    "mesinfo": "<b>Conductes i valors incívics</b><br>Els nois tornen a fer malifetes a l'institut, com vandalitzar una pissarra o portar un ratolí a classe, per tal d'entrar a l'aula de castigats i seguir investigant. Els nois vandalitzen llibres seus i de la biblioteca per cremar-los i poder obrir una cambra secreta. Acaben amb la cara tacada, i menteixen sobre el que ha passat al director.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa ('merder'). Hi ha tensió lleu."
+  },
+  {
+    "titol": "D'aventura castigats 1x04",
+    "codi": "6085337",
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es fa un ús freqüent de les expressions 'desgraciat', 'idiota' i 'merda'.<br><br>Un noi presencia com un grup d'assetjadors es burla d'un altre nen i li fa malbé un objecte, comportament que és recriminat. Uns nois menteixen a una professora. Es diu que un noi va perdre la mare i un altre gairebé no veu el pare."
   },
   {
     "titol": "D'aventura castigats 1x09",
@@ -3942,133 +3986,151 @@
     "x3": true
   },
   {
-    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x01",
+    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x01 - Crueltat",
     "codi": "6178403",
     "edat": "13",
     "raons": "Violència ocasional, versemblant, no explícita, d'intensitat greu, no legitimada (imatges cruentes de cadàvers, alguns infants)"
   },
   {
-    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x02",
+    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x02 - El mestre Sakonji Urokodaki",
     "codi": "6178484",
     "edat": "13",
     "raons": "Violència ocasional, irreal, molt explícita, d'intensitat greu, legitimada"
   },
   {
-    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x03",
+    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x03 - Sabito i Makomo",
     "codi": "6178877",
     "edat": "10",
     "raons": "Violència ocasional, irreal, no explícita, d'intensitat greu, no legitimada<br>Por i angoixa ocasional d'afectació alta"
   },
   {
-    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x04",
+    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x04 - La tria final",
     "codi": "6178889",
     "edat": "13",
     "raons": "Violència freqüent, irreal, molt explícita, d'intensitat greu, legitimada"
   },
   {
-    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x05",
+    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x05 - El meu acer",
     "codi": "6179717",
     "edat": "13",
     "raons": "Violència ocasional, versemblant, molt explícita, d'intensitat greu, no legitimada"
   },
   {
-    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x06",
+    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x06 - El caçador i el seu dimoni",
     "codi": "6179794",
     "edat": "13",
     "raons": "Violència freqüent, irreal, molt explícita, d'intensitat greu, legitimada<br>Por i angoixa freqüent d'afectació alta"
   },
   {
-    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x07",
+    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x07 - Muzan Kibutsuji",
     "codi": "6179996",
     "edat": "13",
     "raons": "Violència freqüent, irreal, molt explícita, d'intensitat greu, legitimada<br>Por i angoixa freqüent d'afectació alta"
   },
   {
-    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x08",
+    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x08 - L'olor de la sang encantada",
     "codi": "6180206",
     "edat": "13",
     "raons": "Violència ocasional, irreal, molt explícita, d'intensitat greu, no legitimada"
   },
   {
-    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x09",
+    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x09 - Els dimonis de les pilotes i les fletxes",
     "codi": "6180862",
     "edat": "13",
     "raons": "Violència freqüent, irreal, molt explícita, d'intensitat greu, legitimada<br>Por i angoixa freqüent d'afectació alta"
   },
   {
-    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x10",
+    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x10 - Sempre junts",
     "codi": "6180951",
     "edat": "13",
     "raons": "Violència freqüent, irreal, molt explícita, d'intensitat greu, no legitimada<br>Por i angoixa freqüent d'afectació alta"
   },
   {
-    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x11",
+    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x11 - La mansió dels tambors",
     "codi": "6181113",
     "edat": "13",
     "raons": "Violència ocasional, versemblant, no explícita, d'intensitat greu, no legitimada"
   },
   {
-    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x12",
+    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x12 - El Zenitsu dorm i el senglar ensenya els ullals",
     "codi": "6181359",
     "edat": "13",
     "raons": "Violència freqüent, irreal, molt explícita, d'intensitat greu, legitimada<br>Por i angoixa freqüent d'afectació alta"
   },
   {
-    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x13",
+    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x13 - Allò més important que la vida",
     "codi": "6182105",
     "edat": "13",
     "raons": "Violència freqüent, irreal, explícita, d'intensitat greu, legitimada"
   },
   {
-    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x18",
-    "codi": "6183531",
+    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x14 - La casa amb l'escut de glicina",
+    "codi": "6182196",
+    "edat": "10",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada<br>Por i angoixa ocasional d'afectació alta<br>Comportaments masclistes presentats de manera neutra<br>Llenguatge groller freqüent d'intensitat baixa"
+  },
+  {
+    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x15 - El mont Natagumo",
+    "codi": "6182422",
+    "edat": "10",
+    "raons": "Violència ocasional, irreal, explícita, d'intensitat greu, no legitimada<br>Por i angoixa ocasional d'afectació alta<br>Comportaments masclistes presentats de manera neutra<br>Llenguatge groller freqüent d'intensitat baixa"
+  },
+  {
+    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x16 - Que primer hi vagi algú altre",
+    "codi": "6182630",
     "edat": "13",
     "raons": "Violència freqüent, irreal, molt explícita, d'intensitat greu, legitimada<br>Por i angoixa freqüent d'afectació alta"
   },
   {
-    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x19",
+    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x18 - Vincles forçats",
+    "codi": "6183531",
+    "edat": "13",
+    "raons": "Violència freqüent, irreal, molt explícita, d'intensitat greu, no legitimada<br>Por i angoixa freqüent d'afectació alta"
+  },
+  {
+    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x19 - El Déu del Foc",
     "codi": "6183755",
     "edat": "13",
     "raons": "Violència freqüent, irreal, molt explícita, d'intensitat greu, legitimada<br>Por i angoixa freqüent d'afectació alta"
   },
   {
-    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x20",
+    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x20 - Una família postissa",
     "codi": "6183898",
     "edat": "13",
     "raons": "Violència freqüent, irreal, molt explícita, d'intensitat greu, legitimada<br>Por i angoixa freqüent d'afectació alta"
   },
   {
-    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x21",
+    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x21 - Contra les normes",
     "codi": "6185129",
     "edat": "13",
     "raons": "Violència ocasional, versemblant, no explícita, d'intensitat greu, no legitimada<br>Por i angoixa freqüent d'afectació alta"
   },
   {
-    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x22",
+    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x22 - El patró",
     "codi": "6185130",
     "edat": "13",
     "raons": "Violència ocasional, irreal, molt explícita, d'intensitat greu, no legitimada"
   },
   {
-    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x23",
+    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x23 - L'assemblea de pilars",
     "codi": "6185330",
     "edat": "10",
     "raons": "Violència ocasional, irreal, no explícita, d'intensitat greu, no legitimada"
   },
   {
-    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x24",
+    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x24 - La rehabilitació",
     "codi": "6185333",
     "edat": "10",
     "raons": "Violència ocasional, versemblant, no explícita, d'intensitat greu, no legitimada<br>Por i angoixa ocasional d'afectació alta<br>Llenguatge groller ocasional d'intensitat alta"
   },
   {
-    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x25",
+    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x25 - Kanao Tsuyuri, la successora",
     "codi": "6186203",
     "edat": "10",
     "raons": "Violència ocasional, irreal, no explícita, d'intensitat greu, no legitimada"
   },
   {
-    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x26",
+    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x26 - Una nova missió",
     "codi": "6186311",
     "edat": "13",
     "raons": "Violència freqüent, irreal, molt explícita, d'intensitat greu, no legitimada<br>Por i angoixa freqüent d'afectació alta"
@@ -10121,6 +10183,12 @@
     "codi": "6231558",
     "edat": "0",
     "mesinfo": "Algunes coreografies presenten una sexualització molt lleu. Una cançó fa servir l'expressió 'sexy lady' de fons."
+  },
+  {
+    "titol": "Kóreo gala 10",
+    "codi": "6232510",
+    "edat": "0",
+    "mesinfo": "Algunes coreografies presenten una sexualització molt lleu. En un segment del programa, es narra un conte infantil on un tigre es menja la mare d'uns nens. No s'han tingut en compte expressiones grolleres fetes en anglès en la lletra d'algunes cançons. (S'inclouen imatges intermitents que poden afectar a espectadors susceptibles a l'epilèpsia fotosensible.)"
   },
   {
     "titol": "X3 Games",
