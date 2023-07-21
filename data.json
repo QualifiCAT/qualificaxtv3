@@ -1931,7 +1931,7 @@
     "titol": "El asombroso mundo de Gumball",
     "codi": "gumball",
     "edat": "10",
-    "comp": "🇪🇦 TP (TV censurat) 🇺🇲 TV-Y7-FV 🇩🇪 0 🇬🇧 PG 🇦🇺 PG 🇳🇱 9 🇧🇷 L 🇰🇷 7",
+    "comp": "🇪🇦 TP (TV censurat) 🇺🇲 TV-Y7-FV 🇩🇪 0 🇬🇧 PG 🇦🇺 PG 🇳🇱 9 🇫🇮 7 🇧🇷 L 🇰🇷 7",
     "serie": true,
     "misc": true
   },
@@ -1940,7 +1940,14 @@
     "codi": "4545454545",
     "edat": "7",
     "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, no legitimada<br>Llenguatge groller ocasional d'intensitat baixa",
-    "mesinfo": "<b>V"
+    "mesinfo": "<b>Violència</b><br>L'episodi inclou algunes situacions de slapstick i de violència involuntària entre personatges antropomòrfics i sense conseqüències rellevants. Tanmateix, els actes són versemblants (s'ubiquen en paisatges reals i poden passar en la realitat), així com la violència verbal en forma d'humor basat en desacreditacions mútues a la que recorren sovint. També es donen instruccions per quedar inconscient, quan un personatge demana que el deixin KO amb una paella i no ho aconsegueixen perquè no li fan prou mal, i es diu que es deu al fet que té un cap 'monumental' i un cervell 'petit' que no ha impactat amb el crani. Un noi diu que una nena, vista des de darrere, sembla 'un culo después de una liposucción'; ella respon colpejant-los.<br><br><b>Llenguatge groller</b><br>Es fan bromes escatològiques quan, per exemple, un personatge, en públic, li aspira la cua a un altre per tal de refredar-lo, cosa que rep comentaris com 'no sé que estáis haciendo, pero debería daros vergüenza' o 'aspirándole el trasero'. També es diuen 'estúpido' o 'tonto'.<br><br>En una ocasió, un noi destrossa de forma irreal el cotxe per boicotejar un viatge; tanmateix, la idea no li surt com s'esperava. Hi ha situacions ocasionals de por o angoixa lleu, quan tot el que surt en un quadre premonitori que ha pintat un personatge sinistre està esdevenint real."
+  },
+  {
+    "titol": "El asombroso mundo de Gumball 3x32 - La seguridad",
+    "codi": "39048343489",
+    "edat": "7",
+    "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, no legitimada",
+    "mesinfo": "<b>Violència</b><br>Inclou situacions de violència, sovint en forma de slapstick, d'intensitat molt lleu i no legitimada. Algunes d'aquestes situacions són paròdiques i s'acompanyen amb missatges dirigits a infants molt petits perquè no imitin certs comportaments, encara que la intencionalitat és sarcàstica. En un vídeo, una dona gran pega un os amb un bastó i un cotxe l'atropella. Un noi llença un cubell de la brossa contra una dona gran i després la llença contra una porta de vidre; el seu germà es disculpa per ell. Un noi fa un cop de peu voluntari al seu germà per mostrar la seva reacció. Un noi es mossega la cua de forma voluntària, que el fa sortir disparat cap al sostre i fa que li surtin ocellets fent voltes pel seu cap. Un noi apareix lligat a una bateria que li provoca una descàrrega. Un home llença un hidrant a un guàrdia i cau inconscient. Una dona intenta barallar-se amb uns guàrdies, però uns cartells representant efectes sonors oculten qualsevol imatge de contacte. Uns companys d'escola inclouen, dins una salutació, una bufetada autoinfligida.<br><br>Hi ha situacions ocasionals de por o angoixa lleu: el so d'un vídeo es distorsiona al final i adopta una veu greu; una família sembla estar encantada i repeteixen frases amb els ulls dilatats, però només fingien."
   },
   {
     "titol": "El asombroso mundo de Gumball 5x38 - La cola",
@@ -5711,6 +5718,14 @@
     "x3": true
   },
   {
+    "titol": "Kiff",
+    "codi": "kiff",
+    "edat": "7",
+    "comp": "",
+    "serie": true,
+    "misc": true
+  },
+  {
     "titol": "Kung Fu Panda: Les potes del destí",
     "codi": "kung-fu-panda-potes-desti",
     "edat": "7",
@@ -8825,7 +8840,7 @@
     "codi": "aventures-ladybug-gat-noir",
     "edat": "7",
     "orig": "TP",
-    "comp": "🇪🇸 TP (TV), 7 (VOD) 🇺🇲 TV-Y7 🇩🇪 6 🇬🇧 PG 🇦🇺 PG 🇳🇱 6 🇫🇮 7",
+    "comp": "🌐 6+ (Disney+) 🇪🇸 TP (TV), 7 (VOD) 🇺🇲 TV-Y7 🇩🇪 6 🇬🇧 PG 🇦🇺 PG 🇳🇱 6 🇫🇮 7",
     "serie": true,
     "x3": true
   },
@@ -9562,7 +9577,7 @@
     "titol": "Star contra las fuerzas del mal",
     "codi": "star-fuerzas-mal",
     "edat": "10",
-    "comp": "🌐 6+ (Disney+) 🇪🇦 TP 🇺🇲 TV-Y7 🇦🇺 G 🇳🇱 6 🇧🇷 L 🇰🇷 12"
+    "comp": "🌐 6+ (Disney+) 🇪🇦 TP 🇺🇲 TV-Y7 🇦🇺 G 🇳🇱 6 🇧🇷 L 🇰🇷 12",
     "serie": true,
     "misc": true
   },
