@@ -1265,6 +1265,20 @@
     "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'no foteu' i 'idiota' un cop cadascun. També es fan servir expressions com 'empanades' o 'sonada'.<br><br><b>Conductes i valors incívics</b><br>Una noia rival és maleducada i egocèntrica; el seu comportament és recriminat quan, per exemple, alça el to discutint amb una alumna a classe. Un noi badalla enmig d'una explicació a classe. Dos amics discuteixen.<br><br>Hi ha situacions ocasionals de por o angoixa lleu, quan una noia plora perquè el seu xicot ha marxat."
   },
   {
+    "titol": "Busca'm a París 2x11",
+    "codi": "6230949",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu",
+    "mesinfo": "<b>Por i angoixa</b><br>Un noi plora en recordar que té la ròtula trencada i que no podrà ballar mai més.<br><br>Hi ha situacions en què els personatges discuteixen, o aixequen el to, sobretot un professor, encara que no empra la violència. Uns nois amaguen a un professor que estan implicats en un projecte propi."
+  },
+  {
+    "titol": "Busca'm a París 2x12",
+    "codi": "6230951",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'hosti', 'emmerdis' i 'quins pebrots', un cop cadascun.<br><br>Hi ha situacions ocasionals de por o angoixa lleu. Hi ha conductes incíviques presentades negativament en un context inversemblant."
+  },
+  {
     "titol": "Buscant la màgica Doremi",
     "codi": "6193457",
     "edat": "13",
@@ -1344,32 +1358,58 @@
     "x3": true
   },
   {
-    "titol": "D'aventura castigats 1x01",
+    "titol": "D'aventura castigats 1x01 - El catalitzador",
     "codi": "6084347",
     "edat": "7",
     "raons": "Conductes i valors incívics amb sanció negativa",
     "mesinfo": "<b>Conductes i valors incívics</b><br>Uns nois vandalitzen una estàtua, una classe o el passadís de l'institut i acaben castigats. Un dels nois diu que és un 'habitual' de l'aula de castigats, mentre que una noia diu que no vol freqüentar-la perquè tacarà el seu historial.<br><br>Es fan servir expressions com 'sonada' o 'ni boja'."
   },
   {
-    "titol": "D'aventura castigats 1x02",
+    "titol": "D'aventura castigats 1x02 - Generació espontània",
     "codi": "6084348",
     "edat": "10",
     "raons": "Conductes i valors incívics amb sanció neutra",
     "mesinfo": "<b>Conductes i valors incívics</b><br>Per evitar que el director de l'escola entri a l'aula de castigats i vegi el descobriment que han fet els alumnes, un d'ells fa de barricada per evitar que s'obri la porta i col·loca una perxa en un pany per inutilitzar-li les claus. Quan el director aconsegueix entrar, sospita d'aquest alumne i li fa una pregunta sobre el llibre que suposadament està llegint, però resulta que respon correctament. Amb la intenció de tornar a entrar a l'aula de castigats per seguir fent descobriments, els alumnes tornen a vandalitzar l'institut, inundant un lavabo o simulant que hi ha una persona atrapada en un armariet.<br><br>Hi ha situacions de tensió lleu i al·lusions violentes. Un noi és insultat amb noms com 'troglodita' o 'ignorant'."
   },
   {
-    "titol": "D'aventura castigats 1x03",
+    "titol": "D'aventura castigats 1x03 - El poder de les paraules",
     "codi": "6085336",
     "edat": "10",
     "raons": "Conductes i valors incívics amb sanció neutra",
     "mesinfo": "<b>Conductes i valors incívics</b><br>Els nois tornen a fer malifetes a l'institut, com vandalitzar una pissarra o portar un ratolí a classe, per tal d'entrar a l'aula de castigats i seguir investigant. Els nois vandalitzen llibres seus i de la biblioteca per cremar-los i poder obrir una cambra secreta. Acaben amb la cara tacada, i menteixen sobre el que ha passat al director.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa ('merder'). Hi ha tensió lleu."
   },
   {
-    "titol": "D'aventura castigats 1x04",
+    "titol": "D'aventura castigats 1x04 - Contingut sota pressió",
     "codi": "6085337",
     "edat": "10",
     "raons": "Llenguatge groller freqüent d'intensitat baixa",
     "mesinfo": "<b>Llenguatge groller</b><br>Es fa un ús freqüent de les expressions 'desgraciat', 'idiota' i 'merda'.<br><br>Un noi presencia com un grup d'assetjadors es burla d'un altre nen i li fa malbé un objecte, comportament que és recriminat. Uns nois menteixen a una professora. Es diu que un noi va perdre la mare i un altre gairebé no veu el pare."
+  },
+  {
+    "titol": "D'aventura castigats 1x05 - Els engranatges del terror",
+    "codi": "6086566",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "<b>Por i angoixa</b><br>Hi ha escenes freqüents on els personatges visiten llocs tenebrosos amb poca llum per investigar-los, i s'espanten fàcilment per qualsevol cosa o senten sorolls que resulten ser res inofensiu. En un cas, una porta comença a tancar-se darrere seu i s'han d'afanyar per creuar-la abans no es quedin tancats.<br><br><b>Llenguatge groller</b><br>Es diu 'em cago' un cop.<br><br><b>Conductes i valors incívics</b><br>Es dona a entendre que uns nois fan una broma pesada a una professora per tal de castigar-los intencionadament, però el director de l'institut se n'adona."
+  },
+  {
+    "titol": "D'aventura castigats 1x06 - Els quatre de Westbrook",
+    "codi": "6086567",
+    "edat": "0",
+    "mesinfo": "Els nois maquinen i executen tot un entramat per infiltrar-se al despatx del director, però el tractament és tan inversemblant que no se'l pot considerar una conducta incívica fàcilment imitable. A vegades, els nois es parlen malament, per exemple, per l'alè que desprenen o perquè parlen massa. Hi ha una escena de tensió molt lleu quan es creu que uns nois amagats en un armari seran descoberts."
+  },
+  {
+    "titol": "D'aventura castigats 1x07 - Velocitat terminal",
+    "codi": "6087820",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'imbècils'. En una escena, una noia vomita explícitament sobre dues noies després d'abusar de beguda energètica.<br><br>Hi ha situacions ocasionals de por o angoixa lleu, i es fa al·lusions a comportaments incívics, com mentir, presentats negativament."
+  },
+  {
+    "titol": "D'aventura castigats 1x08 - Tensió de suspensió",
+    "codi": "6087819",
+    "edat": "7",
+    "raons": "Consum de drogues lícites (alcohol), amb presentació negativa<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "D'aventura castigats 1x09",
@@ -3788,6 +3828,20 @@
     "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'burro' i 'idiotes'.<br><br>Hi ha situacions ocasionals de por o angoixa lleu, quan una dona d'un videojoc i un nen del món real s'intercanvien posicions i la dona decideix no voler tornar. En el videojoc, unes serps atrapen el noi, i es veu un pal amb un cap a sobre en un suposat campament caníbal, però les situacions es presenten còmiques i del tot irreals, sense conseqüències negatives. Un nen comenta que vol mirar pel·lícules d'assassins i de 'sang i fetge'. Es diu que el pare del protagonista 'està massa enfeinat per pensar en dones', entre altres comentaris de l'estil."
   },
   {
+    "titol": "Expedient Zack 1x09",
+    "codi": "6232151",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu",
+    "mesinfo": "<b>Por i angoixa</b><br>Hi ha situacions còmiques de tensió, com quan truquen a la porta i el protagonista té por de qui pot ser, i s'hi apropa lentament i mentre sona música de suspens. Es diu que un lloro és mort.<br><br>El protagonista intenta deslliurar-se de les seves obligacions a casa, però acaba aprenent la lliçó, a causa de viure un seguit de successos del tot inversemblants. Es fa menció del càncer i es diu 'beneit'."
+  },
+  {
+    "titol": "Expedient Zack 1x10",
+    "codi": "6232331",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Por i angoixa</b><br>La trama gira al voltant d'unes sabates que cobren vida i impedeixen al seu usuari poder parar de córrer. Això suposa algunes escenes de por, com quan sembla que surtin pel seu compte de la capsa i es presentin davant del protagonista mentre està dormint, o quan un home terrorífic l'obliga a firmar un contracte misteriós. Es fan al·lusions a la mort.<br><br><b>Llenguatge groller</b><br>Es diu 'imbècil' i 'burro'.<br><br>Es diu que un noi ha pagat perquè uns corredors facin perdre a un altre noi. Es fa un comentari, en un context inversemblant, dient que qui voldria seguir estudiant quan es pot 'anar a viure al sud de França amb una supermodel que es diu Svetlana'."
+  },
+  {
     "titol": "Fake night",
     "codi": "fake-night",
     "edat": "13",
@@ -4080,6 +4134,12 @@
     "codi": "6182630",
     "edat": "13",
     "raons": "Violència freqüent, irreal, molt explícita, d'intensitat greu, legitimada<br>Por i angoixa freqüent d'afectació alta"
+  },
+  {
+    "titol": "Guardians de la nit: Kimetsu no Yaiba 1x17 - Has de dominar una sola cosa",
+    "codi": "6183426",
+    "edat": "13",
+    "raons": "Violència ocasional, irreal, explícita, d'intensitat greu, legitimada<br>Por i angoixa freqüent d'afectació alta"
   },
   {
     "titol": "Guardians de la nit: Kimetsu no Yaiba 1x18 - Vincles forçats",
