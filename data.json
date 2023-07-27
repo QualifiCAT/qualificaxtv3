@@ -1279,6 +1279,20 @@
     "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'hosti', 'emmerdis' i 'quins pebrots', un cop cadascun.<br><br>Hi ha situacions ocasionals de por o angoixa lleu. Hi ha conductes incíviques presentades negativament en un context inversemblant."
   },
   {
+    "titol": "Busca'm a París 2x13",
+    "codi": "6230950",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu",
+    "mesinfo": "<b>Por i angoixa</b><br>Una agent robotitzada es presenta en una actuació i captura a les dues protagonistes en un portal; l'escena és prolongada i una d'elles xiscla en entrar-hi.<br><br>Hi ha conductes incíviques presentades negativament en un context inversemblant."
+  },
+  {
+    "titol": "Busca'm a París 2x14",
+    "codi": "6230948",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Por i angoixa</b><br>Hi ha freqüents situacions de tensió. Unes noies estan atrapades en una presó amb parets blanques infinites fins que troben una porta que duu a un laberint on es perden, fins que s'escapen i una agent les comença a perseguir. Un home li diu a la protagonista que el seu fill i ella no poden estar junts. Es dona a entendre que un home acaba empresonat i amb els seus records esborrats. Un noi diu que va patir burles perquè ballava.<br><br><b>Llenguatge groller</b><br>Es diu 'acollonir' dos cops. Es diu 'no fotis' una vegada. Es descriuen uns vestits com a 'estúpids'.<br><br>Hi ha conductes incíviques presentades negativament en un context inversemblant i còmic."
+  },
+  {
     "titol": "Buscant la màgica Doremi",
     "codi": "6193457",
     "edat": "13",
@@ -10275,6 +10289,11 @@
     "codi": "6232510",
     "edat": "0",
     "mesinfo": "Algunes coreografies presenten una sexualització molt lleu. En un segment del programa, es narra un conte infantil on un tigre es menja la mare d'uns nens. No s'han tingut en compte expressiones grolleres fetes en anglès en la lletra d'algunes cançons. (S'inclouen imatges intermitents que poden afectar a espectadors susceptibles a l'epilèpsia fotosensible.)"
+  },
+  {
+    "titol": "Kóreo gala 11",
+    "codi": "6233447",
+    "edat": "0"
   },
   {
     "titol": "X3 Games",
