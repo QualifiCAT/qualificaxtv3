@@ -7088,6 +7088,13 @@
     "mesinfo": "<b>Por i angoixa</b><br>S'utilitza música de suspens en nombroses situacions, especialment quan la protagonista travessa corrents d'aigua fortes, encara que sap maniobrar la situació i no caure. En una ocasió, rellisca en terra ferma i es torça el turmell."
   },
   {
+    "titol": "Lara i Kali 2x08 - Millors moments 2",
+    "codi": "6233113",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Por i angoixa</b><br>Hi ha freqüents situacions de tensió en què la protagonista practica esports de risc, i panteixa per la seva dificultat o perd breument el control, però sempre en surt il·lesa.<br><br><b>Llenguatge groller</b><br>En les preses falses, se censuren parcialment les expressions 'joder' i 'càgon la put...'."
+  },
+  {
     "titol": "Lara, què fem?",
     "codi": "lara-que-fem",
     "edat": "10",
@@ -10254,7 +10261,7 @@
   {
     "titol": "Kóreo",
     "codi": "koreo",
-    "edat": "0",
+    "edat": "7",
     "orig": "TP",
     "serie": true,
     "x3": true
@@ -10320,6 +10327,13 @@
     "titol": "Kóreo gala 11",
     "codi": "6233447",
     "edat": "0"
+  },
+  {
+    "titol": "Kóreo gala 12",
+    "codi": "6233793",
+    "edat": "7",
+    "raons": "Contingut sexual ocasional d'explicitació baixa",
+    "mesinfo": "<b>Sexe</b><br>La lletra d'una cançó inclou insinuacions com 'aquesta nit en el teu llit vull trencar el límit'. Algunes coreografies presenten certa sexualització.<br><br>Algunes persones s'emocionen amb les resultats de les avaluacions i per haver d'acomiadar el programa. (S'inclouen imatges intermitents que poden afectar a espectadors susceptibles a l'epilèpsia fotosensible.)"
   },
   {
     "titol": "X3 Games",
