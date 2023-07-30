@@ -1590,6 +1590,16 @@
     "mesinfo": "<b>Drogues</b><br>Un home pregunta si amb 16 anys és normal beure cafè, i li responen que 'amb 16 anys (els joves) ja es fan tequiles'.<br><br><b>Llenguatge groller</b><br>Es fan servir expressions com 'hòstia', 'merda', 'collona', 'puto' i 'puta merda'.<br><br>Algunes persones fan comentaris insensibles; en un d'ells, el protagonista diu que la manera de vestir de la seva filla es deu al fet que està pensant a 'llançar-se d'un pont', i ella respon: 'sort que no estic pensant en suïcidar-me, perquè quin poc tacte per a tocar el tema!'. Es mostra una retrospectiva on la dona del protagonista cau desmaiada a la cuina de casa."
   },
   {
+    "titol": "Detectiu Conan: Black iron submarine",
+    "codi": "black-iron-submarine",
+    "edat": "13",
+    "comp": "🇪🇸 7 🇳🇱 6 🇸🇬 PG13",
+    "peli": true,
+    "misc": true,
+    "raons": "Violència freqüent, versemblant, explícita, d'intensitat lleu, no legitimada",
+    "mesinfo": "<b>Violència</b><br>Una dona rep un tret de bala al braç i perd sang i, en llençar-se a un riu, rep un tret al pit (es veu a càmera lenta com li surt la bala) i al cap. Una dona és segrestada després de rebre un cop sec per sorpresa. Una dona és segrestada després de ser sorpresa per dos homes, que l'obliguen a inhalar un somnífer. Un home és sorprès a la seva cambra i és forçat a inhalar un verí; més tard, unes imatges mostren com aquesta persona es pren una pastilla i cau desplomada a terra, i s'insinua que podria ser un suïcidi. Un home rep un tret d'un franctirador, però no mor. Hi ha altres escenes de violència involucrant cops, amenaces amb pistola o explosions; en alguns casos, els actes els perpretren els protagonistes com a defensa.<br><br>Hi ha situacions freqüents que poden provocar por o angoixa amb una afectació mitjana. Hi ha llenguatge groller ocasional d'intensitat baixa ('merda', 'idiota'). Hi ha consum de drogues lícites (tabac i alcohol), amb presentació negativa dels seus efectes o per part d'antagonistes. Hi ha situacions de masclisme i racisme, sancionades negativament encara que, en una ocasió, es fa broma sobre l'aparença física d'un home, i es diu vehement que una dona 'és' un home per tal de desemmascarar un home infiltrat en una organització."
+  },
+  {
     "titol": "Digimon Adventure: L'última evolució Kizuna",
     "codi": "6211646",
     "edat": "10",
@@ -2123,6 +2133,7 @@
     "codi": "6211303",
     "edat": "13",
     "orig": "12",
+    "comp": "🇸🇬 PG",
     "peli": true,
     "x3": true,
     "raons": "Violència freqüent, versemblant, no explícita, d'intensitat lleu, no legitimada<br>Consum de drogues lícites, presentades de manera neutra",
@@ -2133,7 +2144,7 @@
     "codi": "6190209",
     "edat": "13",
     "orig": "7",
-    "comp": "🇩🇪 12 🇦🇺 M 🇳🇱 12",
+    "comp": "🇩🇪 12 🇦🇺 M 🇳🇱 12 🇸🇬 PG13",
     "peli": true,
     "x3": true,
     "raons": "Violència ocasional, versemblant, explícita, d'intensitat greu, no legitimada<br>Abús de drogues lícites (alcohol), presentat neutralment"
@@ -2143,6 +2154,7 @@
     "codi": "6190210",
     "edat": "13",
     "orig": "12",
+    "comp": "🇸🇬 PG13",
     "peli": true,
     "x3": true,
     "raons": "Violència freqüent, versemblant, explícita, d'intensitat greu, no legitimada"
