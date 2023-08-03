@@ -313,21 +313,6 @@
     "raons": "Violència reiterada, irreal, explícita, d'intensitat molt lleu, legitimada<br>Contingut sexual ocasional d'explicitació baixa<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
-    "titol": "Au pair",
-    "codi": "au-pair",
-    "edat": "10",
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "Au pair 1x02",
-    "codi": "6113367",
-    "edat": "10",
-    "raons": "Llenguatge groller freqüent d'intensitat baixa",
-    "mesinfo": "<b>Llenguatge groller</b><br>Un nen utilitza regularment la paraula 'collons'. Tant el convidat com la veu en off li recriminen aquest comportament a base de bromes. Es diu 'fotre', 'puta' i 'joder' de manera ocasional, també per part de nens en algun cas.<br><br>Hi ha situacions ocasionals de por o angoixa moderada: una persona apareix de sobte amb una ferida oberta al braç, es veuen algunes corredisses i la veu en off vol 'morbo', és a dir, que s'enfoqui la ferida. Apareix una cervesa de fons que no és mencionada. El convidat fa una broma a un nen sobre si ha encès mai un 'cigarro'. Un nen fa rots i el renyen. A taula, uns nens juguen a tirar-se coses i a cridar-se; els diuen que això no està bé."
-  },
-  {
     "titol": "Batalla monumental",
     "codi": "batalla-monumental",
     "edat": "7",
@@ -7157,6 +7142,28 @@
     "edat": "7",
     "raons": "Conductes i valors incívics amb sanció negativa",
     "mesinfo": "<b>Conductes i valors incívics</b><br>Com l'episodi anterior, aquest cop el protagonista no es prepara per a l'examen per avaluar el seu rendiment en un esport qualsevol. Aparentment, els avions de paper que fa volar enmig de la classe fa que la resta de companys aprovin. Com a mostra d'agraïment, ells l'ajuden a fer volar ben lluny un avió de paper i superar un rècord mundial, ja que, aparentment, fer volar avions de paper és un esport. La professora, incrèdula, l'aprova, però igualment el castiga. El protagonista reconeix que ell ha estat vandalitzant la classe, però això li ha estat positiu, inclús dient que 'ni siquiera he tenido que entrenar mucho, lo soy por naturaleza'.<br><br>En una ocasió, es diu '¿estás loco?'."
+  },
+  {
+    "titol": "L'au pair",
+    "codi": "au-pair",
+    "edat": "10",
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "L'au pair 1x02",
+    "codi": "6113367",
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Un nen utilitza regularment la paraula 'collons'. Tant el convidat com la veu en off li recriminen aquest comportament a base de bromes. Es diu 'fotre', 'puta' i 'joder' de manera ocasional, també per part de nens en algun cas.<br><br>Hi ha situacions ocasionals de por o angoixa moderada: una persona apareix de sobte amb una ferida oberta al braç, es veuen algunes corredisses i la veu en off vol 'morbo', és a dir, que s'enfoqui la ferida. Apareix una cervesa de fons que no és mencionada. El convidat fa una broma a un nen sobre si ha encès mai un 'cigarro'. Un nen fa rots i el renyen. A taula, uns nens juguen a tirar-se coses i a cridar-se; els diuen que això no està bé."
+  },
+  {
+    "titol": "L'au pair 3x01 - Un dia de Platja i Au Pair league",
+    "codi": "6234268",
+    "edat": "10",
+    "raons": "Al·lusions al consum de drogues lícites (alcohol), amb presentació neutra<br>Llenguatge groller freqüent d'intensitat baixa",
+    "mesinfo": "<b>Drogues</b><br>Es fa broma ocasionalment sobre el fet que un lloro va beure gintònic un dia. L'au-pair fa broma parlant amb l'ocell dient-li que 'vaya bidorra que te pegas' i 'tu sí que vius bé'.<br><br><b>Llenguatge groller</b><br>Es diu 'fotre' de manera freqüent, per part d'adults i en cap cas de manera ofensiva. De la mateixa manera, també es fan servir 'hòstia', 'hosti', 'la mare que el va parir' o 'cagat'. Ocasionalment, el llenguatge és d'intensitat alta: es fa veure que un ocell diu 'no em toquis els collons', i un nen diu que el seu grup preferit es diu 'La Polla Records' i els adults -tant l'au-pair com el narrador- s'escandalitzen.<br><br>Hi ha situacions ocasionals de por o angoixa lleu: un nen cau jugant a futbol i s'hi superposa música de tensió per fer veure que s'ha lesionat; es diu de fer res abans 'que ens mati un llamp'. Un nen juga breument amb un ganivet a la cuina, fent veure que és un assassí."
   },
   {
     "titol": "La Ventafocs i el príncep secret",
