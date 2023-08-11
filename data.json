@@ -6902,7 +6902,7 @@
   {
     "titol": "La mainadera ninja",
     "codi": "mainadera-ninja",
-    "edat": "10",
+    "edat": "13",
     "orig": "7",
     "comp": "🇳🇱 9",
     "serie": true,
@@ -7019,6 +7019,20 @@
     "edat": "10",
     "raons": "Llenguatge groller freqüent d'intensitat baixa",
     "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'merda', 'sonat' i 'fotre'.<br><br>Hi ha situacions de racisme i LGTBI-fòbia, presentades de manera negativa, especialment en una escena d'angoixa en què unes homes segresten una noia només perquè té 'faccions orientals'. També es presenten relats de robatoris, i que en un dels quals hi va haver trets. Hi ha conductes incíviques com mentir o actituds narcisistes, presentades negativament pel relat. Es mostra breument consum d'alcohol i escenes de combats coreografiats."
+  },
+  {
+    "titol": "La mainadera ninja 2x07 - Quan mor un ninja",
+    "codi": "6234978",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Por i angoixa</b><br>Es fan freqüents al·lusions a la mort de l'avi d'un noi i del pare d'una dona. Es comenta que l'avi difunt patia Alzheimer i va morir per pneumònia, i es mostra el seu funeral. El tema es tracta de manera sensible. Al final de l'episodi, els protagonistes s'adonen que han estat atacats a casa, amb pintades i vidres trencats. Una seqüència d'un futur episodi mostra la protagonista reaccionant violentament pel fet de no poder saber qui és el seu pare biològic.<br><br><b>Llenguatge groller</b><br>Es diu 'burro', 'sonat', 'malparit', 'merda' i 'fotre'.<br><br>Es condemnen i hi ha disculpes per conductes incíviques i casos de discriminació que s'han mostrat en episodis anteriors. Es fan ocasionals amenaces d'agressions físiques, en un cas de manera còmica."
+  },
+  {
+    "titol": "La mainadera ninja 2x08 - Saber la veritat",
+    "codi": "6234980",
+    "edat": "13",
+    "raons": "Consum de drogues il·lícites (marihuana), amb presentació neutra",
+    "mesinfo": "<b>Drogues</b><br>En una escena prolongada, una dona gran lia i s'encén un porro davant de la seva neta.<br><br>Hi ha llenguatge groller ocasional d'intensitat alta, quan 'què collons' i 'merda' es fan servir de manera ofensiva; també es diuen 'malparit' o 'imbècil'. Hi ha situacions angoixants freqüents d'afectació mitjana, així com violència verbal d'intensitat greu; per exemple, hi ha una tensa discussió familiar on una noia vol conèixer qui és el seu pare biològic i acaba barallant-se amb la seva mare, i es fan referències insensibles relatives a la mort o estat mental d'alguns familiars. Es compara el govern local amb el règim nazi per les seves polítiques racistes."
   },
   {
     "titol": "La maldición de Molly McGee",
