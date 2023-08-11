@@ -1579,23 +1579,23 @@
   {
     "titol": "Després de tu",
     "codi": "despres-de-tu",
-    "edat": "13",
+    "edat": "10",
     "orig": "7",
     "serie": true,
-    "x3": true
+    "tv3": true
   },
   {
     "titol": "Després de tu 1x01 - Teràpia familiar",
     "codi": "6141759",
-    "edat": "13",
-    "raons": "Consum de drogues lícites (alcohol), amb presentació neutra<br>Llenguatge groller freqüent d'intensitat alta",
-    "mesinfo": "<b>Drogues</b><br>El protagonista i el seu amic es prenen una cervesa en un bar mentre mantenen una conversa.<br><br><b>Llenguatge groller</b><br>Sovint, amb intencionalitat agressiva, es fan servir expressions com 'hòstia', 'merder', 'idiota', 'hòstia puta', 'collons' o 'merda'.<br><br>La manera en què la família supera la mort de la mare, en especial per part del vidu, és el fil conductor de l'episodi. Es menciona que el dol comporta conseqüències negatives com la depressió o l'insomni; de fet s'observa com al protagonista li costa dormir i li costa evitar abusar els ansiolítics (no s'observa que això succeeixi). Sovint, el protagonista s'imagina la dona i parla amb ella, sense que la resta se n'adoni. Algunes persones fan comentaris insensibles que són recriminats. En una escena còmica, la filla té un accident i té una hemorràgia nasal, i alhora, el fill comença a trobar-se malament i el pare diu que no pot estar pels dos alhora. Hi ha referències a un acte violent (pegar a una persona i trencar-li el mòbil) que són recriminats i no es mostren en cap moment."
+    "edat": "10",
+    "raons": "Consum de drogues lícites (alcohol), amb presentació neutra<br>Llenguatge groller ocasional d'intensitat alta",
+    "mesinfo": "<b>Drogues</b><br>El protagonista i el seu amic es prenen una cervesa en un bar mentre mantenen una conversa.<br><br><b>Llenguatge groller</b><br>A vegades, amb intencionalitat agressiva, es fan servir expressions com 'hòstia', 'merder', 'idiota', 'hòstia puta', 'collons' o 'merda'.<br><br>La manera en què la família supera la mort de la mare, en especial per part del vidu, és el fil conductor de l'episodi. Es menciona que el dol comporta conseqüències negatives com la depressió o l'insomni; de fet s'observa com al protagonista li costa dormir i li costa evitar abusar els ansiolítics (no s'observa que això succeeixi). Sovint, el protagonista s'imagina la dona i parla amb ella, sense que la resta se n'adoni. Algunes persones fan comentaris insensibles que són recriminats. En una escena còmica, la filla té un accident i té una hemorràgia nasal, i alhora, el fill comença a trobar-se malament i el pare diu que no pot estar pels dos alhora. Hi ha referències a un acte violent (pegar a una persona i trencar-li el mòbil) que són recriminats i no es mostren en cap moment."
   },
   {
     "titol": "Després de tu 1x02 - Galetes",
     "codi": "6141756",
-    "edat": "13",
-    "raons": "Al·lusions al consum de drogues lícites (alcohol) entre menors, amb presentació neutra<br>Llenguatge groller freqüent d'intensitat alta",
+    "edat": "10",
+    "raons": "Al·lusions al consum de drogues lícites (alcohol) entre menors, amb presentació neutra<br>Llenguatge groller ocasional d'intensitat alta",
     "mesinfo": "<b>Drogues</b><br>Un home pregunta si amb 16 anys és normal beure cafè, i li responen que 'amb 16 anys (els joves) ja es fan tequiles'.<br><br><b>Llenguatge groller</b><br>Es fan servir expressions com 'hòstia', 'merda', 'collona', 'puto' i 'puta merda'.<br><br>Algunes persones fan comentaris insensibles; en un d'ells, el protagonista diu que la manera de vestir de la seva filla es deu al fet que està pensant a 'llançar-se d'un pont', i ella respon: 'sort que no estic pensant en suïcidar-me, perquè quin poc tacte per a tocar el tema!'. Es mostra una retrospectiva on la dona del protagonista cau desmaiada a la cuina de casa."
   },
   {
@@ -2215,8 +2215,8 @@
     "titol": "El foraster - Sant Ramon",
     "codi": "6142707",
     "edat": "13",
-    "raons": "Consum de drogues lícites (alcohol), amb presentació positiva<br>Llenguatge groller freqüent d'intensitat alta",
-    "mesinfo": "<b>Drogues</b><br>Es diu que un ritual d'esmorzar que tenen uns homes inclou la 'cervesa de la victòria', per beure-la abans de treballar. Veiem tots ells bevent-ne una (amb la marca expressament visible). Ofereixen vi al protagonista, que se'l beu per alleugerir la sensació de picant del bitxo, i fa bromes sobre la seva graduació.<br><br><b>Llenguatge groller</b><br>De manera constant, el presentador fa servir expressions com 'hòstia' i 'fotre', encara que mai de manera ofensiva. De manera ocasional també es diuen 'ni puta idea', 'cabrón', 'merda' i 'el puta'.<br><br>Hi ha situacions ocasionals de por o angoixa moderada, quan home relata que va patir un intent de suïcidi, que va estar vuit mesos en hospitals i que va entrar en depressió; diu que el fet de trobar gent amable al poble que li donés feina l'ha ajudat a tirar endavant. Hi ha bromes sexuals ocasionals d'explicitació baixa: gent gran diu que 'de sexe no n'hi ha', que fan l'amor sense fer sexe, i que 'la líbido no sé on ha anat'; es fan insinuacions sobre què vol dir 'cuca', d'obrir 'en canal' i de repetir 'patapam' mentre es fan moviments de maluc bruscos. Hi ha violència irreal, no explícita, d'intensitat molt lleu quan, en un dels seus monòlegs, el presentador ironitza amb utilitzar una desbrossadora per tallar-li la barba i pegar-lo."
+    "raons": "Consum de drogues lícites (alcohol), amb presentació positiva",
+    "mesinfo": "<b>Drogues</b><br>Es diu que un ritual d'esmorzar que tenen uns homes inclou la 'cervesa de la victòria', per beure-la abans de treballar. Veiem tots ells bevent-ne una (amb la marca expressament visible). Ofereixen vi al protagonista, que se'l beu per alleugerir la sensació de picant del bitxo, i fa bromes sobre la seva graduació.<br><br>Hi ha llenguatge groller reiterat, ja que el presentador fa servir expressions com 'hòstia' i 'fotre', encara que mai de manera ofensiva; de manera ocasional també es diuen 'ni puta idea', 'cabrón', 'merda' i 'el puta'. Hi ha situacions ocasionals de por o angoixa moderada, quan home relata que va patir un intent de suïcidi, que va estar vuit mesos en hospitals i que va entrar en depressió; diu que el fet de trobar gent amable al poble que li donés feina l'ha ajudat a tirar endavant. Hi ha bromes sexuals ocasionals d'explicitació baixa: gent gran diu que 'de sexe no n'hi ha', que fan l'amor sense fer sexe, i que 'la líbido no sé on ha anat'; es fan insinuacions sobre què vol dir 'cuca', d'obrir 'en canal' i de repetir 'patapam' mentre es fan moviments de maluc bruscos. Hi ha violència irreal, no explícita, d'intensitat molt lleu quan, en un dels seus monòlegs, el presentador ironitza amb utilitzar una desbrossadora per tallar-li la barba i pegar-lo."
   },
   {
     "titol": "El juego del calamar",
