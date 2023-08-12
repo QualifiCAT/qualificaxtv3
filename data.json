@@ -146,6 +146,15 @@
     "raons": "Llenguatge groller ocasional d'intensitat baixa"
   },
   {
+    "titol": "Alcarràs",
+    "codi": "alcarras",
+    "edat": "13",
+    "comp": "🇪🇸 7 (prèviament: 12) 🇩🇪 6 🇬🇧 15 🇦🇺 M 🇳🇱 12 🇫🇮 7 🇵🇹 M/12",
+    "raons": "Consum de drogues lícites (tabac, alcohol) i il·lícites (marihuana), amb presentació neutra<br>Llenguatge groller freqüent d'intensitat alta",
+    "peli": true,
+    "misc": true
+  },
+  {
     "titol": "Al mar!",
     "codi": "al-mar",
     "edat": "0",
@@ -1606,7 +1615,7 @@
     "peli": true,
     "misc": true,
     "raons": "Violència freqüent, versemblant, explícita, d'intensitat lleu, no legitimada",
-    "mesinfo": "<b>Violència</b><br>Una dona rep un tret de bala al braç i perd sang i, en llençar-se a un riu, rep un tret al pit (es veu a càmera lenta com li surt la bala) i al cap. Una dona és segrestada després de rebre un cop sec per sorpresa. Una dona és segrestada després de ser sorpresa per dos homes, que l'obliguen a inhalar un somnífer. Un home és sorprès a la seva cambra i és forçat a inhalar un verí; més tard, unes imatges mostren com aquesta persona es pren una pastilla i cau desplomada a terra, i s'insinua que podria ser un suïcidi. Un home rep un tret d'un franctirador, però no mor. Hi ha altres escenes de violència involucrant cops, amenaces amb pistola o explosions; en alguns casos, els actes els perpretren els protagonistes com a defensa.<br><br>Hi ha situacions freqüents que poden provocar por o angoixa amb una afectació mitjana. Hi ha llenguatge groller ocasional d'intensitat baixa ('merda', 'idiota'). Hi ha consum de drogues lícites (tabac i alcohol), amb presentació negativa dels seus efectes o per part d'antagonistes. Hi ha situacions de masclisme i racisme, sancionades negativament encara que, en una ocasió, es fa broma sobre l'aparença física d'un home, i es diu vehement que una dona 'és' un home per tal de desemmascarar un home infiltrat en una organització."
+    "mesinfo": "<b>Violència</b><br>Una dona rep un tret de bala al braç i perd sang i, en llençar-se a un riu, rep un tret al pit (es veu a càmera lenta com li surt la bala) i al cap. Una dona és segrestada després de rebre un cop sec per sorpresa. Una dona és segrestada després de ser sorpresa per dos homes, que l'obliguen a inhalar un somnífer. Un home és sorprès a la seva cambra i és forçat a inhalar un verí; més tard, unes imatges mostren com aquesta persona es pren una pastilla i cau desplomada a terra, i s'insinua que podria ser un suïcidi. Un home rep un tret d'un franctirador, però no mor. Algunes de les escenes anteriors es repeteixen, o es reprenen, en diferents moments de l'obra. Hi ha altres escenes de violència involucrant cops, amenaces amb pistola o explosions; en alguns casos, els actes els perpretren els protagonistes com a defensa pròpia.<br><br>Hi ha situacions freqüents que poden provocar por o angoixa amb una afectació mitjana. Hi ha llenguatge groller ocasional d'intensitat baixa ('merda', 'idiota'). Hi ha consum de drogues lícites (tabac i alcohol), amb presentació negativa dels seus efectes o per part d'antagonistes. Hi ha situacions de masclisme i racisme, sancionades negativament encara que, en una ocasió, es fa broma sobre l'aparença física d'un home, i es diu vehement que una dona 'és' un home per tal de desemmascarar un home infiltrat en una organització."
   },
   {
     "titol": "Digimon Adventure: L'última evolució Kizuna",
@@ -2108,34 +2117,82 @@
     "x3": true
   },
   {
-    "titol": "El detectiu Conan 909",
+    "titol": "El detectiu Conan ",
+    "codi": "6114936",
+    "edat": "13",
+    "raons": "Violència freqüent, versemblant, no explícita, d'intensitat lleu, no legitimada"
+  },
+  {
+    "titol": "El detectiu Conan 909 - Records de la classe dels cirerers (En Shinichi de petit)",
     "codi": "6037055",
     "edat": "7",
     "raons": "Por i angoixa ocasional d'afectació mitjana"
   },
   {
-    "titol": "El detectiu Conan 910",
+    "titol": "El detectiu Conan 910 - El misteri del cinturó negre",
     "codi": "6105988",
     "edat": "7",
     "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada (a la prèvia del següent episodi)"
   },
   {
-    "titol": "El detectiu Conan 911",
+    "titol": "El detectiu Conan 911 - El secret de la parella rica",
     "codi": "6106200",
     "edat": "10",
     "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada<br>Por i angoixa freqüent d'afectació mitjana"
   },
   {
-    "titol": "El detectiu Conan 912",
+    "titol": "El detectiu Conan 912 - El misteri de la cruïlla de Beika (1a part)",
     "codi": "6106401",
     "edat": "13",
     "raons": "Violència freqüent, versemblant, no explícita, d'intensitat lleu, no legitimada<br>Al·lusions i consum de drogues lícites (alcohol, tabac), presentades de forma neutra"
   },
   {
-    "titol": "El detectiu Conan 913",
+    "titol": "El detectiu Conan 913 - El misteri de la cruïlla de Beika (2a part)",
     "codi": "6106908",
     "edat": "10",
     "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada"
+  },
+  {
+    "titol": "El detectiu Conan 954 - El crit de l'autèntic culpable",
+    "codi": "6114936",
+    "edat": "13",
+    "raons": "Violència freqüent, versemblant, no explícita, d'intensitat lleu, no legitimada<br>Consum de drogues lícites (alcohol), presentat de manera positiva"
+  },
+  {
+    "titol": "El detectiu Conan 955 - Espectacle en una habitació tancada",
+    "codi": "6115085",
+    "edat": "10",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada<br>Por i angoixa freqüent d'afectació mitjana<br>Consum de drogues lícites (tabac), presentat de manera neutra"
+  },
+  {
+    "titol": "El detectiu Conan 956 - El missatge de socors de l'Eri Kisaki (1a part)",
+    "codi": "6115235",
+    "edat": "13",
+    "raons": "Consum de drogues lícites (tabac), presentat de manera neutra"
+  },
+  {
+    "titol": "El detectiu Conan 957 - El missatge de socors de l'Eri Kisaki (2a part)",
+    "codi": "6115485",
+    "edat": "13",
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat greu, no legitimada (amenaça de violació)"
+  },
+  {
+    "titol": "El detectiu Conan 982 - L'excursió escarlata. El vermell carmesí (I)",
+    "codi": "6173550",
+    "edat": "10",
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada<br>Por i angoixa freqüent d'afectació mitjana"
+  },
+  {
+    "titol": "El detectiu Conan 983 - L'excursió escarlata. El vermell carmesí (II)",
+    "codi": "6173646",
+    "edat": "10",
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada<br>Referències sexuals ocasionals d'explicitació mitjana"
+  },
+  {
+    "titol": "El detectiu Conan 986 - La dona que mira per la finestra (I)",
+    "codi": "999999999999999999999999999",
+    "edat": "13",
+    "raons": "Consum de drogues lícites (tabac), presentat de manera positiva"
   },
   {
     "titol": "El detectiu Conan: Història d'amor a la comissaria",
@@ -7031,8 +7088,8 @@
     "titol": "La mainadera ninja 2x08 - Saber la veritat",
     "codi": "6234980",
     "edat": "13",
-    "raons": "Consum de drogues il·lícites (marihuana), amb presentació neutra",
-    "mesinfo": "<b>Drogues</b><br>En una escena prolongada, una dona gran lia i s'encén un porro davant de la seva neta.<br><br>Hi ha llenguatge groller ocasional d'intensitat alta, quan 'què collons' i 'merda' es fan servir de manera ofensiva; també es diuen 'malparit' o 'imbècil'. Hi ha situacions angoixants freqüents d'afectació mitjana, així com violència verbal d'intensitat greu; per exemple, hi ha una tensa discussió familiar on una noia vol conèixer qui és el seu pare biològic i acaba barallant-se amb la seva mare, i es fan referències insensibles relatives a la mort o estat mental d'alguns familiars. Es compara el govern local amb el règim nazi per les seves polítiques racistes."
+    "raons": "Consum de drogues lícites (tabac), amb presentació neutra",
+    "mesinfo": "<b>Drogues</b><br>En una escena prolongada, una dona gran lia i encén un cigarret davant de la seva neta.<br><br>Hi ha llenguatge groller ocasional d'intensitat alta, quan 'què collons' i 'merda' es fan servir de manera ofensiva; també es diuen 'malparit' o 'imbècil'. Hi ha situacions angoixants freqüents d'afectació mitjana, així com violència verbal d'intensitat greu; per exemple, hi ha una tensa discussió familiar on una noia vol conèixer qui és el seu pare biològic i acaba barallant-se amb la seva mare, i es fan referències insensibles relatives a la mort o estat mental d'alguns familiars. Es compara un govern local amb el règim nazi per les seves polítiques racistes."
   },
   {
     "titol": "La maldición de Molly McGee",
