@@ -346,6 +346,16 @@
     "raons": "Violència reiterada, irreal, explícita, d'intensitat molt lleu, legitimada<br>Contingut sexual ocasional d'explicitació baixa<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
+    "titol": "Barbie",
+    "codi": "489309348304",
+    "edat": "10",
+    "comp": "🇪🇸 TP 🇺🇲 PG-13 🇩🇪 6 🇬🇧 12A 🇦🇺 PG 🇳🇱 9 🇫🇮 7 🇧🇷 12 🇵🇹 M/12",
+    "peli": true,
+    "misc": true,
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada<br>Al·lusions sexuals ocasionals d'explicitació mitjana",
+    "mesinfo": "<b>Violència</b><br>Hi ha escenes ocasionals en què la protagonista rep comentaris indesitjats sobre la seva aparença física. En una ocasió, un home pel carrer li dona un cop al cul sense consentiment, i ella s'hi torna donant-li un cop de puny a la cara, instintivament. Hi ha altres escenes ocasionals de violència còmica, d'intensitat lleu i legitimada, en forma de batalles campals que involucren cops de cap, cops de puny, torçament de mugrons, simulació d'apunyalaments o ofegaments.<br><br><b>Sexe</b><br>Es fan algunes bromes de caràcter sexual, com quan es mostra una nina a qui li creixen les 'tetes', es parla de 'sugar daddies' o es fan mencions dels genitals. Per exemple, es diu que una noia i un noi, ja que són ninots, no tenen vagina ni penis, i una dona manifesta tenir interès a veure-li el 'paquet pelat' que ell té sota els pantalons. En una discussió, uns nois reiteren que volen 'tocar-se-la' quan en veritat es refereixen a tocar-se la cara com una forma d'agressió.<br><br>Hi ha situacions angoixants ocasionals d'explicitació mitjana, en què la protagonista es planteja si pot morir o patir malalties mentals. Hi ha referències al consum de drogues lícites (alcohol), amb representació negativa. Hi ha situacions de masclisme amb sanció negativa. Hi ha llenguatge groller ocasional d'intensitat baixa ('cagar', 'idiota', 'tonta'); se censura la paraula 'malp****' en una escena còmica, i en una conversa de fons s'hi pot sentir 'putos amos'. Es mostren breument situacions perilloses: hi ha una escena menor de conducció temerària, i una altra en què una nena intenta cremar el cabell d'una nina amb un encenedor."
+  },
+  {
     "titol": "Batalla monumental",
     "codi": "batalla-monumental",
     "edat": "7",
