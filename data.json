@@ -223,6 +223,7 @@
     "edat": "10",
     "comp": "🌐 6+ (Disney+) 🇪🇦 TP 🇺🇲 TV-Y7 🇦🇺 PG 🇳🇱 6 🇧🇷 L 🇰🇷 7",
     "serie": true,
+    "disney": true,
     "misc": true
   },
   {
@@ -376,6 +377,7 @@
     "edat": "0",
     "comp": "🇪🇸 TP 🇺🇲 TV-Y",
     "serie": true,
+    "disney": true,
     "misc": true
   },
   {
@@ -1356,6 +1358,7 @@
     "edat": "10",
     "comp": "🌐 9+ (Disney+) 🇪🇦 TP 🇺🇲 TV-Y7-FV 🇦🇺 PG 🇳🇱 9 🇧🇷 10 🇰🇷 12",
     "serie": true,
+    "disney": true,
     "misc": true
   },
   {
@@ -1364,6 +1367,7 @@
     "edat": "0",
     "comp": "🌐 6+ (Disney+) 🇺🇲 TV-G",
     "serie": true,
+    "disney": true,
     "misc": true
   },
   {
@@ -2074,6 +2078,7 @@
     "edat": "10",
     "comp": "🇪🇦 TP (TV censurat) 🇺🇲 TV-Y7-FV 🇩🇪 0 🇬🇧 PG 🇦🇺 PG 🇳🇱 9 🇫🇮 7 🇧🇷 L 🇰🇷 7",
     "serie": true,
+    "boing": true,
     "misc": true
   },
   {
@@ -2285,6 +2290,7 @@
     "edat": "18",
     "comp": "🇪🇦 16 🇺🇲 TV-MA 🇩🇪 16 🇬🇧 15 🇦🇺 MA15+ 🇳🇱 16 🇧🇷 18",
     "serie": true,
+    "netflix": true,
     "misc": true
   },
   {
@@ -2466,6 +2472,7 @@
     "edat": "7",
     "comp": "🇪🇦 7 (VOD), TP (TV) 🇺🇲 TV-Y7 🇦🇺 PG 🇳🇱 9 🇧🇷 L 🇰🇷 7",
     "serie": true,
+    "boing": true,
     "misc": true
   },
   {
@@ -4143,6 +4150,7 @@
     "edat": "10",
     "comp": "🌐 9+ (Disney+) 🇪🇦 TP 🇺🇲 TV-Y7 🇩🇪 12 🇦🇺 PG 🇳🇱 9 🇧🇷 L 🇰🇷 12",
     "serie": true,
+    "disney": true,
     "misc": true
   },
   {
@@ -4673,6 +4681,7 @@
     "edat": "10",
     "comp": "🇪🇦 7, TP (segons el canal) 🇺🇲 TV-G 🇬🇧 PG 🇦🇺 G 🇳🇱 6 🇧🇷 10",
     "serie": true,
+    "clan": true,
     "misc": true
   },
   {
@@ -4788,6 +4797,7 @@
     "edat": "10",
     "comp": "🇪🇦 TP (censurat), 12 (VOD, censurat) 🇺🇲 TV-PG 🇬🇧 12 🇦🇺 PG 🇳🇱 12 🇧🇷 10 (censurat) 🇰🇷 12",
     "serie": true,
+    "boing": true,
     "misc": true
   },
   {
@@ -5740,6 +5750,7 @@
     "edat": "10",
     "comp": "🇪🇦 TP (TV censurat), 7 o 13 (VOD) 🇺🇲 TV-PG 🇩🇪 6 🇬🇧 12 🇦🇺 PG 🇳🇱 9 🇧🇷 12 (TV censurat), 10 (DVD) 🇰🇷 7",
     "serie": true,
+    "boing": true,
     "misc": true
   },
   {
@@ -6038,6 +6049,7 @@
     "edat": "7",
     "comp": "🌐 6+ (Disney+) 🇪🇸 TP 🇺🇲 TV-Y7 🇳🇱 6",
     "serie": true,
+    "disney": true,
     "misc": true
   },
   {
@@ -7101,6 +7113,7 @@
     "edat": "7",
     "comp": "🌐 6+ (Disney+) 🇪🇦 TP 🇺🇲 TV-Y7 🇦🇺 PG 🇳🇱 6",
     "serie": true,
+    "disney": true,
     "misc": true
   },
   {
@@ -7254,6 +7267,7 @@
     "edat": "7",
     "comp": "🇪🇸 TP",
     "serie": true,
+    "clan": true,
     "misc": true
   },
   {
@@ -7818,8 +7832,9 @@
     "titol": "Looney Tunes Cartoons",
     "codi": "looney-tunes-cartoons",
     "edat": "7",
-    "comp": "🇪🇦 7 (VOD), TP (TV) 🇺🇲 TV-PG 🇳🇱 6 🇧🇷 L",
+    "comp": "🇪🇦 7 (VOD), TP (TV) (censurat) 🇺🇲 TV-PG 🇳🇱 6 🇧🇷 L",
     "serie": true,
+    "boing": true,
     "misc": true
   },
   {
@@ -7852,6 +7867,7 @@
     "edat": "10",
     "comp": "🌐 6+ (Disney+) 🇪🇦 TP 🇺🇲 TV-Y7 🇦🇺 PG 🇳🇱 6 🇧🇷 L 🇰🇷 12",
     "serie": true,
+    "disney": true,
     "misc": true
   },
   {
@@ -7874,6 +7890,7 @@
     "edat": "10",
     "comp": "🇪🇦 7 🇺🇲 TV-PG 🇩🇪 6 🇬🇧 PG 🇦🇺 PG 🇳🇱 9 🇧🇷 10",
     "serie": true,
+    "netflix": true,
     "misc": true
   },
   {
@@ -8385,6 +8402,7 @@
     "edat": "10",
     "comp": "🇪🇦 TP (TV), 7 (VOD) 🇺🇲 TV-Y7 🇩🇪 6",
     "serie": true,
+    "clan": true,
     "misc": true
   },
   {
@@ -9261,7 +9279,10 @@
     "orig": "TP",
     "comp": "🌐 6+ (Disney+) 🇪🇸 TP (TV), 7 (VOD) 🇺🇲 TV-Y7 🇩🇪 6 🇬🇧 PG 🇦🇺 PG 🇳🇱 6 🇫🇮 7",
     "serie": true,
-    "x3": true
+    "x3": true,
+    "disney": true,
+    "netflix": true,
+    "misc": true,
   },
   {
     "titol": "Prodigiosa: Les aventures de Ladybug i Gat Noir 3x12 - La Titellaire 2",
@@ -9542,6 +9563,7 @@
     "edat": "13",
     "comp": "🇪🇸 16, 12, 7 (depèn) (prèviament: 13 i TP)",
     "serie": true,
+    "telecinco": true,
     "misc": true
   },
   {
@@ -9968,6 +9990,7 @@
     "edat": "7",
     "comp": "🇪🇦 TP 🇺🇲 TV-Y7 🇩🇪 6 🇬🇧 U 🇦🇺 PG 🇳🇱 6 🇧🇷 L 🇰🇷 7",
     "serie": true,
+    "boing": true,
     "misc": true
   },
   {
@@ -9976,6 +9999,7 @@
     "edat": "7",
     "comp": "🇪🇦 TP (TV), 7 (VOD) 🇺🇲 TV-Y7 🇧🇷 L 🇰🇷 ALL",
     "serie": true,
+    "boing": true,
     "misc": true
   },
   {
@@ -9998,6 +10022,7 @@
     "edat": "10",
     "comp": "🌐 6+ (Disney+) 🇪🇦 TP 🇺🇲 TV-Y7 🇦🇺 G 🇳🇱 6 🇧🇷 L 🇰🇷 12",
     "serie": true,
+    "disney": true,
     "misc": true
   },
   {
@@ -10014,6 +10039,7 @@
     "edat": "10",
     "comp": "🇪🇦 TP (TV censurat), 7 (VOD censurat) 🇺🇲 TV-PG 🇬🇧 PG 🇦🇺 PG 🇳🇱 9 🇧🇷 10 (censurat) 🇰🇷 7",
     "serie": true,
+    "boing": true,
     "misc": true
   },
   {
@@ -10079,6 +10105,8 @@
     "edat": "10",
     "comp": "🇪🇦 7 (DVD i VOD), 7 o TP (segons el canal) 🇺🇲 TV-PG 🇩🇪 12 🇬🇧 U 🇦🇺 PG 🇳🇱 6 🇧🇷 10 🇰🇷 7",
     "serie": true,
+    "clan": true,
+    "boing": true,
     "misc": true
   },
   {
