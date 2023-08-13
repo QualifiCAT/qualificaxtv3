@@ -350,7 +350,7 @@
     "titol": "Barbie",
     "codi": "489309348304",
     "edat": "10",
-    "comp": "🇪🇸 TP 🇺🇲 PG-13 🇩🇪 6 🇬🇧 12A 🇦🇺 PG 🇳🇱 9 🇫🇮 7 🇧🇷 12 🇵🇹 M/12",
+    "comp": "🇪🇸 A/fig 🇺🇲 PG-13 🇩🇪 6 🇬🇧 12A 🇦🇺 PG 🇳🇱 9 🇫🇮 7 🇧🇷 12 🇵🇹 M/12",
     "peli": true,
     "misc": true,
     "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada<br>Al·lusions sexuals ocasionals d'explicitació mitjana",
@@ -10098,6 +10098,15 @@
     "edat": "7",
     "raons": "Violència ocasional, irreal, explícita, d'intensitat molt lleu, legitimada<br>Llenguatge groller ocasional d'intensitat baixa",
     "mesinfo": "<b>Violència</b><br>Per obrir-se pas, els herois tallen els braços d'uns robots i els seus cossos per la meitat amb espases. Uns robots disparen rajos làser contra els herois.<br><br><b>Llenguatge groller</b><br>Es diu 'desgraciat' per insultar a algú."
+  },
+  {
+    "titol": "Super Mario Bros.: La pel·lícula",
+    "codi": "3255555523555",
+    "edat": "7",
+    "comp": "🇪🇸 A/i 🇺🇲 PG 🇩🇪 6 🇬🇧 PG 🇦🇺 PG 🇳🇱 6 🇫🇮 7 🇧🇷 L (prèviament: 10) 🇵🇹 M/6",
+    "peli": true,
+    "misc": true,
+    "raons": "Violència freqüent, irreal, explícita, d'intensitat lleu, legitimada<br>Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Teen Titans Go!",
