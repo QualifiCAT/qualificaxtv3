@@ -2540,6 +2540,16 @@
     "x3": true
   },
   {
+    "titol": "Els guardians de la nit - Kimetsu no Yaiba - La pel·lícula: El tren infinit",
+    "codi": "6193236",
+    "edat": "13",
+    "orig": "16",
+    "comp": "🇺🇲 R 🇩🇪 16 🇬🇧 15 🇦🇺 MA15+ 🇳🇱 12 🇫🇮 12 🇧🇷 14 🇫🇷 TP amb avís 🇰🇷 15 🇵🇱 12 🇸🇬 NC16 🇵🇹 M/14",
+    "peli": true,
+    "x3": true,
+    "raons": "Violència freqüent, irreal, molt explícita, d'intensitat greu, legitimada<br>Por i angoixa freqüent d'afectació alta"
+  },
+  {
     "titol": "Els investigadors i el tresor de les profunditats marines",
     "codi": "6194917",
     "edat": "10",
@@ -4324,16 +4334,6 @@
     "codi": "6186311",
     "edat": "13",
     "raons": "Violència freqüent, irreal, molt explícita, d'intensitat greu, no legitimada<br>Por i angoixa freqüent d'afectació alta"
-  },
-  {
-    "titol": "Guardians de la nit: el tren infinit",
-    "codi": "6193236",
-    "edat": "13",
-    "orig": "16",
-    "comp": "🇺🇲 R 🇩🇪 16 🇬🇧 15 🇦🇺 MA15+ 🇳🇱 12 🇫🇮 12 🇧🇷 14 🇫🇷 TP amb avís 🇰🇷 15 🇵🇱 12 🇸🇬 NC16 🇵🇹 M/14",
-    "peli": true,
-    "x3": true,
-    "raons": "Violència freqüent, irreal, molt explícita, d'intensitat greu, legitimada<br>Por i angoixa freqüent d'afectació alta"
   },
   {
     "titol": "Haikyu!",
