@@ -359,6 +359,24 @@
     "raons": "Violència reiterada, irreal, explícita, d'intensitat molt lleu, legitimada<br>Contingut sexual ocasional d'explicitació baixa<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
+    "titol": "Avatar, la llegenda de la Korra",
+    "codi": "avatar-la-llegenda-de-la-korra",
+    "edat": "10",
+    "orig": "7",
+    "comp": "🇪🇸 TP (depèn del canal), 7 (DVD) (VOD, prèviament: 12) 🇺🇲 TV-Y7-FV (TV) (VOD; prèviament: TV-PG) 🇩🇪 12 🇬🇧 PG 🇦🇺 PG 🇳🇱 6 🇧🇷 10 🇸🇬 PG",
+    "serie": true,
+    "x3": true
+  },
+  {
+    "titol": "Avatar: l'últim mestre de l'aire",
+    "codi": "avatar-lultim-mestre-de-laire",
+    "edat": "10",
+    "orig": "TP (prèviament: 10)",
+    "comp": "🇪🇸 7 (VOD) 🇺🇲 TV-Y7-FV 🇩🇪 6 🇬🇧 PG 🇦🇺 PG 🇳🇱 6 🇫🇮 7 🇧🇷 10 🇸🇬 PG",
+    "serie": true,
+    "x3": true
+  },
+  {
     "titol": "Barbie",
     "codi": "489309348304",
     "edat": "10",
