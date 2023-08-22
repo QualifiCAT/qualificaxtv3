@@ -1,38 +1,38 @@
 [
   {
-    "titol": "La mainadera ninja 2x08 - Saber la veritat",
-    "codi": "la mainadera ninja",
-    "edat": "13",
-    "orig": "7",
+    "titol": "APM? 20/08/2023",
+    "codi": "apm",
+    "edat": "10",
+    "orig": "10",
     "serie": true,
-    "x3": true,
-    "raons": "Consum de drogues lícites (tabac), amb presentació neutra"
+    "tv3": true,
+    "raons": "Llenguatge groller freqüent d'intensitat baixa"
   },
   {
-    "titol": "La mainadera ninja 2x07 - Quan mor un ninja",
-    "codi": "la mainadera ninja",
+    "titol": "L'au pair 3x03 - Un dia de castells i búnquers",
+    "codi": "au pair",
     "edat": "7",
+    "orig": "TP",
+    "serie": true,
+    "tv3": true,
+    "raons": "Al·lusions al consum de drogues lícites (alcohol), amb presentació negativa<br>Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "La mainadera ninja 2x10 - El bo, el dolent i el papa",
+    "codi": "la mainadera ninja",
+    "edat": "10",
     "orig": "7",
     "serie": true,
     "x3": true,
-    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
+    "raons": "Llenguatge groller freqüent d'intensitat baixa"
   },
   {
-    "titol": "L'au pair 3x02 - Un dia de pícnic amb Edu Esteve i Charlie Pee",
-    "codi": "l'au pair",
+    "titol": "La mainadera ninja 2x09 - Retrobant el camí",
+    "codi": "la mainadera ninja",
     "edat": "10",
-    "orig": "TP",
+    "orig": "7",
     "serie": true,
-    "tv3": true,
-    "raons": "Al·lusions al consum de drogues lícites (alcohol), amb presentació neutra<br>Llenguatge groller reiterat d'intensitat baixa<br>Conductes i valors incívics amb sanció neutra"
-  },
-  {
-    "titol": "Joc de cartes 7x03 - El millor restaurant a la vora de la Noguera Pallaresa",
-    "codi": "joc de cartes",
-    "edat": "10",
-    "orig": "TP",
-    "serie": true,
-    "tv3": true,
-    "raons": "Consum de drogues lícites (alcohol), presentat de manera neutra<br>Llenguatge groller ocasional d'intensitat alta<br>Conductes i valors incívics amb sanció neutra"
+    "x3": true,
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, legitimada<br>Llenguatge groller freqüent d'intensitat baixa"
   }
 ]
