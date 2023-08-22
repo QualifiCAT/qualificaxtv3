@@ -365,7 +365,9 @@
     "orig": "7",
     "comp": "🇪🇸 TP (depèn del canal), 7 (DVD) (VOD, prèviament: 12) 🇺🇲 TV-Y7-FV (TV) (VOD; prèviament: TV-PG) 🇩🇪 12 🇬🇧 PG 🇦🇺 PG 🇳🇱 6 🇧🇷 10 🇸🇬 PG",
     "serie": true,
-    "x3": true
+    "x3": true,
+    "netflix": true,
+    "misc": true
   },
   {
     "titol": "Avatar: l'últim mestre de l'aire",
@@ -374,7 +376,9 @@
     "orig": "TP (prèviament: 10)",
     "comp": "🇪🇸 7 (VOD) 🇺🇲 TV-Y7-FV 🇩🇪 6 🇬🇧 PG 🇦🇺 PG 🇳🇱 6 🇫🇮 7 🇧🇷 10 🇸🇬 PG",
     "serie": true,
-    "x3": true
+    "x3": true,
+    "netflix": true,
+    "misc": true
   },
   {
     "titol": "Barbie",
