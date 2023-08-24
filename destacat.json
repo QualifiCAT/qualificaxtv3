@@ -1,5 +1,14 @@
 [
   {
+    "titol": "L'au pair 3x04 - Un dia entre cabres, cavalls i minairons",
+    "codi": "au pair",
+    "edat": "7",
+    "orig": "TP",
+    "serie": true,
+    "tv3": true,
+    "raons": "Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
     "titol": "Joc de cartes 7x05 - El millor restaurant centenari de Barcelona",
     "codi": "joc de cartes",
     "edat": "10",
@@ -24,14 +33,5 @@
     "serie": true,
     "tv3": true,
     "raons": "Llenguatge groller freqüent d'intensitat baixa"
-  },
-  {
-    "titol": "L'au pair 3x03 - Un dia de castells i búnquers",
-    "codi": "au pair",
-    "edat": "7",
-    "orig": "TP",
-    "serie": true,
-    "tv3": true,
-    "raons": "Al·lusions al consum de drogues lícites (alcohol), amb presentació negativa<br>Llenguatge groller ocasional d'intensitat baixa"
   }
 ]
