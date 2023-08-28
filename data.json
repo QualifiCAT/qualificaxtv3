@@ -59,8 +59,8 @@
     "titol": "A2Veus 2x01",
     "codi": "6166141",
     "edat": "10",
-    "raons": "Llenguatge groller ocasional d'intensitat alta",
-    "mesinfo": "<b>Llenguatge groller</b><br>Es fan servir expressions com 'de puta mare', 'putada', 'putejar', 'hòstia' o 'tocar els ous'.<br><br>Hi ha situacions ocasionals de por o angoixa lleu, amb al·lusions passatgeres a la mort o a 'lidiar amb coses xungues'. En un sopar i de manera fugaç, uns joves se serveixen i brinden amb gots de cervesa."
+    "raons": "Consum de drogues lícites (alcohol), presentat de manera neutra<br>Llenguatge groller ocasional d'intensitat alta",
+    "mesinfo": "<b>Drogues</b><br>En un sopar i de manera fugaç, uns joves se serveixen i brinden amb gots de cervesa.<br><br><b>Llenguatge groller</b><br>Es fan servir expressions com 'de puta mare', 'putada', 'putejar', 'hòstia' o 'tocar els ous'.<br><br>Hi ha situacions ocasionals de por o angoixa lleu, amb al·lusions passatgeres a la mort o a 'lidiar amb coses xungues'."
   },
   {
     "titol": "A2Veus 2x02",
@@ -226,6 +226,12 @@
     "titol": "Al mar! 1x12 - El fons marí a l'Estartit",
     "codi": "6236188",
     "edat": "0"
+  },
+  {
+    "titol": "Al mar! 1x13 - Entrenant per al Mundial a l'Escala",
+    "codi": "6237009",
+    "edat": "0",
+    "mesinfo": "Es relaten casos en què unes noies van bolcar o gairebé bolcar enmig d'una competició. Es parla de 'matar-se' per referir-se a fer un esforç sobrehumà."
   },
   {
     "titol": "Anfibilandia",
