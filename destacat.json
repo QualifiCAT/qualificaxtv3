@@ -1,5 +1,14 @@
 [
   {
+    "titol": "Joc de cartes 7x06 - Els millors moments de l'estiu",
+    "codi": "joc de cartes",
+    "edat": "10",
+    "orig": "TP",
+    "serie": true,
+    "tv3": true,
+    "raons": "Consum de drogues lícites (alcohol), presentat de manera neutra<br>Llenguatge groller ocasional d'intensitat alta"
+  },
+  {
     "titol": "Al mar! 1x13 - Entrenant per al Mundial a l'Escala",
     "codi": "al mar",
     "edat": "0",
@@ -24,13 +33,5 @@
     "serie": true,
     "tv3": true,
     "raons": "Consum de drogues lícites (alcohol), presentat de manera neutra"
-  },
-  {
-    "titol": "Al mar! 1x12 - El fons marí a l'Estartit",
-    "codi": "al mar",
-    "edat": "0",
-    "orig": "TP",
-    "serie": true,
-    "x3": true
   }
 ]
