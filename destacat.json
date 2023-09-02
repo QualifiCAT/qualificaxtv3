@@ -1,5 +1,14 @@
 [
   {
+    "titol": "APM? 27/08/2023",
+    "codi": "apm",
+    "edat": "10",
+    "orig": "10",
+    "serie": true,
+    "tv3": true,
+    "raons": "Al·lusions sexuals ocasionals d'explicitació mitjana<br>Llenguatge groller freqüent d'intensitat baixa"
+  },
+  {
     "titol": "L'au pair 3x05 - Un dia de festes eufòriques",
     "codi": "au pair",
     "edat": "7",
@@ -24,14 +33,5 @@
     "orig": "TP",
     "serie": true,
     "x3": true
-  },
-  {
-    "titol": "L'au pair 3x04 - Un dia entre cabres, cavalls i minairons",
-    "codi": "au pair",
-    "edat": "7",
-    "orig": "TP",
-    "serie": true,
-    "tv3": true,
-    "raons": "Llenguatge groller ocasional d'intensitat baixa"
   }
 ]
