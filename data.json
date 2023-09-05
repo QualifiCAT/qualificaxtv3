@@ -234,6 +234,12 @@
     "mesinfo": "Es relaten casos en què unes noies van bolcar o gairebé bolcar enmig d'una competició. Es parla de 'matar-se' per referir-se a fer un esforç sobrehumà."
   },
   {
+    "titol": "Al mar! 1x14 - La bici de mar està de moda a la Ràpita",
+    "codi": "6237967",
+    "edat": "0",
+    "mesinfo": "Es comenta que una balena es va quedar enganxada a una platja, i que una espècie animal s'està extingint i que l'estan intentant salvar."
+  },
+  {
     "titol": "Anfibilandia",
     "codi": "anfibilandia",
     "edat": "10",
@@ -2834,6 +2840,11 @@
     "comp": "🇺🇲 TV-G 🇩🇪 0 🇬🇧 U 🇦🇺 G 🇳🇱 AL 🇫🇮 S 🇧🇷 L",
     "serie": true,
     "x3": true
+  },
+  {
+    "titol": "El xai Shaun 1x01 - Comença el joc",
+    "codi": "3075530",
+    "edat": "0"
   },
   {
     "titol": "En Grizzy i els Lèmmings",
@@ -7904,6 +7915,13 @@
     "mesinfo": "<b>Violència</b><br>En una illa maleïda, a un home li creix el bigoti i se li lliga al coll, ofegant-lo (no es diu que mori). Una trampa dispara unes llances i bales contra els protagonistes; la bala impacta contra un d'ells però rebota perquè és de goma. Es fan cops i amenaces de mort en to de broma. Imatges d'un futur episodi mostren nois lluitant amb sabres.<br><br><b>Por i angoixa</b><br><br>Els nois s'endinsen en una tempesta i van a parar a una illa maleïda, on els observen ulls vermells i animals estranys. Es diu que aquests animals abans eren humans i van patir una transformació. Es diu que una zona on hi ha el tresor més buscat es va acabar convertint en el 'cementiri dels pirates', i una imatge mostra com hi tornaven fets ànimes en pena. Un home cau des d'una gran alçada, però sobreviu. Vegeu també 'Violència'.<br><b>Llenguatge groller</b><br>Es diu 'fotre', 'parir' i 'burro'."
   },
   {
+    "titol": "One Piece 3x01",
+    "codi": "6237270",
+    "edat": "10",
+    "raons": "Consum de drogues lícites (tabac), presentat de manera neutra",
+    "mesinfo": "<b>Drogues</b><br>Un home de la colla del protagonista apareix fumant de manera pràcticament reiterada.<br><br>Hi ha situacions freqüents de por i angoixa d'afectació lleu: es fan al·lusions a la mort, atès que a un home gran se li atura el cor i, tot i ser reviscut ràpidament, descobreixen que morirà d'aquí a uns pocs dies. Hi ha llenguatge groller ocasional d'intensitat baixa ('merda', 'burro'). Hi ha violència ocasional, irreal, no explícita, d'intensitat molt lleu i no legitimada, quan uns nois reben clatellots, cops de puny o cops de peu com a sanció per alguna cosa que han dit, de manera còmica."
+  },
+  {
     "titol": "One Piece: Estampida",
     "codi": "6210083",
     "edat": "13",
@@ -9319,6 +9337,13 @@
     "comp": "🇺🇲 TV-Y7 🇦🇺 PG 🇳🇱 6 🇧🇷 L",
     "serie": true,
     "x3": true
+  },
+  {
+    "titol": "Un dramarama total 1x01 - El conducte de la felicitat",
+    "codi": "5911470",
+    "edat": "7",
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat molt lleu, legitimada<br>Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "<b>Violència</b><br>Una nena estira la corda d'un pegat pirata que un noi duu posat, amb deliberades intencions de fer-li mal. Es mostren estrelles en el moment de l'impacte.<br><br><b>Conductes i valors incívics</b><br>Els nens es comporten reiteradament de manera incívica. Els nens ideen un pla per obrir l'armari del mestre, tot ple de joguines requisades. Un dels nens aprofita tot el treball que han fet en equip per intentar escapar tot sol. La presentació d'aquestes conductes, però, és relativament inversemblant i la sanció per tot plegat és implícitament negativa al final de l'episodi, ja que acaben destruint l'escola bressol, el mestre els descobreix i s'enfada amb ells.<br><br>Hi ha situacions ocasionals de por i angoixa lleu, quan es fan bromes sobre la mort, i es mostra un ull de vidre. Hi ha estereotips negatius basats en l'aparença física d'un dels nens, i estereotips de gènere."
   },
   {
     "titol": "Xavier Enigma i la pel·lícula secreta. Soc la senyora presidenta",
