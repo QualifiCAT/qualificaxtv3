@@ -1,5 +1,14 @@
 [
   {
+    "titol": "Git Gud 1x01",
+    "codi": "git gud",
+    "edat": "7",
+    "orig": "TP",
+    "serie": true,
+    "x3": true,
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat lleu, no legitimada<br>Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
     "titol": "APM? 03/09/2023",
     "codi": "apm",
     "edat": "13",
@@ -24,14 +33,5 @@
     "orig": "TP",
     "serie": true,
     "x3": true
-  },
-  {
-    "titol": "L'au pair 3x05 - Un dia de festes eufòriques",
-    "codi": "au pair",
-    "edat": "7",
-    "orig": "TP",
-    "serie": true,
-    "tv3": true,
-    "raons": "Llenguatge groller ocasional d'intensitat baixa"
   }
 ]
