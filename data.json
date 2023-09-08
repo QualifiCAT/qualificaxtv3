@@ -1399,6 +1399,13 @@
     "mesinfo": "<b>Por i angoixa</b><br>Hi ha freqüents situacions de tensió. Unes noies estan atrapades en una presó amb parets blanques infinites fins que troben una porta que duu a un laberint on es perden, fins que s'escapen i una agent les comença a perseguir. Un home li diu a la protagonista que el seu fill i ella no poden estar junts. Es dona a entendre que un home acaba empresonat i amb els seus records esborrats. Un noi diu que va patir burles perquè ballava.<br><br><b>Llenguatge groller</b><br>Es diu 'acollonir' dos cops. Es diu 'no fotis' una vegada. Es descriuen uns vestits com a 'estúpids'.<br><br>Hi ha conductes incíviques presentades negativament en un context inversemblant i còmic."
   },
   {
+    "titol": "Busca'm a París 2x15",
+    "codi": "6230954",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Por i angoixa</b><br>Els protagonistes es mostren freqüentment afectats emocionalment per descobriments que podrien suposar que no podran viure junts mai més. Tot i els intents frustrats d'un noi per tal de revertir-ho, un home sovint perd la memòria després que l'hagin 'maleït'.<br><br><b>Llenguatge groller</b><br>Un cop cadascun, es diu 'fotria', 'idiota', 'malparit' i 'no la caguis'. En cap cas la intenció és ofensiva.<br><br>Uns nois arriben tard a una classe i són castigats. Dos nois discuteixen, però acaben fent les paus."
+  },
+  {
     "titol": "Buscant la màgica Doremi",
     "codi": "6193457",
     "edat": "13",
@@ -5225,6 +5232,32 @@
     "comp": "🇺🇲 TV-Y7 🇩🇪 6 🇦🇺 PG 🇳🇱 6",
     "serie": true,
     "x3": true
+  },
+  {
+    "titol": "Jenny",
+    "codi": "jenny",
+    "edat": "10",
+    "orig": "10",
+    "serie": true,
+    "x3": true
+  },
+  {
+    "titol": "Jenny 1x01 - El meu elefant",
+    "codi": "6238427",
+    "edat": "10",
+    "raons": "Por i angoixa reiterada d'afectació lleu"
+  },
+  {
+    "titol": "Jenny 1x02 - La meva habitació",
+    "codi": "6238425",
+    "edat": "10",
+    "raons": "Por i angoixa reiterada d'afectació lleu"
+  },
+  {
+    "titol": "Jenny 1x03 - La meva bomba",
+    "codi": "6238426",
+    "edat": "10",
+    "raons": "Por i angoixa reiterada d'afectació lleu"
   },
   {
     "titol": "Joc de cartes",
