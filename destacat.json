@@ -1,5 +1,14 @@
 [
   {
+    "titol": "APM? 10/09/2023",
+    "codi": "apm",
+    "edat": "13",
+    "orig": "10",
+    "serie": true,
+    "tv3": true,
+    "raons": "Al·lusions sexuals freqüents d'explicitació mitjana<br>Al·lusions al consum de drogues lícites (alcohol) i il·lícites (marihuana), presentades de manera negativa i neutra respectivament<br>Llenguatge groller freqüent d'intensitat alta"
+  },
+  {
     "titol": "La Puntual 2x01 - Ens posem de vint-i-un botons",
     "codi": "la puntual",
     "edat": "10",
@@ -25,14 +34,5 @@
     "serie": true,
     "x3": true,
     "raons": "Violència ocasional, irreal, no explícita, d'intensitat lleu, no legitimada<br>Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
-  },
-  {
-    "titol": "Catalunya aixeca el teló 2023",
-    "codi": "catalunya aixeca el teló",
-    "edat": "13",
-    "orig": "TP",
-    "peli": true,
-    "tv3": true,
-    "raons": "Al·lusions al consum de drogues lícites (alcohol) i il·lícites (cocaïna), presentats de manera neutra<br>Llenguatge groller reiterat d'intensitat alta"
   }
 ]
