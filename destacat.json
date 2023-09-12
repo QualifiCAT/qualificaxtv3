@@ -1,5 +1,14 @@
 [
   {
+    "titol": "Git Gud 1x02",
+    "codi": "git gud",
+    "edat": "7",
+    "orig": "TP",
+    "serie": true,
+    "x3": true,
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat lleu, no legitimada<br>Por i angoixa freqüent d'afectació lleu"
+  },
+  {
     "titol": "APM? 10/09/2023",
     "codi": "apm",
     "edat": "13",
@@ -25,14 +34,5 @@
     "peli": true,
     "tv3": true,
     "raons": "Consum de drogues lícites (alcohol, medicaments), presentat de manera neutra<br>Llenguatge groller reiterat d'intensitat baixa"
-  },
-  {
-    "titol": "Git Gud 1x01",
-    "codi": "git gud",
-    "edat": "7",
-    "orig": "TP",
-    "serie": true,
-    "x3": true,
-    "raons": "Violència ocasional, irreal, no explícita, d'intensitat lleu, no legitimada<br>Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
   }
 ]
