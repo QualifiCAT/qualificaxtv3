@@ -1,5 +1,14 @@
 [
   {
+    "titol": "La Puntual 2x02 - Sí o no",
+    "codi": "la puntual",
+    "edat": "13",
+    "orig": "TP",
+    "serie": true,
+    "tv3": true,
+    "raons": "Al·lusions al consum de drogues il·lícites (marihuana), presentat de manera neutra"
+  },
+  {
     "titol": "Nits Sense ficció - Amb tots vostès, Joan Pera",
     "codi": "sense ficcio",
     "edat": "10",
@@ -25,14 +34,5 @@
     "serie": true,
     "tv3": true,
     "raons": "Al·lusions sexuals freqüents d'explicitació mitjana<br>Al·lusions al consum de drogues lícites (alcohol) i il·lícites (marihuana), presentades de manera negativa i neutra respectivament<br>Llenguatge groller freqüent d'intensitat alta"
-  },
-  {
-    "titol": "La Puntual 2x01 - Ens posem de vint-i-un botons",
-    "codi": "la puntual",
-    "edat": "10",
-    "orig": "TP",
-    "serie": true,
-    "tv3": true,
-    "raons": "Contingut sexual ocasional d'explicitació mitjana<br>Llenguatge groller ocasional d'intensitat alta"
   }
 ]
