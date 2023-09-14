@@ -1,5 +1,23 @@
 [
   {
+    "titol": "Això no és una cançó - Viva la vida",
+    "codi": "això no és una cançó",
+    "edat": "7",
+    "orig": "TP",
+    "serie": true,
+    "tv3": true,
+    "raons": "Por i angoixa ocasional d'afectació mitjana<br>Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "Polònia 14/09/2023",
+    "codi": "polònia",
+    "edat": "13",
+    "orig": "7",
+    "serie": true,
+    "tv3": true,
+    "raons": "Llenguatge groller freqüent d'intensitat alta"
+  },
+  {
     "titol": "La Puntual 2x02 - Sí o no",
     "codi": "la puntual",
     "edat": "13",
@@ -16,23 +34,5 @@
     "serie": true,
     "tv3": true,
     "raons": "Al·lusions al consum de drogues il·lícites (cocaïna), presentat de manera negativa"
-  },
-  {
-    "titol": "Git Gud 1x02",
-    "codi": "git gud",
-    "edat": "7",
-    "orig": "TP",
-    "serie": true,
-    "x3": true,
-    "raons": "Violència ocasional, irreal, no explícita, d'intensitat lleu, no legitimada<br>Por i angoixa freqüent d'afectació lleu"
-  },
-  {
-    "titol": "APM? 10/09/2023",
-    "codi": "apm",
-    "edat": "13",
-    "orig": "10",
-    "serie": true,
-    "tv3": true,
-    "raons": "Al·lusions sexuals freqüents d'explicitació mitjana<br>Al·lusions al consum de drogues lícites (alcohol) i il·lícites (marihuana), presentades de manera negativa i neutra respectivament<br>Llenguatge groller freqüent d'intensitat alta"
   }
 ]
