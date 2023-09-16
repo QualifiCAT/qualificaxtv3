@@ -2988,7 +2988,7 @@
     "x3": true
   },
   {
-    "titol": "Escape room (teatre)",
+    "titol": "Escape Room (teatre)",
     "codi": "6227240",
     "edat": "13",
     "orig": "10",
@@ -2996,6 +2996,16 @@
     "tv3": true,
     "raons": "Llenguatge groller reiterat d'intensitat alta",
     "mesinfo": "<b>Llenguatge groller</b><br>Es fan servir expressions malsonants de manera pràcticament incessant, en molts casos de manera agressiva: 'malfollada', 'follat', 'fill de puta', 'puto', 'puta', 'de puta mare', 'puteta', 'càgon la puta', 'putero', 'hòstia puta', 'li surt del cony', 'què cony', 'càgon cony', 'collons', 'acollonir', 'collonets', 'collonut', 'quins pebrots', 'hòstia', 'merda', 'hosti', 'merdeta', 'no fotis', 'fotre', 'cagalera', 'capullo', 'joder', 'la mare que l'ha parit', 'mongolo', 'tarado de mierda', 'gilipollas'...<br><br>Hi ha consum de tabac i al·lusions al consum d'alcohol, a vegades en situacions sexuals, presentat de manera neutra. Hi ha continguts sexuals ocasionals d'explicitació mitjana, parlant de les vegades que una parella s'ha estat infidel i fent al·lusió a ser 'nimfòmana' i a la prostitució, i gesticulant actes sexuals com ara fel·lacions. Hi ha violència irreal, no explícita i d'intensitat greu i, alhora, situacions de por o angoixa ocasionals d'afectació alta: es mostren parts del cos mutilades; un cap dins d'una caixa resulta ser real perquè no té ulls de plàstic; al final, un home apareix mort amb sang a la paret darrere seu. També hi ha violència verbal i referències a actes macabres que han succeït en realitat. Hi ha comportaments i comentaris masclistes presentats de manera negativa. Hi ha conductes i valors incívics presentats negativament, ja que es revela que les parelles s'han mentit entre elles durant anys."
+  },
+  {
+    "titol": "Escape Room: La pel·lícula",
+    "codi": "6181591",
+    "edat": "13",
+    "orig": "12",
+    "comp": "🇪🇸 12 (cinema)",
+    "peli": true,
+    "tv3": true,
+    "raons": "Continguts sexuals freqüents d'explicitació mitjana<br>Llenguatge groller reiterat d'intensitat alta"
   },
   {
     "titol": "Està passant",
