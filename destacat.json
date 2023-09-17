@@ -1,6 +1,15 @@
 [
   {
-    "titol": "Això no és una cançó - Viva la vida",
+    "titol": "APM? 17/09/2023",
+    "codi": "apm",
+    "edat": "10",
+    "orig": "10",
+    "serie": true,
+    "tv3": true,
+    "raons": "Contingut sexual ocasional d'explicitació mitjana<br>Al·lusions al consum de drogues lícites (alcohol), presentat de manera neutra<br>Llenguatge groller freqüent d'intensitat baixa"
+  },
+  {
+    "titol": "Això no és una cançó 1x01 - Viva la vida",
     "codi": "això no és una cançó",
     "edat": "7",
     "orig": "TP",
@@ -25,14 +34,5 @@
     "serie": true,
     "tv3": true,
     "raons": "Al·lusions al consum de drogues il·lícites (marihuana), presentat de manera neutra"
-  },
-  {
-    "titol": "Nits Sense ficció - Amb tots vostès, Joan Pera",
-    "codi": "sense ficcio",
-    "edat": "10",
-    "orig": "TP",
-    "serie": true,
-    "tv3": true,
-    "raons": "Al·lusions al consum de drogues il·lícites (cocaïna), presentat de manera negativa"
   }
 ]
