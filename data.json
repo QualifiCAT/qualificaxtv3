@@ -172,7 +172,7 @@
   {
     "titol": "Al mar!",
     "codi": "al-mar",
-    "edat": "0",
+    "edat": "7",
     "orig": "TP",
     "serie": true,
     "x3": true
@@ -253,6 +253,18 @@
     "codi": "6237967",
     "edat": "0",
     "mesinfo": "Es comenta que una balena es va quedar enganxada a una platja, i que una espècie animal s'està extingint i que l'estan intentant salvar."
+  },
+  {
+    "titol": "Al mar! 1x15 - Classes de rem a Tarragona",
+    "codi": "6238775",
+    "edat": "0"
+  },
+  {
+    "titol": "Al mar! 1x16 - A bord d'un catamarà, a l'Hospitalet de l'Infant",
+    "codi": "6239767",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b>Es diu 'hosti' una vegada.<br><br>Es comenta que uns navegants van trobar una tortuga enganxada a l'aigua."
   },
   {
     "titol": "Anfibilandia",
@@ -713,6 +725,13 @@
     "edat": "10",
     "raons": "Por i angoixa reiterada d'afectació lleu",
     "mesinfo": "<b>Por i angoixa</b><br>Hi ha una escena prolongada, situada a les fosques i amb música de tensió constant, en què un ordinador malvat es presenta i s'encara als protagonistes, revelant-los el seu pla per dominar el món i que els ha estat enganyant fins ara. De manera aparent, electrocuta a un d'ells i posseeix a certes persones fent que els seus iris es tornin liles, inclòs un famós presentador de televisió, qui riu malèvolament mentre l'emissió 's'espatlla'. També hi ha escenes de malsons amb crits i moviments borrosos i inestables de la càmera. Tots els intents d'aturar-la són frustrats i la resolució del capítol no és positiva.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa ('merda')."
+  },
+  {
+    "titol": "Beta 4x01 - Col·leguis",
+    "codi": "6239765",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "<b>Por i angoixa</b><br>Es dona a entendre que un ordinador obliga els protagonistes a fer coses contra la seva voluntat, i els escridassa i fa que els llums s'apaguin i s'encenguin. Es repeteixen escenes d'anteriors episodis en què unes persones són posseïdes per un ordinador, tenen malsons o criden de pànic.<br><br><b>Llenguatge groller</b><br>Es diu 'l'heu cagat com mai'.<br><br><b>Conductes i valors incívics</b><br>En un context humorístic, els protagonistes maltracten un nadó que resulta ser de joguina: l'abandonen (se'l troben a la nevera), l'empastifen de talc o l'acaben desmuntant. El nadó fals es pixa a sobre dels nois mentre li canvien els bolquers. També en aquest context, un noi aboca salsa picant en un suc que una noia estava preparant, i hi fica el dit per tastar-lo."
   },
   {
     "titol": "Black Clover",
@@ -3480,6 +3499,13 @@
     "edat": "7",
     "raons": "Violència ocasional, irreal, no explícita, d'intensitat lleu, no legitimada<br>Por i angoixa freqüent d'afectació lleu",
     "mesinfo": "<b>Violència</b><br>En imatges d'un videojoc, sembla que surt sang d'un enemic després de rebre atac no explícit. També es mostren imatges de violència irreal molt lleu provinents de videojocs o sèries.<br><br><b>Por i angoixa</b><br>Es mostren freqüents imatges reals de caigudes per accident. En una d'elles, un home acaba caient per la finestra. En imatges d'un videojoc, es mostra un home estès a terra amb una ferida a la galta i la narració superposada insinua, amb finalitat còmica, que l'home s'ha llençat expressament des d'una gran alçada. Es mostren imatges d'errors de programació que poden ser pertorbadores, com quan el cos d'un personatge es deforma de manera aberrant o fa moviments erràtics.<br><br>Qualificació dels videojocs mencionats:<br>PEGI 3: 'Forza Horizon 5', 'FIFA 22'.<br>PEGI 7: 'Wii Sports Resort', 'Hollow Knight', 'Pokémon Púrpura', 'Need for Speed: Rivals', 'Bob Esponja: The Cosmic Shake', 'Ratchet & Clank: Rift Apart'.<br>PEGI 12: 'Stray', 'The Legend of Zelda: Breath of the Wild', 'League of Legends', 'Spore', 'Final Fantasy X', 'Riders Republic', 'The Sims 3' (segons versió), 'Portal'.<br>PEGI 16: 'Skate 3', 'Alan Wake'."
+  },
+  {
+    "titol": "Git Gud 1x03",
+    "codi": "6240148",
+    "edat": "7",
+    "raons": "Violència freqüent, irreal, no explícita, d'intensitat molt lleu, legitimada<br>Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Violència</b><br>Es mostren imatges de combats de videojoc, com un sabre làser que deixa marca en un enemic i el fa caure al buit, o trets i cops de puny sense detalls en un joc antic. Un home frustrat llença un comandament, que rebota i impacta contra la seva cara. Fan una broma a un home en què una mà gegant l'espanta i li fa caure.<br><br><b>Por i angoixa</b><br>Amb intencionalitat humorística, es mostren freqüentment imatges d'accidents, incloent-hi d'impactes entre vehicles a la vida real o de gent caient a terra. També es mostren conseqüències pertorbadores d'errors de programació, com quan un personatge es mostra amb un rostre transparent o es queda amb el coll encallat en una tanca.<br><br><b>Llenguatge groller</b><br>Es diu 'cagades' una vegada.<br><br>(S'inclouen imatges intermitents que poden afectar a espectadors susceptibles a l'epilèpsia fotosensible.)<br><br>Qualificació dels videojocs mencionats:<br>PEGI 3: 'F1 2021', 'SimplePlanes', 'Super Mario Maker', 'Candy Crush Saga', 'Tetris' (original), 'Gran Turismo', 'Alchemy Garden', 'Fall Guys', 'MLB The Show 21', 'Madden NFL 22', 'Microsoft Flight Simulator'.<br>PEGI 7: 'Need for Speed Rivals', 'Minecraft', 'Gang Beasts', 'Super Smash Bros.' (original).<br>PEGI 12: 'The Sims 4', 'Star Wars Jedi: Survivor', 'Final Fantasy VII' (original), 'League of Legends', 'The Legend of Zelda: Breath of the Wild', 'Need for Speed Unbound', 'Trials Fusion', 'Vampire Survivors', 'The Legend of Zelda: Tears of the Kingdom'."
   },
   {
     "titol": "Gos pudent",
