@@ -1,5 +1,23 @@
 [
   {
+    "titol": "Nits sense ficció - Els residus del Mercuri",
+    "codi": "sense ficció",
+    "edat": "10",
+    "orig": "7",
+    "serie": true,
+    "tv3": true,
+    "raons": "Consum de drogues lícites presentat de manera neutra<br>Llenguatge groller ocasional d'intensitat alta"
+  },
+  {
+    "titol": "Nits sense ficció - L'alcalde i Mussolini",
+    "codi": "sense ficció",
+    "edat": "7",
+    "orig": "7",
+    "serie": true,
+    "tv3": true,
+    "raons": "Comportaments discriminatoris amb sanció negativa<br>Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
     "titol": "El foraster 9x01 - Camprodon",
     "codi": "el foraster",
     "edat": "10",
@@ -16,23 +34,5 @@
     "serie": true,
     "x3": true,
     "raons": "Violència freqüent, irreal, no explícita, d'intensitat molt lleu, legitimada<br>Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
-  },
-  {
-    "titol": "Beta 4x01 - Col·leguis",
-    "codi": "beta",
-    "edat": "7",
-    "orig": "ERI",
-    "serie": true,
-    "x3": true,
-    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa"
-  },
-  {
-    "titol": "Al mar! 1x16 - A bord d'un catamarà, a l'Hospitalet de l'Infant",
-    "codi": "al mar",
-    "edat": "7",
-    "orig": "TP",
-    "serie": true,
-    "x3": true,
-    "raons": "Llenguatge groller ocasional d'intensitat baixa"
   }
 ]
