@@ -161,6 +161,13 @@
     "mesinfo": "<b>Por i angoixa</b><br>Una noia comenta amb detall què sentia quan li van diagnosticar depressió. Diu, però, que la música la va ajudar a seguir endavant. Es fan també altres al·lusions a la mort, com quan es fan referències a l'execució de Lluís XVI.<br><br><b>Llenguatge groller</b><br>Es diu 'hòstia' dues vegades en tot l'episodi."
   },
   {
+    "titol": "Això no és una cançó 1x02 - Dancing Queen",
+    "codi": "6240933",
+    "edat": "7",
+    "raons": "Contingut sexual ocasional d'explicitació baixa<br>Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Sexe</b><br>En el context de comentar cançons sobre el despertar sexual, es fan insinuacions sexuals d'explicitació baixa. Es tradueix la lletra d'una cançó: 'els provoques, els poses a cent (...), els encens'. Es fan al·lusions al cabaret i al burlesc; no hi ha imatges de contingut sexual.<br><br><b>Llenguatge groller</b><br>Es diu 'fots el camp' dues vegades.<br><br>Hi ha situacions angoixants ocasionals lleus, quan un noi comenta que va tenir una època en què es va sentir sol per la seva identitat i orientació sexual, però que els seus familiars i fer certes activitats lliurement el van ajudar."
+  },
+  {
     "titol": "Alcarràs",
     "codi": "32555555555",
     "edat": "13",
@@ -168,6 +175,21 @@
     "peli": true,
     "misc": true,
     "raons": "Consum de drogues lícites (tabac, alcohol) i il·lícites (marihuana), amb presentació neutra<br>Llenguatge groller freqüent d'intensitat alta"
+  },
+  {
+    "titol": "Al cotxe",
+    "codi": "al-cotxe",
+    "edat": "10",
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Al cotxe - Arnau Paris",
+    "codi": "6240906",
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Els dos protagonistes mantenen una conversació col·loquial que inclou freqüentment expressions com 'hòstia', 'merda', 'fotre' i similars.<br><br>Hi ha situacions angoixants ocasionals lleus quan es diu que els pares del convidat van passar un càncer i ho va passar malament. El convidat diu que el Follet Tortuga és un personatge 'controvertit', 'però' que és part de la seva infància."
   },
   {
     "titol": "Al mar!",
@@ -8322,6 +8344,13 @@
     "edat": "13",
     "raons": "Llenguatge groller freqüent d'intensitat alta",
     "mesinfo": "<b>Llenguatge groller</b><br>Es fan servir expressions d'intensitat alta com 'joder', 'quins collons', 'tinc els collons plens', 'como coño se llamen', 'el puto amo', 'chichi', 'hòstia', 'cabrons' i gestos obscens com un home agafant-se repetidament els genitals per sobre dels pantalons o ensenyant el dit del mig a càmera.<br><br>Hi ha violència freqüent, irreal, no explícita, d'intensitat lleu i no legitimada, quan uns personatges agafen una arma i tirotegen el sostre, quan es mostren imatges i referències al petó no consentit a Jenni Hermoso, i quan un fragment d'una pel·lícula mostra breument un home penjat. Es fan comentaris masclistes presentats negativament, especialment en una paròdia documental del 'NO-DO'. Hi ha altres conductes incíviques presentades negativament."
+  },
+  {
+    "titol": "Polònia 21/09/2023",
+    "codi": "6241067",
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es fan servir expressions com 'merda', 'hòstia', 'collons' i 'fot', tant en castellà com en català. Un home demana que li besin 'el cul', i es parla de tenir-ne dos 'grossos'.<br><br>Es fa un comentari masclista, presentat negativament. Es fan referències sexuals ocasionals d'explicitació baixa; un home diu la paraula 'sodomía', i es fan al·lusions implícites a la prostitució quan en un gag se censura repetidament còmicament una paraula i se substitueix per 'campamentos'. Hi ha conductes incíviques presentades negativament. Hi ha violència ocasional, irreal, no explícita, d'intensitat molt lleu i no legitimada. Es fan referències amb intencionalitat còmica al suïcidi: es diu que un home intenta cremar-se però no té benzina així que ho ha de fer amb la vitroceràmica; es fa menció a tenir un 'plan suïcida'."
   },
   {
     "titol": "Presto! L'escola de màgia",
