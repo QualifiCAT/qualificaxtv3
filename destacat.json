@@ -1,5 +1,25 @@
 [
   {
+    "titol": "Generació porno - El pes dels referents",
+    "codi": "generacio porno",
+    "edat": "18",
+    "sexe": true,
+    "orig": "7",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "APM? 24/09/2023",
+    "codi": "apm",
+    "edat": "10",
+    "sexe": true,
+    "por": true,
+    "llenguatge": true,
+    "orig": "10",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Al cotxe - Arnau Paris",
     "codi": "al cotxe",
     "edat": "10",
@@ -13,24 +33,6 @@
     "codi": "això no és una cançó",
     "edat": "7",
     "sexe": true,
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "Polònia 21/09/2023",
-    "codi": "polònia",
-    "edat": "10",
-    "llenguatge": true,
-    "orig": "7",
-    "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "La Puntual 2x03 - Arribada al &quot;Laboratori&quot;",
-    "codi": "la puntual",
-    "edat": "10",
     "llenguatge": true,
     "orig": "TP",
     "serie": true,
