@@ -398,6 +398,12 @@
     "raons": "Contingut sexual ocasional d'explicitació mitjana<br>Al·lusions al consum de drogues lícites (alcohol), presentat de manera neutra<br>Llenguatge groller freqüent d'intensitat baixa"
   },
   {
+    "titol": "APM? 24/09/2023",
+    "codi": "439848954398529843",
+    "edat": "10",
+    "raons": "Contingut sexual ocasional d'explicitació mitjana<br>Por i angoixa ocasional d'afectació alta<br>Llenguatge groller freqüent d'intensitat baixa"
+  },
+  {
     "titol": "Artús i els vailets de la Taula Rodona",
     "codi": "artus-vailets-taula-rodona",
     "edat": "7",
@@ -3472,6 +3478,22 @@
     "codi": "6150525",
     "edat": "10",
     "raons": "Por i angoixa freqüent d'afectació mitjana"
+  },
+  {
+    "titol": "Generació porno",
+    "codi": "generacio-porno",
+    "edat": "18",
+    "orig": "7",
+    "comp": "🇪🇸 12 (ETB)",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Generació porno - El pes dels referents",
+    "codi": "324938924893249832984983498",
+    "edat": "18",
+    "raons": "Al·lusions sexuals reiterades d'explicitació alta",
+    "mesinfo": "<b>Sexe</b><br>Es fan constants referències, molt explícites i crues, a actes sexuals presents en vídeos pornogràfics que adolescents comenten haver vist o haver practicat arran del seu consum, incloent-hi fel·lacions, masturbacions, ejaculacions, sèxting, sexe en grup o coprofàgia. També se'n fan a la pedofília, a la zoofília i altres actes aberrants de violència sexual, que involucren mutilacions o bé que escenifiquen situacions d'abús. No es mostren imatges pornogràfiques, però se senten sons, ja que alguns participants del documental veuen vídeos sexuals mentre els comenten.<br><br>Hi ha situacions de por i angoixa freqüents d'afectació alta, quan es comenten detalls de vídeos amb contingut de violència extrema. Hi ha llenguatge groller freqüent d'intensitat alta ('puta', 'follar', 'gilipollas', 'mongolo', 'polla', 'jodido', 'cabrón', 'hòstia', 'mierda'...). Hi ha referències a discriminació, i al consum de drogues lícites (alcohol) i il·lícites, presentat de manera negativa."
   },
   {
     "titol": "George de la jungla",
