@@ -1,8 +1,28 @@
 [
   {
+    "titol": "Com ensinistrar un drac: El retorn",
+    "codi": "com ensinistrar un drac el retorn",
+    "edat": "7",
+    "violencia": true,
+    "por": true,
+    "orig": "TP",
+    "peli": true,
+    "x3": true
+  },
+  {
+    "titol": "Beta 4x02 - Charlie",
+    "codi": "beta",
+    "edat": "7",
+    "por": true,
+    "orig": "ERI",
+    "serie": true,
+    "x3": true
+  },
+  {
     "titol": "Generació porno - El pes dels referents",
     "codi": "generacio porno",
     "edat": "18",
+    "violencia": true,
     "sexe": true,
     "orig": "7",
     "serie": true,
