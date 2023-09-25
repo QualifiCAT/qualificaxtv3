@@ -762,6 +762,13 @@
     "mesinfo": "<b>Por i angoixa</b><br>Es dona a entendre que un ordinador obliga els protagonistes a fer coses contra la seva voluntat, i els escridassa i fa que els llums s'apaguin i s'encenguin. Es repeteixen escenes d'anteriors episodis en què unes persones són posseïdes per un ordinador, tenen malsons o criden de pànic.<br><br><b>Llenguatge groller</b><br>Es diu 'l'heu cagat com mai'.<br><br><b>Conductes i valors incívics</b><br>En un context humorístic, els protagonistes maltracten un nadó que resulta ser de joguina: l'abandonen (se'l troben a la nevera), l'empastifen de talc o l'acaben desmuntant. El nadó fals es pixa a sobre dels nois mentre li canvien els bolquers. També en aquest context, un noi aboca salsa picant en un suc que una noia estava preparant, i hi fica el dit per tastar-lo."
   },
   {
+    "titol": "Beta 4x02 - Charlie",
+    "codi": "6241111",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu",
+    "mesinfo": "<b>Por i angoixa</b><br>Hi ha una sensació lleu de suspens quan es dona a entendre que una màquina obliga els protagonistes a fer coses contra la seva voluntat, o ha posseït a persones, incloent-hi a un presentador real de televisió."
+  },
+  {
     "titol": "Black Clover",
     "codi": "black-clover",
     "edat": "13",
@@ -1598,6 +1605,22 @@
     "titol": "Com dibuixar còmics amb el Will Sliney 1x03",
     "codi": "6237843",
     "edat": "0"
+  },
+  {
+    "titol": "Com ensinistrar un drac: El retorn",
+    "codi": "com-ensinistrar-drac-retorn",
+    "edat": "7"
+  },
+  {
+    "titol": "Com ensinistrar un drac: El retorn",
+    "codi": "6240719",
+    "edat": "7",
+    "orig": "TP",
+    "comp": "🇺🇲 TV-PG 🇩🇪 6 🇬🇧 PG 🇦🇺 PG",
+    "peli": true,
+    "x3": true,
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat lleu, no legitimada<br>Por i angoixa freqüent d'afectació lleu",
+    "mesinfo": "<b>Violència</b><br>Hi ha una escena breu en què es mostra una obra de teatre en què un drac és decapitat, amb efectes de sang falsos, i fent comentaris com 'remarem en rius de sang vostra'. També es mostra una imatge d'un home a la boca d'un drac, es fan al·lusions a 'matar' dracs, i uns dracs nadons es colpegen entre ells.<br><br><b>Por i angoixa</b><br>Li pregunten com ha perdut el peu un home que té una cama de fusta. Un escenari s'incendia i s'escampa el pànic entre els espectadors; un home vestit de drac no sap controlar la seva disfressa, els espanta amb flamarades i cau d'un penya-segat, però el final és positiu. Vegeu també 'Violència'."
   },
   {
     "titol": "D'aventura castigats",
