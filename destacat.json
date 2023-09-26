@@ -1,5 +1,15 @@
 [
   {
+    "titol": "El foraster 9x02 - Xerta",
+    "codi": "el foraster",
+    "edat": "10",
+    "drogues": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Git Gud 1x04",
     "codi": "git gud",
     "edat": "0",
@@ -48,15 +58,6 @@
     "por": true,
     "llenguatge": true,
     "orig": "10",
-    "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "Al cotxe - Arnau Paris",
-    "codi": "al cotxe",
-    "edat": "10",
-    "llenguatge": true,
-    "orig": "TP",
     "serie": true,
     "tv3": true
   }
