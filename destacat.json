@@ -1,7 +1,17 @@
 [
   {
-    "titol": "Generació porno - El pes dels referents",
-    "codi": "generacio porno",
+    "titol": "Nits Sense ficció - La indústria de lligar",
+    "codi": "nits sense ficcio",
+    "edat": "13",
+    "violencia": true,
+    "discriminacio": true,
+    "orig": "18",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Nits Sense ficció - Generació porno: el pes dels referents",
+    "codi": "nits sense ficcio",
     "edat": "13",
     "violencia": true,
     "sexe": true,
@@ -49,16 +59,5 @@
     "orig": "ERI",
     "serie": true,
     "x3": true
-  },
-  {
-    "titol": "APM? 24/09/2023",
-    "codi": "apm",
-    "edat": "10",
-    "sexe": true,
-    "por": true,
-    "llenguatge": true,
-    "orig": "10",
-    "serie": true,
-    "tv3": true
   }
 ]
