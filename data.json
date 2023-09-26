@@ -3510,22 +3510,6 @@
     "raons": "Por i angoixa freqüent d'afectació mitjana"
   },
   {
-    "titol": "Generació porno",
-    "codi": "generacio-porno",
-    "edat": "13",
-    "orig": "7",
-    "comp": "🇪🇸 12 (ETB)",
-    "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "Generació porno 1x01 (versió TV3) - El pes dels referents",
-    "codi": "324938924893249832984983498",
-    "edat": "13",
-    "raons": "Violència freqüent, versemblant, explícita, d'intensitat molt greu, no legitimada<br>Continguts sexuals reiterats d'explicitació mitjana<br>Por i angoixa freqüent d'afectació alta<br>Llenguatge groller freqüent d'intensitat alta",
-    "mesinfo": "<b>Violència</b><br>Es fan referències verbals crues i explícites a situacions de pedofília, zoofília i altres actes aberrants de violència sexual, que involucren mutilacions o bé que escenifiquen situacions de violacions, en vídeos pornogràfics o de violència extrema. Per exemple, es parla de vídeos que mostraven una nena esquarterada essent penetrada, de tenir relacions amb un gos, d'utilitzar un trepant per penetrar repetidament una dona o de forçar la cama de tal manera que penetri analment. Es menciona que hi ha jocs i vídeos que inciten a tenir relacions entre familiars. Hi ha dones que expressen rebuig pel fet de rebre vídeos d'homes masturbant-se amb imatges de la cara de la dona, o que han hagut de refer la seva vida per la filtració de vídeos sexuals propis. Es fan comentaris sobre la combinació d'agressions físiques i sexe, o de tenir relacions amb persones sota els efectes de l'alcohol.<br><br><b>Sexe</b><br>Es fan constants referències explícites a actes sexuals presents en vídeos pornogràfics que adolescents comenten haver vist o haver practicat arran del seu consum, incloent-hi fel·lacions, masturbacions, ejaculacions, prostitució, sèxting o sexe en grup. Es fa servir constantment un llenguatge cru com 'mamada', 'córrer', 'empalmado', 'follar', 'paja', 'polla', 'orgia', etc. Algunes de les referències més explícites que es fan en el documental inclouen mencionar casos de trobar-se semen als ulls arran de realitzar pràctiques perilloses vistes en vídeos, d'utilitzar esprais per insensibilitzar el coll i així fer fel·lacions sense ofegar-se, o d'existir vídeos fetitxistes que involucren asfíxia, llepar peus o coprofília. Se senten gemecs d'alguns vídeos en moments en què alguns participants del documental veuen vídeos sexuals mentre els comenten. Hi ha imatges il·lustratives de contingut sexual, no explícites, intercalades o parcialment ocultades pròpies de vídeos porno. Vegeu també 'Violència'.<br><br><b>Por i angoixa</b><br>Vegeu 'Violència'.<br><br><b>Llenguatge groller</b><br>Es diuen expressions com 'puta', 'guarra', 'zorra', 'gilipollas', 'jodido', 'cabrón' o 'hòstia'; vegeu també 'Sexe'.<br><br>Hi ha referències a discriminació, i al consum de drogues lícites (alcohol) i il·lícites (menció de la cocaïna), presentat de manera negativa."
-  },
-  {
     "titol": "George de la jungla",
     "codi": "george-jungla",
     "edat": "7",
@@ -8096,6 +8080,56 @@
     "raons": "Por i angoixa freqüent d'afectació lleu<br>Conductes i valors incívics amb sanció negativa"
   },
   {
+    "titol": "Nits Sense ficció",
+    "codi": "sense-ficcio",
+    "edat": "13",
+    "orig": "Variable",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Nits Sense ficció - Amb tots vostès, Joan Pera",
+    "codi": "6238943",
+    "edat": "10",
+    "orig": "TP",
+    "raons": "Al·lusions al consum de drogues il·lícites (cocaïna), presentat de manera negativa",
+    "mesinfo": "<b>Drogues</b><br>Hi ha un moment del documental en què es comenta una trucada on un fill li diu al seu pare que 'quan prenc cocaïna se me'n va de les mans'. El fill diu que va anar a casa del seu 'camell' a dir-li que no podia més i que ho havia de deixar, i es comenta que va rebre suport per part de la seva família.<br><br>Hi ha continguts sexuals ocasionals d'explicitació baixa, quan es fan bromes on es diu que un home va estar 'dintre d'una dona' o que treballava 'al Paral·lel vestit de dona'. Hi ha llenguatge groller ocasional d'intensitat baixa, quan es diuen 'collonades', 'hòstia', 'merda' o 'cabrón' en un context distès. Hi ha situacions angoixants ocasionals d'afectació lleu, amb al·lusions a la mort i a un accident que va patir un home on se li va trencar la mandíbula, i es mostren persones emocionant-se (vegeu també 'Drogues'). Hi ha imatges i referències passatgeres al consum d'alcohol, i d'un home aguantant una pipa en una pel·lícula."
+  },
+  {
+    "titol": "Nits Sense ficció - L'alcalde i Mussolini",
+    "codi": "6239966",
+    "edat": "7",
+    "orig": "7",
+    "raons": "Comportaments discriminatoris amb sanció negativa<br>Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Discriminació, racisme i xenofòbia</b><br>Es mostren persones manifestant-se a favor de règims feixistes, així com declaracions de dictadors que, per exemple, fan al·lusions a problemes 'de raça' en la política estrangera.<br><br><b>Llenguatge groller</b><br>Es diu 'collonades' una vegada.<br><br>Hi ha situacions angoixants lleus i ocasionals, quan es fan comentaris no explícits a les conseqüències de les guerres. Hi ha al·lusions fugaces al consum d'alcohol o tabac, presentat negativament."
+  },
+  {
+    "titol": "Nits Sense ficció - Els residus del Mercuri",
+    "codi": "6240154",
+    "edat": "10",
+    "orig": "7",
+    "raons": "Consum de drogues lícites presentat de manera neutra<br>Llenguatge groller ocasional d'intensitat alta",
+    "mesinfo": "<b>Drogues</b><br>Es mostra una celebració on hi ha consum d'alcohol. Es mostra un vídeo musical amb intencionalitat satírica on una persona es prepara un cubata i fuma un puro.<br><br><b>Llenguatge groller</b><br>Es diu que una dona havia rebut el pseudònim de 'la Puta'. Es mostren en pantalla transcripcions d'una conversa on es van emprar expressions com 'qué coño pasa', 'joder', 'hijo puta', 'puto culo' i 'mierda'. També hi ha llenguatge d'intensitat baixa, com 'tonto' o 'fotre'.<br><br>Hi ha conductes incíviques presentades negativament, concretament la corrupció política, la mentida (ja que l'alcalde intenta defensar-se es fa la víctima tot i estar condemnat) i l'amenaça (es comenta que l'alcalde va tenir amenaçats a algunes persones i que van entrar a robar a una seu de partit arran d'una reunió succeïda un dia abans)."
+  },
+  {
+    "titol": "Nits Sense ficció - Generació porno: el pes dels referents",
+    "codi": "6240385",
+    "edat": "13",
+    "orig": "7 (a la carta: TP)",
+    "comp": "🇪🇸 12 (ETB)",
+    "raons": "Violència freqüent, versemblant, explícita, d'intensitat molt greu, no legitimada<br>Continguts sexuals reiterats d'explicitació mitjana<br>Por i angoixa freqüent d'afectació alta<br>Llenguatge groller freqüent d'intensitat alta",
+    "mesinfo": "<b>Violència</b><br>Es fan referències verbals crues i explícites a situacions de pedofília, zoofília i altres actes aberrants de violència sexual, que involucren mutilacions o bé que escenifiquen situacions de violacions, en vídeos pornogràfics o de violència extrema. Per exemple, es parla de vídeos que mostraven una nena esquarterada essent penetrada, de tenir relacions amb un gos, d'utilitzar un trepant per penetrar repetidament una dona o de forçar la cama de tal manera que penetri analment. Es menciona que hi ha jocs i vídeos que inciten a tenir relacions entre familiars. Hi ha dones que expressen rebuig pel fet de rebre vídeos d'homes masturbant-se amb imatges de la cara de la dona, o que han hagut de refer la seva vida per la filtració de vídeos sexuals propis. Es fan comentaris sobre la combinació d'agressions físiques i sexe, o de tenir relacions amb persones sota els efectes de l'alcohol.<br><br><b>Sexe</b><br>Es fan constants referències explícites a actes sexuals presents en vídeos pornogràfics que adolescents comenten haver vist o haver practicat arran del seu consum, incloent-hi fel·lacions, masturbacions, ejaculacions, prostitució, sèxting o sexe en grup. Es fa servir constantment un llenguatge cru com 'mamada', 'córrer', 'empalmado', 'follar', 'paja', 'polla', 'orgia', etc. Algunes de les referències més explícites que es fan en el documental inclouen mencionar casos de trobar-se semen als ulls arran de realitzar pràctiques vistes en vídeos, d'utilitzar esprais per insensibilitzar el coll i així fer fel·lacions sense ofegar-se, o d'existir vídeos fetitxistes que involucren asfíxia, llepar peus o coprofília. Se senten gemecs d'alguns vídeos en moments en què alguns participants del documental veuen vídeos sexuals mentre els comenten. Hi ha imatges il·lustratives de contingut sexual, no explícites, intercalades o parcialment ocultades pròpies de vídeos porno. Vegeu també 'Violència'.<br><br><b>Por i angoixa</b><br>Vegeu 'Violència'.<br><br><b>Llenguatge groller</b><br>Es diuen expressions com 'puta', 'guarra', 'zorra', 'gilipollas', 'jodido', 'cabrón' o 'hòstia'; vegeu també 'Sexe'.<br><br>Hi ha referències a discriminació, i al consum de drogues lícites (alcohol) i il·lícites (menció de la cocaïna), presentat de manera negativa."
+  },
+  {
+    "titol": "Nits Sense ficció - La indústria de lligar",
+    "codi": "6241894",
+    "edat": "13",
+    "orig": "18",
+    "comp": "🇺🇲 TV-MA",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat greu, no legitimada<br>Comportaments masclistes i racistes presentats de manera neutra",
+    "mesinfo": "<b>Violència</b><br>En un vídeo on un home ensenya a lligar amb dones asiàtiques, les agafa del cap i les força al seu entrecuix, per sobre de la roba. En una altra ocasió, es diu que van trobar una dona a terra, inconscient i amb vòmit, després d'haver-la drogat, mentre un grup d'homes s'hi estan al voltant seu nus i rient. També hi ha violència d'intensitat molt lleu quan una activista dona una bufetada a un home en públic.<br><br><b>Discriminació, racisme i xenofòbia</b><br>Es dedica gran part del documental a presentar declaracions d'homes donant consells sobre com aconseguir 'lligar' amb dones, comentaris que majoritàriament tenen naturalesa masclista atès que es basen en estereotips, i animen a altres homes a ser dominants i manipuladors amb elles, a només valorar el seu físic, que no importa la voluntat de la dona o que rebran càstig si incompleixen les seves normes. També es fan comentaris racistes quan es diu, per exemple, que 'les asiàtiques són obedients, com gossets'. Hi ha activistes i congressistes que expressen el seu rebuig vers aquestes conductes, acusant-les de deshumanitzadores tant per a les dones com per als homes, i alguns d'ells acaben mostrant-se penedits (vegeu també 'Violència'), però no són suficient atenuant atès que els continguts discriminatoris presentats de manera positiva dominen pràcticament tot el documental.<br><br>Hi ha llenguatge groller ocasional d'intensitat alta ('fills de puta', 'malparits', 'de puta mare', 'collons', dit del mig...). Hi ha continguts sexuals freqüents d'explicitació baixa; també n'hi ha d'explicitació mitjana ocasionals, quan es fan referències explícites a actes sexuals (com parlar de 'mamar-te la cigala', 'orgasme' o 'follar', o mostrar una il·lustració de penetració i d'una dona amb els pits descoberts censurant-ne els mugrons) i es veu com una parella té sexe en públic. Hi ha consum de drogues lícites (tabac, alcohol), presentat de manera negativa. Hi ha situacions ocasionals de por i angoixa d'afectació mitjana (vegeu 'Violència')."
+  },
+  {
     "titol": "No callis!",
     "codi": "no-callis",
     "edat": "0",
@@ -9089,30 +9123,6 @@
     "edat": "13",
     "orig": "18",
     "raons": "Violència ocasional, versemblant, no explícita, d'intensitat greu, no legitimada<br>Al·lusions a l'abús de drogues lícites i il·lícites, presentat de manera negativa"
-  },
-  {
-    "titol": "Sense ficció - Amb tots vostès, Joan Pera",
-    "codi": "6238943",
-    "edat": "10",
-    "orig": "TP",
-    "raons": "Al·lusions al consum de drogues il·lícites (cocaïna), presentat de manera negativa",
-    "mesinfo": "<b>Drogues</b><br>Hi ha un moment del documental en què es comenta una trucada on un fill li diu al seu pare que 'quan prenc cocaïna se me'n va de les mans'. El fill diu que va anar a casa del seu 'camell' a dir-li que no podia més i que ho havia de deixar, i es comenta que va rebre suport per part de la seva família.<br><br>Hi ha continguts sexuals ocasionals d'explicitació baixa, quan es fan bromes on es diu que un home va estar 'dintre d'una dona' o que treballava 'al Paral·lel vestit de dona'. Hi ha llenguatge groller ocasional d'intensitat baixa, quan es diuen 'collonades', 'hòstia', 'merda' o 'cabrón' en un context distès. Hi ha situacions angoixants ocasionals d'afectació lleu, amb al·lusions a la mort i a un accident que va patir un home on se li va trencar la mandíbula, i es mostren persones emocionant-se (vegeu també 'Drogues'). Hi ha imatges i referències passatgeres al consum d'alcohol, i d'un home aguantant una pipa en una pel·lícula."
-  },
-  {
-    "titol": "Sense ficció - L'alcalde i Mussolini",
-    "codi": "6239966",
-    "edat": "7",
-    "orig": "7",
-    "raons": "Comportaments discriminatoris amb sanció negativa<br>Llenguatge groller ocasional d'intensitat baixa",
-    "mesinfo": "<b>Discriminació, racisme i xenofòbia</b><br>Es mostren persones manifestant-se a favor de règims feixistes, així com declaracions de dictadors que, per exemple, fan al·lusions a problemes 'de raça' en la política estrangera.<br><br><b>Llenguatge groller</b><br>Es diu 'collonades' una vegada.<br><br>Hi ha situacions angoixants lleus i ocasionals, quan es fan comentaris no explícits a les conseqüències de les guerres. Hi ha al·lusions fugaces al consum d'alcohol o tabac, presentat negativament."
-  },
-  {
-    "titol": "Sense ficció - Els residus del Mercuri",
-    "codi": "6240154",
-    "edat": "10",
-    "orig": "7",
-    "raons": "Consum de drogues lícites presentat de manera neutra<br>Llenguatge groller ocasional d'intensitat alta",
-    "mesinfo": "<b>Drogues</b><br>Es mostra una celebració on hi ha consum d'alcohol. Es mostra un vídeo musical amb intencionalitat satírica on una persona es prepara un cubata i fuma un puro.<br><br><b>Llenguatge groller</b><br>Es diu que una dona havia rebut el pseudònim de 'la Puta'. Es mostren en pantalla transcripcions d'una conversa on es van emprar expressions com 'qué coño pasa', 'joder', 'hijo puta', 'puto culo' i 'mierda'. També hi ha llenguatge d'intensitat baixa, com 'tonto' o 'fotre'.<br><br>Hi ha conductes incíviques presentades negativament, concretament la corrupció política, la mentida (ja que l'alcalde intenta defensar-se es fa la víctima tot i estar condemnat) i l'amenaça (es comenta que l'alcalde va tenir amenaçats a algunes persones i que van entrar a robar a una seu de partit arran d'una reunió succeïda un dia abans)."
   },
   {
     "titol": "Sense sortida",
