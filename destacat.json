@@ -1,5 +1,16 @@
 [
   {
+    "titol": "La Puntual 2x04 - Vetes, fils i audicions",
+    "codi": "la puntual",
+    "edat": "10",
+    "sexe": true,
+    "drogues": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Nits Sense ficció - La indústria de lligar",
     "codi": "nits sense ficcio",
     "edat": "13",
@@ -49,15 +60,6 @@
     "por": true,
     "orig": "TP",
     "peli": true,
-    "x3": true
-  },
-  {
-    "titol": "Beta 4x02 - Charlie",
-    "codi": "beta",
-    "edat": "7",
-    "por": true,
-    "orig": "ERI",
-    "serie": true,
     "x3": true
   }
 ]
