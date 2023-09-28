@@ -1,5 +1,33 @@
 [
   {
+    "titol": "Al cotxe - Jim, la guanyadora d'&quot;Eufòria&quot;",
+    "codi": "al cotxe",
+    "edat": "7",
+    "por": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Això no és una cançó 1x03 - Bohemian Rhapsody",
+    "codi": "això no és una cançó",
+    "edat": "7",
+    "por": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Polònia 28/09/2023",
+    "codi": "polònia",
+    "edat": "13",
+    "llenguatge": true,
+    "orig": "7",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "La Puntual 2x04 - Vetes, fils i audicions",
     "codi": "la puntual",
     "edat": "10",
@@ -31,35 +59,5 @@
     "orig": "7",
     "serie": true,
     "tv3": true
-  },
-  {
-    "titol": "El foraster 9x02 - Xerta",
-    "codi": "el foraster",
-    "edat": "10",
-    "drogues": true,
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "Git Gud 1x04",
-    "codi": "git gud",
-    "edat": "0",
-    "violencia": true,
-    "por": true,
-    "orig": "TP",
-    "serie": true,
-    "x3": true
-  },
-  {
-    "titol": "Com ensinistrar un drac: El retorn",
-    "codi": "com ensinistrar un drac el retorn",
-    "edat": "7",
-    "violencia": true,
-    "por": true,
-    "orig": "TP",
-    "peli": true,
-    "x3": true
   }
 ]
