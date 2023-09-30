@@ -7613,6 +7613,20 @@
     "raons": "Referència a l'abús de drogues lícites (alcohol), presentat de manera neutra"
   },
   {
+    "titol": "Manduka Family",
+    "codi": "manduka-family",
+    "edat": "0",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
+  },
+  {
+    "titol": "Manduka Family 1x01 - Truita de patates",
+    "codi": "6232742",
+    "edat": "0",
+    "mesinfo": "A vegades, es fan comentaris que destaquen la perillositat de cuinar amb ganivets, de manera còmica: 'gairebé em tallo la mà', 'no li tallis un dit a l'àvia'."
+  },
+  {
     "titol": "Marcus Level",
     "codi": "marcus-level",
     "edat": "10",
