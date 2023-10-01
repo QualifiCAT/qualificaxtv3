@@ -1,5 +1,14 @@
 [
   {
+    "titol": "Beta 4x03 -  Betes del passat",
+    "codi": "beta",
+    "edat": "0",
+    "por": true,
+    "orig": "ERI",
+    "serie": true,
+    "x3": true
+  },
+  {
     "titol": "Manduka Family 1x01 - Truita de patates",
     "codi": "manduka family",
     "edat": "0",
@@ -43,16 +52,6 @@
     "drogues": true,
     "llenguatge": true,
     "orig": "TP",
-    "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "Nits Sense ficció - La indústria de lligar",
-    "codi": "nits sense ficcio",
-    "edat": "13",
-    "violencia": true,
-    "discriminacio": true,
-    "orig": "18",
     "serie": true,
     "tv3": true
   }
