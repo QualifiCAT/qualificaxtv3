@@ -303,6 +303,11 @@
     "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'hosti' una vegada.<br><br>Es comenta que uns navegants van trobar una tortuga enganxada a l'aigua."
   },
   {
+    "titol": "Al mar! 1x17 - Una gossa a bord! A Platja d'Aro",
+    "codi": "6240908",
+    "edat": "0"
+  },
+  {
     "titol": "Anfibilandia",
     "codi": "anfibilandia",
     "edat": "10",
@@ -781,6 +786,12 @@
     "edat": "7",
     "raons": "Por i angoixa freqüent d'afectació lleu",
     "mesinfo": "<b>Por i angoixa</b><br>Hi ha una sensació lleu de suspens quan es dona a entendre que una màquina obliga els protagonistes a fer coses contra la seva voluntat, o ha posseït a persones, incloent-hi a un presentador real de televisió."
+  },
+  {
+    "titol": "Beta 4x03 - Betes del passat",
+    "codi": "6242365",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu"
   },
   {
     "titol": "Black Clover",
