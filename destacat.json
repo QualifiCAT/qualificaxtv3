@@ -1,5 +1,14 @@
 [
   {
+    "titol": "El foraster - El Bruc",
+    "codi": "el foraster",
+    "edat": "10",
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Git Gud 1x05",
     "codi": "git gud",
     "edat": "7",
@@ -40,14 +49,6 @@
     "edat": "0",
     "por": true,
     "orig": "ERI",
-    "serie": true,
-    "x3": true
-  },
-  {
-    "titol": "Manduka Family 1x01 - Truita de patates",
-    "codi": "manduka family",
-    "edat": "0",
-    "orig": "TP",
     "serie": true,
     "x3": true
   }
