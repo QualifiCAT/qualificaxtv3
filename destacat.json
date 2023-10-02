@@ -1,5 +1,15 @@
 [
   {
+    "titol": "Git Gud 1x05",
+    "codi": "git gud",
+    "edat": "7",
+    "violencia": true,
+    "por": true,
+    "orig": "TP",
+    "serie": true,
+    "x3": true
+  },
+  {
     "titol": "30 minuts - IA: la nova evolució",
     "codi": "30 minuts",
     "edat": "0",
@@ -40,15 +50,5 @@
     "orig": "TP",
     "serie": true,
     "x3": true
-  },
-  {
-    "titol": "Al cotxe - Jim, la guanyadora d'&quot;Eufòria&quot;",
-    "codi": "al cotxe",
-    "edat": "7",
-    "por": true,
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
   }
 ]
