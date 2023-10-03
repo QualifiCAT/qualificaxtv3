@@ -1,6 +1,14 @@
 [
   {
-    "titol": "El foraster - El Bruc",
+    "titol": "Al mar!<br>Bojos pel surf al Masnou",
+    "codi": "al mar",
+    "edat": "0",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
+  },
+  {
+    "titol": "El foraster<br>El Bruc",
     "codi": "el foraster",
     "edat": "10",
     "llenguatge": true,
@@ -9,7 +17,7 @@
     "tv3": true
   },
   {
-    "titol": "Git Gud 1x05",
+    "titol": "Git Gud<br>Capítol 5",
     "codi": "git gud",
     "edat": "7",
     "violencia": true,
@@ -19,7 +27,7 @@
     "x3": true
   },
   {
-    "titol": "30 minuts - IA: la nova evolució",
+    "titol": "30 minuts<br>IA: la nova evolució",
     "codi": "30 minuts",
     "edat": "0",
     "orig": "TP",
@@ -27,7 +35,7 @@
     "tv3": true
   },
   {
-    "titol": "APM? 01/10/2023",
+    "titol": "APM?<br>01/10/2023",
     "codi": "apm",
     "edat": "13",
     "sexe": true,
@@ -36,15 +44,7 @@
     "tv3": true
   },
   {
-    "titol": "Al mar! 1x17 - Una gossa a bord! A Platja d'Aro",
-    "codi": "al mar",
-    "edat": "0",
-    "orig": "TP",
-    "serie": true,
-    "x3": true
-  },
-  {
-    "titol": "Beta 4x03 -  Betes del passat",
+    "titol": "Beta<br>Betes del passat",
     "codi": "beta",
     "edat": "0",
     "por": true,
