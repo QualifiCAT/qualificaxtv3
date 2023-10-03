@@ -1,5 +1,27 @@
 [
   {
+    "titol": "Nits Sense ficció<br>Porno deepfake, ets tu la següent?",
+    "codi": "nits sense ficció",
+    "edat": "13",
+    "sexe": true,
+    "por": true,
+    "orig": "18",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Nits Sense ficció<br>Generació Porno: la pressió social",
+    "codi": "nits sense ficció",
+    "edat": "13",
+    "violencia": true,
+    "sexe": true,
+    "por": true,
+    "llenguatge": true,
+    "orig": "7",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Al mar!<br>Bojos pel surf al Masnou",
     "codi": "al mar",
     "edat": "0",
@@ -33,23 +55,5 @@
     "orig": "TP",
     "serie": true,
     "tv3": true
-  },
-  {
-    "titol": "APM?<br>01/10/2023",
-    "codi": "apm",
-    "edat": "13",
-    "sexe": true,
-    "orig": "10",
-    "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "Beta<br>Betes del passat",
-    "codi": "beta",
-    "edat": "0",
-    "por": true,
-    "orig": "ERI",
-    "serie": true,
-    "x3": true
   }
 ]
