@@ -1,5 +1,15 @@
 [
   {
+    "titol": "La Puntual<br>Vermell o verd",
+    "codi": "la puntual",
+    "edat": "7",
+    "por": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Nits Sense ficció<br>Porno deepfake, ets tu la següent?",
     "codi": "nits sense ficció",
     "edat": "13",
@@ -48,12 +58,4 @@
     "serie": true,
     "x3": true
   },
-  {
-    "titol": "30 minuts<br>IA: la nova evolució",
-    "codi": "30 minuts",
-    "edat": "0",
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
-  }
 ]
