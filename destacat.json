@@ -1,5 +1,32 @@
 [
   {
+    "titol": "Això no és una cançó<br>My Way",
+    "codi": "això no és una cançó",
+    "edat": "0",
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Polònia<br>04/10/2023",
+    "codi": "polònia",
+    "edat": "13",
+    "llenguatge": true,
+    "orig": "7",
+    "serie": true,
+    "tv3": true
+  }
+  {
+    "titol": "TardeAR<br>02/10/2023",
+    "codi": "tardear",
+    "edat": "10",
+    "violencia": true,
+    "sexe": true,
+    "por": true,
+    "incivisme": true,
+    "serie": true
+  },
+  {
     "titol": "La Puntual<br>Vermell o verd",
     "codi": "la puntual",
     "edat": "7",
@@ -30,32 +57,5 @@
     "orig": "7",
     "serie": true,
     "tv3": true
-  },
-  {
-    "titol": "Al mar!<br>Bojos pel surf al Masnou",
-    "codi": "al mar",
-    "edat": "0",
-    "orig": "TP",
-    "serie": true,
-    "x3": true
-  },
-  {
-    "titol": "El foraster<br>El Bruc",
-    "codi": "el foraster",
-    "edat": "10",
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "Git Gud<br>Capítol 5",
-    "codi": "git gud",
-    "edat": "7",
-    "violencia": true,
-    "por": true,
-    "orig": "TP",
-    "serie": true,
-    "x3": true
   }
 ]
