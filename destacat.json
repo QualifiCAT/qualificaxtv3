@@ -1,5 +1,14 @@
 [
   {
+    "titol": "El món genial del Tom Gates",
+    "codi": "el món genial del tom gates",
+    "edat": "7",
+    "llenguatge": true,
+    "incivisme": true,
+    "orig": "TP",
+    "x3": true
+  },
+  {
     "titol": "Això no és una cançó<br>My Way",
     "codi": "això no és una cançó",
     "edat": "0",
@@ -43,18 +52,6 @@
     "sexe": true,
     "por": true,
     "orig": "18",
-    "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "Nits Sense ficció<br>Generació Porno: la pressió social",
-    "codi": "nits sense ficció",
-    "edat": "13",
-    "violencia": true,
-    "sexe": true,
-    "por": true,
-    "llenguatge": true,
-    "orig": "7",
     "serie": true,
     "tv3": true
   }
