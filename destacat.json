@@ -1,11 +1,11 @@
 [
   {
-    "titol": "El món genial del Tom Gates",
+    "titol": "El món genial del Tom Gates<br>L'assemblea de l'escola",
     "codi": "el món genial del tom gates",
     "edat": "7",
-    "llenguatge": true,
     "incivisme": true,
     "orig": "TP",
+    "serie": true,
     "x3": true
   },
   {
