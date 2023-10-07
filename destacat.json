@@ -1,6 +1,6 @@
 [
   {
-    "titol": "El món genial del Tom Gates<br>Rentem el cotxe",
+    "titol": "El món genial del Tom Gates<br><small>Rentem el cotxe</small>",
     "codi": "el món genial del tom gates",
     "edat": "7",
     "incivisme": true,
@@ -9,7 +9,7 @@
     "x3": true
   },
   {
-    "titol": "Això no és una cançó<br>My Way",
+    "titol": "Això no és una cançó<br><small>My Way</small>",
     "codi": "això no és una cançó",
     "edat": "0",
     "orig": "TP",
@@ -17,7 +17,7 @@
     "tv3": true
   },
   {
-    "titol": "Polònia<br>04/10/2023",
+    "titol": "Polònia<br><small>04/10/2023</small>",
     "codi": "polònia",
     "edat": "13",
     "llenguatge": true,
@@ -26,7 +26,7 @@
     "tv3": true
   },
   {
-    "titol": "TardeAR<br>02/10/2023",
+    "titol": "TardeAR<br><small>02/10/2023</small>",
     "codi": "tardear",
     "edat": "10",
     "violencia": true,
@@ -36,7 +36,7 @@
     "serie": true
   },
   {
-    "titol": "La Puntual<br>Vermell o verd",
+    "titol": "La Puntual<br><small>Vermell o verd</small>",
     "codi": "la puntual",
     "edat": "7",
     "por": true,
@@ -46,7 +46,7 @@
     "tv3": true
   },
   {
-    "titol": "Nits Sense ficció<br>Porno deepfake, ets tu la següent?",
+    "titol": "Nits Sense ficció<br><small>Porno deepfake, ets tu la següent?</small>",
     "codi": "nits sense ficció",
     "edat": "13",
     "sexe": true,
