@@ -1,5 +1,24 @@
 [
   {
+    "titol": "APM?<br><small>08/10/2023</small>",
+    "codi": "apm",
+    "edat": "10",
+    "sexe": true,
+    "llenguatge": true,
+    "orig": "10",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Beta<br><small>Omega</small>",
+    "codi": "beta",
+    "edat": "0",
+    "por": true,
+    "orig": "ERI",
+    "serie": true,
+    "x3": true
+  },
+  {
     "titol": "Manduka Family<br><small>Croquetes</small>",
     "codi": "manduka family",
     "edat": "0",
@@ -30,26 +49,6 @@
     "edat": "13",
     "llenguatge": true,
     "orig": "7",
-    "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "TardeAR<br><small>02/10/2023</small>",
-    "codi": "tardear",
-    "edat": "10",
-    "violencia": true,
-    "sexe": true,
-    "por": true,
-    "incivisme": true,
-    "serie": true
-  },
-  {
-    "titol": "La Puntual<br><small>Vermell o verd</small>",
-    "codi": "la puntual",
-    "edat": "7",
-    "por": true,
-    "llenguatge": true,
-    "orig": "TP",
     "serie": true,
     "tv3": true
   }
