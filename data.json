@@ -448,6 +448,12 @@
     "mesinfo": "<b>Sexe</b><br>Hi ha una broma prolongada en què es fa referència a una obra d'art que mostra genitals femenins, referint-s'hi com a 'xoxo'. També es fan bromes referides a genitals masculins: es parla de 'la repolla' i d'escrots; es comenta que un home prepara 'rabo de toro' i es fan dobles sentits com 'es verdad que eres famoso por tu rabo', 'a probar tu rabo', 'rabo para todos'...; es mostren imatges de tortells amb forma de penis i es mostra un cavall amb el penis erecte (tot plegat emfatitzat pel diàleg). També hi ha alguns continguts sexuals amb explicitació baixa, com quan una dona s'insinua en un llit fent veure que és una gata, i un home dient que 'yo toco el trombón' i la seva dona ampliant informació: 'y a mí'. Es diu la paraula 'f*lleu', parcialment censurada, tres vegades en una sola escena.<br><br>Hi ha llenguatge groller freqüent d'intensitat baixa ('mierda', 'cagalló', 'cagades', 'hòstia', 'refot', 'fotent', i se censuren parcialment 'c***', 'ca****' i 'fill de p***'). Hi ha al·lusions negatives al consum d'alcohol. Hi ha situacions ocasionals de por i angoixa d'afectació mitjana quan es fan referències no explícites a la violència de gènere."
   },
   {
+    "titol": "APM? 08/10/2023",
+    "codi": "389423843958345",
+    "edat": "10",
+    "raons": "Continguts sexuals ocasionals d'explicitació mitjana<br>Llenguatge groller freqüent d'intensitat baixa"
+  },
+  {
     "titol": "Artús i els vailets de la Taula Rodona",
     "codi": "artus-vailets-taula-rodona",
     "edat": "7",
@@ -815,6 +821,12 @@
   {
     "titol": "Beta 4x03 - Betes del passat",
     "codi": "6242365",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu"
+  },
+  {
+    "titol": "Beta 4x04 - Omega",
+    "codi": "6243154",
     "edat": "0",
     "raons": "Por i angoixa ocasional d'afectació lleu"
   },
