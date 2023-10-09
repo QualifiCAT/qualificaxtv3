@@ -1572,6 +1572,13 @@
     "mesinfo": "<b>Por i angoixa</b><br>Hi ha situacions dramàtiques freqüents en relació amb un accident que incapacita un noi per ballar tota la seva vida, la desaparició d'un objecte i discussions entre companys.<br><br><b>Llenguatge groller</b><br>Es diu 'estúpid', 'ets l'hòstia', 'collons', 'cagat' i 'no fotis' un cop cadascun.<br><br><b>Conductes i valors incívics</b><br>Una noia actua amb malícia pel seu compte per intentar sabotejar els seus companys."
   },
   {
+    "titol": "Busca'm a París 2x18",
+    "codi": "6230955",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "<b>Por i angoixa</b><br>Hi ha situacions dramàtiques en forma de discussions entre companys i sobre si la protagonista podrà tornar amb el seu xicot o no. Es fan al·lusions a la mort en un context distès.<br><br><b>Llenguatge groller</b><br>Es diu 'cagada', 'estúpida' i 'fotimer'.<br><br><b>Conductes i valors incívics</b><br>Un noi s'aprofita d'una noia refiant-se que ella farà tota la feina del treball en grup, cosa que no acaba passant. Una noia menteix a un company."
+  },
+  {
     "titol": "Buscant la màgica Doremi",
     "codi": "6193457",
     "edat": "13",
@@ -1579,7 +1586,7 @@
     "comp": "🇪🇸 A 🇬🇧 PG",
     "peli": true,
     "x3": true,
-    "raons": "Consum de drogues lícites (alcohol) presentat de forma neutra"
+    "raons": "Abús de drogues lícites (alcohol) presentat de forma neutra"
   },
   {
     "titol": "Caigut del cel",
@@ -2622,6 +2629,13 @@
     "mesinfo": "<b>Drogues</b><br>Es diu que un ritual d'esmorzar que tenen uns homes inclou la 'cervesa de la victòria', per beure-la abans de treballar. Veiem tots ells bevent-ne una (amb la marca expressament visible). Ofereixen vi al protagonista, que se'l beu per alleugerir la sensació de picant del bitxo, i fa bromes sobre la seva graduació.<br><br><b>Llenguatge groller</b><br>Hi ha llenguatge groller reiterat, ja que el presentador fa servir expressions com 'hòstia' i 'fotre', encara que mai de manera ofensiva; de manera ocasional també es diuen 'ni puta idea', 'cabrón', 'merda' i 'el puta'.<br><br>Hi ha situacions ocasionals de por o angoixa moderada, quan un home relata que va patir un intent de suïcidi, que va estar vuit mesos en hospitals i que va entrar en depressió; diu que el fet de trobar gent amable al poble que li donés feina l'ha ajudat a tirar endavant. Hi ha bromes sexuals ocasionals d'explicitació baixa: gent gran diu que 'de sexe no n'hi ha', que fan l'amor sense fer sexe, i que 'la líbido no sé on ha anat'; es fan insinuacions sobre què vol dir 'cuca', d'obrir 'en canal' i de repetir 'patapam' mentre es fan moviments de maluc bruscos. Hi ha violència irreal, no explícita, d'intensitat molt lleu quan, en un dels seus monòlegs, el presentador ironitza amb utilitzar una desbrossadora per tallar-li la barba i pegar-lo."
   },
   {
+    "titol": "El foraster - El Serrallo",
+    "codi": "6176222",
+    "edat": "10",
+    "raons": "Continguts sexuals ocasionals d'explicitació mitjana<br>Consum de drogues lícites (alcohol), presentat de manera neutra<br>Llenguatge groller reiterat d'intensitat baixa",
+    "mesinfo": "<b>Sexe</b><br>En un monòleg, el presentador dona a entendre que les expressions 'm'espitges' i 'em fas córrer' tenen un sentit sexual.<br><br><b>Drogues</b><br>Es fan bromes sobre el fet que un home s'estigui al bar bebent cervesa mentre els seus companys treballen. En una ocasió, el presentador s'uneix a ell i beu cervesa també.<br><br><b>Llenguatge groller</b><br>Es fan servir constantment les expressions 'hòstia', 'cagueta', 'merda', 'fotre' i 'cabró', entre d'altres, encara que mai de manera ofensiva.<br><br>Hi ha situacions ocasionals de por o angoixa lleu. Es fan bromes sobre l'alçada del president de la Generalitat i sobre la llengua coreana."
+  },
+  {
     "titol": "El foraster 9x01 - Camprodon",
     "codi": "6239217",
     "edat": "10",
@@ -3045,6 +3059,21 @@
     "peli": true,
     "x3": true,
     "raons": "Violència freqüent, irreal, molt explícita, d'intensitat greu, legitimada<br>Por i angoixa freqüent d'afectació alta"
+  },
+  {
+    "titol": "Els hereus de la terra",
+    "codi": "els-hereus-de-la-terra",
+    "edat": "18",
+    "orig": "16",
+    "comp": "🇺🇲 TV-MA 🇩🇪 16 🇬🇧 18 🇦🇺 MA 15+ 🇳🇱 16 🇧🇷 16 🇰🇷 18 🇸🇬 M18",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Els hereus de la terra 1x06 - Beatriu",
+    "codi": "6242598",
+    "edat": "13",
+    "raons": "Violència freqüent, versemblant, explícita, d'intensitat greu, legitimada<br>Por i angoixa freqüent d'afectació alta"
   },
   {
     "titol": "Els investigadors i el tresor de les profunditats marines",
