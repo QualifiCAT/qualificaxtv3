@@ -1922,6 +1922,15 @@
     "mesinfo": "<b>Drogues</b><br>Un home pregunta si amb 16 anys és normal beure cafè, i li responen que 'amb 16 anys (els joves) ja es fan tequiles'.<br><br><b>Llenguatge groller</b><br>Es fan servir expressions com 'hòstia', 'merda', 'collona', 'puto' i 'puta merda'.<br><br>Algunes persones fan comentaris insensibles; en un d'ells, el protagonista diu que la manera de vestir de la seva filla es deu al fet que està pensant a 'llançar-se d'un pont', i ella respon: 'sort que no estic pensant en suïcidar-me, perquè quin poc tacte per a tocar el tema!'. Es mostra una retrospectiva on la dona del protagonista cau desmaiada a la cuina de casa."
   },
   {
+    "titol": "Desxifrant l'Enigma",
+    "codi": "6242377",
+    "edat": "10",
+    "comp": "🇪🇸 7 🇺🇲 PG-13 🇩🇪 12 🇬🇧 12 🇦🇺 M 🇳🇱 12 🇫🇮 12 🇧🇷 12 🇫🇷 TP 🇰🇷 15 🇸🇬 NC16 🇵🇹 M/12",
+    "peli": true,
+    "tv3": true,
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada<br>Por i angoixa freqüent d'afectació mitjana<br>Consum de drogues lícites (tabac, alcohol), presentat de manera neutra"
+  },
+  {
     "titol": "Detectiu Conan: Black iron submarine",
     "codi": "2343243243242342344325",
     "edat": "13",
@@ -9612,7 +9621,7 @@
   {
     "titol": "TardeAR",
     "codi": "tardear",
-    "edat": "10",
+    "edat": "13",
     "comp": "🇪🇸 16",
     "serie": true,
     "telecinco": true,
