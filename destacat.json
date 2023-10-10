@@ -1,5 +1,15 @@
 [
   {
+    "titol": "Nits Sense ficció<br><small>Generació Porno: La mala educació</small>",
+    "codi": "nits sense ficció",
+    "edat": "13",
+    "sexe": true,
+    "llenguatge": true,
+    "orig": "7",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Els hereus de la terra<br><small>Beatriu</small>",
     "codi": "els hereus de la terra",
     "edat": "13",
@@ -49,14 +59,5 @@
     "orig": "10",
     "serie": true,
     "tv3": true
-  },
-  {
-    "titol": "Beta<br><small>Omega</small>",
-    "codi": "beta",
-    "edat": "0",
-    "por": true,
-    "orig": "ERI",
-    "serie": true,
-    "x3": true
   }
 ]
