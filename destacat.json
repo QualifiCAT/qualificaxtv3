@@ -1,5 +1,26 @@
 [
   {
+    "titol": "Els hereus de la terra<br><small>Beatriu</small>",
+    "codi": "els hereus de la terra",
+    "edat": "13",
+    "violencia": true,
+    "por": true,
+    "orig": "16",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Desxifrant l'Enigma",
+    "codi": "desxifrant l'enigma",
+    "edat": "10",
+    "violencia": true,
+    "por": true,
+    "drogues": true,
+    "orig": "7",
+    "peli": true,
+    "tv3": true
+  },
+  {
     "titol": "Git Gud<br><small>Capítol 6</small>",
     "codi": "git gud",
     "edat": "0",
@@ -35,23 +56,6 @@
     "edat": "0",
     "por": true,
     "orig": "ERI",
-    "serie": true,
-    "x3": true
-  },
-  {
-    "titol": "Manduka Family<br><small>Croquetes</small>",
-    "codi": "manduka family",
-    "edat": "0",
-    "orig": "TP",
-    "serie": true,
-    "x3": true
-  },
-  {
-    "titol": "El món genial del Tom Gates<br><small>Rentem el cotxe</small>",
-    "codi": "el món genial del tom gates",
-    "edat": "7",
-    "incivisme": true,
-    "orig": "TP",
     "serie": true,
     "x3": true
   }
