@@ -1,5 +1,14 @@
 [
   {
+    "titol": "Col·lapse<br><small>Samantha Fox</small>",
+    "codi": "col·lapse",
+    "edat": "13",
+    "discriminacio": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Nits Sense ficció<br><small>Generació Porno: La mala educació</small>",
     "codi": "nits sense ficció",
     "edat": "13",
@@ -47,16 +56,6 @@
     "por": true,
     "discriminacio": true,
     "orig": "TP",
-    "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "APM?<br><small>08/10/2023</small>",
-    "codi": "apm",
-    "edat": "10",
-    "sexe": true,
-    "llenguatge": true,
-    "orig": "10",
     "serie": true,
     "tv3": true
   }
