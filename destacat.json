@@ -1,5 +1,44 @@
 [
   {
+    "titol": "El zoo d'en Pitus",
+    "codi": "El zoo d'en Pitus",
+    "edat": "10",
+    "drogues": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "peli": true,
+    "x3": true
+  },
+  {
+    "titol": "Mortadel·lo i Filemó contra en Jimmy el Catxondo",
+    "codi": "Mortadel·lo i Filemó contra en Jimmy el Catxondo",
+    "edat": "13",
+    "discriminacio": true,
+    "orig": "7",
+    "peli": true,
+    "x3": true
+  },
+  {
+    "titol": "Això no és una cançó<br><small>Respect</small>",
+    "codi": "això no és una cançó",
+    "edat": "7",
+    "discriminacio": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Polònia<br><small>12/10/2023</small>",
+    "codi": "polònia",
+    "edat": "13",
+    "drogues": true,
+    "discriminacio": true,
+    "llenguatge": true,
+    "orig": "7",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "La Puntual<br><small>Tot comença</small>",
     "codi": "la puntual",
     "edat": "10",
@@ -16,46 +55,5 @@
     "orig": "TP",
     "serie": true,
     "tv3": true
-  },
-  {
-    "titol": "Nits Sense ficció<br><small>Generació Porno: La mala educació</small>",
-    "codi": "nits sense ficció",
-    "edat": "13",
-    "sexe": true,
-    "llenguatge": true,
-    "orig": "7",
-    "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "Els hereus de la terra<br><small>Beatriu</small>",
-    "codi": "els hereus de la terra",
-    "edat": "13",
-    "violencia": true,
-    "por": true,
-    "orig": "16",
-    "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "Desxifrant l'Enigma",
-    "codi": "desxifrant l'enigma",
-    "edat": "10",
-    "violencia": true,
-    "por": true,
-    "drogues": true,
-    "orig": "7",
-    "peli": true,
-    "tv3": true
-  },
-  {
-    "titol": "Git Gud<br><small>Capítol 6</small>",
-    "codi": "git gud",
-    "edat": "0",
-    "violencia": true,
-    "por": true,
-    "orig": "TP",
-    "serie": true,
-    "x3": true
   }
 ]
