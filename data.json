@@ -846,6 +846,12 @@
     "raons": "Por i angoixa ocasional d'afectació lleu"
   },
   {
+    "titol": "Beta 4x05 - Bessones",
+    "codi": "6244568",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu"
+  },
+  {
     "titol": "Black Clover",
     "codi": "black-clover",
     "edat": "13",
@@ -3100,6 +3106,39 @@
     "peli": true,
     "x3": true,
     "raons": "Violència freqüent, irreal, molt explícita, d'intensitat greu, legitimada<br>Por i angoixa freqüent d'afectació alta"
+  },
+  {
+    "titol": "Els hereus de la nit",
+    "codi": "hereus-nit",
+    "edat": "10",
+    "orig": "10",
+    "comp": "🇩🇪 12 🇳🇱 9 🇧🇷 12 🇳🇴 9 🇵🇹 12AP",
+    "serie": true,
+    "x3": true
+  },
+  {
+    "titol": "Els hereus de la nit 1x01 - L'Espurna",
+    "codi": "6243611",
+    "edat": "10",
+    "raons": "Por i angoixa freqüent d'afectació mitjana"
+  },
+  {
+    "titol": "Els hereus de la nit 1x02 - L'acadèmia de vampirs",
+    "codi": "6243610",
+    "edat": "10",
+    "raons": "Por i angoixa freqüent d'afectació mitjana"
+  },
+  {
+    "titol": "Els hereus de la nit 1x03 - Dessantificació",
+    "codi": "6243612",
+    "edat": "10",
+    "raons": "Por i angoixa freqüent d'afectació mitjana"
+  },
+  {
+    "titol": "Els hereus de la nit 1x04 - Hostes inesperats",
+    "codi": "6243615",
+    "edat": "10",
+    "raons": "Por i angoixa freqüent d'afectació mitjana<br>Conductes i valors incívics presentats de manera neutra"
   },
   {
     "titol": "Els hereus de la terra",
@@ -7841,6 +7880,11 @@
     "codi": "6242777",
     "edat": "0",
     "mesinfo": "A vegades, es fan comentaris que destaquen la perillositat d'utilitzar certs utensilis, com quan una persona es col·loca un ganivet a la boca. Els concursants xoquen entre ells i una dona diu 'que por poco nos matamos'."
+  },
+  {
+    "titol": "Manduka Family 1x03 - Llibrets de llom",
+    "codi": "6244018",
+    "edat": "0"
   },
   {
     "titol": "Marcus Level",
