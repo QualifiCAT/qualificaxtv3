@@ -3829,6 +3829,13 @@
     "mesinfo": "<b>Violència</b><br>En imatges d'un videojoc, un personatge ataca un monstre llençant-li bombes.<br><br><b>Por i angoixa</b><br>En unes imatges de videojoc conseqüència d'un error de programació, una persona adopta una cara terrorífica. En un altre videojoc, un llamp impacta contra un personatge i cau a terra. Es fan al·lusions a la mort.<br><br>Qualificació dels videojocs mencionats:<br>PEGI 3: 'Euro Truck Simulator', 'FIFA 21', 'Skater XL', 'Tomodachi Life', 'Just Dance 4'.<br>PEGI 7: 'Minecraft' (original), 'I Am Bread'.<br>PEGI 12: 'Police Simulator: Patrol Officers', 'Sea of Thieves', 'It Takes Two', 'Forza Horizon' (original; la resta d'entregues són PEGI 3), 'Fortnite', 'The Legend of Zelda: Tears of the Kingdom', 'Steep', 'War Thunder', 'Stray', 'Star Wars Jedi: Survivor', 'The Longing'.<br>PEGI 16: 'Grand Theft Auto' (original; la majoria d'entregues són PEGI 18).<br>PEGI ! (supervisió parental recomanada): 'Roblox'."
   },
   {
+    "titol": "Git Gud 1x07",
+    "codi": "6244569",
+    "edat": "7",
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat lleu, no legitimada<br>Por i angoixa freqüent d'afectació lleu",
+    "mesinfo": "<b>Violència</b><br>En imatges d'un videojoc, un personatge rep un tret que deixa tacada de negre una paret, tot i que desapareix al moment.<br><br><b>Por i angoixa</b><br>Hi ha freqüents imatges reals i no reals (de videojocs) que mostren caigudes o accidents, en alguns cops impactant amb el cap contra el terra o contra mobiliari urbà, en contextos còmics. També es mostren conseqüències pertorbadores d'errors de programació, com quan el coll d'un personatge adopta posicions estranyes o es queda encallat a terra, o es mostren cares terrorífiques. Es fan al·lusions a la mort.<br><br>Qualificació dels videojocs mencionats:<br>PEGI 3: 'SnowRunner', 'Angry Birds', 'Jump King', 'FIFA 22', 'NBA 2K22', 'FIFA 20', 'PowerWash Simulator'.<br>PEGI 7: 'Golf With Your Friends', 'Pokémon GO', 'Rogue Legacy 2'.<br>PEGI 12: 'Hogwarts Legacy', 'Star Wars Jedi: Survivor', 'Need for Speed Undercover' (algunes plataformes), 'The Legend of Zelda: Breath of the Wild', 'Fortnite', 'Commandos' (algunes entregues i remakes són PEGI 16), 'League of Legends', 'DEEEER Simulator: Your Average Everyday Deer Game', 'Goat Simulator', 'Goat Simulator 3', 'The Legend of Zelda: Tears of the Kingdom', 'Poppy Playtime Chapter 1', 'Rogue Legacy'.<br>PEGI 16: 'Star Wars The Force Unleashed' (algunes plataformes), 'Grand Theft Auto' (original; la majoria d'entregues són PEGI 18), 'Uncharted 4: A Thief's End', 'Skate 3', 'Stranded Deep'."
+  },
+  {
     "titol": "Gos pudent",
     "codi": "gos-pudent",
     "edat": "0",
