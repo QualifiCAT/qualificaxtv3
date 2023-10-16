@@ -1,5 +1,15 @@
 [
   {
+    "titol": "Git Gud<br><small>Capítol 7</small>",
+    "codi": "Git Gud",
+    "edat": "7",
+    "violencia": true,
+    "por": true,
+    "orig": "TP",
+    "serie": true,
+    "x3": true
+  },
+  {
     "titol": "Els hereus de la nit<br><small>Hostes inesperats</small>",
     "codi": "Els hereus de la nit",
     "edat": "10",
@@ -44,14 +54,5 @@
     "orig": "7",
     "peli": true,
     "x3": true
-  },
-  {
-    "titol": "Això no és una cançó<br><small>Respect</small>",
-    "codi": "això no és una cançó",
-    "edat": "7",
-    "discriminacio": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
   }
 ]
