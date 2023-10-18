@@ -1,5 +1,14 @@
 [
   {
+    "titol": "La Puntual<br><small>Tot acaba</small>",
+    "codi": "La Puntual",
+    "edat": "10",
+    "drogues": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Els Dalton<br><small>Les vacances dels Dalton</small>",
     "codi": "Els Dalton",
     "edat": "7",
@@ -44,16 +53,6 @@
     "edat": "0",
     "orig": "TP",
     "serie": true,
-    "x3": true
-  },
-  {
-    "titol": "El zoo d'en Pitus",
-    "codi": "El zoo",
-    "edat": "10",
-    "drogues": true,
-    "llenguatge": true,
-    "orig": "TP",
-    "peli": true,
     "x3": true
   }
 ]
