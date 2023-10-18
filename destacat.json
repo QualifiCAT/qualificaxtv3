@@ -1,5 +1,15 @@
 [
   {
+    "titol": "Els Dalton<br><small>Les vacances dels Dalton</small>",
+    "codi": "Els Dalton",
+    "edat": "7",
+    "violencia": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "x3": true
+  },
+  {
     "titol": "Git Gud<br><small>Capítol 7</small>",
     "codi": "Git Gud",
     "edat": "7",
@@ -43,15 +53,6 @@
     "drogues": true,
     "llenguatge": true,
     "orig": "TP",
-    "peli": true,
-    "x3": true
-  },
-  {
-    "titol": "Mortadel·lo i Filemó contra en Jimmy el Catxondo",
-    "codi": "Mortadel·lo i Filemó contra en Jimmy el Catxondo",
-    "edat": "13",
-    "discriminacio": true,
-    "orig": "7",
     "peli": true,
     "x3": true
   }
