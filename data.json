@@ -203,6 +203,13 @@
     "mesinfo": "<b>Discriminació, racisme i xenofòbia</b><br>Es fan descripcions no explícites i representacions de situacions racistes i masclistes patides per artistes del segle XX. S'especifica que, en una òpera, una dona que reivindicava l'amor lliure va ser assassinada a mans de la seva parella, descrivint-ho com un cas de 'la vaig matar perquè era meva'.<br><br>Hi ha situacions de por i angoixa ocasional lleu (vegeu 'Discriminació, racisme i xenofòbia'). Hi ha un sol ús de llenguatge groller ('fotent-li canya')."
   },
   {
+    "titol": "Això no és una cançó 1x06 - Edge of Glory",
+    "codi": "6241959",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Por i angoixa</b><br>Es fan freqüents referències a la mort en un context familiar. Per exemple, una alumna comenta que la seva àvia va morir a la residència durant la pandèmia, i que no va poder-se acomiadar d'ella en persona.<br><br><b>Llenguatge groller</b><br>Es diu 'merda' una vegada, i també es fa ús de l'expressió 'tontos', tot i que sense dirigir-se a ningú."
+  },
+  {
     "titol": "Alcarràs",
     "codi": "32555555555",
     "edat": "13",
@@ -8819,6 +8826,13 @@
     "edat": "13",
     "raons": "Consum de drogues lícites i il·lícites, presentat de manera neutra en un context humorístic<br>Comentaris discriminatoris presentats de manera neutra<br>Llenguatge groller freqüent d'intensitat alta",
     "mesinfo": "<b>Drogues</b><br>En una escena humorística, un home consumeix bolets al·lucinògens per error i comença a al·lucinar i parlar lentament, i una altra persona se li ho recrimina dient que els tenia reservats per dinar. En una altra escena, un grup d'amics queden i parlen de quedar per consumir alcohol en un bar.<br><br><b>Discriminació, racisme i xenofòbia</b><br>En una escena, un home expressa comentaris manifestament masclistes, com dir que les dones pertanyen a la cuina o necessiten un home per naturalesa. Tot i tractar-se d'una escena humorística, el protagonista d'aquests comportaments, i un aliè qui en un principi n'era contrari, finalment acaben obtenint una sanció positiva. En una segona escena, uns personatges també manifesten comentaris masclistes vers una política, que són sancionats implícitament pel relat.<br><br><b>Llenguatge groller</b><br>Es fan servir expressions com 'puta', 'de collons', 'hasta los huevos', 'hòstia' o 'a la merda', normalment en contextos agressius.<br><br>Hi ha violència ocasional, versemblant, no explícita i lleu, i por i angoixa ocasional mitjana, quan es mostren imatges de les agressions policials de l'1 d'octubre de 2017, quan un home arrenca el braç a un home sense voler de manera clarament irreal, i quan una persona agredeix una altra amb gas pebre i li deixa els ulls vermells."
+  },
+  {
+    "titol": "Polònia 19/10/2023",
+    "codi": "6246011",
+    "edat": "13",
+    "raons": "Llenguatge groller reiterat d'intensitat alta",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es fan servir repetidament expressions com 'puta' ('ni puta idea', 'que et fotis la puta gofra', 'hòstia puta'), 'collons', 'fotre', 'hòstia', 'qué coño' i 'merda', sovint en contextos agressius.<br><br>Es fan referències neutres al consum de drogues, i es mostra ocasionalment consum de tabac i alcohol. Es fan comentaris discriminatoris en un context humorístic presentats de manera negativa. Hi ha situacions ocasionals de por i angoixa lleu en una escena en què un monstre és assetjat i perd els braços. Hi ha violència ocasional, irreal, no explícita, d'intensitat molt lleu i no legitimada, quan un extraterrestre desintegra una persona disparant-la amb el dit."
   },
   {
     "titol": "Presto! L'escola de màgia",
