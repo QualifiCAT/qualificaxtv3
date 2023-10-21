@@ -3095,6 +3095,13 @@
     "mesinfo": "<b>Violència</b><br>Els personatges s'agredeixen sovint, s'amenacen de pegar-se o tenen accidents de manera còmica (per exemple, es donen cops de puny o bufetades, deixen caure una maleta a sobre del peu, o peguen el cap d'algú amb una sabata gegant).<br><br><b>Llenguatge groller</b><br>Els personatges s'insulten posant en entredit la seva intel·ligència utilitzant expressions lleus com 'burro', 'boig', 'curt de gambals' o 'beneit'.<br><br>Hi ha una situació angoixant lleu quan els protagonistes s'enfilen a una torre i tenen por de caure. Se sexualitza lleument la presentació d'un personatge masculí disfressat de dona, encara que té una intencionalitat satírica. S'obre el que sembla ser una ampolla de xampany, però no hi ha imatges de consum."
   },
   {
+    "titol": "Els Dalton - Fort Dalton",
+    "codi": "5635431",
+    "edat": "7",
+    "raons": "Violència reiterada, irreal, explícita, d'intensitat molt lleu, legitimada<br>Comportaments discriminatoris presentats de manera negativa<br>Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Violència</b><br>Els personatges s'agredeixen o tenen accidents amb una pretesa intencionalitat còmica i de manera pràcticament ininterrompuda durant tot l'episodi. Constantment, un personatge negatiu intenta seduir una dona, fins al punt que li fa un petó a la boca sense consentiment, i ella sempre respon agredint-lo. Es mostren i es fan servir armes de diferents tipus, incloent-hi explosius, canons, roques o sabres, també amb conseqüències irreals.<br><br><b>Discriminació, racisme i xenofòbia</b><br>En una ocasió, un personatge negatiu es burla de l'alçada d'un dels protagonistes.<br><br><b>Llenguatge groller</b><br>Insults com 'burro', 'gamarús' o 'mira que ets ruc'."
+  },
+  {
     "titol": "Els extraordinaris",
     "codi": "els-extraordinaris",
     "edat": "0",
@@ -7913,6 +7920,12 @@
     "titol": "Manduka Family 1x03 - Llibrets de llom",
     "codi": "6244018",
     "edat": "0"
+  },
+  {
+    "titol": "Manduka Family 1x04 - Torradetes de Santa Teresa",
+    "codi": "6245126",
+    "edat": "0",
+    "mesinfo": "Es fa una broma on es diu que un tros de pa dur pot servir per estabornir a algú com si fos un garrot."
   },
   {
     "titol": "Marcus Level",
