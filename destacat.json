@@ -1,5 +1,24 @@
 [
   {
+    "titol": "Els Dalton<br><small>Fort Dalton</small>",
+    "codi": "Els Dalton",
+    "edat": "7",
+    "violencia": true,
+    "discriminacio": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "x3": true
+  },
+  {
+    "titol": "Manduka Family<br><small>Torradetes de Santa Teresa</small>",
+    "codi": "Manduka Family",
+    "edat": "0",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
+  },
+  {
     "titol": "Això no és una cançó<br><small>Edge of Glory</small>",
     "codi": "Això no és una cançó",
     "edat": "7",
@@ -28,32 +47,12 @@
     "tv3": true
   },
   {
-    "titol": "Els Dalton<br><small>Les vacances dels Dalton</small>",
-    "codi": "Els Dalton",
-    "edat": "7",
-    "violencia": true,
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "x3": true
-  },
-  {
     "titol": "Git Gud<br><small>Capítol 7</small>",
     "codi": "Git Gud",
     "edat": "7",
     "violencia": true,
     "por": true,
     "orig": "TP",
-    "serie": true,
-    "x3": true
-  },
-  {
-    "titol": "Els hereus de la nit<br><small>Hostes inesperats</small>",
-    "codi": "Els hereus de la nit",
-    "edat": "10",
-    "por": true,
-    "incivisme": true,
-    "orig": "10",
     "serie": true,
     "x3": true
   }
