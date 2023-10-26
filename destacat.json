@@ -1,5 +1,15 @@
 [
   {
+    "titol": "La Puntual<br><small>Mamma mia</small>",
+    "codi": "La Puntual",
+    "edat": "7",
+    "por": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Git Gud<br><small>Capítol 8</small>",
     "codi": "Git Gud",
     "edat": "7",
@@ -48,15 +58,5 @@
     "orig": "TP",
     "serie": true,
     "x3": true
-  },
-  {
-    "titol": "Això no és una cançó<br><small>Edge of Glory</small>",
-    "codi": "Això no és una cançó",
-    "edat": "7",
-    "por": true,
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
   }
 ]
