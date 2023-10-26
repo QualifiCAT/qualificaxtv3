@@ -8874,6 +8874,13 @@
     "mesinfo": "<b>Llenguatge groller</b><br>Es fan servir repetidament expressions com 'puta' ('ni puta idea', 'que et fotis la puta gofra', 'hòstia puta'), 'collons', 'fotre', 'hòstia', 'qué coño' i 'merda', sovint en contextos agressius.<br><br>Es fan referències neutres al consum de drogues, i es mostra ocasionalment consum de tabac i alcohol. Es fan comentaris discriminatoris en un context humorístic presentats de manera negativa. Hi ha situacions ocasionals de por i angoixa lleu en una escena en què un monstre és assetjat i perd els braços. Hi ha violència ocasional, irreal, no explícita, d'intensitat molt lleu i no legitimada, quan un extraterrestre desintegra una persona disparant-la amb el dit."
   },
   {
+    "titol": "Polònia 26/10/2023",
+    "codi": "6247453",
+    "edat": "10",
+    "raons": "Llenguatge groller ocasional d'intensitat alta",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es fan servir les expressions 'qué coño', 'hòstia puta', 'puteamos' o 'de los cojones' un cop cadascuna. També es fan servir expressions lleus com 'hòstia' i 'fotre' ocasionalment.<br><br>Hi ha violència ocasional, irreal, no explícita, lleu i no legitimada. Hi ha referències al consum de drogues lícites, es fan comentaris discriminatoris i es presenten conductes incíviques, tot plegat presentat de manera negativa en un context irreal i satíric. Hi ha situacions ocasionals de por i angoixa lleu en un fragment de l'episodi anterior."
+  },
+  {
     "titol": "Presto! L'escola de màgia",
     "codi": "presto-escola-magia",
     "edat": "7",
@@ -10123,6 +10130,21 @@
     "comp": "🇪🇸 12 (TV), 7 (VOD) 🇺🇲 TV-Y7-FV 🇩🇪 12 🇬🇧 PG 🇦🇺 PG 🇳🇱 6 🇧🇷 10",
     "serie": true,
     "x3": true
+  },
+  {
+    "titol": "Una altra història",
+    "codi": "una-altra-historia",
+    "edat": "7",
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Una altra història 1x01 - Monestir de Santes Creus a Tarragona",
+    "codi": "6245535",
+    "edat": "7",
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada<br>Por i angoixa ocasional d'afectació mitjana<br>Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Violència</b><br>Es mostren ocasionalment imatges d'arxiu de fogueres i batalles no explícites de la guerra civil.<br><br><b>Por i angoixa</b><br>Es fan referències no detallades a la guerra civil i les seves conseqüències, com que alguns combatents van rebre impactes de bala que van quedar-se en el seu cos durant anys sense adonar-se'n i els va provocar la mort. També, quan s'explica la història d'una llevadora, es diu que alguns nens van néixer morts i van haver de ser reanimats.<br><br><b>Llenguatge groller</b><br>Es fan servir les expressions 'hòstia', 'hosti' i 'fotre' de manera ocasional.<br><br>Es fan referències neutres a la producció de vi."
   },
   {
     "titol": "Una de les nostres",
