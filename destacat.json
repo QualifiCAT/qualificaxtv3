@@ -1,5 +1,14 @@
 [
   {
+    "titol": "Manduka Family<br><small>Panellets</small>",
+    "codi": "Manduka Family",
+    "edat": "0",
+    "por": true,
+    "orig": "TP",
+    "serie": true,
+    "x3": true
+  },
+  {
     "titol": "Una altra història<br><small>Monestir de Santes Creus a Tarragona</small>",
     "codi": "Una altra història",
     "edat": "7",
@@ -49,15 +58,5 @@
     "orig": "10",
     "serie": true,
     "tv3": true
-  },
-  {
-    "titol": "Beta<br><small>Punt de no retorn</small>",
-    "codi": "Beta",
-    "edat": "7",
-    "llenguatge": true,
-    "incivisme": true,
-    "orig": "ERI",
-    "serie": true,
-    "x3": true
   }
 ]
