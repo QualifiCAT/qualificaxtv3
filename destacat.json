@@ -1,5 +1,25 @@
 [
   {
+    "titol": "APM?<br><small>29/10/2023</small>",
+    "codi": "APM",
+    "edat": "10",
+    "llenguatge": true,
+    "orig": "10",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Projecte Beta<br><small>El floppy de la Floppy</small>",
+    "codi": "Beta",
+    "edat": "7",
+    "violencia": true,
+    "por": true,
+    "incivisme": true,
+    "orig": "ERI",
+    "serie": true,
+    "x3": true
+  },
+  {
     "titol": "Manduka Family<br><small>Panellets</small>",
     "codi": "Manduka Family",
     "edat": "0",
@@ -35,27 +55,6 @@
     "por": true,
     "llenguatge": true,
     "orig": "TP",
-    "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "Git Gud<br><small>Capítol 8</small>",
-    "codi": "Git Gud",
-    "edat": "7",
-    "violencia": true,
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "x3": true
-  },
-  {
-    "titol": "APM?<br><small>22/10/2023</small>",
-    "codi": "APM",
-    "edat": "10",
-    "sexe": true,
-    "drogues": true,
-    "llenguatge": true,
-    "orig": "10",
     "serie": true,
     "tv3": true
   }
