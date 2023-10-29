@@ -482,6 +482,12 @@
     "raons": "Continguts sexuals ocasionals d'explicitació mitjana<br>Al·lusions al consum de drogues lícites (tabac, alcohol) i il·lícites (cocaïna), presentades de manera neutra i negativa, respectivament<br>Llenguatge groller freqüent d'intensitat baixa"
   },
   {
+    "titol": "APM? 29/10/2023",
+    "codi": "43059430584358",
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa"
+  },
+  {
     "titol": "Artús i els vailets de la Taula Rodona",
     "codi": "artus-vailets-taula-rodona",
     "edat": "7",
@@ -632,243 +638,6 @@
     "comp": "🇦🇺 G",
     "serie": true,
     "x3": true
-  },
-  {
-    "titol": "Beta",
-    "codi": "beta",
-    "edat": "10",
-    "orig": "ERI",
-    "serie": true,
-    "x3": true
-  },
-  {
-    "titol": "Beta 1x01",
-    "codi": "6179627",
-    "edat": "0"
-  },
-  {
-    "titol": "Beta 1x05",
-    "codi": "6183080",
-    "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu"
-  },
-  {
-    "titol": "Beta 1x06",
-    "codi": "6185800",
-    "edat": "0",
-    "raons": "Por i angoixa ocasional d'afectació lleu"
-  },
-  {
-    "titol": "Beta 1x07",
-    "codi": "6186971",
-    "edat": "0",
-    "raons": "Por i angoixa ocasional d'afectació lleu"
-  },
-  {
-    "titol": "Beta 1x08",
-    "codi": "6188365",
-    "edat": "0",
-    "raons": "Por i angoixa ocasional d'afectació lleu"
-  },
-  {
-    "titol": "Beta 1x09",
-    "codi": "6189523",
-    "edat": "0",
-    "raons": "Por i angoixa ocasional d'afectació lleu"
-  },
-  {
-    "titol": "Beta 1x10",
-    "codi": "6190197",
-    "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu"
-  },
-  {
-    "titol": "Beta 1x11",
-    "codi": "6192126",
-    "edat": "0",
-    "raons": "Por i angoixa ocasional d'afectació lleu"
-  },
-  {
-    "titol": "Beta 1x12",
-    "codi": "6193442",
-    "edat": "0",
-    "raons": "Por i angoixa ocasional d'afectació lleu"
-  },
-  {
-    "titol": "Beta 1x13",
-    "codi": "6194894",
-    "edat": "0",
-    "raons": "Por i angoixa ocasional d'afectació lleu"
-  },
-  {
-    "titol": "Beta 2x01",
-    "codi": "6197636",
-    "edat": "0",
-    "raons": "Por i angoixa ocasional d'afectació lleu"
-  },
-  {
-    "titol": "Beta 2x02",
-    "codi": "6197395",
-    "edat": "0"
-  },
-  {
-    "titol": "Beta 2x03",
-    "codi": "6198308",
-    "edat": "0"
-  },
-  {
-    "titol": "Beta 2x04",
-    "codi": "6200222",
-    "edat": "7",
-    "raons": "Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics presentats de manera neutra"
-  },
-  {
-    "titol": "Beta 2x05",
-    "codi": "6201380",
-    "edat": "0",
-    "raons": "Por i angoixa ocasional d'afectació lleu"
-  },
-  {
-    "titol": "Beta 2x06",
-    "codi": "6202051",
-    "edat": "7",
-    "raons": "Conductes i valors incívics amb sanció neutra"
-  },
-  {
-    "titol": "Beta 2x07",
-    "codi": "6203625",
-    "edat": "0",
-    "raons": "Por i angoixa ocasional d'afectació lleu"
-  },
-  {
-    "titol": "Beta 2x08",
-    "codi": "6204730",
-    "edat": "7",
-    "raons": "Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció neutra"
-  },
-  {
-    "titol": "Beta 2x09",
-    "codi": "6206582",
-    "edat": "0",
-    "raons": "Por i angoixa ocasional d'afectació lleu"
-  },
-  {
-    "titol": "Beta 2x10",
-    "codi": "6208216",
-    "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
-  },
-  {
-    "titol": "Beta 2x11",
-    "codi": "6209832",
-    "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu"
-  },
-  {
-    "titol": "Beta 2x12",
-    "codi": "6211153",
-    "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu"
-  },
-  {
-    "titol": "Beta 3x01",
-    "codi": "6214777",
-    "edat": "0",
-    "raons": "Por i angoixa ocasional d'afectació lleu"
-  },
-  {
-    "titol": "Beta 3x02",
-    "codi": "6215867",
-    "edat": "7",
-    "raons": "Llenguatge groller ocasional d'intensitat baixa",
-    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'merda'.<br><br>Hi ha situacions susceptibles de provocar por o angoixa amb un grau d'afectació lleu."
-  },
-  {
-    "titol": "Beta 3x03",
-    "codi": "6217123",
-    "edat": "7",
-    "raons": "Conductes i valors incívics amb sanció negativa"
-  },
-  {
-    "titol": "Beta 3x04",
-    "codi": "6218584",
-    "edat": "7",
-    "raons": "Conductes i valors incívics amb sanció negativa"
-  },
-  {
-    "titol": "Beta 3x05",
-    "codi": "6219580",
-    "edat": "7",
-    "raons": "Llenguatge groller ocasional d'intensitat baixa"
-  },
-  {
-    "titol": "Beta 3x06",
-    "codi": "6221205",
-    "edat": "0",
-    "raons": "Por i angoixa ocasional d'afectació lleu"
-  },
-  {
-    "titol": "Beta 3x07",
-    "codi": "6222605",
-    "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
-  },
-  {
-    "titol": "Beta 3x08",
-    "codi": "6191710",
-    "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu"
-  },
-  {
-    "titol": "Beta 3x09",
-    "codi": "6224981",
-    "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu"
-  },
-  {
-    "titol": "Beta 3x10",
-    "codi": "6226312",
-    "edat": "10",
-    "raons": "Por i angoixa reiterada d'afectació lleu",
-    "mesinfo": "<b>Por i angoixa</b><br>Hi ha una escena prolongada, situada a les fosques i amb música de tensió constant, en què un ordinador malvat es presenta i s'encara als protagonistes, revelant-los el seu pla per dominar el món i que els ha estat enganyant fins ara. De manera aparent, electrocuta a un d'ells i posseeix a certes persones fent que els seus iris es tornin liles, inclòs un famós presentador de televisió, qui riu malèvolament mentre l'emissió 's'espatlla'. També hi ha escenes de malsons amb crits i moviments borrosos i inestables de la càmera. Tots els intents d'aturar-la són frustrats i la resolució del capítol no és positiva.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa ('merda')."
-  },
-  {
-    "titol": "Beta 4x01 - Col·leguis",
-    "codi": "6239765",
-    "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa",
-    "mesinfo": "<b>Por i angoixa</b><br>Es dona a entendre que un ordinador obliga els protagonistes a fer coses contra la seva voluntat, i els escridassa i fa que els llums s'apaguin i s'encenguin. Es repeteixen escenes d'anteriors episodis en què unes persones són posseïdes per un ordinador, tenen malsons o criden de pànic.<br><br><b>Llenguatge groller</b><br>Es diu 'l'heu cagat com mai'.<br><br><b>Conductes i valors incívics</b><br>En un context humorístic, els protagonistes maltracten un nadó que resulta ser de joguina: l'abandonen (se'l troben a la nevera), l'empastifen de talc o l'acaben desmuntant. El nadó fals es pixa a sobre dels nois mentre li canvien els bolquers. També en aquest context, un noi aboca salsa picant en un suc que una noia estava preparant, i hi fica el dit per tastar-lo."
-  },
-  {
-    "titol": "Beta 4x02 - Charlie",
-    "codi": "6241111",
-    "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu",
-    "mesinfo": "<b>Por i angoixa</b><br>Hi ha una sensació lleu de suspens quan es dona a entendre que una màquina obliga els protagonistes a fer coses contra la seva voluntat, o ha posseït a persones, incloent-hi a un presentador real de televisió."
-  },
-  {
-    "titol": "Beta 4x03 - Betes del passat",
-    "codi": "6242365",
-    "edat": "0",
-    "raons": "Por i angoixa ocasional d'afectació lleu"
-  },
-  {
-    "titol": "Beta 4x04 - Omega",
-    "codi": "6243154",
-    "edat": "0",
-    "raons": "Por i angoixa ocasional d'afectació lleu"
-  },
-  {
-    "titol": "Beta 4x05 - Bessones",
-    "codi": "6244568",
-    "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu"
-  },
-  {
-    "titol": "Beta 4x06 - Punt de no retorn",
-    "codi": "6245528",
-    "edat": "7",
-    "raons": "Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa"
   },
   {
     "titol": "Black Clover",
@@ -9005,6 +8774,250 @@
     "edat": "7",
     "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa freqüent d'afectació lleu",
     "mesinfo": "<b>Violència</b><br>Una noia fa caure un noi. Un noi superpoderós genera i llença boles d'energia amb els dits que desfan la matèria i fan caure edificis, i comença a generar una que pot arrassar l'univers. Amb un atac màgic, un malvat fa volar un noi, llençant-lo contra una torre, i fent-lo caure a terra.<br><br><b>Por i angoixa</b><br>L'episodi inclou escenes de significativa durada que poden provocar tensió. Si bé tenen una intensitat baixa, involucra els dos personatges principals, i un d'ells s'ha tornat dolent i vol fer mal a l'altre. L'episodi té una resolució positiva.<br><br>Hi ha insinuacions de caràcter molt lleu i innocent; una noia es cola a l'habitació d'un noi i li ensuma el coixí apassionadament."
+  },
+  {
+    "titol": "Projecte Beta",
+    "codi": "beta",
+    "edat": "10",
+    "orig": "ERI",
+    "serie": true,
+    "x3": true
+  },
+  {
+    "titol": "Projecte Beta 1x01",
+    "codi": "6179627",
+    "edat": "0"
+  },
+  {
+    "titol": "Projecte Beta 1x05",
+    "codi": "6183080",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu"
+  },
+  {
+    "titol": "Projecte Beta 1x06",
+    "codi": "6185800",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu"
+  },
+  {
+    "titol": "Projecte Beta 1x07",
+    "codi": "6186971",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu"
+  },
+  {
+    "titol": "Projecte Beta 1x08",
+    "codi": "6188365",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu"
+  },
+  {
+    "titol": "Projecte Beta 1x09",
+    "codi": "6189523",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu"
+  },
+  {
+    "titol": "Projecte Beta 1x10",
+    "codi": "6190197",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu"
+  },
+  {
+    "titol": "Projecte Beta 1x11",
+    "codi": "6192126",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu"
+  },
+  {
+    "titol": "Projecte Beta 1x12",
+    "codi": "6193442",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu"
+  },
+  {
+    "titol": "Projecte Beta 1x13",
+    "codi": "6194894",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu"
+  },
+  {
+    "titol": "Projecte Beta 2x01",
+    "codi": "6197636",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu"
+  },
+  {
+    "titol": "Projecte Beta 2x02",
+    "codi": "6197395",
+    "edat": "0"
+  },
+  {
+    "titol": "Projecte Beta 2x03",
+    "codi": "6198308",
+    "edat": "0"
+  },
+  {
+    "titol": "Projecte Beta 2x04",
+    "codi": "6200222",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics presentats de manera neutra"
+  },
+  {
+    "titol": "Projecte Beta 2x05",
+    "codi": "6201380",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu"
+  },
+  {
+    "titol": "Projecte Beta 2x06",
+    "codi": "6202051",
+    "edat": "7",
+    "raons": "Conductes i valors incívics amb sanció neutra"
+  },
+  {
+    "titol": "Projecte Beta 2x07",
+    "codi": "6203625",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu"
+  },
+  {
+    "titol": "Projecte Beta 2x08",
+    "codi": "6204730",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció neutra"
+  },
+  {
+    "titol": "Projecte Beta 2x09",
+    "codi": "6206582",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu"
+  },
+  {
+    "titol": "Projecte Beta 2x10",
+    "codi": "6208216",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "Projecte Beta 2x11",
+    "codi": "6209832",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu"
+  },
+  {
+    "titol": "Projecte Beta 2x12",
+    "codi": "6211153",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu"
+  },
+  {
+    "titol": "Projecte Beta 3x01",
+    "codi": "6214777",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu"
+  },
+  {
+    "titol": "Projecte Beta 3x02",
+    "codi": "6215867",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'merda'.<br><br>Hi ha situacions susceptibles de provocar por o angoixa amb un grau d'afectació lleu."
+  },
+  {
+    "titol": "Projecte Beta 3x03",
+    "codi": "6217123",
+    "edat": "7",
+    "raons": "Conductes i valors incívics amb sanció negativa"
+  },
+  {
+    "titol": "Projecte Beta 3x04",
+    "codi": "6218584",
+    "edat": "7",
+    "raons": "Conductes i valors incívics amb sanció negativa"
+  },
+  {
+    "titol": "Projecte Beta 3x05",
+    "codi": "6219580",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "Projecte Beta 3x06",
+    "codi": "6221205",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu"
+  },
+  {
+    "titol": "Projecte Beta 3x07",
+    "codi": "6222605",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "Projecte Beta 3x08",
+    "codi": "6191710",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu"
+  },
+  {
+    "titol": "Projecte Beta 3x09",
+    "codi": "6224981",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu"
+  },
+  {
+    "titol": "Projecte Beta 3x10",
+    "codi": "6226312",
+    "edat": "10",
+    "raons": "Por i angoixa reiterada d'afectació lleu",
+    "mesinfo": "<b>Por i angoixa</b><br>Hi ha una escena prolongada, situada a les fosques i amb música de tensió constant, en què un ordinador malvat es presenta i s'encara als protagonistes, revelant-los el seu pla per dominar el món i que els ha estat enganyant fins ara. De manera aparent, electrocuta a un d'ells i posseeix a certes persones fent que els seus iris es tornin liles, inclòs un famós presentador de televisió, qui riu malèvolament mentre l'emissió 's'espatlla'. També hi ha escenes de malsons amb crits i moviments borrosos i inestables de la càmera. Tots els intents d'aturar-la són frustrats i la resolució del capítol no és positiva.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa ('merda')."
+  },
+  {
+    "titol": "Projecte Beta 4x01 - Col·leguis",
+    "codi": "6239765",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "<b>Por i angoixa</b><br>Es dona a entendre que un ordinador obliga els protagonistes a fer coses contra la seva voluntat, i els escridassa i fa que els llums s'apaguin i s'encenguin. Es repeteixen escenes d'anteriors episodis en què unes persones són posseïdes per un ordinador, tenen malsons o criden de pànic.<br><br><b>Llenguatge groller</b><br>Es diu 'l'heu cagat com mai'.<br><br><b>Conductes i valors incívics</b><br>En un context humorístic, els protagonistes maltracten un nadó que resulta ser de joguina: l'abandonen (se'l troben a la nevera), l'empastifen de talc o l'acaben desmuntant. El nadó fals es pixa a sobre dels nois mentre li canvien els bolquers. També en aquest context, un noi aboca salsa picant en un suc que una noia estava preparant, i hi fica el dit per tastar-lo."
+  },
+  {
+    "titol": "Projecte Beta 4x02 - Charlie",
+    "codi": "6241111",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu",
+    "mesinfo": "<b>Por i angoixa</b><br>Hi ha una sensació lleu de suspens quan es dona a entendre que una màquina obliga els protagonistes a fer coses contra la seva voluntat, o ha posseït a persones, incloent-hi a un presentador real de televisió."
+  },
+  {
+    "titol": "Projecte Beta 4x03 - Betes del passat",
+    "codi": "6242365",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu"
+  },
+  {
+    "titol": "Projecte Beta 4x04 - Omega",
+    "codi": "6243154",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu"
+  },
+  {
+    "titol": "Projecte Beta 4x05 - Bessones",
+    "codi": "6244568",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu"
+  },
+  {
+    "titol": "Projecte Beta 4x06 - Punt de no retorn",
+    "codi": "6245528",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa"
+  },
+  {
+    "titol": "Projecte Beta 4x07 - El floppy de la Floppy",
+    "codi": "6247231",
+    "edat": "7",
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa freqüent d'afectació lleu<br>Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "<b>Violència</b><br>Un dels personatges li fa la traveta a un malvat i queda inconscient a terra.<br><br><b>Por i angoixa</b><br>Al final de l'episodi, destripen un os de peluix per trobar-hi dins una càmera que els espiava. La música es distorsiona per emfatitzar la sensació de por. En altres punts de l'episodi, també hi ha situacions angoixants lleus quan els protagonistes es troben o intenten desfer-se d'uns personatges malvats.<br><br><b>Conductes i valors incívics</b><br>Els personatges menteixen constantment per ocultar-li informació a un dels personatges."
   },
   {
     "titol": "Quanta guerra!",
