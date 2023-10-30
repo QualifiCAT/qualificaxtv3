@@ -1,5 +1,14 @@
 [
   {
+    "titol": "Git Gud<br><small>Capítol 9</small>",
+    "codi": "Git Gud",
+    "edat": "7",
+    "por": true,
+    "orig": "TP",
+    "serie": true,
+    "x3": true
+  },
+  {
     "titol": "APM?<br><small>29/10/2023</small>",
     "codi": "APM",
     "edat": "10",
@@ -45,16 +54,6 @@
     "edat": "10",
     "llenguatge": true,
     "orig": "7",
-    "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "La Puntual<br><small>Mamma mia</small>",
-    "codi": "La Puntual",
-    "edat": "7",
-    "por": true,
-    "llenguatge": true,
-    "orig": "TP",
     "serie": true,
     "tv3": true
   }
