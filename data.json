@@ -3645,6 +3645,13 @@
     "mesinfo": "<b>Violència</b><br>En imatges d'alguns videojocs, es representen trets, explosions i agressions no detallades contra persones.<br><br><b>Llenguatge groller</b><br>Es diu 'fotre' i 'cabreig', un cop cadascun.<br><br>Hi ha situacions ocasionals que poden provocar por o angoixa d'afectació lleu.<br><br>Qualificació dels videojocs mencionats:<br>PEGI 3: 'NBA 2K21', 'Forza Horizon 4', 'Microsoft Flight Simulator', 'Cooking Mama', 'Tetris' (original), 'Pac-Man' (original), 'Forza Motorsport 2', 'FIFA 14', 'Madden NFL 15', 'Forza Horizon 5', 'Farming Simulator'.<br>PEGI 7: 'Minecraft' (original), 'Outer Wilds' (original; la resta d'entregues són PEGI 12).<br>PEGI 12: 'World of Warcraft', 'Riders Republic', 'Fortnite', 'The Sims' (majoria d'entregues), 'Genshin Impact', 'Stardew Valley', 'Goat Simulator 3', 'Hello Neighbor', 'Ghostwire Tokyo', 'Star Wars Jedi: Survivor', 'Session: Skate Sim'.<br>PEGI 16: 'Midnight Club 2'.<br>PEGI 18: 'The Elder Scrolls V: Skyrim'.<br>PEGI ! (supervisió parental recomanada): 'Roblox'."
   },
   {
+    "titol": "Git Gud 1x09",
+    "codi": "6246806",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu",
+    "mesinfo": "<b>Por i angoixa</b><br>Es mostren vídeos reals on persones tenen accidents jugant a basquetbol o a tennis de taula, on rellisquen i cauen a terra, piquen el cap amb la vora de la taula, destrossen la taula o un fluorescent, o els rebota la pilota contra la seva cara, tot plegat amb intencionalitat còmica. Algunes de les imatges es repeteixen al final del programa. També es mostren imatges de videojocs, de naturalesa fictícia, representant accidents de cotxe o persones a la boca d'un dinosaure.<br><br>Qualificació dels videojocs mencionats:<br>PEGI 3: 'Forza Horizon 4', 'FIFA 23', 'Candy Crush Saga', 'Pac-Man' (original), 'Tetris' (original), 'Pong' (original), 'Donkey Kong' (original), 'Euro Truck Simulator', 'Yoshi's Crafted World', 'Gran Turismo 7'.<br>PEGI 7: 'Ghostbusters: The Video Game' (original), 'Wii Sports', 'Pokémon Púrpura', 'Pokémon GO', 'Minecraft', 'No Man's Sky'.<br>PEGI 12: 'Spider-Man: Edge of Time', 'The Legend of Zelda: Tears of the Kingdom', 'Steep', 'World of Warcraft', 'Sea of Thieves', 'Crypt of the Necrodancer'."
+  },
+  {
     "titol": "Gos pudent",
     "codi": "gos-pudent",
     "edat": "0",
