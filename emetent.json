@@ -9,18 +9,12 @@
     "titol": "El foraster",
     "edat": "10",
     "orig": "TP",
-    "x3": true
+    "tv3": true
   },
   {
     "titol": "Joc de cartes",
     "edat": "13",
     "orig": "TP",
-    "tv3": true
-  },
-  {
-    "titol": "APM?",
-    "edat": "13",
-    "orig": "10",
     "tv3": true
   },
   {
@@ -52,12 +46,6 @@
     "edat": "18",
     "orig": "13",
     "tv3": true
-  },
-  {
-    "titol": "Ideafix i els irreductibles",
-    "edat": "7",
-    "orig": "TP",
-    "x3": true
   },
   {
     "titol": "La colla del camp",
