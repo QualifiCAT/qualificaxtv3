@@ -1,0 +1,110 @@
+[
+  {
+    "titol": "Està passant",
+    "edat": "13",
+    "orig": "TP",
+    "tv3": true
+  },
+  {
+    "titol": "El foraster",
+    "edat": "10",
+    "orig": "TP",
+    "x3": true
+  },
+  {
+    "titol": "Joc de cartes",
+    "edat": "13",
+    "orig": "TP",
+    "tv3": true
+  },
+  {
+    "titol": "APM?",
+    "edat": "13",
+    "orig": "10",
+    "tv3": true
+  },
+  {
+    "titol": "Polònia",
+    "edat": "13",
+    "orig": "7",
+    "tv3": true
+  },
+  {
+    "titol": "Una altra història",
+    "edat": "7",
+    "orig": "TP",
+    "tv3": true
+  },
+  {
+    "titol": "Al cotxe",
+    "edat": "10",
+    "orig": "TP",
+    "tv3": true
+  },
+  {
+    "titol": "Col·lapse",
+    "edat": "13",
+    "orig": "TP",
+    "tv3": true
+  },
+  {
+    "titol": "Hudson i Rex",
+    "edat": "13",
+    "orig": "12",
+    "tv3": true
+  },
+  {
+    "titol": "Ideafix i els irreductibles",
+    "edat": "7",
+    "orig": "TP",
+    "x3": true
+  },
+  {
+    "titol": "La colla del camp",
+    "edat": "10",
+    "orig": "TP",
+    "x3": true
+  },
+  {
+    "titol": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+    "edat": "7",
+    "orig": "TP",
+    "x3": true
+  },
+  {
+    "titol": "Les Sisters",
+    "edat": "7",
+    "orig": "TP",
+    "x3": true
+  },
+  {
+    "titol": "One Piece",
+    "edat": "13",
+    "orig": "10",
+    "x3": true
+  },
+  {
+    "titol": "El carrer Scream",
+    "edat": "7",
+    "orig": "TP",
+    "x3": true
+  },
+  {
+    "titol": "La casa d'Anubis",
+    "edat": "10",
+    "orig": "7",
+    "x3": true
+  },
+  {
+    "titol": "El detectiu Conan",
+    "edat": "13",
+    "orig": "7",
+    "x3": true
+  },
+  {
+    "titol": "Ronja, la filla del bandoler",
+    "edat": "10",
+    "orig": "TP",
+    "x3": true
+  }
+]
