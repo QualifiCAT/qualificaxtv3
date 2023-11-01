@@ -1,5 +1,14 @@
 [
   {
+    "titol": "La mirada de la Fiona<br><small>1x02</small>",
+    "codi": "La mirada de la Fiona",
+    "edat": "13",
+    "llenguatge": true,
+    "orig": "10",
+    "serie": true,
+    "3cat": true
+  },
+  {
     "titol": "El món genial del Tom Gates<br><small>El Halloween monstruós i &quot;espantacular&quot; del Tom Gates</small>",
     "codi": "El món genial del Tom Gates",
     "edat": "0",
@@ -44,16 +53,5 @@
     "orig": "TP",
     "serie": true,
     "x3": true
-  },
-  {
-    "titol": "Una altra història<br><small>Monestir de Santes Creus a Tarragona</small>",
-    "codi": "Una altra història",
-    "edat": "7",
-    "violencia": true,
-    "por": true,
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
   }
 ]
