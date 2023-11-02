@@ -1,5 +1,24 @@
 [
   {
+    "titol": "La travessa<br><small>L'aventura</small>",
+    "codi": "La travessa",
+    "edat": "13",
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "3cat": true
+  },
+  {
+    "titol": "Vosaltres mateixos<br><small>Ara et toca a tu</small>",
+    "codi": "Vosaltres mateixos",
+    "edat": "10",
+    "drogues": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "3cat": true
+  },
+  {
     "titol": "La mirada de la Fiona<br><small>1x02</small>",
     "codi": "La mirada de la Fiona",
     "edat": "13",
@@ -33,25 +52,5 @@
     "orig": "10",
     "serie": true,
     "tv3": true
-  },
-  {
-    "titol": "Projecte Beta<br><small>El floppy de la Floppy</small>",
-    "codi": "Beta",
-    "edat": "7",
-    "violencia": true,
-    "por": true,
-    "incivisme": true,
-    "orig": "ERI",
-    "serie": true,
-    "x3": true
-  },
-  {
-    "titol": "Manduka Family<br><small>Panellets</small>",
-    "codi": "Manduka Family",
-    "edat": "0",
-    "por": true,
-    "orig": "TP",
-    "serie": true,
-    "x3": true
   }
 ]
