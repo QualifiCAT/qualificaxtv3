@@ -2394,6 +2394,15 @@
     "edat": "13"
   },
   {
+    "titol": "El detectiu Conan: La núvia de Halloween",
+    "codi": "6247861",
+    "edat": "13",
+    "orig": "12",
+    "comp": "🇪🇸 12 🇩🇪 12 🇦🇺 M 🇰🇷 12 🇸🇬 PG",
+    "raons": "Por i angoixa reiterada d'afectació mitjana",
+    "mesinfo": "<b>Por i angoixa</b><br>Hi ha situacions de tensió, pràcticament de manera ininterrompuda, amb una presentació versemblant, en relació amb segrestos, amenaces de bomba i altres situacions violentes. Es comenta i es mostra -sense detalls- com un agent de policia va morir intentant desactivar una bomba, com un home va rebre un cop i li van fer empassar un verí, i com una dona va intentar suïcidar-se llençant-se al buit o prenent una droga. Un home mor arran d'una explosió i un altre perd el coneixement i vessa sang del cap en ser atropellat. Hi ha un home ferit en un edifici i hi ha intercanvi de trets i baralles, i els veïns entren en pànic. Un nen queda atrapat en una habitació amb una bomba i escapa per la finestra. Els policies reben una trucada i diuen que han segrestat a un company seu. Un policia queda retingut pels segrestadors i amenaçat a punta de pistola o amb un ganivet al coll. Hi ha un altre intercanvi de trets on una dona té un nen com a ostatge, i amenaça de 'rebentar-li el cervell'. Una dona revela que planeja cometre un atemptat terrorista en un barri fent-hi esclatar una bomba. Dues persones es barallen en un helicòpter descontrolat després de detonar-s'hi una bomba, causant desperfectes en edificis i fent fugir la gent. Una dona plora en veure la seva família morir per una explosió o quan eviten matar una terrorista per venjança. Hi ha més tensió quan els protagonistes fan esforços per contenir els efectes de l'explosió sense causar desperfectes.<br><br>Hi ha violència ocasional, versemblant, no explícita, d'intensitat greu i no legitimada, en intercanvis de foc que provoquen algunes ferides de sang; també hi ha algunes baralles cos a cos o intents d'apunyalament d'intensitat lleu. Hi ha llenguatge groller ocasional d'intensitat baixa ('merda', 'idiotes', 'burra'). Fugaçment, es mostra consum de tabac i copes amb begudes alcohòliques que no es consumeixen."
+  },
+  {
     "titol": "El detectiu Conan: The Scarlet Alibi",
     "codi": "6190210",
     "edat": "13",
@@ -6498,6 +6507,35 @@
     "x3": true,
     "raons": "Violència freqüent, irreal, explícita, d'intensitat lleu, no legitimada<br>Por i angoixa freqüent d'afectació lleu",
     "mesinfo": "<b>Violència</b><br>Unes dones intenten fer fora uns ratolins amb cops d'escombra o llençant-los gots de vidre, que no impacten mai contra ells. Una bruixa llença un encanteri contra la paret que la destrossa. Un home empenta una nena que vol aturar els seus plans. Dos homes, un de bo i un de dolent, es barallen amb espases, sense impactar al cos. Acaben a una teulada i el bo desarma al dolent, que eventualment aconsegueix fer-se amb un pal i empentar al bo, que gairebé cau d'una teulada. Ell intenta fer-lo caure trepitjant-li el peu però el bo aconsegueix fer caure el dolent fent-lo perdre l'equilibri, qui sembla sobreviure a la caiguda ja que el veiem arrossegar-se per terra. En una escena posterior, una bruixa llença encanteris contra alguns personatges, que els fa impactar contra el terra o contra una columna. La bruixa segueix i una mena de màgia els envolta i els fa levitar mentre panteixen. Un atac fa caure el sostre, i la bruixa intenta aturar els herois llençant-los encanteris, però això només accelera l'enderrocament, i la seva implícita mort.<br><br><b>Por i angoixa</b><br>Un ratolí cau des d'una gran alçada, i un gat els persegueix per la casa mentre també terroritza els humans que hi viuen. Unes pomes enmig d'un bosc espanten els protagonistes en aparèixer-los-hi ulls i els persegueixen. Una nena i uns ratolins descobreixen un ombrívol passadís secret on troben una bruixa -amb una àguila que l'ajuda- que practica màgia negra, que s'adona de la seva presència i els comença a perseguir i llençar encanteris. Un home comenta que amb sis anys 'perd els pares', i es veu com la seva tutora es torna malvada i la transforma en ratolí. La protagonista també comenta que va perdre els pares. Una planta gegant apareix en un bosc i persegueix els protagonistes, atrapa a un d'ells i eventualment els fa caure a tots a un riu, però aconsegueixen salvar-se. L'àguila de la bruixa torna a aparèixer i roba un anell màgic i un dels ratolins. Uns guàrdies apareixen a casa de la protagonista i se l'enduen al castell. En l'escena de lluita a la teulada, un dels homes té por de caure, i li diu a l'altre que 'quan moris seràs recordat com un ratolí'. Una nena s'encara amb la bruixa quan revela la seva veritable identitat, i li pregunta per què la va abandonar. La confrontació dels herois amb la bruixa també pot ser angoixant i terrorífica, a més que sembla tenir un final agredolç, però que al final acaba bé per als protagonistes.<br><br>Alguns dels personatges es comporten de manera estereotipada, incloent-hi un dels ratolins protagonistes, més corpulent, que està obsessionat amb el menjar, o no és capaç de 'volar' com els altres. Un dels ratolins, mascle, se sent ridícul quan li posen un vestit de princesa. Es fan servir expressions com 'beneit', 'sonada' o 'ratolí estúpid', i en una escena un dels ratolins fa pets. Es comenta negativament que els ratolins robaven menjar."
+  },
+  {
+    "titol": "La vida en calçotets",
+    "codi": "vida-calcotets",
+    "edat": "",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
+  },
+  {
+    "titol": "La vida en calçotets 1x01 - Prohibit als menors de 12 anys",
+    "codi": "6246816",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'merder' i 'estúpid'.<br><br><b>Conductes i valors incívics</b><br>Els protagonistes menteixen per tal de guanyar-se l'acceptació social, i diuen haver vist una pel·lícula que tenen prohibida veure per edat. Es colen per veure-la i en surten aterrats. Al final, aprenen la lliçó, i es descobreix que un noi que sí que tenia l'edat i va presumir de veure-la i no tenir por també estava mentint.<br><br>Hi ha situacions ocasionals de por i angoixa lleu, com quan es mostra una pel·lícula de terror en clau paròdica, on un pallasso arranca una batedora en comptes d'una serra mecànica, i té unes persones atrapades en un arbre a qui els llença pastissos a la cara."
+  },
+  {
+    "titol": "La vida en calçotets 1x02 - Jason Tattoo",
+    "codi": "6246821",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'imbècil' per insultar un cop."
+  },
+  {
+    "titol": "La vida en calçotets 1x03 - La graciositat",
+    "codi": "6246822",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'estúpid', 'tant li fot', 'imbècils' i 'burros'.<br><br><b>Conductes i valors incívics</b><br>Els protagonistes fan bromes pesades per riure's a la cara d'altra gent. El missatge que l'episodi dona és que això no és graciós i que la clau de la diversió és estar amb amics."
   },
   {
     "titol": "Labanda sonora",
