@@ -6474,6 +6474,21 @@
     "mesinfo": "<b>Por i angoixa</b><br>Gran part de l'episodi es recrea en l'afectació emocional dels actors en llegir dedicatòries de familiars i coneguts. A més, es fan referències a la mort, com quan a l'obra de teatre final s'hi representa un atac de cor.<br><br><b>Llenguatge groller</b><br>Es fan servir expressions com 'molta merda', 'fotia' o 'joder'.<br><br>En un fragment de l'obra de teatre final, s'escenifiquen fugaçment insinuacions sexuals d'explicitació lleu."
   },
   {
+    "titol": "La travessa",
+    "codi": "la-travessa",
+    "edat": "13",
+    "orig": "TP",
+    "serie": true,
+    "3cat": true
+  },
+  {
+    "titol": "La travessa 1x01 - L'aventura",
+    "codi": "6247513",
+    "edat": "13",
+    "raons": "Llenguatge groller freqüent d'intensitat alta",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es fa un ús freqüent d'expressions d'intensitat alta, a causa de la seva naturalesa o perquè s'utilitzen en contextos agressius, com 'putejar', 'putada', 'de puta mare', 'puta merda', 'puto', 'anaves superfollada', 'marica' (per part d'una persona del col·lectiu LGBTIQ+), 'cagades', 'hòstia', 'fotre', 'merda', 'joder' o 'cabrón'.<br><br>Hi ha situacions d'angoixa moderada, quan alguns participants parlen d'accidents que van tenir de manera explícita."
+  },
+  {
     "titol": "La Ventafocs i el príncep secret",
     "codi": "6209977",
     "edat": "7",
@@ -10357,6 +10372,21 @@
     "comp": "🇺🇲 TV-Y7 🇩🇪 0 🇦🇺 G 🇫🇮 S",
     "serie": true,
     "x3": true
+  },
+  {
+    "titol": "Vosaltres mateixos",
+    "codi": "vosaltres-mateixos",
+    "edat": "10",
+    "orig": "TP",
+    "serie": true,
+    "3cat": true
+  },
+  {
+    "titol": "Vosaltres mateixos 1x01 - Ara et toca a tu",
+    "codi": "6247600",
+    "edat": "10",
+    "raons": "Al·lusions al consum de drogues lícites (alcohol), presentat de manera neutra<br>Llenguatge groller freqüent d'intensitat baixa",
+    "mesinfo": "<b>Drogues</b><br>En una ocasió, el presentador fa una referència neutra al consum de 'tres cerveses'.<br><br><b>Llenguatge groller</b><br>El presentador fa servir sovint expressions com 'hòstia', 'collonut' o 'cabronets', mai amb intencionalitat ofensiva.<br><br>Hi ha contingut violent no explícit i lleu quan es fa una insinuació a l'abús sexual per part de l'església. Hi ha també continguts sexuals ocasionals d'explicitació baixa quan es menciona de broma el 'desig sexual' d'un burro, i esclaten rialles del públic quan una nena parla de 'muntar-lo'."
   },
   {
     "titol": "Yokai Watch: La pel·lícula",
