@@ -43,12 +43,6 @@
     "tv3": true
   },
   {
-    "titol": "Babylon Berlin",
-    "edat": "18",
-    "orig": "13",
-    "tv3": true
-  },
-  {
     "titol": "La vida en calçotets",
     "edat": "7",
     "orig": "TP",
@@ -77,12 +71,6 @@
     "titol": "El carrer Scream",
     "edat": "7",
     "orig": "TP",
-    "x3": true
-  },
-  {
-    "titol": "La casa d'Anubis",
-    "edat": "10",
-    "orig": "7",
     "x3": true
   },
   {
