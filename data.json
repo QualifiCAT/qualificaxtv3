@@ -9786,6 +9786,28 @@
     "raons": "Por i angoixa freqüent d'afectació mitjana"
   },
   {
+    "titol": "Siyaya. Veniu a explorar",
+    "codi": "siyaya-veniu-a-explorar",
+    "edat": "7",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
+  },
+  {
+    "titol": "Siyaya. Veniu a explorar 1x01 - A la recerca dels Set Grans (1a part): El jardí de l'Edèn",
+    "codi": "6083158",
+    "edat": "7",
+    "raons": "Por i angoixa ocasional d'afectació mitjana",
+    "mesinfo": "<b>Por i angoixa</b><br>Es mostra el cos d'un conill que ha estat atropellat a la carretera. Es veu un lleó corrent amb una presa a la boca, i se li veuen les entranyes molt breument. Es veu una mica de sang en la pell d'un búfal després d'injectar-li un tractament. Uns nens s'espanten en veure com un grill camina pel braç d'un home. Es fan al·lusions a la mort."
+  },
+  {
+    "titol": "Siyaya. Veniu a explorar 1x02 - A la recerca dels Set Grans (2a part): L'elefant",
+    "codi": "6084707",
+    "edat": "7",
+    "raons": "Por i angoixa ocasional d'afectació mitjana",
+    "mesinfo": "<b>Por i angoixa</b><br>Es veuen breument en primer pla dos guepards devorant les entranyes d'una presa. Es veu un ullal tacat de sang d'un elefant. Es veu un lleó corrent amb una presa a la boca."
+  },
+  {
     "titol": "Si no t'hagués conegut",
     "codi": "si-no-thagues-conegut",
     "edat": "13",
