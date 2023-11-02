@@ -1,5 +1,12 @@
 [
   {
+    "titol": "Una altra història",
+    "edat": "7",
+    "orig": "TP",
+    "novetat": true,
+    "tv3": true
+  },
+  {
     "titol": "Està passant",
     "edat": "13",
     "orig": "TP",
@@ -24,13 +31,6 @@
     "tv3": true
   },
   {
-    "titol": "Una altra història",
-    "edat": "7",
-    "orig": "TP",
-    "novetat": true,
-    "tv3": true
-  },
-  {
     "titol": "Al cotxe",
     "edat": "10",
     "orig": "TP",
@@ -49,19 +49,20 @@
     "tv3": true
   },
   {
+    "titol": "La vida en calçotets",
+    "edat": "7",
+    "orig": "TP",
+    "novetat": true,
+    "x3": true
+  },
+  {
     "titol": "La colla del camp",
     "edat": "10",
     "orig": "TP",
     "x3": true
   },
   {
-    "titol": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-    "edat": "7",
-    "orig": "TP",
-    "x3": true
-  },
-  {
-    "titol": "Les Sisters",
+    "titol": "Git Gud",
     "edat": "7",
     "orig": "TP",
     "x3": true
