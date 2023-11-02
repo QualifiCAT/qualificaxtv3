@@ -1,5 +1,24 @@
 [
   {
+    "titol": "El detectiu Conan: La núvia de Halloween",
+    "codi": "El detectiu Conan: La núvia de Halloween",
+    "edat": "13",
+    "por": true,
+    "orig": "12",
+    "peli": true,
+    "x3": true
+  },
+  {
+    "titol": "La vida en calçotets<br><small>La graciositat</small>",
+    "codi": "La vida en calçotets",
+    "edat": "7",
+    "llenguatge": true,
+    "incivisme": true,
+    "orig": "TP",
+    "serie": true,
+    "x3": true
+  },
+  {
     "titol": "La travessa<br><small>L'aventura</small>",
     "codi": "La travessa",
     "edat": "13",
@@ -43,14 +62,5 @@
     "orig": "TP",
     "serie": true,
     "x3": true
-  },
-  {
-    "titol": "APM?<br><small>29/10/2023</small>",
-    "codi": "APM",
-    "edat": "10",
-    "llenguatge": true,
-    "orig": "10",
-    "serie": true,
-    "tv3": true
   }
 ]
