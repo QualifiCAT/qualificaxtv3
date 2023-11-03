@@ -10265,7 +10265,7 @@
   {
     "titol": "Una altra història",
     "codi": "una-altra-historia",
-    "edat": "7",
+    "edat": "10",
     "orig": "TP",
     "serie": true,
     "tv3": true
@@ -10276,6 +10276,13 @@
     "edat": "7",
     "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada<br>Por i angoixa ocasional d'afectació mitjana<br>Llenguatge groller ocasional d'intensitat baixa",
     "mesinfo": "<b>Violència</b><br>Es mostren ocasionalment imatges d'arxiu de fogueres i batalles no explícites de la guerra civil.<br><br><b>Por i angoixa</b><br>Es fan referències no detallades a la guerra civil i les seves conseqüències, com que alguns combatents van rebre impactes de bala que van quedar-se en el seu cos durant anys sense adonar-se'n i els va provocar la mort. També, quan s'explica la història d'una llevadora, es diu que alguns nens van néixer morts i van haver de ser reanimats.<br><br><b>Llenguatge groller</b><br>Es fan servir les expressions 'hòstia', 'hosti' i 'fotre' de manera ocasional.<br><br>Es fan referències neutres a la producció de vi."
+  },
+  {
+    "titol": "Una altra història 1x02 - Museu d'Art de Girona",
+    "codi": "6247038",
+    "edat": "10",
+    "raons": "Al·lusions al consum de drogues lícites (tabac, alcohol), presentat de manera neutra",
+    "mesinfo": "<b>Drogues</b><br>Es fan referències ocasionals a consumir begudes alcohòliques en celebracions. Es fa un discurs neutre sobre el consum de tabac quan es mostra una figureta antiga d'un nen amb una cigarreta a la boca. Es mostren persones consumint tabac o alcohol en imatges d'arxiu.<br><br>Hi ha por i angoixa ocasional mitjana, quan es fa referència a la gent que va morir a la muntanya de Balandrau o en camps de concentració. Hi ha llenguatge groller ocasional d'intensitat baixa ('hòstia', 'hosti', 'fotre', 'collonades')."
   },
   {
     "titol": "Una de les nostres",
