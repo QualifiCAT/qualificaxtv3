@@ -1,5 +1,14 @@
 [
   {
+    "titol": "Una altra història<br><small>Museu d'Art de Girona</small>",
+    "codi": "Una altra història",
+    "edat": "10",
+    "drogues": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Siyaya. Veniu a explorar<br><small>A la recerca dels Set Grans (2a part): L'elefant</small>",
     "codi": "Siyaya. Veniu a explorar",
     "edat": "7",
@@ -43,15 +52,6 @@
     "drogues": true,
     "llenguatge": true,
     "orig": "TP",
-    "serie": true,
-    "3cat": true
-  },
-  {
-    "titol": "La mirada de la Fiona<br><small>1x02</small>",
-    "codi": "La mirada de la Fiona",
-    "edat": "13",
-    "llenguatge": true,
-    "orig": "10",
     "serie": true,
     "3cat": true
   }
