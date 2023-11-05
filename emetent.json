@@ -43,12 +43,6 @@
     "tv3": true
   },
   {
-    "titol": "Vosaltres mateixos",
-    "edat": "10",
-    "orig": "TP",
-    "3cat": true
-  },
-  {
     "titol": "La vida en calçotets",
     "edat": "7",
     "orig": "TP",
@@ -75,12 +69,6 @@
   },
   {
     "titol": "El carrer Scream",
-    "edat": "7",
-    "orig": "TP",
-    "x3": true
-  },
-  {
-    "titol": "Súper 4",
     "edat": "7",
     "orig": "TP",
     "x3": true
