@@ -1,5 +1,14 @@
 [
   {
+    "titol": "Projecte Beta<br><small>Jet-lag temporal</small>",
+    "codi": "Projecte Beta",
+    "edat": "7",
+    "por": true,
+    "orig": "ERI",
+    "serie": true,
+    "x3": true
+  },
+  {
     "titol": "Una altra història<br><small>Museu d'Art de Girona</small>",
     "codi": "Una altra història",
     "edat": "10",
@@ -40,16 +49,6 @@
     "titol": "La travessa<br><small>L'aventura</small>",
     "codi": "La travessa",
     "edat": "13",
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "3cat": true
-  },
-  {
-    "titol": "Vosaltres mateixos<br><small>Ara et toca a tu</small>",
-    "codi": "Vosaltres mateixos",
-    "edat": "10",
-    "drogues": true,
     "llenguatge": true,
     "orig": "TP",
     "serie": true,
