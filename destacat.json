@@ -1,5 +1,17 @@
 [
   {
+    "titol": "Git Gud<br><small>Capítol 10</small>",
+    "codi": "Git Gud",
+    "edat": "7",
+    "violencia": true,
+    "sexe": true,
+    "por": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "x3": true
+  },
+  {
     "titol": "Joc de cartes<br><small>La millor mongeta del ganxet del Vallès</small>",
     "codi": "Joc de cartes",
     "edat": "13",
@@ -42,16 +54,6 @@
     "por": true,
     "orig": "12",
     "peli": true,
-    "x3": true
-  },
-  {
-    "titol": "La vida en calçotets<br><small>La graciositat</small>",
-    "codi": "La vida en calçotets",
-    "edat": "7",
-    "llenguatge": true,
-    "incivisme": true,
-    "orig": "TP",
-    "serie": true,
     "x3": true
   }
 ]
