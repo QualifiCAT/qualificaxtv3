@@ -7797,7 +7797,7 @@
   {
     "titol": "Manduka family",
     "codi": "manduka-family",
-    "edat": "0",
+    "edat": "7",
     "orig": "TP",
     "serie": true,
     "x3": true
@@ -7835,7 +7835,9 @@
   {
     "titol": "Manduka family 1x06 - Macarrons",
     "codi": "6248050",
-    "edat": "0"
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Al final del programa, una noia crida 'hòstia, quin susto'."
   },
   {
     "titol": "Marcus Level",
