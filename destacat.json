@@ -1,5 +1,13 @@
 [
   {
+    "titol": "Manduka family<br><small>Macarrons</small>",
+    "codi": "Manduka family",
+    "edat": "0",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
+  },
+  {
     "titol": "Git Gud<br><small>Capítol 10</small>",
     "codi": "Git Gud",
     "edat": "7",
@@ -45,15 +53,6 @@
     "por": true,
     "orig": "TP",
     "serie": true,
-    "x3": true
-  },
-  {
-    "titol": "El detectiu Conan: La núvia de Halloween",
-    "codi": "El detectiu Conan: La núvia de Halloween",
-    "edat": "13",
-    "por": true,
-    "orig": "12",
-    "peli": true,
     "x3": true
   }
 ]
