@@ -2,7 +2,8 @@
   {
     "titol": "Manduka family<br><small>Macarrons</small>",
     "codi": "Manduka family",
-    "edat": "0",
+    "edat": "7",
+    "llenguatge": true,
     "orig": "TP",
     "serie": true,
     "x3": true
