@@ -539,6 +539,27 @@
     "raons": "Llenguatge groller ocasional d'intensitat baixa"
   },
   {
+    "titol": "Artús i els vailets de la Taula Rodona - La princesa Ginebra",
+    "codi": "6213240",
+    "edat": "7",
+    "raons": "Comportaments masclistes amb sanció negativa<br>Conductes i valors incívics amb sanció neutra",
+    "mesinfo": "<b>Discriminació, racisme i xenofòbia</b><br>Durant tot l'episodi, tant homes com dones manifesten comentaris discriminatoris envers la dona pel simple fet de ser-ho.<br><br><b>Conductes i valors incívics</b><br>En una ocasió, els protagonistes menteixen per assolir els seus objectius.<br><br>Es diu 'estúpid', i hi ha violència irreal molt lleu."
+  },
+  {
+    "titol": "Artús i els vailets de la Taula Rodona - Morgana, l'aprenenta de maga",
+    "codi": "6213245",
+    "edat": "7",
+    "raons": "Violència freqüent, irreal, no explícita, d'intensitat molt lleu i no legitimada<br>Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller freqüent d'intensitat baixa",
+    "mesinfo": "<b>Violència</b><br>Hi ha agressions verbals freqüents, ja que els personatges es troben sovint sota els efectes d'un encanteri que fan barallar-se entre ells. S'insulten fent servir expressions com 'pallussos', 'cagallons', 'miserable', 'llepaculs', 'ruques' o 'idiota', entre d'altres. També es fan amenaces violentes com 'tallar colls' i parlar de guerres.<br><br><b>Por i angoixa</b><br>Una noia té un malson en què es troba el fantasma del seu pare. Una retrospectiva mostra un home, fugint d'uns enemics, amb un nadó en braços. Vegeu 'Violència'.<br><br><b>Llenguatge groller</b><br>Vegeu 'Violència'."
+  },
+  {
+    "titol": "Artús i els vailets de la Taula Rodona - L'escuder Artús",
+    "codi": "6213247",
+    "edat": "0",
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa ocasional d'afectació lleu",
+    "mesinfo": "<b>Violència</b><br>Un ogre diu que va devorar una persona, i es fan servir insults de menyspreu molt lleu.<br><br><b>Por i angoixa</b><br>Hi ha una escena en què els protagonistes paren en un lloc lúgubre governat per un esperit en forma d'esquelet que els fa tenir al·lucinacions."
+  },
+  {
     "titol": "Astèrix: La residència dels déus",
     "codi": "6194455",
     "edat": "7",
@@ -10304,6 +10325,13 @@
     "edat": "10",
     "raons": "Al·lusions al consum de drogues lícites (tabac, alcohol), presentat de manera neutra",
     "mesinfo": "<b>Drogues</b><br>Es fan referències ocasionals a consumir begudes alcohòliques en celebracions. Es fa un discurs neutre sobre el consum de tabac quan es mostra una figureta antiga d'un nen amb una cigarreta a la boca. Es mostren persones consumint tabac o alcohol en imatges d'arxiu.<br><br>Hi ha por i angoixa ocasional mitjana, quan es fa referència a la gent que va morir a la muntanya de Balandrau o en camps de concentració. Hi ha llenguatge groller ocasional d'intensitat baixa ('hòstia', 'hosti', 'fotre', 'collonades')."
+  },
+  {
+    "titol": "Una altra història 1x03 - Castell de Santa Fiorentina a Canet de Mar",
+    "codi": "6248660",
+    "edat": "10",
+    "raons": "Al·lusions al consum de drogues lícites (alcohol) i sense determinar, presentat de manera neutra<br>Llenguatge groller ocasional d'intensitat alta",
+    "mesinfo": "<b>Drogues</b><br>Es fan referències ocasionals i neutres al consum d'alcohol en un context festiu. També, es comenta que en una entrevista a en Bob Marley no se l'entenia gens perquè anava 'fumat', sense concretar més, però presentat com a quelcom còmic.<br><br><b>Llenguatge groller</b><br>Es fan servir expressions com 'maricón' i 'subnormal' per denunciar casos històrics de discriminació. També hi ha llenguatge d'intensitat baixa ('hosti', 'fotut').<br><br>Hi ha por i angoixa ocasional mitjana, quan es parla de trobar-se cadàvers per un accident aeri o d'afusellaments i mutilacions durant la guerra civil."
   },
   {
     "titol": "Una de les nostres",
