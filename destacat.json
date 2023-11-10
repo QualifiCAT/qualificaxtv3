@@ -1,5 +1,46 @@
 [
   {
+    "titol": "Artús i els vailets de la Taula Rodona<br><small>L'escuder Artús</small>",
+    "codi": "Artús i els vailets de la Taula Rodona",
+    "edat": "0",
+    "violencia": true,
+    "por": true,
+    "orig": "TP",
+    "serie": true,
+    "x3": true
+  },
+  {
+    "titol": "Artús i els vailets de la Taula Rodona<br><small>Morgana, l'aprenenta de maga</small>",
+    "codi": "Artús i els vailets de la Taula Rodona",
+    "edat": "7",
+    "violencia": true,
+    "por": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "x3": true
+  },
+  {
+    "titol": "Artús i els vailets de la Taula Rodona<br><small>La princesa Ginebra</small>",
+    "codi": "Artús i els vailets de la Taula Rodona",
+    "edat": "7",
+    "discriminacio": true,
+    "incivisme": true,
+    "orig": "TP",
+    "serie": true,
+    "x3": true
+  },
+  {
+    "titol": "Una altra història<br><small>Castell de Santa Fiorentina a Canet de Mar</small>",
+    "codi": "Una altra història",
+    "edat": "10",
+    "drogues": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Vosaltres mateixos<br><small>Visita a domicili</small>",
     "codi": "Vosaltres mateixos",
     "edat": "10",
@@ -17,44 +58,5 @@
     "orig": "TP",
     "serie": true,
     "x3": true
-  },
-  {
-    "titol": "Git Gud<br><small>Capítol 10</small>",
-    "codi": "Git Gud",
-    "edat": "7",
-    "violencia": true,
-    "sexe": true,
-    "por": true,
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "x3": true
-  },
-  {
-    "titol": "Joc de cartes<br><small>La millor mongeta del ganxet del Vallès</small>",
-    "codi": "Joc de cartes",
-    "edat": "13",
-    "violencia": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "Projecte Beta<br><small>Jet-lag temporal</small>",
-    "codi": "Projecte Beta",
-    "edat": "7",
-    "por": true,
-    "orig": "ERI",
-    "serie": true,
-    "x3": true
-  },
-  {
-    "titol": "Una altra història<br><small>Museu d'Art de Girona</small>",
-    "codi": "Una altra història",
-    "edat": "10",
-    "drogues": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
   }
 ]
