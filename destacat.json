@@ -1,5 +1,14 @@
 [
   {
+    "titol": "Manduka family<br><small>Mandonguilles</small>",
+    "codi": "Manduka family",
+    "edat": "7",
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "x3": true
+  },
+  {
     "titol": "Artús i els vailets de la Taula Rodona<br><small>L'escuder Artús</small>",
     "codi": "Artús i els vailets de la Taula Rodona",
     "edat": "0",
@@ -49,14 +58,5 @@
     "orig": "TP",
     "serie": true,
     "3cat": true
-  },
-  {
-    "titol": "Manduka family<br><small>Macarrons</small>",
-    "codi": "Manduka family",
-    "edat": "7",
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "x3": true
   }
 ]
