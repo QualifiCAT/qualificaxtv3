@@ -1,7 +1,18 @@
 [
     {
+    "titol": "Cruïlla Comedy: festival de stand-up en català - part 2",
+    "codi": "Cruïlla Comedy: festival de stand-up en català - part 2",
+    "edat": "13",
+    "sexe": true,
+    "drogues": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "peli": true,
+    "3cat": true
+  },
+    {
     "titol": "Cruïlla Comedy: festival de stand-up en català - part 1",
-    "codi": "Cruïlla Comedy",
+    "codi": "Cruïlla Comedy: festival de stand-up en català - part 1",
     "edat": "13",
     "sexe": true,
     "drogues": true,
@@ -49,15 +60,5 @@
     "orig": "TP",
     "serie": true,
     "x3": true
-  },
-  {
-    "titol": "Una altra història<br><small>Castell de Santa Fiorentina a Canet de Mar</small>",
-    "codi": "Una altra història",
-    "edat": "10",
-    "drogues": true,
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
   }
 ]
