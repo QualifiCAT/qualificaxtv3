@@ -1,4 +1,15 @@
 [
+    {
+    "titol": "Cruïlla Comedy: festival de stand-up en català - part 1",
+    "codi": "Cruïlla Comedy",
+    "edat": "13",
+    "sexe": true,
+    "drogues": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "peli": true,
+    "3cat": true
+  },
   {
     "titol": "Manduka family<br><small>Mandonguilles</small>",
     "codi": "Manduka family",
@@ -48,15 +59,5 @@
     "orig": "TP",
     "serie": true,
     "tv3": true
-  },
-  {
-    "titol": "Vosaltres mateixos<br><small>Visita a domicili</small>",
-    "codi": "Vosaltres mateixos",
-    "edat": "10",
-    "drogues": true,
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "3cat": true
   }
 ]
