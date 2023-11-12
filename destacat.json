@@ -1,4 +1,15 @@
 [
+  {
+    "titol": "Projecte Beta<br><small>El retorn de la Roci</small>",
+    "codi": "Projecte Beta",
+    "edat": "7",
+    "violencia": true,
+    "por": true,
+    "llenguatge": true,
+    "orig": "ERI",
+    "serie": true,
+    "x3": true
+  },
     {
     "titol": "Cruïlla Comedy: festival de stand-up en català - part 2",
     "codi": "Cruïlla Comedy: festival de stand-up en català - part 2",
@@ -10,7 +21,7 @@
     "peli": true,
     "3cat": true
   },
-    {
+  {
     "titol": "Cruïlla Comedy: festival de stand-up en català - part 1",
     "codi": "Cruïlla Comedy: festival de stand-up en català - part 1",
     "edat": "13",
@@ -47,16 +58,6 @@
     "violencia": true,
     "por": true,
     "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "x3": true
-  },
-  {
-    "titol": "Artús i els vailets de la Taula Rodona<br><small>La princesa Ginebra</small>",
-    "codi": "Artús i els vailets de la Taula Rodona",
-    "edat": "7",
-    "discriminacio": true,
-    "incivisme": true,
     "orig": "TP",
     "serie": true,
     "x3": true
