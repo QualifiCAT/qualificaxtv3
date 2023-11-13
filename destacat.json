@@ -1,5 +1,15 @@
 [
   {
+    "titol": "Git Gud<br><small>Capítol 11</small>",
+    "codi": "Git Gud",
+    "edat": "0",
+    "violencia": true,
+    "por": true,
+    "orig": "TP",
+    "serie": true,
+    "x3": true
+  },
+  {
     "titol": "Projecte Beta<br><small>El retorn de la Roci</small>",
     "codi": "Projecte Beta",
     "edat": "7",
@@ -10,7 +20,7 @@
     "serie": true,
     "x3": true
   },
-    {
+  {
     "titol": "Cruïlla Comedy: festival de stand-up en català - part 2",
     "codi": "Cruïlla Comedy: festival de stand-up en català - part 2",
     "edat": "13",
@@ -47,17 +57,6 @@
     "edat": "0",
     "violencia": true,
     "por": true,
-    "orig": "TP",
-    "serie": true,
-    "x3": true
-  },
-  {
-    "titol": "Artús i els vailets de la Taula Rodona<br><small>Morgana, l'aprenenta de maga</small>",
-    "codi": "Artús i els vailets de la Taula Rodona",
-    "edat": "7",
-    "violencia": true,
-    "por": true,
-    "llenguatge": true,
     "orig": "TP",
     "serie": true,
     "x3": true
