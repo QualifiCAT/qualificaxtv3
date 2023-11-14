@@ -1,5 +1,16 @@
 [
   {
+    "titol": "Nits Sense ficció<br><small>S'ha acabat! L'efecte Rubiales</small>",
+    "codi": "Nits Sense ficció",
+    "edat": "10",
+    "violencia": true,
+    "por": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Git Gud<br><small>Capítol 11</small>",
     "codi": "Git Gud",
     "edat": "0",
@@ -47,16 +58,6 @@
     "codi": "Manduka family",
     "edat": "7",
     "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "x3": true
-  },
-  {
-    "titol": "Artús i els vailets de la Taula Rodona<br><small>L'escuder Artús</small>",
-    "codi": "Artús i els vailets de la Taula Rodona",
-    "edat": "0",
-    "violencia": true,
-    "por": true,
     "orig": "TP",
     "serie": true,
     "x3": true
