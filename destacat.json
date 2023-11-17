@@ -1,5 +1,14 @@
 [
   {
+    "titol": "Cuina salvatge<br><small>Com aprofitar un pollastre sencer</small>",
+    "codi": "Cuina salvatge",
+    "edat": "10",
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "3cat": true
+  },
+  {
     "titol": "Què deu ser?<br><small>Ser valent</small>",
     "codi": "Què deu ser?",
     "edat": "0",
@@ -43,17 +52,6 @@
     "violencia": true,
     "por": true,
     "orig": "TP",
-    "serie": true,
-    "x3": true
-  },
-  {
-    "titol": "Projecte Beta<br><small>El retorn de la Roci</small>",
-    "codi": "Projecte Beta",
-    "edat": "7",
-    "violencia": true,
-    "por": true,
-    "llenguatge": true,
-    "orig": "ERI",
     "serie": true,
     "x3": true
   }
