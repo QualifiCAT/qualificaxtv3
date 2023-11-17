@@ -1557,6 +1557,63 @@
     "mesinfo": "<b>Sexe</b><br>Es fan al·lusions freqüents i crues a actes sexuals, sigui al sexe oral ('una polla para las dos', 'una polla sí porque no comes nada', 'a tu padre no le come los huevos por detrás'), a la masturbació ('¿esto es polvo o esto es paja?'), a l'ús de preservatius en l'ejaculació ('uno en un condón pegado', 'en un mitjó'), a diferents posicions o preferències sexuals ('háblame mal..., vamos a jugar a los médicos', 'sempre que follem, follem a lo perrito perquè així només són 2 anys sense diferència'), a la mida dels genitals ('arrancarle la polla a mi padre y ponérsela a mi novio', 'el 37% dels catalans tenen la polla petita', que una cançó parla 'de la meva polla' i per això diu coses com 'la flaca', 'algo pequeñito', 'colgando en tus manos' o 'veneno en la piel') o directament sense concretar ('avui follareu', 'vais a follar esta noche'). Es fa menció a actes d'agressió sexual en un context irònic ('no porque los de izquierdas no violen', 'es tu hermana, no te la folles').<br><br><b>Drogues</b><br>Un home, per dir que els festivals no són llocs per als nens, diu que ells, com a monologuistes, no van davant d'escoles bressol a 'arrebossar-nos en MDMA'. Una dona diu que estudiant Química a la universitat podria fabricar-se la seva pròpia droga. S'enfoca sovint el públic del festival, que consumeix cervesa o fuma.<br><br><b>Llenguatge groller</b><br>Ús d'expressions com 'fill de puta', 'putada', 'ni puta idea', 'de puta mare', 'puta mierda', 'cojones', 'subnormal', 'hòstia', 'joder', 'gilipolles', 'coño', 'imbècil', 'idiota', 'merdes' i múltiples termes sexuals; vegeu 'Sexe'.<br><br>Es fa una broma en relació amb la mort d'un familiar per accident de trànsit."
   },
   {
+    "titol": "Cuina salvatge",
+    "codi": "cuina-salvatge",
+    "edat": "10",
+    "orig": "TP",
+    "serie": true,
+    "3cat": true
+  },
+  {
+    "titol": "Cuina salvatge 1x01 - Croquetes, tu també pots fer-ne. Sí, tu!",
+    "codi": "6247247",
+    "edat": "10",
+    "raons": "Llenguatge groller reiterat d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Durant tot el programa, la cuinera du una samarreta on s'hi pot llegir 'torracollons'. També s'hi diu 'que t'hi cagues'.<br><br>Hi ha una situació de por lleu quan es mostra un mem d'un home rostint-se fins a esdevenir un esquelet."
+  },
+  {
+    "titol": "Cuina salvatge 1x02 - Escalivada al forn, a la flama... i a la pasta!",
+    "codi": "6247257",
+    "edat": "10",
+    "raons": "Llenguatge groller reiterat d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Durant tot el programa, la cuinera du una samarreta on s'hi pot llegir 'quins pebrots'. També s'hi diu 'emmerdant', 'joder' i 'hòstia'. En una ocasió, es diu 'follar' per parlar d'activitats que embruten."
+  },
+  {
+    "titol": "Cuina salvatge 1x03 - L'Andreu Juanola aprèn a estimar les verdures",
+    "codi": "6247262",
+    "edat": "10",
+    "raons": "Llenguatge groller reiterat d'intensitat baixa<br>Conductes i valors incívics amb sanció neutra",
+    "mesinfo": "<b>Llenguatge groller</b><br>Durant tot el programa, la cuinera du una samarreta on s'hi pot llegir 'me la pela'. També s'hi diu 'hòstia' (set cops), 'què fots', 'fotut', 'càgon Déu' i 'acollonit'.<br><br><b>Conductes i valors incívics</b><br>En una escena còmica, un home prova de furtar en un hort i intenta subornar a la persona que l'ha descobert perquè no ho expliqui als amos.<br><br>Hi ha una situació de por lleu ja que es fa una broma sobre la mort i la sang."
+  },
+  {
+    "titol": "Cuina salvatge 1x04 - Pa de pessic, meravella de 3 ingredients",
+    "codi": "6247263",
+    "edat": "10",
+    "raons": "Llenguatge groller reiterat d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Durant tot el programa, la cuinera du una samarreta on s'hi pot llegir 'torracollons'. Es diu 'puto' una vegada."
+  },
+  {
+    "titol": "Cuina salvatge 1x05 - Coca de recapte: la reina de totes les festes",
+    "codi": "6247266",
+    "edat": "10",
+    "raons": "Al·lusions al consum de drogues lícites (alcohol), presentat de manera neutra",
+    "mesinfo": "<b>Drogues</b><br>Durant tot el programa, la cuinera du una samarreta on s'hi pot llegir 'sexe, rock i ratafia'.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa ('la mare que em va parir', 'hòstia' dos cops)."
+  },
+  {
+    "titol": "Cuina salvatge 1x06 - Figa Flawas: removent l'escudelleta catalana",
+    "codi": "6247270",
+    "edat": "7",
+    "raons": "Al·lusions sexuals ocasionals d'explicitació baixa<br>Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Sexe</b><br>Se senten cançons de fons que inclouen insinuacions sexuals.<br><br><b>Llenguatge groller</b><br>Es diu 'hòstia', 'joder' i 'fotia' una vegada cadascun.<br><br>Un home utilitza un ganivet per obrir el tap d'un pot."
+  },
+  {
+    "titol": "Cuina salvatge 1x07 - Com aprofitar un pollastre sencer",
+    "codi": "6247274",
+    "edat": "10",
+    "raons": "Llenguatge groller reiterat d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Durant tot el programa, la cuinera du una samarreta on s'hi pot llegir 'qui em va parir'. També s'hi diu 'que t'hi cagues'.<br><br>Hi ha freqüents situacions de por lleu ja que es mostren les entranyes d'un precuinat de pollastre. Es cuina el pollastre amb vi."
+  },
+  {
     "titol": "D'aventura castigats",
     "codi": "daventura-castigats",
     "edat": "10",
