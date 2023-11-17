@@ -8823,6 +8823,13 @@
     "mesinfo": "<b>Llenguatge groller</b><br>Es fan servir les expressions 'qué coño', 'hòstia puta', 'puteamos' o 'de los cojones' un cop cadascuna. També es fan servir expressions lleus com 'hòstia' i 'fotre' ocasionalment.<br><br>Hi ha violència ocasional, irreal, no explícita, lleu i no legitimada. Hi ha referències al consum de drogues lícites, es fan comentaris discriminatoris i es presenten conductes incíviques, tot plegat presentat de manera negativa en un context irreal i satíric. Hi ha situacions ocasionals de por i angoixa lleu en un fragment de l'episodi anterior."
   },
   {
+    "titol": "Polònia 16/11/2023",
+    "codi": "6251415",
+    "edat": "13",
+    "raons": "Llenguatge groller freqüent d'intensitat alta",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es fan servir expressions com 'puta' ('hijo de puta', 'tota la puta vida igual', 'te'n pots anar a la put...'), 'quins collons', 'pedazo de cabrón' o 'hòstia', sovint en contextos agressius.<br><br>Hi ha referències al consum de drogues lícites, i es fan comentaris discriminatoris, presentats de manera neutra en un context humorístic. Hi ha continguts sexuals ocasionals d'explicitació baixa. Hi ha situacions ocasionals de por i angoixa lleu."
+  },
+  {
     "titol": "Presto! L'escola de màgia",
     "codi": "presto-escola-magia",
     "edat": "7",
@@ -9222,6 +9229,24 @@
     "comp": "🇺🇲 TV-G 🇫🇮 7",
     "serie": true,
     "x3": true
+  },
+  {
+    "titol": "Què deu ser?",
+    "codi": "que-deu-ser",
+    "edat": "0",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
+  },
+  {
+    "titol": "Què deu ser? 1x01 - Gran",
+    "codi": "6249770",
+    "edat": "0"
+  },
+  {
+    "titol": "Què deu ser? 1x52 - Ser valent",
+    "codi": "6251081",
+    "edat": "0"
   },
   {
     "titol": "Ràndom",
@@ -10561,6 +10586,13 @@
     "edat": "10",
     "raons": "Al·lusions al consum de drogues lícites (alcohol, tabac) i il·lícites (marihuana), presentats de manera neutra i negativa respectivament<br>Llenguatge groller reiterat d'intensitat baixa",
     "mesinfo": "<b>Drogues</b><br>En un punt del programa, es fan referències negatives al consum de tabac i d'alcohol, vinculant-los a factors de risc per patir un infart. No obstant això, més tard se'n fan de neutres, atès que es mostren imatges del presentador fumant o bevent vi. En el monòleg inicial, es fan referències negatives al consum de marihuana, quan diu que uns companys, que estaven 'contents' sota els efectes de la droga, li van oferir de fumar-ne, però els va rebutjar dient que no vol patir una taquicàrdia per inhalar-ne el fum.<br><br><b>Llenguatge groller</b><br>Tant el presentador com diferents convidats utilitzen reiteradament un llenguatge col·loquial amb ús d'expressions com 'hòstia', 'cagar', 'cony', 'collons', 'cabrona', 'què fots' o 'tenir ous', que s'empren sempre en un context distès i amistós i mai amb una intencionalitat ofensiva. Ocasionalment, el llenguatge assoleix una intensitat alta, quan es parla del 'puto fum' o de 'ja és prou puta, la vida'.<br><br>Hi ha continguts sexuals ocasionals d'explicitació baixa quan es recorda una entrevista que va tenir el presentador on una dona li va ensenyar les calces en un context aparentment no sexual. Hi ha referències violentes irreals en recordar dites com 't'haurem de treure un ull', que es deia de pares a fills. Es fan comentaris lleus en relació amb un infart que un home va patir mentre feia una actuació en directe."
+  },
+  {
+    "titol": "Vosaltres mateixos 1x03 - Rock&roll",
+    "codi": "6250440",
+    "edat": "10",
+    "raons": "Llenguatge groller reiterat d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Tant el presentador com diferents convidats utilitzen reiteradament un llenguatge col·loquial amb ús d'expressions com 'hòstia', 'collons', 'cabrons', 'fotut' o 'cony', que s'empren sempre en un context distès i amistós i mai amb una intencionalitat ofensiva. Ocasionalment, hi ha llenguatge d'intensitat alta ('de puta madre', 'putada', 'toca els ous').<br><br>Hi ha continguts eròtics ocasionals d'explicitació baixa quan, després de fer una llarga explicació sobre adoptar nens, acaba fent-ne un resum amb una deliberada insinuació sexual: 'hi ha molta palla'. Es fa una referència passatgera i negativa al consum de tabac, i pregunten a un grup de rock si mai han pres drogues o alcohol, i responen que no."
   },
   {
     "titol": "Yokai Watch: La pel·lícula",
