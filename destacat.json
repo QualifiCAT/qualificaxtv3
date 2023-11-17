@@ -1,5 +1,13 @@
 [
   {
+    "titol": "Manduka family<br><small>Pastís de patata</small>",
+    "codi": "Manduka family",
+    "edat": "0",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
+  },
+  {
     "titol": "Cuina salvatge<br><small>Com aprofitar un pollastre sencer</small>",
     "codi": "Cuina salvatge",
     "edat": "10",
@@ -44,15 +52,5 @@
     "orig": "TP",
     "serie": true,
     "tv3": true
-  },
-  {
-    "titol": "Git Gud<br><small>Capítol 11</small>",
-    "codi": "Git Gud",
-    "edat": "0",
-    "violencia": true,
-    "por": true,
-    "orig": "TP",
-    "serie": true,
-    "x3": true
   }
 ]
