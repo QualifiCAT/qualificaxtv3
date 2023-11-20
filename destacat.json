@@ -1,5 +1,15 @@
 [
   {
+    "titol": "Git Gud<br><small>Capítol 12</small>",
+    "codi": "Git Gud",
+    "edat": "7",
+    "por": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "x3": true
+  },
+  {
     "titol": "Projecte Beta<br><small>Magsys</small>",
     "codi": "Projecte Beta",
     "edat": "7",
@@ -41,14 +51,5 @@
     "orig": "TP",
     "serie": true,
     "3cat": true
-  },
-  {
-    "titol": "Polònia<br><small>16/11/2023</small>",
-    "codi": "Polònia",
-    "edat": "13",
-    "llenguatge": true,
-    "orig": "7",
-    "serie": true,
-    "tv3": true
   }
 ]
