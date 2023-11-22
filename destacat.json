@@ -1,5 +1,14 @@
 [
   {
+    "titol": "Nits Sense ficció<br><small>(re)pensant l'educació sexual</small>",
+    "codi": "Nits Sense ficció",
+    "edat": "10",
+    "sexe": true,
+    "orig": "7",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Git Gud<br><small>Capítol 12</small>",
     "codi": "Git Gud",
     "edat": "7",
@@ -42,14 +51,5 @@
     "orig": "TP",
     "serie": true,
     "x3": true
-  },
-  {
-    "titol": "Vosaltres mateixos<br><small>Rock&roll</small>",
-    "codi": "Vosaltres mateixos",
-    "edat": "10",
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "3cat": true
   }
 ]
