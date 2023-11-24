@@ -7952,6 +7952,12 @@
     "mesinfo": "<b>Llenguatge groller</b><br>Al final del programa, una noia crida 'hòstia, quin susto'."
   },
   {
+    "titol": "Manduka family 1x07 - Paella",
+    "codi": "6251802",
+    "edat": "0",
+    "mesinfo": "Es fa una referència descontextualitzada al suïcidi quan es reprodueix una cançó que inclou la línia 'sempre deia que a la matinada es mataria'."
+  },
+  {
     "titol": "Manduka family 1x08 - Mandonguilles",
     "codi": "6249337",
     "edat": "7",
@@ -9292,6 +9298,29 @@
     "mesinfo": "<b>Por i angoixa</b><br>Hi ha situacions angoixants lleus en relació amb portals màgics, catàstrofes naturals, un ordinador amb múltiple personalitat que vol destruir els humans i la desaparició d'una màquina del temps que els protagonistes necessiten per tornar al present."
   },
   {
+    "titol": "Punt de no retorn",
+    "codi": "punt-de-no-retorn",
+    "edat": "13",
+    "orig": "TP (excepte episodi 1: 18)",
+    "serie": true,
+    "3cat": true
+  },
+  {
+    "titol": "Punt de no retorn 1x01 - Dins la Jihad Islàmica Palestina i l'alternativa a les armes",
+    "codi": "6224913",
+    "edat": "13",
+    "orig": "18",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat greu, no legitimada"
+  },
+  {
+    "titol": "Punt de no retorn 1x04 - El sacrifici del front d'Ucraïna",
+    "codi": "6252239",
+    "edat": "13",
+    "orig": "TP",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, legitimada<br>Por i angoixa reiterada d'afectació mitjana",
+    "mesinfo": "<b>Violència</b><br>Es mostren imatges en primera persona de tirotejos des del punt de vista del front ucraïnès i com reben atacs del bàndol contrari. En aquestes seqüències, poc més es veu enllà de com s'utilitzen les armes i de com la visió s'ennubola en rebre una explosió enemiga. No obstant això, vegeu també 'Por i angoixa'. En algunes ocasions, es reprodueixen acríticament declaracions de combatents que legitimitzen les seves accions per defensar el país i els seus fills, i per evitar conflictes futurs.<br><br><b>Por i angoixa</b><br>Es fan referències freqüents a morts, ferits i angoixa emocional provocada per la guerra. Es parla explícitament de mutilacions i es mostra com es tracta el peu d'un home, que sagna profundament després de trepitjar una mina. Es mostren cossos essent arrossegats pel terra o guardats en bosses, encara que no se'n fan primers plans.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa ('malparits')."
+  },
+  {
     "titol": "Quanta guerra!",
     "codi": "quanta-guerra",
     "edat": "10",
@@ -10493,6 +10522,13 @@
     "mesinfo": "<b>Drogues</b><br>Es fan referències ocasionals i neutres al consum d'alcohol en un context festiu. També, es comenta que en una entrevista a en Bob Marley no se l'entenia gens perquè anava 'fumat', sense concretar més, però presentat com a quelcom còmic.<br><br><b>Llenguatge groller</b><br>Es fan servir expressions com 'maricón' i 'subnormal' per denunciar casos històrics de discriminació. També hi ha llenguatge d'intensitat baixa ('hosti', 'fotut').<br><br>Hi ha por i angoixa ocasional mitjana, quan es parla de trobar-se cadàvers per un accident aeri o d'afusellaments i mutilacions durant la guerra civil."
   },
   {
+    "titol": "Una altra història 1x04 - Palau Episcopal de Solsona",
+    "codi": "6249802",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Por i angoixa</b><br>Es fan freqüents referències, sense entrar en detalls, de conflictes bèl·lics, execucions i malalties, i es mostren breument imatges del cop d'estat del 23-F.<br><br><b>Llenguatge groller</b><br>Es fan servir 'hosti' i 'fotre' espontàniament en converses col·loquials."
+  },
+  {
     "titol": "Una de les nostres",
     "codi": "una-de-les-nostres",
     "edat": "10",
@@ -10656,6 +10692,7 @@
     "edat": "10",
     "orig": "TP",
     "serie": true,
+    "tv3": true,
     "3cat": true
   },
   {
