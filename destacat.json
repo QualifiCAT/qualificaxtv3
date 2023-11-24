@@ -1,5 +1,33 @@
 [
   {
+    "titol": "Manduka family<br><small>Paella</small>",
+    "codi": "Manduka family",
+    "edat": "0",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
+  },
+  {
+    "titol": "Punt de no retorn<br><small>El sacrifici del front d'Ucraïna</small>",
+    "codi": "Punt de no retorn",
+    "edat": "13",
+    "violencia": true,
+    "por": true,
+    "orig": "TP",
+    "serie": true,
+    "3cat": true
+  },
+  {
+    "titol": "Una altra història<br><small>Palau Episcopal de Solsona</small>",
+    "codi": "Una altra història",
+    "edat": "7",
+    "por": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Nits Sense ficció<br><small>(re)pensant l'educació sexual</small>",
     "codi": "Nits Sense ficció",
     "edat": "10",
@@ -24,31 +52,6 @@
     "edat": "7",
     "por": true,
     "orig": "ERI",
-    "serie": true,
-    "x3": true
-  },
-  {
-    "titol": "Manduka family<br><small>Pastís de patata</small>",
-    "codi": "Manduka family",
-    "edat": "0",
-    "orig": "TP",
-    "serie": true,
-    "x3": true
-  },
-  {
-    "titol": "Cuina salvatge<br><small>Com aprofitar un pollastre sencer</small>",
-    "codi": "Cuina salvatge",
-    "edat": "10",
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "3cat": true
-  },
-  {
-    "titol": "Què deu ser?<br><small>Ser valent</small>",
-    "codi": "Què deu ser?",
-    "edat": "0",
-    "orig": "TP",
     "serie": true,
     "x3": true
   }
