@@ -6256,6 +6256,17 @@
     "mesinfo": "<b>Por i angoixa</b><br>Hi ha freqüents situacions de tensió. Un home amb erupcions a la cara apareix de sobte i amenaça una noia. Un noi s'està ofegant i es diu que morirà, però només estava fingint.<br><br><b>Llenguatge groller</b><br>Es diu 'idiotes'."
   },
   {
+    "titol": "La casa d'Anubis: La pedra angular de Ra",
+    "codi": "5586275",
+    "edat": "7",
+    "orig": "7",
+    "comp": "🇺🇲 TV-G",
+    "peli": true,
+    "x3": true,
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Por i angoixa</b><br>Hi ha múltiples escenes de por, amb un component sobrenatural, atès que l'argument gira entorn a una llegenda on és necessària una relíquia i un sacrifici humà perquè un déu faci ploure or, i que, si no es fa bé, provocarà la fi del món. Hi ha situacions en què una noia és posseïda, parla amb una veu greu, i té poder de fer petar els llums d'una casa, provocar terratrèmols, tancar portes i fer que altra gent se sotmeti a la seva voluntat. La resolució és positiva i hi ha moments còmics que trenquen la tensió.<br><br><b>Llenguatge groller</b><br>Es diu 'estúpid', 'idiota' i 'fote't'.<br><br>Es presenten breument conductes incíviques, com mentir, presentades negativament."
+  },
+  {
     "titol": "La colla de la selva al rescat!",
     "codi": "colla-selva-rescat",
     "edat": "7",
@@ -6298,6 +6309,17 @@
     "x3": true,
     "raons": "Violència reiterada, irreal, explícita, d'intensitat molt lleu, legitimada<br>Llenguatge groller ocasional d'intensitat baixa",
     "mesinfo": "<b>Violència</b><br>Uns dolents tenen amenaçat un poble i la missió dels herois és fer-los fora violentament. Es fa un ús pràcticament ininterromput de llenguatge violent ('us fotrà un mastegot', 'lluitarem cos a cos', 'm'ha trencat les costelles', 'qui s'ha mort', 'picar els dolents', 'els estomacarem', 'hauràs de passar per sobre del meu cadàver', 'revenja', 'esclaus'). Personatges es fan cops al cap, es bufetegen o juguen a ser mestres d'arts marcials. En una batalla campal on bons i dolents no paren de fer-se cops, un dels dolents envia l'heroi contra una superfície i el deixa estabornit; té intencions d'empalar-lo amb un ullal però el seu amic el salva: salta i li mossega l'ull al dolent.<br><br><b>Llenguatge groller</b><br>Es diu 'fotre' i 'idiotes'."
+  },
+  {
+    "titol": "La colla de la selva al rescat!: El tresor del vell Jim",
+    "codi": "6212765",
+    "edat": "7",
+    "orig": "TP",
+    "comp": "🇺🇲 TV-Y 🇩🇪 0 🇫🇮 S",
+    "peli": true,
+    "x3": true,
+    "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, legitimada<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "Nota: Aquesta pel·lícula per a televisió també s'inclou dins la llista de capítols de la primera temporada de la sèrie, dividida en quatre parts. S'analitza de manera compacta, en la seva versió de 42 minuts de durada.<br><br><b>Violència</b><br>Personatges, tant bons com dolents, juguen constantment a pegar-se o es dirigeixen amenaces. Per exemple, un dels goril·les bons només parla de picar, i dona cops de puny en un combat on esclafa una criatura molt més petita que ell, i més tard en una batalla campal on també hi ha explosions, projectils i puntades de peu. Un altre dels bons crida 'estic boig, us trencaré els ossos'. La protagonista rep assetjament al principi de la pel·lícula quan li diuen que el seu pare no està orgullós d'ella i que no serà mai pirata, però demostra el contrari encarant-se finalment amb els pirates malvats; en una ocasió, ataca el pirata antagonista llençant-li un moc a l'ull.<br><br><b>Llenguatge groller</b><br>Es fan servir insults com 'babau', i es diu 'fotre' ('piquem ben fort i fotem cops de sabata') en una ocasió.<br><br><b>Conductes i valors incívics</b><br>Alguns protagonistes menteixen sobre la seva identitat i sobre les seves habilitats per tal de sentir-se acceptats pel grup. També intenten cometre furts o són descuidats amb la seva higiene personal, perquè es consideren pirates. Eventualment, aquestes conductes es presenten negativament.<br><br>Hi ha situacions d'angoixa ocasional lleu quan alguns personatges es troben en perill; per exemple, una girafa queda estabornida i va enfonsant-se al mar fins que un amic la salva."
   },
   {
     "titol": "La colla del camp",
@@ -9296,6 +9318,13 @@
     "edat": "7",
     "raons": "Por i angoixa freqüent d'afectació lleu",
     "mesinfo": "<b>Por i angoixa</b><br>Hi ha situacions angoixants lleus en relació amb portals màgics, catàstrofes naturals, un ordinador amb múltiple personalitat que vol destruir els humans i la desaparició d'una màquina del temps que els protagonistes necessiten per tornar al present."
+  },
+  {
+    "titol": "Projecte Beta 4x11 - Kai",
+    "codi": "6252191",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu",
+    "mesinfo": "<b>Por i angoixa</b><br>S'explica que la protagonista no recorda res del seu passat, que l'única cosa que recorda és que es va despertar en un hospital. Una noia parla amb una màquina malvada que té el poder de provocar-li un desmai cada cop que diu el seu nom."
   },
   {
     "titol": "Punt de no retorn",
