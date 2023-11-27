@@ -1,5 +1,25 @@
 [
   {
+    "titol": "30 minuts<br><small>Som el que llencem</small>",
+    "codi": "30 minuts",
+    "edat": "7",
+    "llenguatge": true,
+    "incivisme": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Git Gud<br><small>Capítol 13</small>",
+    "codi": "Git Gud",
+    "edat": "0",
+    "violencia": true,
+    "por": true,
+    "orig": "TP",
+    "serie": true,
+    "x3": true
+  },
+  {
     "titol": "La casa d'Anubis: La pedra angular de Ra",
     "codi": "La pedra angular de Ra",
     "edat": "7",
@@ -36,25 +56,5 @@
     "orig": "TP",
     "serie": true,
     "x3": true
-  },
-  {
-    "titol": "Punt de no retorn<br><small>El sacrifici del front d'Ucraïna</small>",
-    "codi": "Punt de no retorn",
-    "edat": "13",
-    "violencia": true,
-    "por": true,
-    "orig": "TP",
-    "serie": true,
-    "3cat": true
-  },
-  {
-    "titol": "Una altra història<br><small>Palau Episcopal de Solsona</small>",
-    "codi": "Una altra història",
-    "edat": "7",
-    "por": true,
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
   }
 ]
