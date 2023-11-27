@@ -48,6 +48,14 @@
     "mesinfo": "<b>Por i angoixa</b><br>Es fan referències no detallades a deportacions i assassinats de jueus per part dels nazis, a camps d'internament i a la mort de familiars.<br><br><b>Discriminació, racisme i xenofòbia</b><br>Vegeu 'Por i angoixa'."
   },
   {
+    "titol": "30 minuts - Som el que llencem",
+    "codi": "6252838",
+    "edat": "7",
+    "orig": "TP",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'collonuda' una vegada per referir-se a l'estat d'una peça de fruita.<br><br><b>Conductes i valors incívics</b><br>Es fan referències i es mostren imatges de gent llençant menjar en perfecte estat a les escombraries.<br><br>Hi ha llenguatge violent ocasional referint-se a 'matar' en contextos metafòrics."
+  },
+  {
     "titol": "3 minuts",
     "codi": "3-minuts",
     "edat": "13",
@@ -3786,6 +3794,13 @@
     "edat": "7",
     "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa",
     "mesinfo": "<b>Por i angoixa</b><br>Es mostren conseqüències pertorbadores d'errors de programació, com quan els braços i la cara d'un jugador de bàsquet es deforma, i es fa veure que unes noies presencin l'espectacle i s'espanten. Es mostren imatges reals, amb intencionalitat còmica, de gent tenint accidents anant en bicicleta, alguns casos xocant el cap contra el terra o acompanyant-ho d'efectes sonors. Es veu un nen disfressat caient a terra perquè no s'hi veu. Es mostren imatges reals de gats caient i provocant desperfectes per casa, com quan se'ls cau una finestra a sobre.<br><br><b>Llenguatge groller</b><br>Es diu 'hosti' un cop.<br><br>Hi ha violència irreal, no explícita, molt lleu i no legitimada en imatges de combats de videojocs i d'un animal que dispara rajos làser pels ulls.<br><br>Qualificació dels videojocs mencionats:<br>PEGI 3: 'Forza Horizon 5', 'FIFA 23', 'RBI 20 Baseball', 'Mario Kart (8 Deluxe)', 'FIFA 21', 'Mario Party' (majoria d'entregues), 'Rocket League', 'Pac-Man' (original), 'Sonic the Hedgehog' (original), 'Just Dance' (totes les entregues), 'Animal Crossing' (majoria d'entregues), 'Human Fall Flat', 'Forza Horizon 2', 'SnowRunner'.<br>PEGI 7: 'SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated', 'Pokémon GO', 'Super Mario Odyssey', 'Wii Sports'.<br>PEGI 12: 'Final Fantasy X' (original), 'Genshin Impact'(?), 'DEEEER Simulator', 'Star Wars Jedi: Survivor', 'Loop Hero'.<br>PEGI 16: 'Star Wars: The Old Republic', 'Star Wars Jedi Fallen Order'.<br>PEGI 18: 'DayZ'."
+  },
+  {
+    "titol": "Git Gud 1x13",
+    "codi": "6251726",
+    "edat": "0",
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa ocasional d'afectació lleu",
+    "mesinfo": "<b>Violència</b><br>Es mostren breument imatges de videojocs o de sèries de televisió que mostren combats i baralles sense detall. En imatges d'un joc, un personatge colpeja una pilota amb un bat, i impacta contra la cara d'un altre.<br><br><b>Por i angoixa</b><br>Es mostren imatges reals, amb intencionalitat còmica, de gent sent atacada per gats. També hi ha imatges de gent relliscant a terra o caient enfilades en una escala i esfondrant-se el sostre. Es mostren conseqüències pertorbadores d'errors de programació, com quan el cos d'un personatge desapareix sobtadament, només deixant-hi la roba, quan dos vehicles s'atropellen, o quan un cos fa moviments erràtics.<br><br>Qualificació dels videojocs mencionats:<br>PEGI 3: 'NASCAR Heat Evolution', 'Rocket League', 'F1 2021', 'Stumble Guys', 'FIFA 23', 'Super Mega Baseball 2', 'Poly Bridge', 'Animal Crossing' (majoria d'entregues), 'Mario Kart' (totes les entregues), 'SnowRunner', 'Untitled Goose Game', 'FIFA 19', 'F1 22', 'Forza Horizon 4', 'MX vs ATV Legends', 'A Short Hike'.<br>PEGI 7: 'Cuphead', 'Kirby and the Forgotten Land', 'SpongeBob SquarePants: The Cosmic Shake'.<br>PEGI 12: 'The Legend of Zelda: Breath of the Wild', 'League of Legends', 'Fortnite', 'It Takes Two', 'The Legend of Zelda: Tears of the Kingdom'.<br>PEGI 16: 'Skate 3'."
   },
   {
     "titol": "Gos pudent",
