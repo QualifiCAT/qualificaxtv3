@@ -1,14 +1,15 @@
 [
   {
-    "titol": "La travessa",
-    "edat": "13",
+    "titol": "Vosaltres mateixos",
+    "edat": "10",
     "orig": "TP",
     "novetat": true,
+    "tv3": true,
     "3cat": true
   },
   {
-    "titol": "Vosaltres mateixos",
-    "edat": "10",
+    "titol": "La travessa",
+    "edat": "13",
     "orig": "TP",
     "novetat": true,
     "3cat": true
@@ -39,40 +40,16 @@
     "tv3": true
   },
   {
-    "titol": "Col·lapse",
+    "titol": "Steins;Gate",
     "edat": "13",
-    "orig": "TP",
-    "tv3": true
-  },
-  {
-    "titol": "La vida en calçotets",
-    "edat": "7",
-    "orig": "TP",
+    "orig": "13",
     "novetat": true,
-    "x3": true
-  },
-  {
-    "titol": "La colla del camp",
-    "edat": "10",
-    "orig": "TP",
-    "x3": true
-  },
-  {
-    "titol": "Git Gud",
-    "edat": "7",
-    "orig": "TP",
     "x3": true
   },
   {
     "titol": "One Piece",
     "edat": "13",
     "orig": "10",
-    "x3": true
-  },
-  {
-    "titol": "Els Dalton",
-    "edat": "7",
-    "orig": "TP",
     "x3": true
   },
   {
@@ -84,6 +61,18 @@
   {
     "titol": "Ronja, la filla del bandoler",
     "edat": "10",
+    "orig": "TP",
+    "x3": true
+  },
+  {
+    "titol": "La vida en calçotets",
+    "edat": "7",
+    "orig": "TP",
+    "x3": true
+  },
+  {
+    "titol": "Els Dalton",
+    "edat": "7",
     "orig": "TP",
     "x3": true
   }
