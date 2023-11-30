@@ -10132,6 +10132,15 @@
     "misc": true
   },
   {
+    "titol": "Steins;Gate",
+    "codi": "steins-gate",
+    "edat": "13",
+    "orig": "13",
+    "comp": "🇪🇸 12 (DVD, VOD) 🇺🇲 TV-14 🇩🇪 12 🇬🇧 12 (exceptuant un volum de la T2: 15) 🇦🇺 M (exceptuant un volum de la T2: MA 15+) 🇳🇱 6 (T1), 12 (T2) 🇰🇷 15",
+    "serie": true,
+    "x3": true
+  },
+  {
     "titol": "STEM a Mart: Missió Hypatia",
     "codi": "stem-a-mart",
     "edat": "0",
