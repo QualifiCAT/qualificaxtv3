@@ -1,5 +1,13 @@
 [
   {
+    "titol": "Manduka family<br><small>Fricandó</small>",
+    "codi": "Manduka family",
+    "edat": "0",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
+  },
+  {
     "titol": "30 minuts<br><small>Som el que llencem</small>",
     "codi": "30 minuts",
     "edat": "7",
@@ -46,14 +54,6 @@
     "edat": "7",
     "por": true,
     "orig": "ERI",
-    "serie": true,
-    "x3": true
-  },
-  {
-    "titol": "Manduka family<br><small>Paella</small>",
-    "codi": "Manduka family",
-    "edat": "0",
-    "orig": "TP",
     "serie": true,
     "x3": true
   }
