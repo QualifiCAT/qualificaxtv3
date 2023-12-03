@@ -1,5 +1,14 @@
 [
   {
+    "titol": "Projecte Beta<br><small>Bufaré i bufaré...</small>",
+    "codi": "Projecte Beta",
+    "edat": "7",
+    "por": true,
+    "orig": "ERI",
+    "serie": true,
+    "x3": true
+  },
+  {
     "titol": "Manduka family<br><small>Fricandó</small>",
     "codi": "Manduka family",
     "edat": "0",
@@ -46,15 +55,6 @@
     "incivisme": true,
     "orig": "TP",
     "peli": true,
-    "x3": true
-  },
-  {
-    "titol": "Projecte Beta<br><small>Kai</small>",
-    "codi": "Projecte Beta",
-    "edat": "7",
-    "por": true,
-    "orig": "ERI",
-    "serie": true,
     "x3": true
   }
 ]
