@@ -227,6 +227,22 @@
     "raons": "Consum de drogues lícites (tabac, alcohol) i il·lícites (marihuana), amb presentació neutra<br>Llenguatge groller freqüent d'intensitat alta"
   },
   {
+    "titol": "'Allo 'Allo!",
+    "codi": "allo-allo",
+    "edat": "10",
+    "orig": "TP",
+    "comp": "🇩🇪 12 🇬🇧 PG 🇦🇺 PG 🇳🇱 12 🇫🇮 7",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "'Allo 'Allo! 1x01 - Arriben els britànics",
+    "codi": "6253994",
+    "edat": "10",
+    "raons": "Referències sexuals freqüents d'explicitació baixa<br>Consum de drogues lícites presentat de manera neutra",
+    "mesinfo": "<b>Sexe</b><br>Es fan freqüents referències a continguts sexuals, incloent-hi a la prostitució, a ereccions i als pits d'una dona, però es presenten majoritàriament com a insinuacions, d'explicitació baixa i amb una intencionalitat còmica.<br><br><b>Drogues</b><br>Es fan referències i hi ha imatges de consum de tabac i d'alcohol, sense sanció en el relat.<br><br>Hi ha situacions freqüents de por i angoixa lleu, quan unes persones són amenaçades amb pistoles o quan una dona gran és maltractada verbalment, tot i que són escenes que es presenten de manera còmica. Hi ha llenguatge groller ocasional d'intensitat baixa, ja que es fan servir expressions com 'babau' o 'idiotes'."
+  },
+  {
     "titol": "Al cotxe",
     "codi": "al-cotxe",
     "edat": "10",
@@ -10106,6 +10122,29 @@
     "mesinfo": "<b>Por i angoixa</b><br>Es veuen breument en primer pla dos guepards devorant les entranyes d'una presa. Es veu un ullal tacat de sang d'un elefant. Es veu un lleó corrent amb una presa a la boca."
   },
   {
+    "titol": "Sí, ministre",
+    "codi": "si-ministre",
+    "edat": "10",
+    "orig": "TP",
+    "comp": "🇩🇪 0 (excepte un episodi: 6) 🇬🇧 PG 🇦🇺 G 🇳🇱 AL 🇫🇮 S",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Sí, ministre 1x01 - Govern obert",
+    "codi": "6253266",
+    "edat": "10",
+    "raons": "Consum de drogues lícites presentat de manera neutra",
+    "mesinfo": "<b>Drogues</b><br>Hi ha escenes en què es fa referència i es consumeixen begudes alcohòliques, sense sanció en el relat. En una altra escena, una dona diu que busca cigarrets i demana que li en comprin.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa, ja que es fan servir expressions com 'idiota' o 'estúpid'."
+  },
+  {
+    "titol": "Sí, ministre 1x02 - La visita oficial",
+    "codi": "6253265",
+    "edat": "7",
+    "raons": "Comportaments discriminatoris amb sanció negativa",
+    "mesinfo": "<b>Discriminació, racisme i xenofòbia</b><br>Es fan algunes bromes en relació amb un president que ha assolit el poder en un país africà mitjançant un cop d'estat, i sobre com podrien ser útils els seus recursos per a l'economia britànica. En una escena, el ministre li diu al president 'temps quan no veure't', i ell respon que 'no cal que em parlis com els indis'."
+  },
+  {
     "titol": "Si no t'hagués conegut",
     "codi": "si-no-thagues-conegut",
     "edat": "13",
@@ -10113,6 +10152,29 @@
     "comp": "🇪🇸 16 (VOD) 🇺🇲 TV-MA 🇩🇪 16 🇬🇧 18 🇦🇺 MA 15+ 🇳🇱 12 🇧🇷 16",
     "serie": true,
     "tv3": true
+  },
+  {
+    "titol": "Sí, primer ministre",
+    "codi": "si-primer-ministre",
+    "edat": "10",
+    "orig": "TP",
+    "comp": "🇩🇪 0 🇬🇧 U (excepte un episodi: PG) 🇦🇺 G 🇳🇱 AL 🇫🇮 S",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Sí, primer ministre 1x01 - El gran projecte",
+    "codi": "6253975",
+    "edat": "10",
+    "raons": "Referències neutres al consum de drogues lícites<br>Comentaris discriminatoris amb sanció neutra",
+    "mesinfo": "<b>Drogues</b><br>Es fan algunes referències negatives i neutres relatives al consum d'alcohol.<br><br><b>Discriminació, racisme i xenofòbia</b><br>Es fan comentaris on es dona per entès que ha de ser una dona qui ha de cuinar pel primer ministre. Un home comenta que 'els reclutes no saben si són homes o dones fins que no arriben'.<br><br>Hi ha situacions angoixants freqüents d'afectació lleu ja que es fan constants referències a atacs d'exèrcits estrangers; sobre un dels plans de defensa que es plantegen, es comenta que seria un 'suïcidi'."
+  },
+  {
+    "titol": "Sí, primer ministre 1x02 - El missatge del primer ministre",
+    "codi": "6253974",
+    "edat": "7",
+    "raons": "Referències negatives al consum de drogues lícites",
+    "mesinfo": "<b>Drogues</b><br>Es fan algunes referències negatives relatives al consum d'alcohol.<br><br>Hi ha situacions angoixants ocasionals d'afectació lleu quan es parla de 'donar armes als joves i ensenyar-los a matar'."
   },
   {
     "titol": "Somos osos",
