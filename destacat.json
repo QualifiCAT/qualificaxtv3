@@ -1,5 +1,34 @@
 [
   {
+    "titol": "'Allo 'Allo!<br><small>Arriben els britànics</small>",
+    "codi": "'Allo 'Allo!",
+    "edat": "10",
+    "sexe": true,
+    "drogues": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Sí, primer ministre<br><small>El gran projecte</small>",
+    "codi": "Sí, primer ministre",
+    "edat": "10",
+    "drogues": true,
+    "discriminacio": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Sí, ministre<br><small>Govern obert</small>",
+    "codi": "Sí, ministre",
+    "edat": "10",
+    "drogues": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Git Gud<br><small>Capítol 14</small>",
     "codi": "Git Gud",
     "edat": "7",
@@ -24,37 +53,6 @@
     "edat": "0",
     "orig": "TP",
     "serie": true,
-    "x3": true
-  },
-  {
-    "titol": "30 minuts<br><small>Som el que llencem</small>",
-    "codi": "30 minuts",
-    "edat": "7",
-    "llenguatge": true,
-    "incivisme": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "La casa d'Anubis: La pedra angular de Ra",
-    "codi": "La pedra angular de Ra",
-    "edat": "7",
-    "por": true,
-    "llenguatge": true,
-    "orig": "7",
-    "peli": true,
-    "x3": true
-  },
-  {
-    "titol": "La colla de la selva al rescat!: El tresor del vell Jim",
-    "codi": "La colla de la selva al rescat!: El tresor del vell Jim",
-    "edat": "7",
-    "violencia": true,
-    "llenguatge": true,
-    "incivisme": true,
-    "orig": "TP",
-    "peli": true,
     "x3": true
   }
 ]
