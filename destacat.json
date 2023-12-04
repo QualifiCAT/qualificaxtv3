@@ -1,5 +1,14 @@
 [
   {
+    "titol": "30 minuts<br><small>Viure sense regles</small>",
+    "codi": "30 minuts",
+    "edat": "13",
+    "sexe": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "'Allo 'Allo!<br><small>Arriben els britànics</small>",
     "codi": "Allo Allo!",
     "edat": "10",
@@ -44,14 +53,6 @@
     "edat": "7",
     "por": true,
     "orig": "ERI",
-    "serie": true,
-    "x3": true
-  },
-  {
-    "titol": "Manduka family<br><small>Fricandó</small>",
-    "codi": "Manduka family",
-    "edat": "0",
-    "orig": "TP",
     "serie": true,
     "x3": true
   }
