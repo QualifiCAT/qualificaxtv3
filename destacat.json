@@ -1,5 +1,15 @@
 [
   {
+    "titol": "Git Gud<br><small>Capítol 14</small>",
+    "codi": "Git Gud",
+    "edat": "7",
+    "violencia": true,
+    "por": true,
+    "orig": "TP",
+    "serie": true,
+    "x3": true
+  },
+  {
     "titol": "Projecte Beta<br><small>Bufaré i bufaré...</small>",
     "codi": "Projecte Beta",
     "edat": "7",
@@ -25,16 +35,6 @@
     "orig": "TP",
     "serie": true,
     "tv3": true
-  },
-  {
-    "titol": "Git Gud<br><small>Capítol 13</small>",
-    "codi": "Git Gud",
-    "edat": "0",
-    "violencia": true,
-    "por": true,
-    "orig": "TP",
-    "serie": true,
-    "x3": true
   },
   {
     "titol": "La casa d'Anubis: La pedra angular de Ra",
