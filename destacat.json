@@ -19,7 +19,7 @@
   },
   {
     "titol": "'Allo 'Allo!<br><small>Arriben els britànics</small>",
-    'codi': ''\Allo '\Allo!',
+    "codi": "''Allo ''Allo!",
     "edat": "10",
     "sexe": true,
     "drogues": true,
