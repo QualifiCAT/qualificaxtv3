@@ -1513,6 +1513,15 @@
     "mesinfo": "<b>Violència</b><br>Chop fa córrer un cotxe de joguina i intenta utilitzar una de les rodes en moviment com si fos una radial per poder tallar el nus de la cua que l'uneix a Chip."
   },
   {
+    "titol": "Clipping",
+    "codi": "clipping",
+    "edat": "13",
+    "orig": "TP",
+    "serie": true,
+    "33": true,
+    "misc": true
+  },
+  {
     "titol": "Club Winx. L'aventura màgica",
     "codi": "5817761",
     "edat": "7",
