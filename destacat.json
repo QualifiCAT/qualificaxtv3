@@ -1,5 +1,14 @@
 [
   {
+    "titol": "Clipping<br><small>30/11/2023</small>",
+    "codi": "Clipping",
+    "edat": "13",
+    "drogues": true,
+    "orig": "TP",
+    "serie": true,
+    "33": true
+  },
+  {
     "titol": "30 minuts<br><small>Viure sense regles</small>",
     "codi": "30 minuts",
     "edat": "13",
@@ -44,15 +53,6 @@
     "violencia": true,
     "por": true,
     "orig": "TP",
-    "serie": true,
-    "x3": true
-  },
-  {
-    "titol": "Projecte Beta<br><small>Bufaré i bufaré...</small>",
-    "codi": "Projecte Beta",
-    "edat": "7",
-    "por": true,
-    "orig": "ERI",
     "serie": true,
     "x3": true
   }
