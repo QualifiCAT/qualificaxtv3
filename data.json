@@ -8567,6 +8567,15 @@
     "mesinfo": "<b>Violència</b><br>Hi ha freqüents combats entre personatges amb superpoders, amb explosions, electrocutacions, incendis, tirotejos, cops de puny, fletxes, armes, atropellaments... Algunes escenes són cruents, provoquen hemorràgies abundants i es fa èmfasi en la sang. Per exemple, un dolent té una arma formada per fulles molt esmolades i travessen, freguen, i es claven, per tot el cos d'un dels herois, deixant-lo malferit per tot arreu, fins i tot a l'ull. Uns làsers travessen el cos d'un heroi per diverses zones, com el cap o les cames, i sagna profundament. També disparen a un noi i veiem com deixa un rastre de sang per les parets i pel terra mentre intenta fer passes, fins al punt que rellisca amb la seva pròpia sang, s'arrossega per terra i es dona per mort. L'heroi fa talls en els braços del dolent per rematar-lo. Claven una fletxa en el cos d'un noi i surt sang, també quan se l'arrenca per la força. En altres escenes, hi ha pànic entre la població, i un atemptat mostra com gent mor després de patir combustió espontània o provocar destrucció. Un malvat diu que va plantejar-se el suïcidi.<br><br><b>Por i angoixa</b><br>Vegeu 'Violència'.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa, com 'merda', 'merdosos' o 'idiota'. Hi ha conductes i valors incívics en forma d'actes criminals com atracaments o robatoris, presentats de manera negativa. Molt ocasionalment, es veu un bar on s'hi ofereixen i consumeixen begudes alcohòliques."
   },
   {
+    "titol": "Naruto",
+    "codi": "naruto",
+    "edat": "13",
+    "orig": "10",
+    "comp": "🇪🇸 TP, 7 o 12 (depèn del canal, mitjà i època d'emissió) 🇺🇲 TV-14 🇩🇪 16 🇬🇧 15 🇦🇺 M 🇳🇱 12",
+    "serie": true,
+    "x3": true
+  },
+  {
     "titol": "Nico 2: Germà petit, problema gran",
     "codi": "5806346",
     "edat": "7",
