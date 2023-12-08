@@ -1,5 +1,14 @@
 [
   {
+    "titol": "Manduka family<br><small>Pa de pessic</small>",
+    "codi": "Manduka family",
+    "edat": "7",
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "x3": true
+  },
+  {
     "titol": "Tina Superbruixa: Nova aventura d'hivern",
     "codi": "Tina Superbruixa: Nova aventura d'hivern",
     "edat": "7",
@@ -42,15 +51,6 @@
     "edat": "10",
     "drogues": true,
     "discriminacio": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "Sí, ministre<br><small>Govern obert</small>",
-    "codi": "Sí, ministre",
-    "edat": "10",
-    "drogues": true,
     "orig": "TP",
     "serie": true,
     "tv3": true
