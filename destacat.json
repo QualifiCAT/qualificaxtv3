@@ -1,5 +1,14 @@
 [
   {
+    "titol": "Èxode",
+    "codi": "Èxode",
+    "edat": "18",
+    "violencia": true,
+    "orig": "10",
+    "peli": true,
+    "tv3": true
+  },
+  {
     "titol": "Manduka family<br><small>Pa de pessic</small>",
     "codi": "Manduka family",
     "edat": "7",
@@ -41,16 +50,6 @@
     "edat": "10",
     "sexe": true,
     "drogues": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "Sí, primer ministre<br><small>El gran projecte</small>",
-    "codi": "Sí, primer ministre",
-    "edat": "10",
-    "drogues": true,
-    "discriminacio": true,
     "orig": "TP",
     "serie": true,
     "tv3": true
