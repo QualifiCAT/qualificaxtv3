@@ -227,7 +227,7 @@
   },
   {
     "titol": "Alcarràs",
-    "codi": "32555555555",
+    "codi": "6252399",
     "edat": "13",
     "comp": "🇪🇸 7 (prèviament: 12) 🇩🇪 6 🇬🇧 15 🇦🇺 M 🇳🇱 12 🇫🇮 7 🇵🇹 M/12",
     "peli": true,
@@ -8078,6 +8078,13 @@
     "mesinfo": "Hi ha un sol ús de llenguatge groller ('és fotut'). Es fa servir alcohol per cuinar."
   },
   {
+    "titol": "Manduka family 1x11 - Pa de pessic",
+    "codi": "6254465",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Un dels nens diu 'hòstia' en una ocasió."
+  },
+  {
     "titol": "Marcus Level",
     "codi": "marcus-level",
     "edat": "10",
@@ -10590,7 +10597,7 @@
     "codi": "6254469",
     "edat": "7",
     "orig": "TP",
-    "comp": "🇩🇪 0",
+    "comp": ""🇪🇸 A/i 🇩🇪 0",
     "peli": true,
     "x3": true,
     "raons": "Conductes i valors incívics amb sanció negativa",
