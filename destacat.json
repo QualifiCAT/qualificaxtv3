@@ -1,5 +1,14 @@
 [
   {
+    "titol": "Tina Superbruixa: Nova aventura d'hivern",
+    "codi": "Tina Superbruixa: Nova aventura d'hivern",
+    "edat": "7",
+    "incivisme": true,
+    "orig": "TP",
+    "peli": true,
+    "x3": true
+  },
+  {
     "titol": "Clipping<br><small>30/11/2023</small>",
     "codi": "Clipping",
     "edat": "13",
@@ -45,15 +54,5 @@
     "orig": "TP",
     "serie": true,
     "tv3": true
-  },
-  {
-    "titol": "Git Gud<br><small>Capítol 14</small>",
-    "codi": "Git Gud",
-    "edat": "7",
-    "violencia": true,
-    "por": true,
-    "orig": "TP",
-    "serie": true,
-    "x3": true
   }
 ]
