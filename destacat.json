@@ -1,5 +1,16 @@
 [
   {
+    "titol": "30 minuts<br><small>Drets vulnerats</small>",
+    "codi": "30 minuts",
+    "edat": "7",
+    "violencia": true,
+    "por": true,
+    "discriminacio": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Èxode",
     "codi": "Èxode",
     "edat": "18",
@@ -40,16 +51,6 @@
     "codi": "30 minuts",
     "edat": "13",
     "sexe": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "'Allo 'Allo!<br><small>Arriben els britànics</small>",
-    "codi": "allo ",
-    "edat": "10",
-    "sexe": true,
-    "drogues": true,
     "orig": "TP",
     "serie": true,
     "tv3": true
