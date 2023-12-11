@@ -3780,7 +3780,7 @@
   {
     "titol": "Git Gud",
     "codi": "git-gud",
-    "edat": "7",
+    "edat": "10",
     "orig": "TP",
     "serie": true,
     "x3": true
@@ -3882,6 +3882,13 @@
     "edat": "7",
     "raons": "Violència ocasional, irreal, no explícita, d'intensitat lleu, no legitimada<br>Por i angoixa freqüent d'afectació lleu",
     "mesinfo": "<b>Violència</b><br>Imatges d'un videojoc mostren un cavaller pegant una armadura fins despedaçar-la.<br><br><b>Por i angoixa</b><br>Es mostren imatges reals, amb intencionalitat còmica, de gent tenint accidents fent caiac o xutant una pilota (per exemple, quan una pilota impacta contra el sostre i cau un fluorescent a sobre d'un home), i d'un nen rebent cops en un inflable d'un part d'atraccions. Es mostren conseqüències pertorbadores d'errors de programació, com quan el braç d'una persona es deforma, acompanyant-ho amb vídeos reals de gent cridant espantada. Es fan al·lusions a la mort.<br><br>Hi ha un sol ús de llenguatge groller ('càgon l'os pedrer'). Hi ha una breu escena representant un error de programació en què sembla que un personatge acaricia el cul d'un altre per sobre de la roba.<br><br>Qualificació dels videojocs mencionats:<br>PEGI 3: 'PES 2020', 'Animal Crossing' (majoria d'entregues), 'Forza Horizon 4', 'FIFA 19', 'Pokémon Verde / Esmeralda', 'Fall Guys', 'Pikmin 4', 'FIFA 23', 'PGA Tour 2K21', 'Untitled Goose Game', 'Forza Horizon 5', 'Bug Fables', 'Paper Mario' (majoria d'entregues).<br>PEGI 7: 'Hello Neighbor' (original), 'Super Smash Bros.' (original), 'Adam's Venture: Origins'.<br>PEGI 12: 'Wreckfest', 'The Last Guardian', 'League of Legends', 'Commandos' (algunes entregues i remakes són PEGI 16), 'Genshin Impact', 'Hogwarts Legacy', 'Star Wars Jedi: Survivor'.<br>PEGI 16: 'Skate 2'.<br>PEGI 18: 'Resident Evil' (majoria d'entregues), 'Call of Duty' (majoria d'entregues)."
+  },
+  {
+    "titol": "Git Gud 1x15",
+    "codi": "6254368",
+    "edat": "10",
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat greu, no legitimada",
+    "mesinfo": "<b>Violència</b><br>Es mostren imatges de jugabilitat d'entregues de la saga 'Super Meat Boy', uns plataformes on el protagonista deixa un rastre vermell, com si fos sang, per allà on passa. En morir, esquitxa la pantalla i s'omple de vermell, i deixa tacades unes serres o l'espai en el mapa per als nivells. També es mostren imatges de 'Children of Morta', on es presenten combats irreals, bassals de sang i el que semblen ser cadàvers estesos a terra, tot i que tot plegat manca de detall. Tots aquests jocs tenen una qualificació de PEGI 12.<br><br>Hi ha por i angoixa freqüent d'afectació lleu (imatges d'accidents domèstics, de gats atacant a persones, errors de programació emfatitzats per música de pel·lícula de terror). Hi ha llenguatge groller ocasional d'intensitat baixa ('et fotré').<br><br>Qualificació dels videojocs mencionats:<br>PEGI 3: 'FIFA 23', 'Forza Horizon 4', 'Project Cars', 'F1 2020', 'Farming Simulator'.<br>PEGI 7: 'Minecraft', 'Leyendas Pokémon: Arceus', 'Burnout Paradise'.<br>PEGI 12: 'Need for Speed Payback, 'Hogwarts Legacy', 'Star Wars Jedi: Survivor', 'Super Meat Boy (Forever)', 'Monkey Island' (majoria d'entregues), 'The Sims 4', 'Need for Speed Unbound', 'Children of Morta', 'Forza Horizon' (original).<br>PEGI 18: 'Call of Duty' (majoria d'entregues), 'The Last of Us' (totes les entregues)."
   },
   {
     "titol": "Gos pudent",
