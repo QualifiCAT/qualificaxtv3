@@ -1,5 +1,14 @@
 [
   {
+    "titol": "Git Gud<br><small>Capítol 15</small>",
+    "codi": "Git Gud",
+    "edat": "10",
+    "violencia": true,
+    "orig": "TP",
+    "serie": true,
+    "x3": true
+  },
+  {
     "titol": "30 minuts<br><small>Drets vulnerats</small>",
     "codi": "30 minuts",
     "edat": "7",
@@ -45,14 +54,5 @@
     "orig": "TP",
     "serie": true,
     "33": true
-  },
-  {
-    "titol": "30 minuts<br><small>Viure sense regles</small>",
-    "codi": "30 minuts",
-    "edat": "13",
-    "sexe": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
   }
 ]
