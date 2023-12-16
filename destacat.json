@@ -1,5 +1,22 @@
 [
   {
+    "titol": "Tik Tak Factory<br><small>Fantasia</small>",
+    "codi": "Tik Tak Factory",
+    "edat": "7",
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "x3": true
+  },
+  {
+    "titol": "Manduka family<br><small>Crestes</small>",
+    "codi": "Manduka family",
+    "edat": "0",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
+  },
+  {
     "titol": "Git Gud<br><small>Capítol 15</small>",
     "codi": "Git Gud",
     "edat": "10",
@@ -29,15 +46,6 @@
     "tv3": true
   },
   {
-    "titol": "Manduka family<br><small>Pa de pessic</small>",
-    "codi": "Manduka family",
-    "edat": "7",
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "x3": true
-  },
-  {
     "titol": "Tina Superbruixa: Nova aventura d'hivern",
     "codi": "Tina Superbruixa: Nova aventura d'hivern",
     "edat": "7",
@@ -45,14 +53,5 @@
     "orig": "TP",
     "peli": true,
     "x3": true
-  },
-  {
-    "titol": "Clipping<br><small>30/11/2023</small>",
-    "codi": "Clipping",
-    "edat": "13",
-    "drogues": true,
-    "orig": "TP",
-    "serie": true,
-    "33": true
   }
 ]
