@@ -8110,6 +8110,11 @@
     "mesinfo": "<b>Llenguatge groller</b><br>Un dels nens diu 'hòstia' en una ocasió."
   },
   {
+    "titol": "Manduka family 1x12 - Crestes",
+    "codi": "6255954",
+    "edat": "0"
+  },
+  {
     "titol": "Marcus Level",
     "codi": "marcus-level",
     "edat": "10",
@@ -10616,6 +10621,21 @@
     "peli": true,
     "x3": true,
     "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, legitimada<br>Comentaris sexuals ocasionals d'explicitació baixa<br>Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "Tik Tak Factory",
+    "codi": "tik-tak-factory",
+    "edat": "7",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
+  },
+  {
+    "titol": "Tik Tak Factory 1x01 - Fantasia",
+    "codi": "6255701",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Un dels nens diu 'ja l'he cagat'. Un membre del jurat diu 'hosti'."
   },
   {
     "titol": "Tina Superbruixa: Nova aventura d'hivern",
