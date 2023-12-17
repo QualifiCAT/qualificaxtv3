@@ -1,5 +1,14 @@
 [
   {
+    "titol": "Projecte Beta<br><small>Amiga meva</small>",
+    "codi": "Projecte Beta",
+    "edat": "7",
+    "por": true,
+    "orig": "ERI",
+    "serie": true,
+    "x3": true
+  },
+  {
     "titol": "Tik Tak Factory<br><small>Fantasia</small>",
     "codi": "Tik Tak Factory",
     "edat": "7",
@@ -44,14 +53,5 @@
     "orig": "10",
     "peli": true,
     "tv3": true
-  },
-  {
-    "titol": "Tina Superbruixa: Nova aventura d'hivern",
-    "codi": "Tina Superbruixa: Nova aventura d'hivern",
-    "edat": "7",
-    "incivisme": true,
-    "orig": "TP",
-    "peli": true,
-    "x3": true
   }
 ]
