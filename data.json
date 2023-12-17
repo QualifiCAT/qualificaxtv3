@@ -5726,6 +5726,29 @@
     "x3": true
   },
   {
+    "titol": "Jamie Johnson",
+    "codi": "jamie-johnson",
+    "edat": "7",
+    "orig": "TP",
+    "comp": "🇦🇺 PG 🇸🇬 PG",
+    "serie": true,
+    "x3": true
+  },
+  {
+    "titol": "Jamie Johnson 3x03 - L'escorpí",
+    "codi": "6136190",
+    "edat": "7",
+    "raons": "Situacions discriminatòries sancionades negativament<br>Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Discriminació, racisme i xenofòbia</b><br>Es fan comentaris i hi ha situacions discriminatories vers un alumne amb TDAH. Per exemple, uns abusananos conviden a aquest alumne a fer malifetes amb ells i el deixen sol en aparèixer una professora.<br><br><b>Llenguatge groller</b><br>Es diu 'estúpid', 'inútil' i 'l'ha cagat'.<br><br>Hi ha situacions ocasionals de por i angoixa lleu."
+  },
+  {
+    "titol": "Jamie Johnson 3x04 - El trencacors",
+    "codi": "6136980",
+    "edat": "7",
+    "raons": "Situacions discriminatòries sancionades negativament<br>Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Discriminació, racisme i xenofòbia</b><br>Un abusananos fa burla en públic del pare d'un alumne, anomenant-lo 'sensesostre'. Després, fa burla de l'aparença física d'un company, i es fan bretolades entre ells.<br><br><b>Llenguatge groller</b><br>Es diu 'inútil' i 'patètic'."
+  },
+  {
     "titol": "Jenny",
     "codi": "jenny",
     "edat": "10",
