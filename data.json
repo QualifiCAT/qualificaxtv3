@@ -395,6 +395,16 @@
     "edat": "0"
   },
   {
+    "titol": "Al mar! 1x19 - Vols a prendre a navegar? A Vilassar de Mar!",
+    "codi": "6243376",
+    "edat": "0"
+  },
+  {
+    "titol": "Al mar! 1x20 - Camí a la Copa Amèrica",
+    "codi": "6244571",
+    "edat": "0"
+  },
+  {
     "titol": "Anfibilandia",
     "codi": "anfibilandia",
     "edat": "10",
@@ -702,11 +712,25 @@
   {
     "titol": "Bestial!",
     "codi": "bestial",
-    "edat": "0",
+    "edat": "7",
     "orig": "TP",
     "comp": "🇦🇺 G",
     "serie": true,
     "x3": true
+  },
+  {
+    "titol": "Bestial! 1x01 - El diable de Tasmània",
+    "codi": "6092856",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'no fotis' i 'fot-li'.<br><br>Hi ha situacions ocasionals de por i angoixa lleu en comentar que uns animals es van començar a extingir per un càncer, i quan uns animals es barallen per un cadàver, sense imatges explícites."
+  },
+  {
+    "titol": "Bestial! 1x02 - L'aranya de tela d'embut",
+    "codi": "6093932",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'no fotis'.<br><br>Hi ha situacions ocasionals de por i angoixa lleu en comentar la mortalitat de la picada d'una aranya."
   },
   {
     "titol": "Black Clover",
@@ -5745,8 +5769,8 @@
     "titol": "Jamie Johnson 3x04 - El trencacors",
     "codi": "6136980",
     "edat": "7",
-    "raons": "Situacions discriminatòries sancionades negativament<br>Llenguatge groller ocasional d'intensitat baixa",
-    "mesinfo": "<b>Discriminació, racisme i xenofòbia</b><br>Un abusananos fa burla en públic del pare d'un alumne, anomenant-lo 'sensesostre'. Després, fa burla de l'aparença física d'un company, i es fan bretolades entre ells.<br><br><b>Llenguatge groller</b><br>Es diu 'inútil' i 'patètic'."
+    "raons": "Situacions discriminatòries sancionades negativament<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "<b>Discriminació, racisme i xenofòbia</b><br>Un abusananos fa burla en públic del pare d'un alumne, anomenant-lo 'sensesostre'. Després, fa burla de l'aparença física d'un company, i es fan bretolades entre ells.<br><br><b>Llenguatge groller</b><br>Es diu 'inútil' i 'patètic'.<br><br><b>Conductes i valors incívics</b><br>Un noi és expulsat d'un equip per incidències reiterades. Un noi pispa les claus d'una habitació, sense avisar-ne el propietari, perquè el seu pare s'hi quedi a dormir."
   },
   {
     "titol": "Jenny",
