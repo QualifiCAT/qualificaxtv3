@@ -6696,6 +6696,15 @@
     "mesinfo": "<b>Llenguatge groller</b><br>L'episodi mostra bàsicament una acalorada discussió on s'hi fan servir expressions com 'puta merda', 'puta hippie', 'tu també vas fotent la culpa', 'm'estàs tocant els collons', 'no et pots presentar a la puta matinada', 'no em toquis els ous', 'desgraciat', 'gilipolles', 'què collons' i 'què cony'.<br><br>Hi ha consum d'alcohol presentat de manera neutra. Hi ha continguts sexuals ocasionals d'explicitació mitjana quan es mostra un preservatiu a càmera. Hi ha situacions d'angoixa freqüents d'afectació lleu (vegeu 'Llenguatge groller')."
   },
   {
+    "titol": "La pitjor bruixa",
+    "codi": "pitjor-bruixa",
+    "edat": "7",
+    "orig": "TP",
+    "comp": "🇪🇸 7 (VOD) 🇺🇲 TV-Y7 🇩🇪 6 🇬🇧 PG 🇦🇺 PG 🇳🇱 9 🇧🇷 10",
+    "serie": true,
+    "x3": true
+  },
+  {
     "titol": "La Puntual",
     "codi": "la-puntual",
     "edat": "13",
