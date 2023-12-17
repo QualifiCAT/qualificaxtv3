@@ -1,10 +1,28 @@
 [
   {
+    "titol": "Bestial!<br><small>L'aranya de tela d'embut</small>",
+    "codi": "Bestial!",
+    "edat": "7",
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "x3": true
+  },
+  {
+    "titol": "Al mar!<br><small>Camí a la Copa Amèrica</small>",
+    "codi": "Al mar!",
+    "edat": "0",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
+  },
+  {
     "titol": "Jamie Johnson<br><small>El trencacors</small>",
     "codi": "Jamie Johnson",
     "edat": "7",
     "discriminacio": true,
     "llenguatge": true,
+    "incivisme": true,
     "orig": "TP",
     "serie": true,
     "x3": true
@@ -34,25 +52,5 @@
     "orig": "TP",
     "serie": true,
     "x3": true
-  },
-  {
-    "titol": "Git Gud<br><small>Capítol 15</small>",
-    "codi": "Git Gud",
-    "edat": "10",
-    "violencia": true,
-    "orig": "TP",
-    "serie": true,
-    "x3": true
-  },
-  {
-    "titol": "30 minuts<br><small>Drets vulnerats</small>",
-    "codi": "30 minuts",
-    "edat": "7",
-    "violencia": true,
-    "por": true,
-    "discriminacio": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
   }
 ]
