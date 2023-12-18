@@ -1,5 +1,14 @@
 [
   {
+    "titol": "Git Gud<br><small>Capítol 16</small>",
+    "codi": "Git Gud",
+    "edat": "7",
+    "por": true,
+    "orig": "TP",
+    "serie": true,
+    "x3": true
+  },
+  {
     "titol": "Bestial!<br><small>L'aranya de tela d'embut</small>",
     "codi": "Bestial!",
     "edat": "7",
@@ -41,14 +50,6 @@
     "codi": "Tik Tak Factory",
     "edat": "7",
     "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "x3": true
-  },
-  {
-    "titol": "Manduka family<br><small>Crestes</small>",
-    "codi": "Manduka family",
-    "edat": "0",
     "orig": "TP",
     "serie": true,
     "x3": true
