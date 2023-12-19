@@ -1,5 +1,17 @@
 [
   {
+    "titol": "Això no és Suècia<br><small>El sexe</small>",
+    "codi": "Això no és Suècia",
+    "edat": "13",
+    "sexe": true,
+    "drogues": true,
+    "discriminacio": true,
+    "llenguatge": true,
+    "orig": "13",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Git Gud<br><small>Capítol 16</small>",
     "codi": "Git Gud",
     "edat": "7",
@@ -42,15 +54,6 @@
     "edat": "0",
     "por": true,
     "orig": "ERI",
-    "serie": true,
-    "x3": true
-  },
-  {
-    "titol": "Tik Tak Factory<br><small>Fantasia</small>",
-    "codi": "Tik Tak Factory",
-    "edat": "7",
-    "llenguatge": true,
-    "orig": "TP",
     "serie": true,
     "x3": true
   }
