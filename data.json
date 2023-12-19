@@ -185,6 +185,21 @@
     "raons": "Llenguatge groller ocasional d'intensitat baixa"
   },
   {
+    "titol": "Això no és Suècia",
+    "codi": "aixo-no-es-suecia",
+    "edat": "13",
+    "orig": "13",
+    "comp": "🇪🇸 16 (RTVE)",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Això no és Suècia 1x04 - El sexe",
+    "codi": "6255955",
+    "edat": "13",
+    "raons": "Continguts sexuals freqüents d'explicitació mitjana<br>Abús de drogues lícites (alcohol), presentat de manera neutra<br>Expressions discriminatòries amb un posicionament neutre en el relat<br>Llenguatge groller freqüent d'intensitat alta"
+  },
+  {
     "titol": "Això no és una cançó",
     "codi": "aixo-no-es-una-canco",
     "edat": "7",
