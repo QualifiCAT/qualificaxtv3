@@ -2735,6 +2735,49 @@
     "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, legitimada<br>Por i angoixa freqüent d'afectació lleu"
   },
   {
+    "titol": "El meu amic Marlon",
+    "codi": "meu-amic-marlon",
+    "edat": "7",
+    "orig": "TP",
+    "comp": "🇫🇮 7 🇳🇴 A",
+    "serie": true,
+    "x3": true
+  },
+  {
+    "titol": "El meu amic Marlon 1x01 - El nen nou",
+    "codi": "6255715",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Uns nens diuen 'idiota' quatre vegades seguides, tot i que no ho fan per insultar. Una noia diu 'idiota' més tard, aquest cop sí per insultar."
+  },
+  {
+    "titol": "El meu amic Marlon 1x02 - El bocamoll",
+    "codi": "6255703",
+    "edat": "7",
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada<br>Por i angoixa ocasional d'afectació mitjana<br>Conductes i valors incívics amb sanció neutra",
+    "mesinfo": "<b>Violència</b><br>Dos nens s'empenyen i es barallen per terra, i un d'ells acaba amb una mica de sang al nas.<br><br><b>Por i angoixa</b><br>Vegeu 'Violència'.<br><br><b>Conductes i valors incívics</b><br>Un nen menteix sobre com s'ha fet una ferida a l'home que l'atén.<br><br>Hi ha llenguatge groller molt lleu ('beneit', 'bocamoll pesat')."
+  },
+  {
+    "titol": "El meu amic Marlon 1x03 - El lluç",
+    "codi": "6255708",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "<b>Por i angoixa</b><br>Les escenes descrites a 'Conductes i valors incívics' tenen lligada certa tensió, a més que acaben provocant que el nen afectat es posi a plorar. També s'ensenya sovint el cap d'un peix gros dissecat.<br><br><b>Conductes i valors incívics</b><br>Alguns nens es fan burla entre ells, en especial un dels protagonistes (en Hugo), que tem que el seu millor amic (en Marlon) l'acabi deixant i prefereixi anar amb el nen nouvingut (en Sander). La sinopsi oficial del SX3 descriu l'episodi sencer: 'A l'escola, és el dia de l'objecte personal. En Sander du una capsa i diu que hi porta el tercer lluç més gros de tot Noruega, i que l'ha pescat ell. En Hugo està convençut que en Sander menteix i convenç en Marlon per colar-se a l'aula i mirar dins la capsa. L'obren i hi troben el cap d'un lluç gegant que en Marlon treu per mirar-se'l millor. De la capsa cau un retall de diari, però no se n'adonen. Quan volen tornar a desar el cap, aquest es trenca i se separa de la placa de suport. La resta de la classe torna abans que no aconsegueixin solucionar el problema. Quan en Sander mostra el trofeu al grup, no es creuen que l'hagi pescat ell, i en Sander no ho pot demostrar perquè no troba el retall de diari. El trofeu es desmunta i en Sander surt plorant al passadís. En Marlon troba finalment el retall de diari i l'ensenya a tothom perquè vegin que en Sander deia la veritat.'<br><br>Hi ha llenguatge groller molt lleu ('beneit')."
+  },
+  {
+    "titol": "El meu amic Marlon 1x04 - L'aniversari d'en Hugo",
+    "codi": "6255720",
+    "edat": "0",
+    "mesinfo": "Hi ha llenguatge groller molt lleu ('beneit', 'esteu com cabres')."
+  },
+  {
+    "titol": "El meu amic Marlon 1x05 - L'aposta",
+    "codi": "6255721",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Els nens fan servir insults com 'burro' o 'ximple'.<br><br><b>Conductes i valors incívics</b><br>Dos nens rivalitzen entre ells i un d'ells s'aposta la bicicleta per fardar davant del grup. La perd i menteix als seus pares sobre com l'ha perduda. El seu millor amic també menteix sobre la bici. No obstant això, els nens s'acaben perdonant."
+  },
+  {
     "titol": "El meu gos és un detectiu",
     "codi": "6209979",
     "edat": "10",
@@ -4469,6 +4512,48 @@
     "codi": "6207544",
     "edat": "10",
     "raons": "Llenguatge groller freqüent d'intensitat baixa"
+  },
+  {
+    "titol": "Heli",
+    "codi": "heli",
+    "edat": "10",
+    "orig": "TP",
+    "comp": "🇫🇮 S 🇳🇴 6",
+    "serie": true,
+    "x3": true
+  },
+  {
+    "titol": "Heli 1x01",
+    "codi": "6255717",
+    "edat": "0"
+  },
+  {
+    "titol": "Heli 1x02",
+    "codi": "6255718",
+    "edat": "7",
+    "raons": "Continguts sexuals ocasionals d'explicitació baixa<br>Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "<b>Sexe</b><br>Un nen pregunta per què les dones tenen pits i si li creixeran quan sigui gran, en veure la seva germana despullada utilitzant unes ulleres de raigs X. Un nen s'omple de pols pica-pica i es treu la roba per gratar-se en una habitació que no és la seva, i quan uns pares hi entren, malinterpreten tota la situació. No hi ha imatges de nuesa.<br><br><b>Conductes i valors incívics</b><br>Uns nois fan burla de la veu aguda del protagonista i ho enregistren.<br><br>Un home eructa en beure aigua. Hi ha una imatge de por lleu en què s'hi veu un home fent un petó a un esquelet."
+  },
+  {
+    "titol": "Heli 1x03",
+    "codi": "6255714",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'merda' tres vegades. Un abusananos diu 'pringat'.<br><br><b>Conductes i valors incívics</b><br>Un abusananos fa caure expressament un noi, que duia a sobre uns gots amb refresc, per desfer-se d'ell i intentar lligar amb la noia amb qui estava sortint.<br><br>Un home eructa en beure aigua. Es fan referències ocasionals i lleus a la mort. Hi ha imatges ocasionals d'ampolles amb alcohol. Un noi diu que enregistrar un petó en una sala a les fosques seria una escena 'massa forta'."
+  },
+  {
+    "titol": "Heli 1x04",
+    "codi": "6255713",
+    "edat": "10",
+    "raons": "Consum de drogues lícites (alcohol) presentat de manera neutra<br>Conductes i valors incívics amb sanció neutra",
+    "mesinfo": "<b>Drogues</b><br>Hi ha imatges d'adults bevent xampany en un context de celebració.<br><br><b>Conductes i valors incívics</b><br>Una família fa comentaris banalitzant les donacions amb finalitats benèfiques."
+  },
+  {
+    "titol": "Heli 1x05",
+    "codi": "6255709",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Un abusananos diu 'pringat'.<br><br>Hi ha violència ocasional, irreal, no explícita, molt lleu i no legitimada. Hi ha conductes incíviques presentades immediatament de manera negativa i en un context còmic."
   },
   {
     "titol": "Henry Danger",
@@ -11070,7 +11155,7 @@
     "codi": "zombielars",
     "edat": "10",
     "orig": "7",
-    "comp": "🇳🇱 9 🇫🇮 12 🇫🇷 -10",
+    "comp": "🇳🇱 9 🇫🇮 12 🇫🇷 -10 🇳🇴 9",
     "serie": true,
     "x3": true
   },
