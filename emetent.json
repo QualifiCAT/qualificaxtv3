@@ -40,6 +40,20 @@
     "tv3": true
   },
   {
+    "titol": "El meu amic Marlon",
+    "edat": "7",
+    "orig": "TP",
+    "novetat": true,
+    "x3": true
+  },
+  {
+    "titol": "Heli",
+    "edat": "10",
+    "orig": "TP",
+    "novetat": true,
+    "x3": true
+  },
+  {
     "titol": "Naruto",
     "edat": "13",
     "orig": "10",
@@ -61,18 +75,6 @@
   {
     "titol": "Ronja, la filla del bandoler",
     "edat": "10",
-    "orig": "TP",
-    "x3": true
-  },
-  {
-    "titol": "La vida en calçotets",
-    "edat": "7",
-    "orig": "TP",
-    "x3": true
-  },
-  {
-    "titol": "Els Dalton",
-    "edat": "7",
     "orig": "TP",
     "x3": true
   }
