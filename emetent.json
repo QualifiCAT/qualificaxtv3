@@ -3,7 +3,6 @@
     "titol": "Vosaltres mateixos",
     "edat": "10",
     "orig": "TP",
-    "novetat": true,
     "tv3": true,
     "3cat": true
   },
@@ -11,14 +10,12 @@
     "titol": "La travessa",
     "edat": "13",
     "orig": "TP",
-    "novetat": true,
     "3cat": true
   },
   {
     "titol": "Una altra història",
     "edat": "10",
     "orig": "TP",
-    "novetat": true,
     "tv3": true
   },
   {
