@@ -1,5 +1,16 @@
 [
   {
+    "titol": "Està passant<br><small>21/12/2023</small>",
+    "codi": "Està passant",
+    "edat": "10",
+    "sexe": true,
+    "drogues": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Això no és Suècia<br><small>El sexe</small>",
     "codi": "Això no és Suècia",
     "edat": "13",
@@ -45,15 +56,6 @@
     "llenguatge": true,
     "incivisme": true,
     "orig": "TP",
-    "serie": true,
-    "x3": true
-  },
-  {
-    "titol": "Projecte Beta<br><small>Amiga meva</small>",
-    "codi": "Projecte Beta",
-    "edat": "0",
-    "por": true,
-    "orig": "ERI",
     "serie": true,
     "x3": true
   }
