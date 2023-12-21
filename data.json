@@ -111,78 +111,10 @@
   {
     "titol": "Agència galàctica",
     "codi": "agencia-galactica",
-    "edat": "0",
+    "edat": "7",
     "orig": "TP",
     "serie": true,
     "x3": true
-  },
-  {
-    "titol": "Agència galàctica 1",
-    "codi": "6164206",
-    "edat": "0"
-  },
-  {
-    "titol": "Agència galàctica 2",
-    "codi": "6164207",
-    "edat": "0",
-    "raons": "Conductes i valors incívics amb sanció negativa"
-  },
-  {
-    "titol": "Agència galàctica 3",
-    "codi": "6164223",
-    "edat": "0"
-  },
-  {
-    "titol": "Agència galàctica 4",
-    "codi": "6164227",
-    "edat": "0",
-    "raons": "Llenguatge groller ocasional d'intensitat baixa"
-  },
-  {
-    "titol": "Agència galàctica 5",
-    "codi": "6164733",
-    "edat": "0"
-  },
-  {
-    "titol": "Agència galàctica 6",
-    "codi": "6164853",
-    "edat": "0",
-    "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, no legitimada"
-  },
-  {
-    "titol": "Agència galàctica 7",
-    "codi": "6164809",
-    "edat": "0"
-  },
-  {
-    "titol": "Agència galàctica 8",
-    "codi": "6164808",
-    "edat": "0",
-    "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa ocasional d'afectació lleu<br>Conductes i valors incívics amb sanció negativa"
-  },
-  {
-    "titol": "Agència galàctica 9",
-    "codi": "6164989",
-    "edat": "0",
-    "raons": "Conductes i valors incívics amb sanció negativa"
-  },
-  {
-    "titol": "Agència galàctica 10",
-    "codi": "6164992",
-    "edat": "0",
-    "raons": "Conductes i valors incívics amb sanció negativa"
-  },
-  {
-    "titol": "Agència galàctica 11",
-    "codi": "6165204",
-    "edat": "0",
-    "raons": "Por i angoixa ocasional d'afectació lleu"
-  },
-  {
-    "titol": "Agència galàctica 12",
-    "codi": "6165205",
-    "edat": "0",
-    "raons": "Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Això no és Suècia",
@@ -3157,7 +3089,7 @@
   {
     "titol": "Els germans Kratt",
     "codi": "germans-kratt",
-    "edat": "0",
+    "edat": "7",
     "orig": "TP (prèviament: 7)",
     "comp": "🇺🇲 TV-Y 🇩🇪 0 🇬🇧 U 🇦🇺 G",
     "serie": true,
