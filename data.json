@@ -2710,6 +2710,20 @@
     "mesinfo": "<b>Llenguatge groller</b><br>Els nens fan servir insults com 'burro' o 'ximple'.<br><br><b>Conductes i valors incívics</b><br>Dos nens rivalitzen entre ells i un d'ells s'aposta la bicicleta per fardar davant del grup. La perd i menteix als seus pares sobre com l'ha perduda. El seu millor amic també menteix sobre la bici. No obstant això, els nens s'acaben perdonant."
   },
   {
+    "titol": "El meu amic Marlon 1x06 - L'habitació de la neteja",
+    "codi": "6255719",
+    "edat": "7",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "<b>Violència</b><br>Uns nens es barallen per intentar obrir una porta.<br><br><b>Llenguatge groller</b><br>Un nen diu 'idiota'.<br><br><b>Conductes i valors incívics</b><br>Un nen tanca un noi en una habitació perquè s'ha rigut d'ell i perd la clau. Li diuen que si no l'obre es morirà de gana i es tornarà un assassí. Un dels nens també menteix a una monitora. No obstant això, totes aquestes conductes se sancionen de manera explícitament negativa al final.<br><br>Hi ha por i angoixa ocasional lleu; arran de les situacions descrites a 'Conductes i valors incívics', el nen es pixa a sobre i plora."
+  },
+  {
+    "titol": "El meu amic Marlon 1x07 - En Pablo",
+    "codi": "6255722",
+    "edat": "7",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada",
+    "mesinfo": "<b>Violència</b><br>Dos nens discuteixen, i un d'ells empeny l'altre i cau a terra.<br><br>Hi ha por i angoixa ocasional lleu, quan els nens descobreixen que el seu lloro s'ha perdut, i un d'ells diu que si mor, serà culpa de l'altre. Al final de l'episodi, els nens menteixen quan la mare, després de tornar a tancar el lloro dins la gàbia, diu: 'sort que no hi havia cap finestra oberta', i els nens diuen 'sí'."
+  },
+  {
     "titol": "El meu gos és un detectiu",
     "codi": "6209979",
     "edat": "10",
@@ -4486,6 +4500,27 @@
     "edat": "7",
     "raons": "Llenguatge groller ocasional d'intensitat baixa",
     "mesinfo": "<b>Llenguatge groller</b><br>Un abusananos diu 'pringat'.<br><br>Hi ha violència ocasional, irreal, no explícita, molt lleu i no legitimada. Hi ha conductes incíviques presentades immediatament de manera negativa i en un context còmic."
+  },
+  {
+    "titol": "Heli 1x06",
+    "codi": "6255712",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Por i angoixa</b><br>Un nen agafa una veu terroríficament greu cada cop que està gelós. S'expliquen llegendes de persones que també els va passar el mateix, sense un final positiu i amb referències a la mort.<br><br><b>Llenguatge groller</b><br>Un nen diu 'me la pela', 'merda' i 'burros' dos cops, i 'estúpids'."
+  },
+  {
+    "titol": "Heli 1x07",
+    "codi": "6255705",
+    "edat": "10",
+    "raons": "Violència freqüent, versemblant, no explícita, d'intensitat lleu, no legitimada",
+    "mesinfo": "<b>Violència</b><br>Per consell d'un metge, el nen protagonista s'aplica descàrregues elèctriques cada cop que pensa en la noia amb qui està enamorat. En un moment de l'episodi, s'apuja la potència i algú comença a aplicar-li descàrregues sense voler.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa ('merda', 'merder'), així com bromes escatològiques."
+  },
+  {
+    "titol": "Heli 1x08",
+    "codi": "6255706",
+    "edat": "7",
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada<br>Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Violència</b><br>El protagonista rep un cop de puny a la cara al final de l'episodi, just abans de mostrar els crèdits.<br><br><b>Llenguatge groller</b><br>Es diu 'pringats', 'burro' i 'te'n fots de mi'.<br><br>Un home es refereix com a 'un petó molt llarg' a l'acte de fer l'amor."
   },
   {
     "titol": "Henry Danger",
@@ -8608,7 +8643,7 @@
   {
     "titol": "Món maker",
     "codi": "monmaker",
-    "edat": "7",
+    "edat": "0",
     "orig": "TP",
     "serie": true,
     "x3": true
