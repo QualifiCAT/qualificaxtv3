@@ -7,18 +7,6 @@
     "3cat": true
   },
   {
-    "titol": "La travessa",
-    "edat": "13",
-    "orig": "TP",
-    "3cat": true
-  },
-  {
-    "titol": "Una altra història",
-    "edat": "10",
-    "orig": "TP",
-    "tv3": true
-  },
-  {
     "titol": "Joc de cartes",
     "edat": "13",
     "orig": "TP",
@@ -33,6 +21,12 @@
   {
     "titol": "Està passant",
     "edat": "13",
+    "orig": "TP",
+    "tv3": true
+  },
+  {
+    "titol": "Una altra història",
+    "edat": "10",
     "orig": "TP",
     "tv3": true
   },
@@ -67,12 +61,6 @@
     "titol": "El detectiu Conan",
     "edat": "13",
     "orig": "7",
-    "x3": true
-  },
-  {
-    "titol": "Ronja, la filla del bandoler",
-    "edat": "10",
-    "orig": "TP",
     "x3": true
   }
 ]
