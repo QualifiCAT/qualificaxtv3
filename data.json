@@ -2731,6 +2731,39 @@
     "mesinfo": "<b>Violència</b><br>Un nen empeny un altre i cau a terra.<br><br><b>Conductes i valors incívics</b><br>Un nen fa la promesa que no dirà un secret a ningú i la incompleix. Un nen fa un rot per saludar una nena. Una nena menteix a la mestra quan diu que ha de sortir només per anar al lavabo. Una mare menteix al seu fill quan diu que no ha llegit una nota."
   },
   {
+    "titol": "El meu amic Marlon 1x09 - Hora de nedar",
+    "codi": "6255725",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'burro' dues vegades.<br><br><b>Conductes i valors incívics</b><br>Vegeu la sinopsi oferta pel SX3 per a més informació."
+  },
+  {
+    "titol": "El meu amic Marlon 1x10 - El lladre",
+    "codi": "6255723",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'idiota' una vegada.<br><br><b>Conductes i valors incívics</b><br>Vegeu la sinopsi oferta pel SX3 per a més informació."
+  },
+  {
+    "titol": "El meu amic Marlon 1x11 - Passar la nit a fora",
+    "codi": "6255728",
+    "edat": "7",
+    "raons": "Por i angoixa ocasional d'afectació mitjana",
+    "mesinfo": "<b>Por i angoixa</b><br>S'ensenya una ferida amb sang que s'ha fet un nen al genoll.<br><br>Uns nens juguen a matar dracs."
+  },
+  {
+    "titol": "El meu amic Marlon 1x12 - Taekwondo",
+    "codi": "6255726",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'idiota' una vegada."
+  },
+  {
+    "titol": "El meu amic Marlon 1x13 - Cinturó negre",
+    "codi": "6255733",
+    "edat": "0"
+  },
+  {
     "titol": "El meu gos és un detectiu",
     "codi": "6209979",
     "edat": "10",
@@ -9211,7 +9244,7 @@
     "codi": "6257701",
     "edat": "13",
     "raons": "Llenguatge groller freqüent d'intensitat alta",
-    "mesinfo": "<b>Llenguatge groller</b><br>Es fan servir expressions com 'hasta los huevos', 'joder', 'mierda', 'collons'...<br><br>Hi ha referències al consum de drogues lícites, i es fan comentaris discriminatoris, presentats de manera neutra en un context humorístic. Hi ha violència ocasional, irreal, no explícita, molt lleu i no legitimada."
+    "mesinfo": "<b>Llenguatge groller</b><br>Es fan servir expressions com 'hasta los huevos', 'te jodes' (dirigit a un infant), 'joder', 'mierda', 'collons'...<br><br>Hi ha referències al consum de drogues lícites, i es fan comentaris discriminatoris, presentats de manera neutra en un context humorístic. Hi ha violència ocasional, irreal, no explícita, molt lleu i no legitimada."
   },
   {
     "titol": "Presto! L'escola de màgia",
