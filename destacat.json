@@ -1,5 +1,21 @@
 [
   {
+    "titol": "Manduka family<br><small>Canelons</small>",
+    "codi": "Manduka family",
+    "edat": "0",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
+  },
+  {
+    "titol": "Tik Tak Factory<br><small>Especial Nadal</small>",
+    "codi": "Tik Tak Factory",
+    "edat": "0",
+    "orig": "ERI",
+    "serie": true,
+    "x3": true
+  },
+  {
     "titol": "Polònia<br><small>21/12/2023</small>",
     "codi": "Polònia",
     "edat": "13",
@@ -36,23 +52,6 @@
     "codi": "Git Gud",
     "edat": "7",
     "por": true,
-    "orig": "TP",
-    "serie": true,
-    "x3": true
-  },
-  {
-    "titol": "Bestial!<br><small>L'aranya de tela d'embut</small>",
-    "codi": "Bestial!",
-    "edat": "7",
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "x3": true
-  },
-  {
-    "titol": "Al mar!<br><small>Camí a la Copa Amèrica</small>",
-    "codi": "Al mar!",
-    "edat": "0",
     "orig": "TP",
     "serie": true,
     "x3": true
