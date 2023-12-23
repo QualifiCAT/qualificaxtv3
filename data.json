@@ -4551,9 +4551,9 @@
   {
     "titol": "Heli 1x06",
     "codi": "6255712",
-    "edat": "7",
-    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa",
-    "mesinfo": "<b>Por i angoixa</b><br>Un nen agafa una veu terroríficament greu cada cop que està gelós. S'expliquen llegendes de persones que també els va passar el mateix, sense un final positiu i amb referències a la mort.<br><br><b>Llenguatge groller</b><br>Un nen diu 'me la pela', 'merda' i 'burros' dos cops, i 'estúpids'."
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Un nen diu 'me la pela' i 'estúpids' un cop cadascun, i 'merda' i 'burros' dos cops.<br><br>Hi ha por i angoixa freqüent d'afectació lleu; s'expliquen llegendes de persones que també els va passar el mateix, sense un final positiu i amb referències a la mort."
   },
   {
     "titol": "Heli 1x07",
@@ -4568,6 +4568,34 @@
     "edat": "7",
     "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada<br>Llenguatge groller ocasional d'intensitat baixa",
     "mesinfo": "<b>Violència</b><br>El protagonista rep un cop de puny a la cara al final de l'episodi, just abans de mostrar els crèdits.<br><br><b>Llenguatge groller</b><br>Es diu 'pringats', 'burro' i 'te'n fots de mi'.<br><br>Un home es refereix com a 'un petó molt llarg' a l'acte de fer l'amor."
+  },
+  {
+    "titol": "Heli 1x09",
+    "codi": "6255707",
+    "edat": "0"
+  },
+  {
+    "titol": "Heli 1x10",
+    "codi": "6255716",
+    "edat": "7",
+    "raons": "Conductes i valors incívics amb sanció negativa"
+  },
+  {
+    "titol": "Heli 1x11",
+    "codi": "6255704",
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'idiota' dues vegades, i 'merders', 'merda' i 'burra' una vegada cadascun."
+  },
+  {
+    "titol": "Heli 1x12",
+    "codi": "6255710",
+    "edat": "0"
+  },
+  {
+    "titol": "Heli 1x13",
+    "codi": "6255711",
+    "edat": "0"
   },
   {
     "titol": "Henry Danger",
