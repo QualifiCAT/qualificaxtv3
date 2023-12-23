@@ -6646,6 +6646,27 @@
     "mesinfo": "<b>Violència</b><br>Es fan al·lusions a la mort. Una nena fa caure un nen mentre juguen a rugbi. Una nena li diu a un nen que ataqui amb totes les seves forces encara que sigui 'una nena', i ell respon amb un cop fort a la panxa que li fa mal.<br><br><b>Llenguatge groller</b><br>Es diu 'idiota', 'burro' i 'foteu el camp'.<br><br><b>Conductes i valors incívics</b><br>Un grup de nens dolents roben una pilota i trenquen un vidre d'una casa, i fugen corrents. Veiem més tard com els mateixos nens discuteixen si obrir un moneder perdut al bosc o no. Els nens protagonistes assumeixen les culpes i es donen missatges d'amistat al final."
   },
   {
+    "titol": "La gateta Arc iris papallona unicorn",
+    "codi": "gateta-arc-iris-papallona-unicorn",
+    "edat": "0",
+    "orig": "TP",
+    "comp": "🇺🇲 TV-Y7",
+    "serie": true,
+    "x3": true
+  },
+  {
+    "titol": "La gateta Arc iris papallona unicorn 1x15 - Bon Mitnadal (1a part)",
+    "codi": "6256182",
+    "edat": "0"
+  },
+  {
+    "titol": "La gateta Arc iris papallona unicorn 1x16 - Bon Mitnadal (2a part)",
+    "codi": "6255950",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu",
+    "mesinfo": "<b>Por i angoixa</b><br>Els protagonistes criden quan una cinta els transporta cap a un forn incinerador. Un malvat diu: 'per sobre del meu verd cadàver'.<br><br>Es fan bromes escatològiques ocasionalment."
+  },
+  {
     "titol": "La gran vetllada",
     "codi": "la-gran-vetllada",
     "edat": "10",
@@ -8312,6 +8333,11 @@
   {
     "titol": "Manduka family 1x12 - Crestes",
     "codi": "6255954",
+    "edat": "0"
+  },
+  {
+    "titol": "Manduka family 1x13 - Canelons",
+    "codi": "6256969",
     "edat": "0"
   },
   {
@@ -10840,7 +10866,7 @@
     "titol": "Tik Tak Factory",
     "codi": "tik-tak-factory",
     "edat": "7",
-    "orig": "TP",
+    "orig": "ERI (prèviament: TP)",
     "serie": true,
     "x3": true
   },
@@ -10850,6 +10876,12 @@
     "edat": "7",
     "raons": "Llenguatge groller ocasional d'intensitat baixa",
     "mesinfo": "<b>Llenguatge groller</b><br>Un dels nens diu 'ja l'he cagat'. Un membre del jurat diu 'hosti'."
+  },
+  {
+    "titol": "Tik Tak Factory 1x02 - Especial Nadal",
+    "codi": "6257152",
+    "edat": "0",
+    "mesinfo": "Es comenta que han 'mort' tortugues per culpa de la contaminació."
   },
   {
     "titol": "Tina Superbruixa: Nova aventura d'hivern",
