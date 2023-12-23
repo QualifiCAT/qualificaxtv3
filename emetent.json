@@ -31,6 +31,13 @@
     "tv3": true
   },
   {
+    "titol": "La gateta Arc iris papallona unicorn",
+    "edat": "0",
+    "orig": "TP",
+    "novetat": true,
+    "x3": true
+  },
+  {
     "titol": "El meu amic Marlon",
     "edat": "7",
     "orig": "TP",
@@ -55,12 +62,6 @@
     "titol": "One Piece",
     "edat": "13",
     "orig": "10",
-    "x3": true
-  },
-  {
-    "titol": "El detectiu Conan",
-    "edat": "13",
-    "orig": "7",
     "x3": true
   }
 ]
