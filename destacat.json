@@ -1,5 +1,14 @@
 [
   {
+    "titol": "La gateta Arc iris papallona unicorn<br><small>Bon Mitnadal</small>",
+    "codi": "La gateta Arc iris papallona unicorn",
+    "edat": "0",
+    "por": true,
+    "orig": "TP",
+    "serie": true,
+    "x3": true
+  },
+  {
     "titol": "Manduka family<br><small>Canelons</small>",
     "codi": "Manduka family",
     "edat": "0",
@@ -46,14 +55,5 @@
     "orig": "13",
     "serie": true,
     "tv3": true
-  },
-  {
-    "titol": "Git Gud<br><small>Capítol 16</small>",
-    "codi": "Git Gud",
-    "edat": "7",
-    "por": true,
-    "orig": "TP",
-    "serie": true,
-    "x3": true
   }
 ]
