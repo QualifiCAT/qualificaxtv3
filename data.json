@@ -7686,6 +7686,22 @@
     "raons": "Conductes i valors incívics amb sanció neutra"
   },
   {
+    "titol": "Llim",
+    "codi": "llim",
+    "edat": "13",
+    "orig": "TP",
+    "comp": "🇪🇦 12 (IB3)",
+    "serie": true,
+    "3cat": true
+  },
+  {
+    "titol": "Llim 1x01 - Esperança",
+    "codi": "6256477",
+    "edat": "13",
+    "raons": "Abús de drogues lícites (alcohol) presentat de manera neutra<br>Llenguatge groller freqüent d'intensitat alta",
+    "mesinfo": "<b>Drogues</b><br>Hi ha consum freqüent d'alcohol. En una escena, un home camina per la platja amb evidents signes d'embriaguesa. Es menciona si una persona ha consumit 'coca' o 'heroïna'.<br><br><b>Llenguatge groller</b><br>Freqüent ús agressiu d'expressions com 'puta' ('per fer de puta', 'fill de puta', 'puta peça', 'què putes fas', 'puto mòbil'...), 'collons', 'collonades', 'cabró', 'merda', 'cony', 'cabró' i 'hòsties'.<br><br>Hi ha continguts sexuals ocasionals d'explicitació mitjana; es parla d'anar a fer d'escort i de fer 'mamades', i hi ha una breu escena de sexe gravada en la foscor. Hi ha conductes incíviques presentades de manera neutra. Hi ha una sobtada i breu escena de violència versemblant, no explícita i d'intensitat lleu quan un home intenta escanyar un altre. Hi ha por i angoixa mitjana en alguns moments en què sona música de suspens."
+  },
+  {
     "titol": "Looney Tunes Cartoons",
     "codi": "looney-tunes-cartoons",
     "edat": "7",
