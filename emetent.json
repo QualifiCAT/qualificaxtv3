@@ -7,6 +7,13 @@
     "3cat": true
   },
   {
+    "titol": "Cuina salvatge",
+    "edat": "10",
+    "orig": "TP",
+    "tv3": true,
+    "3cat": true
+  },
+  {
     "titol": "Joc de cartes",
     "edat": "13",
     "orig": "TP",
@@ -21,12 +28,6 @@
   {
     "titol": "Està passant",
     "edat": "13",
-    "orig": "TP",
-    "tv3": true
-  },
-  {
-    "titol": "Una altra història",
-    "edat": "10",
     "orig": "TP",
     "tv3": true
   },
