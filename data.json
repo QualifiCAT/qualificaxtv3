@@ -8994,6 +8994,21 @@
     "x3": true
   },
   {
+    "titol": "Núñez",
+    "codi": "nunez",
+    "edat": "7",
+    "orig": "TP",
+    "serie": true,
+    "3cat": true
+  },
+  {
+    "titol": "Núñez 1x01 - No és un dels nostres",
+    "codi": "6256463",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Hi ha una escena en què diversos convidats diuen 'hòstia' en una reacció de sorpresa, no de manera agressiva. Sobre un home influent econòmicament, es diu: 'On no arriba per això, arriba pels collons'.<br><br>Hi ha por i angoixa ocasional lleu quan es fa servir música de tensió per explicar alguns esdeveniments, per exemple, amenaces que es diu que podrien haver estat orquestrades per Núñez, que van rebre 'pedregades' de manifestants, o que hi va haver un segrest. S'ensenya una bufetada molt lleu en un fragment del programa humorístic 'Crackòvia', que es diu que va ser real. Es mostra fugaçment consum d'alcohol i tabac en imatges d'arxiu."
+  },
+  {
     "titol": "Objectiu 2030",
     "codi": "objectiu-2030",
     "edat": "7",
