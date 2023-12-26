@@ -1,5 +1,18 @@
 [
   {
+    "titol": "La Mia i el lleó blanc",
+    "codi": "La Mia i el lleó blanc",
+    "edat": "10",
+    "violencia": true,
+    "por": true,
+    "drogues": true,
+    "llenguatge": true,
+    "incivisme": true,
+    "orig": "TP",
+    "peli": true,
+    "x3": true
+  },
+  {
     "titol": "Núñez<br><small>No és un dels nostres</small>",
     "codi": "Núñez",
     "edat": "7",
@@ -43,14 +56,6 @@
     "codi": "La gateta Arc iris papallona unicorn",
     "edat": "0",
     "por": true,
-    "orig": "TP",
-    "serie": true,
-    "x3": true
-  },
-  {
-    "titol": "Manduka family<br><small>Canelons</small>",
-    "codi": "Manduka family",
-    "edat": "0",
     "orig": "TP",
     "serie": true,
     "x3": true
