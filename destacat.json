@@ -1,5 +1,15 @@
 [
   {
+    "titol": "Manduka family<br><small>Galetes de Nadal</small>",
+    "codi": "Manduka family",
+    "edat": "7",
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true,
+    "x3": true
+  },
+  {
     "titol": "Que ens bombin a tots",
     "codi": "Que ens bombin a tots",
     "edat": "13",
@@ -51,15 +61,5 @@
     "orig": "10",
     "serie": true,
     "tv3": true
-  },
-  {
-    "titol": "Llim<br><small>Esperança</small>",
-    "codi": "Llim",
-    "edat": "13",
-    "drogues": true,
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "3cat": true
   }
 ]
