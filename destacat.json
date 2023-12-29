@@ -1,5 +1,15 @@
 [
   {
+    "titol": "Que ens bombin a tots",
+    "codi": "Que ens bombin a tots",
+    "edat": "13",
+    "discriminacio": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "peli": true,
+    "tv3": true
+  },
+  {
     "titol": "La Mia i el lleó blanc",
     "codi": "La Mia i el lleó blanc",
     "edat": "10",
@@ -50,14 +60,5 @@
     "orig": "TP",
     "serie": true,
     "3cat": true
-  },
-  {
-    "titol": "La gateta Arc iris papallona unicorn<br><small>Bon Mitnadal</small>",
-    "codi": "La gateta Arc iris papallona unicorn",
-    "edat": "0",
-    "por": true,
-    "orig": "TP",
-    "serie": true,
-    "x3": true
   }
 ]
