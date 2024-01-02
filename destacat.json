@@ -1,5 +1,24 @@
 [
   {
+    "titol": "Git Gud<br><small>Capítol 18</small>",
+    "codi": "Git Gud",
+    "edat": "7",
+    "violencia": true,
+    "por": true,
+    "orig": "TP",
+    "serie": true,
+    "x3": true
+  },
+  {
+    "titol": "APM?<br><small>31/12/2023</small>",
+    "codi": "APM?",
+    "edat": "13",
+    "llenguatge": true,
+    "orig": "10",
+    "serie": true,
+    "tv3": true
+  }
+  {
     "titol": "Manduka family<br><small>Galetes de Nadal</small>",
     "codi": "Manduka family",
     "edat": "7",
@@ -41,25 +60,5 @@
     "orig": "TP",
     "serie": true,
     "3cat": true
-  },
-  {
-    "titol": "Git Gud<br><small>Capítol 17</small>",
-    "codi": "Git Gud",
-    "edat": "7",
-    "violencia": true,
-    "por": true,
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "x3": true
-  },
-  {
-    "titol": "APM?<br><small>24/12/2023</small>",
-    "codi": "APM?",
-    "edat": "13",
-    "sexe": true,
-    "orig": "10",
-    "serie": true,
-    "tv3": true
   }
 ]
