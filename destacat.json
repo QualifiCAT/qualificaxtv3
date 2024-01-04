@@ -1,5 +1,17 @@
 [
   {
+    "titol": "Núñez<br><small>El patrimoni no fa la felicitat</small>",
+    "codi": "Núñez",
+    "edat": "7",
+    "violencia": true,
+    "por": true,
+    "drogues": true,
+    "discriminacio": true,
+    "orig": "TP",
+    "serie": true,
+    "3cat": true
+  },
+  {
     "titol": "Nits Sense ficció<br><small>Sempre Dharma</small>",
     "codi": "Nits Sense ficció",
     "edat": "13",
@@ -46,19 +58,5 @@
     "orig": "TP",
     "peli": true,
     "tv3": true
-  },
-  {
-    "titol": "La Mia i el lleó blanc",
-    "codi": "La Mia i el lleó blanc",
-    "edat": "10",
-    "violencia": true,
-    "por": true,
-    "drogues": true,
-    "llenguatge": true,
-    "incivisme": true,
-    "orig": "TP",
-    "peli": true,
-    "tv3": true,
-    "x3": true
   }
 ]
