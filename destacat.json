@@ -1,5 +1,14 @@
 [
   {
+    "titol": "One Piece Film Red",
+    "codi": "One Piece Film Red",
+    "edat": "13",
+    "violencia": true,
+    "orig": "13",
+    "peli": true,
+    "x3": true
+  },
+  {
     "titol": "Eufòria: el concert 2023",
     "codi": "Eufòria: el concert 2023",
     "edat": "10",
@@ -7,7 +16,8 @@
     "llenguatge": true,
     "orig": "TP",
     "peli": true,
-    "3cat": true
+    "3cat": true,
+    "tv3": true
   },
   {
     "titol": "Núñez<br><small>El patrimoni no fa la felicitat</small>",
@@ -45,15 +55,5 @@
     "orig": "10",
     "serie": true,
     "tv3": true
-  },
-  {
-    "titol": "Manduka family<br><small>Galetes de Nadal</small>",
-    "codi": "Manduka family",
-    "edat": "7",
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true,
-    "x3": true
   }
 ]
