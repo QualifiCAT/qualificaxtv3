@@ -2,11 +2,8 @@
   {
     "titol": "Núñez<br><small>El patrimoni no fa la felicitat</small>",
     "codi": "Núñez",
-    "edat": "7",
-    "violencia": true,
-    "por": true,
-    "drogues": true,
-    "discriminacio": true,
+    "edat": "10",
+    "llenguatge": true,
     "orig": "TP",
     "serie": true,
     "3cat": true
