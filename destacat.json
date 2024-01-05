@@ -1,5 +1,14 @@
 [
   {
+    "titol": "Núñez<br><small>L'home que volia ser estimat</small>",
+    "codi": "Núñez",
+    "edat": "10",
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "3cat": true
+  },
+  {
     "titol": "One Piece Film Red",
     "codi": "One Piece Film Red",
     "edat": "13",
@@ -18,15 +27,6 @@
     "peli": true,
     "3cat": true,
     "tv3": true
-  },
-  {
-    "titol": "Núñez<br><small>El patrimoni no fa la felicitat</small>",
-    "codi": "Núñez",
-    "edat": "10",
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "3cat": true
   },
   {
     "titol": "Nits Sense ficció<br><small>Sempre Dharma</small>",
