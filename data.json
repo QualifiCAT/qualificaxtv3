@@ -3612,7 +3612,7 @@
     "raons": "Contingut sexual reiterat d'explicitació baixa"
   },
   {
-    "titol": "Eufòria: el concert",
+    "titol": "Eufòria: el concert 2022",
     "codi": "6194729",
     "edat": "10",
     "orig": "TP",
@@ -3620,6 +3620,17 @@
     "x3": true,
     "tv3": true,
     "raons": "Contingut sexual ocasional d'explicitació mitjana"
+  },
+  {
+    "titol": "Eufòria: el concert 2023",
+    "codi": "6258691",
+    "edat": "10",
+    "orig": "TP",
+    "peli": true,
+    "3cat": true,
+    "tv3": true,
+    "raons": "Continguts sexuals freqüents d'explicitació baixa<br>Llenguatge groller ocasional d'intensitat alta",
+    "mesinfo": "<b>Sexe</b><br>Hi ha elements de sexualització, lleus però freqüents, per la vestimenta i coreografies presents en moltes de les actuacions, així com insinuacions de caràcter verbal (per exemple, 'I wanna be your sex toy', 'entre hores pots cuinar-me i menjar-me, 24/7 per fotre la cullera', 'protagonista de fantasys, treballador del clit').<br><br><b>Llenguatge groller</b><br>En una cançó s'hi diu 'hòsties', 'merda' sis vegades, i l'expressió 'negrata', sense aparent intencionalitat racista. En algunes altres cançons s'hi diu 'fotre' o 'stupid', així com l'expressió anglesa altament grollera 'fuck'.<br><br>Hi ha llenguatge violent ocasional, d'intensitat molt lleu. (S'inclouen imatges intermitents que poden afectar a espectadors susceptibles a l'epilèpsia fotosensible.)"
   },
   {
     "titol": "Èxode",
