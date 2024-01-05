@@ -9237,6 +9237,17 @@
     "mesinfo": "<b>Drogues</b><br>Diversos personatges es mostren fumant de forma reiterada, sigui una cigarreta, un cigar o dos cigars alhora. Alguns també tenen begudes alcohòliques, i se'n fan comentaris en positiu ('segur que hi ha licors dels bons').<br><br>Hi ha violència freqüent, irreal, explícita, d'intensitat lleu i legitimada, formada bàsicament per combats entre personatges amb superpoders i explosions, espases, cops de puny màgics, puntades de peu en flames, forats a terra, canons, amenaces de mort, etc. De tant en tant, aquesta violència comporta l'aparició de sang, com quan uns nois perden el coneixement i les forces i estan estesos a terra, però sense ferides greus. Aquestes escenes també porten associada certa tensió o angoixa, ja que el dolent principal ho arrasa tot i es transforma en un monstre gegant. Hi ha llenguatge groller freqüent d'intensitat baixa, amb expressions com 'merda', 'idiota', 'fotre', 'estúpid', 'malparit' o 'desgraciat'. Diversos personatges femenins estan sexualitzats; alguns d'ells es presenten per primer cop a l'espectador amb primers plans del seu cos."
   },
   {
+    "titol": "One Piece Film Red",
+    "codi": "6258776",
+    "edat": "13",
+    "orig": "13",
+    "comp": "🇪🇸 12 🇺🇲 PG-13 🇩🇪 12 🇬🇧 12 🇦🇺 M 🇳🇱 6 🇧🇷 12",
+    "peli": true,
+    "x3": true,
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat greu, no legitimada",
+    "mesinfo": "<b>Violència</b><br>Hi ha violència freqüent, irreal, no explícita, lleu i legitimada. No obstant això, destaquen dues escenes especialment cruents, on disparen a un home i mor dessagnat, i on apunyalen gràficament a un altre home.<br><br>Hi ha por i angoixa freqüent d'afectació mitjana, llenguatge groller freqüent d'intensitat baixa, consum de drogues lícites presentat de manera negativa, i una referència sexual d'explicitació baixa, en relació amb un personatge femení secundari presentat de manera sexualitzada durant tota la pel·lícula."
+  },
+  {
     "titol": "Perduts a Oz",
     "codi": "perduts-a-oz",
     "edat": "7",
