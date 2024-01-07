@@ -1,5 +1,16 @@
 [
   {
+    "titol": "Quant temps em queda?",
+    "codi": "Quant temps em queda?",
+    "edat": "13",
+    "sexe": true,
+    "drogues": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "peli": true,
+    "tv3": true
+  },
+  {
     "titol": "Núñez<br><small>L'home que volia ser estimat</small>",
     "codi": "Núñez",
     "edat": "10",
@@ -46,14 +57,5 @@
     "orig": "TP",
     "serie": true,
     "x3": true
-  },
-  {
-    "titol": "APM?<br><small>31/12/2023</small>",
-    "codi": "APM?",
-    "edat": "13",
-    "llenguatge": true,
-    "orig": "10",
-    "serie": true,
-    "tv3": true
   }
 ]
