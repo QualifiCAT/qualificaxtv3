@@ -7,13 +7,6 @@
     "3cat": true
   },
   {
-    "titol": "Cuina salvatge",
-    "edat": "10",
-    "orig": "TP",
-    "tv3": true,
-    "3cat": true
-  },
-  {
     "titol": "Joc de cartes",
     "edat": "13",
     "orig": "TP",
@@ -32,15 +25,8 @@
     "tv3": true
   },
   {
-    "titol": "El meu amic Marlon",
+    "titol": "Tik Tak Factory",
     "edat": "7",
-    "orig": "TP",
-    "novetat": true,
-    "x3": true
-  },
-  {
-    "titol": "Heli",
-    "edat": "10",
     "orig": "TP",
     "novetat": true,
     "x3": true
@@ -49,7 +35,6 @@
     "titol": "Naruto",
     "edat": "13",
     "orig": "10",
-    "novetat": true,
     "x3": true
   },
   {
