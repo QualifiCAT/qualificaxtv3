@@ -1,5 +1,17 @@
 [
   {
+    "titol": "Git Gud<br><small>Capítol 19</small>",
+    "codi": "Git Gud",
+    "edat": "7",
+    "violencia": true,
+    "sexe": true,
+    "por": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "x3": true
+  },
+  {
     "titol": "Bye Bye Monstre",
     "codi": "Bye Bye Monstre",
     "edat": "7",
@@ -47,15 +59,6 @@
     "orig": "TP",
     "peli": true,
     "3cat": true,
-    "tv3": true
-  },
-  {
-    "titol": "Nits Sense ficció<br><small>Sempre Dharma</small>",
-    "codi": "Nits Sense ficció",
-    "edat": "13",
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
     "tv3": true
   }
 ]
