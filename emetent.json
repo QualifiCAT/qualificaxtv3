@@ -13,6 +13,12 @@
     "tv3": true
   },
   {
+    "titol": "APM?",
+    "edat": "13",
+    "orig": "7",
+    "tv3": true
+  },
+  {
     "titol": "Polònia",
     "edat": "13",
     "orig": "7",
@@ -27,8 +33,14 @@
   {
     "titol": "Tik Tak Factory",
     "edat": "7",
-    "orig": "TP",
+    "orig": "ERI",
     "novetat": true,
+    "x3": true
+  },
+  {
+    "titol": "La casa d'Anubis",
+    "edat": "10",
+    "orig": "7",
     "x3": true
   },
   {
