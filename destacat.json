@@ -1,5 +1,15 @@
 [
   {
+    "titol": "Cita bestial<br><small>Emocions intenses</small>",
+    "codi": "Cita bestial",
+    "edat": "7",
+    "por": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "3cat": true
+  },
+  {
     "titol": "Git Gud<br><small>Capítol 19</small>",
     "codi": "Git Gud",
     "edat": "7",
@@ -49,16 +59,5 @@
     "orig": "13",
     "peli": true,
     "x3": true
-  },
-  {
-    "titol": "Eufòria: el concert 2023",
-    "codi": "Eufòria: el concert 2023",
-    "edat": "10",
-    "sexe": true,
-    "llenguatge": true,
-    "orig": "TP",
-    "peli": true,
-    "3cat": true,
-    "tv3": true
   }
 ]
