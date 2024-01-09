@@ -1520,6 +1520,27 @@
     "mesinfo": "<b>Violència</b><br>Chop fa córrer un cotxe de joguina i intenta utilitzar una de les rodes en moviment com si fos una radial per poder tallar el nus de la cua que l'uneix a Chip."
   },
   {
+    "titol": "Cita bestial",
+    "codi": "cita-bestial",
+    "edat": "7",
+    "orig": "TP",
+    "serie": true,
+    "3cat": true
+  },
+  {
+    "titol": "Cita bestial 1x01 - Dificultats",
+    "codi": "6259674",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu"
+  },
+  {
+    "titol": "Cita bestial 1x02 - Emocions intenses",
+    "codi": "6259627",
+    "edat": "7",
+    "raons": "Por i angoixa ocasional d'afectació mitjana<br>Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Por i angoixa</b><br>S'explica explícitament un cas de maltractament animal greu, en què van trobar un gos amb el crani obert per una destral. També es comenta que alguns gossos van patir càncer o altres malalties.<br><br><b>Llenguatge groller</b><br>Es diu 'fotre' (2 vegades).<br><br>Es diu que tocar un dels gossos és 'com una droga, per ell'."
+  },
+  {
     "titol": "Clipping",
     "codi": "clipping",
     "edat": "13",
