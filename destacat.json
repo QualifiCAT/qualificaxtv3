@@ -1,5 +1,16 @@
 [
   {
+    "titol": "Nits Sense ficció<br><small>Laietana, 43. El cau de la Bèstia</small>",
+    "codi": "Nits Sense ficció",
+    "edat": "13",
+    "violencia": true,
+    "por": true,
+    "llenguatge": true,
+    "orig": "16 (📺: 18)",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Cita bestial<br><small>Emocions intenses</small>",
     "codi": "Cita bestial",
     "edat": "7",
@@ -50,14 +61,5 @@
     "orig": "TP",
     "serie": true,
     "3cat": true
-  },
-  {
-    "titol": "One Piece Film Red",
-    "codi": "One Piece Film Red",
-    "edat": "13",
-    "violencia": true,
-    "orig": "13",
-    "peli": true,
-    "x3": true
   }
 ]
