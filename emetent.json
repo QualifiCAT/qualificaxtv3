@@ -31,15 +31,16 @@
     "tv3": true
   },
   {
-    "titol": "Tik Tak Factory",
+    "titol": "Cute",
     "edat": "7",
-    "orig": "ERI",
+    "orig": "TP",
+    "novetat": true,
     "x3": true
   },
   {
-    "titol": "La casa d'Anubis",
-    "edat": "10",
-    "orig": "7",
+    "titol": "Tik Tak Factory",
+    "edat": "7",
+    "orig": "ERI",
     "x3": true
   },
   {
