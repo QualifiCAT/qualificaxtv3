@@ -1706,6 +1706,40 @@
     "mesinfo": "<b>Llenguatge groller</b><br>Durant tot el programa, la cuinera du una samarreta on s'hi pot llegir 'qui em va parir'. També s'hi diu 'que t'hi cagues'.<br><br>Hi ha freqüents situacions de por lleu ja que es mostren les entranyes d'un precuinat de pollastre. Es cuina el pollastre amb vi."
   },
   {
+    "titol": "Cute",
+    "codi": "cute",
+    "edat": "7",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
+  },
+  {
+    "titol": "Cute 1x01 - Dessuadora amb imatge customitzada",
+    "codi": "6230188",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'hosti' un cop."
+  },
+  {
+    "titol": "Cute 1x02 - Arracades",
+    "codi": "6259934",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Apareix sobreimprès el nom del festival Cabró Rock."
+  },
+  {
+    "titol": "Cute 1x03 - Caçadora texana amb serigrafia",
+    "codi": "6230401",
+    "edat": "0"
+  },
+  {
+    "titol": "Cute 1x20 - Nadal",
+    "codi": "6260150",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'hòstia' un cop.<br><br>Hi ha una situació de conducta incívica en què el presentador parla amb la boca plena."
+  },
+  {
     "titol": "D'aventura castigats",
     "codi": "daventura-castigats",
     "edat": "10",
@@ -2677,6 +2711,16 @@
     "edat": "10",
     "raons": "Llenguatge groller freqüent d'intensitat baixa",
     "mesinfo": "<b>Llenguatge groller</b><br>El presentador utilitza sovint l'expressió 'hòstia' o bé 'hosti'. També s'utilitzen 'fotre', 'la mare que el va parir', 'cony' i 'collonut'. El llenguatge groller s'empra sempre en un to amistós i no ofensiu.<br><br>Hi ha situacions freqüents de por i angoixa d'afectació lleu quan es fan bromes sobre la mort, i quan el presentador practica l'escalada en una escena prolongada que inclou certs elements de tensió (comentaris dramàtics abans i durant l'activitat, música de suspens, punt de vista de l'escalador, certa inestabilitat). Hi ha una sola escena de consum d'alcohol, a l'inici de l'episodi; en una altra situació, es mostra un porró amb vi, però no es beu."
+  },
+  {
+    "titol": "El gran comediant",
+    "codi": "6194231",
+    "edat": "13",
+    "orig": "7",
+    "peli": true,
+    "tv3": true,
+    "raons": "Llenguatge groller reiterat d'intensitat alta",
+    "mesinfo": "<b>Llenguatge groller</b><br>Ús gairebé constant d'expressions com 'hòstia', 'merda', 'fotre' i 'collons'. També es fan servir 'hòstia puta', 'de puta mare', 'cabronàs', 'puta' (en sentit literal), 'putada' i 'capullo', entre d'altres.<br><br>Hi ha violència freqüent, irreal, no explícita, d'intensitat greu i no legitimada, atès que es fan bromes sobre el suïcidi en un context humorístic, quan el protagonista es planteja, en un primer moment, omplir la banyera i 'agafar la Gillette', o llançar-se per un balcó, i també quan es descobreix que un dels personatges és un assassí a sou i un altre, un caníbal assassí que va cremar i devorar una família sencera. Hi ha referències sexuals ocasionals d'explicitació mitjana, quan es diu, per exemple, que una dona és prostituta o que la debilitat d'un dels personatges és el porno. Hi ha situacions de por i angoixa ocasional d'afectació mitjana, per alguns dels continguts violents descrits anteriorment i també quan es comenta, de broma, com una infecció química van acabar desintegrant els membres de la família d'un dels personatges. Hi ha consum i referències a drogues lícites, presentades de manera negativa. També es fan comentaris discriminatoris, i es mostren conductes incíviques, presentades de manera negativa."
   },
   {
     "titol": "El juego del calamar",
