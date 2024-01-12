@@ -1,5 +1,14 @@
 [
   {
+    "titol": "El gran comediant",
+    "codi": "El gran comediant",
+    "edat": "13",
+    "llenguatge": true,
+    "orig": "7",
+    "peli": true,
+    "tv3": true
+  },
+  {
     "titol": "Nits Sense ficció<br><small>Laietana, 43. El cau de la Bèstia</small>",
     "codi": "Nits Sense ficció",
     "edat": "13",
@@ -51,14 +60,5 @@
     "orig": "TP",
     "peli": true,
     "tv3": true
-  },
-  {
-    "titol": "Núñez<br><small>L'home que volia ser estimat</small>",
-    "codi": "Núñez",
-    "edat": "10",
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "3cat": true
   }
 ]
