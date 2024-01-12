@@ -19,16 +19,6 @@
     "tv3": true
   },
   {
-    "titol": "Cita bestial<br><small>Emocions intenses</small>",
-    "codi": "Cita bestial",
-    "edat": "7",
-    "por": true,
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "3cat": true
-  },
-  {
     "titol": "Git Gud<br><small>Capítol 19</small>",
     "codi": "Git Gud",
     "edat": "7",
@@ -60,5 +50,14 @@
     "orig": "TP",
     "peli": true,
     "tv3": true
+  },  
+  {
+    "titol": "One Piece Film Red",
+    "codi": "One Piece Film Red",
+    "edat": "13",
+    "violencia": true,
+    "orig": "13",
+    "peli": true,
+    "x3": true
   }
 ]
