@@ -1,21 +1,8 @@
 [
   {
-    "titol": "Vosaltres mateixos",
-    "edat": "10",
-    "orig": "TP",
-    "tv3": true,
-    "3cat": true
-  },
-  {
     "titol": "Joc de cartes",
     "edat": "13",
     "orig": "TP",
-    "tv3": true
-  },
-  {
-    "titol": "APM?",
-    "edat": "13",
-    "orig": "10",
     "tv3": true
   },
   {
@@ -25,10 +12,24 @@
     "tv3": true
   },
   {
-    "titol": "Està passant",
-    "edat": "13",
+    "titol": "Vosaltres mateixos",
+    "edat": "10",
     "orig": "TP",
-    "tv3": true
+    "tv3": true,
+    "3cat": true
+  },
+  {
+    "titol": "Núñez",
+    "edat": "10",
+    "orig": "TP",
+    "3cat": true
+  },
+  {
+    "titol": "Cita bestial",
+    "edat": "7",
+    "orig": "TP",
+    "novetat": true,
+    "3cat": true
   },
   {
     "titol": "Cute",
