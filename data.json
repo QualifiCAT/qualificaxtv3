@@ -2720,7 +2720,7 @@
     "peli": true,
     "tv3": true,
     "raons": "Llenguatge groller reiterat d'intensitat alta",
-    "mesinfo": "<b>Llenguatge groller</b><br>Ús gairebé constant d'expressions com 'hòstia', 'merda', 'fotre' i 'collons'. També es fan servir 'hòstia puta', 'de puta mare', 'cabronàs', 'puta' (en sentit literal), 'putada' i 'capullo', entre d'altres.<br><br>Hi ha violència freqüent, irreal, no explícita, d'intensitat greu i no legitimada, atès que es fan bromes sobre el suïcidi en un context humorístic, quan el protagonista es planteja, en un primer moment, omplir la banyera i 'agafar la Gillette', o llançar-se per un balcó, i també quan es descobreix que un dels personatges és un assassí a sou i un altre, un caníbal assassí que va cremar i devorar una família sencera. Hi ha referències sexuals ocasionals d'explicitació mitjana, quan es diu, per exemple, que una dona és prostituta o que la debilitat d'un dels personatges és el porno. Hi ha situacions de por i angoixa ocasional d'afectació mitjana, per alguns dels continguts violents descrits anteriorment i també quan es comenta, de broma, com una infecció química van acabar desintegrant els membres de la família d'un dels personatges. Hi ha consum i referències a drogues lícites, presentades de manera negativa. També es fan comentaris discriminatoris, i es mostren conductes incíviques, presentades de manera negativa."
+    "mesinfo": "<b>Llenguatge groller</b><br>Ús gairebé constant d'expressions com 'hòstia', 'merda', 'fotre' i 'collons'. També es fan servir 'hòstia puta', 'de puta mare', 'cabronàs', 'puta' (en sentit literal), 'putada' i 'capullo', entre d'altres.<br><br>Hi ha violència freqüent, irreal, no explícita, d'intensitat greu i no legitimada, atès que es comenten mètodes de suïcidi en un context humorístic, quan el protagonista es planteja, en un primer moment, omplir la banyera i 'agafar la Gillette', o llançar-se per un balcó, i també quan es descobreix que un dels personatges és un assassí a sou i un altre, un caníbal assassí que va cremar i devorar una família sencera. Hi ha referències sexuals ocasionals d'explicitació mitjana, quan es diu, per exemple, que una dona és prostituta o que la debilitat d'un dels personatges és el porno. Hi ha situacions de por i angoixa ocasional d'afectació mitjana, per alguns dels continguts violents descrits anteriorment i també quan es comenta, de broma, com una infecció química van acabar desintegrant els membres de la família d'un dels personatges. Hi ha consum i referències a drogues lícites, presentades de manera negativa. També es fan comentaris discriminatoris, i es mostren conductes incíviques, presentades de manera negativa."
   },
   {
     "titol": "El juego del calamar",
@@ -3649,7 +3649,7 @@
   },
   {
     "titol": "Eufòria Dance",
-    "codi": "euforia-dance",
+    "codi": "euforia-street-dance",
     "edat": "10",
     "orig": "TP",
     "serie": true,
@@ -3657,31 +3657,31 @@
     "tv3": true
   },
   {
-    "titol": "Eufòria Dance: El càsting",
+    "titol": "Eufòria Dance 1x01 - El càsting",
     "codi": "6190114",
     "edat": "10",
     "raons": "Contingut sexual freqüent d'explicitació baixa<br>Llenguatge groller ocasional d'intensitat alta"
   },
   {
-    "titol": "Eufòria Dance: Comença la competició",
+    "titol": "Eufòria Dance 1x02 - Comença la competició",
     "codi": "6191365",
     "edat": "10",
     "raons": "Contingut sexual, ocasionalment d'explicitació mitjana"
   },
   {
-    "titol": "Eufòria Dance: Triem els finalistes",
+    "titol": "Eufòria Dance 1x03 - Triem els finalistes",
     "codi": "6192725",
     "edat": "10",
     "raons": "Contingut sexual freqüent d'explicitació baixa<br>Llenguatge groller ocasional d'intensitat alta"
   },
   {
-    "titol": "Eufòria Dance: La gran final",
+    "titol": "Eufòria Dance 1x04 - La gran final",
     "codi": "6193801",
     "edat": "10",
     "raons": "Contingut sexual freqüent d'explicitació baixa<br>Llenguatge groller ocasional d'intensitat alta"
   },
   {
-    "titol": "Eufòria Dance: millors moments",
+    "titol": "Eufòria Dance 1x05 - Eufòria Dance: millors moments",
     "codi": "6194125",
     "edat": "10",
     "raons": "Contingut sexual reiterat d'explicitació baixa"
