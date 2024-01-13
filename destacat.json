@@ -1,5 +1,14 @@
 [
   {
+    "titol": "De la cullera a la ciutat<br><small>La joguina eròtica Mambo d'Andreu Carulla i el plaer</small>",
+    "codi": "De la cullera a la ciutat",
+    "edat": "10",
+    "sexe": true,
+    "orig": "TP",
+    "serie": true,
+    "3cat": true
+  },
+  {
     "titol": "El gran comediant",
     "codi": "El gran comediant",
     "edat": "13",
@@ -50,14 +59,5 @@
     "orig": "TP",
     "peli": true,
     "tv3": true
-  },  
-  {
-    "titol": "One Piece Film Red",
-    "codi": "One Piece Film Red",
-    "edat": "13",
-    "violencia": true,
-    "orig": "13",
-    "peli": true,
-    "x3": true
   }
 ]
