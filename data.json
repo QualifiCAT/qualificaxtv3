@@ -11435,16 +11435,6 @@
     "mesinfo": "<b>Sexe</b><br>La lletra d'una cançó inclou insinuacions com 'aquesta nit en el teu llit vull trencar el límit'. Algunes coreografies presenten certa sexualització.<br><br>Algunes persones s'emocionen amb les resultats de les avaluacions i per haver d'acomiadar el programa. (S'inclouen imatges intermitents que poden afectar a espectadors susceptibles a l'epilèpsia fotosensible.)"
   },
   {
-    "titol": "X3 Games",
-    "codi": "6195069",
-    "edat": "7",
-    "orig": "TP",
-    "peli": true,
-    "x3": true,
-    "raons": "Llenguatge groller ocasional d'intensitat baixa",
-    "mesinfo": "<b>Llenguatge groller</b><br>En una ocasió, se senten cançons que utilitzen expressions com 'prendre pel sac' o 'merda'."
-  },
-  {
     "titol": "Vicky, el viking",
     "codi": "vicky-el-viquing",
     "edat": "0",
@@ -11493,6 +11483,24 @@
     "x3": true,
     "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, legitimada<br>Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa",
     "mesinfo": "<b>Violència</b><br>Diferents monstres, tant bons com dolents, s'esbatussen entre ells mitjançant cops, martellets de joguina, llamps elèctrics o explosions. Majoritàriament, ningú no surt ferit perquè alguns monstres simplement desapareixen en tocar-los, però el combat de la segona part de la pel·lícula és més prolongat i intens. Un dels bons és segrestat i amenaçat de morir cremat, de forma còmica. Hi ha una escena de violència versemblant, que es repeteix alguns cops, en què uns abusananos peguen un nen a terra, de forma no explícita, i ell s'enfada amb el seu amic perquè ha presenciat l'agressió i no l'ha ajudat. En una breu escena d'una sèrie de televisió, se senten trets i es veu una pistola, però no succeeix res més. Hi ha moments en què els monstres bons amics del protagonista són trepitjats o atropellats de forma còmica.<br><br><b>Por i angoixa</b><br>A més de les escenes de violència més tenses del final, hi ha moments en què veiem persones posseïdes, amb el rostre negre i ulls vermells, que atemoreixen els protagonistes, o quan creuen que algú els vigila. Tanmateix, en aquests casos qualsevol tensió sol ser breu i tallada ràpidament per situacions còmiques. Un dels monstres dolents té un aspecte de cara humana amb arrugues molt detallades; al final, aquest es transforma en un ésser més gros que provoca un esfondrament i tothom ha de fugir.<br><br><b>Llenguatge groller</b><br>Es diu 'fotre' ('no fotis', 'et fotré un bon crit') i 'idiotes'. També s'empren expressions com 'vell xaruc' o 'marrec', i bromes de naturalesa escatològica, concretament de fer pets i de tenir un tap al cul. En una escena, s'insinua que el fet de tenir capa de superheroi farà que totes les noies estiguin 'boges' per ell."
+  },
+  {
+    "titol": "X3 Games",
+    "codi": "6195069",
+    "edat": "7",
+    "orig": "TP",
+    "peli": true,
+    "x3": true,
+    "raons": "Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>En una ocasió, se senten cançons que utilitzen expressions com 'prendre pel sac' o 'merda'."
+  },
+  {
+    "titol": "Yona, la princesa de l'alba",
+    "codi": "yona-princesa-alba",
+    "edat": "13",
+    "comp": "🇺🇲 TV-14 🇩🇪 12 🇬🇧 15",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Yu Yu Hakusho: Els defensors del més enllà",
