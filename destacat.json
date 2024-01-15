@@ -1,5 +1,15 @@
 [
   {
+    "titol": "Git Gud<br><small>Capítol 20</small>",
+    "codi": "Git Gud",
+    "edat": "0",
+    "violencia": true,
+    "por": true,
+    "orig": "TP",
+    "serie": true,
+    "x3": true
+  },
+  {
     "titol": "De la cullera a la ciutat<br><small>La joguina eròtica Mambo d'Andreu Carulla i el plaer</small>",
     "codi": "De la cullera a la ciutat",
     "edat": "10",
@@ -26,18 +36,6 @@
     "orig": "16 (📺: 18)",
     "serie": true,
     "tv3": true
-  },
-  {
-    "titol": "Git Gud<br><small>Capítol 19</small>",
-    "codi": "Git Gud",
-    "edat": "7",
-    "violencia": true,
-    "sexe": true,
-    "por": true,
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "x3": true
   },
   {
     "titol": "Bye Bye Monstre",
