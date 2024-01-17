@@ -1,5 +1,15 @@
 [
   {
+    "titol": "Nits Sense ficció<br><small>Porca misèria</small>",
+    "codi": "Nits Sense ficció",
+    "edat": "7",
+    "por": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Git Gud<br><small>Capítol 20</small>",
     "codi": "Git Gud",
     "edat": "0",
@@ -46,16 +56,5 @@
     "orig": "TP",
     "peli": true,
     "x3": true
-  },
-  {
-    "titol": "Quant temps em queda?",
-    "codi": "Quant temps em queda?",
-    "edat": "13",
-    "sexe": true,
-    "drogues": true,
-    "llenguatge": true,
-    "orig": "TP",
-    "peli": true,
-    "tv3": true
   }
 ]
