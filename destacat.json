@@ -1,5 +1,14 @@
 [
   {
+    "titol": "Històries de la primària<br><small>Les distàncies</small>",
+    "codi": "Històries de la primària",
+    "edat": "10",
+    "drogues": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Nits Sense ficció<br><small>Porca misèria</small>",
     "codi": "Nits Sense ficció",
     "edat": "7",
@@ -46,15 +55,5 @@
     "orig": "16 (📺: 18)",
     "serie": true,
     "tv3": true
-  },
-  {
-    "titol": "Bye Bye Monstre",
-    "codi": "Bye Bye Monstre",
-    "edat": "7",
-    "llenguatge": true,
-    "incivisme": true,
-    "orig": "TP",
-    "peli": true,
-    "x3": true
   }
 ]
