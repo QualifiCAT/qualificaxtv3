@@ -6117,6 +6117,30 @@
     "raons": "Por i angoixa reiterada d'afectació lleu"
   },
   {
+    "titol": "Jo mai mai",
+    "codi": "jo-mai-mai",
+    "edat": "18",
+    "orig": "10",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Jo mai mai 1x01 - Arribada",
+    "codi": "6260741",
+    "edat": "18",
+    "raons": "Abús de drogues lícites (alcohol) i consum de drogues il·lícites (marihuana, cocaïna), presentat de manera neutra",
+    "mesinfo": "<b>Drogues</b><br>Hi ha una escena en què uns nois -alguns d'ells, menors d'edat- s'escapen d'una casa de colònies i van de festa amb uns desconeguts, que condueixen per anar a una discoteca, on abusen de l'alcohol i s'inciten entre ells a tastar el que sembla ser cocaïna. No es mostren efectes negatius derivats directament del consum d'aquestes substàncies, més enllà d'un relatiu malestar i d'un agreujament dels problemes mentals d'una companya amb pensaments autodestructius. Només són renyats per part de la protagonista pel fet d'haver marxat de casa, no per haver-se drogat o 'emborratxat', i els demana que 'no en diguin res' als seus pares. Aquest personatge, a més, apareix fumant un porro en una escena intermèdia, diluint qualsevol possible lliçó que els pugui donar i donant un missatge normalitzador de les drogues en els joves, reforçat també per les escenes introduint els continguts del segon episodi, on els nois que han pres les drogues apareixen en perfecte estat.<br><br>Hi ha continguts sexuals freqüents d'explicitació mitjana, en forma d'escenes de sexe sense genitals visibles i de referències i insinuacions verbals. Hi ha llenguatge groller reiterat d'intensitat alta. Hi ha conductes i valors incívics presentats de manera neutra. Hi ha escenes ocasionals de por i angoixa d'afectació mitjana per una escena en què una noia puja a una gran alçada i fa comentaris com si estigués contemplant suïcidar-se."
+  },
+  {
+    "titol": "Jo, Elvis Riboldi",
+    "codi": "jo-elvis-riboldi",
+    "edat": "0",
+    "orig": "TP",
+    "comp": "🇦🇺 G 🇳🇱 AL 🇫🇮 7",
+    "serie": true,
+    "x3": true
+  },
+  {
     "titol": "Joc de cartes",
     "codi": "joc-de-cartes",
     "edat": "13",
@@ -6207,15 +6231,6 @@
     "edat": "13",
     "raons": "Llenguatge agressiu i vexatori freqüent",
     "mesinfo": "<b>Violència</b><br>Dos concursants es vexen i s'insulten, a vegades a la cara, de manera constant durant tot el programa, en especial per part d'una dona que sovint fa crítiques destructives desprestigiant als seus rivals. Per exemple, sobre els comentaris que fa un rival, es diu que sembla un cunyat i un 'sabelotodo'. En un altre moment, el noi deixa anar un comentari masclista insinuant que ella té experiència llepant caps de gamba. Cap al final del programa, en el moment de donar-se a conèixer els resultats de les votacions, una dona s'encara directament a la resta, fent burles mentre li parlen o retraient-los la seva actitud amb to burleta. Vegeu també 'Llenguatge groller'.<br><br>Hi ha llenguatge groller freqüent d'intensitat baixa ('cagar', 'hòstia', 'fotre', 'buscar merda', 'de collons'), i ocasional d'intensitat alta ('hòstia puta', 'quedar como el culo', '¡una polla!'). Hi ha consum d'alcohol presentat de manera neutra i una referència negativa a l'alcoholisme. Hi ha situacions angoixants moderades en un moment en què una concursant relata experiències tràgiques familiars."
-  },
-  {
-    "titol": "Jo, Elvis Riboldi",
-    "codi": "jo-elvis-riboldi",
-    "edat": "0",
-    "orig": "TP",
-    "comp": "🇦🇺 G 🇳🇱 AL 🇫🇮 7",
-    "serie": true,
-    "x3": true
   },
   {
     "titol": "Kiff",
