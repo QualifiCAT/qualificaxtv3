@@ -1,5 +1,14 @@
 [
   {
+    "titol": "Nits Sense ficció<br><small>Freddie Mercury, l'espectacle final</small>",
+    "codi": "Nits Sense ficció",
+    "edat": "13",
+    "por": true,
+    "orig": "12",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Jo mai mai<br><small>Arribada</small>",
     "codi": "Jo mai mai",
     "edat": "18",
@@ -45,14 +54,5 @@
     "orig": "TP",
     "serie": true,
     "x3": true
-  },
-  {
-    "titol": "De la cullera a la ciutat<br><small>La joguina eròtica Mambo d'Andreu Carulla i el plaer</small>",
-    "codi": "De la cullera a la ciutat",
-    "edat": "10",
-    "sexe": true,
-    "orig": "TP",
-    "serie": true,
-    "3cat": true
   }
 ]
