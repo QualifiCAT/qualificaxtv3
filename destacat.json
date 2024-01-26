@@ -1,5 +1,15 @@
 [
   {
+    "titol": "Èpic nails<br><small>Ungles collonudes</small>",
+    "codi": "Èpic nails",
+    "edat": "13",
+    "sexe": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "3cat": true
+  },
+  {
     "titol": "Nits Sense ficció<br><small>Freddie Mercury, l'espectacle final</small>",
     "codi": "Nits Sense ficció",
     "edat": "13",
@@ -44,15 +54,5 @@
     "orig": "TP",
     "serie": true,
     "tv3": true
-  },
-  {
-    "titol": "Git Gud<br><small>Capítol 20</small>",
-    "codi": "Git Gud",
-    "edat": "0",
-    "violencia": true,
-    "por": true,
-    "orig": "TP",
-    "serie": true,
-    "x3": true
   }
 ]
