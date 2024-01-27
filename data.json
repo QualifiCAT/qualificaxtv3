@@ -9740,16 +9740,11 @@
   },
   {
     "titol": "Projecte Beta",
-    "codi": "beta",
+    "codi": "projecte-beta",
     "edat": "10",
     "orig": "ERI",
     "serie": true,
     "x3": true
-  },
-  {
-    "titol": "Projecte Beta - &quot;Aquest Nadal&quot;, la nadala dels Beta",
-    "codi": "6254746",
-    "edat": "0"
   },
   {
     "titol": "Projecte Beta 1x01",
