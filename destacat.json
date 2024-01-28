@@ -1,5 +1,15 @@
 [
   {
+    "titol": "30 minuts<br><small>La gran onada</small>",
+    "codi": "30 minuts",
+    "edat": "10",
+    "violencia": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Èpic nails<br><small>Ungles collonudes</small>",
     "codi": "Èpic nails",
     "edat": "13",
@@ -41,16 +51,6 @@
     "codi": "Històries de la primària",
     "edat": "10",
     "drogues": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "Nits Sense ficció<br><small>Porca misèria</small>",
-    "codi": "Nits Sense ficció",
-    "edat": "7",
-    "por": true,
-    "llenguatge": true,
     "orig": "TP",
     "serie": true,
     "tv3": true
