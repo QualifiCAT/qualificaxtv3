@@ -1,5 +1,17 @@
 [
   {
+    "titol": "Cita bestial",
+    "edat": "7",
+    "orig": "TP",
+    "3cat": true
+  },
+  {
+    "titol": "Històries de la primària",
+    "edat": "10",
+    "orig": "TP",
+    "tv3": true
+  },
+  {
     "titol": "Joc de cartes",
     "edat": "13",
     "orig": "TP",
@@ -18,24 +30,9 @@
     "tv3": true
   },
   {
-    "titol": "Eufòria",
-    "edat": "10",
-    "orig": "TP",
-    "tv3": true,
-    "3cat": true
-  },
-  {
-    "titol": "Cita bestial",
-    "edat": "7",
-    "orig": "TP",
-    "novetat": true,
-    "3cat": true
-  },
-  {
     "titol": "Cute",
     "edat": "7",
     "orig": "TP",
-    "novetat": true,
     "x3": true
   },
   {
