@@ -1,5 +1,16 @@
 [
   {
+    "titol": "Nits Sense ficció<br><small>Eudald, quant temps ens queda?</small>",
+    "codi": "Nits Sense ficció",
+    "edat": "7",
+    "sexe": true,
+    "por": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "30 minuts<br><small>La gran onada</small>",
     "codi": "30 minuts",
     "edat": "10",
@@ -44,15 +55,6 @@
     "llenguatge": true,
     "orig": "TP",
     "peli": true,
-    "tv3": true
-  },
-  {
-    "titol": "Històries de la primària<br><small>Les distàncies</small>",
-    "codi": "Històries de la primària",
-    "edat": "10",
-    "drogues": true,
-    "orig": "TP",
-    "serie": true,
     "tv3": true
   }
 ]
