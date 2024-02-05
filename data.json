@@ -3967,6 +3967,42 @@
     "raons": "Por i angoixa freqüent d'afectació mitjana"
   },
   {
+    "titol": "Fuet",
+    "codi": "fuet",
+    "edat": "10",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
+  },
+  {
+    "titol": "Fuet 1x01 - Catalunya i els Romans! La conquesta de dos germans",
+    "codi": "6263759",
+    "edat": "10",
+    "raons": "Violència freqüent, irreal, no explícita, d'intensitat greu, legitimada",
+    "mesinfo": "<b>Violència</b><br>Es fan freqüents al·lusions a actes violents, sense recriminar, tot i que en un aparent context històric i còmic. Hi ha una batalla de gladiadors, implícita, però dels cops en surt sang i esquitxa la cara d'uns personatges fent de 'streamers' que narren i detallen l'espectacle, divertits: 'li ha travessat la panxa amb l'espasa', 'li ha tallat les cames', 'l'ha matat'. Una dona diu que 'em vaig fer un Van Gogh'.<br><br>Hi ha por i angoixa ocasional mitjana quan s'ensenya una butllofa en un pla tancat. Hi ha llenguatge groller ocasional d'intensitat baixa ('les normes ens les passàvem per l'arc de Neptú', 'foten', 'fotut'). Es fa una referència a l'alcohol. Dos personatges es parlen amb menyspreu contínuament, i es fan reiterades referències a continguts de les xarxes socials o a videojocs inadequats per edat."
+  },
+  {
+    "titol": "Fuet 1x02 - Guifré el Pilós, quatre barres i un mite famós",
+    "codi": "6263756",
+    "edat": "10",
+    "raons": "Violència ocasional, irreal, explícita, d'intensitat greu, no legitimada",
+    "mesinfo": "<b>Violència</b><br>Hi ha una escena, calcada d'un gag del programa 'Polònia', on es veu Guifré el Pilós, estirat al llit malferit a punt de morir, i el rei dels francs, que es dedica a fer banderes de països diversos utilitzant la seva sang, ficant els dits i diferents instruments de pintura dins la seva ferida, acompanyat d'efectes sonors, fent-lo cridar i rematant-lo.<br><br>Hi ha contingut sexual ocasional d'explicitació baixa quan una dona balla imitant la Rosalía. Hi ha por i angoixa ocasional d'afectació mitjana (vegeu 'Violència') i lleu (bromes sobre la mort o sobre la vellesa). Hi ha llenguatge groller ocasional d'intensitat baixa ('imbècil', 'que et bombin'). Es fan freqüents referències a continguts de les xarxes socials i les dues protagonistes es parlen sovint amb menyspreu."
+  },
+  {
+    "titol": "Fuet 1x03 - De Ramon Berenguer a Jaume Primer, de reis n'hi ha un fotimer",
+    "codi": "6263761",
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'hòstia', 'merder' i 'suda' dues vegades cadascun, i 'no fotis' i 'what the fuck' una vegada.<br><br>Hi ha violència ocasional, irreal, no explícita, greu i no legitimada, i referències a la mort. Les dues protagonistes discuteixen i una d'elles li trepitja implícitament el peu a l'altra. Hi ha referències sexuals ocasionals d'explicitació baixa, i es representa com Ramon Berenguer va 'lligar' amb un bebè de 2 anys."
+  },
+  {
+    "titol": "Fuet 1x04 - Els senyors feudals, els amos medievals",
+    "codi": "6263754",
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es fan freqüentment bromes escatològiques. Es diu 'fucking' tres vegades. Dues protagonistes discuteixen i una d'elles li ensenya el puny aixecant el dit menor, i li diu 'puja aquí'. També es diu 'fotre's', 'rucs' i 'hòstia'.<br><br>Hi ha violència freqüent, irreal, explícita, molt lleu i no legitimada. Hi ha continguts sexuals ocasionals d'explicitació baixa; durant els crèdits, els personatges imiten balls de twerk. També es fan referències a la mort."
+  },
+  {
     "titol": "George de la jungla",
     "codi": "george-jungla",
     "edat": "7",
