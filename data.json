@@ -12,7 +12,7 @@
     "codi": "6122030",
     "edat": "13",
     "orig": "TP",
-    "raons": "Por i angoixa freqüent d'afectació alta<br>Al·lusions al consum de drogues il·lícites, presentat de manera negativa",
+    "raons": "Por i angoixa freqüent d'afectació alta<br>Al·lusions al consum de drogues il·lícites, presentat de manera negativa","
     "mesinfo": "<b>Por i angoixa</b><br>En tot el programa hi ha referències angoixants, constants i detallades referides a trastorns mentals, on veiem, per exemple, una noia explicant què és viure amb un trastorn obsessivocompulsiu, què li passava per cap a una persona quan va intentar autolesionar-se (en una ocasió fins i tot s'arriben a veure algunes imatges de braços ensangonats) o quan va pensar a suïcidar-se llençant-se al tren (es diu que té un trastorn de personalitat), com una noia va arribar a tenir una sobredosi, com afecta l'entorn familiar que un noi s'obsessioni a fer exercici i en menjar poc, o quan una persona angoixada pel seu futur veu amb resignació com no li reconeixen la indisposició per anar a treballar. El documental és dur, però el missatge que dona és esperançador, i anima a trencar estigmes i a demanar ajuda (de fet, veiem freqüentment professionals i pares disposats a ajudar aquests joves en tot moment).<br><br><b>Drogues</b><br>Una persona explica que va tenir una sobredosi 'en siete drogas menos heroína', que van fer que la duguessin a un centre de rehabilitació. S'explica que abans fumava 'porros' i que la vida d'una persona era drogar-se. Una d'elles diu que no sap si vol deixar les drogues. El missatge global que es vol donar de les drogues és negatiu.<br><br>Hi ha llenguatge groller ocasional d'intensitat alta ('mierda', 'jodido'). Hi ha continguts sexuals ocasionals d'explicitació baixa: durant uns segons es mostren fotografies lleument sexualitzades de dones models a Instagram, que en el context del documental són criticades per fomentar 'cossos perfectes'."
   },
   {
@@ -3972,6 +3972,7 @@
     "edat": "10",
     "orig": "TP",
     "serie": true,
+    "tv3": true,
     "x3": true
   },
   {
@@ -4001,6 +4002,20 @@
     "edat": "10",
     "raons": "Llenguatge groller freqüent d'intensitat baixa",
     "mesinfo": "<b>Llenguatge groller</b><br>Es fan freqüentment bromes escatològiques. Es diu 'fucking' tres vegades. Dues protagonistes discuteixen i una d'elles li ensenya el puny aixecant el dit menor, i li diu 'puja aquí'. També es diu 'fotre's', 'rucs' i 'hòstia'.<br><br>Hi ha violència freqüent, irreal, explícita, molt lleu i no legitimada. Hi ha continguts sexuals ocasionals d'explicitació baixa; durant els crèdits, els personatges imiten balls de twerk. També es fan referències a la mort."
+  },
+  {
+    "titol": "Fuet 1x05 - El Mare Nostrum: Creuers i croats i guerrers molt esbojarrats",
+    "codi": "6263762",
+    "edat": "7",
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat greu, no legitimada<br>Por i angoixa ocasional d'afectació mitjana<br>Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Violència</b><br>Es descriuen actes violents en un context còmic. Per exemple, es diu que un personatge va intentar buidar-li els ulls a un altre en una batalla històrica.<br><br><b>Por i angoixa</b><br>Es fan al·lusions a la mort. En un esquetx una dona infectada de pesta negra vomita sang en un mocador i ensenya un bubó que té al coll.<br><br><b>Llenguatge groller</b><br>Es diu 'fotuda', 'merda' i 'ruc' un cop cadascun."
+  },
+  {
+    "titol": "Fuet 1x06 - Reis i nobles van pactant, i llegint Tirant lo Blanc",
+    "codi": "6263755",
+    "edat": "7",
+    "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, legitimada<br>Por i angoixa ocasional d'afectació mitjana<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció neutra",
+    "mesinfo": "<b>Violència</b><br>S'ensenyen armes històriques i diversos personatges juguen amb elles, a vegades disparant a algú fora de càmera o fent veure reben un tret i es dessagnen. Una noia pega un personatge a l'entrecuix amb un llibre. Es parla despreocupadament sobre anar a la guerra.<br><br><b>Por i angoixa</b><br>Un personatge amb la pesta bubònica té un mocador tacat de sang.<br><br><b>Llenguatge groller</b><br>Es diu 'idiota', 'foten' i 'fucking'.<br><br><b>Conductes i valors incívics</b><br>Les protagonistes menteixen als seus superiors i els envien una imatge modificada perquè no es pensin que estan procrastinant i han fallat en la seva missió. La presentació de les conductes incíviques és totalment inversemblant.<br><br>Es fan referències freqüents a continguts de les xarxes socials o a programes i videojocs inadequats per edat."
   },
   {
     "titol": "George de la jungla",
