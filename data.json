@@ -4018,6 +4018,20 @@
     "mesinfo": "<b>Violència</b><br>S'ensenyen armes històriques i diversos personatges juguen amb elles, a vegades disparant a algú fora de càmera o fent veure reben un tret i es dessagnen. Una noia pega un personatge a l'entrecuix amb un llibre. Es parla despreocupadament sobre anar a la guerra.<br><br><b>Por i angoixa</b><br>Un personatge amb la pesta bubònica té un mocador tacat de sang.<br><br><b>Llenguatge groller</b><br>Es diu 'idiota', 'foten' i 'fucking'.<br><br><b>Conductes i valors incívics</b><br>Les protagonistes menteixen als seus superiors i els envien una imatge modificada perquè no es pensin que estan procrastinant i han fallat en la seva missió. La presentació de les conductes incíviques és totalment inversemblant.<br><br>Es fan referències freqüents a continguts de les xarxes socials o a programes i videojocs inadequats per edat."
   },
   {
+    "titol": "Fuet 1x07 - Colom se'n va a fer una volta, i Pau Claris es revolta",
+    "codi": "6263763",
+    "edat": "10",
+    "raons": "Consum de drogues lícites (alcohol), presentat de manera neutra<br>Llenguatge groller reiterat d'intensitat baixa",
+    "mesinfo": "<b>Drogues</b><br>Es fan referències neutres i ocasionals al consum de vi.<br><br><b>Llenguatge groller</b><br>Es fan freqüentment bromes escatològiques, sobre defecar, orinar o fer rots i pets, i s'utilitzen paraules com 'us cagareu', 'me càgon', 'fotre', 'merder', 'pringat' i 'hòstia'. Anomenen 'el atontao' a un rei per l'aspecte de la seva cara, i es diu que és fruit de casar-se durant anys entre cosins.<br><br>Hi ha violència ocasional, irreal, no explícita, lleu i no legitimada; una dona apareix amb una soga al coll a punt de ser executada. Hi ha conductes incíviques presentades negativament."
+  },
+  {
+    "titol": "Fuet 1x08 - Del Timbaler del Bruc a Mossèn Cinto Verdaguer, gent amb nom de carrer",
+    "codi": "6263758",
+    "edat": "7",
+    "raons": "Violència freqüent, irreal, no explícita, d'intensitat lleu, no legitimada<br>Consum de drogues lícites (alcohol), presentat de manera negativa<br>Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Violència</b><br>Es fan referències visuals i verbals a actes violents històrics en un context còmic.<br><br><b>Drogues</b><br>En una escena còmica, després de comprovar-li l'alè, un pare recrimina al seu fill que ha estat bebent licors 'francesos'.<br><br><b>Llenguatge groller</b><br>Es diu 'merder' i 'fotre el camp' (dues vegades). També es diu 'tonti' o 'ximple' sense dirigir-se a ningú."
+  },
+  {
     "titol": "George de la jungla",
     "codi": "george-jungla",
     "edat": "7",
