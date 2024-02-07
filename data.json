@@ -4021,8 +4021,8 @@
     "titol": "Fuet 1x07 - Colom se'n va a fer una volta, i Pau Claris es revolta",
     "codi": "6263763",
     "edat": "10",
-    "raons": "Consum de drogues lícites (alcohol), presentat de manera neutra<br>Llenguatge groller reiterat d'intensitat baixa",
-    "mesinfo": "<b>Drogues</b><br>Es fan referències neutres i ocasionals al consum de vi.<br><br><b>Llenguatge groller</b><br>Es fan freqüentment bromes escatològiques, sobre defecar, orinar o fer rots i pets, i s'utilitzen paraules com 'us cagareu', 'me càgon', 'fotre', 'merder', 'pringat' i 'hòstia'. Anomenen 'el atontao' a un rei per l'aspecte de la seva cara, i es diu que és fruit de casar-se durant anys entre cosins.<br><br>Hi ha violència ocasional, irreal, no explícita, lleu i no legitimada; una dona apareix amb una soga al coll a punt de ser executada. Hi ha conductes incíviques presentades negativament."
+    "raons": "Llenguatge groller reiterat d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es fan freqüentment bromes escatològiques, sobre defecar, orinar o fer rots i pets, i s'utilitzen paraules com 'us cagareu', 'me càgon', 'fotre', 'merder', 'pringat' i 'hòstia'. Anomenen 'el atontao' a un rei per l'aspecte de la seva cara, i es diu que és fruit de casar-se durant anys entre cosins.<br><br>Hi ha violència ocasional, irreal, no explícita, lleu i no legitimada; una dona apareix amb una soga al coll a punt de ser executada. Hi ha conductes incíviques presentades negativament. Es fa una referència a una beguda alcohòlica."
   },
   {
     "titol": "Fuet 1x08 - Del Timbaler del Bruc a Mossèn Cinto Verdaguer, gent amb nom de carrer",
@@ -4030,6 +4030,34 @@
     "edat": "7",
     "raons": "Violència freqüent, irreal, no explícita, d'intensitat lleu, no legitimada<br>Consum de drogues lícites (alcohol), presentat de manera negativa<br>Llenguatge groller ocasional d'intensitat baixa",
     "mesinfo": "<b>Violència</b><br>Es fan referències visuals i verbals a actes violents històrics en un context còmic.<br><br><b>Drogues</b><br>En una escena còmica, després de comprovar-li l'alè, un pare recrimina al seu fill que ha estat bebent licors 'francesos'.<br><br><b>Llenguatge groller</b><br>Es diu 'merder' i 'fotre el camp' (dues vegades). També es diu 'tonti' o 'ximple' sense dirigir-se a ningú."
+  },
+  {
+    "titol": "Fuet 1x09 - A les fàbriques la gent s'hi apinya, i la fil·loxera ens mata la vinya",
+    "codi": "6263764",
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'fucking', 'fote't', 'fotut', 'cagada', 'babaus', 'tonto', i es fa broma sobre posar-li un supositori a un insecte.<br><br>Hi ha violència ocasional, irreal, no explícita, molt lleu i legitimada. Hi ha insinuacions sexuals ocasionals d'explicitació baixa. Hi ha discriminació, quan es fa referència a situacions històriques d'esclavitud a Amèrica, presentada de manera negativa. Es fan referències ocasionals i lleus a la mort."
+  },
+  {
+    "titol": "Fuet 1x10 - El segle XX ja és aquí, i podem gaudir d'en Gaudí",
+    "codi": "6263757",
+    "edat": "7",
+    "raons": "Continguts sexuals ocasionals d'explicitació baixa<br>Por i angoixa ocasional d'afectació mitjana<br>Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Sexe</b><br>Es fan algunes insinuacions lleus, com quan es fa referència a la lletra típicament cosificadora de reggaeton.<br><br><b>Por i angoixa</b><br>Es fan bromes explícites sobre ser atropellat per un tramvia, i es diu a l'audiència: 'aneu alerta amb la T-Usual, que la carrega el diable.' També hi ha moments on uns personatges tenen atacs de pànic.<br><br><b>Llenguatge groller</b><br>Es diu 'foten' (dos cops), 'fotut' i 'burro'.<br><br>Es fan referències breus a actes violents. Es fan referències a continguts de les xarxes socials."
+  },
+  {
+    "titol": "Fuet 1x11 - De la dictadura a Barcelona 92, un espectacle meravellós.",
+    "codi": "6263765",
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es fan servir expressions com 'imbècils', 'burro', 'fotem el camp', 'you bitches'. Uns policies parlen col·loquialment entre ells i diuen 'hostia' i 'coño'.<br><br>Hi ha violència ocasional, versemblant, explícita, molt lleu i no legitimada: un clatellot en un context humorístic. Es fa referència a situacions de discriminació, presentades en negatiu. Es fa referència a una beguda alcohòlica."
+  },
+  {
+    "titol": "Fuet 1x12 - Els García pel viatge de retorn, amb rumba, blues i reggaeton",
+    "codi": "6263753",
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'merda', 'fotut' (dues vegades), 'pixa a la mà', 'mecàgon' i uns personatges fan rots sovint.<br><br>Es fa referència a situacions de discriminació, presentades en negatiu. Es fa referència a una beguda alcohòlica i a un acte violent."
   },
   {
     "titol": "George de la jungla",
@@ -7513,7 +7541,7 @@
   {
     "titol": "Les aventures d'en Massagran",
     "codi": "aventures-massagran",
-    "edat": "7",
+    "edat": "10",
     "orig": "7",
     "serie": true,
     "x3": true
@@ -7569,26 +7597,26 @@
   {
     "titol": "Les aventures d'en Massagran 9",
     "codi": "5810293",
-    "edat": "7",
-    "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, no legitimada<br>Contingut sexual ocasional d'explicitació baixa<br>Por i angoixa freqüent d'afectació lleu<br>Consum de tabac"
+    "edat": "10",
+    "raons": "Consum de tabac presentat de manera neutra"
   },
   {
     "titol": "Les aventures d'en Massagran 10",
     "codi": "5810299",
-    "edat": "0",
-    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa ocasional d'afectació lleu<br>Consum insinuat de tabac i alcohol"
+    "edat": "10",
+    "raons": "Consum de tabac i alcohol presentat de manera neutra"
   },
   {
     "titol": "Les aventures d'en Massagran 11",
     "codi": "5810327",
-    "edat": "7",
-    "raons": "Consum de tabac vinculat al context històric<br>Comentaris masclistes amb sanció negativa"
+    "edat": "10",
+    "raons": "Consum de tabac presentat de manera neutra"
   },
   {
     "titol": "Les aventures d'en Massagran 12",
     "codi": "5810300",
-    "edat": "7",
-    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada<br>Por i angoixa ocasional d'afectació mitjana<br>Consum de tabac"
+    "edat": "10",
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat greu, no legitimada<br>Consum de tabac presentat de manera neutra"
   },
   {
     "titol": "Les aventures d'en Massagran 13",
