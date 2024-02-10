@@ -1,5 +1,14 @@
 [
   {
+    "titol": "Millennium: els homes que no estimaven les dones",
+    "codi": "Millennium: els homes que no estimaven les dones",
+    "edat": "18",
+    "violencia": true,
+    "orig": "16",
+    "peli": true,
+    "tv3": true
+  },
+  {
     "titol": "Històries de la primària<br><small>El vincle</small>",
     "codi": "Històries de la primària",
     "edat": "13",
@@ -50,15 +59,5 @@
     "orig": "TP",
     "serie": true,
     "tv3": true
-  },
-  {
-    "titol": "Èpic nails<br><small>Ungles collonudes</small>",
-    "codi": "Èpic nails",
-    "edat": "13",
-    "sexe": true,
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "3cat": true
   }
 ]
