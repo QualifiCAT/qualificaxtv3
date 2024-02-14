@@ -1,9 +1,9 @@
 [
   {
-    "titol": "Núñez",
-    "edat": "10",
+    "titol": "Cita bestial",
+    "edat": "7",
     "orig": "TP",
-    "tv3": true
+    "3cat": true
   },
   {
     "titol": "Històries de la primària",
@@ -26,8 +26,7 @@
   {
     "titol": "Jo mai mai",
     "edat": "18",
-    "orig": "10",
-    "novetat": true,
+    "orig": "13",
     "tv3": true
   },
   {
