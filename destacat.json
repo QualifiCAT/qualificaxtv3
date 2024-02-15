@@ -1,5 +1,12 @@
 [
   {
+    "titol": "VOC - Festival Òmnium de Curtmetratges",
+    "codi": "VOC - Festival Òmnium de Curtmetratges",
+    "edat": "18",
+    "orig": "16",
+    "3cat": true
+  },
+  {
     "titol": "Millennium: els homes que no estimaven les dones",
     "codi": "Millennium: els homes que no estimaven les dones",
     "edat": "18",
@@ -45,16 +52,6 @@
     "edat": "7",
     "sexe": true,
     "por": true,
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "30 minuts<br><small>La gran onada</small>",
-    "codi": "30 minuts",
-    "edat": "10",
-    "violencia": true,
     "llenguatge": true,
     "orig": "TP",
     "serie": true,
