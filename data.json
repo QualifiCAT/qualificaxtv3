@@ -11659,6 +11659,80 @@
     "x3": true
   },
   {
+    "titol": "VOC - Festival Òmnium de Curtmetratges",
+    "codi": "20130",
+    "edat": "18",
+    "orig": "16",
+    "serie": true,
+    "3cat": true
+  },
+  {
+    "titol": "VOC - Festival Òmnium de Curtmetratges - Els més grans",
+    "codi": "6265577",
+    "edat": "10",
+    "raons": "Consum de drogues lícites (alcohol) presentat de manera neutra"
+  },
+  {
+    "titol": "VOC - Festival Òmnium de Curtmetratges - L'avenir",
+    "codi": "6265578",
+    "edat": "10",
+    "raons": "Continguts sexuals ocasionals d'explicitació mitjana"
+  },
+  {
+    "titol": "VOC - Festival Òmnium de Curtmetratges - Provocadora",
+    "codi": "6265576",
+    "edat": "10",
+    "raons": "Violència freqüent, versemblant, no explícita, d'intensitat greu, no legitimada<br>Continguts sexuals ocasionals d'explicitació mitjana<br>Por i angoixa freqüent d'afectació mitjana<br>Llenguatge groller ocasional d'intensitat alta"
+  },
+  {
+    "titol": "VOC - Festival Òmnium de Curtmetratges - Anhel de llum",
+    "codi": "6265575",
+    "edat": "10",
+    "raons": "Consum de drogues lícites (alcohol, tabac) presentat de manera neutra<br>Llenguatge groller freqüent d'intensitat baixa"
+  },
+  {
+    "titol": "VOC - Festival Òmnium de Curtmetratges - Tots els meus colors",
+    "codi": "6265581",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu"
+  },
+  {
+    "titol": "VOC - Festival Òmnium de Curtmetratges - El tren de l'alegria",
+    "codi": "6265879",
+    "edat": "13",
+    "raons": "Por i angoixa reiterada d'afectació mitjana"
+  },
+  {
+    "titol": "VOC - Festival Òmnium de Curtmetratges - La casa oberta",
+    "codi": "6265586",
+    "edat": "13",
+    "raons": "Por i angoixa reiterada d'afectació mitjana"
+  },
+  {
+    "titol": "VOC - Festival Òmnium de Curtmetratges - Al Nadal toca fusta",
+    "codi": "6265584",
+    "edat": "13",
+    "raons": "Violència freqüent, irreal, no explícita, d'intensitat molt greu, no legitimada"
+  },
+  {
+    "titol": "VOC - Festival Òmnium de Curtmetratges - Una corda lligada en l'espai",
+    "codi": "6265582",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu"
+  },
+  {
+    "titol": "VOC - Festival Òmnium de Curtmetratges - Si mai no ens haguéssim separat",
+    "codi": "6265585",
+    "edat": "10",
+    "raons": "Continguts sexuals ocasionals d'explicitació mitjana<br>Consum de drogues lícites (tabac, alcohol) presentat de manera neutra"
+  },
+  {
+    "titol": "VOC - Festival Òmnium de Curtmetratges - Traca",
+    "codi": "6265583",
+    "edat": "18",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt greu (violació correctiva), no legitimada"
+  },
+  {
     "titol": "Vosaltres mateixos",
     "codi": "vosaltres-mateixos",
     "edat": "10",
