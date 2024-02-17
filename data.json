@@ -1975,8 +1975,9 @@
   {
     "titol": "Després de tu",
     "codi": "despres-de-tu",
-    "edat": "10",
-    "orig": "7",
+    "edat": "13",
+    "orig": "7 (un episodi: 13)",
+    "comp": "🇪🇸 7 (À Punt i IB3)",
     "serie": true,
     "tv3": true
   },
@@ -3572,124 +3573,124 @@
     "tv3": true
   },
   {
-    "titol": "Eufòria 1: Gala 1",
+    "titol": "Eufòria - Eufòria 1: Gala 1",
     "codi": "6149766",
     "edat": "10",
     "raons": "Contingut sexual ocasional d'explicitació mitjana<br>Al·lusions al consum de drogues lícites (alcohol) i menció a una droga il·lícita (cocaïna), amb una presentació neutra<br>Llenguatge groller ocasional d'intensitat alta",
     "mesinfo": "<b>Sexe</b><br>En una ocasió, un dels concursants diu que vol provocar 'un orgasme musical' a l'audiència. Altres continguts sexuals d'explicitació baixa inclouen balls suggerents, o parlar d'estar 'sexi' o de 'desfer la neu a dins dels teus llençols'.<br><br><b>Drogues</b><br>En una ocasió, el presentador diu que es va desil·lusionar quan va entendre que el VAR no era un bar i que 'aquí no hi ha birres, no hi ha cubates...', i el públic respon, trist: 'ooooh!'. Més tard, pregunta quantes birres es podrà comprar amb una moneda imaginària amb el seu nom. Una cançó en anglès present en el programa menciona la droga 'cocaine'.<br><br><b>Llenguatge groller</b><br>Es fan servir expressions com 'hòstia', 'joder', 'putada', 'merda' o 'fotre'.<br><br>Hi ha situacions ocasionals d'angoixa amb una afectació lleu quan els concursants s'emocionen, o comenten de passada que van patir assetjament o la pèrdua d'algun familiar."
   },
   {
-    "titol": "Eufòria 1: La final",
+    "titol": "Eufòria - Eufòria 1: La final",
     "codi": "6164636",
     "edat": "7",
     "raons": "Contingut sexual ocasional d'explicitació baixa<br>Llenguatge groller ocasional d'intensitat baixa",
     "mesinfo": "<b>Sexe</b><br>Són presents algunes insinuacions sexuals, principalment per les coreografies o vestits suggerents dels ballarins que emfatitzen certes parts del cos. En una ocasió, un d'ells s'esquinça la samarreta provocativament i se'n fan comentaris com que 'faràs que els volcans explotin', 'm'ha agafat calor' o que és 'supersexi' o 'molt sensual'. També se sent de fons, en dues ocasions, una cançó que inclou la línia 'puja la calor a la secció de congelat'.<br><br><b>Llenguatge groller</b><br>Es diu 'merda', 'hòstia', 'fotre', 'parir' o 'joder'. Una noia ensenya el dit del mig per demostrar rebel·lia, no de forma ofensiva. Algunes converses pràcticament inaudibles inclouen 'puta mare' o 'puto bèstia'.<br><br>Hi ha situacions ocasionals d'angoixa amb una afectació lleu quan els concursants s'emocionen. Hi ha alguna referència fugaç al consum d'alcohol ('glop de birra', 'veniu per les copetes'). La cançó del grup convidat inclou referències violentes, com per exemple: 'cadáveres exquisitos', 'aunque me cortaras una extremidad', 'si me aplicaras la inyección letal'."
   },
   {
-    "titol": "Eufòria 2, el càsting final: coneixem els concursants",
+    "titol": "Eufòria - Eufòria 2, el càsting final: coneixem els concursants",
     "codi": "6205272",
     "edat": "7",
     "raons": "Llenguatge groller ocasional d'intensitat baixa"
   },
   {
-    "titol": "Eufòria 2, el càsting final: els últims escollits",
+    "titol": "Eufòria - Eufòria 2, el càsting final: els últims escollits",
     "codi": "6207008",
     "edat": "7",
     "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
-    "titol": "Eufòria 2: Gala 1",
+    "titol": "Eufòria - Eufòria 2: Gala 1",
     "codi": "6208461",
     "edat": "7",
     "raons": "Contingut sexual ocasional d'explicitació baixa<br>Llenguatge groller ocasional d'intensitat baixa",
     "mesinfo": "<b>Sexe</b><br>Es fan algunes al·lusions a comportaments sexuals (per exemple, es parla vagament de 'perrejar' o que un noi treballava en un lloc on es va arribar a 'despullar'), i algunes coreografies o vestimentes tenen una càrrega eròtica lleu en simular actituds lascives.<br><br><b>Llenguatge groller</b><br>Es fan servir expressions com 'hòstia', 'putada' o 'acollonir'. La seva presència és ocasional -tenint en compte la durada del programa- i gairebé anecdòtica.<br><br>Hi ha situacions d'angoixa i por amb una afectació lleu quan els concursants diuen que han patit vivències doloroses, sense concretar en la majoria de casos, o es mostren visiblement emocionats pels resultats de les votacions i del veredicte del jurat. En una cançó, es fa una al·lusió fugaç al consum de drogues lícites ('...vas amb ressaca al partit...')."
   },
   {
-    "titol": "Eufòria 2: Gala 2",
+    "titol": "Eufòria - Eufòria 2: Gala 2",
     "codi": "6209846",
     "edat": "10",
     "raons": "Llenguatge groller freqüent d'intensitat baixa",
     "mesinfo": "<b>Llenguatge groller</b><br>Es fan servir, amb certa freqüència durant el programa, expressions com 'merda', 'hòstia', 'fotre', 'cagat', 'fins als collons' o 'collonuda'.<br><br>Algunes coreografies, puntualment, simulen actituds lascives amb una càrrega eròtica lleu. Hi ha situacions ocasionals d'angoixa amb una afectació lleu quan els concursants s'emocionen, o estan nerviosos, pels resultats de les votacions."
   },
   {
-    "titol": "Eufòria 2: Gala 3",
+    "titol": "Eufòria - Eufòria 2: Gala 3",
     "codi": "6211165",
     "edat": "10",
     "raons": "Contingut sexual freqüent d'explicitació baixa<br>Al·lusions ocasionals al consum d'alcohol, presentat de manera neutra<br>Llenguatge groller ocasional d'intensitat alta",
     "mesinfo": "<b>Sexe</b><br>Algunes actuacions presenten al·lusions a situacions sexuals, tant verbals (per exemple, lletres com 'a les nits que estic calent et necessito', 'voldria resseguir-te la pell') com visuals (coreografies sexualitzades). Entre actuacions es fan més comentaris, com dir que una noia és 'sexi', preguntar-se què vol dir la frase 'voulez-vous coucher avec moi' o com quan la presentadora li diu a un concursant que li agrada que vagi lleuger de roba. Algunes lletres es critiquen per masclistes.<br><br><b>Drogues</b><br>Es fa una broma que un concursant, per com ha cantat, semblava 'un borratxo' en un comiat de solter. Es consumeix vi en dues situacions, en un bar fictici i en un dinar familiar. En una cançó es diu 'perdoneu, que l'alcohol em reclama'.<br><br><b>Llenguatge groller</b><br>Un concursant crida 'me càgon la puta'. Primer demana perdó però tothom li diu immediatament que això és el que ha de fer per alliberar-se. També es fan servir ocasionalment 'merda', 'hòstia', 'fotre' i 'cagada'.<br><br>Hi ha situacions ocasionals que poden provocar por o angoixa lleument, quan es comenta que un noi està acostumat a viure sense els pares o que els avis són 'al cel', així com diversos moments en què els concursants ploren pels resultats de les votacions."
   },
   {
-    "titol": "Eufòria 2: Gala 4",
+    "titol": "Eufòria - Eufòria 2: Gala 4",
     "codi": "6212605",
     "edat": "10",
     "raons": "Al·lusions ocasionals al consum d'alcohol, presentat de manera neutra",
     "mesinfo": "<b>Drogues</b><br>Es fan mencions molt ocasionals a estar 'borratxo' o a begudes alcohòliques ('una ronda de White Russian', 'whisky'). En un vídeo, una família brinda amb cervesa en un restaurant. Una cançó fa menció del CBD.<br><br>Hi ha violència irreal en una actuació en què unes fletxes són clavades en el cos d'un noi i li fan sagnar. Hi ha continguts sexuals ocasionals d'explicitació baixa, sobretot en forma de referències verbals, en lletres de cançons ('estic tan bona', 'tu me fas coses que no sé explicar... fent l'amor') o en insinuacions còmiques (quan li diuen a una noia que utilitzi objectes vibradors i es pregunta rient que 'què insinua', o considerar que un cantant 'va fort' pel nom d'un disc anomenat 'Entre fluids'). Hi ha llenguatge groller ocasional d'intensitat baixa com 'hòstia', 'cagar', 'collonuda', 'fotre' o 'cabrón'. Hi ha situacions ocasionals susceptibles de provocar por o angoixa amb una afectació mitjana, concretament l'escena de sang i alguns comentaris que reflectien l'angoixa patida per algunes concursants en la seva infantesa o adolescència."
   },
   {
-    "titol": "Eufòria 2: Passió per 'Eufòria'",
+    "titol": "Eufòria - Eufòria 2: Passió per 'Eufòria'",
     "codi": "6213256",
     "edat": "10",
     "raons": "Contingut sexual freqüent d'explicitació baixa",
     "mesinfo": "<b>Sexe</b><br>Algunes actuacions presenten al·lusions a situacions sexuals, tant verbals (lletres com 'estic tan bona', 'trenquem el llit', 'i a les nits que estic calent', 'tot és sexualitzable en el context adequat', 'fent l'amor') com visuals (coreografies sexualitzades). Algunes lletres es critiquen per masclistes.<br><br>Hi ha violència irreal, que pot provocar por o angoixa amb afectació mitjana, en una actuació en què unes fletxes són clavades en el cos d'un noi i li fan sagnar. Molt ocasionalment i de forma fugaç, es fan al·lusions a l'alcohol ('una ronda de White Russian', 'vas amb ressaca')."
   },
   {
-    "titol": "Eufòria 2: Gala 5",
+    "titol": "Eufòria - Eufòria 2: Gala 5",
     "codi": "6215024",
     "edat": "10",
     "raons": "Contingut sexual ocasional d'explicitació mitjana<br>Al·lusions ocasionals al consum d'alcohol, presentat de manera neutra<br>Llenguatge groller freqüent d'intensitat baixa",
     "mesinfo": "<b>Sexe</b><br>En una actuació, una noia obre les cames provocativament, mentre diu 'a todos los excita'. L'escena es repeteix posteriorment.<br><br><b>Drogues</b><br>En una festa, unes noies aguanten una copa de vi. Es fa menció a què un home va entrar en una clínica de rehabilitació perquè era alcohòlic i drogoaddicte. Una persona es refereix al fet d'estar nominada favorita com un 'chute'.<br><br><b>Llenguatge groller</b><br>Es diuen 'hòstia', 'hosti', 'collonut', 'acollonir' i similars, 'fotre', 'cagat', 'joder', 'cabrón' i 'merda'. Una noia diu que fa el que li surt 'de...' mentre s'apunta els genitals.<br><br>Hi ha situacions ocasionals que poden generar por o angoixa amb una afectació lleu, com quan gent es posa a plorar pels resultats de les votacions o perquè ha recordat vivències difícils, una menció fugaç a la bulímia, i presència de sang per una actuació d'anteriors edicions."
   },
   {
-    "titol": "Eufòria 2: Gala 6",
+    "titol": "Eufòria - Eufòria 2: Gala 6",
     "codi": "6216344",
     "edat": "10",
     "raons": "Al·lusions ocasionals al consum d'alcohol, presentat de manera neutra<br>Llenguatge groller freqüent d'intensitat baixa",
     "mesinfo": "<b>Drogues</b><br>Un membre del jurat fa servir una frase feta: 'no ens emborratxem en el primer bar'. En una de les actuacions, es relaciona verbalment el consum de birres amb ser macarra. Una de les cançons referencia begudes alcohòliques en un context festiu: 'mojito de menta', 'chupito de absenta', 'bien de ron', i es dona a entendre que es combina el seu consum amb activitat sexual. Es fa referència metafòrica a un 'chute' com si fos una injecció d'energia.<br><br><b>Llenguatge groller</b><br>Es diu 'hòstia'. De forma més ocasional, també es diuen 'merda', 'fotre', 'càgon', 'me la pela' o 'de puta mare'. En una cançó, es diu: 'podeu menjar-me la...', però la paraula és censurada totalment. Per demostrar macarreria, s'ensenyen els dits del mig. En una actuació, els ballarins fan moviments pretesament lascius aguantant-se l'entrecuix amb la mà. Una noia lesbiana es refereix a ella mateixa com a 'bollera'.<br><br>Hi ha continguts sexuals ocasionals d'explicitació baixa: alguns cantants són descrits com a 'sexis', a vegades, de forma continuada; es mencionen el 'perreig' o es parla vagament sobre com seduir, i una cançó fa al·lusions implícites al sexe ('me pongo pibón', 'por si esta noche pasa algo entre tú y yo', 'lo haremos'...). Es fa al·lusió a la violència quan es diu que a cert barri cal anar amb pistoles, o quan es compara un ball amb fer veure que es vol 'enxufar un cop d'ampolla a algú'. Es fan bromes sobre el sobrepès quan, per exemple, es rumoreja que algú està embarassat i es diu que és pel menjar."
   },
   {
-    "titol": "Eufòria 2: Gala 7",
+    "titol": "Eufòria - Eufòria 2: Gala 7",
     "codi": "6217585",
     "edat": "10",
     "raons": "Al·lusions ocasionals al consum d'alcohol i tabac, presentat de manera neutra",
     "mesinfo": "<b>Drogues</b><br>Es fa una menció al tabac en una cançó. Una noia confon 'moscató' amb 'moscatell' i diu: 'moscatell és el cava'. Es comenta, en to de broma, que una noia prefereix anar al bar, fer un vermut o el 'moscatell' que no practicar activitats de risc. Es parla de fer una cervesa. En un vídeo gravat per uns joves s'hi pot veure una ampolla de cervesa.<br><br>Hi ha continguts sexuals ocasionals d'explicitació baixa, tant visuals (coreografies sexualitzades) com verbals (lletres i comentaris com 'hi ha hagut sexe entre concursants?', 'sexi', 'el compte d'OnlyFans', 'potser he deixat embarassada a més d'una'). Hi ha llenguatge groller ocasional d'intensitat baixa quan es diuen 'hòstia' o 'fotre'. (Es diu 'fuck' i hi ha referències sexuals en anglès, que no han estat tingudes en compte.) Un home diu que un noi, que ha fet una actuació emotiva, ha tret el seu cantó més 'femení'."
   },
   {
-    "titol": "Eufòria 2: Gala 8",
+    "titol": "Eufòria - Eufòria 2: Gala 8",
     "codi": "6218807",
     "edat": "7",
     "raons": "Contingut sexual ocasional d'explicitació baixa<br>Llenguatge groller ocasional d'intensitat baixa",
     "mesinfo": "<b>Sexe</b><br>Rarament, es fan al·lusions sexuals, com quan es diu que una cantant està 'sexi', i es mostren coreografies lleument sexualitzades.<br><br><b>Llenguatge groller</b><br>Rarament, es diuen 'hòstia' i 'fotre'.<br><br>Hi ha situacions ocasionals que poden generar por o angoixa amb afectació lleu: els concursants ploren pels resultats per les votacions, es fan al·lusions a la mort -la majoria, metafòriques-, i es denuncien casos d'assetjament i d'homofòbia. En una actuació, les ballarines ballen alegrement amb ganivets i els fan servir per tallar les cues dels cabells de la cantant en una manera que podria suscitar-ne la imitació."
   },
   {
-    "titol": "Eufòria 2: Gala 9",
+    "titol": "Eufòria - Eufòria 2: Gala 9",
     "codi": "6220055",
     "edat": "10",
     "raons": "Contingut sexual freqüent d'explicitació baixa<br>Llenguatge groller ocasional d'intensitat alta",
     "mesinfo": "<b>Sexe</b><br>Les actuacions presenten freqüentment coreografies sexualitzades, tant per la vestimenta com per balls i moviments provocatius. Es comenta que la lletra d'una de les cançons cantades, 'Remena, nena', té un doble sentit, però no es donen detalls. Una de les actuacions mostra dues noies ballant 'pole dance' en una barra vertical, i la presentadora fa bromes amb els membres del jurat perquè s'animin a aprendre a ballar-ho. La lletra d'una de les cançons, 'Xuculatina', està formada, totalment, per insinuacions sexuals ('24/7 per fotre la cullera', 'el suc entra bé, exprimim plaer', 'el veí que ens sent, amb això s'encén, em diu no parem', 't'ausculta i et cura els mals', 'protagonista de fantasies', 'treballador del clit').<br><br><b>Llenguatge groller</b><br>En una escena, es diu: 'hi ha aquesta cosa de sentir-te la puta ama, i de sentir-te una puta merda'. En una altra ocasió, es diu: 'no em truquis que estic de puta mare'. També es diuen 'hòstia', 'joder' (subtitulat com a 'collons'), 'parir' i 'fotre' ocasionalment.<br><br>Hi ha situacions ocasionals que poden generar por o angoixa amb afectació mitjana, quan els concursants parlen de les seves vivències i de la seva salut mental, i que una noia visitava psicòlegs i tenia atacs d'ansietat; també es fan al·lusions còmiques a la mort, i una cançó fa referència al fet que uns joves 'es penjaven'. Un dels concursants duu una lentilla que pot provocar certa sensació d'angúnia. Es fa menció a 'licors', i una cançó utilitza el terme 'borratxera', tot i que la cantant no la vocalitza."
   },
   {
-    "titol": "Eufòria 2: Gala 10",
+    "titol": "Eufòria - Eufòria 2: Gala 10",
     "codi": "6221422",
     "edat": "10",
     "raons": "Llenguatge groller ocasional d'intensitat alta",
     "mesinfo": "<b>Llenguatge groller</b><br>Una de les cançons (que es canta dos cops, i mitja en el resum de les concursants nominades a votació) fa servir sovint l'expressió 'merda', així com 'hòsties' i 'negrata', sense aparent intencionalitat racista. Una noia diu: 'amb dos collons, gala 10... perdó per la paraulota'. També es fan servir 'fotre', 'cagar' i 'prendre pel sac' ocasionalment.<br><br>Hi ha alguns continguts sexuals d'explicitació baixa en forma de balls o de bromes, però en proporció molt menor que en l'anterior edició. Hi ha situacions ocasionals que poden generar por o angoixa amb afectació lleu, quan algunes persones s'emocionen i parlen de les seves vivències personals; per exemple, una noia comenta que els seus pares no li donaven suport quan cantava en concerts, o que una noia se sentia depressiva i li feia por visitar psicòlegs. Es veuen breument begudes alcohòliques en dos vídeos."
   },
   {
-    "titol": "Eufòria 2: Gala 11",
+    "titol": "Eufòria - Eufòria 2: Gala 11",
     "codi": "6222875",
     "edat": "10",
     "raons": "Contingut sexual ocasional d'explicitació mitjana<br>Llenguatge groller ocasional d'intensitat alta",
     "mesinfo": "<b>Sexe</b><br>L'edició comença amb una actuació carregada de sexualització, per moviments de càmera, vestimenta i lletres com 'quan li foto mano' o 'us follo la ment'. Altres actuacions durant el programa també presenten coreografies i comportaments sexualitzats, amb ocasionals primers plans. En una ocasió, una noia insinua al públic que ballarà despullada, tot i que l'actuació en si, tot i fer-la seminua, no té connotacions sexuals.<br><br><b>Llenguatge groller</b><br>Es diuen 'follar', 'me la sua', 'hòstia', 'cony', 'fotre', 'cagat', 'què collons' i 'parir'.<br><br>Hi ha una possible referència al consum de drogues il·lícites quan, en una cançó, es diu 'el que no saben és que a mi m'agrada la maria' (en els subtítols, s'escriu en minúscula). Hi ha situacions ocasionals que poden generar por o angoixa amb afectació lleu, quan es fan al·lusions a la mort i a malalties, inclosa la salut mental d'alguns concursants."
   },
   {
-    "titol": "Eufòria 2: Gala 12",
+    "titol": "Eufòria - Eufòria 2: Gala 12",
     "codi": "6224187",
     "edat": "7",
     "raons": "Contingut sexual ocasional d'explicitació baixa<br>Llenguatge groller ocasional d'intensitat baixa",
     "mesinfo": "<b>Sexe</b><br>En algunes actuacions, es fa èmfasi en la seminuesa dels ballarins. S'ensenyen breument fragments d'actuacions d'edicions anteriors, i es diu que un noi és 'sexi'.<br><br><b>Llenguatge groller</b><br>Es diuen, incidentalment, expressions com 'fotre', 'hòstia' o 'joder'. Es canta la cançó 'Perra', amb múltiples usos d'aquesta paraula, encara que en cap cas amb una intencionalitat expressament misògina sinó tot el contrari; de fet, es diu que es vol denunciar que s'utilitza aquest terme per ofendre.<br><br>Hi ha situacions ocasionals que poden generar por o angoixa amb afectació lleu quan es parla de la salut mental dels concursants, i ploren pels resultats de les votacions. Es parla d'un 'xute d'energia'."
   },
   {
-    "titol": "Eufòria 2: Gala 13",
+    "titol": "Eufòria - Eufòria 2: Gala 13",
     "codi": "6225485",
     "edat": "7",
     "raons": "Contingut sexual ocasional d'explicitació baixa<br>Llenguatge groller ocasional d'intensitat baixa",
