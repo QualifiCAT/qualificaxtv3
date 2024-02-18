@@ -602,6 +602,17 @@
     "mesinfo": "<b>Violència</b><br>Un ogre diu que va devorar una persona, i es fan servir insults de menyspreu molt lleu.<br><br><b>Por i angoixa</b><br>Hi ha una escena en què els protagonistes paren en un lloc lúgubre governat per un esperit en forma d'esquelet que els fa tenir al·lucinacions."
   },
   {
+    "titol": "Assassinats a Cotentin (Meurtres en Cotentin)",
+    "codi": "6266755",
+    "edat": "13",
+    "orig": "TP",
+    "comp": "🇫🇷 TP",
+    "peli": true,
+    "tv3": true,
+    "raons": "Por i angoixa reiterada d'afectació mitjana<br>Al·lusions al consum i tràfic de drogues il·lícites (cocaïna) i abús de drogues lícites (alcohol), presentat de manera negativa",
+    "mesinfo": "<b>Por i angoixa</b><br>El telefilm es recrea constantment en la resolució d'un homicidi, quan troben un cos surant a l'aigua amb taques de sang. Es donen pistes que fan referències a la mort violenta de familiars, accidents, suïcidis i incendis provocats. Un home amenaça en diverses situacions una dona amb una navalla; en una escena mentre la perseguia, mor atropellat per un cotxe explícitament. Pel mal estat de la mar, un pescador perd el coneixement i es fa un trau al cap. Un home intoxicat mata el seu padrastre sense voler, que xoca amb el cap contra una taula i es dessagna a terra; vegeu 'Drogues'.<br><br><b>Drogues</b><br>Es fan freqüents referències al tràfic i al consum de cocaïna en el context d'una investigació policial. Per exemple, una investigadora aconsegueix una dosi a un camell per tal d'accelerar la investigació. Se'n fan constants referències neutres fins al final, quan es descobreix que el culpable va matar la víctima sense voler quan estava intoxicat. Tot i que es mostren imatges de la droga, no hi ha imatges explícites de consum. Hi ha, a més, una escena negativa d'abús d'alcohol, i referències negatives al consum de tabac.<br><br>Hi ha violència ocasional, versemblant, no explícita, greu i no legitimada; vegeu 'Por i angoixa'. Hi ha continguts sexuals ocasionals d'explicitació baixa quan es parla de ficar-se una noia al llit. Hi ha llenguatge groller ocasional d'intensitat alta ('puteta', 'la puta veritat') i baixa ('collons', 'cagat', 'fotuda', 'merda'). Hi ha conductes incíviques presentades negativament quan un granger reconeix haver incomplert una llei mediambiental."
+  },
+  {
     "titol": "Astèrix: La residència dels déus",
     "codi": "6194455",
     "edat": "7",
@@ -3268,6 +3279,17 @@
     "orig": "TP",
     "serie": true,
     "x3": true
+  },
+  {
+    "titol": "Els fantasmes de Le Havre",
+    "codi": "34932432492384324",
+    "edat": "13",
+    "orig": "10",
+    "comp": "🇫🇷 -10",
+    "peli": true,
+    "tv3": true,
+    "raons": "Violència freqüent, versemblant, no explícita, d'intensitat greu, no legitimada<br>Por i angoixa reiterada d'afectació mitjana<br>Al·lusions al consum de drogues il·lícites, i consum de drogues lícites, presentades de manera neutra<br>Llenguatge groller freqüent d'intensitat alta",
+    "mesinfo": "<b>Violència</b><br>Es fan freqüents referències visuals i verbals a un cas on troben una dona momificada dins una llar de foc. Es fan freqüents referències a un cas d'incest. Uns policies troben una dona penjada a casa seva quan hi tornen per tornar-la a interrogar. Uns policies són tirotejats quan tornaven d'una casa, un d'ells rep un impacte directe, sagna profundament i perd el coneixement, però no mor. Pare i fill es barallen, s'intenten escanyar i forcegen, però són sorpresos per la policia. El pare agafa d'ostatge a una policia, i li apunta la pistola al cap; la deixa anar, però la pistola no, que fa servir per disparar-se a ell al cap en una escena de suïcidi mostrada explícitament. També es fan referències verbals menors a casos d'agressió sexual.<br><br><b>Por i angoixa</b><br>Vegeu 'Violència'.<br><br><b>Drogues</b><br>Es fan freqüents referències al tràfic i consum de drogues, com el crack, l'herba o l'alcohol, entre joves, sense donar un missatge rotundament en contra ni a favor. També hi ha freqüents moments en què la protagonista consumeix tabac o alcohol; tot i que a vegades són referits com a substàncies estimulants, la seva presentació és generalment neutra.<br><br><b>Llenguatge groller</b><br>Tant els protagonistes com altres personatges del telefilm utilitzen sovint expressions malsonants, amb intencionalitat agressiva, com 'què cony', 'què fots', 'collons', 'merda', 'no fotis', 'hòstia', 'puta' o 'fill de puta'."
   },
   {
     "titol": "Els germans Kratt",
