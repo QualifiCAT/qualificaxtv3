@@ -17,7 +17,7 @@
   },
   {
     "titol": "Històries de la primària<br><small>El vincle</small>",
-    "codi": "Històries de la primària",
+    "codi": "Històries de la primària##",
     "edat": "13",
     "por": true,
     "drogues": true,
@@ -38,7 +38,7 @@
   },
   {
     "titol": "Polònia<br><small>01/02/2024</small>",
-    "codi": "Polònia",
+    "codi": "Polònia##",
     "edat": "13",
     "sexe": true,
     "llenguatge": true,
@@ -48,7 +48,7 @@
   },
   {
     "titol": "Nits Sense ficció<br><small>Eudald, quant temps ens queda?</small>",
-    "codi": "Nits Sense ficció",
+    "codi": "Nits Sense ficció##",
     "edat": "7",
     "sexe": true,
     "por": true,
