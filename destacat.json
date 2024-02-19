@@ -1,5 +1,24 @@
 [
   {
+    "titol": "Punt de no retorn<br><small>L'Argentina de Milei. Part 2</small>",
+    "codi": "Punt de no retorn##",
+    "edat": "13",
+    "discriminacio": true,
+    "orig": "18",
+    "serie": true,
+    "3cat": true
+  },
+  {
+    "titol": "Punt de no retorn<br><small>L'Argentina de Milei. Part 1</small>",
+    "codi": "Punt de no retorn##",
+    "edat": "10",
+    "violencia": true,
+    "llenguatge": true,
+    "orig": "18",
+    "serie": true,
+    "3cat": true
+  },
+  {
     "titol": "Els fantasmes de Le Havre",
     "codi": "Els fantasmes de Le Havre",
     "edat": "13",
@@ -33,27 +52,6 @@
     "codi": "Millennium: els homes que no estimaven les dones",
     "edat": "18",
     "violencia": true,
-    "orig": "16",
-    "peli": true,
-    "tv3": true
-  },
-  {
-    "titol": "Històries de la primària<br><small>El vincle</small>",
-    "codi": "Històries de la primària##",
-    "edat": "13",
-    "por": true,
-    "drogues": true,
-    "discriminacio": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "Un cel de plom",
-    "codi": "Un cel de plom",
-    "edat": "13",
-    "violencia": true,
-    "por": true,
     "orig": "16",
     "peli": true,
     "tv3": true
