@@ -1,5 +1,14 @@
 [
   {
+    "titol": "Love cost<br><small>Dani, obert a tot</small>",
+    "codi": "Love cost##",
+    "edat": "10",
+    "drogues": true,
+    "orig": "TP",
+    "serie": true,
+    "3cat": true
+  },
+  {
     "titol": "Punt de no retorn<br><small>L'Argentina de Milei. Part 2</small>",
     "codi": "Punt de no retorn##",
     "edat": "13",
@@ -46,14 +55,5 @@
     "edat": "18",
     "orig": "16",
     "3cat": true
-  },
-  {
-    "titol": "Millennium: els homes que no estimaven les dones",
-    "codi": "Millennium: els homes que no estimaven les dones",
-    "edat": "18",
-    "violencia": true,
-    "orig": "16",
-    "peli": true,
-    "tv3": true
   }
 ]
