@@ -6,12 +6,6 @@
     "tv3": true
   },
   {
-    "titol": "Històries de la primària",
-    "edat": "13",
-    "orig": "TP",
-    "tv3": true
-  },
-  {
     "titol": "Èpic nails",
     "edat": "13",
     "orig": "TP",
@@ -21,6 +15,12 @@
     "titol": "Polònia",
     "edat": "13",
     "orig": "7",
+    "tv3": true
+  },
+  {
+    "titol": "APM?",
+    "edat": "13",
+    "orig": "10",
     "tv3": true
   },
   {
@@ -39,7 +39,6 @@
     "titol": "Fuet",
     "edat": "10",
     "orig": "TP",
-    "novetat": true,
     "x3": true
   },
   {
