@@ -1,5 +1,14 @@
 [
   {
+    "titol": "Nits Sense ficció<br><small>La xarxa ultra</small>",
+    "codi": "Nits Sense ficció##",
+    "edat": "13",
+    "llenguatge": true,
+    "orig": "TP (📺: 13)",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Love cost<br><small>Dani, obert a tot</small>",
     "codi": "Love cost##",
     "edat": "10",
@@ -48,12 +57,5 @@
     "orig": "TP",
     "peli": true,
     "tv3": true
-  },
-  {
-    "titol": "VOC - Festival Òmnium de Curtmetratges",
-    "codi": "VOC - Festival Òmnium de Curtmetratges",
-    "edat": "18",
-    "orig": "16",
-    "3cat": true
   }
 ]
