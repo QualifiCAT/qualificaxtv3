@@ -1,5 +1,12 @@
 [
   {
+    "titol": "Campus 21<br><small>(4 episodis)</small>",
+    "codi": "Campus 21#",
+    "edat": "10",
+    "orig": "10",
+    "x3": true
+  },
+  {
     "titol": "Nits Sense ficció<br><small>La xarxa ultra</small>",
     "codi": "Nits Sense ficció##",
     "edat": "13",
@@ -45,16 +52,6 @@
     "drogues": true,
     "llenguatge": true,
     "orig": "10",
-    "peli": true,
-    "tv3": true
-  },
-  {
-    "titol": "Assassinats a Cotentin",
-    "codi": "Assassinats a Cotentin",
-    "edat": "13",
-    "por": true,
-    "drogues": true,
-    "orig": "TP",
     "peli": true,
     "tv3": true
   }
