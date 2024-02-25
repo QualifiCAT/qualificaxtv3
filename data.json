@@ -6102,7 +6102,7 @@
     "titol": "Influenx3r",
     "codi": "influenx3r",
     "edat": "7",
-    "orig": "ERI",
+    "orig": "RI",
     "serie": true,
     "x3": true
   },
@@ -8578,7 +8578,7 @@
     "titol": "Manduka",
     "codi": "manduka",
     "edat": "10",
-    "orig": "ERI",
+    "orig": "TP (prèviament: RI)",
     "serie": true,
     "tv3": true,
     "x3": true
@@ -9960,7 +9960,7 @@
     "titol": "Projecte Beta",
     "codi": "projecte-beta",
     "edat": "10",
-    "orig": "ERI",
+    "orig": "RI",
     "serie": true,
     "x3": true
   },
@@ -11422,7 +11422,7 @@
     "titol": "Tik Tak Factory",
     "codi": "tik-tak-factory",
     "edat": "7",
-    "orig": "ERI (prèviament: TP)",
+    "orig": "RI (prèviament: TP)",
     "serie": true,
     "x3": true
   },
