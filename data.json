@@ -9198,7 +9198,7 @@
   {
     "titol": "Món maker",
     "codi": "monmaker",
-    "edat": "0",
+    "edat": "7",
     "orig": "TP",
     "serie": true,
     "x3": true
@@ -9952,7 +9952,7 @@
     "titol": "Projecte Beta",
     "codi": "projecte-beta",
     "edat": "10",
-    "orig": "RI",
+    "orig": "TP (prèviament: RI)",
     "serie": true,
     "x3": true
   },
@@ -10473,7 +10473,7 @@
     "titol": "Ronja, la filla del bandoler 1x15",
     "codi": "6191091",
     "edat": "10",
-    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada"
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada<br>Por i angoixa freqüent d'afectació mitjana"
   },
   {
     "titol": "Ronja, la filla del bandoler 1x16",
@@ -10538,8 +10538,8 @@
   {
     "titol": "Ronja, la filla del bandoler 1x26",
     "codi": "6191106",
-    "edat": "7",
-    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada<br>Por i angoixa freqüent d'afectació lleu"
+    "edat": "10",
+    "raons": "Por i angoixa freqüent d'afectació mitjana"
   },
   {
     "titol": "Rovelló",
