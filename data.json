@@ -7688,6 +7688,21 @@
     "raons": "Por i angoixa freqüent d'afectació lleu"
   },
   {
+    "titol": "Les dones i els dies",
+    "codi": "les-dones-i-els-dies-video",
+    "edat: "10",
+    "orig": "TP",
+    "serie": true,
+    "3cat": true
+  },
+  {
+    "titol": "Les dones i els dies 1x04 - Això no és amor",
+    "codi": "6268108",
+    "edat": "10",
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat greu, no legitimada<br>Continguts sexuals ocasionals d'explicitació mitjana<br>Por i angoixa freqüent d'afectació mitjana",
+    "mesinfo": "<b>Violència</b><br>Una dona comenta que va començar a patir maltractament físic per part de la seva parella, sense donar detalls explícits. També diu que un familiar proper seu va intentar abusar d'ella, també sense donar detalls.<br><br><b>Sexe</b><br>Una dona comenta que va rebre comentaris no desitjats de caràcter sexual i racista per culpa del porno i el seu consum estès per part dels joves. També es fan referències sexuals d'explicitació baixa quan una dona comenta que tenia relacions sexuals de manera lliure i amb qui volia.<br><br><b>Por i angoixa</b><br>Hi ha situacions que poden provocar por o angoixa en tant que múltiples entrevistades expressen el seu malestar a l'hora d'intentar encaixar en uns rols establerts per la societat i com van haver de patir o suportar certes situacions doloroses o violentes, com les que es descriuen a 'Violència'.<br><br>Com s'indica a 'Por i angoixa', hi ha freqüents referències a casos de discriminació per raó de gènere, orientació sexual, color de pell o per discapacitat, sancionades negativament pel relat atès que es presenten a mode de denúncia. Hi ha llenguatge groller ocasional d'intensitat baixa ('joder', 'mierda', i 'bollera' i 'negra de merda' que fan servir les pròpies entrevistades per referir-se a elles mateixes en un context no ofensiu)."
+  },
+  {
     "titol": "Les misterioses ciutats d'or",
     "codi": "misterioses-ciutats-or",
     "edat": "7",
