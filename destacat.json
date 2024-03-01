@@ -1,11 +1,19 @@
 [
   {
+    "titol": "Xef Marín<br><small>Galetes amb Mar Lucas</small>",
+    "codi": "Xef Marín##",
+    "edat": "10",
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "3cat": true
+  },
+  {
     "titol": "Les dones i els dies<br><small>Això no és amor</small>",
     "codi": "Les dones i els dies##",
     "edat": "10",
     "violencia": true,
     "sexe": true,
-    "por": true,
     "orig": "TP",
     "serie": true,
     "3cat": true
@@ -40,16 +48,6 @@
     "codi": "Punt de no retorn##",
     "edat": "13",
     "discriminacio": true,
-    "orig": "18",
-    "serie": true,
-    "3cat": true
-  },
-  {
-    "titol": "Punt de no retorn<br><small>L'Argentina de Milei. Part 1</small>",
-    "codi": "Punt de no retorn##",
-    "edat": "10",
-    "violencia": true,
-    "llenguatge": true,
     "orig": "18",
     "serie": true,
     "3cat": true
