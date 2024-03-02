@@ -1,5 +1,16 @@
 [
   {
+    "titol": "Eufòria<br><small>Arrenca la primera gala d'Eufòria 3</small>",
+    "codi": "Eufòria##",
+    "edat": "7",
+    "sexe": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true,
+    "x3": true
+  },
+  {
     "titol": "Xef Marín<br><small>Galetes amb Mar Lucas</small>",
     "codi": "Xef Marín##",
     "edat": "10",
@@ -40,15 +51,6 @@
     "edat": "10",
     "drogues": true,
     "orig": "TP",
-    "serie": true,
-    "3cat": true
-  },
-  {
-    "titol": "Punt de no retorn<br><small>L'Argentina de Milei. Part 2</small>",
-    "codi": "Punt de no retorn##",
-    "edat": "13",
-    "discriminacio": true,
-    "orig": "18",
     "serie": true,
     "3cat": true
   }
