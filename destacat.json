@@ -1,5 +1,15 @@
 [
   {
+    "titol": "30 minuts<br><small>La sisena extinció</small>",
+    "codi": "30 minuts##",
+    "edat": "7",
+    "por": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Eufòria<br><small>Arrenca la primera gala d'Eufòria 3</small>",
     "codi": "Eufòria##",
     "edat": "7",
@@ -44,14 +54,5 @@
     "orig": "13",
     "serie": true,
     "tv3": true
-  },
-  {
-    "titol": "Love cost<br><small>Dani, obert a tot</small>",
-    "codi": "Love cost##",
-    "edat": "10",
-    "drogues": true,
-    "orig": "TP",
-    "serie": true,
-    "3cat": true
   }
 ]
