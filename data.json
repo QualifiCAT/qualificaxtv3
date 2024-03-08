@@ -8816,6 +8816,21 @@
     "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'hosti' i 'fotre'."
   },
   {
+    "titol": "Marcians (Quan arribin els marcians)",
+    "codi": "marcians",
+    "edat": "13",
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Marcians (Quan arribin els marcians) 8x08 - Què vol dir consentir?",
+    "codi": "6269211",
+    "edat": "13",
+    "raons": "Violència freqüent, versemblant, no explícita, d'intensitat greu, no legitimada",
+    "mesinfo": "<b>Violència</b><br>Es fan freqüents referències a casos d'agressió sexual, majoritàriament sense donar detalls. No obstant això, es fan referències cruament explícites de manera ocasional ('comiendo coños'), i es parla de tenir fantasies sobre ser violada.<br><br>Hi ha llenguatge groller ocasional d'intensitat alta ('coños', 'gilipollas') i baixa ('hòstia', 'fotut', 'fuck'). Hi ha continguts sexuals ocasionals d'explicitació mitjana i baixa. Hi ha referències al consum de drogues lícites, presentades de manera neutra. Hi ha situacions de por i angoixa freqüent d'afectació mitjana (vegeu 'Violència')."
+  },
+  {
     "titol": "Marcus Level",
     "codi": "marcus-level",
     "edat": "10",
