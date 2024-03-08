@@ -1,5 +1,14 @@
 [
   {
+    "titol": "Marcians<br><small>Què vol dir consentir?</small>",
+    "codi": "Marcians##",
+    "edat": "13",
+    "violencia": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "30 minuts<br><small>La sisena extinció</small>",
     "codi": "30 minuts##",
     "edat": "7",
@@ -45,14 +54,5 @@
     "edat": "10",
     "orig": "10",
     "x3": true
-  },
-  {
-    "titol": "Nits Sense ficció<br><small>La xarxa ultra</small>",
-    "codi": "Nits Sense ficció##",
-    "edat": "13",
-    "llenguatge": true,
-    "orig": "13",
-    "serie": true,
-    "tv3": true
   }
 ]
