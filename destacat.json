@@ -1,5 +1,15 @@
 [
   {
+    "titol": "Eufòria<br><small>Eufòria celebra el dia de la dona</small>",
+    "codi": "Eufòria##",
+    "edat": "13",
+    "drogues": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true,
+    "x3": true
+  },
+  {
     "titol": "Marcians<br><small>Què vol dir consentir?</small>",
     "codi": "Marcians##",
     "edat": "13",
@@ -47,12 +57,5 @@
     "orig": "TP",
     "serie": true,
     "3cat": true
-  },
-  {
-    "titol": "Campus 12<br><small>(4 episodis)</small>",
-    "codi": "Campus 12#",
-    "edat": "10",
-    "orig": "10",
-    "x3": true
   }
 ]
