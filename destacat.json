@@ -1,5 +1,14 @@
 [
   {
+    "titol": "30 minuts<br><small>Sofia i Nigina, dues amigues lliures</small>",
+    "codi": "30 minuts##",
+    "edat": "10",
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Les del traster<br><small>Generació de vidre</small>",
     "codi": "Les del traster##",
     "edat": "13",
@@ -48,14 +57,5 @@
     "serie": true,
     "tv3": true,
     "x3": true
-  },
-  {
-    "titol": "Xef Marín<br><small>Galetes amb Mar Lucas</small>",
-    "codi": "Xef Marín##",
-    "edat": "10",
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "3cat": true
   }
 ]
