@@ -10846,6 +10846,45 @@
     "raons": "Por i angoixa ocasional d'afectació lleu"
   },
   {
+    "titol": "Samuel",
+    "codi": "samuel",
+    "edat": "10",
+    "orig": "TP",
+    "comp": "🇪🇸 TP (Clan TVE)",
+    "serie": true,
+    "x3": true,
+    "boing": true,
+    "misc": true
+  },
+  {
+    "titol": "Samuel 1x01 - La Júlia",
+    "codi": "6270263",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'imbècil' un cop."
+  },
+  {
+    "titol": "Samuel 1x02 - El diumenge",
+    "codi": "6270268",
+    "edat": "7",
+    "raons": "Por i angoixa ocasional d'afectació mitjana<br>Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Por i angoixa</b><br>Es diu que uns gats van ser atropellats i a algun li va sortir enfora l'ull. Es fa una al·lusió a la mort.<br><br><b>Llenguatge groller</b><br>Es diu 'cagar' un cop."
+  },
+  {
+    "titol": "Samuel 1x03 - La piscina",
+    "codi": "6270274",
+    "edat": "10",
+    "raons": "Conductes de risc presentades de manera neutra",
+    "mesinfo": "<b>Conductes i valors incívics</b><br>El protagonista s'està expressament sota l'aigua molta estona per cridar l'atenció i preocupar els seus amics. Un company intenta superar el seu rècord de temps i ho aconsegueix.<br><br>Es fan al·lusions a la mort ocasionals i lleus."
+  },
+  {
+    "titol": "Samuel 1x04 - El fricandó",
+    "codi": "6270273",
+    "edat": "7",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada",
+    "mesinfo": "<b>Violència</b><br>Un nen rep un cop de puny a la panxa."
+  },
+  {
     "titol": "Sense ficció",
     "codi": "sense-ficcio",
     "edat": "18",
