@@ -31,9 +31,10 @@
     "tv3": true
   },
   {
-    "titol": "Cute",
-    "edat": "7",
+    "titol": "Samuel",
+    "edat": "10",
     "orig": "TP",
+    "novetat": true,
     "x3": true
   },
   {
