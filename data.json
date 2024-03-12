@@ -10885,6 +10885,53 @@
     "mesinfo": "<b>Violència</b><br>Un nen rep un cop de puny a la panxa."
   },
   {
+    "titol": "Samuel 1x05 - La La La",
+    "codi": "6270269",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>El protagonista diu: 'em sento lleig i merdós'."
+  },
+  {
+    "titol": "Samuel 1x06 - Les cartes",
+    "codi": "6270271",
+    "edat": "7",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada",
+    "mesinfo": "<b>Violència</b><br>Es veu dos cops com una noia pega una noia al cap amb una carpeta, i acaba castigada.<br><br>Hi ha situacions ocasionals de por i angoixa lleu."
+  },
+  {
+    "titol": "Samuel 1x07 - El castell",
+    "codi": "6270272",
+    "edat": "7",
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat lleu, no legitimada<br>Por i angoixa ocasional d'afectació mitjana",
+    "mesinfo": "<b>Violència</b><br>Vegeu 'Por i angoixa'.<br><br><b>Por i angoixa</b><br>S'ensenyen diferents paròdies de pintures històriques representant animals o persones dessagnant-se per l'impacte d'una fletxa. Les imatges són irreals i la sang és negra, en consonància amb l'estil de l'animació. En un dels quadres, el protagonista apareix amb un company seu mort. També, el protagonista es pregunta si els seus pares es divorciaran després de veure'ls discutir."
+  },
+  {
+    "titol": "Samuel 1x08 - El pendent de la mort",
+    "codi": "6270270",
+    "edat": "10",
+    "raons": "Por i angoixa reiterada d'afectació lleu",
+    "mesinfo": "<b>Por i angoixa</b><br>Es fan reiterades referències a la mort, algunes d'irrespectuoses vers les persones grans."
+  },
+  {
+    "titol": "Samuel 1x09 - La pluja",
+    "codi": "6270485",
+    "edat": "10",
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat greu, no legitimada",
+    "mesinfo": "<b>Violència</b><br>Una noia li diu al protagonista que només de mirar-lo li venen ganes de suïcidar-se.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa ('burro')."
+  },
+  {
+    "titol": "Samuel 1x10 - El festival",
+    "codi": "6270486",
+    "edat": "0"
+  },
+  {
+    "titol": "Samuel 1x11 - Les vacances",
+    "codi": "6270487",
+    "edat": "7",
+    "raons": "Conductes i valors incívics amb sanció neutra",
+    "mesinfo": "<b>Conductes i valors incívics</b><br>Els nens es burlen d'un nen per una pregunta que ha fet. El protagonista llegeix la nota que ha escrit la seva companya tot i dir-li que no. El protagonista ignora els plors del seu amic i es burla d'ell."
+  },
+  {
     "titol": "Sense ficció",
     "codi": "sense-ficcio",
     "edat": "18",
