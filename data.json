@@ -10909,8 +10909,8 @@
     "titol": "Samuel 1x08 - El pendent de la mort",
     "codi": "6270270",
     "edat": "10",
-    "raons": "Por i angoixa reiterada d'afectació lleu",
-    "mesinfo": "<b>Por i angoixa</b><br>Es fan reiterades referències a la mort, algunes d'irrespectuoses vers les persones grans."
+    "raons": "Por i angoixa reiterada d'afectació lleu<br>Comportaments discriminatoris amb sanció neutra",
+    "mesinfo": "<b>Por i angoixa</b><br>Es fan reiterades referències a la mort, algunes d'irrespectuoses vers les persones grans.<br><br><b>Discriminació, racisme i xenofòbia</b><br>Vegeu 'Por i angoixa'."
   },
   {
     "titol": "Samuel 1x09 - La pluja",
@@ -10930,6 +10930,41 @@
     "edat": "7",
     "raons": "Conductes i valors incívics amb sanció neutra",
     "mesinfo": "<b>Conductes i valors incívics</b><br>Els nens es burlen d'un nen per una pregunta que ha fet. El protagonista llegeix la nota que ha escrit la seva companya tot i dir-li que no. El protagonista ignora els plors del seu amic i es burla d'ell."
+  },
+  {
+    "titol": "Samuel 1x12 - La samarreta",
+    "codi": "6270484",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu",
+    "mesinfo": "<b>Por i angoixa</b><br>Un nen plora. Es fa una al·lusió a la mort."
+  },
+  {
+    "titol": "Samuel 1x13 - El mar",
+    "codi": "6270498",
+    "edat": "7",
+    "raons": "Continguts sexuals ocasionals d'explicitació baixa<br>Por i angoixa ocasional d'afectació mitjana<br>Conductes de risc presentades negativament",
+    "mesinfo": "<b>Sexe</b><br>S'ensenya una postal lleugerament provocativa on hi ha tres dones d'esquena en bikini.<br><br><b>Por i angoixa</b><br>Un nen diu que el seu pare el va deixar quan tenia dos anys i que pateix assetjament a l'escola.<br><br><b>Conductes i valors incívics</b><br>El protagonista neda més enllà de les boies per fer que un noi deixi d'empaitar-lo, però acaben fent-se amics.<br><br>Una cançó de fons diu: 'me gusta el juego y el vino'."
+  },
+  {
+    "titol": "Samuel 1x14 - La tornada a l'escola",
+    "codi": "6270496",
+    "edat": "10",
+    "raons": "Llenguatge groller ocasional d'intensitat alta",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'que et follin', 'ta puta mare' i 'merda', una vegada cadascun. Una noia ensenya el dit del mig.<br><br>Hi ha violència ocasional, versemblant, no explícita, lleu i no legitimada, referències sexuals ocasionals lleus, i situacions de por i angoixa ocasional mitjana."
+  },
+  {
+    "titol": "Samuel 1x15 - La ira",
+    "codi": "6270494",
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>El protagonista es diu 'merdós' a si mateix. Li diu a una noia si està 'tarada' i per què no està tancada en un psiquiàtric per haver-se menjat un paper. Es canta una cançó en anglès que conté les expressions 'fuck', 'shit' i 'ho'.<br><br>Hi ha situacions de por i angoixa ocasional lleu."
+  },
+  {
+    "titol": "Samuel 1x16 - El berenar",
+    "codi": "6270499",
+    "edat": "7",
+    "raons": "Por i angoixa ocasional d'afectació mitjana<br>Consum de drogues lícites (tabac) presentat de manera negativa<br>Comportaments discriminatoris amb sanció negativa",
+    "mesinfo": "<b>Por i angoixa</b><br>Un nen diu que la seva mare té depressió i s'ha de medicar. Es fa referència al divorci.<br><br><b>Drogues</b><br>El protagonista té un somni on la seva mare l'observa mentre fuma tabac; el seu consum té connotacions negatives.<br><br><b>Discriminació, racisme i xenofòbia</b><br>Un nen anomena 'boja' a la seva mare, qui té problemes de salut mental."
   },
   {
     "titol": "Sense ficció",
