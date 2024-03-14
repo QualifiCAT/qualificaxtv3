@@ -11734,6 +11734,21 @@
     "x3": true
   },
   {
+    "titol": "Truca quan arribis",
+    "codi": "truca-quan-arribis",
+    "edat": "10",
+    "orig": "TP (anunciat com a: 13)",
+    "serie": true,
+    "3cat": true
+  },
+  {
+    "titol": "Truca quan arribis 1x01 - Mal d'altura i humites",
+    "codi": "6270515",
+    "edat": "10",
+    "raons": "Mencions a drogues il·lícites (cocaïna) sense referència al seu consum i amb una presentació neutra dels seus efectes<br>Llenguatge groller ocasional d'intensitat alta",
+    "mesinfo": "<b>Drogues</b><br>En un dels reptes, es demana que els concursants busquin, per un poble, una capseta amb fulla de coca a dins. Es comenta que serveix per elaborar una infusió per tractar els mals de cap que venen per trobar-se molta alçada. La fulla de coca conté cocaïna. No es fan referències al seu consum. A més, una noia comenta que va de 'afters' i de 'raves'.<br><br><b>Llenguatge groller</b><br>Hi ha llenguatge groller d'intensitat alta ('no teníeu ni puta idea d'on estava', 'com ens l'hagin puto robat') i baixa ('cabrons', 'joder', 'hòstia', 'collons', 'what the fuck').<br><br>Hi ha continguts sexuals ocasionals d'explicitació baixa en un retall d'un vídeo breu on una noia té un dibuix d'un penis sobre el cap."
+  },
+  {
     "titol": "Una altra història",
     "codi": "una-altra-historia",
     "edat": "10",
