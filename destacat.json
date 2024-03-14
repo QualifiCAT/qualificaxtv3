@@ -1,5 +1,15 @@
 [
   {
+    "titol": "Truca quan arribis<br><small>Mal d'altura i humites</small>",
+    "codi": "Truca quan arribis##",
+    "edat": "10",
+    "drogues": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "3cat": true
+  },
+  {
     "titol": "30 minuts<br><small>Sofia i Nigina, dues amigues lliures</small>",
     "codi": "30 minuts##",
     "edat": "10",
@@ -46,16 +56,5 @@
     "orig": "TP",
     "serie": true,
     "tv3": true
-  },
-  {
-    "titol": "Eufòria<br><small>Arrenca la primera gala d'Eufòria 3</small>",
-    "codi": "Eufòria##",
-    "edat": "7",
-    "sexe": true,
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true,
-    "x3": true
   }
 ]
