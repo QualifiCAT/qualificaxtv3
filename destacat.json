@@ -1,5 +1,15 @@
 [
   {
+    "titol": "30 minuts<br><small>L'efecte Tik Tok</small>",
+    "codi": "30 minuts##",
+    "edat": "10",
+    "por": true,
+    "llenguatge": true,
+    "orig": "13",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Truca quan arribis<br><small>Mal d'altura i humites</small>",
     "codi": "Truca quan arribis##",
     "edat": "10",
@@ -43,16 +53,6 @@
     "codi": "Marcians##",
     "edat": "13",
     "violencia": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "30 minuts<br><small>La sisena extinció</small>",
-    "codi": "30 minuts##",
-    "edat": "7",
-    "por": true,
-    "llenguatge": true,
     "orig": "TP",
     "serie": true,
     "tv3": true
