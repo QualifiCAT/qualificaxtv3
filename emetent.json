@@ -25,9 +25,10 @@
     "tv3": true
   },
   {
-    "titol": "Jo mai mai",
-    "edat": "18",
-    "orig": "13",
+    "titol": "És pecat",
+    "edat": "13",
+    "orig": "16",
+    "novetat": true,
     "tv3": true
   },
   {
