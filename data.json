@@ -3590,6 +3590,21 @@
     "x3": true
   },
   {
+    "titol": "És pecat (It's a Sin)",
+    "codi": "es-pecat",
+    "edat": "13",
+    "orig": "16",
+    "comp": "🇺🇲 TV-MA 🇬🇧 15 🇦🇺 MA 15+ 🇳🇱 12 🇫🇷 -10 o -12 (segons servei VOD)",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "És pecat (It's a Sin) 1x01",
+    "codi": "6264319",
+    "edat": "13",
+    "raons": "Continguts sexuals ocasionals d'explicitació alta<br>Consum de drogues lícites (alcohol, tabac) presentat positivament, i d'il·lícites (marihuana) presentat neutrament<br>Llenguatge groller freqüent d'intensitat alta"
+  },
+  {
     "titol": "Escape Room (teatre)",
     "codi": "6227240",
     "edat": "13",
