@@ -1,10 +1,11 @@
 [
   {
-    "titol": "Gameface<br><small>(3 episodis)</small>",
+    "titol": "Gameface<br><small>(4 episodis)</small>",
     "codi": "Gameface#",
     "edat": "13",
     "sexe": true,
     "drogues": true,
+    "llenguatge": true,
     "orig": "16",
     "serie": true,
     "3cat": true
