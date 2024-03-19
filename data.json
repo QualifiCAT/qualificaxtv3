@@ -96,7 +96,7 @@
     "mesinfo": "<b>Llenguatge groller</b><br>Una dona rep un insult misogin: 'tapa't la cara, mala puta!'.<br><br>Hi ha violència ocasional, versemblant, no explícita, lleu i no legitimada quan una dona denuncia que va ser amenaçada de ser disparada tres vegades al peu per un policia, i quan un talibà amenaça unes dones de mort. Hi ha referències sexuals ocasionals d'explicitació baixa, situacions freqüents de por i angoixa lleu, i reiterades situacions de discriminació sancionades negativament pel relat."
   },
   {
-    "titol": "30 minuts - L'efecte Tik Tok",
+    "titol": "30 minuts - L'efecte TikTok",
     "codi": "6271992",
     "edat": "10",
     "orig": "TP (per televisió: 13)",
@@ -4170,6 +4170,26 @@
     "edat": "10",
     "raons": "Llenguatge groller freqüent d'intensitat baixa",
     "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'merda', 'fotut' (dues vegades), 'pixa a la mà', 'mecàgon' i uns personatges fan rots sovint.<br><br>Es fa referència a situacions de discriminació, presentades en negatiu. Es fa referència a una beguda alcohòlica i a un acte violent."
+  },
+  {
+    "titol": "Gameface",
+    "codi": "gameface",
+    "edat": "13",
+    "orig": "16",
+    "serie": true,
+    "3cat": true
+  },
+  {
+    "titol": "Gameface 1x01 - Heroïna, guerrera, bombera, mentidera",
+    "codi": "6270851",
+    "edat": "10",
+    "raons": "Violència freqüent, versemblant, no explícita, d'intensitat lleu, no legitimada<br>Continguts sexuals ocasionals d'explicitació mitjana<br>Por i angoixa freqüent d'afectació mitjana<br>Llenguatge groller freqüent d'intensitat baixa"
+  },
+  {
+    "titol": "Gameface 1x02 - Salvatge",
+    "codi": "6270852",
+    "edat": "13",
+    "raons": "Continguts sexuals ocasionals d'explicitació alta<br>Abús de drogues lícites i referències al consum de drogues il·lícites, presentat de manera negativa"
   },
   {
     "titol": "George de la jungla",
@@ -9772,6 +9792,16 @@
     "peli": true,
     "x3": true,
     "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada<br>Por i angoixa freqüent d'afectació lleu<br>Conductes i valors incívics amb sanció negativa"
+  },
+  {
+    "titol": "Plats bruts",
+    "codi": "plats-bruts",
+    "edat": "13",
+    "orig": "10",
+    "comp": "🇪🇸 TP o 13 (segons lloc d'emissió)",
+    "cac": "13",
+    "serie": true,
+    "tv3": true
   },
   {
     "titol": "Polinòpolis",
