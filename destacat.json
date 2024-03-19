@@ -1,6 +1,27 @@
 [
   {
-    "titol": "30 minuts<br><small>L'efecte Tik Tok</small>",
+    "titol": "Gameface<br><small>(2 episodis)</small>",
+    "codi": "Gameface#",
+    "edat": "13",
+    "sexe": true,
+    "drogues": true,
+    "orig": "16",
+    "serie": true,
+    "3cat": true
+  },
+  {
+    "titol": "És pecat<br><small>(1 episodi)</small>",
+    "codi": "És pecat#",
+    "edat": "13",
+    "sexe": true,
+    "drogues": true,
+    "llenguatge": true,
+    "orig": "16",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "30 minuts<br><small>L'efecte TikTok</small>",
     "codi": "30 minuts##",
     "edat": "10",
     "por": true,
@@ -37,24 +58,5 @@
     "orig": "7",
     "serie": true,
     "3cat": true
-  },
-  {
-    "titol": "Eufòria<br><small>Eufòria celebra el dia de la dona</small>",
-    "codi": "Eufòria##",
-    "edat": "13",
-    "drogues": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true,
-    "x3": true
-  },
-  {
-    "titol": "Marcians<br><small>Què vol dir consentir?</small>",
-    "codi": "Marcians##",
-    "edat": "13",
-    "violencia": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
   }
 ]
