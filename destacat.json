@@ -1,11 +1,9 @@
 [
   {
-    "titol": "Asfalt<br><small>(3 episodis)</small>",
+    "titol": "Asfalt<br><small>(tots els 6 episodis)</small>",
     "codi": "Asfalt#",
-    "edat": "13",
-    "violencia": true,
-    "por": true,
-    "llenguatge": true,
+    "edat": "18",
+    "drogues": true,
     "orig": "13",
     "serie": true,
     "3cat": true
