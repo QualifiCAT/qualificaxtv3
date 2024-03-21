@@ -1,6 +1,26 @@
 [
   {
-    "titol": "Gameface<br><small>(5 episodis)</small>",
+    "titol": "Asfalt<br><small>(2 episodis)</small>",
+    "codi": "Asfalt#",
+    "edat": "7",
+    "violencia": true,
+    "por": true,
+    "llenguatge": true,
+    "orig": "13",
+    "serie": true,
+    "3cat": true
+  },
+  {
+    "titol": "Conde & Fonde<br><small>(2 episodis)</small>",
+    "codi": "Conde & Fonde#",
+    "edat": "7",
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "x3": true
+  },
+  {
+    "titol": "Gameface<br><small>(temporada 1)</small>",
     "codi": "Gameface#",
     "edat": "13",
     "sexe": true,
@@ -38,25 +58,6 @@
     "drogues": true,
     "llenguatge": true,
     "orig": "TP",
-    "serie": true,
-    "3cat": true
-  },
-  {
-    "titol": "30 minuts<br><small>Sofia i Nigina, dues amigues lliures</small>",
-    "codi": "30 minuts##",
-    "edat": "10",
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "Les del traster<br><small>Generació de vidre</small>",
-    "codi": "Les del traster##",
-    "edat": "13",
-    "sexe": true,
-    "llenguatge": true,
-    "orig": "7",
     "serie": true,
     "3cat": true
   }
