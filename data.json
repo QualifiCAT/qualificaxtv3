@@ -629,7 +629,7 @@
   {
     "titol": "Asfalt",
     "codi": "asfalt",
-    "edat": "13",
+    "edat": "18",
     "orig": "13",
     "serie": true,
     "3cat": true
@@ -651,6 +651,25 @@
     "codi": "6272307",
     "edat": "13",
     "raons": "Expressions discriminatòries amb sanció neutra<br>Llenguatge groller freqüent d'intensitat alta"
+  },
+  {
+    "titol": "Asfalt 1x04 - Amnèsia",
+    "codi": "6272312",
+    "edat": "13",
+    "raons": "Por i angoixa reiterada d'afectació mitjana<br>Llenguatge groller freqüent d'intensitat alta"
+  },
+  {
+    "titol": "Asfalt 1x05 - El tiet",
+    "codi": "6272308",
+    "edat": "13",
+    "raons": "Llenguatge groller freqüent d'intensitat alta"
+  },
+  {
+    "titol": "Asfalt 1x06 - Les amigues",
+    "codi": "6272310",
+    "edat": "18",
+    "raons": "Consum de drogues il·lícites (marihuana) presentat de manera positiva",
+    "mesinfo": "<b>Drogues</b><br>Una de les dues noies protagonistes fuma marihuana de manera reiterada durant tot l'episodi. La càmera hi emfatitza tan bon punt apareix el primer porro, s'encén més d'un i acaba adormida pels efectes de la droga. Una vegada n'ofereix un a la seva amiga, i se'l fuma, però el rebutja perquè està 'massa carregat'; tot i que coneixem que, anys més tard, l'amiga assegura haver deixat totes les drogues, la noia qui n'hem vist fumar més fa múltiples normalitzant el consum de drogues -inclòs l'alcohol- entre els joves durant tot l'episodi, justificant-ho pel context festiu i per l'etapa de la vida, i no reben sanció en cap moment.<br><br>Hi ha llenguatge groller freqüent d'intensitat alta. Hi ha continguts sexuals ocasionals d'explicitació mitjana."
   },
   {
     "titol": "Assassinats a Cotentin (Meurtres en Cotentin)",
