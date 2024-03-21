@@ -627,6 +627,26 @@
     "mesinfo": "<b>Violència</b><br>Un ogre diu que va devorar una persona, i es fan servir insults de menyspreu molt lleu.<br><br><b>Por i angoixa</b><br>Hi ha una escena en què els protagonistes paren en un lloc lúgubre governat per un esperit en forma d'esquelet que els fa tenir al·lucinacions."
   },
   {
+    "titol": "Asfalt",
+    "codi": "asfalt",
+    "edat": "13",
+    "orig": "13",
+    "serie": true,
+    "3cat": true
+  },
+  {
+    "titol": "Asfalt 1x01 - Taxi",
+    "codi": "6272304",
+    "edat": "13",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat greu, no legitimada<br>Por i angoixa reiterada d'afectació mitjana<br>Llenguatge groller freqüent d'intensitat alta"
+  },
+  {
+    "titol": "Asfalt 1x02 - La núvia",
+    "codi": "6272306",
+    "edat": "13",
+    "raons": "Llenguatge groller reiterat d'intensitat alta"
+  },
+  {
     "titol": "Assassinats a Cotentin (Meurtres en Cotentin)",
     "codi": "6266755",
     "edat": "13",
@@ -1714,6 +1734,28 @@
     "x3": true,
     "raons": "Violència ocasional, irreal, no explícita, d'intensitat lleu, no legitimada<br>Por i angoixa freqüent d'afectació lleu",
     "mesinfo": "<b>Violència</b><br>Hi ha una escena breu en què es mostra una obra de teatre en què un drac és decapitat, amb efectes de sang falsos, i fent comentaris com 'remarem en rius de sang vostra'. També es mostra una imatge d'un home a la boca d'un drac, es fan al·lusions a 'matar' dracs, i uns dracs nadons es colpegen entre ells.<br><br><b>Por i angoixa</b><br>Li pregunten com ha perdut el peu un home que té una cama de fusta. Un escenari s'incendia i s'escampa el pànic entre els espectadors; un home vestit de drac no sap controlar la seva disfressa, els espanta amb flamarades i cau d'un penya-segat, però el final és positiu. Vegeu també 'Violència'."
+  },
+  {
+    "titol": "Conde & Fonde",
+    "codi": "conde-fonde",
+    "edat": "7",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
+  },
+  {
+    "titol": "Conde & Fonde 1x01 - La cua dels gossos",
+    "codi": "6271831",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'fotre' tres vegades ('s'ha fotut el seu esmorzar i el meu', 'ha de ser molt fotut', 'no us foto més el rotllo'), en un context distès.<br><br>Hi ha situacions de por i angoixa ocasional lleu quan s'ensenyen els cranis d'uns animals."
+  },
+  {
+    "titol": "Conde & Fonde 1x02 - Els gats van a la seva?",
+    "codi": "6271834",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu",
+    "mesinfo": "<b>Por i angoixa</b><br>S'ensenyen els cranis d'uns animals qui es diu que van caure en un lloc d'on no en van poder sortir i van morir allà."
   },
   {
     "titol": "Cruïlla Comedy: festival de stand-up en català - part 1",
@@ -4183,7 +4225,7 @@
     "titol": "Gameface 1x01 - Heroïna, guerrera, bombera, mentidera",
     "codi": "6270851",
     "edat": "10",
-    "raons": "Violència freqüent, versemblant, no explícita, d'intensitat lleu, no legitimada<br>Continguts sexuals ocasionals d'explicitació mitjana<br>Por i angoixa freqüent d'afectació mitjana<br>Llenguatge groller freqüent d'intensitat baixa"
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada<br>Continguts sexuals ocasionals d'explicitació mitjana<br>Por i angoixa freqüent d'afectació mitjana<br>Llenguatge groller freqüent d'intensitat baixa"
   },
   {
     "titol": "Gameface 1x02 - Salvatge",
@@ -4208,6 +4250,12 @@
     "codi": "6270854",
     "edat": "13",
     "raons": "Continguts sexuals freqüents d'explicitació mitjana<br>Abús de drogues lícites (alcohol) presentat de manera neutra, i al·lusions al consum de drogues il·lícites presentat de manera negativa<br>Llenguatge groller freqüent d'intensitat alta"
+  },
+  {
+    "titol": "Gameface 1x06 - Cargol",
+    "codi": "6270848",
+    "edat": "13",
+    "raons": "Continguts sexuals ocasionals d'explicitació alta<br>Consum de drogues lícites (alcohol) i al·lusions al consum de drogues il·lícites (cocaïna, crack) presentades de manera negativa<br>Llenguatge groller freqüent d'intensitat alta"
   },
   {
     "titol": "George de la jungla",
