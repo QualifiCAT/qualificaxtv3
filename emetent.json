@@ -7,6 +7,12 @@
     "x3": true
   },
   {
+    "titol": "APM?",
+    "edat": "13",
+    "orig": "10",
+    "tv3": true
+  },
+  {
     "titol": "Èpic nails",
     "edat": "13",
     "orig": "TP",
@@ -38,6 +44,13 @@
     "x3": true
   },
   {
+    "titol": "La gateta Arc iris papallona unicorn",
+    "edat": "7",
+    "orig": "TP",
+    "novetat": true,
+    "x3": true
+  },
+  {
     "titol": "Fuet",
     "edat": "10",
     "orig": "TP",
@@ -53,12 +66,6 @@
     "titol": "One Piece",
     "edat": "13",
     "orig": "10",
-    "x3": true
-  },
-  {
-    "titol": "El detectiu Conan",
-    "edat": "13",
-    "orig": "7",
     "x3": true
   }
 ]
