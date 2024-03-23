@@ -1,5 +1,25 @@
 [
   {
+    "titol": "Nits Sense ficció<br><small>Les del criquet</small>",
+    "codi": "Nits Sense ficció##",
+    "edat": "7",
+    "discriminacio": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "És pecat<br><small>(2 episodis)</small>",
+    "codi": "És pecat#",
+    "edat": "13",
+    "sexe": true,
+    "drogues": true,
+    "llenguatge": true,
+    "orig": "16",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Asfalt<br><small>(tots els 6 episodis)</small>",
     "codi": "Asfalt#",
     "edat": "18",
@@ -29,17 +49,6 @@
     "3cat": true
   },
   {
-    "titol": "És pecat<br><small>(2 episodis)</small>",
-    "codi": "És pecat#",
-    "edat": "13",
-    "sexe": true,
-    "drogues": true,
-    "llenguatge": true,
-    "orig": "16",
-    "serie": true,
-    "tv3": true
-  },
-  {
     "titol": "30 minuts<br><small>L'efecte TikTok</small>",
     "codi": "30 minuts##",
     "edat": "10",
@@ -48,15 +57,5 @@
     "orig": "TP (📺: 13)",
     "serie": true,
     "tv3": true
-  },
-  {
-    "titol": "Truca quan arribis<br><small>Mal d'altura i humites</small>",
-    "codi": "Truca quan arribis##",
-    "edat": "10",
-    "drogues": true,
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "3cat": true
   }
 ]
