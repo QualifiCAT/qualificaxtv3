@@ -7,18 +7,6 @@
     "x3": true
   },
   {
-    "titol": "APM?",
-    "edat": "13",
-    "orig": "10",
-    "tv3": true
-  },
-  {
-    "titol": "Èpic nails",
-    "edat": "13",
-    "orig": "TP",
-    "3cat": true
-  },
-  {
     "titol": "Polònia",
     "edat": "13",
     "orig": "7",
@@ -35,6 +23,13 @@
     "edat": "13",
     "orig": "10",
     "tv3": true
+  },
+  {
+    "titol": "Truca quan arribis",
+    "edat": "10",
+    "orig": "TP",
+    "novetat": true,
+    "3cat": true
   },
   {
     "titol": "Samuel",
