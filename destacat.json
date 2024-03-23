@@ -9,10 +9,11 @@
     "tv3": true
   },
   {
-    "titol": "És pecat<br><small>(2 episodis)</small>",
+    "titol": "És pecat<br><small>(3 episodis)</small>",
     "codi": "És pecat#",
     "edat": "13",
     "sexe": true,
+    "por": true,
     "drogues": true,
     "llenguatge": true,
     "orig": "16",
