@@ -1,5 +1,14 @@
 [
   {
+    "titol": "30 minuts<br><small>Tocats per l'herència</small>",
+    "codi": "30 minuts##",
+    "edat": "7",
+    "por": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Nits Sense ficció<br><small>Les del criquet</small>",
     "codi": "Nits Sense ficció##",
     "edat": "7",
@@ -48,15 +57,5 @@
     "orig": "16",
     "serie": true,
     "3cat": true
-  },
-  {
-    "titol": "30 minuts<br><small>L'efecte TikTok</small>",
-    "codi": "30 minuts##",
-    "edat": "10",
-    "por": true,
-    "llenguatge": true,
-    "orig": "TP (📺: 13)",
-    "serie": true,
-    "tv3": true
   }
 ]
