@@ -2671,6 +2671,39 @@
     "mesinfo": "<b>Violència</b><br>Un noi s'empipa i llença un mòbil a terra, el seu company diu que era seu i que no l'hauria d'haver trencat. En una paròdia de 'Star Wars', dos personatges es barallen verbalment i es llencen objectes flotants, i en un moment un d'ells està a punt de caure al buit i l'altre intenta perjudicar-lo, però l'escena s'atura. Un personatge en forma de plàtan es mossega el braç i comença a menjar-se ell mateix (de forma implícita) fins no quedar res. Hi ha una persecució còmica on un carretó de la compra i una moto col·lisionen lateralment, un dels conductors fa el gest de pegar a l'altre i l'empenta, i fa que xoqui contra un camió. Més tard entren en un centre comercial trencant el vidre i intenten atacar-se llençant-se llaunes. Un robot dispara rajos làser, i acaba destruït després que l'esclafin amb cubells de la brossa. Encara dins la persecució, un noi fa veure que ofega la seva mare, que cau desplomada (de forma implícita: només se sent un cruixit i es veu com panteixa durant dos segons). Un monstre gegant cau a terra després de lligar-lo de cames. Al final tot ha estat en va perquè han estat enganyats.<br><br>Hi ha situacions ocasionals de por o angoixa lleu (un personatge adopta una cara esgarrifosa breument; durant un moment sembla que un home amb un respirador s'està ofegant, però ràpidament es descobreix que no és cert; un personatge en forma de torrada s'aterra en veure uns coloms). Quan una nena idea un pla 'malvat', el seu germà li diu: 'por eso no tienes amigos'. Hi ha diversos moments on se separa entre 'gent normal' i 'frikis', i es diu que aquests últims solen no tenir parella, treure males notes i que estan acostumats a ser humiliats en públic, tanmateix, els 'frikis' acaben humiliant-los a tots ells implícitament al final de l'episodi."
   },
   {
+    "titol": "El poble encantat de Pinotxo",
+    "codi": "poble-encantat-pinotxo",
+    "edat": "",
+    "orig": "TP",
+    "comp": "🇪🇸 TP 🇳🇱 AL 🇸🇬 G",
+    "serie": true,
+    "x3": true
+  },
+  {
+    "titol": "El poble encantat de Pinotxo 1x01 - Una missió de confiança",
+    "codi": "6272615",
+    "edat": "0",
+    "mesinfo": "Es presenten freqüentment conductes i valors incívics amb una sanció negativa en el relat d'una manera fàcilment comprensible per a infants de molt poca edat. Hi ha situacions de por molt lleu de durada molt breu i ocasionals."
+  },
+  {
+    "titol": "El poble encantat de Pinotxo 1x02 - El peixet d'or",
+    "codi": "6272611",
+    "edat": "0",
+    "mesinfo": "Es presenten freqüentment conductes i valors incívics amb una sanció negativa en el relat d'una manera fàcilment comprensible per a infants de molt poca edat. Hi ha situacions de por molt lleu de durada molt breu i ocasionals."
+  },
+  {
+    "titol": "El poble encantat de Pinotxo 1x03 - La trampeta",
+    "codi": "6272612",
+    "edat": "0",
+    "mesinfo": "Es presenten freqüentment conductes i valors incívics amb una sanció negativa en el relat d'una manera fàcilment comprensible per a infants de molt poca edat."
+  },
+  {
+    "titol": "El poble encantat de Pinotxo 1x04 - El meu pare és un heroi",
+    "codi": "6272207",
+    "edat": "0",
+    "mesinfo": "Es presenten freqüentment conductes i valors incívics amb una sanció negativa en el relat d'una manera fàcilment comprensible per a infants de molt poca edat. Hi ha situacions de por molt lleu de durada molt breu i ocasionals. Hi ha situacions ocasionals i molt lleus de violència irreal contra les coses."
+  },
+  {
     "titol": "El carrer Scream",
     "codi": "carrer-scream",
     "edat": "7",
