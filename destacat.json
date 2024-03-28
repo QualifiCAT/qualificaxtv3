@@ -1,5 +1,13 @@
 [
   {
+    "titol": "El poble encantat de Pinotxo<br><small><i>4 episodis</i></small>",
+    "codi": "El poble encantat de Pinotxo#",
+    "edat": "0",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
+  },
+  {
     "titol": "30 minuts<br><small>Tocats per l'herència</small>",
     "codi": "30 minuts##",
     "edat": "7",
@@ -18,7 +26,7 @@
     "tv3": true
   },
   {
-    "titol": "És pecat<br><small>(tots els 5 episodis)</small>",
+    "titol": "És pecat<br><small><i>tots els 5 episodis</i></small>",
     "codi": "És pecat#",
     "edat": "13",
     "sexe": true,
@@ -30,7 +38,7 @@
     "tv3": true
   },
   {
-    "titol": "Asfalt<br><small>(tots els 6 episodis)</small>",
+    "titol": "Asfalt<br><small><i>tots els 6 episodis</i></small>",
     "codi": "Asfalt#",
     "edat": "18",
     "drogues": true,
@@ -39,23 +47,12 @@
     "3cat": true
   },
   {
-    "titol": "Conde & Fonde<br><small>(2 episodis)</small>",
+    "titol": "Conde & Fonde<br><small><i>2 episodis</i></small>",
     "codi": "Conde & Fonde#",
     "edat": "7",
     "llenguatge": true,
     "orig": "TP",
     "serie": true,
     "x3": true
-  },
-  {
-    "titol": "Gameface<br><small>(temporada 1)</small>",
-    "codi": "Gameface#",
-    "edat": "13",
-    "sexe": true,
-    "drogues": true,
-    "llenguatge": true,
-    "orig": "16",
-    "serie": true,
-    "3cat": true
   }
 ]
