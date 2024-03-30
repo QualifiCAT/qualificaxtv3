@@ -1,7 +1,17 @@
 [
   {
+    "titol": "Eufòria 3<br><small>La millor &quot;Eufòria&quot;</small>",
+    "codi": "Eufòria##",
+    "edat": "10",
+    "sexe": true,
+    "drogues": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Teatre<br><small>L'alegria que passa</small>",
-    "codi": "L'alegria que passa",
+    "codi": "alegria que passa",
     "edat": "10",
     "violencia": true,
     "llenguatge": true,
@@ -46,14 +56,5 @@
     "orig": "16",
     "serie": true,
     "tv3": true
-  },
-  {
-    "titol": "Asfalt<br><small><i>tots els 6 episodis</i></small>",
-    "codi": "Asfalt#",
-    "edat": "18",
-    "drogues": true,
-    "orig": "13",
-    "serie": true,
-    "3cat": true
   }
 ]
