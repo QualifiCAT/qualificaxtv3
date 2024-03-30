@@ -32,6 +32,13 @@
     "3cat": true
   },
   {
+    "titol": "Asfalt",
+    "edat": "18",
+    "orig": "13",
+    "novetat": true,
+    "3cat": true
+  },
+  {
     "titol": "Samuel",
     "edat": "10",
     "orig": "TP",
@@ -40,6 +47,13 @@
   },
   {
     "titol": "La gateta Arc iris papallona unicorn",
+    "edat": "7",
+    "orig": "TP",
+    "novetat": true,
+    "x3": true
+  },
+  {
+    "titol": "Conde & Fonde",
     "edat": "7",
     "orig": "TP",
     "novetat": true,
