@@ -2926,7 +2926,7 @@
     "mesinfo": "<b>Llenguatge groller</b><br>El presentador utilitza sovint l'expressió 'hòstia' o bé 'hosti'. També s'utilitzen 'fotre', 'la mare que el va parir', 'cony' i 'collonut'. El llenguatge groller s'empra sempre en un to amistós i no ofensiu.<br><br>Hi ha situacions freqüents de por i angoixa d'afectació lleu quan es fan bromes sobre la mort, i quan el presentador practica l'escalada en una escena prolongada que inclou certs elements de tensió (comentaris dramàtics abans i durant l'activitat, música de suspens, punt de vista de l'escalador, certa inestabilitat). Hi ha una sola escena de consum d'alcohol, a l'inici de l'episodi; en una altra situació, es mostra un porró amb vi, però no es beu."
   },
   {
-    "titol": "El gran comediant",
+    "titol": "El gran comediant (teatre)",
     "codi": "6194231",
     "edat": "13",
     "orig": "7",
@@ -6691,6 +6691,16 @@
     "comp": "🇺🇲 TV-Y7 🇩🇪 6 🇬🇧 PG 🇦🇺 PG 🇳🇱 6 🇫🇮 7",
     "serie": true,
     "x3": true
+  },
+  {
+    "titol": "L'alegria que passa (teatre)",
+    "codi": "6272631",
+    "edat": "10",
+    "orig": "7",
+    "peli": true,
+    "tv3": true,
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat greu, no legitimada<br>Llenguatge groller ocasional d'intensitat alta",
+    "mesinfo": "<b>Violència</b><br>Una dona és encarada verbalment en diverses ocasionals durant l'obra, dient-li que no el pot deixar perquè va ser ell qui la va salvar i l'únic que se l'estima; en una escena, l'arracona contra una paret i hi dona un cop que la fa esglaiar. Un home li diu que no és prou valenta per deixar el seu promès maltractador i que en el fons li encanta despertar-se 'cada dia amb un morat nou al cos'. Una dona confessa que va fer matar el pare del protagonista, i que ell va matar una dona sense voler en una banyera.<br><br><b>Llenguatge groller</b><br>La paraula 'puta' s'arriba a dir fins a vuit vegades, sovint per part de personatges negatius referint-se a alguna dona ('un nen ric de casa bona mata una puta', 'jo li he dit puta perquè jo li puc dir puta tant com vulgui'), però també com a adjectiu ('faré el que em doni la puta gana', 'prou de doblegar tots aquesta puta paraula'). Amb una intensitat similar, també es fan servir expressions com 'meuca', 'cabró', 'cagat', 'collons' ('collons amb la gent', 'quins collons!', 'per què collons plores?') o 'merda' ('mitja merda' quatre cops, 'aquest merdes', 'a la merda el correcte', 's'havia pres tanta merda abans de pujar' -referint-se a alguna droga, possiblement alcohol-).<br><br>Hi ha ocasionalment continguts sexuals, en forma d'insinuacions de caràcter visual i verbal d'explicitació baixa. Hi ha referències al consum d'alcohol, així com paral·lelismes comparant l'estat d'ànim decaigut i obedient d'un poble amb els efectes d'alguna droga, presentades de manera negativa. Hi ha situacions de discriminació presentades en negatiu i situacions ocasionals de por i angoixa mitjana (vegeu 'Violència' i 'Llenguatge groller')."
   },
   {
     "titol": "L'au pair",
@@ -10572,7 +10582,7 @@
     "raons": "Comentaris discriminatoris amb sanció neutra"
   },
   {
-    "titol": "Quant temps em queda?",
+    "titol": "Quant temps em queda? (teatre)",
     "codi": "6258693",
     "edat": "13",
     "orig": "TP",
