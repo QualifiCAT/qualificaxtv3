@@ -1,5 +1,15 @@
 [
   {
+    "titol": "Teatre<br><small>L'alegria que passa</small>",
+    "codi": "L'alegria que passa",
+    "edat": "10",
+    "violencia": true,
+    "llenguatge": true,
+    "orig": "7",
+    "peli": true,
+    "tv3": true
+  },
+  {
     "titol": "El poble encantat de Pinotxo<br><small><i>4 episodis</i></small>",
     "codi": "El poble encantat de Pinotxo#",
     "edat": "0",
@@ -45,14 +55,5 @@
     "orig": "13",
     "serie": true,
     "3cat": true
-  },
-  {
-    "titol": "Conde & Fonde<br><small><i>2 episodis</i></small>",
-    "codi": "Conde & Fonde#",
-    "edat": "7",
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "x3": true
   }
 ]
