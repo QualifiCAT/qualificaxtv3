@@ -13,16 +13,16 @@
     "tv3": true
   },
   {
-    "titol": "APM?",
+    "titol": "Plats bruts",
     "edat": "13",
     "orig": "10",
     "tv3": true
   },
   {
-    "titol": "Plats bruts",
-    "edat": "13",
-    "orig": "10",
-    "tv3": true
+    "titol": "Les dones i els dies",
+    "edat": "10",
+    "orig": "TP",
+    "3cat": true
   },
   {
     "titol": "Truca quan arribis",
