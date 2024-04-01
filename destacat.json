@@ -1,5 +1,15 @@
 [
   {
+    "titol": "L'acadèmia<br><small>Valors (episodi 1)</small>",
+    "codi": "L'acadèmia##",
+    "edat": "13",
+    "drogues": true,
+    "llenguatge": true,
+    "orig": "10",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Eufòria 3<br><small>La millor &quot;Eufòria&quot;</small>",
     "codi": "Eufòria##",
     "edat": "10",
@@ -43,18 +53,6 @@
     "edat": "7",
     "discriminacio": true,
     "orig": "TP",
-    "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "És pecat<br><small><i>tots els 5 episodis</i></small>",
-    "codi": "És pecat#",
-    "edat": "13",
-    "sexe": true,
-    "por": true,
-    "drogues": true,
-    "llenguatge": true,
-    "orig": "16",
     "serie": true,
     "tv3": true
   }
