@@ -6700,6 +6700,22 @@
     "x3": true
   },
   {
+    "titol": "L'acadèmia",
+    "codi": "lacademia",
+    "edat": "13",
+    "orig": "10",
+    "comp": "🇪🇸 13 (Prime Video)",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "L'acadèmia 1x01 - Valors",
+    "codi": "6273199",
+    "edat": "13",
+    "raons": "Consum de drogues lícites (alcohol) i il·lícites (marihuana) presentat de manera negativa<br>Llenguatge groller freqüent d'intensitat alta",
+    "mesinfo": "<b>Drogues</b><br>Un dels nois consumeix habitualment marihuana tot i el rebuig per part dels seus pares o d'un entrenador. En una escena, munta una festa il·legal on fuma i beu alcohol amb els seus amics però són descoberts.<br><br><b>Llenguatge groller</b><br>Tant menors com adults fan servir constantment expressions com 'puta' ('de puta madre', 'ni puta idea', 'hijo de puta', 'la puta loca de tu madre'), 'follar' ('follant-se ties bones' per part d'un noi a la dona qui l'està entrevistant), 'collons', 'hòstia', 'cabró', 'merda' o 'cony', entre d'altres.<br><br>Es fan servir referències sexuals verbals i ocasionals d'explicitació mitjana. Hi ha una escena de violència versemblant, explícita, molt lleu i no legitimada quan una mare dona una bufetada al seu fill. Es fan servir expressions i es fan comentaris discriminatoris amb una sanció negativa en el relat."
+  },
+  {
     "titol": "L'alegria que passa (teatre)",
     "codi": "6272631",
     "edat": "10",
