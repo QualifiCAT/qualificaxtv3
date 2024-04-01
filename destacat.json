@@ -1,5 +1,15 @@
 [
   {
+    "titol": "30 minuts<br><small>Modi: el reportatge prohibit</small>",
+    "codi": "30 minuts##",
+    "edat": "13",
+    "violencia": true,
+    "por": true,
+    "orig": "18",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "L'acadèmia<br><small>Valors (episodi 1)</small>",
     "codi": "acadèmia##",
     "edat": "13",
@@ -37,15 +47,6 @@
     "orig": "TP",
     "serie": true,
     "x3": true
-  },
-  {
-    "titol": "30 minuts<br><small>Tocats per l'herència</small>",
-    "codi": "30 minuts##",
-    "edat": "7",
-    "por": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
   },
   {
     "titol": "Nits Sense ficció<br><small>Les del criquet</small>",
