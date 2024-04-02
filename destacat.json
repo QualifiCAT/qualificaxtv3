@@ -1,5 +1,14 @@
 [
   {
+    "titol": "Nits Sense ficció<br><small>Qui va matar Cachou?</small>",
+    "codi": "Nits Sense ficció##",
+    "edat": "13",
+    "por": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "30 minuts<br><small>Modi: el reportatge prohibit</small>",
     "codi": "30 minuts##",
     "edat": "13",
@@ -47,14 +56,5 @@
     "orig": "TP",
     "serie": true,
     "x3": true
-  },
-  {
-    "titol": "Nits Sense ficció<br><small>Les del criquet</small>",
-    "codi": "Nits Sense ficció##",
-    "edat": "7",
-    "discriminacio": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
   }
 ]
