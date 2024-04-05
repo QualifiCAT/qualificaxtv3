@@ -1,5 +1,16 @@
 [
   {
+    "titol": "Caigut del cel<br><small>Enrique Calvo. El violoncel·lista viatger</small>",
+    "codi": "Caigut del cel##",
+    "edat": "7",
+    "sexe": true,
+    "por": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Nits Sense ficció<br><small>Qui va matar Cachou?</small>",
     "codi": "Nits Sense ficció##",
     "edat": "13",
@@ -19,7 +30,7 @@
     "tv3": true
   },
   {
-    "titol": "L'acadèmia<br><small>Valors (episodi 1)</small>",
+    "titol": "L'acadèmia<br><small>Valors <i>episodi 1</i></small>",
     "codi": "acadèmia##",
     "edat": "13",
     "drogues": true,
@@ -48,13 +59,5 @@
     "orig": "7",
     "peli": true,
     "tv3": true
-  },
-  {
-    "titol": "El poble encantat de Pinotxo<br><small><i>4 episodis</i></small>",
-    "codi": "El poble encantat de Pinotxo#",
-    "edat": "0",
-    "orig": "TP",
-    "serie": true,
-    "x3": true
   }
 ]
