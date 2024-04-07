@@ -1,5 +1,14 @@
 [
   {
+    "titol": "30 minuts<br><small>Orgull gironí</small>",
+    "codi": "30 minuts##",
+    "edat": "7",
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Caigut del cel<br><small>Enrique Calvo. El violoncel·lista viatger</small>",
     "codi": "Caigut del cel##",
     "edat": "7",
@@ -16,16 +25,6 @@
     "edat": "13",
     "por": true,
     "orig": "TP",
-    "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "30 minuts<br><small>Modi: el reportatge prohibit</small>",
-    "codi": "30 minuts##",
-    "edat": "13",
-    "violencia": true,
-    "por": true,
-    "orig": "18",
     "serie": true,
     "tv3": true
   },
