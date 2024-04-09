@@ -2,79 +2,65 @@
   {
     "titol": "Eufòria",
     "edat": "13",
-    "orig": "TP",
-    "tv3": true,
-    "x3": true
+    "orig": "TP"
   },
   {
     "titol": "Polònia",
     "edat": "13",
-    "orig": "7",
-    "tv3": true
+    "orig": "7"
   },
   {
     "titol": "Plats bruts",
     "edat": "13",
-    "orig": "10",
-    "tv3": true
+    "orig": "10"
   },
   {
     "titol": "Les dones i els dies",
     "edat": "10",
-    "orig": "TP",
-    "3cat": true
+    "orig": "TP"
   },
   {
     "titol": "Truca quan arribis",
     "edat": "10",
     "orig": "TP",
-    "novetat": true,
-    "3cat": true
+    "novetat": true
   },
   {
     "titol": "Asfalt",
     "edat": "18",
     "orig": "13",
-    "novetat": true,
-    "3cat": true
+    "novetat": true
   },
   {
     "titol": "Samuel",
     "edat": "10",
     "orig": "TP",
-    "novetat": true,
-    "x3": true
-  },
-  {
-    "titol": "La gateta Arc iris papallona unicorn",
-    "edat": "7",
-    "orig": "TP",
-    "novetat": true,
-    "x3": true
+    "novetat": true
   },
   {
     "titol": "Conde & Fonde",
     "edat": "7",
     "orig": "TP",
-    "novetat": true,
-    "x3": true
+    "novetat": true
   },
   {
     "titol": "Fuet",
     "edat": "10",
-    "orig": "TP",
-    "x3": true
+    "orig": "TP"
   },
   {
     "titol": "Naruto",
     "edat": "13",
-    "orig": "10",
-    "x3": true
+    "orig": "10"
   },
   {
     "titol": "One Piece",
     "edat": "13",
-    "orig": "10",
-    "x3": true
+    "orig": "10"
+  },
+  {
+    "titol": "El detectiu Conan",
+    "edat": "13",
+    "orig": "7"
   }
 ]
