@@ -1,5 +1,15 @@
 [
   {
+    "titol": "Polònia<br><small>11/04/2024</small>",
+    "codi": "Polònia##",
+    "edat": "13",
+    "discriminacio": true,
+    "llenguatge": true,
+    "orig": "7",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Platònic<br><small><i>3 episodis</i></small>",
     "codi": "Platònic#",
     "edat": "13",
@@ -47,16 +57,5 @@
     "orig": "10",
     "serie": true,
     "tv3": true
-  },
-  {
-    "titol": "Eufòria 3<br><small>La millor &quot;Eufòria&quot;</small>",
-    "codi": "Eufòria##",
-    "edat": "10",
-    "sexe": true,
-    "drogues": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true,
-    "x3": true
   }
 ]
