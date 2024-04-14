@@ -1,5 +1,15 @@
 [
   {
+    "titol": "Nits Sense ficció<br><small>La Simfonia dels Herois</small>",
+    "codi": "Nits Sense ficció##",
+    "edat": "10",
+    "por": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Polònia<br><small>11/04/2024</small>",
     "codi": "Polònia##",
     "edat": "13",
@@ -35,15 +45,6 @@
     "sexe": true,
     "por": true,
     "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "Nits Sense ficció<br><small>Qui va matar Cachou?</small>",
-    "codi": "Nits Sense ficció##",
-    "edat": "13",
-    "por": true,
     "orig": "TP",
     "serie": true,
     "tv3": true
