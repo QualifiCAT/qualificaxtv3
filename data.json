@@ -4133,6 +4133,14 @@
     "mesinfo": "<b>Llenguatge groller</b><br>En tot el programa hi ha una presència freqüent de llenguatge groller, si bé no s'utilitza mai agressivament i té sempre una forta càrrega còmica. Es diu 'no m'acollonis', 'acolloniment', 'això és una merda', alguns usos de 'cony', 'colló' o 'hòstia' en un context de sorpresa, 'fotent merder', 'bona merda', 'titafreda', 'no fotem', 'no et prepares per les putades' o 'no hi ha pebrots'. En un moment l'entrevistat diu que 'aquesta és la puta realitat'; llavors el presentador es pregunta si es pot dir 'puta' a TV3 i li diuen que sí si es disculpa, i així ho fa l'entrevistat.<br><br>L'entrevistat és preguntat sobre si ell era de 'tancar bars' i 'd'emborratxar-se'; respon que no. Hi ha conductes incíviques en un context còmic. Hi ha una escena còmica de tensió en què el presentador creu que ha entrat algú al lavabo on s'hi troba. Es fan al·lusions violentes ('donar-lo per mort', 'veure com pateix' o 'menjar-se viu' algú) de forma metafòrica."
   },
   {
+    "titol": "Fang!",
+    "codi": "fang",
+    "edat": "7",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
+  },
+  {
     "titol": "Flying Squirrels",
     "codi": "flying-squirrels",
     "edat": "7",
