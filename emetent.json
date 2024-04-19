@@ -17,7 +17,8 @@
   {
     "titol": "L'acadèmia",
     "edat": "13",
-    "orig": "10"
+    "orig": "10",
+    "novetat": true
   },
   {
     "titol": "Truca quan arribis",
