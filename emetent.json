@@ -10,11 +10,6 @@
     "orig": "7"
   },
   {
-    "titol": "Està passant",
-    "edat": "13",
-    "orig": "TP"
-  },
-  {
     "titol": "Plats bruts",
     "edat": "13",
     "orig": "10"
@@ -30,15 +25,14 @@
     "orig": "TP"
   },
   {
-    "titol": "Asfalt",
-    "edat": "18",
-    "orig": "13"
+    "titol": "Les dones i els dies",
+    "edat": "10",
+    "orig": "TP"
   },
   {
     "titol": "Samuel",
     "edat": "10",
-    "orig": "TP",
-    "novetat": true
+    "orig": "TP"
   },
   {
     "titol": "Projecte Beta. La sèrie",
@@ -56,18 +50,14 @@
     "orig": "7"
   },
   {
-    "titol": "Naruto",
-    "edat": "13",
-    "orig": "10"
-  },
-  {
-    "titol": "One Piece",
-    "edat": "13",
-    "orig": "10"
-  },
-  {
     "titol": "El detectiu Conan",
     "edat": "13",
     "orig": "7"
+  },
+  {
+    "titol": "Fang!",
+    "edat": "7",
+    "orig": "TP",
+    "novetat": true
   }
 ]
