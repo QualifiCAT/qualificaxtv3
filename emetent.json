@@ -1,7 +1,7 @@
 [
   {
-    "titol": "Eufòria",
-    "edat": "13",
+    "titol": "Eufòria*",
+    "edat": "10",
     "orig": "TP"
   },
   {
@@ -13,12 +13,6 @@
     "titol": "Plats bruts",
     "edat": "13",
     "orig": "10"
-  },
-  {
-    "titol": "L'acadèmia",
-    "edat": "13",
-    "orig": "10",
-    "novetat": true
   },
   {
     "titol": "Truca quan arribis",
@@ -36,8 +30,8 @@
     "orig": "TP"
   },
   {
-    "titol": "Projecte Beta. La sèrie",
-    "edat": "10",
+    "titol": "Projecte Beta. La sèrie*",
+    "edat": "7",
     "orig": "TP"
   },
   {
@@ -48,11 +42,6 @@
   {
     "titol": "La mainadera ninja",
     "edat": "10",
-    "orig": "7"
-  },
-  {
-    "titol": "El detectiu Conan",
-    "edat": "13",
     "orig": "7"
   },
   {
