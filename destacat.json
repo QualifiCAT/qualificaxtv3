@@ -1,5 +1,15 @@
 [
   {
+    "titol": "Nits Sense ficció<br><small>Aitana Bonmatí Conca</small>",
+    "codi": "Nits Sense ficció##",
+    "edat": "10",
+    "drogues": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Irresponsable<br><small><i>2 episodis</i></small>",
     "codi": "Irresponsable#",
     "edat": "13",
@@ -8,16 +18,6 @@
     "orig": "13",
     "serie": true,
     "3cat": true
-  },
-  {
-    "titol": "Nits Sense ficció<br><small>La Simfonia dels Herois</small>",
-    "codi": "Nits Sense ficció##",
-    "edat": "10",
-    "por": true,
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
   },
   {
     "titol": "Polònia<br><small>11/04/2024</small>",
