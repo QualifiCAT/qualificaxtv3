@@ -1,7 +1,17 @@
 [
   {
+    "titol": "O. J. Simpson: Sang, mentides i assassinat",
+    "codi": "O. J. Simpson: Sang, mentides i assassinat#",
+    "edat": "18",
+    "violencia": true,
+    "por": true,
+    "orig": "TP",
+    "serie": true,
+    "3cat": true
+  },
+  {
     "titol": "Pisos d'estudiants<br><small><i>2 episodis</i></small>",
-    "codi": "Pisos d'estudiants#",
+    "codi": "Pisos#",
     "edat": "13",
     "sexe": true,
     "drogues": true,
@@ -48,14 +58,5 @@
     "orig": "12",
     "serie": true,
     "3cat": true
-  },
-  {
-    "titol": "30 minuts<br><small>Orgull gironí</small>",
-    "codi": "30 minuts##",
-    "edat": "7",
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
   }
 ]
