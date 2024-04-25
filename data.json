@@ -10075,6 +10075,28 @@
     "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada<br>Por i angoixa freqüent d'afectació lleu<br>Conductes i valors incívics amb sanció negativa"
   },
   {
+    "titol": "Pisos d'estudiants",
+    "codi": "pisos-destudiants",
+    "edat": "13",
+    "orig": "TP",
+    "serie": true,
+    "3cat": true
+  },
+  {
+    "titol": "Pisos d'estudiants 1x01 - La millor festa de Lleida! (Ronda 1)",
+    "codi": "6276944",
+    "edat": "13",
+    "raons": "Continguts sexuals freqüents d'explicitació mitjana<br>Al·lusions al consum de drogues lícites (tabac), presentat de manera positiva",
+    "mesinfo": "<b>Sexe</b><br>Pregunten a unes noies si fan servir un ninot de peluix per fer 'marranades'. Unes noies comenten explícitament que van observar dos nois tenint sexe oral a la terrassa d'un pis. S'ensenya un vibrador i se'n fan comentaris; la presentadora diu que s'imaginava un 'pollote' més gran. Es reprodueix una frase d'una cançó: 'està com una llimona, cítrica i culona'.<br><br><b>Drogues</b><br>Es fan diferents referències verbals i visuals al consum de tabac, a vegades d'una manera banalitzadora dels seus efectes, atès que les protagonistes -joves- en són consumidores habituals i cap dels seus comentaris rep algun tipus de sanció. També hi ha al·lusions al consum d'alcohol.<br><br>Hi ha llenguatge groller freqüent d'intensitat baixa ('hòstia', 'merda', 'fotre'), ocasionalment alta ('està fet puto merda', 'fins als collons', 'pollote'). Es fa una referència al suïcidi, en forma de broma."
+  },
+  {
+    "titol": "Pisos d'estudiants 1x02 - La millor festa de Lleida! (Ronda 2)",
+    "codi": "6276946",
+    "edat": "13",
+    "raons": "Continguts sexuals freqüents d'explicitació mitjana<br>Al·lusions a l'abús de drogues lícites (alcohol), presentat de manera neutra",
+    "mesinfo": "<b>Sexe</b><br>Es diu que uns nois són 'pajilleros' perquè tenen un rotlle de paper de vàter al costat del llit. Es pregunta freqüentment i cruament als nois sobre amb quina freqüència mantenen relacions sexuals, si tenen joguines sexuals amagades pel pis, i si molesten sovint als veïns quan tenen un orgasme.<br><br><b>Drogues</b><br>El programa proposa un repte als joves que hi participen: organitzar una festa en el seu pis amb el màxim nombre de persones èbries. Diverses persones comenten amb quina freqüència beuen alcohol en contextos socials, i un d'ells diu que es fa birres fins a la matinada. Li pregunten a un noi si fuma al lavabo, sense concretar quina substància, i respon que 'de tant en tant' i que hi ha companys seus de pis que hi fan 'coses pitjors'.<br><br>Hi ha llenguatge groller freqüent d'intensitat baixa (múltiples bromes de caràcter escatològic, vòmits inclosos, i expressions com 'cagar', 'merder', 'merda', 'hòstia', 'fotre'), ocasionalment alta ('puto merda', 'hòs... puta', 'folla')."
+  },
+  {
     "titol": "Platònic",
     "codi": "platonic",
     "edat": "13",
