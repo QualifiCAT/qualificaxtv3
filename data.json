@@ -9869,6 +9869,29 @@
     "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'et descollones', 'idiota', 'fotre' quatre vegades, 'hòstia' dues vegades, 'llepaculs' dues vegades, 'l'has cagat' (en una pancarta) i 'tocar molt els collons'.<br><br>Es fan comentaris classistes, sancionats negativament. Es fa una referència a consumir cervesa, que es pren com una broma, així com consum de tabac en imatges d'arxiu, en un cas lligat a un personatge negatiu. Es comenten negativament casos de corrupció. Es diu breument que uns 'hooligans' van ser acusats d'assassinat."
   },
   {
+    "titol": "O. J. Simpson: Sang, mentides i assassinat",
+    "codi": "oj-simpson-sang-mentides-i-assassinat",
+    "edat": "18",
+    "orig": "TP (a la fitxa del programa: 16)",
+    "comp": "🇪🇸 16 🇺🇲 TV-14",
+    "serie": true,
+    "3cat": true
+  },
+  {
+    "titol": "O. J. Simpson: Sang, mentides i assassinat 1x01",
+    "codi": "6278024",
+    "edat": "18",
+    "raons": "Violència freqüent, versemblant, molt explícita, d'intensitat molt greu, no legitimada<br>Por i angoixa reiterada d'afectació alta",
+    "mesinfo": "<b>Violència</b><br>S'ensenyen, de manera freqüent i, en alguns moments, de manera reiterada i insistent, imatges molt explícites i en detall d'escenes del crim: víctimes amb el coll pràcticament obert del tot, cadàvers coberts completament de sang o en avançat estat de descomposició, litres i esquitxos de sang per terra o vora la víctima, mostres d'apunyalaments a diferents parts del cos, i moltes taques de sang. S'ensenyen també recreacions d'homicidis que resulten en esquitxos notables de sang. Es fan referències verbals molt explícites a actes violents durant tot el programa; p. ex., 'estava gairebé decapitada, quan la vam agafar des del davant se li podien veure les vèrtebres'.<br><br><b>Por i angoixa</b><br>El documental es recrea en els elements més escabrosos d'uns assassinats, donant imatges i descripcions molt cruentes i mantenint un ritme trepidant i frenètic que no cessa en cap moment, cosa que intensifica la sensació de tensió. També es val d'enregistraments de trucades telefòniques protagonitzades per gent que se sent aterrida per l'assassí protagonista.<br><br>Es fan comentaris discriminatoris, presentats de manera neutra en el relat. Es fan referències neutres i ocasionals al consum de drogues lícites. Es fa servir ocasionalment llenguatge groller d'intensitat baixa ('la cagues', 'merder')."
+  },
+  {
+    "titol": "O. J. Simpson: Sang, mentides i assassinat 1x02",
+    "codi": "6278221",
+    "edat": "18",
+    "raons": "Violència freqüent, versemblant, molt explícita, d'intensitat molt greu, no legitimada<br>Por i angoixa reiterada d'afectació alta",
+    "mesinfo": "<b>Violència</b><br>S'ensenyen, de manera freqüent i, en alguns moments, de manera reiterada i insistent, imatges molt explícites i en detall d'escenes del crim: víctimes amb el coll pràcticament obert del tot, cadàvers coberts completament de sang o en avançat estat de descomposició, litres i esquitxos de sang per terra o vora la víctima, mostres d'apunyalaments a diferents parts del cos, i moltes taques de sang. S'ensenyen també recreacions d'homicidis, on un home n'apunyala un altre repetidament, per demostrar on va a parar la sang. Es fan referències verbals molt explícites a actes violents.<br><br><b>Por i angoixa</b><br>El documental es recrea en els elements més escabrosos d'uns assassinats, donant imatges i descripcions molt cruentes i mantenint un ritme trepidant i frenètic que no cessa en cap moment, cosa que intensifica la sensació de tensió. També es val d'enregistraments de trucades telefòniques protagonitzades per gent que se sent aterrida per l'assassí protagonista, així com per ell mateix quan la policia l'interroga.<br><br>Es fan comentaris discriminatoris, presentats de manera neutra en el relat. Es fan referències neutres ocasionals al consum de drogues lícites, així com a anar 'col·locat', sense donar més detalls. Es fa servir freqüentment llenguatge groller d'intensitat baixa ('merda', 'cony', 'hòstia', 'cagar', 'parides', 'emmerdar'). Es diu que 'no va ser sexe, va ser venjança, odi forassenyat'."
+  },
+  {
     "titol": "Objectiu 2030",
     "codi": "objectiu-2030",
     "edat": "7",
