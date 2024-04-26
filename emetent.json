@@ -1,6 +1,6 @@
 [
   {
-    "titol": "Eufòria*",
+    "titol": "*Eufòria",
     "edat": "10",
     "orig": "TP"
   },
@@ -15,12 +15,17 @@
     "orig": "10"
   },
   {
-    "titol": "Truca quan arribis",
+    "titol": "L&apos;acadèmia",
+    "edat": "13",
+    "orig": "10"
+  },
+  {
+    "titol": "Les dones i els dies",
     "edat": "10",
     "orig": "TP"
   },
   {
-    "titol": "Les dones i els dies",
+    "titol": "Núñez",
     "edat": "10",
     "orig": "TP"
   },
@@ -30,7 +35,7 @@
     "orig": "TP"
   },
   {
-    "titol": "Projecte Beta*",
+    "titol": "*Projecte Beta",
     "edat": "7",
     "orig": "TP"
   },
@@ -45,9 +50,14 @@
     "orig": "7"
   },
   {
-    "titol": "Fang!",
-    "edat": "7",
-    "orig": "TP",
+    "titol": "El detectiu Conan",
+    "edat": "13",
+    "orig": "7"
+  },
+  {
+    "titol": "Kuroko i el bàsquet",
+    "edat": "10",
+    "orig": "10",
     "novetat": true
   }
 ]
