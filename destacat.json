@@ -1,5 +1,15 @@
 [
   {
+    "titol": "Nervi<br><small><i>Programa 1</i></small>",
+    "codi": "Nervi#",
+    "edat": "10",
+    "violencia": true,
+    "drogues": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "O. J. Simpson: Sang, mentides i assassinat",
     "codi": "O. J. Simpson: Sang, mentides i assassinat#",
     "edat": "18",
@@ -48,15 +58,5 @@
     "orig": "7",
     "serie": true,
     "tv3": true
-  },
-  {
-    "titol": "Platònic<br><small><i>3 episodis</i></small>",
-    "codi": "Platònic#",
-    "edat": "13",
-    "sexe": true,
-    "drogues": true,
-    "orig": "12",
-    "serie": true,
-    "3cat": true
   }
 ]
