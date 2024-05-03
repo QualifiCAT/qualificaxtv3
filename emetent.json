@@ -20,16 +20,6 @@
     "orig": "10"
   },
   {
-    "titol": "Les dones i els dies",
-    "edat": "10",
-    "orig": "TP"
-  },
-  {
-    "titol": "Núñez",
-    "edat": "10",
-    "orig": "TP"
-  },
-  {
     "titol": "Samuel",
     "edat": "10",
     "orig": "TP"
@@ -40,24 +30,13 @@
     "orig": "TP"
   },
   {
-    "titol": "Fuet",
-    "edat": "10",
+    "titol": "La gateta Arc iris papallona unicorn",
+    "edat": "7",
     "orig": "TP"
-  },
-  {
-    "titol": "La mainadera ninja",
-    "edat": "10",
-    "orig": "7"
   },
   {
     "titol": "El detectiu Conan",
     "edat": "13",
     "orig": "7"
-  },
-  {
-    "titol": "Kuroko i el bàsquet",
-    "edat": "10",
-    "orig": "10",
-    "novetat": true
   }
 ]
