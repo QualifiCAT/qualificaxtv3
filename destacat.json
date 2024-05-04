@@ -1,5 +1,15 @@
 [
   {
+    "titol": "Respira (2017)",
+    "codi": "Respira (2017)",
+    "edat": "10",
+    "por": true,
+    "drogues": true,
+    "orig": "7 (TV: 13)",
+    "peli": true,
+    "tv3": true
+  },
+  {
     "titol": "Les dones i els dies<br><small>Jo desitjo</small>",
     "codi": "Les dones i els dies##",
     "edat": "13",
@@ -48,15 +58,5 @@
     "orig": "TP",
     "serie": true,
     "tv3": true
-  },
-  {
-    "titol": "Irresponsable<br><small><i>2 episodis</i></small>",
-    "codi": "Irresponsable#",
-    "edat": "13",
-    "sexe": true,
-    "drogues": true,
-    "orig": "13",
-    "serie": true,
-    "3cat": true
   }
 ]
