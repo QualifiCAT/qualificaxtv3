@@ -1,5 +1,14 @@
 [
   {
+    "titol": "30 minuts<br><small>Un mur al Nil</small>",
+    "codi": "30 minuts##",
+    "edat": "7",
+    "por": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Respira (2017)",
     "codi": "Respira (2017)",
     "edat": "10",
@@ -48,15 +57,5 @@
     "orig": "18",
     "serie": true,
     "3cat": true
-  },
-  {
-    "titol": "Nits Sense ficció<br><small>Aitana Bonmatí Conca</small>",
-    "codi": "Nits Sense ficció##",
-    "edat": "10",
-    "drogues": true,
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
   }
 ]
