@@ -1,5 +1,15 @@
 [
   {
+    "titol": "Està passant<br><small>06/05/2024</small>",
+    "codi": "Està passant##",
+    "edat": "10",
+    "sexe": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "30 minuts<br><small>Un mur al Nil</small>",
     "codi": "30 minuts##",
     "edat": "7",
@@ -45,16 +55,6 @@
     "violencia": true,
     "por": true,
     "orig": "TP/16",
-    "serie": true,
-    "3cat": true
-  },
-  {
-    "titol": "Pisos d'estudiants<br><small><i>2 episodis</i></small>",
-    "codi": "Pisos d&apos;estudiants#",
-    "edat": "13",
-    "sexe": true,
-    "drogues": true,
-    "orig": "18",
     "serie": true,
     "3cat": true
   }
