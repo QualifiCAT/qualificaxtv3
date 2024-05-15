@@ -9,6 +9,15 @@
     "x3": true
   },
   {
+    "titol": "El Rei Peret",
+    "codi": "El Rei Peret",
+    "edat": "13",
+    "llenguatge": true,
+    "orig": "10",
+    "peli": true,
+    "tv3": true
+  },
+  {
     "titol": "Nits Sense ficció<br><small>Adoptats, amb l'amor no n'hi havia prou</small>",
     "codi": "Nits Sense ficció##",
     "edat": "13",
@@ -46,15 +55,6 @@
     "edat": "10",
     "sexe": true,
     "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "30 minuts<br><small>Un mur al Nil</small>",
-    "codi": "30 minuts##",
-    "edat": "7",
-    "por": true,
     "orig": "TP",
     "serie": true,
     "tv3": true
