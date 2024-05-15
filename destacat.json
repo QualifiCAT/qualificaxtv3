@@ -1,5 +1,14 @@
 [
   {
+    "titol": "Projecte Beta<br><small>Episodis 1-2 de la temporada 5</small>",
+    "codi": "Projecte Beta##",
+    "edat": "7",
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "x3": true
+  },
+  {
     "titol": "Nits Sense ficció<br><small>Adoptats, amb l'amor no n'hi havia prou</small>",
     "codi": "Nits Sense ficció##",
     "edat": "13",
@@ -48,16 +57,6 @@
     "por": true,
     "orig": "TP",
     "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "Respira (2017)",
-    "codi": "Respira (2017)",
-    "edat": "10",
-    "por": true,
-    "drogues": true,
-    "orig": "7 (TV: 13)",
-    "peli": true,
     "tv3": true
   }
 ]
