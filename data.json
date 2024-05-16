@@ -3235,6 +3235,21 @@
     "x3": true
   },
   {
+    "titol": "El món de Pepe Rubianes",
+    "codi": "el-mon-de-pepe-rubianes",
+    "edat": "13",
+    "orig": "7",
+    "serie": true,
+    "3cat": true
+  },
+  {
+    "titol": "El món de Pepe Rubianes 1x01 - Ashé Massai",
+    "codi": "6282455",
+    "edat": "13",
+    "raons": "Llenguatge groller freqüent d'intensitat alta",
+    "mesinfo": "<b>Llenguatge groller</b><br>Tant el protagonista -un monologuista conegut per utilitzar un llenguatge franc i molt col·loquial- com alguns dels seus companys d'aventures, utilitzen freqüentment llenguatge groller d'intensitat alta. Per exemple: 'me encuentro de cojones', 'no me jodas', 'hostia', 'coño', 'joder', 'cabrón', 'hòstia nen, quins collons que tens', 'estic fins als collons', 'manda huevos', 'que se acerquen si tienen cojones', 'este Rubianes es la hostia', 'es dura de cojones', 'se está de puta madre', 'hay una humanidad dentro del matatu que te cagas', 'un hotel de puta madre', 'por mis huevos', 'ole tus cojones', 'está nublado de cojones', 'que te cagas', 'todos hemos comido de puta madre', 'en mi puta existencia'...<br><br>Hi ha continguts sexuals ocasionals d'explicitació mitjana en fer bromes sobre 'meter mano' i dir que dormir a la part de dalt d'una llitera és 'muntar' al de baix. Hi ha imatges de consum de tabac i d'alcohol amb sanció neutra. Hi ha violència ocasional, no explícita i greu, i alhora de por i angoixa mitjana, quan s'ensenya, sense enfocar-ho en detall, el que sembla ser l'esbudellament d'una cabra en un context d'un ritual d'un poble africà."
+  },
+  {
     "titol": "El món genial del Tom Gates",
     "codi": "mon-genial-tom-gates",
     "edat": "7",
