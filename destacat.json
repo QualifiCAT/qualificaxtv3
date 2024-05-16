@@ -1,9 +1,10 @@
 [
   {
-    "titol": "Projecte Beta<br><small><i>Episodis 1-2 de la temporada 5</i></small>",
+    "titol": "Projecte Beta<br><small><i>Episodis 1-5 de la temporada 5</i></small>",
     "codi": "Projecte Beta##",
     "edat": "7",
     "llenguatge": true,
+    "incivisme": true,
     "orig": "TP",
     "serie": true,
     "x3": true
