@@ -1,12 +1,21 @@
 [
   {
-    "titol": "Projecte Beta<br><small>Episodis 1-2 de la temporada 5</small>",
+    "titol": "Projecte Beta<br><small><i>Episodis 1-2 de la temporada 5</i></small>",
     "codi": "Projecte Beta##",
     "edat": "7",
     "llenguatge": true,
     "orig": "TP",
     "serie": true,
     "x3": true
+  },
+  {
+    "titol": "El món de Pepe Rubianes<br><small><i>1 episodi</i></small>",
+    "codi": "El món de Pepe Rubianes##",
+    "edat": "13",
+    "llenguatge": true,
+    "orig": "7",
+    "serie": true,
+    "3cat": true
   },
   {
     "titol": "El Rei Peret",
@@ -44,16 +53,6 @@
     "edat": "10",
     "violencia": true,
     "drogues": true,
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "Està passant<br><small>06/05/2024</small>",
-    "codi": "Està passant##",
-    "edat": "10",
-    "sexe": true,
     "llenguatge": true,
     "orig": "TP",
     "serie": true,
