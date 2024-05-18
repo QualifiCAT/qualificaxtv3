@@ -41,11 +41,6 @@
     "orig": "TP"
   },
   {
-    "titol": "Els Dalton",
-    "edat": "7",
-    "orig": "TP"
-  },
-  {
     "titol": "La vida en calçotets",
     "edat": "7",
     "orig": "TP"
@@ -64,6 +59,12 @@
     "titol": "El detectiu Conan",
     "edat": "13",
     "orig": "7"
+  },
+  {
+    "titol": "Kuroko i el bàsquet",
+    "edat": "10",
+    "orig": "10",
+    "novetat": true
   },
   {
     "titol": "Mascotes sapastres",
