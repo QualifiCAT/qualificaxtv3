@@ -58,5 +58,11 @@
     "titol": "El detectiu Conan",
     "edat": "13",
     "orig": "7"
+  },
+  {
+    "titol": "Mascotes sapastres",
+    "edat": "0",
+    "orig": "TP",
+    "novetat": true
   }
 ]
