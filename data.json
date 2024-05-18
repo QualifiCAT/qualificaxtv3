@@ -1691,6 +1691,32 @@
     "mesinfo": "<b>Violència</b><br>Chop fa córrer un cotxe de joguina i intenta utilitzar una de les rodes en moviment com si fos una radial per poder tallar el nus de la cua que l'uneix a Chip."
   },
   {
+    "titol": "Cibercrims",
+    "codi": "cibercrims",
+    "edat": "13",
+    "orig": "13",
+    "serie": true,
+    "3cat": true
+  },
+  {
+    "titol": "Cibercrims 1x01 - Un crit mut",
+    "codi": "6281310",
+    "edat": "13",
+    "raons": "Violència freqüent, versemblant, (verbalment) explícita, d'intensitat molt greu, no legitimada<br>Continguts sexuals freqüents d'explicitació mitjana<br>Por i angoixa reiterada d'afectació mitjana"
+  },
+  {
+    "titol": "Cibercrims 1x02 - La companyia",
+    "codi": "6281308",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Conductes i valors incívics amb sanció negativa"
+  },
+  {
+    "titol": "Cibercrims 1x04 - Sabates del 37",
+    "codi": "6281305",
+    "edat": "13",
+    "raons": "Violència reiterada, versemblant, no explícita, d'intensitat molt greu, no legitimada<br>Continguts sexuals reiterats d'explicitació mitjana<br>Por i angoixa reiterada d'afectació mitjana"
+  },
+  {
     "titol": "Cita bestial",
     "codi": "cita-bestial",
     "edat": "7",
