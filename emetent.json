@@ -30,6 +30,12 @@
     "orig": "TP"
   },
   {
+    "titol": "Nervi",
+    "edat": "10",
+    "orig": "TP",
+    "novetat": true
+  },
+  {
     "titol": "Samuel",
     "edat": "10",
     "orig": "TP"
