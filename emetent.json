@@ -10,9 +10,10 @@
     "orig": "7"
   },
   {
-    "titol": "Plats bruts",
-    "edat": "13",
-    "orig": "10"
+    "titol": "Nervi",
+    "edat": "10",
+    "orig": "TP",
+    "novetat": true
   },
   {
     "titol": "L&apos;acadèmia",
@@ -20,20 +21,19 @@
     "orig": "10"
   },
   {
-    "titol": "APM?",
-    "edat": "13",
-    "orig": "10"
+    "titol": "Jo mai mai",
+    "edat": "18",
+    "orig": "13"
   },
   {
-    "titol": "Col·lapse",
-    "edat": "13",
+    "titol": "O. J. Simpson: Sang, mentides i assassinat",
+    "edat": "18",
     "orig": "TP"
   },
   {
-    "titol": "Nervi",
-    "edat": "10",
-    "orig": "TP",
-    "novetat": true
+    "titol": "Punt de no retorn",
+    "edat": "13",
+    "orig": "18"
   },
   {
     "titol": "Samuel",
