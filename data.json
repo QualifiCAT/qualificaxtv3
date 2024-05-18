@@ -1757,7 +1757,7 @@
     "codi": "6243834",
     "edat": "13",
     "raons": "Comentaris discriminatoris presentats de manera neutra",
-    "mesinfo": "<b>Discriminació, racisme i xenofòbia</b><br>Una entrevistada fa comentaris que es podrien considerar capacitistes i masclistes, quan anomena 'boig' a un fan seu que va acabar internat en un psiquiàtric, i relativitza la violència masclista i el fet que adolescents facin de models per fer fotografies eròtiques o accedeixin a pornografia. En un tràiler d'una pel·lícula espanyola, es fan comentaris racistes també sense sancionar quan es diu que la pandèmia de la COVID-19 és culpa dels xinesos. D'altra banda, es fan referències a discriminació per LGTBI-fòbia, incloent-hi l'ús de l'expressió 'maricas', presentat de manera negativa.<br><br>Hi ha continguts sexuals ocasionals d'explicitació mitjana: es mostren imatges sensuals d'una entrevistada seminua, i es fan comentaris de caràcter sexual sobre ser verge, la pornografia i comparar-se pits, entre d'altres d'explicitació baixa. Hi ha llenguatge groller ocasional d'intensitat alta i baixa ('tocar els collons', 'fill de puta', 'acollonir', 'collonudes', 'hòstia', 'merda', 'cagar'). Hi ha violència ocasional, irreal, explícita, greu i no legitimada, quan es fa una broma sobre el suïcidi per ingestió de gasoil. Hi ha situacions de por i angoixa ocasional mitjana: es fan referències no detallades a la discriminació patida per persones LGTBI en el passat, es diu que una supervivent d'un intent de suïcidi va comentar-li a un cantant que les seves obres la van ajuda, i es fa broma sobre el gat de Schrödinger. Hi ha al·lusions ocasionals al consum d'alcohol presentat de manera neutra, si bé també se'n fan de negatives a altres drogues (sense concretar) i a l'alcoholisme en el relat que una entrevistada fa sobre el seu pare."
+    "mesinfo": "<b>Discriminació, racisme i xenofòbia</b><br>Una entrevistada fa comentaris que es podrien considerar capacitistes i masclistes, quan anomena 'boig' a un fan seu que va acabar internat en un psiquiàtric, i relativitza la violència masclista i el fet que adolescents facin de models per fer fotografies eròtiques o accedeixin a pornografia. En un tràiler d'una pel·lícula espanyola, es fan comentaris racistes també sense sancionar quan es diu que la pandèmia de la COVID-19 és culpa dels xinesos. D'altra banda, es fan referències a discriminació per LGTBI-fòbia, incloent-hi l'ús de l'expressió 'maricas', presentat de manera negativa.<br><br>Hi ha continguts sexuals ocasionals d'explicitació mitjana: es mostren imatges sensuals d'una entrevistada seminua, i es fan comentaris de caràcter sexual sobre ser verge, la pornografia i comparar-se pits, entre d'altres d'explicitació baixa. Hi ha llenguatge groller ocasional d'intensitat alta i baixa ('tocar els collons', 'fill de puta', 'acollonir', 'collonudes', 'hòstia', 'merda', 'cagar'). Hi ha violència ocasional, irreal, explícita, greu i no legitimada, quan es fa una broma sobre el suïcidi per ingestió de gasoil. Hi ha situacions de por i angoixa ocasional mitjana: es fan referències no detallades a la discriminació patida per persones LGTBI en el passat, es diu que una supervivent d'un intent de suïcidi va comentar-li a un cantant que les seves obres la van ajudar, i es fa broma sobre el gat de Schrödinger. Hi ha al·lusions ocasionals al consum d'alcohol presentat de manera neutra, si bé també se'n fan de negatives a altres drogues (sense concretar) i a l'alcoholisme en el relat que una entrevistada fa sobre el seu pare."
   },
   {
     "titol": "Com dibuixar còmics amb el Will Sliney",
@@ -9500,6 +9500,34 @@
     "x3": true,
     "raons": "Por i angoixa freqüent d'afectació lleu",
     "mesinfo": "<b>Por i angoixa</b><br>La pel·lícula comença mostrant uns edificis incendiats i explosions i una nena que gairebé cau per un penya-segat mentre intenta escapar d'uns guàrdies que la segueixen; el vent i les flames fan que perdi el control i cau. Una flor blava misteriosa espurneja i, més tard, fa aparèixer una boira espessa que fa atemorir uns gats. Una nena volant en una escombra té por de caure perquè no la sap controlar i entra dins un núvol de tempesta. En una universitat, és rebuda per una dona que inicialment es presenta com un ésser aquàtic gegant, i els estudiants duen màscares tenebroses. Mentre intenta fer un encanteri, la nena crea sense voler un tornado que ho regira tot. Més tard, aquest ésser es torna a presentar davant seu per comunicar-li que han atrapat el seu amic. Quan torna a la universitat, ella és capturada i tancada junt amb el seu amic i uns animals transformats en monstres, atrapats en gàbies, que eventualment recuperen la seva forma original. Aquests animals etziben violentament una porta per escapar i ho destrossen tot. Més tard, el noi torna a ser atrapat. Ella torna a una casa i, en una dramàtica escena, parla amb una noia i una dona gran, que es preocupen per ella, per un mirall màgic. Una dona i unes criatures persegueixen i intenten sabotejar la nena, que torna a caure de l'escombra; té rascades a la mà i plora. Quan hi torna, el seu amic es troba en un recipient mentre li fan experiments, una mena de tubs aquàtics s'introdueixen dins seu. El recipient explota i la massa blava es descontrola, es fa grossa i ho ataca tot, mentre el noi fa esforços per treure el cap. La pel·lícula té una resolució positiva.<br><br>En un primer moment, la protagonista menteix sobre les seves habilitats o furta un objecte, cosa que, eventualment, li comporta conseqüències negatives."
+  },
+  {
+    "titol": "Mascotes sapastres",
+    "codi": "mascotes-sapatres",
+    "edat": "0",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
+  },
+  {
+    "titol": "Mascotes sapastres 1x01 - Arriben les mascotes més divertides",
+    "codi": "6281750",
+    "edat": "0"
+  },
+  {
+    "titol": "Mascotes sapastres 1x02",
+    "codi": "6281751",
+    "edat": "0"
+  },
+  {
+    "titol": "Mascotes sapastres 1x03",
+    "codi": "6281771",
+    "edat": "0"
+  },
+  {
+    "titol": "Mascotes sapastres 1x04",
+    "codi": "6281772",
+    "edat": "0"
   },
   {
     "titol": "Mazinger Z: Infinity",
