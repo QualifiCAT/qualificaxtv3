@@ -3474,6 +3474,28 @@
     "mesinfo": "<b>Drogues</b><br>Es veuen imatges de joves bebent en discoteques, i es parla de perdre el control i de mantenir un grup de missatgeria instantània per estar al corrent dels controls d'alcoholèmia a la carretera per tal d'evitar-los. Els joves també queden en un bar per beure birres. Es fa també al·lusió al consum de tabac per part de joves.<br><br>Hi ha al·lusions sexuals ocasionals d'explicitació mitjana, quan es menciona que en grups de missatgeria instantània es pot tirar la canya i 'follar', i es mostra molt breument un mem amb al·lusions a abusos sexuals a menors. Hi ha llenguatge groller ocasional d'intensitat alta ('què collons', 'hòstia', 'cagar', 'merda'). Hi ha conductes incíviques presentades de manera neutra quan es relata que els joves protagonistes van crear una aplicació per vigilar els mossos i que un d'ells va vendre la informació a un grup criminal perquè necessitava diners, i es comenta que van fer invents per despistar la vigilància policial; finalment, acaben entregant-se a la policia, però sense revelar-los la contrasenya de l'aplicatiu, que han amagat en un lloc secret ja que desconfien de la policia. Hi ha situacions ocasionals de por o angoixa d'afectació mitjana quan es relata la vigilància policial permanent a la que van estar sotmesos els nois."
   },
   {
+    "titol": "El tros",
+    "codi": "el-tros",
+    "edat": "13",
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "El tros 1x01 - Cada ovella amb sa parella",
+    "codi": "6282168",
+    "edat": "10",
+    "raons": "Al·lusions al consum de drogues lícites (alcohol), presentat de manera neutra<br>Llenguatge groller freqüent d'intensitat baixa",
+    "mesinfo": "<b>Drogues</b><br>Es fan referències ocasionals i neutres al consum de begudes alcohòliques com cerveses o gintònics en un context social.<br><br><b>Llenguatge groller</b><br>Es diu 'hòstia' (13 vegades), 'cagats de por', 'influmierder', 'merda' (2 vegades), 'fotre' (3 vegades), 'joder', 'a tomar pel sac' i 'quina putada'. En cap cas s'utilitzen agressivament, però. La presentadora pregunta, entre rialles, si el nom d'un ninot de peluix anomenat Mipo és un diminutiu d'alguna cosa.<br><br>Hi ha situacions ocasionals de por i angoixa lleu quan una noia s'emociona en recordar el seu difunt padrí, i també quan unes persones inexpertes esquilen una ovella en una activitat del programa, tot i que sense provocar-li mal aparentment."
+  },
+  {
+    "titol": "El tros 1x03 - Amb la merda al coll",
+    "codi": "6283028",
+    "edat": "13",
+    "raons": "Llenguatge groller freqüent d'intensitat alta",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'merda' (23 vegades, se n'abusa degut a que una de les activitats del concurs consisteix en transportar fems), 'hòstia' (7 vegades), 'joder' (3 vegades), 'collons!' (2 vegades), 'ni puto cas' (2 vegades), 'soc el puto amo' o 'me cago en la puta'. La majoria d'aquestes expressions es concentren en la primera meitat de l'episodi i es fan servir de manera gratuïta o en un context agressiu, ja que els membres d'un grup tenen freqüents discussions entre ells i amb els membres del jurat.<br><br>Hi ha conductes incíviques presentades negativament, atès que un dels membres del grup té un comportament arrogant i verbalment agressiu amb la resta però acaba disculpant-se públicament."
+  },
+  {
     "titol": "El xai Shaun",
     "codi": "xai-shaun",
     "edat": "0",
