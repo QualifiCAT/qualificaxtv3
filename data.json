@@ -11028,7 +11028,7 @@
     "titol": "Punt de no retorn",
     "codi": "punt-de-no-retorn",
     "edat": "13",
-    "orig": "18 (excepte episodi 2 i 5 -només en la versió subtitulada en anglès-, i prèviament 3, 4 i 5 -en la versió subtitulada al català-: TP)",
+    "orig": "Variable, la majoria d'episodis són 18",
     "serie": true,
     "tv3": true,
     "3cat": true
@@ -11048,6 +11048,13 @@
     "raons": "Por i angoixa ocasional d'afectació lleu"
   },
   {
+    "titol": "Punt de no retorn 1x03 - L'última frontera",
+    "codi": "6238815",
+    "edat": "10",
+    "orig": "18 (prèviament: TP)",
+    "raons": "Por i angoixa freqüent d'afectació mitjana"
+  },
+  {
     "titol": "Punt de no retorn 1x04 - El sacrifici del front d'Ucraïna",
     "codi": "6252239",
     "edat": "13",
@@ -11059,7 +11066,7 @@
     "titol": "Punt de no retorn 1x05 - Indígenes del Canadà liderant la batalla pel clima",
     "codi": "6258338",
     "edat": "7",
-    "orig": "18 (només la versió subtitulada al català) (prèviament: TP)",
+    "orig": "18 (només la versió subtitulada al català) (prèviament, i en la versió subtitulada en anglès: TP)",
     "raons": "Por i angoixa freqüent d'afectació lleu<br>Comportaments discriminatoris amb sanció negativa<br>Conductes i valors incívics amb sanció negativa"
   },
   {
