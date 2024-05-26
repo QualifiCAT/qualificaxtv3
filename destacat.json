@@ -1,5 +1,14 @@
 [
   {
+    "titol": "Un cap de setmana mortal",
+    "codi": "Un cap de setmana mortal",
+    "edat": "13",
+    "violencia": true,
+    "orig": "TP",
+    "peli": true,
+    "tv3": true
+  },
+  {
     "titol": "El tros<br><small><i>2 capítols</i></small>",
     "codi": "El tros##",
     "edat": "13",
@@ -45,14 +54,5 @@
     "orig": "7",
     "serie": true,
     "3cat": true
-  },
-  {
-    "titol": "El Rei Peret",
-    "codi": "El Rei Peret",
-    "edat": "13",
-    "llenguatge": true,
-    "orig": "10",
-    "peli": true,
-    "tv3": true
   }
 ]
