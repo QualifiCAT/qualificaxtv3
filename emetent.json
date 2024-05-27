@@ -10,10 +10,14 @@
     "orig": "7"
   },
   {
-    "titol": "Nervi",
-    "edat": "10",
-    "orig": "TP",
-    "novetat": true
+    "titol": "La travessa",
+    "edat": "13",
+    "orig": "TP"
+  },
+  {
+    "titol": "Èpic nails",
+    "edat": "13",
+    "orig": "TP"
   },
   {
     "titol": "Plats bruts",
@@ -26,17 +30,17 @@
     "orig": "13"
   },
   {
-    "titol": "O. J. Simpson: Sang, mentides i assassinat",
-    "edat": "18",
-    "orig": "18"
-  },
-  {
     "titol": "Punt de no retorn",
     "edat": "13",
     "orig": "18"
   },
   {
     "titol": "Samuel",
+    "edat": "10",
+    "orig": "TP"
+  },
+  {
+    "titol": "Fuet",
     "edat": "10",
     "orig": "TP"
   },
@@ -51,9 +55,9 @@
     "orig": "TP"
   },
   {
-    "titol": "One Piece",
-    "edat": "13",
-    "orig": "10"
+    "titol": "Les Sisters",
+    "edat": "7",
+    "orig": "TP"
   },
   {
     "titol": "El detectiu Conan",
@@ -64,11 +68,5 @@
     "titol": "Black Clover",
     "edat": "13",
     "orig": "13"
-  },
-  {
-    "titol": "Mascotes sapastres",
-    "edat": "0",
-    "orig": "TP",
-    "novetat": true
   }
 ]
