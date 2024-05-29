@@ -1,5 +1,12 @@
 [
   {
+    "titol": "FIC-CAT",
+    "codi": "FIC-CAT",
+    "edat": "13",
+    "orig": "Variable",
+    "3cat": true
+  },
+  {
     "titol": "Un cap de setmana mortal",
     "codi": "Un cap de setmana mortal",
     "edat": "13",
@@ -45,14 +52,5 @@
     "orig": "TP",
     "peli": true,
     "tv3": true
-  },
-  {
-    "titol": "El món de Pepe Rubianes<br><small><i>1 episodi</i></small>",
-    "codi": "El món de Pepe Rubianes##",
-    "edat": "13",
-    "llenguatge": true,
-    "orig": "7",
-    "serie": true,
-    "3cat": true
   }
 ]
