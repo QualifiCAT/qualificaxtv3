@@ -3524,7 +3524,7 @@
     "codi": "6283028",
     "edat": "13",
     "raons": "Llenguatge groller freqüent d'intensitat alta",
-    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'merda' (23 vegades, se n'abusa degut a que una de les activitats del concurs consisteix en transportar fems), 'hòstia' (7 vegades), 'joder' (3 vegades), 'collons!' (2 vegades), 'ni puto cas' (2 vegades), 'soc el puto amo' o 'me cago en la puta'. La majoria d'aquestes expressions es concentren en la primera meitat de l'episodi i es fan servir de manera gratuïta o en un context agressiu, ja que els membres d'un grup tenen freqüents discussions entre ells i amb els membres del jurat. Un d'ells té un comportament arrogant i verbalment agressiu amb la resta, però finalment es disculpa públicament."
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'merda' (més de 20 vegades, se n'abusa degut a que una de les activitats del concurs consisteix en transportar fems), 'hòstia' (7 vegades), 'joder' (3 vegades), 'collons!' (2 vegades), 'ni puto cas' (2 vegades), 'soc el puto amo' o 'me cago en la puta'. La majoria d'aquestes expressions es concentren en la primera meitat de l'episodi i es fan servir de manera gratuïta o en un context agressiu, ja que els membres d'un grup tenen freqüents discussions entre ells i amb els membres del jurat. Un d'ells té un comportament arrogant i verbalment agressiu amb la resta, però finalment es disculpa públicament."
   },
   {
     "titol": "El xai Shaun",
@@ -4392,6 +4392,54 @@
     "edat": "0",
     "orig": "TP",
     "raons": "Violència ocasional, versemblant, no explícita, d'intensitat molt lleu, no legitimada"
+  },
+  {
+    "titol": "FIC-CAT - Un abans i un després",
+    "codi": "6283522",
+    "edat": "0",
+    "orig": "TP"
+  },
+  {
+    "titol": "FIC-CAT - Els colors de la vida que du a dins",
+    "codi": "6283528",
+    "edat": "7",
+    "orig": "TP",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "FIC-CAT - Dicromàtic",
+    "codi": "6283530",
+    "edat": "10",
+    "orig": "TP",
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat greu, no legitimada<br>Consum de drogues lícites (tabac), presentat de manera neutra"
+  },
+  {
+    "titol": "FIC-CAT - Bulos",
+    "codi": "6283532",
+    "edat": "10",
+    "orig": "TP",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa"
+  },
+  {
+    "titol": "FIC-CAT - La mestra",
+    "codi": "6283537",
+    "edat": "0",
+    "orig": "TP",
+    "raons": "Por i angoixa ocasional d'afectació lleu"
+  },
+  {
+    "titol": "FIC-CAT - ESO, educació sonada obligatòria",
+    "codi": "6283535",
+    "edat": "10",
+    "orig": "TP",
+    "raons": "Llenguatge groller ocasional d'intensitat alta"
+  },
+  {
+    "titol": "FIC-CAT - El reflex",
+    "codi": "6283536",
+    "edat": "7",
+    "orig": "TP",
+    "raons": "Por i angoixa freqüent d'afectació lleu"
   },
   {
     "titol": "Flying Squirrels",
