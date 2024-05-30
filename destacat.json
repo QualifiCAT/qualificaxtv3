@@ -44,13 +44,14 @@
     "tv3": true
   },
   {
-    "titol": "Quan Hitler em va robar el conillet rosa",
-    "codi": "Quan Hitler em va robar el conillet rosa",
+    "titol": "Aitana Bonmatí<br><small><i>capítols 1 i 2</i></small>",
+    "codi": "Nits Sense ficció##",
     "edat": "10",
-    "violencia": true,
     "drogues": true,
+    "llenguatge": true,
     "orig": "TP",
-    "peli": true,
-    "tv3": true
+    "serie": true,
+    "tv3": true,
+    "separat": true
   }
 ]
