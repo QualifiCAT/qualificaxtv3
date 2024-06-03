@@ -30,6 +30,11 @@
     "orig": "7"
   },
   {
+    "titol": "Punt de no retorn",
+    "edat": "13",
+    "orig": "18"
+  },
+  {
     "titol": "Samuel",
     "edat": "10",
     "orig": "TP"
@@ -58,5 +63,10 @@
     "titol": "El detectiu Conan",
     "edat": "13",
     "orig": "7"
+  },
+  {
+    "titol": "Black Clover",
+    "edat": "13",
+    "orig": "13 (web: 12)"
   }
 ]
