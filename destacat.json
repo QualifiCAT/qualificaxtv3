@@ -44,13 +44,12 @@
     "tv3": true
   },
   {
-    "titol": "Aitana Bonmatí<br><small><i>capítols 1 i 2</i></small>",
-    "codi": "Nits Sense ficció##",
-    "edat": "10",
-    "drogues": true,
+    "titol": "El Rei Peret",
+    "codi": "El Rei Peret",
+    "edat": "13",
     "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
+    "orig": "10",
+    "peli": true,
     "tv3": true,
     "separat": true
   }
