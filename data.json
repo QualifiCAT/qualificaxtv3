@@ -889,7 +889,7 @@
     "titol": "Black Clover 4",
     "codi": "6195767",
     "edat": "10",
-    "raons": "Violència ocasional, irreal, no explícita, d'intensitat lleu, legitimada<br>Consum de tabac presentat de forma neutra"
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat lleu, legitimada<br>Consum de de drogues lícites (tabac), presentades de forma neutra"
   },
   {
     "titol": "Black Clover 5",
@@ -913,7 +913,7 @@
     "titol": "Black Clover 8",
     "codi": "6196691",
     "edat": "10",
-    "raons": "Consum de drogues lícites (tabac, alcohol), presentades de forma neutra<br>Llenguatge groller freqüent d'intensitat baixa"
+    "raons": "Consum de drogues lícites (tabac, alcohol), presentades de forma neutra<br>Comentaris masclistes amb sanció neutra<br>Llenguatge groller freqüent d'intensitat baixa"
   },
   {
     "titol": "Black Clover 9",
@@ -936,8 +936,8 @@
   {
     "titol": "Black Clover 12",
     "codi": "6198322",
-    "edat": "7",
-    "raons": "Violència ocasional, irreal, no explícita, d'intensitat lleu, no legitimada<br>Por i angoixa freqüent d'afectació lleu<br>Comportaments discriminatoris amb sanció negativa<br>Llenguatge groller ocasional d'intensitat baixa"
+    "edat": "10",
+    "raons": "Consum de drogues lícites (tabac), presentades de forma neutra"
   },
   {
     "titol": "Black Clover 13",
@@ -967,7 +967,7 @@
     "titol": "Black Clover 17",
     "codi": "6200435",
     "edat": "10",
-    "raons": "Violència freqüent, irreal, no explícita, d'intensitat lleu, legitimada (amb presència de sang)"
+    "raons": "Violència freqüent, irreal, no explícita, d'intensitat lleu, legitimada"
   },
   {
     "titol": "Black Clover 18",
@@ -997,7 +997,7 @@
     "titol": "Black Clover 22",
     "codi": "6201845",
     "edat": "10",
-    "raons": "Violència reiterada, irreal, no explícita, d'intensitat lleu, legitimada (amb presència de sang)<br>Por i angoixa reiterada d'afectació lleu<br>Llenguatge groller reiterat d'intensitat baixa"
+    "raons": "Violència reiterada, irreal, no explícita, d'intensitat lleu, legitimada<br>Por i angoixa reiterada d'afectació lleu<br>Llenguatge groller reiterat d'intensitat baixa"
   },
   {
     "titol": "Black Clover 23",
