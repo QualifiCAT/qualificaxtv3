@@ -7195,7 +7195,7 @@
   {
     "titol": "L'eclipsi",
     "codi": "eclipsi",
-    "edat": "7",
+    "edat": "10",
     "orig": "TP",
     "serie": true,
     "3cat": true
@@ -7206,6 +7206,13 @@
     "edat": "7",
     "raons": "Llenguatge groller ocasional d'intensitat baixa",
     "mesinfo": "<b>Llenguatge groller</b><br>Es fan servir expressions malsonants en un context distès i sense ànim d'insultar a ningú: 's'ha de ser curt', 'la gent és tonta', 'estava molt fotuda', 'me la fotré', 'hòstia'."
+  },
+  {
+    "titol": "L'eclipsi 1x02 - Nil Moliner",
+    "codi": "6285838",
+    "edat": "10",
+    "raons": "Al·lusions al consum de drogues lícites (tabac, alcohol) i il·lícites (marihuana), presentades de manera negativa<br>Llenguatge groller freqüent d'intensitat baixa",
+    "mesinfo": "<b>Drogues</b><br>L'entrevistat explica que va tocar ebri en una actuació i el van renyar, i des de llavors no ha consumit més alcohol perquè considera que no el necessita. També explica que va tenir una 'mala experiència' amb la marihuana i que es va estar quatre anys amb ansietat fins que va rebre l'ajuda que necessitava. L'entrevistador comenta en to d'humor quins són els remeis que ell pren contra la ressaca i diu que ell es defineix com a aquell que 'aguanta el gintònic a la barra' a les festes. També comenta que va deixar de fumar i que també va tenir una experiència dolenta amb la marihuana, però que no ha pres mai cap droga dura perquè li fan por. Tot i la presència ocasional d'alguns comentaris sobre les drogues en to neutre, generalment es manté una sanció negativa vers el consum d'aquestes substàncies.<br><br><b>Llenguatge groller</b><br>Es fan servir expressions malsonants en un context distès i sense ànim d'insultar a ningú: 'hòstia' (10 vegades), 'fotut' (2 cops), 'cagat', 'ets el puto amo', 'fins als ous'.<br><br>Hi ha referències ocasionals a continguts sexuals d'explicitació baixa quan pregunten quina postura sexual no ha practicat mai l'entrevistat amb la seva parella i respon 'el salt del tigre', sense explicar en què consisteix."
   },
   {
     "titol": "L'home del cor de ferro (2017)",
