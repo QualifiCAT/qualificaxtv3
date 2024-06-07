@@ -3975,6 +3975,21 @@
     "mesinfo": "<b>Sexe</b><br>En una ocasió, es diu que les persones que es disfressen de Spider-Man ho fan per raons fetitxistes. També es fan insinuacions d'explicitació baixa quan es compara discretament la forma d'un estri amb la d'un vibrador i quan es menciona el nom d'un actor porno quan es parla de plàtans.<br><br><b>Llenguatge groller</b><br>Durant tot el programa es fan servir expressions com 'hòstia', 'merda', 'fotre', 'cabrones', 'vés a cagar', 'fins als ous' o 'puto estrés' en un context distès i no ofensiu.<br><br>Es fan referències ocasionals i negatives al consum d'alcohol."
   },
   {
+    "titol": "Estic AFK",
+    "codi": "estic-afk",
+    "edat": "10",
+    "orig": "TP",
+    "serie": true,
+    "3cat": true
+  },
+  {
+    "titol": "Estic AFK 1x01 - Jugant amb Figa Flawas",
+    "codi": "6285046",
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es fan servir expressions com 'fotre hòsties', 'merda' o 'emmerdats' de manera freqüent en un context distès i sense ànim d'insultar a ningú.<br><br>Es fa una al·lusió al suïcidi en un context metafòric. Hi ha violència ocasional, irreal, no explícita, molt lleu i no legitimada en imatges d'un videojoc on ninots es peguen amb paelles o es llencen al buit."
+  },
+  {
     "titol": "Eufòria",
     "codi": "euforia",
     "edat": "13",
@@ -7176,6 +7191,21 @@
     "edat": "7",
     "raons": "Llenguatge groller ocasional d'intensitat baixa",
     "mesinfo": "<b>Llenguatge groller</b><br>Un nen se sorprèn i diu 'joder', paraula que el narrador repeteix. De manera ocasional, repartides pel programa, també es poden sentir 'fot-li', 'hosti' o 'cagat'.<br><br>Hi ha situacions ocasionals de por o angoixa lleu quan el narrador fa comentaris sarcàstics dient que els nens o els au-pairs es poden fer mal, com 'que veig l'Elena a Urgències posant punts' o 'carpaccio de dit', i quan una nena clava una botifarra amb un ganivet i sona música de tensió. Vora el final, es mostra breument un home bebent vi a galet d'un porró."
+  },
+  {
+    "titol": "L'eclipsi",
+    "codi": "eclipsi",
+    "edat": "7",
+    "orig": "TP",
+    "serie": true,
+    "3cat": true
+  },
+  {
+    "titol": "L'eclipsi 1x01 - Laura Escanes",
+    "codi": "6285840",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es fan servir expressions malsonants en un context distès i sense ànim d'insultar a ningú: 's'ha de ser curt', 'la gent és tonta', 'estava molt fotuda', 'me la fotré', 'hòstia'."
   },
   {
     "titol": "L'home del cor de ferro (2017)",
