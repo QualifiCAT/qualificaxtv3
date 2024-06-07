@@ -1,5 +1,23 @@
 [
   {
+    "titol": "L'Eclipsi<br><small>Laura Escanes</small>",
+    "codi": "L&#39;Eclipsi##",
+    "edat": "7",
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "3cat": true
+  },
+  {
+    "titol": "Estic AFK<br><small>Jugant amb Figa Flawas</small>",
+    "codi": "Estic AFK##",
+    "edat": "10",
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "3cat": true
+  },
+  {
     "titol": "FIC-CAT",
     "codi": "FIC-CAT",
     "edat": "13",
@@ -33,24 +51,5 @@
     "orig": "TP",
     "serie": true,
     "x3": true
-  },
-  {
-    "titol": "30 minuts<br><small>Revolta pagesa</small>",
-    "codi": "30 minuts##",
-    "edat": "7",
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "El Rei Peret",
-    "codi": "El Rei Peret",
-    "edat": "13",
-    "llenguatge": true,
-    "orig": "10",
-    "peli": true,
-    "tv3": true,
-    "separat": true
   }
 ]
