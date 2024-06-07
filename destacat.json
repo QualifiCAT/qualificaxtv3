@@ -1,8 +1,9 @@
 [
   {
-    "titol": "L'eclipsi<br><small>Laura Escanes</small>",
+    "titol": "L'eclipsi<br><small>Laura Escanes<br>Nil Moliner</small>",
     "codi": "L&#39;eclipsi##",
-    "edat": "7",
+    "edat": "10",
+    "drogues": true,
     "llenguatge": true,
     "orig": "TP",
     "serie": true,
