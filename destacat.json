@@ -1,5 +1,14 @@
 [
   {
+    "titol": "El meu veí Totoro",
+    "codi": "El meu veí Totoro",
+    "edat": "0",
+    "por": true,
+    "orig": "TP",
+    "peli": true,
+    "x3": true
+  },
+  {
     "titol": "L'eclipsi<br><small>Laura Escanes<br>Nil Moliner</small>",
     "codi": "L&#39;eclipsi##",
     "edat": "10",
@@ -42,15 +51,5 @@
     "orig": "TP",
     "serie": true,
     "tv3": true
-  },
-  {
-    "titol": "Projecte Beta<br><small><i>Episodis 1-6 de la temporada 5</i></small>",
-    "codi": "Projecte Beta##",
-    "edat": "7",
-    "llenguatge": true,
-    "incivisme": true,
-    "orig": "TP",
-    "serie": true,
-    "x3": true
   }
 ]
