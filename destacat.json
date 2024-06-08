@@ -1,5 +1,15 @@
 [
   {
+    "titol": "La Haru al regne dels gats",
+    "codi": "La Haru al regne dels gats",
+    "edat": "7",
+    "violencia": true,
+    "discriminacio": true,
+    "orig": "TP",
+    "peli": true,
+    "x3": true
+  },
+  {
     "titol": "Kiki, l'aprenent de bruixa",
     "codi": "Kiki, l'aprenent de bruixa",
     "edat": "0",
@@ -43,13 +53,6 @@
     "llenguatge": true,
     "orig": "TP",
     "serie": true,
-    "3cat": true
-  },
-  {
-    "titol": "FIC-CAT",
-    "codi": "FIC-CAT",
-    "edat": "13",
-    "orig": "Variable",
     "3cat": true
   }
 ]
