@@ -1,5 +1,23 @@
 [
   {
+    "titol": "Kiki, l'aprenent de bruixa",
+    "codi": "Kiki, l'aprenent de bruixa",
+    "edat": "0",
+    "por": true,
+    "orig": "TP",
+    "peli": true,
+    "x3": true
+  },
+  {
+    "titol": "Arrietty i el món dels remenuts",
+    "codi": "Arrietty i el món dels remenuts",
+    "edat": "0",
+    "por": true,
+    "orig": "TP",
+    "peli": true,
+    "x3": true
+  },
+  {
     "titol": "El meu veí Totoro",
     "codi": "El meu veí Totoro",
     "edat": "0",
@@ -33,23 +51,5 @@
     "edat": "13",
     "orig": "Variable",
     "3cat": true
-  },
-  {
-    "titol": "Un cap de setmana mortal",
-    "codi": "Un cap de setmana mortal",
-    "edat": "13",
-    "violencia": true,
-    "orig": "TP",
-    "peli": true,
-    "tv3": true
-  },
-  {
-    "titol": "El tros<br><small><i>2 capítols</i></small>",
-    "codi": "El tros##",
-    "edat": "13",
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
   }
 ]
