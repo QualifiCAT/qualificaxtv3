@@ -598,7 +598,7 @@
   },
   {
     "titol": "Arrietty i el món dels remenuts",
-    "codi": "11111111111111111111111131111111111",
+    "codi": "6285691",
     "edat": "0",
     "orig": "TP",
     "imdb": "tt1568921",
@@ -7085,6 +7085,18 @@
     "serie": true,
     "disney": true,
     "misc": true
+  },
+  {
+    "titol": "Kiki, l'aprenent de bruixa",
+    "codi": "6286281",
+    "edat": "0",
+    "orig": "TP",
+    "imdb": "tt0097814",
+    "csm": "movie-reviews/kikis-delivery-service",
+    "peli": true,
+    "x3": true,
+    "raons": "Por i angoixa ocasional d'afectació lleu",
+    "mesinfo": "<b>Por i angoixa</b><br>Hi ha alguns moments de breu durada en què la protagonista és sorpresa per una forta tempesta o gairebé és atropellada a la ciutat mentre vola en escombra. Hi ha un moment en què és empaitada per una munió de corbs que es pensen que li ha robat uns ous. Després de volar mentre plovia, la noia es refreda i es pregunta, melodramàtica, si es morirà. Al final de la pel·lícula, en algunes escenes relativament prolongades, veiem com un zepelí descontrolat provoca el caos a la ciutat i impacta contra uns edificis, mentre un noi n'hi penja d'una corda i és rescatat a l'últim segon.<br><br>Hi ha un sol ús de llenguatge groller en tota la pel·lícula quan li diuen a un noi, qui acaba de conèixer a la protagonista, si ja està lligant altre cop, i els respon 'que no, burro!'. Es presenten molt ocasionalment valors incívics d'una manera fàcilment comprensible per a infants de molt poca edat; per exemple, una noia amb un rol negatiu i minoritari menysprea un pastís que amb tant d'afecte li han preparat la seva àvia i la protagonista."
   },
   {
     "titol": "Kung Fu Panda: Les potes del destí",
