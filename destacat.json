@@ -1,5 +1,18 @@
 [
   {
+    "titol": "Nits Sense ficció<br><small>Atrapats per la pantalla</small>",
+    "codi": "Nits Sense ficció##",
+    "edat": "10",
+    "violencia": true,
+    "sexe": true,
+    "por": true,
+    "drogues": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "On és la pasta?<br><small>Can Putades</small>",
     "codi": "On és la pasta?##",
     "edat": "13",
@@ -45,15 +58,5 @@
     "orig": "TP",
     "peli": true,
     "x3": true
-  },
-  {
-    "titol": "L'eclipsi<br><small>Laura Escanes<br>Nil Moliner</small>",
-    "codi": "L&#39;eclipsi##",
-    "edat": "10",
-    "drogues": true,
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "3cat": true
   }
 ]
