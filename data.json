@@ -10399,6 +10399,21 @@
     "x3": true
   },
   {
+    "titol": "On és la pasta?",
+    "codi": "on-es-la-pasta",
+    "edat": "13",
+    "orig": "7",
+    "serie": true,
+    "3cat": true
+  },
+  {
+    "titol": "On és la pasta? 1x01 - Can Putades",
+    "codi": "6286525",
+    "edat": "13",
+    "raons": "Llenguatge groller reiterat d'intensitat alta<br>Conductes i valors incívics amb sanció positiva",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es parla recurrentment de fer-se 'putades' en referència al nom del grup participant. Mentre busquen els diners, les concursants utilitzen llenguatge amb càrrega malsonant alta, demostrant la seva angoixa: 'on és la puta pasta?', 'hòstia puta', 'puta merda', 'joder', 'me càgon la puta', 'no hi ha una puta merda!', 'puta!', 'no estic trobant una puta merda!', 'què collons és això?', 'vaya mierda', 'merda, això com polles s'obre?', 'molta puta pasta he trobat', 'no sé com merdes', 'un puto euro', 'però què polles és això?', 'anem obrint aquestes putes merdes', 'com merdes ho treiem això', 'al cantó de la polla', 'acabo d'obrir un puto coixí', 'ens ha ajudat un colló', 'quina puta peste', 'ah que és puta conya?', 'ah hòstia! puta merda! puta... mer... da!', 'me càgon la puta', i així tot el programa. No cal dir que excedeix la freqüència 'ocasional' i la intensitat 'baixa' requerida per poder qualificar aquest programa +7.<br><br><b>Conductes i valors incívics</b><br>Per tal d'assolir els seus objectius d'aconseguir el màxim de diners possible en el context d'un concurs televisiu, les concursants deixen tota la casa destrossada, fent malbé objectes seus i que no són seus a consciència. La narració del programa diu que així han 'reforçat els seus vincles d'amistat'. També utilitzen estris com ganivets de forma irreflexiva.<br><br>Hi ha continguts sexuals ocasionals d'explicitació mitjana quan es fa referència a vibradors i a condons, i s'ensenya un imant en forma de genitals masculins."
+  },
+  {
     "titol": "One Piece",
     "codi": "one-piece",
     "edat": "13",
