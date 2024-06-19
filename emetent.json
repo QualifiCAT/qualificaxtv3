@@ -1,13 +1,13 @@
 [
   {
-    "titol": "*Eufòria",
-    "edat": "10",
-    "orig": "TP"
-  },
-  {
     "titol": "Polònia",
     "edat": "13",
     "orig": "7"
+  },
+  {
+    "titol": "Està passant",
+    "edat": "13",
+    "orig": "TP"
   },
   {
     "titol": "La travessa",
@@ -25,12 +25,12 @@
     "orig": "10"
   },
   {
-    "titol": "El món de Pepe Rubianes",
-    "edat": "13",
-    "orig": "7"
+    "titol": "L&#39;eclipsi",
+    "edat": "10",
+    "orig": "TP"
   },
   {
-    "titol": "Punt de no retorn",
+    "titol": "Pisos d#39;estudiants",
     "edat": "13",
     "orig": "18"
   },
@@ -40,13 +40,13 @@
     "orig": "TP"
   },
   {
-    "titol": "Samuel",
+    "titol": "Trollhunters: Contes d#39;Arcàdia",
     "edat": "10",
-    "orig": "TP"
+    "orig": "7"
   },
   {
-    "titol": "Fuet",
-    "edat": "10",
+    "titol": "Kung Fu Panda: Llegendes increïbles",
+    "edat": "7",
     "orig": "TP"
   },
   {
