@@ -1728,6 +1728,22 @@
     "mesinfo": "<b>Violència</b><br>Chop fa córrer un cotxe de joguina i intenta utilitzar una de les rodes en moviment com si fos una radial per poder tallar el nus de la cua que l'uneix a Chip."
   },
   {
+    "titol": "Churails",
+    "codi": "churails",
+    "edat": "18",
+    "orig": "12",
+    "imdb": "tt12803682",
+    "serie": true,
+    "3cat": true
+  },
+  {
+    "titol": "Churails 1x04 - Honor",
+    "codi": "6287635",
+    "edat": "18",
+    "raons": "Violència ocasional, versemblant, molt explícita, d'intensitat molt greu, legitimada",
+    "mesinfo": "<b>Violència</b><br>Una dona, després de conèixer que és gai i que l'enganya, decapita el seu home amb un ganivet (no es veu com li talla el coll, però sí com surt la sang a borbolls fins que mor) i s'alimenta de la seva carn després de mutilar-lo (es veu el cos ensangonat i com li falta un peu enmig d'un bassal de sang). Es veu una dona morta a la banyera després de suïcidar-se tallant-se les venes. Un home intenta abusar sexualment de la seva filla i la mare el pega amb una planxa fins matar-lo davant seu (no explícit, però se senten sorolls gore i la seva cara queda completament tacada). Hi ha altres escenes de violència d'intensitat lleu i d'una situació d'assetjament sexual perpetuada per un nen.<br><br>Hi ha conductes incíviques presentades de manera positiva, atès que la trama tracta sobre unes dones que intenten suborns, eludeixen la policia i espien il·legalment per tal de descobrir, per encàrrec de les seves dones, si uns homes estan sent infidels. Hi ha llenguatge groller freqüent d'intensitat alta. Hi ha comportaments discriminatoris presentats de manera negativa, per raó d'orientació sexual, gènere, aparença física i identitat de gènere. Hi ha continguts sexuals d'explicitació mitjana en forma d'al·lusions a la prostitució i al sexe oral. Hi ha consum de drogues lícites (tabac i alcohol) presentat de manera neutra."
+  },
+  {
     "titol": "Cibercrims",
     "codi": "cibercrims",
     "edat": "13",
