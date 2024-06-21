@@ -1,5 +1,14 @@
 [
   {
+    "titol": "Churails<br><small><i>1 episodi</i></small>",
+    "codi": "Churails##",
+    "edat": "18",
+    "violencia": true,
+    "orig": "12",
+    "serie": true,
+    "3cat": true
+  },
+  {
     "titol": "Nits Sense ficció<br><small>La fugida</small>",
     "codi": "Nits Sense ficció##",
     "edat": "13",
@@ -47,15 +56,6 @@
     "edat": "7",
     "violencia": true,
     "discriminacio": true,
-    "orig": "TP",
-    "peli": true,
-    "x3": true
-  },
-  {
-    "titol": "Kiki, l'aprenent de bruixa",
-    "codi": "Kiki, l&#39;aprenent de bruixa",
-    "edat": "0",
-    "por": true,
     "orig": "TP",
     "peli": true,
     "x3": true
