@@ -1,14 +1,5 @@
 [
   {
-    "titol": "Polònia<br><small>20/06/2024</small>",
-    "codi": "Polònia##",
-    "edat": "13",
-    "llenguatge": true,
-    "orig": "7",
-    "serie": true,
-    "tv3": true
-  },
-  {
     "titol": "Nits Sense ficció<br><small>La fugida</small>",
     "codi": "Nits Sense ficció##",
     "edat": "13",
@@ -56,6 +47,15 @@
     "edat": "7",
     "violencia": true,
     "discriminacio": true,
+    "orig": "TP",
+    "peli": true,
+    "x3": true
+  },
+  {
+    "titol": "Kiki, l'aprenent de bruixa",
+    "codi": "Kiki, l&#39;aprenent de bruixa",
+    "edat": "0",
+    "por": true,
     "orig": "TP",
     "peli": true,
     "x3": true
