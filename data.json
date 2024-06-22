@@ -3604,6 +3604,17 @@
     "x3": true
   },
   {
+    "titol": "Els consells de l'Alice",
+    "codi": "6288536",
+    "edat": "10",
+    "orig": "TP",
+    "imdb": "tt8903840",
+    "peli": true,
+    "tv3": true,
+    "raons": "Consum de drogues lícites (tabac i alcohol) presentat de manera neutra",
+    "mesinfo": "<b>Drogues</b><br>S'inclouen escenes ocasionals en què diversos personatges fumen o beuen alcohol sense que hi hagi cap sanció dins el relat. Per exemple, en una escena, pregunten a una dona què vol beure i respon que vol whisky, i en una altra, un home surt a fumar per relaxar-se després de conèixer que perdrà la feina.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa ('merda', 'ets un tio collonut', 'merder', 'se me'n fot', 'parida', 'idiota', 'imbècil'). Hi ha situacions de discriminació amb sanció negativa quan un home amb rol negatiu insulta i menysprea una dona pel fet que ella no va poder atendre les seves trucades a temps, però acaba la conversa elogiant-la per la seva aparença física. Hi ha situacions ocasionals de por i angoixa lleu quan una dona es deprimeix i plora, i també per mencions fugaces a com van morir alguns personatges durant la Segona Guerra Mundial."
+  },
+  {
     "titol": "Els Dalton",
     "codi": "dalton",
     "edat": "7",
