@@ -1,5 +1,14 @@
 [
   {
+    "titol": "Teatre<br><small>Júnior</small>",
+    "codi": "Júnior",
+    "edat": "13",
+    "llenguatge": true,
+    "orig": "TP",
+    "peli": true,
+    "tv3": true
+  }, 
+  {
     "titol": "Projecte Beta<br><small><i>Episodis 7-10 de la temporada 5</i></small>",
     "codi": "Projecte Beta##",
     "edat": "7",
@@ -10,7 +19,7 @@
     "x3": true
   },
   {
-    "titol": "Els consells de l&apos;Alice",
+    "titol": "La gran pel·lícula<br><small>Els consells de l&apos;Alice</small>",
     "codi": "Els consells de l&apos;Alice",
     "edat": "10",
     "drogues": true,
@@ -38,25 +47,12 @@
     "tv3": true
   },
   {
-    "titol": "Jexi",
+    "titol": "Tarda de cine<br><small>Jexi</small>",
     "codi": "Jexi",
     "edat": "18",
     "drogues": true,
     "orig": "16",
     "peli": true,
-    "tv3": true
-  },
-  {
-    "titol": "Nits Sense ficció<br><small>Atrapats per la pantalla</small>",
-    "codi": "Nits Sense ficció##",
-    "edat": "10",
-    "violencia": true,
-    "sexe": true,
-    "por": true,
-    "drogues": true,
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
     "tv3": true
   }
 ]
