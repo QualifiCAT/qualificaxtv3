@@ -1,5 +1,18 @@
 [
   {
+    "titol": "Nits Sense ficció<br><small>Megamix brutal</small>",
+    "codi": "Megamix brutal#",
+    "edat": "10",
+    "violencia": true,
+    "sexe": true,
+    "por": true,
+    "drogues": true,
+    "llenguatge": true,
+    "orig": "10",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Leo da Vinci<br><small><i>4 episodis</i></small>",
     "codi": "Leo da Vinci#",
     "edat": "7",
@@ -44,15 +57,5 @@
     "orig": "12",
     "serie": true,
     "3cat": true
-  },
-  {
-    "titol": "Nits Sense ficció<br><small>La fugida</small>",
-    "codi": "Nits Sense ficció##",
-    "edat": "13",
-    "violencia": true,
-    "por": true,
-    "orig": "18",
-    "serie": true,
-    "tv3": true
   }
 ]
