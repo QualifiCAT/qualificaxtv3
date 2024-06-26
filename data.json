@@ -1933,7 +1933,7 @@
     "codi": "6288524",
     "edat": "10",
     "raons": "Continguts sexuals ocasionals d'explicitació mitjana<br>Llenguatge groller reiterat d'intensitat baixa<br>Conductes i valors incívics amb sanció neutra",
-    "mesinfo": "<b>Sexe</b><br>S'ensenya un cinturó de descàrregues elèctriques i un dels concursants pregunta: 'és una cosa de sadomasoquisme, això?'.<br><br><b>Llenguatge groller</b><br>De manera incessant durant tot el programa, es fan servir expressions com 'hòstia', 'fotre' o 'merda', encara que de manera distesa i mai amb ànim d'ofendre.<br><br><b>Conductes i valors incívics</b><br>El programa es basa essencialment en ridiculitzar personatges amb habilitats nul·les a la cuina, que es tradueixen en conductes imitables, perilloses o inadequades per a la salut.<br><br>Es fan referències negatives al consum d'alcohol. Hi ha violència ocasional, versemblant, no explícita i d'intensitat molt lleu, però legitimada, quan s'apliquen descàrregues elèctriques suaus a un concursant. Hi ha una situació de por d'afectació lleu quan es diu que se li han de treure les vísceres a un pollastre mort per cuinar-lo."
+    "mesinfo": "<b>Sexe</b><br>S'ensenya un cinturó de descàrregues elèctriques i un dels concursants pregunta: 'és una cosa de sadomasoquisme, això?'.<br><br><b>Llenguatge groller</b><br>De manera incessant durant tot el programa, es fan servir expressions com 'hòstia', 'fotre' o 'merda', encara que de manera distesa i mai amb ànim d'ofendre.<br><br><b>Conductes i valors incívics</b><br>El programa es basa essencialment en ridiculitzar personatges amb habilitats nul·les a la cuina, que es tradueixen en conductes imitables o que poden ser perilloses per a la salut.<br><br>Es fan referències negatives al consum d'alcohol. Hi ha violència ocasional, versemblant, no explícita i d'intensitat molt lleu, però legitimada, quan s'apliquen descàrregues elèctriques suaus a un concursant. Hi ha una situació de por d'afectació lleu quan es diu que se li han de treure les vísceres a un pollastre mort per cuinar-lo."
   },
   {
     "titol": "Cuina salvatge",
@@ -13638,7 +13638,7 @@
     "codi": "zona-zaping",
     "edat": "10",
     "orig": "7 (prèviament: TP)",
-    "cac": "10",
+    "cac": "10", 
     "serie": true,
     "tv3": true
   }
