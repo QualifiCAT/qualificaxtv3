@@ -1,5 +1,16 @@
 [
   {
+    "titol": "Cuina com puguis<br><small><i>1 programa</i></small>",
+    "codi": "Cuina com puguis##",
+    "edat": "10",
+    "sexe": true,
+    "llenguatge": true,
+    "incivisme": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Nits Sense ficció<br><small>Megamix brutal</small>",
     "codi": "Megamix brutal#",
     "edat": "10",
@@ -48,14 +59,5 @@
     "orig": "TP",
     "peli": true,
     "tv3": true
-  },
-  {
-    "titol": "Churails<br><small><i>1 episodi</i></small>",
-    "codi": "Churails##",
-    "edat": "18",
-    "violencia": true,
-    "orig": "12",
-    "serie": true,
-    "3cat": true
   }
 ]
