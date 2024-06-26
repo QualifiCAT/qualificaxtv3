@@ -52,12 +52,13 @@
     "x3": true
   },
   {
-    "titol": "La gran pel·lícula<br><small>Els consells de l&apos;Alice</small>",
-    "codi": "Els consells de l&apos;Alice",
-    "edat": "10",
-    "drogues": true,
-    "orig": "TP",
-    "peli": true,
-    "tv3": true
+    "titol": "Churails<br><small><i>1 episodi</i></small>",
+    "codi": "Churails##",
+    "edat": "18",
+    "violencia": true,
+    "orig": "12",
+    "serie": true,
+    "3cat": true,
+    "separat": true
   }
 ]
