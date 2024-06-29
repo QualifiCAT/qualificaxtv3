@@ -50,13 +50,14 @@
     "orig": "TP"
   },
   {
-    "titol": "Les Sisters",
-    "edat": "7",
-    "orig": "TP"
-  },
-  {
     "titol": "El detectiu Conan",
     "edat": "13",
     "orig": "7"
+  },
+  {
+    "titol": "Silverpoint",
+    "edat": "10",
+    "orig": "10",
+    "novetat": true
   }
 ]
