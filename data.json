@@ -12426,6 +12426,16 @@
     "raons": "Por i angoixa freqüent d'afectació mitjana"
   },
   {
+    "titol": "Silverpoint",
+    "codi": "silverpoint",
+    "edat": "10",
+    "orig": "10",
+    "imdb": "tt14644726",
+    "csm": "tv-reviews/silverpoint",
+    "serie": true,
+    "x3": true
+  },
+  {
     "titol": "Siyaya. Veniu a explorar",
     "codi": "siyaya-veniu-a-explorar",
     "edat": "7",
