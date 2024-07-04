@@ -1,5 +1,18 @@
 [
   {
+    "titol": "Nits Sense ficció<br><small>Matusalem</small>",
+    "codi": "Nits Sense ficció##",
+    "edat": "7",
+    "sexe": true,
+    "por": true,
+    "drogues": true,
+    "discriminacio": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Tens un minut?<br><small>03/07/2024</small>",
     "codi": "Tens un minut?##",
     "edat": "7",
@@ -42,15 +55,6 @@
     "serie": true,
     "x3": true
   },
-  {
-    "titol": "Teatre<br><small>Júnior</small>",
-    "codi": "Júnior",
-    "edat": "13",
-    "llenguatge": true,
-    "orig": "TP",
-    "peli": true,
-    "tv3": true
-  }, 
   {
     "titol": "Churails<br><small><i>1 episodi</i></small>",
     "codi": "Churails##",
