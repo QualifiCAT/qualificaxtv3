@@ -56,13 +56,14 @@
     "x3": true
   },
   {
-    "titol": "Churails<br><small><i>1 episodi</i></small>",
-    "codi": "Churails##",
+    "titol": "Asfalt<br><small><i>1 dels 6 episodis</i></small>",
+    "codi": "Asfalt##",
     "edat": "18",
-    "violencia": true,
-    "orig": "12",
+    "drogues": true,
+    "orig": "13",
     "serie": true,
     "3cat": true,
+    "tv3": true,
     "separat": true
   }
 ]
