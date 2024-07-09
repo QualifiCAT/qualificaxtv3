@@ -750,6 +750,21 @@
     "raons": "Violència reiterada, irreal, explícita, d'intensitat molt lleu, legitimada<br>Contingut sexual ocasional d'explicitació baixa<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
+    "titol": "Atrapats",
+    "codi": "atrapats",
+    "edat": "10",
+    "orig": "TP",
+    "serie": true,
+    "3cat": true
+  },
+  {
+    "titol": "Atrapats 1x01 - La venjança del rei",
+    "codi": "6291592",
+    "edat": "10",
+    "raons": "Llenguatge groller reiterat d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es fan servir constantment les expressions 'hòstia', 'merda' i 'fotre', i un cop cadascun, 'a prendre pel cul', 'tonto', 'joder' i 'hòstia puta'. No s'utilitzen de manera agressiva. Es fan diverses bromes escatològiques quan es diu que alguns dels actors van haver d'estar coberts d'excrement per a una obra o perquè tenien diarrea.<br><br>Hi ha situacions angoixants freqüents d'afectació lleu, quan els diferents actors entren en pànic quan veuen una paret de fusta moure's per tal d'esclafar un d'ells, i quan obren un cofre que és ple de cucs. Hi ha continguts sexuals en forma d'insinuacions d'explicitació baixa."
+  },
+  {
     "titol": "Avatar, la llegenda de la Korra",
     "codi": "avatar-la-llegenda-de-la-korra",
     "edat": "10",
