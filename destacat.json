@@ -1,5 +1,16 @@
 [
   {
+    "titol": "30 minuts<br><small>Ryanair, l'ombra del baix cost</small>",
+    "codi": "30 minuts##",
+    "edat": "7",
+    "por": true,
+    "llenguatge": true,
+    "incivisme": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Atrapats<br><small><i>1 episodi</i></small>",
     "codi": "Atrapats##",
     "edat": "10",
@@ -52,16 +63,5 @@
     "orig": "TP",
     "serie": true,
     "tv3": true
-  },
-  {
-    "titol": "Asfalt<br><small><i>1 dels 6 episodis</i></small>",
-    "codi": "Asfalt##",
-    "edat": "18",
-    "drogues": true,
-    "orig": "13",
-    "serie": true,
-    "3cat": true,
-    "tv3": true,
-    "separat": true
   }
 ]
