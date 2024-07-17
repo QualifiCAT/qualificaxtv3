@@ -17,7 +17,8 @@
   {
     "titol": "On és la pasta?",
     "edat": "13",
-    "orig": "7"
+    "orig": "7",
+    "novetat": true
   },
   {
     "titol": "Plats bruts",
@@ -25,17 +26,28 @@
     "orig": "10"
   },
   {
-    "titol": "Asfalt",
-    "edat": "18",
-    "orig": "13"
+    "titol": "Cuina com puguis",
+    "edat": "10",
+    "orig": "TP",
+    "novetat": true
   },
   {
-    "titol": "Trollhunters: contes d&apos;Arcàdia",
+    "titol": "El detectiu Conan",
+    "edat": "13",
+    "orig": "7"
+  },
+  {
+    "titol": "Trollhunters: Contes d&apos;Arcàdia",
     "edat": "10",
     "orig": "7"
   },
   {
-    "titol": "Kung Fu Panda: llegendes increïbles",
+    "titol": "Projecte Beta",
+    "edat": "10",
+    "orig": "TP"
+  },
+  {
+    "titol": "Kung Fu Panda: Les potes del destí",
     "edat": "7",
     "orig": "TP"
   },
@@ -45,18 +57,9 @@
     "orig": "TP"
   },
   {
-    "titol": "Els Dalton",
+    "titol": "Leo da Vinci",
     "edat": "7",
-    "orig": "TP"
-  },
-  {
-    "titol": "El detectiu Conan",
-    "edat": "13",
-    "orig": "7"
-  },
-  {
-    "titol": "Projecte Beta",
-    "edat": "10",
-    "orig": "TP"
+    "orig": "TP",
+    "novetat": true
   }
 ]
