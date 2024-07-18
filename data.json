@@ -3385,7 +3385,8 @@
     "edat": "13",
     "orig": "7",
     "serie": true,
-    "3cat": true
+    "3cat": true,
+    "tv3": true
   },
   {
     "titol": "El món de Pepe Rubianes 1x01 - Ashé Massai",
@@ -9157,7 +9158,8 @@
     "edat": "10",
     "orig": "TP",
     "serie": true,
-    "3cat": true
+    "3cat": true,
+    "tv3": true
   },
   {
     "titol": "Love cost 1x01 - Dani, obert a tot",
