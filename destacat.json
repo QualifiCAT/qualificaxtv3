@@ -1,5 +1,16 @@
 [
   {
+    "titol": "Punt de no retorn<br><small>Armats i dividits: por i paranoia a una guerra civil als EUA</small>",
+    "codi": "Punt de no retorn##",
+    "edat": "13",
+    "violencia": true,
+    "por": true,
+    "discriminacio": true,
+    "orig": "18",
+    "serie": true,
+    "3cat": true
+  },
+  {
     "titol": "Nits Sense ficció<br><small>Això no va de futbol</small>",
     "codi": "Nits Sense ficció##",
     "edat": "13",
@@ -20,7 +31,7 @@
     "tv3": true
   },
   {
-    "titol": "Atrapats<br><small><i>1 episodi</i></small>",
+    "titol": "Atrapats<br><small>La venjança del rei</small>",
     "codi": "Atrapats##",
     "edat": "10",
     "llenguatge": true,
@@ -47,16 +58,6 @@
     "por": true,
     "drogues": true,
     "discriminacio": true,
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "Tens un minut?<br><small>03/07/2024</small>",
-    "codi": "Tens un minut?##",
-    "edat": "7",
-    "sexe": true,
     "llenguatge": true,
     "orig": "TP",
     "serie": true,
