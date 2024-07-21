@@ -32,6 +32,12 @@
     "novetat": true
   },
   {
+    "titol": "Tens un minut?",
+    "edat": "7",
+    "orig": "TP",
+    "novetat": true
+  },
+  {
     "titol": "El detectiu Conan",
     "edat": "13",
     "orig": "7"
@@ -47,7 +53,12 @@
     "orig": "TP"
   },
   {
-    "titol": "Kung Fu Panda: Les potes del destí",
+    "titol": "Els Dalton",
+    "edat": "7",
+    "orig": "TP"
+  },
+  {
+    "titol": "Els pingüins de Madagascar",
     "edat": "7",
     "orig": "TP"
   },
