@@ -1,5 +1,15 @@
 [
   {
+    "titol": "Nits Sense ficció<br><small>La banda del pati</small>",
+    "codi": "Nits Sense ficció##",
+    "edat": "13",
+    "drogues": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Punt de no retorn<br><small>Armats i dividits: por i paranoia a una guerra civil als EUA</small>",
     "codi": "Punt de no retorn##",
     "edat": "13",
@@ -47,19 +57,6 @@
     "discriminacio": true,
     "llenguatge": true,
     "orig": "10",
-    "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "Nits Sense ficció<br><small>Matusalem</small>",
-    "codi": "Nits Sense ficció##",
-    "edat": "7",
-    "sexe": true,
-    "por": true,
-    "drogues": true,
-    "discriminacio": true,
-    "llenguatge": true,
-    "orig": "TP",
     "serie": true,
     "tv3": true
   }
