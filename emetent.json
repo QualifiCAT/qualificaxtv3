@@ -32,10 +32,9 @@
     "novetat": true
   },
   {
-    "titol": "Tens un minut?",
-    "edat": "7",
-    "orig": "TP",
-    "novetat": true
+    "titol": "Churails",
+    "edat": "18",
+    "orig": "12"
   },
   {
     "titol": "El detectiu Conan",
@@ -48,8 +47,8 @@
     "orig": "7"
   },
   {
-    "titol": "Projecte Beta",
-    "edat": "10",
+    "titol": "Súper 4",
+    "edat": "7",
     "orig": "TP"
   },
   {
@@ -68,9 +67,8 @@
     "orig": "TP"
   },
   {
-    "titol": "Leo da Vinci",
+    "titol": "Missió Àrtic",
     "edat": "7",
-    "orig": "TP",
-    "novetat": true
+    "orig": "TP"
   }
 ]
