@@ -1,5 +1,23 @@
 [
   {
+    "titol": "Natura sàvia<br><small>Granotes i gripaus</small>",
+    "codi": "Natura sàvia##",
+    "edat": "13",
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "El swing de la Feliu",
+    "codi": "El swing de la Feliu",
+    "edat": "7",
+    "sexe": true,
+    "orig": "TP",
+    "peli": true,
+    "tv3": true
+  },
+  {
     "titol": "Kimeres<br><small><i>episodis 1 i 5</i></small>",
     "codi": "Kimeres##",
     "edat": "13",
@@ -38,25 +56,5 @@
     "orig": "TP",
     "serie": true,
     "tv3": true
-  },
-  {
-    "titol": "30 minuts<br><small>Ryanair, l'ombra del baix cost</small>",
-    "codi": "30 minuts##",
-    "edat": "7",
-    "por": true,
-    "llenguatge": true,
-    "incivisme": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "Atrapats<br><small>La venjança del rei</small>",
-    "codi": "Atrapats##",
-    "edat": "10",
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "3cat": true
   }
 ]
