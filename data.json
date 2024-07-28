@@ -3552,6 +3552,16 @@
     "mesinfo": "<b>Drogues</b><br>El protagonista se serveix freqüentment copes de whisky durant tota l'obra. En dues ocasions, vol barrejar medicaments amb alcohol i qui està amb ell li ho desaconsella. Altres personatges també beuen vi, i es parla de convidar a altres a 'fer una copa'. En una ocasió, un home diu que gairebé es pren un paquet sencer de pastilles 'perilloses' després de saber que la seva dona l'ha deixat.<br><br><b>Llenguatge groller</b><br>De manera constant, es repeteixen les expressions 'merda', 'idiota', 'hòstia' i 'fotre'. Ocasionalment, es diu també 'cagar', 'burro', 'imbècil', 'tarat', 'collons', 'cabronàs', 'gilipollas', 'prendre pel cul', 'malparit', 'fill de puta', 'hòstia puta' o 'que calli d'una put...'. No es fan servir mai de manera vertaderament ofensiva.<br><br>Hi ha continguts sexuals ocasionals d'explicitació baixa, quan es descriu l'home amb qui s'ha anat la dona del protagonista com a 'obsés sexual', 'playboy' o 'depravat', que 'quan hi ha faldilles pel mig perd l'oremus', i quan es comenta que està al seu llit despullada, i es fa broma amb l'expressió 'l'hi acabo de ficar'. Hi ha conductes incíviques presentades negativament. Hi ha situacions angoixants ocasionals d'afectació lleu, quan es fan al·lusions a la mort i un home panteixa de dolor pel seu mal d'esquena."
   },
   {
+    "titol": "El swing de la Feliu",
+    "codi": "6293159",
+    "edat": "7",
+    "orig": "TP",
+    "peli": true,
+    "tv3": true,
+    "raons": "Continguts sexuals ocasionals d'explicitació baixa",
+    "mesinfo": "<b>Sexe</b><br>Es diu que una persona va repartir condons pel carrer en un context de pandèmia de la sida.<br><br>Hi ha situacions ocasionals angoixants d'afectació lleu. Hi ha un sol ús de llenguatge groller ('hosti'). Es fa una referència al consum d'alcohol, i hi ha tabac en imatges d'arxiu, presentades de manera fugaç."
+  },
+  {
     "titol": "El teorema del mico",
     "codi": "el-teorema-del-mico",
     "edat": "13",
@@ -10384,6 +10394,21 @@
     "csm": "tv-reviews/naruto",
     "serie": true,
     "x3": true
+  },
+  {
+    "titol": "Natura sàvia",
+    "codi": "natura-savia",
+    "edat": "13",
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Natura sàvia 1x01 - Granotes i gripaus",
+    "codi": "5792906",
+    "edat": "13",
+    "raons": "Llenguatge groller freqüent d'intensitat alta",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es fan servir freqüentment expressions malsonants amb certa agressivitat i gratuïtat com 'merda', 'fotre', 'hòstia', 'collons', 'putada', 'cabró' i les reproduïdes en el paràgraf següent.<br><br>Hi ha continguts sexuals ocasionals d'explicitació mitjana quan, per exemple, es comenta i s'ensenya la fecundació de les granotes i es fa servir l'expressió 's'escorren', o quan es diu que un animal va 'follant' pels mons. Hi ha referències a drogues lícites (tabac i alcohol) i il·lícites (al·lucinògens provocats per algunes espècies de granota) presentades de manera negativa en un context humorístic."
   },
   {
     "titol": "Nausicaä de la Vall del Vent",
