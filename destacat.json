@@ -1,5 +1,14 @@
 [
   {
+    "titol": "Animals sapastres<br><small><i>4 episodis</i></small>",
+    "codi": "Animals sapastres##",
+    "edat": "7",
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "x3": true
+  },
+  {
     "titol": "Natura sàvia<br><small>Granotes i gripaus</small>",
     "codi": "Natura sàvia##",
     "edat": "13",
@@ -47,14 +56,5 @@
     "orig": "18",
     "serie": true,
     "3cat": true
-  },
-  {
-    "titol": "Nits Sense ficció<br><small>Això no va de futbol</small>",
-    "codi": "Nits Sense ficció##",
-    "edat": "13",
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
   }
 ]
