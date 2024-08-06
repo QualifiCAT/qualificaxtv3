@@ -10,6 +10,11 @@
     "orig": "TP"
   },
   {
+    "titol": "Vintage",
+    "edat": "13",
+    "orig": "10"
+  },
+  {
     "titol": "El món de Pepe Rubianes",
     "edat": "13",
     "orig": "7"
@@ -25,12 +30,6 @@
     "orig": "TP"
   },
   {
-    "titol": "Cuina com puguis",
-    "edat": "10",
-    "orig": "TP",
-    "novetat": true
-  },
-  {
     "titol": "Atrapats",
     "edat": "10",
     "orig": "TP",
@@ -42,14 +41,14 @@
     "orig": "7"
   },
   {
+    "titol": "Herois amb cua",
+    "edat": "10",
+    "orig": "TP"
+  },
+  {
     "titol": "Trollhunters: Contes d&apos;Arcàdia",
     "edat": "10",
     "orig": "7"
-  },
-  {
-    "titol": "Súper 4",
-    "edat": "7",
-    "orig": "TP"
   },
   {
     "titol": "Els Dalton",
