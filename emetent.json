@@ -12,7 +12,8 @@
   {
     "titol": "Vintage",
     "edat": "13",
-    "orig": "10"
+    "orig": "10",
+    "novetat": true
   },
   {
     "titol": "El món de Pepe Rubianes",
