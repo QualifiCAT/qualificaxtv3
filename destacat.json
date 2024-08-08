@@ -1,5 +1,14 @@
 [
   {
+    "titol": "Nits Sense ficció<br><small>El millor salt</small>",
+    "codi": "Nits Sense ficció##",
+    "edat": "10",
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Animals sapastres<br><small><i>4 episodis</i></small>",
     "codi": "Animals sapastres##",
     "edat": "7",
@@ -45,16 +54,5 @@
     "orig": "TP",
     "serie": true,
     "tv3": true
-  },
-  {
-    "titol": "Punt de no retorn<br><small>Armats i dividits: por i paranoia a una guerra civil als EUA</small>",
-    "codi": "Punt de no retorn##",
-    "edat": "13",
-    "violencia": true,
-    "por": true,
-    "discriminacio": true,
-    "orig": "18",
-    "serie": true,
-    "3cat": true
   }
 ]
