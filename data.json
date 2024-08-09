@@ -10524,8 +10524,7 @@
     "codi": "6239966",
     "edat": "7",
     "orig": "7",
-    "raons": "Comportaments discriminatoris amb sanció negativa<br>Llenguatge groller ocasional d'intensitat baixa",
-    "mesinfo": "<b>Discriminació, racisme i xenofòbia</b><br>Es mostren persones manifestant-se a favor de règims feixistes, així com declaracions de dictadors que, per exemple, fan al·lusions a problemes 'de raça' en la política estrangera.<br><br><b>Llenguatge groller</b><br>Es diu 'collonades' una vegada.<br><br>Hi ha situacions angoixants lleus i ocasionals, quan es fan comentaris no explícits a les conseqüències de les guerres. Hi ha al·lusions fugaces al consum d'alcohol o tabac, presentat negativament."
+    "raons": "Comportaments discriminatoris amb sanció negativa<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Nits Sense ficció - Els residus del Mercuri",
@@ -10567,6 +10566,19 @@
     "orig": "7",
     "raons": "Continguts sexuals freqüents d'explicitació mitjana",
     "mesinfo": "<b>Sexe</b><br>Hi ha reiterades referències sexuals en un context d'educació sexual destinada a infants. A vegades, els continguts adopten certa cruesa, com quan menors parlen d'activitats que han vist per internet (per exemple, de fer una 'cubana' o una 'palla'), de quan es parla de 'follar' o quan es mostren il·lustracions explícites de fel·lacions i penetracions. També es fa referència a actes de privació de la llibertat sexual, sense entrar en detalls, com quan un noi diu que una violació és una activitat sexual i l'han de corregir."
+  },
+  {
+    "titol": "Nits Sense ficció - JFK - Més enllà del mite - Capítol 1",
+    "codi": "6254616",
+    "edat": "7",
+    "orig": "7",
+    "raons": "Continguts sexuals ocasionals d'explicitació baixa<br>Por i angoixa ocasional d'afectació mitjana<br>Al·lusions al consum de drogues lícites (alcohol), presentat de manera negativa<br>Comportaments discriminatoris amb sanció negativa<br>Conductes i valors incívics amb sanció negativa"
+  },
+  {
+    "titol": "Nits Sense ficció - JFK - Més enllà del mite - Capítol 2",
+    "codi": "6254617",
+    "edat": "7",
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada<br>Continguts sexuals ocasionals d'explicitació baixa<br>Por i angoixa ocasional d'afectació mitjana<br>Comportaments discriminatoris amb sanció negativa"
   },
   {
     "titol": "Nits Sense ficció - Sempre Dharma",
