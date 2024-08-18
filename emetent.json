@@ -12,8 +12,7 @@
   {
     "titol": "Vintage",
     "edat": "13",
-    "orig": "10",
-    "novetat": true
+    "orig": "10"
   },
   {
     "titol": "El món de Pepe Rubianes",
@@ -47,17 +46,17 @@
     "orig": "TP"
   },
   {
+    "titol": "Samuel",
+    "edat": "10",
+    "orig": "TP"
+  },
+  {
     "titol": "Trollhunters: Contes d&apos;Arcàdia",
     "edat": "10",
     "orig": "7"
   },
   {
     "titol": "Els Dalton",
-    "edat": "7",
-    "orig": "TP"
-  },
-  {
-    "titol": "Els pingüins de Madagascar",
     "edat": "7",
     "orig": "TP"
   },
