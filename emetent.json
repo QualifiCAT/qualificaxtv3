@@ -5,11 +5,6 @@
     "orig": "TP"
   },
   {
-    "titol": "Èpic nails",
-    "edat": "13",
-    "orig": "TP"
-  },
-  {
     "titol": "Vintage",
     "edat": "13",
     "orig": "10"
@@ -25,6 +20,11 @@
     "orig": "7"
   },
   {
+    "titol": "Cuina com puguis",
+    "edat": "10",
+    "orig": "TP"
+  },
+  {
     "titol": "Love cost",
     "edat": "10",
     "orig": "TP"
@@ -32,8 +32,7 @@
   {
     "titol": "Atrapats",
     "edat": "10",
-    "orig": "TP",
-    "novetat": true
+    "orig": "TP"
   },
   {
     "titol": "El detectiu Conan",
