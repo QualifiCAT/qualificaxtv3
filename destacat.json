@@ -1,5 +1,15 @@
 [
   {
+    "titol": "Teo va a Austràlia<br><small><i>tots els 5 episodis</i></small>",
+    "codi": "Teo va a Austràlia#",
+    "edat": "10",
+    "drogues": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "3cat": true
+  },
+  {
     "titol": "Nits Sense ficció<br><small>El millor salt</small>",
     "codi": "Nits Sense ficció##",
     "edat": "10",
@@ -36,16 +46,6 @@
     "tv3": true
   },
   {
-    "titol": "Kimeres<br><small><i>episodis 1 i 5</i></small>",
-    "codi": "Kimeres##",
-    "edat": "13",
-    "violencia": true,
-    "por": true,
-    "orig": "TP",
-    "serie": true,
-    "3cat": true
-  },
-  {
     "titol": "Nits Sense ficció<br><small>La banda del pati</small>",
     "codi": "Nits Sense ficció##",
     "edat": "13",
@@ -53,6 +53,7 @@
     "llenguatge": true,
     "orig": "TP",
     "serie": true,
-    "tv3": true
+    "tv3": true,
+    "separat": true
   }
 ]
