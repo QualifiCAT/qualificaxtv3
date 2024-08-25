@@ -13016,6 +13016,49 @@
     "mesinfo": "<b>Sexe</b><br>La presentadora li pregunta a un convidat si ha participat en un calendari de 'bombers sexis'.<br><br><b>Llenguatge groller</b><br>Un home diu 'hòstia' en saber que ha perdut. Un home pregunta 'com collons es diu' un monument. Un noi es posa nerviós i arriba a dir 'merda' fins a quatre vegades."
   },
   {
+    "titol": "Teo va a Austràlia",
+    "codi": "teo-va-a-australia",
+    "edat": "10",
+    "orig": "TP",
+    "serie": true,
+    "3cat": true
+  },
+  {
+    "titol": "Teo va a Austràlia 1x01 - &quot;Els socis&quot; se separen",
+    "codi": "6296361",
+    "edat": "10",
+    "raons": "Llenguatge groller ocasional d'intensitat alta",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'collons', 'el que ho viu de puta mare' i 'estem vivint una vida de l'hòstia'.<br><br>Hi ha continguts sexuals ocasionals d'explicitació baixa en forma d'al·lusions a 'calendaris de bombers' i a ser 'sexi'. Es parla breument de com adquirir begudes alcohòliques a Austràlia."
+  },
+  {
+    "titol": "Teo va a Austràlia 1x02 - Un poema d'amor",
+    "codi": "6296359",
+    "edat": "7",
+    "raons": "Al·lusions al consum de drogues lícites (alcohol), presentat de manera negativa",
+    "mesinfo": "<b>Drogues</b><brUn noi s'enfada amb el seu company perquè havien quedat i arriba tard perquè 'estava amb una mica de ressaca' i s'ha adormit. També, es veuen begudes alcohòliques en un bar i es diu quant costen en un altre país."
+  },
+  {
+    "titol": "Teo va a Austràlia 1x03 - Dilemes",
+    "codi": "6296360",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'es fot' i 'hosti'."
+  },
+  {
+    "titol": "Teo va a Austràlia 1x04 - Roda cap a Austràlia",
+    "codi": "6296358",
+    "edat": "10",
+    "raons": "Al·lusions al consum de drogues lícites (alcohol), presentat de manera neutra<br>Llenguatge groller freqüent d'intensitat baixa",
+    "mesinfo": "<b>Drogues</b><br>Un noi diu que va 'una mica de ressaca', sense que ningú ni res li ho recrimini.<br><br><b>Llenguatge groller</b><br>Es diu 'hòstia' (2 cops), 'hosti', 'joer', 'se li està fotent a sobre' i 'què hi fots aquí' (2 cops)."
+  },
+  {
+    "titol": "Teo va a Austràlia 1x05 - La purificació",
+    "codi": "6296364",
+    "edat": "7",
+    "raons": "Al·lusions al consum de drogues lícites (alcohol), presentat de manera negativa<br>Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Drogues</b><br>Un noi es burla d'uns joves que s'havien quedat adormits al bus, anomenant-los 'ressacosos'.<br><br><b>Llenguatge groller</b><br>Es diu 'què hi fots' (2 cops), 'hòstia' i 'malparit' (2 cops i en un context amistós)."
+  },
+  {
     "titol": "Theodosia",
     "codi": "theodosia",
     "edat": "7",
