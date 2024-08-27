@@ -37,13 +37,15 @@
     "tv3": true
   },
   {
-    "titol": "El swing de la Feliu",
-    "codi": "El swing de la Feliu",
-    "edat": "7",
-    "sexe": true,
+    "titol": "El sopar dels idiotes (teatre)",
+    "codi": "El sopar dels idiotes",
+    "edat": "10",
+    "drogues": true,
+    "llenguatge": true,
     "orig": "TP",
     "peli": true,
-    "tv3": true
+    "tv3": true,
+    "separat": true
   },
   {
     "titol": "Nits Sense ficció<br><small>La banda del pati</small>",
@@ -53,7 +55,6 @@
     "llenguatge": true,
     "orig": "TP",
     "serie": true,
-    "tv3": true,
-    "separat": true
+    "tv3": true
   }
 ]
