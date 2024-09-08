@@ -8779,6 +8779,54 @@
     "mesinfo": "<b>Sexe</b><br>Durant tot el programa, diferents dones comenten explícitament les seves vivències sexuals. Es parla del plaer, de tenir orgasmes, de fingir-ne, de masturbar-se (parlant de 'palles' o de tocar-se el parrús, o d''experimentar' sent petita), de ser passiu en la relació, de l'anticoncepció, de l'accés dels menors a la pornografia, de lubricar, etc. Una noia diu que ha conegut gent que ha fet trios i orgies. Es parla de la sexualització i de la normalització de certes conductes abusives, com que a una nena li toquessin els pits a l'escola perquè va tenir una pubertat avançada, o que se sentís sexualitzada per un adult. Una persona comenta els llocs on podria tenir sexe sent un home gai. Es parla de fantasies sexuals: una dona diu que aguantar-se les ganes de fer pipí li donava plaer, i una altra diu que va exercir la 'dominació professional' i comenta com la va afectar emocionalment que fos tractada com un objecte i hagués de fer coses que no volia fer però que considerava que havia de fer per diners. En cap moment del programa apareixen imatges sexuals.<br><br><b>Llenguatge groller</b><br>Es fan servir expressions com 'polles', 'follar', 'calientapollas', 'puta', 'guarra', 'putilla', 'hòstia'...<br><br>Es fan referències ocasionals i neutres al consum d'alcohol."
   },
   {
+    "titol": "Les filles del Dad",
+    "codi": "les-filles-del-dad",
+    "edat": "7",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
+  },
+  {
+    "titol": "Les filles del Dad 1x01 - Reality Dad",
+    "codi": "6298264",
+    "edat": "0",
+    "mesinfo": "Alguns personatges es parlen ocasionalment amb menyspreu; per exemple, 'segur que al teu cervell hi cap, una idea?'."
+  },
+  {
+    "titol": "Les filles del Dad 1x02 - El dia del pare",
+    "codi": "6298266",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Una nena diu: 'sé que quan el Dad està deprimit diu que se sent com una merda, però això no vol dir que li haguem de fer una merda d'estàtua'.<br><br>Diversos personatges es parlen sovint amb menyspreu. Quan una noia perd un regal que havia comprat, diu: 'em vull morir...'."
+  },
+  {
+    "titol": "Les filles del Dad 1x03 - La febre del divendres nit",
+    "codi": "6298265",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Una noia diu 'maleïda llei de Murphy, no fotem!'.<br><br>Es presenten conductes incíviques de manera negativa en un context inversemblant."
+  },
+  {
+    "titol": "Les filles del Dad 1x07 - L'edifici del terror",
+    "codi": "6298443",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu",
+    "mesinfo": "<b>Por i angoixa</b><br>L'episodi té lloc durant una nit tronada, on marxa la llum en tot l'edifici. Si bé amb una intensitat lleu, s'utilitzen elements típics de les pel·lícules de terror per emfatitzar la por irracional que tenen els personatges, quan es troben ombres que resulten ser personatges coneguts, apareixen ninots terrorífics del no res i que parlen, surt un cucut amb un ocell esquelètic, apareix un home amb una motoserra, etc.<br><br>Hi ha violència ocasional, irreal, no explícita, d'intensitat molt lleu i no legitimada, quan una noia pega a tres persones a la cara amb un llibre instintivament, per por."
+  },
+  {
+    "titol": "Les filles del Dad 1x13 - Els marcians",
+    "codi": "6298445",
+    "edat": "0",
+    "mesinfo": "Hi ha una sola escena de violència, no explícita, d'intensitat molt lleu i irreal, quan una nena dona una puntada de peu a un noi disfressat pensant-se que era un monstre. Hi ha una escena de por molt breu d'intensitat mínima."
+  },
+  {
+    "titol": "Les filles del Dad 1x14 - L'ull del puma",
+    "codi": "6298432",
+    "edat": "7",
+    "raons": "Comportaments discriminatoris amb sanció negativa<br>Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Discriminació, racisme i xenofòbia</b><br>Insulten un personatge per la seva aparença física i per la seva edat.<br><br><b>Llenguatge groller</b><br>Es diu 's'ha cagat' un cop. Es diu 'fot el camp' fins a quatre vegades.<br><br>Hi ha situacions ocasionals de por i angoixa d'afectació lleu."
+  },
+  {
     "titol": "Les misterioses ciutats d'or",
     "codi": "misterioses-ciutats-or",
     "edat": "7",
