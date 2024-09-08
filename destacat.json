@@ -1,5 +1,15 @@
 [
   {
+    "titol": "El col·legi dels animals màgics",
+    "codi": "El col·legi dels animals màgics",
+    "edat": "0",
+    "violencia": true,
+    "por": true,
+    "orig": "TP",
+    "peli": true,
+    "tv3": true
+  }, 
+  {
     "titol": "Les filles del Dad<br><small><i>sis episodis</i></small>",
     "codi": "Les filles del Dad##",
     "edat": "7",
@@ -46,14 +56,5 @@
     "orig": "TP",
     "serie": true,
     "x3": true
-  },
-  {
-    "titol": "Natura sàvia<br><small>Granotes i gripaus</small>",
-    "codi": "Natura sàvia##",
-    "edat": "13",
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
   }
 ]
