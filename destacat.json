@@ -1,5 +1,14 @@
 [
   {
+    "titol": "Està passant<br><small><i>edicions del 2 al 5/09/2024</i></small>",
+    "codi": "Està passant##",
+    "edat": "13",
+    "drogues": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Teo va a Austràlia<br><small><i>tots els 5 episodis</i></small>",
     "codi": "Teo va a Austràlia#",
     "edat": "10",
@@ -37,17 +46,6 @@
     "tv3": true
   },
   {
-    "titol": "El sopar dels idiotes (teatre)",
-    "codi": "El sopar dels idiotes",
-    "edat": "10",
-    "drogues": true,
-    "llenguatge": true,
-    "orig": "TP",
-    "peli": true,
-    "tv3": true,
-    "separat": true
-  },
-  {
     "titol": "Nits Sense ficció<br><small>La banda del pati</small>",
     "codi": "Nits Sense ficció##",
     "edat": "13",
@@ -55,6 +53,7 @@
     "llenguatge": true,
     "orig": "TP",
     "serie": true,
-    "tv3": true
+    "tv3": true,
+    "separat": true
   }
 ]
