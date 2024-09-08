@@ -1,5 +1,16 @@
 [
   {
+    "titol": "Quanta guerra!<br><small>Santi Millán</small>",
+    "codi": "Quanta guerra!##",
+    "edat": "10",
+    "violencia": true,
+    "por": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "El col·legi dels animals màgics",
     "codi": "El col·legi dels animals màgics",
     "edat": "0",
@@ -47,14 +58,5 @@
     "orig": "TP",
     "serie": true,
     "tv3": true
-  },
-  {
-    "titol": "Animals sapastres<br><small><i>4 episodis</i></small>",
-    "codi": "Animals sapastres##",
-    "edat": "7",
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "x3": true
   }
 ]
