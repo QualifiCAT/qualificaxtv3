@@ -1,5 +1,15 @@
 [
   {
+    "titol": "Catalunya aixeca el teló 2024",
+    "codi": "Catalunya aixeca el teló 2024",
+    "edat": "10",
+    "drogues": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "peli": true,
+    "tv3": true
+  },
+  {
     "titol": "Quanta guerra!<br><small>Santi Millán</small>",
     "codi": "Quanta guerra!##",
     "edat": "10",
@@ -22,7 +32,7 @@
   }, 
   {
     "titol": "Les filles del Dad<br><small><i>sis episodis</i></small>",
-    "codi": "Les filles del Dad##",
+    "codi": "Les filles del Dad#",
     "edat": "7",
     "por": true,
     "discriminacio": true,
@@ -49,14 +59,5 @@
     "orig": "TP",
     "serie": true,
     "3cat": true
-  },
-  {
-    "titol": "Nits Sense ficció<br><small>El millor salt</small>",
-    "codi": "Nits Sense ficció##",
-    "edat": "10",
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
   }
 ]
