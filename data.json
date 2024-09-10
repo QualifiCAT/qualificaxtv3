@@ -1766,7 +1766,7 @@
   },
   {
     "titol": "Catalunya aixeca el teló 2024",
-    "codi": "11111111111111111",
+    "codi": "6299394",
     "edat": "10",
     "orig": "TP",
     "peli": true,
@@ -4122,6 +4122,14 @@
     "peli": true,
     "tv3": true,
     "raons": "Continguts sexuals freqüents d'explicitació mitjana<br>Llenguatge groller reiterat d'intensitat alta"
+  },
+  {
+    "titol": "Escolta el teu cos",
+    "codi": "escolta-el-teu-cos",
+    "edat": "0",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Està passant",
