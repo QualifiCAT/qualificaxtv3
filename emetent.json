@@ -5,6 +5,11 @@
     "orig": "7"
   },
   {
+    "titol": "Està passant",
+    "edat": "13",
+    "orig": "TP"
+  },
+  {
     "titol": "La travessa",
     "edat": "13",
     "orig": "TP"
@@ -16,11 +21,6 @@
   },
   {
     "titol": "De la cullera a la ciutat",
-    "edat": "10",
-    "orig": "TP"
-  },
-  {
-    "titol": "Cuina com puguis",
     "edat": "10",
     "orig": "TP"
   },
@@ -55,9 +55,10 @@
     "orig": "7"
   },
   {
-    "titol": "La vida en calçotets",
+    "titol": "Les filles del Dad",
     "edat": "7",
-    "orig": "TP"
+    "orig": "TP",
+    "novetat": true
   },
   {
     "titol": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
