@@ -1,5 +1,14 @@
 [
   {
+    "titol": "Escape Room 2. Com es va fer",
+    "codi": "Escape Room 2. Com es va fer",
+    "edat": "13",
+    "llenguatge": true,
+    "orig": "TP",
+    "peli": true,
+    "tv3": true
+  },
+  {
     "titol": "Nits Sense ficció<br><small>Dilluns</small>",
     "codi": "Nits Sense ficció##",
     "edat": "13",
@@ -49,14 +58,5 @@
     "orig": "TP",
     "serie": true,
     "x3": true
-  },
-  {
-    "titol": "Està passant<br><small><i>edicions del 2 al 5/09/2024</i></small>",
-    "codi": "Està passant##",
-    "edat": "13",
-    "drogues": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
   }
 ]
