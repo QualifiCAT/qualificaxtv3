@@ -8440,6 +8440,21 @@
     "mesinfo": "<b>Por i angoixa</b><br>Gran part de l'episodi es recrea en l'afectació emocional dels actors en llegir dedicatòries de familiars i coneguts. A més, es fan referències a la mort, com quan a l'obra de teatre final s'hi representa un atac de cor.<br><br><b>Llenguatge groller</b><br>Es fan servir expressions com 'molta merda', 'fotia' o 'joder'.<br><br>En un fragment de l'obra de teatre final, s'escenifiquen fugaçment insinuacions sexuals d'explicitació lleu."
   },
   {
+    "titol": "La selva",
+    "codi": "la-selva",
+    "edat": "10",
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "La selva 12/09/2024",
+    "codi": "6299814",
+    "edat": "10",
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat greu, no legitimada<br>Llenguatge groller freqüent d'intensitat baixa",
+    "mesinfo": "<b>Violència</b><br>Es fa referència al cas d'una dona francesa que va ser violada durant deu anys per més de cinquanta homes mentre ella es trobava en un estat de submissió química. Es diu que el seu marit instruïa a altres homes sobre com agredir-les sexualment, i es parla de la 'cultura de la violació'. No es donen detalls sobre com es van perpetuar les agressions. També es menciona un cas d'un exfutbolista acusat d'abusos sexuals, un cop més sense donar detalls.<br><br><b>Llenguatge groller</b><br>Un convidat utilitza recurrentment expressions com 'hòstia', 'tonto', 'ben fotuts' o 'acollonant'. Es reprodueix un anunci d'un programa televisiu -qualificat i senyalitzat 'per a tothom'- on un home diu 'quins coll...', censurant-ne el final còmicament. Un altre convidat utilitza també expressions com 'emmerdem', 'que no s'estigués d'hòsties' o 'no els surt de la punta de l'endoll'. En altres moments del programa, també se sent algun 'hòstia', 'fotuts' o 'qui em va parir'.<br><br>Hi ha situacions ocasionals de por i angoixa d'afectació mitjana (vegeu 'Violència'). Hi ha continguts sexuals ocasionals d'explicitació baixa en forma de referències verbals. Hi ha situacions de discriminació amb sanció negativa quan es fa referència a declaracions d'un candidat a president que diu sense proves que hi ha migrants que es dediquen a menjar mascotes animals en una localitat nord-americana, que també se l'acusa de masclista perquè considera les dones un objecte sexual, i per allò que es comenta 'Violència'."
+  },
+  {
     "titol": "La travessa",
     "codi": "la-travessa",
     "edat": "13",
