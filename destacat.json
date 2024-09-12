@@ -1,5 +1,15 @@
 [
   {
+    "titol": "Bob in translation<br><small><i>3 episodis</i></small>",
+    "codi": "Bob in translation#",
+    "edat": "10",
+    "sexe": true,
+    "llenguatge": true,
+    "orig": "10",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Escape Room 2. Com es va fer",
     "codi": "Escape Room 2. Com es va fer",
     "edat": "13",
@@ -46,17 +56,6 @@
     "por": true,
     "orig": "TP",
     "peli": true,
-    "x3": true
-  }, 
-  {
-    "titol": "Les filles del Dad<br><small><i>sis episodis</i></small>",
-    "codi": "Les filles del Dad#",
-    "edat": "7",
-    "por": true,
-    "discriminacio": true,
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
     "x3": true
   }
 ]
