@@ -1266,6 +1266,32 @@
     "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
+    "titol": "Bob in translation",
+    "codi": "bob-in-translation",
+    "edat": "10",
+    "orig": "10",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Bob in translation 1x01 - Ela",
+    "codi": "6299049",
+    "edat": "10",
+    "raons": "Continguts sexuals ocasionals d'explicitació mitjana<br>Llenguatge groller ocasional d'intensitat alta"
+  },
+  {
+    "titol": "Bob in translation 1x02 - Ge",
+    "codi": "6299398",
+    "edat": "10",
+    "raons": "Continguts sexuals freqüents d'explicitació baixa<br>Llenguatge groller ocasional d'intensitat alta"
+  },
+  {
+    "titol": "Bob in translation 1x04 - Te",
+    "codi": "6299400",
+    "edat": "10",
+    "raons": "Llenguatge groller ocasional d'intensitat alta"
+  },
+  {
     "titol": "Bola de drac Super: Broly",
     "codi": "6210525",
     "edat": "10",
