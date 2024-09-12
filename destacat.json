@@ -1,5 +1,15 @@
 [
   {
+    "titol": "La selva<br><small>12 i 13/09/2024</small>",
+    "codi": "La selva#",
+    "edat": "10",
+    "violencia": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Polònia<br><small>12/09/2024</small>",
     "codi": "Polònia##",
     "edat": "13",
@@ -44,17 +54,6 @@
     "llenguatge": true,
     "orig": "TP",
     "peli": true,
-    "tv3": true
-  },
-  {
-    "titol": "Quanta guerra!<br><small>Santi Millán</small>",
-    "codi": "Quanta guerra!##",
-    "edat": "10",
-    "violencia": true,
-    "por": true,
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
     "tv3": true
   }
 ]
