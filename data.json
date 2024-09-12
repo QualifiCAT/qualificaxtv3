@@ -1266,6 +1266,20 @@
     "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
+    "titol": "Bob in translation",
+    "codi": "bob-in-translation",
+    "edat": "10",
+    "orig": "10",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Bob in Translation 1x01 - Ela",
+    "codi": "6299049",
+    "edat": "10"
+    "raons": "Continguts sexuals ocasionals d'explicitació mitjana<br>Llenguatge groller ocasional d'intensitat alta"
+  },
+  {
     "titol": "Bola de drac Super: Broly",
     "codi": "6210525",
     "edat": "10",
@@ -11377,6 +11391,14 @@
     "edat": "13",
     "raons": "Llenguatge groller freqüent d'intensitat alta",
     "mesinfo": "<b>Llenguatge groller</b><br>Un gag de l'episodi es basa del tot en fer bromes sobre la mida desorbitada dels testicles d'uns homes que es mostren aparentment nus a càmera (tot i estar pixelat amb intencionalitat còmica, en els crèdits finals, es veu clarament l'attrezzo que duien que els feia semblar que tenien els testicles gegants). S'utilitzen expressions grolleres d'intensitat alta per descriure'ls i fins i tot se'ls veu als homes fer-se'ls botar i tocar-se'ls, en un context no sexual. Val la pena destacar que un personatge diu que, després d'aquest gag, han perdut tota l'audiència major de 12 anys, en considerar infantil aquesta mena d'humor. En altres moments del programa, també es fan servir expressions com 'collons' ('et fotré una patada als collons', 'la típica mosca collonera', 'collons!'), 'merda' o 'hòstia', en contextos agressius.<br><br>Hi ha consum de drogues lícites presentat de manera negativa, i una menció a una droga il·lícita. Hi ha una escena de por i angoixa d'afectació lleu. Hi ha escenes ocasionals de violència irreal, no explícita i molt lleu."
+  },
+  {
+    "titol": "Pop, la ciutat de paper",
+    "codi": "pop-la-ciutat-de-paper",
+    "edat": "0",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Porco Rosso",
