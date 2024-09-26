@@ -8465,7 +8465,7 @@
     "titol": "La travessa",
     "codi": "la-travessa",
     "edat": "13",
-    "orig": "TP",
+    "orig": "TP (temporada 2: 7)",
     "serie": true,
     "tv3": true,
     "3cat": true
@@ -8474,8 +8474,17 @@
     "titol": "La travessa 1x01 - L'aventura",
     "codi": "6247513",
     "edat": "13",
+    "orig": "TP",
     "raons": "Llenguatge groller freqüent d'intensitat alta",
     "mesinfo": "<b>Llenguatge groller</b><br>Es fa un ús freqüent d'expressions d'intensitat alta, a causa de la seva naturalesa o perquè s'utilitzen en contextos agressius, com 'putejar', 'putada', 'de puta mare', 'puta merda', 'puto', 'anaves superfollada', 'marica' (per part d'una persona del col·lectiu LGBTIQ+), 'cagades', 'hòstia', 'fotre', 'merda', 'joder' o 'cabrón'.<br><br>Hi ha situacions d'angoixa moderada, quan alguns participants parlen d'accidents que van tenir de manera explícita."
+  },
+  {
+    "titol": "La travessa 2x02 - El secret",
+    "codi": "6301525",
+    "edat": "13",
+    "orig": "7",
+    "raons": "Llenguatge groller freqüent d'intensitat alta",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es fa un ús freqüent d'expressions d'intensitat alta, a causa de la seva naturalesa o perquè s'utilitzen en contextos agressius, com 'hòstia', 'hòstia puta', 'puta ama', 'putades', 'collons', 'és una puta màquina', 'joder', 'no me jodas', 'cabró', 'merda', 'fotre' o 'cagat'.<br><br>Hi ha situacions freqüents d'angoixa lleu."
   },
   {
     "titol": "La Ventafocs i el príncep secret",
@@ -12911,6 +12920,33 @@
     "csm": "tv-reviews/silverpoint",
     "serie": true,
     "x3": true
+  },
+  {
+    "titol": "Sistema solar",
+    "codi": "sistema-solar",
+    "edat": "",
+    "orig": "TP",
+    "serie": true,
+    "3cat": true
+  },
+  {
+    "titol": "Sistema solar 1x01 - Maria Hein",
+    "codi": "6300956",
+    "edat": "0"
+  },
+  {
+    "titol": "Sistema solar 1x03 - Julieta",
+    "codi": "6300987",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'hòstia' una vegada. En la lletra d'una cançó, es diu 'jo no soc una cabrona'."
+  },
+  {
+    "titol": "Sistema solar 1x09 - Baya Baye",
+    "codi": "6300958",
+    "edat": "10",
+    "raons": "Llenguatge groller ocasional d'intensitat alta",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'hòstia', 'a tomar pel cul', 'cabrona' i 'sortir dels collons' (2 cops). S'ensenya el dit del mig. En lletres de cançons, es diu 'me salpica su mierda', 'me la suda' i 'malparits'.<br><br>Es fa una al·lusió fugaç a posseir drogues."
   },
   {
     "titol": "Siyaya. Veniu a explorar",
