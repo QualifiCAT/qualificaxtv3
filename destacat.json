@@ -1,5 +1,23 @@
 [
   {
+    "titol": "Sistema solar<br><small><i>tres episodis</i></small>",
+    "codi": "Sistema solar#",
+    "edat": "10",
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "3cat": true
+  },
+  {
+    "titol": "La travessa<br><small><i>episodi 2x02</i></small>",
+    "codi": "La travessa##",
+    "edat": "13",
+    "llenguatge": true,
+    "orig": "7",
+    "serie": true,
+    "3cat": true
+  },
+  {
     "titol": "La selva<br><small>12 i 13/09/2024</small>",
     "codi": "La selva#",
     "edat": "10",
@@ -33,25 +51,6 @@
     "titol": "Escape Room 2. Com es va fer",
     "codi": "Escape Room 2. Com es va fer",
     "edat": "13",
-    "llenguatge": true,
-    "orig": "TP",
-    "peli": true,
-    "tv3": true
-  },
-  {
-    "titol": "Nits Sense ficció<br><small>Dilluns</small>",
-    "codi": "Nits Sense ficció##",
-    "edat": "13",
-    "drogues": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "Catalunya aixeca el teló 2024",
-    "codi": "Catalunya aixeca el teló 2024",
-    "edat": "10",
-    "drogues": true,
     "llenguatge": true,
     "orig": "TP",
     "peli": true,
