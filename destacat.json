@@ -1,7 +1,7 @@
 [
   {
     "titol": "Polis<br><small><i>un episodi (eps. 2-4 pendents d'analitzar)</i></small>",
-    "codi": "Polis#",
+    "codi": '"Polis"#',
     "edat": "13",
     "por": true,
     "orig": "10",
@@ -28,7 +28,7 @@
   },
   {
     "titol": "La selva<br><small>12 i 13/09/2024</small>",
-    "codi": "La selva#",
+    "codi": '"La selva#"',
     "edat": "10",
     "violencia": true,
     "sexe": true,
