@@ -1,5 +1,14 @@
 [
   {
+    "titol": "Polis<br><small><i>un episodi (eps. 2-4 pendents d'analitzar)</i></small>",
+    "codi": "Polis#",
+    "edat": "13",
+    "por": true,
+    "orig": "10",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Sistema solar<br><small><i>tres episodis</i></small>",
     "codi": "Sistema solar#",
     "edat": "10",
@@ -45,15 +54,6 @@
     "llenguatge": true,
     "orig": "10",
     "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "Escape Room 2. Com es va fer",
-    "codi": "Escape Room 2. Com es va fer",
-    "edat": "13",
-    "llenguatge": true,
-    "orig": "TP",
-    "peli": true,
     "tv3": true
   }
 ]
