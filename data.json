@@ -11302,6 +11302,21 @@
     "mesinfo": "<b>Por i angoixa</b><br>Un noi cau en un forat enmig del bosc, on no té cobertura, està tot fosc i sembla que hi ha algú, però no és capaç de veure'l. Es grava a si mateix, plorant i amb el nas ple de mocs, pensant-se que morirà. Quan encenen el llum, un talp li diu que no podrà sortir d'allà, però no li fa massa cas. S'espanta quan veu ossos i esquelets d'altres espècies que també hi han caigut i que se suposa que ha devorat el talp. El noi s'amaga en una muntanya d'ossos mentre el talp el busca, però el final és positiu.<br><br><b>Llenguatge groller</b><br>Un noi eructa sorollosament després de menjar bolets podrits. Més tard, té molts gasos.<br><br>Un noi és egocèntric, no fa cas dels seus amics i està obsessionat amb el seu telèfon, tot i que eventualment aprèn la lliçó. Hi ha violència irreal molt lleu."
   },
   {
+    "titol": "Polis",
+    "codi": "polis",
+    "edat": "13",
+    "orig": "10",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Polis 1x01 - La resposta directa a la petició d'auxili",
+    "codi": "6299406",
+    "edat": "13",
+    "raons": "Por i angoixa reiterada d'afectació mitjana",
+    "mesinfo": "<b>Por i angoixa</b><br>Un policia comença la jornada relatant els incidents de la passada nit: un cas de violència de gènere, un robatori i un intent de suïcidi des d'un balcó. Els policies són alertats de què hi ha hagut un robatori violent amb un ganivet. Es reprodueix extensament el testimoni d'un home que va estar empresonat per robatori i segrest. Uns policies intervenen i parlen amb els implicats en un cas de violència de gènere, on els testimonis asseguren haver vist l'home bufetejar la dona i intentar endur-se-la per la força, tot i que ella els ho negui. Els policies parlen de com de difícil és anar a comunicar una mort a una família. Els policies són alertats d'un cas de temptativa de suïcidi; es mencionen tècniques habituals (abusar de pastilles, saltar d'un balcó, penjar-se), i es reprodueix extensament el testimoni d'una persona que va sobreviure'n una, sense donar detalls de com el va produir, però sí dels pensaments autodestructius i del malestar extrem que li provocava la depressió. Els policies van al lloc on asseguren que hi ha hagut una baralla amb una ampolla de vidre; es veu un home amb sang a la mà i al braç, al ganivet que brandia, i en una peça de roba esquinçada al costat seu; la policia diu que això li ha fet recordar el cas d'un home que va apunyalar diverses persones al coll a Alemanya.<br><br>Hi ha llenguatge groller ocasional d'intensitat alta ('jodido', 'qué coño', 'me cago en la puta'). Hi ha al·lusions neutres i ocasionals al consum d'alcohol i es menciona el haixix quan es parla negativament de drogues il·lícites i del seu tràfic."
+  },
+  {
     "titol": "Polònia",
     "codi": "polonia",
     "edat": "13",
