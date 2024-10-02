@@ -9,6 +9,15 @@
     "tv3": true
   },
   {
+    "titol": "Projecte Beta. La sèrie<br><small>Temporada 6 ep. 1<small>(eps. 2-6 pendents d'analitzar)</small></small>",
+    "codi": "Projecte Beta#",
+    "edat": "0",
+    "orig": "TP",
+    "serie": true,
+    "x3": true,
+    "separat": true
+  },
+  {
     "titol": "Desvelades",
     "codi": "Desvelades",
     "edat": "13",
@@ -16,8 +25,7 @@
     "discriminacio": true,
     "orig": "TP",
     "peli": true,
-    "tv3": true,
-    "separat": true
+    "tv3": true
   },
   {
     "titol": "Sistema solar<br><small><i>tres episodis</i></small>",
