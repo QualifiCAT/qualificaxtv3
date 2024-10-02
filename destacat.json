@@ -6,8 +6,7 @@
     "por": true,
     "orig": "10",
     "serie": true,
-    "tv3": true,
-    "separat": true
+    "tv3": true
   },
   {
     "titol": "Desvelades",
@@ -17,7 +16,8 @@
     "discriminacio": true,
     "orig": "TP",
     "peli": true,
-    "tv3": true
+    "tv3": true,
+    "separat": true
   },
   {
     "titol": "Sistema solar<br><small><i>tres episodis</i></small>",
