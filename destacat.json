@@ -14,8 +14,7 @@
     "edat": "0",
     "orig": "TP",
     "serie": true,
-    "x3": true,
-    "separat": true
+    "x3": true
   },
   {
     "titol": "Desvelades",
@@ -25,7 +24,8 @@
     "discriminacio": true,
     "orig": "TP",
     "peli": true,
-    "tv3": true
+    "tv3": true,
+    "separat": true
   },
   {
     "titol": "Sistema solar<br><small><i>tres episodis</i></small>",
@@ -53,15 +53,6 @@
     "sexe": true,
     "llenguatge": true,
     "orig": "TP",
-    "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "Polònia<br><small>12/09/2024</small>",
-    "codi": "Polònia##",
-    "edat": "13",
-    "llenguatge": true,
-    "orig": "7",
     "serie": true,
     "tv3": true
   }
