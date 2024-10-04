@@ -11995,6 +11995,27 @@
     "mesinfo": "<b>Conductes i valors incívics</b><br>L'episodi presenta conductes com la irresponsabilitat de manera ambígua."
   },
   {
+    "titol": "Projecte Beta 6x04 - La festa",
+    "codi": "6302118",
+    "edat": "7",
+    "raons": "Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "<b>Conductes i valors incívics</b><br>Dos protagonistes es burlen del fet que obrir cartes d'algú altre està recollit com a delicte en el codi penal. Més tard, el destinatari se n'adona, els renya i els dona una lliçó."
+  },
+  {
+    "titol": "Projecte Beta 6x05 - El retorn dels jota jotes",
+    "codi": "6302116",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció neutra",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'cagat'.<br><br><b>Conductes i valors incívics</b><br>Els protagonistes fan servir els comentaris, les reaccions i el nombre de visites rebudes a les xarxes per fer augmentar l'autoestima d'una persona.<br><br>Hi ha situacions angoixants ocasionals d'afectació lleu."
+  },
+  {
+    "titol": "Projecte Beta 6x06 - Els Unicorns",
+    "codi": "6302120",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu",
+    "mesinfo": "<b>Por i angoixa</b><br>En un món de fantasia i exageradament irreal, un dels protagonistes està sota els efectes d'una boira, els ulls se li posen vermells i prova d'atacar els seus amics. Després, descobreixen que una amiga és malvada quan el seu braç de color negre sota el guant és descobert."
+  },
+  {
     "titol": "Punt de no retorn",
     "codi": "punt-de-no-retorn",
     "edat": "13",
