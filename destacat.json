@@ -1,8 +1,9 @@
 [
   {
-    "titol": "Polis<br><small><i>un episodi <small>(eps. 2-4 pendents d'analitzar)</small></i></small>",
+    "titol": "Polis<br><small><i>tres episodis <small>(ep. 4 pendent d'analitzar)</small></i></small>",
     "codi": "&quot;Polis&quot;#",
     "edat": "13",
+    "violencia": true,
     "por": true,
     "orig": "10",
     "serie": true,
