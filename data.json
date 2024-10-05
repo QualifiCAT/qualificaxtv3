@@ -14054,6 +14054,21 @@
     "x3": true
   },
   {
+    "titol": "Zenit",
+    "codi": "zenit",
+    "edat": "10",
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Zenit - Gala 1",
+    "codi": "6303432",
+    "edat": "10",
+    "raons": "Continguts sexuals ocasionals d'explicitació mitjana<br>Al·lusions al consum de drogues lícites (alcohol), presentat de manera neutra",
+    "mesinfo": "<b>Sexe</b><br>Una de les cançons que es canta inclou lletres com 'jo que tinc una erecció quan pujo el Pedraforca' i 'tinc somnis eròtics amb en Jordi Pujol'. En una de les actuacions, hi ha elements de sexualització per la vestimenta i per les coreografies. També es fan algunes al·lusions verbals d'explicitació lleu.<br><br><b>Drogues</b><br>Una cançó fa al·lusió a anar 'ben torrat'. Un dels cantants diu que les dotze de la nit és l'hora 'de l'última copa', d'acabar-se el vi, i per això escull cantar una cançó amb una lletra que vincula alcohol amb activitat sexual ('chupito de absenta y me pongo pibón por si esta noche pasa algo entre tú y yo').<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa ('fotut', 'hòstia', 'joder'). En una cançó, es fa fugaçment una al·lusió al suïcidi ('sempre deia que a la matinada es mataria')."
+  },
+  {
     "titol": "ZombieLars",
     "codi": "zombielars",
     "edat": "10",
