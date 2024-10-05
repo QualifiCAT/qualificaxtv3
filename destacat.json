@@ -20,7 +20,7 @@
     "separat": true
   },
   {
-    "titol": "Zenit<br>Gala 1",
+    "titol": "Zenit<br><small>gala 1</small>",
     "codi": "Zenit##",
     "edat": "10",
     "sexe": true,
