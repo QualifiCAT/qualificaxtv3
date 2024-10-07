@@ -10,6 +10,17 @@
     "tv3": true
   },
   {
+    "titol": "Punt de no retorn<br><small>Israel Balagan</small>",
+    "codi": "Punt de no retorn##",
+    "edat": "13",
+    "violencia": true,
+    "por": true,
+    "orig": "18",
+    "serie": true,
+    "3cat": true,
+    "separat": true
+  },
+  {
     "titol": "Projecte Beta. La sèrie<br><small>temporada 6</small>",
     "codi": "Projecte Beta#",
     "edat": "7",
@@ -17,8 +28,7 @@
     "incivisme": true,
     "orig": "TP",
     "serie": true,
-    "x3": true,
-    "separat": true
+    "x3": true
   },
   {
     "titol": "Zenit<br><small>gala 1</small>",
@@ -46,15 +56,6 @@
     "edat": "10",
     "llenguatge": true,
     "orig": "TP",
-    "serie": true,
-    "3cat": true
-  },
-  {
-    "titol": "La travessa<br><small><i>episodi 2x02</i></small>",
-    "codi": "La travessa##",
-    "edat": "13",
-    "llenguatge": true,
-    "orig": "7",
     "serie": true,
     "3cat": true
   }
