@@ -12032,7 +12032,7 @@
     "titol": "Punt de no retorn",
     "codi": "punt-de-no-retorn",
     "edat": "13",
-    "orig": "Variable entre TP i 18",
+    "orig": "18, majoritàriament (a YouTube, cap capítol té restricció per edat)",
     "serie": true,
     "tv3": true,
     "3cat": true
@@ -12093,6 +12093,13 @@
     "edat": "13",
     "orig": "18",
     "raons": "Violència reiterada, versemblant, no explícita, d'intensitat lleu, legitimada<br>Por i angoixa reiterada d'afectació mitjana<br>Comentaris discriminatoris amb sanció neutra"
+  },
+  {
+    "titol": "Punt de no retorn 2x02 - Israel Balagan",
+    "codi": "6303703",
+    "edat": "13",
+    "orig": "18",
+    "raons": "Violència freqüent, versemblant, explícita, d'intensitat greu, no legitimada<br>Por i angoixa freqüent d'afectació alta"
   },
   {
     "titol": "Quan Hitler em va robar el conillet rosa",
