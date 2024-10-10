@@ -1,6 +1,6 @@
 [
   {
-    "titol": "Polis<br><small><i>tres episodis <small>(ep. 4 pendent d'analitzar)</small></i></small>",
+    "titol": "Polis<br><small><i>tots els quatre episodis</i></small>",
     "codi": "&quot;Polis&quot;#",
     "edat": "13",
     "violencia": true,
@@ -17,8 +17,7 @@
     "por": true,
     "orig": "18",
     "serie": true,
-    "3cat": true,
-    "separat": true
+    "3cat": true
   },
   {
     "titol": "Projecte Beta. La sèrie<br><small>temporada 6</small>",
