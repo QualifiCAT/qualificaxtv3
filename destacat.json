@@ -1,5 +1,14 @@
 [
   {
+    "titol": "Filmets",
+    "codi": "Filmets#",
+    "edat": "18",
+    "sexe": true,
+    "orig": "Variable",
+    "serie": true,
+    "3cat": true
+  },
+  {
     "titol": "Polis<br><small><i>tots els quatre episodis</i></small>",
     "codi": "&quot;Polis&quot;#",
     "edat": "13",
@@ -48,14 +57,5 @@
     "orig": "TP",
     "peli": true,
     "tv3": true
-  },
-  {
-    "titol": "Sistema solar<br><small><i>tres episodis</i></small>",
-    "codi": "Sistema solar#",
-    "edat": "10",
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "3cat": true
   }
 ]
