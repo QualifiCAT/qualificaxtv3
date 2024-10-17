@@ -4755,6 +4755,78 @@
     "raons": "Por i angoixa freqüent d'afectació lleu"
   },
   {
+    "titol": "Filmets",
+    "codi": "filmets",
+    "edat": "18",
+    "orig": "Variable",
+    "serie": true,
+    "3cat": true
+  },
+  {
+    "titol": "Filmets - Suc de síndria",
+    "codi": "6090382",
+    "edat": "18",
+    "orig": "18",
+    "imdb": "tt9302096",
+    "raons": "Continguts sexuals freqüents d'explicitació alta"
+  },
+  {
+    "titol": "Filmets - La banyera",
+    "codi": "6304254",
+    "edat": "10",
+    "orig": "7",
+    "imdb": "tt12829756",
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat greu, no legitimada<br>Llenguatge groller ocasional d'intensitat alta"
+  },
+  {
+    "titol": "Filmets - Nefta football club",
+    "codi": "6304790",
+    "edat": "13",
+    "orig": "TP",
+    "imdb": "tt8551848",
+    "raons": "Consum de drogues lícites (tabac), i tràfic i consum de drogues il·lícites (cocaïna), tot de manera neutra"
+  },
+  {
+    "titol": "Filmets - Ruby",
+    "codi": "6305215",
+    "edat": "10",
+    "orig": "TP",
+    "imdb": "tt9056968",
+    "raons": "Continguts sexuals ocasionals d'explicitació mitjana"
+  },
+  {
+    "titol": "Filmets - White eye",
+    "codi": "6305221",
+    "edat": "10",
+    "orig": "TP",
+    "imdb": "tt10538710",
+    "raons": "Continguts sexuals ocasionals d'explicitació mitjana<br>Consum de drogues lícites (tabac, alcohol), presentat de manera neutra<br>Llenguatge groller ocasional d'intensitat alta"
+  },
+  {
+    "titol": "Filmets - Skin",
+    "codi": "6305222",
+    "edat": "13",
+    "orig": "13",
+    "imdb": "tt7332306",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat greu, no legitimada"
+  },
+  {
+    "titol": "Filmets - Little Berlin",
+    "codi": "6257324",
+    "edat": "10",
+    "orig": "TP",
+    "imdb": "tt12801458",
+    "raons": "Continguts sexuals freqüents d'explicitació baixa<br>Por i angoixa freqúent d'afectació mitjana"
+  },
+  {
+    "titol": "Filmets - Haulout",
+    "codi": "6255989",
+    "edat": "10",
+    "orig": "TP",
+    "imdb": "tt17162620",
+    "raons": "Consum de drogues lícites (tabac), presentat de manera neutra"
+  },
+  {
     "titol": "Flying Squirrels",
     "codi": "flying-squirrels",
     "edat": "7",
