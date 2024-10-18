@@ -2,8 +2,11 @@
   {
     "titol": "Filmets",
     "codi": "Filmets#",
-    "edat": "18",
+    "edat": "13",
+    "violencia": true,
     "sexe": true,
+    "drogues": true,
+    "llenguatge": true,
     "orig": "Variable",
     "serie": true,
     "3cat": true
