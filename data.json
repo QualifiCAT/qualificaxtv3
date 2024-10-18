@@ -4757,7 +4757,7 @@
   {
     "titol": "Filmets",
     "codi": "filmets",
-    "edat": "18",
+    "edat": "13",
     "orig": "Variable",
     "serie": true,
     "3cat": true
@@ -4765,10 +4765,10 @@
   {
     "titol": "Filmets - Suc de síndria",
     "codi": "6090382",
-    "edat": "18",
+    "edat": "13",
     "orig": "18",
     "imdb": "tt9302096",
-    "raons": "Continguts sexuals freqüents d'explicitació alta"
+    "raons": "Continguts sexuals reiterats d'explicitació mitjana<br>Llenguatge groller freqüent d'intensitat alta"
   },
   {
     "titol": "Filmets - La banyera",
