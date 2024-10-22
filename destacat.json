@@ -1,5 +1,15 @@
 [
   {
+    "titol": "Pla de venjança",
+    "codi": "Pla de venjança",
+    "edat": "13",
+    "violencia": true,
+    "por": true,
+    "orig": "10",
+    "peli": true,
+    "tv3": true
+  },
+  {
     "titol": "Filmets",
     "codi": "Filmets#",
     "edat": "13",
@@ -49,16 +59,6 @@
     "drogues": true,
     "orig": "TP",
     "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "Desvelades",
-    "codi": "Desvelades",
-    "edat": "13",
-    "violencia": true,
-    "discriminacio": true,
-    "orig": "TP",
-    "peli": true,
     "tv3": true
   }
 ]
