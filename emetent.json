@@ -30,9 +30,10 @@
     "orig": "TP"
   },
   {
-    "titol": "Quanta guerra!",
+    "titol": "Zenit",
     "edat": "10",
-    "orig": "TP"
+    "orig": "TP",
+    "novetat": true
   },
   {
     "titol": "El detectiu Conan",
@@ -50,15 +51,14 @@
     "orig": "TP"
   },
   {
-    "titol": "Fora de control",
+    "titol": "Lara i Kali",
     "edat": "10",
-    "orig": "7"
+    "orig": "TP"
   },
   {
     "titol": "Les filles del Dad",
     "edat": "7",
-    "orig": "TP",
-    "novetat": true
+    "orig": "TP"
   },
   {
     "titol": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
