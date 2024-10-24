@@ -1,5 +1,15 @@
 [
   {
+    "titol": "Fama fatal",
+    "codi": "Fama fatal",
+    "edat": "13",
+    "por": true,
+    "drogues": true,
+    "orig": "7",
+    "peli": true,
+    "tv3": true
+  },
+  {
     "titol": "Pla de venjança",
     "codi": "Pla de venjança",
     "edat": "13",
@@ -50,15 +60,5 @@
     "orig": "TP",
     "serie": true,
     "x3": true
-  },
-  {
-    "titol": "Zenit<br><small>gala 1</small>",
-    "codi": "Zenit##",
-    "edat": "10",
-    "sexe": true,
-    "drogues": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
   }
 ]
