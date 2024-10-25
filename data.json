@@ -1,5 +1,16 @@
 [
   {
+    "titol": "12 anys d'esclavitud (2013)",
+    "codi": "33333333333333333333333333",
+    "edat": "13",
+    "orig": "16",
+    "imdb": "tt2024544",
+    "csm": "movie-reviews/12-years-a-slave",
+    "peli": true,
+    "tv3": true,
+    "raons": "Violència freqüent, versemblant, explícita, d'intensitat molt greu, no legitimada<br>Por i angoixa freqüent d'afectació alta"
+  },
+  {
     "titol": "30 minuts",
     "codi": "30-minuts",
     "edat": "18",
@@ -3131,6 +3142,17 @@
     "peli": true,
     "x3": true,
     "raons": "Violència freqüent, versemblant, explícita, d'intensitat greu, no legitimada"
+  },
+  {
+    "titol": "El discurs del rei (2010)",
+    "codi": "6244782",
+    "edat": "10",
+    "orig": "TP",
+    "imdb": "tt1504320",
+    "csm": "movie-reviews/the-kings-speech",
+    "peli": true,
+    "tv3": true,
+    "raons": "Consum de drogues lícites (alcohol, tabac), presentat de manera neutra<br>Llenguatge groller ocasional d'intensitat alta"
   },
   {
     "titol": "El factor clau",
