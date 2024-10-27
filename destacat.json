@@ -1,5 +1,15 @@
 [
   {
+    "titol": "Això té un 30, 40 anys de reportatges",
+    "codi": "30 minuts##",
+    "edat": "13",
+    "por": true,
+    "drogues": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "12 anys d'esclavitud",
     "codi": "12 anys d&apos;esclavitud",
     "edat": "13",
@@ -50,15 +60,5 @@
     "orig": "Variable",
     "serie": true,
     "3cat": true
-  },
-  {
-    "titol": "Polis<br><small><i>tots els quatre episodis</i></small>",
-    "codi": "&quot;Polis&quot;#",
-    "edat": "13",
-    "violencia": true,
-    "por": true,
-    "orig": "10",
-    "serie": true,
-    "tv3": true
   }
 ]
