@@ -1,5 +1,14 @@
 [
   {
+    "titol": "Hanna i els monstres",
+    "codi": "Hanna i els monstres",
+    "edat": "0",
+    "por": true,
+    "orig": "TP",
+    "peli": true,
+    "x3": true
+  },
+  {
     "titol": "Això té un 30, 40 anys de reportatges",
     "codi": "30 minuts##",
     "edat": "13",
@@ -48,17 +57,5 @@
     "orig": "10",
     "peli": true,
     "tv3": true
-  },
-  {
-    "titol": "Filmets",
-    "codi": "Filmets#",
-    "edat": "13",
-    "violencia": true,
-    "sexe": true,
-    "drogues": true,
-    "llenguatge": true,
-    "orig": "Variable",
-    "serie": true,
-    "3cat": true
   }
 ]
