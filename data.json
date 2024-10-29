@@ -10645,6 +10645,18 @@
     "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
+    "titol": "Mòmies",
+    "codi": "6306639",
+    "edat": "7",
+    "orig": "TP",
+    "imdb": "tt23177868",
+    "csm": "movie-reviews/mummies",
+    "peli": true,
+    "x3": true,
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Violència</b><br>L'antagonista a vegades es porta malament amb els seus ajudants: els fa xocar el cap o els dona calbots o bufetades. Un dolent dispara un dard tranquil·litzant a una noia per segrestar-la; després en dispara uns quants més als personatges que venen a rescatar-la. En una ocasió, els bons es defensen fent-los claus mestres que els llencen pels aires, i s'entén que un d'ells -una mascota cocodril- li mossega l'entrecuix a un home, tot de manera pretesament còmica. En una persecució final, el dolent dona cops de puny al protagonista i l'intenta escanyar.<br><br><b>Por i angoixa</b><br>Hi ha persecucions entre vehicles que ocasionalment provoquen la destrucció d'edificis, i situacions en què els protagonistes es troben en perill. En una cursa de cavalls, un home té un accident i surt disparat contra el terra, i des de llavors té por de conduir. Els herois són drogats amb dards tranquil·litzants, segrestats i encadenats per part del dolent; vegeu 'Violència'. S'entén que l'antagonista mor quan cau per un precipici durant la persecució final. Es fa sovint referència a l'amenaça que, si l'heroi perd un objecte valuosíssim, li tallaran la llengua i els ulls.<br><br><b>Llenguatge groller</b><br>Es fan servir ocasionalment insults com 'inútils', 'idiotes', 'imbècils' o 'estúpida', i es diu 'merda' una vegada.<br><br>La pel·lícula presenta una trama romàntica que dura de principi a fi, amb alguns petons a la boca i estereotips de gènere. També hi ha conductes incíviques en un context irreal, com quan un nen inutilitza unes càmeres de seguretat amb un esprai per poder-se colar a un edifici i salvar els seus amics."
+  },
+  {
     "titol": "Món maker",
     "codi": "monmaker",
     "edat": "7",
