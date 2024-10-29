@@ -1,5 +1,16 @@
 [
   {
+    "titol": "Mòmies",
+    "codi": "Mòmies",
+    "edat": "7",
+    "violencia": true,
+    "por": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "peli": true,
+    "x3": true
+  },
+  {
     "titol": "Hanna i els monstres",
     "codi": "Hanna i els monstres",
     "edat": "0",
@@ -45,16 +56,6 @@
     "por": true,
     "drogues": true,
     "orig": "7",
-    "peli": true,
-    "tv3": true
-  },
-  {
-    "titol": "Pla de venjança",
-    "codi": "Pla de venjança",
-    "edat": "13",
-    "violencia": true,
-    "por": true,
-    "orig": "10",
     "peli": true,
     "tv3": true
   }
