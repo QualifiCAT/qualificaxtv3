@@ -4631,6 +4631,14 @@
     "x3": true
   },
   {
+    "titol": "Faraday",
+    "codi": "faraday",
+    "edat": "0",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
+  },
+  {
     "titol": "FIC-CAT",
     "codi": "ficcat",
     "edat": "13",
