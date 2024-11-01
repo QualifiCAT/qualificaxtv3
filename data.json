@@ -3674,6 +3674,21 @@
     "mesinfo": "<b>Sexe</b><br>En una ocasió, es mostren unes fotografies. Una d'elles té connotacions sexuals ja que s'hi veu un home nu aguantant-se un penis en forma de tronc enorme.<br><br><b>Llenguatge groller</b><br>El programa inclou expressions com 'torracollons', 'hòstia', 'merda' i 'fotre'.<br><br>Es fan comentaris sobre la vida difícil de la poeta, incloent-hi la seva mort i de gent qui estimava. Es fan algunes al·lusions a l'alcohol, però no hi ha imatges de consum."
   },
   {
+    "titol": "El nou clam",
+    "codi": "el-nou-clam",
+    "edat": "10",
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "El nou clam 1x01 - Som un clam",
+    "codi": "6306499",
+    "edat": "10",
+    "raons": "Consum de drogues lícites (alcohol), presentat de manera neutra<br>Llenguatge groller freqüent d'intensitat baixa",
+    "mesinfo": "<b>Drogues</b><br>Es veuen imatges de consum d'alcohol en contextos de celebració. Es veu en primer pla com es prepara un còctel i com el conductor del programa el consumeix.<br><br><b>Llenguatge groller</b><br>Es diu sovint 'hosti' o 'hòstia', de manera col·loquial, i 'cabreig', 'collonuda' i 'fotre' ocasionalment.<br><br>Hi ha situacions ocasionals de por i angoixa d'afectació lleu."
+  },
+  {
     "titol": "El record de la Marnie",
     "codi": "6290414",
     "edat": "10",
@@ -9552,6 +9567,21 @@
     "peli": true,
     "x3": true,
     "raons": "Violència freqüent, irreal, no explícita, d'intensitat molt lleu, legitimada"
+  },
+  {
+    "titol": "Lo repte",
+    "codi": "lo-repte",
+    "edat": "10",
+    "orig": "TP",
+    "serie": true,
+    "3cat": true
+  },
+  {
+    "titol": "Lo repte 1x01 - El repte",
+    "codi": "6304093",
+    "edat": "10",
+    "raons": "Llenguatge groller ocasional d'intensitat alta",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'cagada', 'ni puta gràcia' i 'putada'.<br><br>Hi ha continguts sexuals ocasionals d'explicitació baixa."
   },
   {
     "titol": "Looney Tunes Cartoons",
