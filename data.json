@@ -8884,6 +8884,32 @@
     "mesinfo": "<b>Por i angoixa</b><br>Es fa servir música de tensió en moments com quan un líquid tòxic cau d'una furgoneta i vessa al terra. Una gossa i una noia naufraguen. Es diu que una fundació acull cavalls que han estat maltractats. La protagonista baixa una cova claustrofòbica i amb poc oxigen."
   },
   {
+    "titol": "Lara i Kali 3x05 - El Priorat",
+    "codi": "6304621",
+    "edat": "7",
+    "raons": "Consum de drogues lícites (alcohol), presentat de manera negativa<br>Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "<b>Drogues</b><br>Uns nois fan una festa al bosc amb llaunes de cervesa i altres begudes i hi deixen totes les deixalles.<br><br><b>Conductes i valors incívics</b><br>Vegeu 'Drogues'.<br><br>Hi ha situacions ocasionals de por i angoixa, per l'ús de música de tensió, d'afectació lleu."
+  },
+  {
+    "titol": "Lara i Kali 3x06 - Prades",
+    "codi": "6304617",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu",
+    "mesinfo": "<b>Por i angoixa</b><br>Es fa servir música de tensió en moments com quan una noia ha de desgrimpar una paret. Es fan algunes al·lusions no detallades a guerres i s'ensenyen cranis i ossos prehistòrics."
+  },
+  {
+    "titol": "Lara i Kali 3x07 - Les Garrigues",
+    "codi": "6304619",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu",
+    "mesinfo": "<b>Por i angoixa</b><br>La protagonista rellisca i es dona un cop de cap contra el terra, i quan es desperta, ha oblidat temporalment la memòria: s'espanta en veure la seva pròpia gossa i marxa corrents mentre ella la persegueix. Es fa servir ocasionalment música de tensió."
+  },
+  {
+    "titol": "Lara i Kali 3x08 - Excursions",
+    "codi": "6304623",
+    "edat": "0"
+  },
+  {
     "titol": "Lara, què fem?",
     "codi": "lara-que-fem",
     "edat": "10",
