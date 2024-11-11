@@ -1,5 +1,34 @@
 [
   {
+    "titol": "APM?<br><small>10/11/2024</small>",
+    "codi": "APM?",
+    "edat": "13",
+    "sexe": true,
+    "discriminacio": true,
+    "orig": "10",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Polònia<br><small>07/11/2024</small>",
+    "codi": "Polònia",
+    "edat": "13",
+    "drogues": true,
+    "llenguatge": true,
+    "orig": "7",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "APM?<br><small>06/11/2024</small>",
+    "codi": "APM?",
+    "edat": "13",
+    "llenguatge": true,
+    "orig": "10",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Dummie la mòmia i l'esfinx de Shakaba",
     "codi": "Dummie la mòmia i l&apos;esfinx de Shakaba",
     "edat": "7",
@@ -28,35 +57,5 @@
     "orig": "7",
     "peli": true,
     "x3": true
-  },
-  {
-    "titol": "Mòmies",
-    "codi": "Mòmies",
-    "edat": "7",
-    "violencia": true,
-    "por": true,
-    "llenguatge": true,
-    "orig": "TP",
-    "peli": true,
-    "x3": true
-  },
-  {
-    "titol": "Hanna i els monstres",
-    "codi": "Hanna i els monstres",
-    "edat": "0",
-    "por": true,
-    "orig": "TP",
-    "peli": true,
-    "x3": true
-  },
-  {
-    "titol": "Això té un 30, 40 anys de reportatges",
-    "codi": "30 minuts##",
-    "edat": "13",
-    "por": true,
-    "drogues": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
   }
 ]
