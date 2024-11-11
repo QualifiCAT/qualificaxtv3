@@ -1,7 +1,7 @@
 [
   {
     "titol": "APM?<br><small>10/11/2024</small>",
-    "codi": "APM?",
+    "codi": "APM?##",
     "edat": "13",
     "sexe": true,
     "discriminacio": true,
@@ -11,7 +11,7 @@
   },
   {
     "titol": "Polònia<br><small>07/11/2024</small>",
-    "codi": "Polònia",
+    "codi": "Polònia##",
     "edat": "13",
     "drogues": true,
     "llenguatge": true,
@@ -21,7 +21,7 @@
   },
   {
     "titol": "APM?<br><small>06/11/2024</small>",
-    "codi": "APM?",
+    "codi": "APM?##",
     "edat": "13",
     "llenguatge": true,
     "orig": "10",
