@@ -5,11 +5,6 @@
     "orig": "7"
   },
   {
-    "titol": "La travessa",
-    "edat": "13",
-    "orig": "7"
-  },
-  {
     "titol": "Plats bruts",
     "edat": "13",
     "orig": "10"
@@ -21,6 +16,11 @@
   },
   {
     "titol": "Està passant",
+    "edat": "13",
+    "orig": "TP"
+  },
+  {
+    "titol": "Joc de cartes",
     "edat": "13",
     "orig": "TP"
   },
