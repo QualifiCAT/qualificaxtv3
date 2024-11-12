@@ -1,5 +1,14 @@
 [
   {
+    "titol": "Nervi<br><small>07/11/2024</small>",
+    "codi": "Nervi##",
+    "edat": "13",
+    "drogues": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "APM?<br><small>10/11/2024</small>",
     "codi": "APM?##",
     "edat": "13",
@@ -43,17 +52,6 @@
     "edat": "7",
     "violencia": true,
     "por": true,
-    "orig": "7",
-    "peli": true,
-    "x3": true
-  },
-  {
-    "titol": "Els herois inesperats",
-    "codi": "Els herois inesperats",
-    "edat": "7",
-    "por": true,
-    "llenguatge": true,
-    "incivisme": true,
     "orig": "7",
     "peli": true,
     "x3": true
