@@ -1,5 +1,30 @@
 [
   {
+    "titol": "(PENDENT D'ANALITZAR)<br>30 minuts<br><small>La IA i la ment humana</small>",
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Lo repte<br><small>episodi 1</small>",
+    "codi": "Lo repte##",
+    "edat": "10",
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "3cat": true
+  },
+  {
+    "titol": "El nou clam<br><small>episodi 1</small>",
+    "codi": "El nou clam##",
+    "edat": "10",
+    "drogues": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Nervi<br><small>07/11/2024</small>",
     "codi": "Nervi##",
     "edat": "13",
@@ -9,51 +34,22 @@
     "tv3": true
   },
   {
-    "titol": "APM?<br><small>10/11/2024</small>",
-    "codi": "APM?##",
-    "edat": "13",
-    "sexe": true,
-    "discriminacio": true,
-    "orig": "10",
-    "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "Polònia<br><small>07/11/2024</small>",
-    "codi": "Polònia##",
-    "edat": "13",
-    "drogues": true,
-    "llenguatge": true,
-    "orig": "7",
-    "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "APM?<br><small>06/11/2024</small>",
-    "codi": "APM?##",
-    "edat": "13",
-    "llenguatge": true,
-    "orig": "10",
-    "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "Dummie la mòmia i l'esfinx de Shakaba",
-    "codi": "Dummie la mòmia i l&apos;esfinx de Shakaba",
-    "edat": "7",
+    "titol": "Projecte Beta<br><small>temporada 6<br>episodis 7-12</small>",
+    "codi": "Projecte Beta##",
+    "edat": "10",
     "incivisme": true,
-    "orig": "7",
-    "peli": true,
+    "orig": "TP",
+    "serie": true,
     "x3": true
   },
   {
-    "titol": "Dummie la mòmia i l'escarabat d'or",
-    "codi": "Dummie la mòmia i l&apos;escarabat d&apos;or",
+    "titol": "Lara i Kali<br><small>temporada 3</small>",
+    "codi": "Lara i Kali##",
     "edat": "7",
-    "violencia": true,
-    "por": true,
-    "orig": "7",
-    "peli": true,
+    "drogues": true,
+    "incivisme": true,
+    "orig": "TP",
+    "serie": true,
     "x3": true
   }
 ]
