@@ -12335,6 +12335,48 @@
     "mesinfo": "<b>Por i angoixa</b><br>En un món de fantasia i exageradament irreal, un dels protagonistes està sota els efectes d'una boira, els ulls se li posen vermells i prova d'atacar els seus amics. Després, descobreixen que una amiga és malvada quan el seu braç de color negre sota el guant és descobert."
   },
   {
+    "titol": "Projecte Beta 6x07 - Teràpia de xoc",
+    "codi": "6307494",
+    "edat": "10",
+    "raons": "Conductes i valors incívics amb sanció neutra",
+    "mesinfo": "<b>Conductes i valors incívics</b><br>El capítol es basa en la seva totalitat en la burla de la personalitat d'un dels protagonistes per part dels seus companys. Per tal de fer-li passar una fòbia, li regiren els objectes personals sense permís per recrear l'escena que la va provocar (es va traumatitzar quan va veure la seva àvia tacada de remolatxa pensant-se que era sang), i es dediquen a perseguir-lo amb les mans brutes, rient, ignorant els seus crits. Es burlen de què el seu diari és avorrit i de que és un panoli i un patata. També es parla sobre dir mentides de manera ambígua.<br><br>Hi ha situacions ocasionals de por i angoixa d'afectació lleu (vegeu 'Conductes i valors incívics')."
+  },
+  {
+    "titol": "Projecte Beta 6x08 - La cita",
+    "codi": "6307495",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'cagada'."
+  },
+  {
+    "titol": "Projecte Beta 6x09 - El rival del ball",
+    "codi": "6307498",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'cagat'.<br><br>Li diuen 'patètic' a un personatge."
+  },
+  {
+    "titol": "Projecte Beta 6x10 - El senyor Charlie",
+    "codi": "6307689",
+    "edat": "7",
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat molt lleu, no legitimada<br>Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Violència</b><br>Es veu la silueta d'un noi destruint un robot en forma de consola portàtil amb un martell.<br><br><b>Llenguatge groller</b><br>Es diu 'cagat' i 'cagabandúrries'.<br><br>Hi ha situacions ocasionals de por i angoixa d'afectació lleu, quan es parla del 'desmembrament' i intent d''homicidi' d'una consola portàtil."
+  },
+  {
+    "titol": "Projecte Beta 6x11 - Janpi, el dofí",
+    "codi": "6309030",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'cagat'.<br><br>Hi ha situacions ocasionals de por i angoixa d'afectació lleu."
+  },
+  {
+    "titol": "Projecte Beta 6x12 - El Gran Atzem",
+    "codi": "6309248",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'cagat'.<br><br>Hi ha situacions ocasionals de por i angoixa d'afectació lleu quan es parla d'un incendi i quan un personatge és posseït i parla amb veu greu, però no vol fer mal a ningú."
+  },
+  {
     "titol": "Punt de no retorn",
     "codi": "punt-de-no-retorn",
     "edat": "13",
