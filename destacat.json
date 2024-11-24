@@ -1,5 +1,15 @@
 [
   {
+    "titol": "30 minuts<br><small>El mar, en suspens</small>",
+    "codi": "30 minuts##",
+    "edat": "7",
+    "llenguatge": true,
+    "incivisme": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "30 minuts<br><small>La IA i la ment humana</small>",
     "codi": "30 minuts##",
     "edat": "0",
@@ -40,16 +50,6 @@
     "titol": "Projecte Beta<br><small>temporada 6<br>episodis 7-12</small>",
     "codi": "Projecte Beta##",
     "edat": "10",
-    "incivisme": true,
-    "orig": "TP",
-    "serie": true,
-    "x3": true
-  },
-  {
-    "titol": "Lara i Kali<br><small>temporada 3</small>",
-    "codi": "Lara i Kali##",
-    "edat": "7",
-    "drogues": true,
     "incivisme": true,
     "orig": "TP",
     "serie": true,
