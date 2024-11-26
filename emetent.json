@@ -5,9 +5,9 @@
     "orig": "7"
   },
   {
-    "titol": "Plats bruts",
+    "titol": "Joc de cartes",
     "edat": "13",
-    "orig": "10"
+    "orig": "TP"
   },
   {
     "titol": "APM?",
@@ -15,14 +15,9 @@
     "orig": "10"
   },
   {
-    "titol": "Està passant",
+    "titol": "Punt de no retorn",
     "edat": "13",
-    "orig": "TP"
-  },
-  {
-    "titol": "Joc de cartes",
-    "edat": "13",
-    "orig": "TP"
+    "orig": "18"
   },
   {
     "titol": "El foraster",
@@ -30,13 +25,22 @@
     "orig": "TP"
   },
   {
+    "titol": "L&apos;eclipsi",
+    "edat": "10",
+    "orig": "TP"
+  },
+  {
     "titol": "Zenit",
     "edat": "10",
-    "orig": "TP",
-    "novetat": true
+    "orig": "TP"
   },
   {
     "titol": "El detectiu Conan",
+    "edat": "13",
+    "orig": "7"
+  },
+  {
+    "titol": "Bola de Drac",
     "edat": "13",
     "orig": "7"
   },
@@ -47,11 +51,6 @@
   },
   {
     "titol": "Dracs: els nou regnes",
-    "edat": "7",
-    "orig": "TP"
-  },
-  {
-    "titol": "Les sisters",
     "edat": "7",
     "orig": "TP"
   },
