@@ -1339,7 +1339,18 @@
     "raons": "Llenguatge groller ocasional d'intensitat alta"
   },
   {
-    "titol": "Bola de drac Super: Broly",
+    "titol": "Bola de Drac",
+    "codi": "bola-de-drac",
+    "edat": "13",
+    "orig": "7 (prèviament: 10) (versió censurada)",
+    "imdb": "tt0088509",
+    "csm": "tv-reviews/dragon-ball",
+    "serie": true,
+    "tv3": true,
+    "x3": true
+  },
+  {
+    "titol": "Bola de Drac Super: Broly",
     "codi": "6210525",
     "edat": "10",
     "orig": "7",
@@ -1351,7 +1362,7 @@
     "mesinfo": "<b>Violència</b><br>Mitja pel·lícula és un prolongat combat cos a cos amb cops de puny, cops de cap, trets d'atacs d'energia, intents d'ofegament, explosions, etc., destrossant muntanyes o el terra. No es veu mai sang ni ferides greus; com a molt, s'escup saliva després d'un impacte fort. En una escena, un home mor un altre amb una pistola làser, i en una altra, un home mor després que un atac amb el dit li perfori el pit. Hi ha moments on es dona a entendre que un dolent ha comès un genocidi. Un home dispara contra una criatura, mutilant-li l'orella. Hi ha una escena d'assetjament sexual en què un home ebri s'apropa a una dona i li ofereix de passar-ho bé; un home es baralla amb ell per defensar-la, però és electrocutat abans no pugui fer més mal a l'assetjador.<br><br><b>Conductes i valors incívics</b><br>Es fa un comentari de culte al cos en què una dona diu que el seu somni és tenir cinc anys menys. En una altra escena, una noia roba i trenca un objecte per tal d'alliberar el seu amic del seu pare.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa, com 'merda', 'desgraciat' o 'imbècil'. Hi ha consum d'alcohol implícit, presentat negativament."
   },
   {
-    "titol": "Bola de drac Z: La resurrecció de F",
+    "titol": "Bola de Drac Z: La resurrecció de F",
     "codi": "6210524",
     "edat": "10",
     "orig": "7",
