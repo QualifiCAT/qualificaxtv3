@@ -1796,6 +1796,21 @@
     "mesinfo": "<b>Sexe</b><br>Parlant sobre la informació inútil que troba rebuscant sobre la vida i descendència d'un difunt, el presentador diu 'a la vida hi ha molta palla', fa una pausa i diu 'palla de..., ja m'entens'.<br><br><b>Por i angoixa</b><br>Tot el programa gira al voltant de buscar la identitat i la relació entre persones que han mort. Per tant, es fan freqüents mencions a la mort, natural o per accident, s'ensenyen cementiris i es parla d'enterraments i d'anar al front durant la guerra civil, per exemple, però tot es fa de manera respectuosa, amb una presentació neutra i sense ànim de provocar angoixa.<br><br><b>Llenguatge groller</b><br>Es diu 'hòstia' una vegada.<br><br>Parlant sobre tòpics madrilenys, el presentador pregunta còmicament si coneix algun lloc on fer una 'canyeta', i més tard, fa servir la frase feta 'aguanta'm el cubata'. No hi ha imatges de consum d'alcohol ni en cap moment es fa referència a què realment en begui durant el programa."
   },
   {
+    "titol": "Callejeros",
+    "codi": "callejeros",
+    "edat": "18",
+    "serie": true,
+    "cuatro": true,
+    "misc": true
+  },
+  {
+    "titol": "Callejeros 2.0 2x03 - Las Palmeras",
+    "codi": "9548954389543",
+    "edat": "18",
+    "raons": "Al·lusions i consum de drogues lícites (alcohol, tabac) i il·lícites (marihuana, cocaïna), presentades de manera neutra",
+    "mesinfo": "Senyalitzat en la seva emissió per televisió com a no recomanat per a menors de 18 anys.<br><br><b>Drogues</b><br>Es fan freqüents referències al consum de drogues il·lícites, quan algunes persones del carrer ensenyen les substàncies que porten a sobre, diuen que és per a traficar-ne i guanyar-se la vida o bé per a consum propi i reconeixent-ne l'abús i els seus suposats efectes neutralitzadors ('30 porros al día'; 'vitamina C (hachís), lo que nos mantiene en vida'; 'coca pa metérnosla, todos los días, el malestar te lo va a quitar'; una persona dient que guanya 80€ amb una bola d'haixix, la presentadora li diu que això és molt i li pregunta si deixarà de fumar després d'estar-ho fent vint anys, i rep una resposta ambigua). De manera ocasional, es veu gent fumant o preparant-se porros pel carrer. També hi ha presència de drogues legals: es fan bromes sobre l'alcohol i hi ha gent amb cigarrets. El programa es limita a mostrar l'estil de vida d'aquestes persones, no es posiciona ni a favor ni en contra del consum o tràfic d'aquestes substàncies i no parla dels seus efectes negatius en cap moment tret del que limitadament puguin arribar a dins alguns dels entrevistats (per exemple, un d'ells assegura estar 'rehabilitat' i un altre explica que va acabar a la presó per posseir-ne i per més delictes durant gairebé tota la seva vida).<br><br>Hi ha llenguatge groller ocasional d'intensitat alta (dit del mig, 'cojones', 'puterío', 'coñito'). Hi ha al·lusions sexuals ocasionals d'explicitació mitjana. Hi ha violència ocasional, versemblant, no explícita, lleu i no legitimada quan s'ensenyen cicatrius per apunyalament, armes blanques i de foc, i una batalla entre dos galls, un d'ells amb la cresta mutilada. Hi ha conductes i valors incívics amb sanció neutra quan, per exemple, es comenta el cas d'un noi que va deixar embarassada una noia amb 14 anys i se'n va divorciar deixant a càrrec d'ella els seus cinc fills. Hi ha por i angoixa ocasional d'afectació lleu per al·lusions a la mort i imatges de gent visiblement emocionada."
+  },
+  {
     "titol": "Campus 12",
     "codi": "campus-12",
     "edat": "10",
