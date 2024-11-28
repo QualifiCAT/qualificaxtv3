@@ -11245,6 +11245,21 @@
     "mesinfo": "<b>Drogues</b><br>Una cançó que sona de fons durant els crèdits al·ludeix a fumar 'el teu primer porret' parlant de les primeres vivències agradables de la vida des de l'escola fins l'edat adulta, de manera completament incidental i sense cap contextualització atès que és l'única referència a les drogues que es fa en tot el documental.<br><br>Hi ha llenguatge groller ocasional d'intensitat alta ('putada', 'joder'). Hi ha conductes i valors incívics presentats de manera neutra, quan uns entrevistats confessen haver mentit en el seu currículum, d'haver-hi afegit més titulacions del compte, i d'haver estat contractat igualment gràcies a això."
   },
   {
+    "titol": "Nivell extra",
+    "codi": "nivell-extra",
+    "edat": "10",
+    "orig": "TP",
+    "serie": true,
+    "3cat": true
+  },
+  {
+    "titol": "Nivell extra 1x07 - Els personatges dels videojocs també ens defineixen",
+    "codi": "6312184",
+    "edat": "10",
+    "raons": "Al·lusions al consum de drogues lícites i sense especificar, presentat de manera neutra<br>Llenguatge groller ocasional d'intensitat alta",
+    "mesinfo": "<b>Drogues</b><br>Un noi diu que va fumar i beure alcohol en una cita. Uns nois comparen l'aparença psicodèlica d'un joc amb consumir drogues: 'com si ens haguéssim fumat algu', 'com si el Mario Bros. s'hagués menjat algunes plantes rares'.<br><br><b>Llenguatge groller</b><br>Ús ocasional d'expressions com 'què collons', 'a la merda', 'cagat', 'hòstia!' o 'puto'.<br><br>Hi ha continguts sexuals ocasionals d'explicitació baixa, quan al fet de despullar-se l'anomenen 'striptease', i també quan a un noi li diuen que és 'ardent' perquè cada dia va amb una noia diferent."
+  },
+  {
     "titol": "No callis! Contra el bullying",
     "codi": "6217905",
     "edat": "0",
