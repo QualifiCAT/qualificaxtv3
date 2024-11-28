@@ -1,5 +1,15 @@
 [
   {
+    "titol": "Nivell extra<br><small>episodi 7</small>",
+    "codi": "Nivell extra##",
+    "edat": "10",
+    "drogues": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "3cat": true
+  },
+  {
     "titol": "Callejeros<br><small>Las Palmeras</small>",
     "codi": "Callejeros##",
     "edat": "18",
@@ -40,15 +50,6 @@
     "edat": "10",
     "drogues": true,
     "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "Nervi<br><small>07/11/2024</small>",
-    "codi": "Nervi##",
-    "edat": "13",
-    "drogues": true,
     "orig": "TP",
     "serie": true,
     "tv3": true
