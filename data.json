@@ -8687,7 +8687,7 @@
   {
     "titol": "La selva",
     "codi": "la-selva",
-    "edat": "10",
+    "edat": "13",
     "orig": "TP",
     "serie": true,
     "tv3": true
@@ -8705,6 +8705,13 @@
     "edat": "10",
     "raons": "Continguts sexuals ocasionals d'explicitació mitjana",
     "mesinfo": "<b>Sexe</b><br>Hi ha un punt en què es comenten missatges pujats de to que s'enviaven personatges en una sèrie de televisió i s'arriba a dir que es van dir que estaven 'mullats'. Durant la resta del programa, també es fan algunes referències verbals d'explicitació més baixa, com quan es reprodueix una declaració d'un polític que s'equivoca i diu 'penes' en comptes de 'peces'.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa, per alguns usos esporàdics de paraules com 'merda', 'hosti' o 'fotre', un moment passatger en què es diu que un personatge d'una pel·lícula és molt 'puta' en el sentit de murri, i una imatge còmica d'un dit del mig. Hi ha presència de drogues lícites en una tertúlia, que inclou la participació d'una doctora, on es debat sobre els efectes negatius de l'alcohol i, en menor mesura, del tabac; també s'ensenyen imatges d'una pel·lícula amb gent fumant de fons i una escena d'una sèrie de televisió on una persona apareix a casa èbria bevent pinya colada pensant-se no contenia alcohol. Hi ha violència ocasional, versemblant, no explícita, molt lleu i no legitimada, per imatges d'una pel·lícula de baralles en una família reproduint-se de fons i per referències a abusos -puntualitzant que no eren sexuals- comesos per capellans. Hi ha situacions ocasionals de por i angoixa d'afectació lleu quan es parla dels incendis que hi ha en actiu i quan es mostra una escena d'una sèrie on gent baixa les escales d'una casa que s'està incendiant."
+  },
+  {
+    "titol": "La selva 04/12/2024",
+    "codi": "6313629",
+    "edat": "13",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat greu, no legitimada<br>Al·lusions a l'abús de drogues lícites (alcohol) i consum d'il·lícites (haixix, marihuana), presentat de manera negativa",
+    "mesinfo": "<b>Violència</b><br>Una part del programa consisteix en una tertúlia sobre un documental emès la nit anterior per TV3, qualificat 'no recomanat per a menors de 18 anys'. Es reprodueixen fragments on un home explica una agressió que va tenir amb un home armat amb una navalla que li va acabar esquinçant la mà, que inclou imatges teatralitzades de sang caient a terra, i quan es veu un ninot sent llençat escales avall o sent bufetejat representant algunes de les tortures que els testimonis van assegurar patir durant el servei militar. Es comenta el cas d'un home que va ser violat per tres homes, aquest cop sense donar detalls de l'agressió.<br><br><b>Drogues</b><br>En la mateixa tertúlia, es denuncia que molts dels agressors eren alcohòlics o que consumien o traficaven amb drogues com l'haixix i els 'porros', i es diu que qualsevol persona que hi entrava, tot i no haver consumit mai drogues en la seva vida, en sortia drogodependent.<br><br>Hi ha por i angoixa ocasional d'afectació alta (pels continguts violents), i llenguatge groller ocasional d'intensitat alta, durant la tertúlia anteriorment descrita."
   },
   {
     "titol": "La travessa",
@@ -11016,7 +11023,7 @@
     "raons": "Por i angoixa freqüent d'afectació lleu<br>Conductes i valors incívics amb sanció negativa"
   },
   {
-    "titol": "Nits Sense ficció",
+    "titol": "Nits sense ficció",
     "codi": "sense-ficcio",
     "edat": "18",
     "orig": "Variable",
@@ -11024,7 +11031,7 @@
     "tv3": true
   },
   {
-    "titol": "Nits Sense ficció - Amb tots vostès, Joan Pera",
+    "titol": "Nits sense ficció - Amb tots vostès, Joan Pera",
     "codi": "6238943",
     "edat": "10",
     "orig": "TP",
@@ -11032,14 +11039,14 @@
     "mesinfo": "<b>Drogues</b><br>Hi ha un moment del documental en què es comenta una trucada on un fill li diu al seu pare que 'quan prenc cocaïna se me'n va de les mans'. El fill diu que va anar a casa del seu 'camell' a dir-li que no podia més i que ho havia de deixar, i es comenta que va rebre suport per part de la seva família.<br><br>Hi ha continguts sexuals ocasionals d'explicitació baixa, quan es fan bromes on es diu que un home va estar 'dintre d'una dona' o que treballava 'al Paral·lel vestit de dona'. Hi ha llenguatge groller ocasional d'intensitat baixa, quan es diuen 'collonades', 'hòstia', 'merda' o 'cabrón' en un context distès. Hi ha situacions angoixants ocasionals d'afectació lleu, amb al·lusions a la mort i a un accident que va patir un home on se li va trencar la mandíbula, i es mostren persones emocionant-se (vegeu també 'Drogues'). Hi ha imatges i referències passatgeres al consum d'alcohol, i d'un home aguantant una pipa en una pel·lícula."
   },
   {
-    "titol": "Nits Sense ficció - L'alcalde i Mussolini",
+    "titol": "Nits sense ficció - L'alcalde i Mussolini",
     "codi": "6239966",
     "edat": "7",
     "orig": "7",
     "raons": "Comportaments discriminatoris amb sanció negativa<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
-    "titol": "Nits Sense ficció - Els residus del Mercuri",
+    "titol": "Nits sense ficció - Els residus del Mercuri",
     "codi": "6240154",
     "edat": "10",
     "orig": "7",
@@ -11047,7 +11054,7 @@
     "mesinfo": "<b>Drogues</b><br>Es mostra una celebració on hi ha consum d'alcohol. Es mostra un vídeo musical amb intencionalitat satírica on una persona es prepara un cubata i fuma un puro.<br><br><b>Llenguatge groller</b><br>Es diu que una dona havia rebut el pseudònim de 'la Puta'. Es mostren en pantalla transcripcions d'una conversa on es van emprar expressions com 'qué coño pasa', 'joder', 'hijo puta', 'puto culo' i 'mierda'. També hi ha llenguatge d'intensitat baixa, com 'tonto' o 'fotre'.<br><br>Hi ha conductes incíviques presentades negativament, concretament la corrupció política, la mentida (ja que l'alcalde intenta defensar-se es fa la víctima tot i estar condemnat) i l'amenaça (es comenta que l'alcalde va tenir amenaçats a algunes persones i que van entrar a robar a una seu de partit arran d'una reunió succeïda un dia abans)."
   },
   {
-    "titol": "Nits Sense ficció - La indústria de lligar",
+    "titol": "Nits sense ficció - La indústria de lligar",
     "codi": "6241894",
     "edat": "13",
     "orig": "18",
@@ -11056,7 +11063,7 @@
     "mesinfo": "<b>Violència</b><br>En un vídeo on un home ensenya a lligar amb dones asiàtiques, les agafa del cap i les força al seu entrecuix, per sobre de la roba. En una altra ocasió, es diu que van trobar una dona a terra, inconscient i amb vòmit, després d'haver-la drogat, mentre un grup d'homes s'hi estan al voltant seu nus i rient. També hi ha violència d'intensitat molt lleu quan una activista dona una bufetada a un home en públic.<br><br><b>Discriminació, racisme i xenofòbia</b><br>Es dedica gran part del documental a presentar declaracions d'homes donant consells sobre com aconseguir 'lligar' amb dones, comentaris que majoritàriament tenen naturalesa masclista atès que es basen en estereotips, i animen a altres homes a ser dominants i manipuladors amb elles, a només valorar el seu físic, que no importa la voluntat de la dona o que rebran càstig si incompleixen les seves normes. També es fan comentaris racistes quan es diu, per exemple, que 'les asiàtiques són obedients, com gossets'. Hi ha activistes i congressistes que expressen el seu rebuig vers aquestes conductes, acusant-les de deshumanitzadores tant per a les dones com per als homes, i alguns d'ells acaben mostrant-se penedits (vegeu també 'Violència'), però no són suficient atenuant atès que els continguts discriminatoris presentats de manera positiva dominen pràcticament tot el documental.<br><br>Hi ha llenguatge groller ocasional d'intensitat alta ('fills de puta', 'malparits', 'de puta mare', 'collons', dit del mig...). Hi ha continguts sexuals freqüents d'explicitació baixa; també n'hi ha d'explicitació mitjana ocasionals, quan es fan referències explícites a actes sexuals (com parlar de 'mamar-te la cigala', 'orgasme' o 'follar', o mostrar una il·lustració de penetració i d'una dona amb els pits descoberts censurant-ne els mugrons) i es veu com una parella té sexe en públic. Hi ha consum de drogues lícites (tabac, alcohol), presentat de manera negativa. Hi ha situacions ocasionals de por i angoixa d'afectació mitjana (vegeu 'Violència')."
   },
   {
-    "titol": "Nits Sense ficció - Porno deepfake, ets tu la següent?",
+    "titol": "Nits sense ficció - Porno deepfake, ets tu la següent?",
     "codi": "6215878",
     "edat": "13",
     "orig": "18",
@@ -11064,7 +11071,7 @@
     "mesinfo": "Nota: Aquest documental s'ha emès prèviament dins el contenidor '60 minuts', del canal 33.<br><br><b>Sexe</b><br>El programa basa el seu contingut en la presentació i l'anàlisi no detallada de la pornografia, que a efectes de l'anàlisi de la qualificació es considera presència freqüent de continguts sexuals d'explicitació mitjana. Totes les imatges pornogràfiques són censurades mitjançant difuminació.<br><br><b>Por i angoixa</b><br>El documental es recrea en l'angoixa que les víctimes pateixen a causa de la filtració de vídeos de contingut sexual manipulats amb el seu rostre sense el seu consentiment. Per exemple, una activista, plorant, diu que van amenaçar de revelar la seva adreça i de violar-la. Es fan referències no explícites a l'abús de menors.<br><br>Hi ha situacions de discriminació, i referències al consum d'alcohol, presentat de manera negativa. Hi ha un sol ús de llenguatge groller ('fotut')."
   },
   {
-    "titol": "Nits Sense ficció - S'ha acabat! L'efecte Rubiales",
+    "titol": "Nits sense ficció - S'ha acabat! L'efecte Rubiales",
     "codi": "6251029",
     "edat": "10",
     "orig": "TP",
@@ -11072,7 +11079,7 @@
     "mesinfo": "<b>Violència</b><br>Es relata, sense entrar en detalls, una situació en què un entrenador va apropar-se a una jugadora i li va tocar les parts íntimes. També es fan alguns altres relats similars, com quan es diu que un home tocava el cul o aixecava la samarreta d'una jugadora per fer comentaris despectius.<br><br><b>Por i angoixa</b><br>Hi ha situacions d'angoixa en tant que les protagonistes expliquen la discriminació que han patit i les seves vivències com a víctimes d'assetjament sexual. Per exemple, una dona comenta que la seva exparella controlava si sortia de casa o amb qui parlava per telèfon, i que, a causa d'això, se sent insegura, ha baixat el seu rendiment i la seva capacitat per suportar l'estrès ha baixat. També, arran de la situació descrita a 'Violència', la víctima explica que l'hi va afectar fins al punt de no voler tornar a entrenar.<br><br><b>Llenguatge groller</b><br>Hi ha llenguatge groller d'intensitat alta quan es reprodueix un comentari d'un àrbitre on diu 'no tienes ni puta idea'. Ocasionalment, també hi ha expressions d'intensitat baixa ('hosti', 'fot', 'idiotas', 'estúpidos').<br><br>Es reprodueixen comentaris i situacions de masclisme -algunes, amb connotacions sexuals- i grassofòbia, sancionades negativament."
   },
   {
-    "titol": "Nits Sense ficció - (re)pensant l'educació sexual",
+    "titol": "Nits sense ficció - (re)pensant l'educació sexual",
     "codi": "6251464",
     "edat": "10",
     "orig": "7",
@@ -11080,21 +11087,21 @@
     "mesinfo": "<b>Sexe</b><br>Hi ha reiterades referències sexuals en un context d'educació sexual destinada a infants. A vegades, els continguts adopten certa cruesa, com quan menors parlen d'activitats que han vist per internet (per exemple, de fer una 'cubana' o una 'palla'), de quan es parla de 'follar' o quan es mostren il·lustracions explícites de fel·lacions i penetracions. També es fa referència a actes de privació de la llibertat sexual, sense entrar en detalls, com quan un noi diu que una violació és una activitat sexual i l'han de corregir."
   },
   {
-    "titol": "Nits Sense ficció - JFK - Més enllà del mite - Capítol 1",
+    "titol": "Nits sense ficció - JFK - Més enllà del mite - Capítol 1",
     "codi": "6254616",
     "edat": "7",
     "orig": "7",
     "raons": "Continguts sexuals ocasionals d'explicitació baixa<br>Por i angoixa ocasional d'afectació mitjana<br>Al·lusions al consum de drogues lícites (alcohol), presentat de manera negativa<br>Comportaments discriminatoris amb sanció negativa<br>Conductes i valors incívics amb sanció negativa"
   },
   {
-    "titol": "Nits Sense ficció - JFK - Més enllà del mite - Capítol 2",
+    "titol": "Nits sense ficció - JFK - Més enllà del mite - Capítol 2",
     "codi": "6254617",
     "edat": "7",
     "orig": "7",
     "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada<br>Continguts sexuals ocasionals d'explicitació baixa<br>Por i angoixa ocasional d'afectació mitjana<br>Comportaments discriminatoris amb sanció negativa"
   },
   {
-    "titol": "Nits Sense ficció - Sempre Dharma",
+    "titol": "Nits sense ficció - Sempre Dharma",
     "codi": "6258429",
     "edat": "13",
     "orig": "TP (a Filmin: 12)",
@@ -11102,14 +11109,14 @@
     "mesinfo": "<b>Llenguatge groller</b><br>Es diu molt sovint 'hòstia', així com 'collonut', 'acollonit', 'fotre', 'fotimer', 'collons', 'puto', 'de puta mare', 'fills de puta', 'no jodas', 'me càgon Déu' i 'cony', i s'ensenya el dit del mig.<br><br>Hi ha imatges ocasionals de consum d'alcohol i de tabac, presentat de manera neutra. Hi ha por i angoixa ocasional mitjana per comentar, sense detalls, un suïcidi, així com la mort d'un membre del grup en plena actuació i les conseqüències que va tenir per a la seva família."
   },
   {
-    "titol": "Nits Sense ficció - Laietana, 43. El cau de la Bèstia",
+    "titol": "Nits sense ficció - Laietana, 43. El cau de la Bèstia",
     "codi": "6258857",
     "edat": "13",
     "orig": "18 (abans de l'emissió, va constar com a: 13, 16) (a la carta: 16)",
     "raons": "Violència freqüent, versemblant, explícita, d'intensitat greu, no legitimada<br>Por i angoixa reiterada d'afectació mitjana"
   },
   {
-    "titol": "Nits Sense ficció - Porca misèria",
+    "titol": "Nits sense ficció - Porca misèria",
     "codi": "6260392",
     "edat": "7",
     "orig": "TP",
@@ -11117,7 +11124,7 @@
     "mesinfo": "<b>Por i angoixa</b><br>En un punt del documental, s'ensenyen imatges d'escorxadors mentre sona una música alegre amb una lletra que fa al·lusions a la mort d'animals. També es fan referències a que la contaminació pot afectar a l'aigua envasada i a la propagació de malalties.<br><br><b>Llenguatge groller</b><br>Es diu 'merda' (quatre vegades) i 'hòstia', sense intencionalitat agressiva. Tres dels quatre usos de la paraula 'merda' se senten en una cançó de fons que literalment sona durant els primers segons del documental.<br><br>Es fa una breu referència negativa al consum excessiu de vi, i es fa servir la paraula 'ionqui' en un context metafòric."
   },
   {
-    "titol": "Nits Sense ficció - Freddie Mercury, l'espectacle final",
+    "titol": "Nits sense ficció - Freddie Mercury, l'espectacle final",
     "codi": "6261786",
     "edat": "13",
     "orig": "12",
@@ -11126,7 +11133,7 @@
     "mesinfo": "<b>Por i angoixa</b><br>Es fan referències ininterrompudament, en detall i majoritàriament verbals, al virus de la sida i a les complicacions que provoca.<br><br>Es fan referències freqüents i d'explicitació baixa a situacions sexuals. Es fan referències ocasionals i neutres al consum de drogues lícites (tabac i alcohol), i es diu que un home va anar 'col·locat' a cantar a un concert commemoratiu. Hi ha llenguatge groller ocasional d'intensitat baixa ('cony', 'merda', 'collons', 'fotre el camp'). Es fan freqüents declaracions discriminatòries vers el col·lectiu LGTBIQ+, inclòs l'ús d'expressions com 'pervertit' o 'marieta', presentades de manera negativa en el relat."
   },
   {
-    "titol": "Nits Sense ficció - Eudald, quant temps ens queda?",
+    "titol": "Nits sense ficció - Eudald, quant temps ens queda?",
     "codi": "6262008",
     "edat": "7",
     "orig": "TP",
@@ -11134,14 +11141,14 @@
     "mesinfo": "<b>Sexe</b><br>Una dona parla de considerar una fruita de km 0 més 'sexi' que qualsevol altra importada d'alguna part llunyana del món.<br><br><b>Por i angoixa</b><br>Es fan sovint referències a la fi del món provocada per l'home, a vegades acompanyades de dramatitzacions il·lustrades i narrades, així com de discussions existencials. No obstant això, el missatge que dona finalment el documental és esperançador i optimista. També hi ha imatges d'esquelets i restes humanes.<br><br><b>Llenguatge groller</b><br>Un home fa servir les expressions 'imbècil' i 'com el cul', a vegades de manera repetida en una sola escena. També es diu 'no me jodas', 'hòsties' i 'fotuts', un cop cadascuna, de passada i mai de manera ofensiva.<br><br>Es mostren breument begudes alcohòliques de manera molt ocasional."
   },
   {
-    "titol": "Nits Sense ficció - La xarxa ultra",
+    "titol": "Nits sense ficció - La xarxa ultra",
     "codi": "6266854",
     "edat": "13",
     "orig": "13 (parcialment mal senyalitzat per televisió, i prèviament, a la carta: TP)",
     "raons": "Llenguatge groller freqüent d'intensitat alta"
   },
   {
-    "titol": "Nits Sense ficció - Les del criquet",
+    "titol": "Nits sense ficció - Les del criquet",
     "codi": "6271600",
     "edat": "7",
     "orig": "TP",
@@ -11149,7 +11156,7 @@
     "mesinfo": "<b>Discriminació, racisme i xenofòbia</b><br>Es reprodueixen alguns dels comentaris xenòfobs i el tractament discriminatori que les protagonistes del documental asseguren haver patit. També se sancionen comportaments masclistes, com quan es parla dels matrimonis forçats.<br><br>Hi ha situacions ocasionals de por i angoixa lleu, com quan en una manifestació s'exclama que un Estat és assassí i promou un genocidi."
   },
   {
-    "titol": "Nits Sense ficció - Qui va matar Cachou?",
+    "titol": "Nits sense ficció - Qui va matar Cachou?",
     "codi": "6273466",
     "edat": "13",
     "orig": "TP",
@@ -11157,7 +11164,7 @@
     "mesinfo": "<b>Por i angoixa</b><br>Com el títol del documental pot arribar a insinuar, es parla extensament sobre la mort d'un os, es fan referències molt freqüents i explícites a les seves possibles causes, com pot haver estat provocada i per part de qui. S'ensenyen freqüentment imatges d'animals morts i devorats. A vegades, es fan primers plans de ferides a animals provocades per altres animals, i d'òrgans interns, quan li practiquen la necròpsia a l'os. S'ensenya un vídeo on una multitud de persones encaputxades aguanten escopetes i en disparen una a l'aire amb actitud amenaçadora. El documental es val d'efectes visuals i sonors reiterats, com una música de suspens incessant o de dramatitzacions, que contribueixen a mantenir la tensió.<br><br>Es fan referències ocasionals i negatives al tràfic de drogues, específicament cocaïna. Hi ha llenguatge groller ocasional d'intensitat baixa ('merder', 'merda', 'collons')."
   },
   {
-    "titol": "Nits Sense ficció - La Simfonia dels Herois",
+    "titol": "Nits sense ficció - La Simfonia dels Herois",
     "codi": "6274776",
     "edat": "10",
     "orig": "TP",
@@ -11165,7 +11172,7 @@
     "mesinfo": "<b>Por i angoixa</b><br>S'ensenyen breument diferents operacions a cervell obert de manera explícita. Diverses persones malaltes comenten freqüentment què van sentir en conèixer que tenien un càncer o que, de sobte, tenien dificultats per dur a terme la seva vida normal, i els fills parlen sobre els seus pares que els han deixat. Els professionals comenten també com és d'arriscada una operació en un pacient, que només serveix per allargar-los la vida uns mesos més, i com tot això els afecta emocionalment.<br><br><b>Llenguatge groller</b><br>Un noi li diu al seu pare: 'ho estàs fent de puta mare'. També es diu 'hòstia' i 'cabrón' dues vegades cadascuna, i 'cony' un cop."
   },
   {
-    "titol": "Nits Sense ficció - Aitana Bonmatí Conca",
+    "titol": "Nits sense ficció - Aitana Bonmatí Conca",
     "codi": "11515151515151515",
     "edat": "10",
     "orig": "TP",
@@ -11173,7 +11180,7 @@
     "mesinfo": "Nota: S'ha analitzat el documental tal qual es va emetre per TV3. A la plataforma 3Cat, es troba dividit en dos capítols.<br><br><b>Drogues</b><br>En alguns punts del documental, uns aficionats demanen i consumeixen begudes alcohòliques. També, fugaçment, es fan referències al consum de tabac i al dopatge.<br><br><b>Llenguatge groller</b><br>Es reprodueixen imatges de l'expresident de la RFEF Luis Rubiales tocant-se els genitals per sobre dels pantalons i en públic. En altres moments del documental, diversos personatges fan servir expressions com 'hòstia', 'hòstia puta', 'malparit', 'merda', 'joder', 'collonada' o 'collonut'.<br><br>Es fa referència a situacions discriminatòries, especialment per raó de gènere, amb una sanció negativa. Per exemple, s'ensenyen i es comenten les imatges del petó forçat a Jenni Hermoso per part de Luis Rubiales. Unes noies d'una selecció comenten que al seu país d'origen les dones no poden treballar ni estudiar i no poden sortir de casa, i es diu que hi ha molts refugiats per temes de guerra i de 'violacions'. Una noia explica que, en el seu país d'origen, hi acabava de tenir lloc un atac suïcida, definit com a 'genocidi ètnic', on més de 50 persones van morir en un hospital. També, una noia diu que va haver de fugir de Rússia per la seva identitat sexual. Les al·lusions més angoixants són només ocasionals i d'afectació mitjana. Al final del documental, la protagonista fa un comentari despectiu sobre el físic d'un amic seu amb síndrome de Down, aparentment sense malícia."
   },
   {
-    "titol": "Nits Sense ficció - Adoptats, amb l'amor no n'hi havia prou",
+    "titol": "Nits sense ficció - Adoptats, amb l'amor no n'hi havia prou",
     "codi": "6281755",
     "edat": "13",
     "orig": "TP",
@@ -11181,7 +11188,7 @@
     "mesinfo": "<b>Por i angoixa</b><br>Es comenten reiteradament situacions en les què una família ha hagut d'abandonar el seu fill i les conseqüències que ha tingut tant per als pares biològics com per als adoptius i als propis fills. Per exemple: es diu que una dona alcohòlica i de 15 anys d'edat va tornar-se boja quan va haver d'abandonar la filla; que mares xineses podien patir esterilitzacions o avortaments forçats per la política del fill únic; que dos germans no es van poder acomiadar d'un de l'altre quan els van haver de separar per la força; un noi comenta haver patit assetjament degut al seu comportament fruit del transtorn que pateix (vegeu 'Drogues'); que una noia es va deprimir molt quan es va capficar per buscar informació sobre els seus pares; un pare comenta, molt dolgut, que es van haver de separar dels seus fills perquè la malaltia mental que patien feia impossible la seva convivència i els va fer emmalaltir; que un país és una fàbrica de nadons i se'n poden comprar i vendre; que una nena preguntava insistentment sobre el seu origen i els pares no sabien què dir-li, etc.<br><br><b>Drogues</b><br>Es diu que un fill té un transtorn de l'espectre alcohòlic fetal perquè la seva mare bevia alcohol durant l'embaràs; aquest noi el veiem fumant tabac amb una sanció neutra en algunes seqüències. Es diu que una mare va entrar en síndrome d'abstinència perquè consumia drogues. Una noia diu que va començar a consumir drogues fruit del seu malestar emocional i per la necessitat de sentir-se més vinculada a la seva mare. Tant mare com filles ploren quan la mare confessa que la seva drogoaddicció va provocar el seu abandonament.<br><br>Hi ha llenguatge groller ocasional d'intensitat alta, atès que alguns participants del documental utilitzen expressions malsonants com 'dando por culo', 'hòstia', 'merda' o 'què fotré'. Hi ha discriminació presentada de manera negativa, atès que alguns participants denuncien haver patit situacions racistes o capacitistes i es reprodueixen alguns comentaris."
   },
   {
-    "titol": "Nits Sense ficció - Tot assajant Flotats",
+    "titol": "Nits sense ficció - Tot assajant Flotats",
     "codi": "6283214",
     "edat": "7",
     "orig": "TP",
@@ -11189,7 +11196,7 @@
     "mesinfo": "<b>Llenguatge groller</b><br>Alguns entrevistats fan servir esporàdicament expressions com 'hòstia' (2 cops), 'fotuts' (2 cops) o 'te la fotré'. S'ensenyen fragments d'enregistraments d'obres de teatre on es crida 'un cony de pop!' o 'me càgon Déu!'.<br><br>Hi ha situacions ocasionals de por i angoixa d'afectació lleu, quan es fan al·lusions a la mort en contextos ficcionats d'obres de teatre."
   },
   {
-    "titol": "Nits Sense ficció - Atrapats per la pantalla",
+    "titol": "Nits sense ficció - Atrapats per la pantalla",
     "codi": "6287423",
     "edat": "10",
     "orig": "TP",
@@ -11197,14 +11204,14 @@
     "mesinfo": "Nota: S'ha analitzat el programa-debat sencer, de dues hores i tres quarts de durada, tal qual es va emetre per TV3.<br><br><b>Violència</b><br>Un censor de les xarxes comenta haver vist un suïcidi emès en directe per una xarxa social que descriu així: 'en un segundo, dos segundos, saca el arma, apreta el arma, se explota la cabeza y hay sangre, pedazos de la cabeza por todos lados y no se puede hacer nada'. També es comenta que hi ha vídeos de terroristes torturant a algú, de persones 'que les obren en canal i els treuen els òrgans vives', de pedofília i d'assassinats. Es diu que un dels censors va estar obligat a veure imatges només d'una categoria concreta contra la seva voluntat, o que va intentar suïcidar-se perquè no podia més.<br><br><b>Sexe</b><br>Es fan referències verbals, sense entrar en detalls, a la pornografia, al sèxting, al porno de revenja, a la sextorsió i als anomenats 'dick pics' i la finalitat amb què s'envien. Es diu, per exemple, que hi ha dones que miren porno 'per mirar què s'espera d'elles', cosa que es tradueix en menys relacions i de pitjor qualitat. Es parla dels 'sugar daddies' i quin propòsit tenen.<br><br><b>Por i angoixa</b><br>Es diu que molts joves, després de veure missatges autolesius per les xarxes, manifesten poques ganes de viure. Es comenta que el nombre d'intents de suïcidi i de depressió s'ha multiplicat notablement en 10 anys. Es diu que, per culpa de les pantalles, a França, han proliferat 'les amenaces bomba contra escoles', el 'ciberassetjament que acaba en pallisses', i 'adolescents morts per adolescents'. Es parla de l'afectació en el cervell d'una persona que consumeix pornografia o violència extrema amb abundància, i s'utilitzen testimonis amb rostres foscos i veus distorsionades que relaten alguns dels vídeos més forts que poden existir; vegeu també la resta de variables: 'Violència', 'Drogues' i 'Llenguatge groller'.<br><br><b>Drogues</b><br>En alguns moments, es fan comparacions del cervell d'una persona addicta a les pantalles amb les d'un addicte a la cocaïna o a les drogues en general. També, un home ensenya una imatge on està malalt de covid i puntualitza còmicament que no ha donat positiu en marihuana. Es fa una menció a l'alcoholisme.<br><br><b>Llenguatge groller</b><br>En un vídeo de denúncia que penja una persona emocionalment afectada pel tracte discriminatori que ha rebut, es diu: 'me la suda', 'me siento una puta víctima', 'es una mierda' o 'no me jode'. En alguns altres vídeos que s'ensenyen fugaçment, molt ocasionals, s'ensenyen dits del mig o expressions com 'te jodes'.<br><br>Hi ha continguts discriminatoris amb sanció negativa quan es denuncien casos de grassofòbia. Hi ha presència de conductes incíviques amb sanció negativa quan adolescents comenten que han passat una quantitat exagerada d'hores al mòbil diàries, quan es diu que alguns menteixen sobre l'edat que tenen per entrar a webs inadequades, i quan unes noies s'estan amb el mòbil a classe d'amagatotis."
   },
   {
-    "titol": "Nits Sense ficció - La fugida",
+    "titol": "Nits sense ficció - La fugida",
     "codi": "6287636",
     "edat": "13",
     "orig": "18",
     "raons": "Violència freqüent, versemblant, explícita, d'intensitat greu, no legitimada<br>Por i angoixa reiterada d'afectació mitjana"
   },
   {
-    "titol": "Nits Sense ficció - Matusalem",
+    "titol": "Nits sense ficció - Matusalem",
     "codi": "6289341",
     "edat": "7",
     "orig": "TP",
@@ -11212,7 +11219,7 @@
     "mesinfo": "<b>Sexe</b><br>En una ocasió, un home gran parla breument de la freqüència amb què manté relacions sexuals.<br><br><b>Por i angoixa</b><br>Es fan freqüents referències a la mort, encara que majoritàriament emprant un llenguatge estrictament científic, respectuós i neutre. Hi ha un moment en què es fan primers plans d'indigents malvivint en una ciutat, quan es diu que hi ha diners per allargar l'esperança de vida dels gossos però no per evitar que hi hagi gent que es mori pels carrers.<br><br><b>Drogues</b><br>En dues ocasions, es donen discursos neutres en relació amb el consum ocasional d'alcohol. En el primer cas, una dona diu que una cervesa no és la beguda més hidratant per a prendre després de fer esport, però que no serà puritana i no impedirà que cadascú tingui el seu moment de gaudi. En un altre, un home gran diu que no ha hagut de renunciar a res per tal de tenir una vida llarga, puntualitzant que no beu alcohol més enllà d'alguna copa de tant en tant. Posteriorment, es dona veu a múltiples veus científiques que donen discursos negatius sobre el tabaquisme i l'alcohol.<br><br><b>Discriminació, racisme i xenofòbia</b><br>Un dels entrevistats diu que hi haurà gent que deixarà de demonitzar els immigrants, que ja no caldrà 'fotre'ls cops de porra perquè no saltin la tanca' o 'deixar-los al mig del mar que es morin', quan els siguin d'interès en forma de mà d'obra barata.<br><br><b>Llenguatge groller</b><br>Algunes persones entrevistades utilitzen molt esporàdicament expressions com 'fotre', 'hòstia' o 'collons'."
   },
   {
-    "titol": "Nits Sense ficció - Això no va de futbol",
+    "titol": "Nits sense ficció - Això no va de futbol",
     "codi": "6292157",
     "edat": "13",
     "orig": "TP",
@@ -11220,7 +11227,7 @@
     "mesinfo": "<b>Llenguatge groller</b><br>En una hora, es diu 'hòstia' 30 vegades; la primera, als 20 segons de documental. Es diu 'puto' ('un pernil de puta mare', 'putes desfamats', 'sou els putos amos!', 'vaya puto...', 'hòstia puta', 'hem de ser una puta família, 'ta puta vida...'). També es diu 'fotre' (4 cops), 'collons' (3), 'va parir' (3), 'ben parit' (2), 'merdes' (2), 'acollonant', 'ens caguem', 'càgon Dios' i 'cony'.<br><br>Hi ha consum ocasional de drogues lícites (alcohol), presentat de manera neutra. Hi ha situacions angoixants ocasionals d'afectació lleu quan un noi diu que es va preocupar quan se li va infectar el peu i creia que no podria tornar a jugar mai més, i quan es parla de la mort de familiars per càncer, atac de cor o accident de cotxe. Una persona migrada diu, de broma, que al poble on viu hi ha tanta immigració que sembla el seu poble natal. Una altra diu que ha tingut problemes 'de fora, contra la immigració', sense especificar."
   },
   {
-    "titol": "Nits Sense ficció - La banda del pati",
+    "titol": "Nits sense ficció - La banda del pati",
     "codi": "6292999",
     "edat": "13",
     "orig": "TP",
@@ -11228,7 +11235,7 @@
     "mesinfo": "<b>Drogues</b><br>S'ensenya consum de tabac en almenys quatre fragments de videoclips. S'ensenya o es fa al·lusió al consum d'alcohol de manera freqüent, en diferents videoclips, tots ubicats en un context festiu i despreocupat: en almenys cinc casos, es veu gent de fons aguantant cerveses; en un, es parla del 'tonteo provocat pel ron' com si s'haguessin enamorat sota els efectes de l'alcohol; en un altre, una noia alegrement compra una ampolla que sembla ser d'alta graduació; en dos casos més, un home beu directament d'un porró -per demostrar macarreria- o d'una ampolla -per poder aguantar la jornada laboral-. A més, en un concert es canta una cançó amb les línies: 'baby, demana't un altre tequila, i enmig de la barra t'oblida, i crida: gasolina pa las motos y cubata pal piloto'. Un cantant diu que quan van a un poble a cantar sempre busquen la sidreria més propera i allà fan 'una mica d'ambient'. En un fragment de videoclip, surt gent fumant el que sembla ser marihuana i parlant de 'rulant-me fiapes'; en un altre, es diu fugaçment que 'fumo Aràbia'; en un altre, un home es toca el nas i allunya la cara de la taula com si acabés d'esnifar cocaïna; en un altre, es diu que 'les pastilles em tenen al tanto, estic flotant en pau, m'entra l'ànsia si penso que estàs amb un altre'.<br><br><b>Llenguatge groller</b><br>Ús freqüent d'expressions com, per exemple, 'putada', 'puterío', 'hòstia', 'joder', 'que te cagas', 'merda', 'em rasco la cigala', 'collons' ('amb dos collons', 'que cadascú faci el que li surti dels collons') o 'puto' ('odio eterno a los putos Mossos de Esquadra', '024 a la meva puta pell', 'hem fet més per la llengua que el puto president'), així com dits del mig dirigits a càmera.<br><br>Hi ha continguts sexuals freqüents d'explicitació baixa, majoritàriament en forma d'al·lusions verbals en fragments de videoclips o d'actuacions, com 'sense pijama, a la cama una tigresa', 'mou el cul per la tarima' acompanyat d'un ball sexualitzat, 'vol tornar a xingar amb mi' o 'el seu paio no li menja tot'. De manera ocasional, n'hi ha d'explicitació mitjana, quan es diu que un artista ha vist, en el món de la música, el que anomena metafòricament 'dinàmiques d'autofel·lació', i quan es reprodueix un fragment d'un videoclip amb línies com aquestes: 'em fa les cosetes friquis, les cosetes rares', 'i em posa les manilles, un close joc de rol, tu em treus el lado loco i t'agafo del coll', 'sempre que em trenques el tanga, em compres un de nou'."
   },
   {
-    "titol": "Nits Sense ficció - El millor salt",
+    "titol": "Nits sense ficció - El millor salt",
     "codi": "333333333333333345435435435",
     "edat": "10",
     "orig": "TP",
@@ -11236,12 +11243,19 @@
     "mesinfo": "Nota: S'ha analitzat el contingut tal qual es va emetre per TV3. A la plataforma 3Cat, es troba dividit en tres episodis.<br><br><b>Llenguatge groller</b><br>Diversos participants del documental fan servir de manera esporàdica llenguatge groller d'intensitat alta o baixa. Per exemple: 't'has cagat', 'quina merda', 'ara em fot', 'tocant-me els pebrots', 'joder, no has clavat ni una', 'em vaig fotre l'hòstia del segle', 'que (la paraula) potència no ve de puta', 'és una putada molt gran', 'et fotràs de morros a terra', 'una puta merda', 'estic fins als collons de les càmeres, i ho dic amb el micro aquí', 'ole tu coño'.<br><br>Hi ha situacions de por i angoixa freqüent d'afectació lleu. Es veuen diverses lesions i l'afectació emocional que li suposa a la lesionada i al seu entorn; per exemple, s'ensenya una radiografia d'una luxació, i com tant la noia com la seva mare ploren quan recorden moments dolorosos. Una noia es diu 'desgraciada' i diu que es vol tirar per un pont, perquè una lesió la deixaria completament fora de la competició durant mesos. Una dona diu que va patir i superar un tumor de pàncrees; s'ensenyen algunes imatges breus de l'operació."
   },
   {
-    "titol": "Nits Sense ficció - Dilluns",
+    "titol": "Nits sense ficció - Dilluns",
     "codi": "6299061",
     "edat": "13",
     "orig": "TP",
     "raons": "Al·lusions al consum de drogues il·lícites (marihuana), presentat de manera neutra",
     "mesinfo": "<b>Drogues</b><br>Una cançó que sona de fons durant els crèdits al·ludeix a fumar 'el teu primer porret' parlant de les primeres vivències agradables de la vida des de l'escola fins l'edat adulta, de manera completament incidental i sense cap contextualització atès que és l'única referència a les drogues que es fa en tot el documental.<br><br>Hi ha llenguatge groller ocasional d'intensitat alta ('putada', 'joder'). Hi ha conductes i valors incívics presentats de manera neutra, quan uns entrevistats confessen haver mentit en el seu currículum, d'haver-hi afegit més titulacions del compte, i d'haver estat contractat igualment gràcies a això."
+  },
+  {
+    "titol": "Nits sense ficció - Et faran un home",
+    "codi": "6313181",
+    "edat": "18",
+    "orig": "18",
+    "raons": "Violència freqüent, versemblant, explícita, d'intensitat molt greu, no legitimada<br>Por i angoixa reiterada d'afectació alta"
   },
   {
     "titol": "Nivell extra",
