@@ -1,4 +1,14 @@
 [
+ {
+    "titol": "30 minuts<br><small>Intrusisme: la salut en perill</small>",
+    "codi": "30 minuts##",
+    "edat": "7",
+    "llenguatge": true,
+    "incivisme": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
   {
     "titol": "La selva<br><small>04/12/2024</small>",
     "codi": "&quot;La selva&quot;##",
@@ -42,15 +52,6 @@
     "edat": "7",
     "llenguatge": true,
     "incivisme": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "30 minuts<br><small>La IA i la ment humana</small>",
-    "codi": "30 minuts##",
-    "edat": "0",
-    "por": true,
     "orig": "TP",
     "serie": true,
     "tv3": true
