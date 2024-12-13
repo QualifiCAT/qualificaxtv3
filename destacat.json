@@ -1,5 +1,14 @@
 [
  {
+    "titol": "Tot torna<br><small>Intrusisme: la salut en perill</small>",
+    "codi": "Tot torna##",
+    "edat": "13",
+    "drogues": true,
+    "orig": "7",
+    "serie": true,
+    "3cat": true
+  },
+ {
     "titol": "30 minuts<br><small>Intrusisme: la salut en perill</small>",
     "codi": "30 minuts##",
     "edat": "7",
@@ -45,15 +54,5 @@
     "edat": "18",
     "drogues": true,
     "serie": true
-  },
-  {
-    "titol": "30 minuts<br><small>El mar, en suspens</small>",
-    "codi": "30 minuts##",
-    "edat": "7",
-    "llenguatge": true,
-    "incivisme": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
   }
 ]
