@@ -14092,6 +14092,21 @@
     "raons": "Por i angoixa ocasional d'afectació lleu"
   },
   {
+    "titol": "Tot torna",
+    "codi": "tot-torna",
+    "edat": "13",
+    "orig": "7",
+    "serie": true,
+    "3cat": true
+  },
+  {
+    "titol": "Tot torna 1x01 - 1985",
+    "codi": "6314556",
+    "edat": "13",
+    "raons": "Al·lusions al consum de drogues lícites (tabac, alcohol) i il·lícites (marihuana), presentades de manera neutra",
+    "mesinfo": "<b>Drogues</b><br>Es fan referències neutres en un context humorístic al consum de marihuana quan li pregunten a un home si abans fumava, qui respon que sí, i després li pregunten: 'tabac?', i diu: 'sí, també'; també, quan diuen que la gent que va veure ovnis estava 'fumada'. Es fan referències neutres al consum de tabac quan es comenta una notícia d'un escalador que va fumar un cigarret al cim de l'Everest, i quan es fa una referència fugaç a una 'catximba'. També se'n fan a l'alcohol quan es comenta la notícia d'uns Reis Mags que van beure uns 'cigalons màgics' que els va 'ajudar' a rendir al 100% un dia de Reis afectat per la nevada.<br><br>Es fan comentaris discriminatoris amb sanció neutra en un context humorístic. Es fan referències sexuals ocasionals d'explicitació mitjana quan es fa una al·lusió a la prostitució. Hi ha llenguatge groller freqüent d'intensitat baixa ('hosti', 'fotut', 'merda', 'què collons', 'coño', 'som collonuts, som malparits', 'marietes')."
+  },
+  {
     "titol": "Trollhunters: Contes d'Arcàdia",
     "codi": "trollhunters-contes-arcadia",
     "edat": "10",
