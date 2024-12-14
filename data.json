@@ -12455,6 +12455,13 @@
     "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'cagat'.<br><br>Hi ha situacions ocasionals de por i angoixa d'afectació lleu quan es parla d'un incendi i quan un personatge és posseït i parla amb veu greu, però no vol fer mal a ningú."
   },
   {
+    "titol": "Projecte Beta 6x14 - Conte de Nadal 2.0",
+    "codi": "6311403",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "<b>Por i angoixa</b><br>El protagonista de l'episodi somia que rep la visita d'uns fantasmes, i a vegades no els veu i sent rialles terrorífiques.<br><br><b>Conductes i valors incívics</b><br>Es presenta l'avarícia de manera negativa.<br><br>Es fa servir el verb 'cagar' per referir-se al tió de Nadal; degut a aquest context, no s'ha valorat com a llenguatge groller."
+  },
+  {
     "titol": "Punt de no retorn",
     "codi": "punt-de-no-retorn",
     "edat": "13",
@@ -14100,7 +14107,7 @@
     "3cat": true
   },
   {
-    "titol": "Tot torna 1x01 - 1985",
+    "titol": "Tot torna 1x01 - 1985. Hem fet el cim, el primer mòbil i Ovnis a Terrassa",
     "codi": "6314556",
     "edat": "13",
     "raons": "Al·lusions al consum de drogues lícites (tabac, alcohol) i il·lícites (marihuana), presentades de manera neutra",
