@@ -1,5 +1,15 @@
 [
  {
+    "titol": "Projecte Beta<br><small>Conte de Nadal 2.0</small>",
+    "codi": "Projecte Beta##",
+    "edat": "7",
+    "por": true,
+    "incivisme": true,
+    "orig": "TP",
+    "serie": true,
+    "x3": true
+ },
+ {
     "titol": "Tot torna<br><small>episodi 1</small>",
     "codi": "Tot torna##",
     "edat": "13",
@@ -7,7 +17,7 @@
     "orig": "7",
     "serie": true,
     "3cat": true
-  },
+ },
  {
     "titol": "30 minuts<br><small>Intrusisme: la salut en perill</small>",
     "codi": "30 minuts##",
@@ -47,12 +57,5 @@
     "orig": "TP",
     "serie": true,
     "3cat": true
-  },
-  {
-    "titol": "Callejeros<br><small>Las Palmeras</small>",
-    "codi": "Callejeros##",
-    "edat": "18",
-    "drogues": true,
-    "serie": true
   }
 ]
