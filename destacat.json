@@ -1,5 +1,16 @@
 [
  {
+    "titol": "Fuet<br><small>El 25 de desembre, Fuet, Fuet, Fuet</small>",
+    "codi": "Fuet##",
+    "edat": "7",
+    "sexe": true,
+    "por": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "x3": true
+ },
+ {
     "titol": "Els Estats Units contra Billie Holiday",
     "codi": "Els Estats Units contra Billie Holiday",
     "edat": "18",
@@ -44,16 +55,6 @@
     "violencia": true,
     "drogues": true,
     "orig": "TP",
-    "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "Nits sense ficció<br><small>Et faran un home</small>",
-    "codi": "Nits sense ficció##",
-    "edat": "18",
-    "violencia": true,
-    "por": true,
-    "orig": "18",
     "serie": true,
     "tv3": true
   }
