@@ -1,5 +1,15 @@
 [
  {
+    "titol": "Concert The Tyets",
+    "codi": "Concert The Tyets",
+    "edat": "10",
+    "drogues": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "peli": true,
+    "tv3": true
+ },
+ {
     "titol": "Fuet<br><small>El 25 de desembre, Fuet, Fuet, Fuet</small>",
     "codi": "Fuet##",
     "edat": "7",
@@ -44,16 +54,6 @@
     "edat": "7",
     "llenguatge": true,
     "incivisme": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "La selva<br><small>04/12/2024</small>",
-    "codi": "&quot;La selva&quot;##",
-    "edat": "13",
-    "violencia": true,
-    "drogues": true,
     "orig": "TP",
     "serie": true,
     "tv3": true
