@@ -1,5 +1,17 @@
 [
  {
+    "titol": "La gran nit de Dagoll Dagom",
+    "codi": "La gran nit de Dagoll Dagom",
+    "edat": "10",
+    "sexe": true,
+    "drogues": true,
+    "discriminacio": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "peli": true,
+    "tv3": true
+ },
+ {
     "titol": "Concert The Tyets",
     "codi": "Concert The Tyets",
     "edat": "10",
@@ -47,15 +59,5 @@
     "orig": "7",
     "serie": true,
     "3cat": true
- },
- {
-    "titol": "30 minuts<br><small>Intrusisme: la salut en perill</small>",
-    "codi": "30 minuts##",
-    "edat": "7",
-    "llenguatge": true,
-    "incivisme": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
-  }
+ }
 ]
