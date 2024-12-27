@@ -1,5 +1,14 @@
 [
  {
+    "titol": "Els monòlegs de l&apos;any amb Andreu Buenafuente<br><small>El 24</small>",
+    "codi": "El 24",
+    "edat": "13",
+    "llenguatge": true,
+    "orig": "TP",
+    "peli": true,
+    "tv3": true
+ },
+ {
     "titol": "La gran nit de Dagoll Dagom",
     "codi": "La gran nit de Dagoll Dagom",
     "edat": "10",
@@ -50,14 +59,5 @@
     "orig": "TP",
     "serie": true,
     "x3": true
- },
- {
-    "titol": "Tot torna<br><small>episodi 1</small>",
-    "codi": "Tot torna##",
-    "edat": "13",
-    "drogues": true,
-    "orig": "7",
-    "serie": true,
-    "3cat": true
  }
 ]
