@@ -1,5 +1,15 @@
 [
  {
+    "titol": "La La Land",
+    "codi": "La La Land",
+    "edat": "10",
+    "drogues": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "peli": true,
+    "tv3": true
+ },
+ {
     "titol": "Els monòlegs de l&apos;any amb Andreu Buenafuente<br><small>El 24</small>",
     "codi": "El 24",
     "edat": "13",
@@ -49,15 +59,5 @@
     "orig": "16",
     "peli": true,
     "tv3": true
- },
- {
-    "titol": "Projecte Beta<br><small>Conte de Nadal 2.0</small>",
-    "codi": "Projecte Beta##",
-    "edat": "7",
-    "por": true,
-    "incivisme": true,
-    "orig": "TP",
-    "serie": true,
-    "x3": true
  }
 ]
