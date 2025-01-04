@@ -8792,6 +8792,44 @@
     "mesinfo": "<b>Violència</b><br>Una part del programa consisteix en una tertúlia sobre un documental emès la nit anterior per TV3, qualificat 'no recomanat per a menors de 18 anys'. Es reprodueixen fragments on un home explica una agressió que va tenir amb un home armat amb una navalla que li va acabar esquinçant la mà, que inclou imatges teatralitzades de sang caient a terra, i quan es veu un ninot sent llençat escales avall o sent bufetejat representant algunes de les tortures que els testimonis van assegurar patir durant el servei militar. Es comenta el cas d'un home que va ser violat per tres homes, aquest cop sense donar detalls de l'agressió.<br><br><b>Drogues</b><br>En la mateixa tertúlia, es denuncia que molts dels agressors eren alcohòlics o que consumien o traficaven amb drogues com l'haixix i els 'porros', i es diu que qualsevol persona que hi entrava, tot i no haver consumit mai drogues en la seva vida, en sortia drogodependent.<br><br>Hi ha por i angoixa ocasional d'afectació alta (pels continguts violents), i llenguatge groller ocasional d'intensitat alta, durant la tertúlia anteriorment descrita."
   },
   {
+    "titol": "La teva mentida a l'abril",
+    "codi": "la-teva-mentida-a-abril",
+    "edat": "10",
+    "orig": "13",
+    "serie": true,
+    "x3": true
+  },
+  {
+    "titol": "La teva mentida a l'abril 1x01 - Monocrom / A color",
+    "codi": "6315742",
+    "edat": "10",
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada<br>Al·lusions ocasionals a situacions sexuals d'explicitació mitjana<br>Por i angoixa freqüent d'afectació mitjana"
+  },
+  {
+    "titol": "La teva mentida a l'abril 1x02 - Amic extra",
+    "codi": "6315733",
+    "edat": "7",
+    "raons": "Al·lusions ocasionals a situacions sexuals d'explicitació baixa<br>Por i angoixa ocasional d'afectació mitjana"
+  },
+  {
+    "titol": "La teva mentida a l'abril 1x03 - El cor de la primavera",
+    "codi": "6315741",
+    "edat": "10",
+    "raons": "Por i angoixa freqüent d'afectació mitjana"
+  },
+  {
+    "titol": "La teva mentida a l'abril 1x04 - A volar",
+    "codi": "6315737",
+    "edat": "10",
+    "raons": "Por i angoixa freqüent d'afectació mitjana"
+  },
+  {
+    "titol": "La teva mentida a l'abril 1x05 - Núvols al cel",
+    "codi": "6315739",
+    "edat": "7",
+    "raons": "Al·lusions ocasionals a situacions sexuals d'explicitació baixa<br>Por i angoixa ocasional d'afectació mitjana"
+  },
+  {
     "titol": "La travessa",
     "codi": "la-travessa",
     "edat": "13",
