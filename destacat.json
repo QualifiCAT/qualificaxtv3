@@ -38,26 +38,27 @@
     "llenguatge": true,
     "orig": "TP",
     "peli": true,
-    "tv3": true
+    "tv3": true,
+    "separat": true,
  },
  {
-    "titol": "Fuet<br><small>El 25 de desembre, Fuet, Fuet, Fuet</small>",
-    "codi": "Fuet##",
-    "edat": "7",
-    "sexe": true,
-    "por": true,
+    "titol": "Teatre<br><small>El pare de la núvia</small>",
+    "codi": "El pare de la núvia",
+    "edat": "13",
     "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "x3": true
- },
- {
-    "titol": "Els Estats Units contra Billie Holiday",
-    "codi": "Els Estats Units contra Billie Holiday",
-    "edat": "18",
-    "drogues": true,
-    "orig": "16",
+    "orig": "10",
     "peli": true,
     "tv3": true
+ },
+ {
+    "titol": "La teva mentida a l'abril<br><small>5 de 24 episodis</small>",
+    "codi": "La teva mentida a l&apos;abril#",
+    "edat": "10",
+    "violencia": true,
+    "sexe": true,
+    "por": true,
+    "orig": "13",
+    "serie": true,
+    "x3": true
  }
 ]
