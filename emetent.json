@@ -5,6 +5,11 @@
     "orig": "7"
   },
   {
+    "titol": "APM?",
+    "edat": "13",
+    "orig": "10"
+  },
+  {
     "titol": "Joc de cartes",
     "edat": "13",
     "orig": "TP"
@@ -30,11 +35,6 @@
     "orig": "TP"
   },
   {
-    "titol": "L&apos;eclipsi",
-    "edat": "10",
-    "orig": "TP"
-  },
-  {
     "titol": "El detectiu Conan",
     "edat": "13",
     "orig": "7"
@@ -45,12 +45,12 @@
     "orig": "10"
   },
   {
-    "titol": "Heli",
-    "edat": "10",
+    "titol": "El món genial del Tom Gates",
+    "edat": "7",
     "orig": "TP"
   },
   {
-    "titol": "Manduka family",
+    "titol": "Leo da Vinci",
     "edat": "7",
     "orig": "TP"
   },
