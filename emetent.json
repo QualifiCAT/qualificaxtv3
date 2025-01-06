@@ -15,11 +15,6 @@
     "orig": "TP"
   },
   {
-    "titol": "Plats bruts",
-    "edat": "13",
-    "orig": "10"
-  },
-  {
     "titol": "Tot torna",
     "edat": "13",
     "orig": "7"
@@ -32,6 +27,11 @@
   {
     "titol": "El foraster",
     "edat": "10",
+    "orig": "TP"
+  },
+  {
+    "titol": "Això no és una cançó",
+    "edat": "7",
     "orig": "TP"
   },
   {
