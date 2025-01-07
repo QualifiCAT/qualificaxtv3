@@ -8794,7 +8794,7 @@
   {
     "titol": "La teva mentida a l'abril",
     "codi": "la-teva-mentida-a-abril",
-    "edat": "10",
+    "edat": "13",
     "orig": "13",
     "serie": true,
     "x3": true
@@ -8858,6 +8858,24 @@
     "codi": "6315734",
     "edat": "10",
     "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada<br>Por i angoixa freqüent d'afectació mitjana"
+  },
+  {
+    "titol": "La teva mentida a l'abril 1x11 - La llum de la vida",
+    "codi": "6315744",
+    "edat": "7",
+    "raons": "Por i angoixa ocasional d'afectació mitjana"
+  },
+  {
+    "titol": "La teva mentida a l'abril 1x12 - Brilla, estel petit",
+    "codi": "6315753",
+    "edat": "10",
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada"
+  },
+  {
+    "titol": "La teva mentida a l'abril 1x13 - Pena d'amor",
+    "codi": "6315743",
+    "edat": "13",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, legitimada<br>Por i angoixa reiterada d'afectació mitjana"
   },
   {
     "titol": "La travessa",
