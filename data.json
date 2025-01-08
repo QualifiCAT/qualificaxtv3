@@ -3104,6 +3104,29 @@
     "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
+    "titol": "El carreró del misteri",
+    "codi": "el-carrero-del-misteri",
+    "edat": "7",
+    "orig": "TP",
+    "imdb": "tt27996155",
+    "serie": true,
+    "x3": true
+  },
+  {
+    "titol": "El carreró del misteri 1x01 - El lladre invisible",
+    "codi": "6317316",
+    "edat": "7",
+    "raons": "Violència ocasional, irreal, explícita, d'intensitat molt lleu, legitimada",
+    "mesinfo": "<br>Violència</b><br>Un dels protagonistes diu que vol donar-li 'una puntada de peu al cul' a un monstre robot que els està perseguint; es llença contra ell amb un arc i li fa caure el cap.<br><br>Hi ha situacions ocasionals de por i angoixa d'afectació lleu."
+  },
+  {
+    "titol": "El carreró del misteri 1x02 - El cavaller maligne",
+    "codi": "6317315",
+    "edat": "7",
+    "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa freqüent d'afectació lleu",
+    "mesinfo": "<b>Violència</b><br>Hi ha freqüents situacions en les quals un cavaller emmascarat deixa anar unes descàrregues elèctriques que electrocuten i deixen paralitzats els personatges que es troba pel camí. Es queden pàl·lids, amb cara d'espant. No obstant això, l'efecte té poca durada i en surten sempre il·lesos. En un altre moment, el cavaller llença un gos enlaire i li fa caure una estàtua a sobre.<br><br><b>Por i angoixa</b><br>Hi ha diverses persecucions i moments de tensió lleu cada cop que apareix el cavaller en escena; vegeu 'Violència'."
+  },
+  {
     "titol": "El castell al cel",
     "codi": "6294297",
     "edat": "10",
