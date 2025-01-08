@@ -1,5 +1,15 @@
 [
  {
+    "titol": "El carreró del misteri<br><small>2 episodis</small>",
+    "codi": "El carreró del misteri##",
+    "edat": "7",
+    "violencia": true,
+    "por": true,
+    "orig": "TP",
+    "serie": true,
+    "x3": true
+ },
+ {
     "titol": "La La Land",
     "codi": "La La Land",
     "edat": "10",
@@ -41,23 +51,14 @@
     "tv3": true
  },
  {
-    "titol": "Teatre<br><small>El pare de la núvia</small>",
-    "codi": "El pare de la núvia",
-    "edat": "13",
-    "llenguatge": true,
-    "orig": "10",
-    "peli": true,
-    "tv3": true,
-    "separat": true
- },
- {
-    "titol": "La teva mentida a l'abril<br><small>13 de 24 episodis</small>",
+    "titol": "La teva mentida a l'abril<br><small>13 de 22 episodis</small>",
     "codi": "La teva mentida a l&apos;abril#",
     "edat": "13",
     "violencia": true,
     "por": true,
     "orig": "13",
     "serie": true,
-    "x3": true
+    "x3": true,
+    "separat": true
  }
 ]
