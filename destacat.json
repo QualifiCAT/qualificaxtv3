@@ -1,5 +1,14 @@
 [
  {
+    "titol": "30 minuts<br><small>Infiltrats</small>",
+    "codi": "30 minuts##",
+    "edat": "13",
+    "drogues": true,
+    "orig": "13",
+    "serie": true,
+    "tv3": true
+ },
+ {
     "titol": "El carreró del misteri<br><small>2 episodis</small>",
     "codi": "El carreró del misteri##",
     "edat": "7",
@@ -35,16 +44,6 @@
     "sexe": true,
     "drogues": true,
     "discriminacio": true,
-    "llenguatge": true,
-    "orig": "TP",
-    "peli": true,
-    "tv3": true
- },
- {
-    "titol": "Concert The Tyets",
-    "codi": "Concert The Tyets",
-    "edat": "10",
-    "drogues": true,
     "llenguatge": true,
     "orig": "TP",
     "peli": true,
