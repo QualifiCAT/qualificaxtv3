@@ -38,16 +38,16 @@
     "tv3": true
  },
  {
-    "titol": "La gran nit de Dagoll Dagom",
-    "codi": "La gran nit de Dagoll Dagom",
+    "titol": "Herois",
+    "codi": "Herois (2010)",
     "edat": "10",
-    "sexe": true,
-    "drogues": true,
-    "discriminacio": true,
+    "violencia": true,
     "llenguatge": true,
+    "incivisme": true,
     "orig": "TP",
     "peli": true,
-    "tv3": true
+    "tv3": true,
+    "separat": true
  },
  {
     "titol": "La teva mentida a l'abril<br><small>tots els episodis</small>",
@@ -57,7 +57,6 @@
     "por": true,
     "orig": "13",
     "serie": true,
-    "x3": true,
-    "separat": true
+    "x3": true
  }
 ]
