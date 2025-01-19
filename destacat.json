@@ -1,5 +1,15 @@
 [
  {
+    "titol": "Fuet<br><small>temporada 2<br>episodis 1-6</small>",
+    "codi": "Fuet##",
+    "edat": "10",
+    "violencia": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "x3": true
+ },
+ {
     "titol": "30 minuts<br><small>Infiltrats</small>",
     "codi": "30 minuts##",
     "edat": "13",
@@ -9,7 +19,7 @@
     "tv3": true
  },
  {
-    "titol": "El carreró del misteri<br><small>2 episodis</small>",
+    "titol": "El carreró del misteri<br><small>mostra de dos episodis</small>",
     "codi": "El carreró del misteri##",
     "edat": "7",
     "violencia": true,
@@ -38,18 +48,6 @@
     "tv3": true
  },
  {
-    "titol": "Herois",
-    "codi": "Herois (2010)",
-    "edat": "10",
-    "violencia": true,
-    "llenguatge": true,
-    "incivisme": true,
-    "orig": "TP",
-    "peli": true,
-    "tv3": true,
-    "separat": true
- },
- {
     "titol": "La teva mentida a l'abril<br><small>tots els episodis</small>",
     "codi": "La teva mentida a l&apos;abril#",
     "edat": "13",
@@ -57,6 +55,7 @@
     "por": true,
     "orig": "13",
     "serie": true,
-    "x3": true
+    "x3": true,
+    "separat": true
  }
 ]
