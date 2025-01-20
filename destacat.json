@@ -1,5 +1,15 @@
 [
  {
+    "titol": "El foraster<br><small>Les sorpreses del Foraster (Temporada 9)</small>",
+    "codi": "El foraster##",
+    "edat": "10",
+    "drogues": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+ },
+ {
     "titol": "Fuet<br><small>temporada 2<br>episodis 1-6</small>",
     "codi": "Fuet##",
     "edat": "10",
@@ -33,15 +43,6 @@
     "codi": "La La Land",
     "edat": "10",
     "drogues": true,
-    "llenguatge": true,
-    "orig": "TP",
-    "peli": true,
-    "tv3": true
- },
- {
-    "titol": "Els monòlegs de l&apos;any amb Andreu Buenafuente<br><small>El 24</small>",
-    "codi": "El 24",
-    "edat": "13",
     "llenguatge": true,
     "orig": "TP",
     "peli": true,
