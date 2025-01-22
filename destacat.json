@@ -1,6 +1,27 @@
 [
- {
-    "titol": "El foraster<br><small>Les sorpreses del Foraster (Temporada 9)</small>",
+  {
+    "titol": "Punt de no retorn<br><small>Suècia, bandes criminals</small>",
+    "codi": "Punt de no retorn##",
+    "edat": "13",
+    "violencia": true,
+    "por": true,
+    "drogues": true,
+    "orig": "18",
+    "serie": true,
+    "3cat": true
+  },
+  {
+    "titol": "Nits sense ficció<br><small>Els fills del caos</small>",
+    "edat": "Nits sense ficció##",
+    "edat": "13",
+    "violencia": true,
+    "por": true,
+    "orig": "7",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "El foraster<br><small>Les sorpreses del Foraster (temporada 9)</small>",
     "codi": "El foraster##",
     "edat": "10",
     "drogues": true,
@@ -8,8 +29,8 @@
     "orig": "TP",
     "serie": true,
     "tv3": true
- },
- {
+  },
+  {
     "titol": "Fuet<br><small>temporada 2<br>episodis 1-6</small>",
     "codi": "Fuet##",
     "edat": "10",
@@ -18,8 +39,8 @@
     "orig": "TP",
     "serie": true,
     "x3": true
- },
- {
+  },
+  {
     "titol": "30 minuts<br><small>Infiltrats</small>",
     "codi": "30 minuts##",
     "edat": "13",
@@ -27,8 +48,8 @@
     "orig": "13",
     "serie": true,
     "tv3": true
- },
- {
+  },
+  {
     "titol": "El carreró del misteri<br><small>mostra de dos episodis</small>",
     "codi": "El carreró del misteri##",
     "edat": "7",
@@ -37,26 +58,5 @@
     "orig": "TP",
     "serie": true,
     "x3": true
- },
- {
-    "titol": "La La Land",
-    "codi": "La La Land",
-    "edat": "10",
-    "drogues": true,
-    "llenguatge": true,
-    "orig": "TP",
-    "peli": true,
-    "tv3": true
- },
- {
-    "titol": "La teva mentida a l'abril<br><small>tots els episodis</small>",
-    "codi": "La teva mentida a l&apos;abril#",
-    "edat": "13",
-    "violencia": true,
-    "por": true,
-    "orig": "13",
-    "serie": true,
-    "x3": true,
-    "separat": true
- }
+  }
 ]
