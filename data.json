@@ -11565,6 +11565,15 @@
     "raons": "Violència freqüent, versemblant, explícita, d'intensitat molt greu, no legitimada<br>Por i angoixa reiterada d'afectació alta"
   },
   {
+    "titol": "Nits sense ficció - Els fills del caos",
+    "codi": "6320813",
+    "edat": "13",
+    "orig": "7",
+    "imdb": "tt22021208",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat greu, no legitimada<br>Por i angoixa reiterada d'afectació mitjana",
+    "mesinfo": "<b>Violència</b><br>Es veu una execució múltiple nazi.<br><br><b>Por i angoixa</b><br>Es fan referències continuades a la separació de nens de les seves famílies, ja sigui perquè els pares van morir (en cambres de gas, per exemple) o perquè van ser robats per governs per satisfer programes d'adoctrinament o de repoblació, i com molts ells eren subjectes a càstigs físics o treballs forçats. S'explica que es va aconseguir fer tornar molts nens als seus països d'origen; durant un d'aquests intents, una dona explica entre llàgrimes com va ser separar-se de la seva mare adoptiva, que va anar a un orfenat on constantment intentava escapar-se per anar amb ella i on la maltractaven. Es diu que algunes dones van ser violades, o van haver de recórrer a la prostitució. Es comenta un programa d'aïllament de nens mulats, on una de les participants en el documental hi va viure presonera durant nou anys i hi era maltractada sistemàticament.<br><br>Es fa referència freqüent a situacions de discriminació amb sanció negativa, i a vegades s'utilitza llenguatge ofensiu ('retardats', 'putes dels negres')."
+  },
+  {
     "titol": "Nivell extra",
     "codi": "nivell-extra",
     "edat": "10",
@@ -12832,6 +12841,20 @@
     "edat": "13",
     "orig": "18 (erròniament sense senyalitzar -a la pràctica, TP- en la seva emissió per televisió)",
     "raons": "Violència freqüent, versemblant, explícita, d'intensitat greu, no legitimada<br>Por i angoixa freqüent d'afectació alta"
+  },
+  {
+    "titol": "Punt de no retorn 2x03 - Suècia, bandes criminals. Part 1: Segregació",
+    "codi": "6321051",
+    "edat": "13",
+    "orig": "18",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat greu, no legitimada<br>Por i angoixa reiterada d'afectació mitjana<br>Consum i al·lusions al tràfic de drogues il·lícites (marihuana, cocaïna), presentat de manera negativa"
+  },
+  {
+    "titol": "Punt de no retorn 2x04 - Suècia, bandes criminals. Part 2: Menors sicaris",
+    "codi": "6321069",
+    "edat": "13",
+    "orig": "18",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat greu, no legitimada<br>Por i angoixa reiterada d'afectació mitjana<br>Al·lusions al tràfic i consum de drogues lícites (tabac) i il·lícites (marihuana), presentat de manera negativa"
   },
   {
     "titol": "Quan Hitler em va robar el conillet rosa",
