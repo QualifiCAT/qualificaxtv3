@@ -1,13 +1,13 @@
 [
   {
+    "titol": "Jo mai mai",
+    "edat": "18",
+    "orig": "13"
+  },
+  {
     "titol": "Polònia",
     "edat": "13",
     "orig": "7"
-  },
-  {
-    "titol": "APM?",
-    "edat": "13",
-    "orig": "10"
   },
   {
     "titol": "Joc de cartes",
@@ -25,8 +25,8 @@
     "orig": "TP"
   },
   {
-    "titol": "El foraster",
-    "edat": "10",
+    "titol": "Cita bestial",
+    "edat": "7",
     "orig": "TP"
   },
   {
