@@ -207,6 +207,13 @@
     "mesinfo": "<b>Drogues</b><br>Un home compara treballar en un sector concret amb ser 'drogoaddicte', 'que necessita la droga encara que sàpiga que allò el mata'.<br><br><b>Llenguatge groller</b><br>Es diu 'això és un gran merder' una vegada.<br><br><b>Conductes i valors incívics</b><br>Es comenta que hi ha persones que viuen en una casa ocupada, incomplint la llei, i que en són conscients. El reportatge no s'hi posiciona a favor, i es diu que moltes persones són amenaçades de ser desnonades o que acaben perdent la casa perquè l'administració no els ofereix alternativa. Es fan crítiques al sistema capitalista i com destrueix la ciutat."
   },
   {
+    "titol": "30 minuts - Píxels, art i negoci",
+    "codi": "6322851",
+    "edat": "13",
+    "orig": "13",
+    "raons": "Violència ocasional, irreal, explícita, d'intensitat greu, legitimada"
+  },
+  {
     "titol": "3 minuts",
     "codi": "3-minuts",
     "edat": "13",
@@ -328,7 +335,7 @@
     "mesinfo": "<b>Por i angoixa</b><br>Es fan freqüents referències a la mort en un context familiar. Per exemple, una alumna comenta que la seva àvia va morir a la residència durant la pandèmia, i que no va poder-se acomiadar d'ella en persona.<br><br><b>Llenguatge groller</b><br>Es diu 'merda' una vegada, i també es fa ús de l'expressió 'tontos', tot i que sense dirigir-se a ningú."
   },
   {
-    "titol": "Alcarràs",
+    "titol": "Alcarràs (2022)",
     "codi": "6252399",
     "edat": "13",
     "orig": "13",
@@ -553,7 +560,7 @@
     "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'idiota' dues vegades en la seqüència d'introducció de la sèrie.<br><br>Diversos personatges es menyspreen mútuament de manera reiterada en un pretès context còmic."
   },
   {
-    "titol": "Animals united",
+    "titol": "Animals united (2010)",
     "codi": "6087135",
     "edat": "7",
     "orig": "TP",
@@ -717,7 +724,7 @@
     "raons": "Continguts sexuals freqüents d'explicitació mitjana<br>Llenguatge groller freqüent d'intensitat alta"
   },
   {
-    "titol": "Arrietty i el món dels remenuts",
+    "titol": "Arrietty i el món dels remenuts (2010)",
     "codi": "6285691",
     "edat": "0",
     "orig": "TP",
@@ -848,7 +855,7 @@
     "mesinfo": "<b>Drogues</b><br>Una de les dues noies protagonistes fuma marihuana de manera reiterada durant tot l'episodi. La càmera hi emfatitza tan bon punt apareix el primer porro, s'encén més d'un i fa múltiples comentaris normalitzant el consum de drogues -inclòs l'abús d'alcohol- entre els joves, justificant-ho pel context festiu i per l'etapa de la vida, que s'ha de 'viure el moment', i acaba adormida pels efectes de la droga. Una vegada n'ofereix un a la seva amiga, i se'l fuma, però el rebutja perquè està 'massa carregat'; tot i que coneixem que, anys més tard, l'amiga assegura haver deixat totes les drogues, la noia qui n'hem vist fumar més reapareix aparentment 'sana' i fent els mateixos comentaris problemàtics, cosa que contribueix a aquesta normalització que no rep penalització en cap moment.<br><br>Hi ha llenguatge groller freqüent d'intensitat alta. Hi ha continguts sexuals ocasionals d'explicitació mitjana."
   },
   {
-    "titol": "Assassinats a Cotentin (Meurtres en Cotentin)",
+    "titol": "Assassinats a Cotentin (Meurtres en Cotentin) (2019)",
     "codi": "6266755",
     "edat": "13",
     "orig": "TP",
@@ -859,7 +866,7 @@
     "mesinfo": "<b>Por i angoixa</b><br>El telefilm es recrea constantment en la resolució d'un homicidi, quan troben un cos surant a l'aigua amb taques de sang. Es donen pistes que fan referències a la mort violenta de familiars, accidents, suïcidis i incendis provocats. Un home amenaça en diverses situacions una dona amb una navalla; en una escena mentre la perseguia, mor atropellat per un cotxe explícitament. Pel mal estat de la mar, un pescador perd el coneixement i es fa un trau al cap. Un home intoxicat mata el seu padrastre sense voler, que xoca amb el cap contra una taula i es dessagna a terra; vegeu 'Drogues'.<br><br><b>Drogues</b><br>Es fan freqüents referències al tràfic i al consum de cocaïna en el context d'una investigació policial. Per exemple, una investigadora aconsegueix una dosi a un camell per tal d'accelerar la investigació. Se'n fan constants referències neutres fins al final, quan es descobreix que el culpable va matar la víctima sense voler quan estava intoxicat. Tot i que es mostren imatges de la droga, no hi ha imatges explícites de consum. Hi ha, a més, una escena negativa d'abús d'alcohol, i referències negatives al consum de tabac.<br><br>Hi ha violència ocasional, versemblant, no explícita, greu i no legitimada; vegeu 'Por i angoixa'. Hi ha continguts sexuals ocasionals d'explicitació baixa quan es parla de ficar-se una noia al llit. Hi ha llenguatge groller ocasional d'intensitat alta ('puteta', 'la puta veritat') i baixa ('collons', 'cagat', 'fotuda', 'merda'). Hi ha conductes incíviques presentades negativament quan un granger reconeix haver incomplert una llei mediambiental."
   },
   {
-    "titol": "Astèrix: La residència dels déus",
+    "titol": "Astèrix: La residència dels déus (2014)",
     "codi": "6194455",
     "edat": "7",
     "orig": "TP",
@@ -909,7 +916,7 @@
     "misc": true
   },
   {
-    "titol": "Barbie",
+    "titol": "Barbie (2023)",
     "codi": "489309348304",
     "edat": "10",
     "imdb": "tt1517268",
@@ -960,10 +967,11 @@
     "tv3": true
   },
   {
-    "titol": "Berenàveu a les fosques",
+    "titol": "Berenàveu a les fosques (2021)",
     "codi": "6134163",
     "edat": "13",
     "orig": "13 (prèviament: 7)",
+    "imdb": "tt13839388",
     "peli": true,
     "tv3": true,
     "raons": "Violència ocasional, versemblant, explícita, d'intensitat greu, no legitimada<br>Contingut sexual ocasional d'explicitació alta",
@@ -1331,7 +1339,7 @@
     "mesinfo": "<b>Violència</b><br>Es repeteix una escena d'episodis anteriors en què un monstre sagna profundament d'un tall vertical al cap. Es veuen ocasionalment imatges de cadàvers estesos a terra, a vegades sobre un bassal de sang. Hi ha més escenes de violència irreal, molt menys intenses, en què uns dolents ataquen una ciutat.<br><br><b>Drogues</b><br>Un home no para de fumar en tot l'episodi. Una dona diu que 'fer una copeta o buidar una ampolla' és 'relaxant'.<br><br>Un noi està obsessionat amb lligar amb noies, i una noia no para de menjar. Hi ha llenguatge groller ocasional d'intensitat baixa, com 'foteses' o 'fotimer', o quan s'insulta un home per la seva aparença."
   },
   {
-    "titol": "Blinky Bill, el coala",
+    "titol": "Blinky Bill, el coala (2015)",
     "codi": "5806569",
     "edat": "7",
     "orig": "TP",
@@ -1378,7 +1386,7 @@
     "tv3": true
   },
   {
-    "titol": "Bola de Drac Super: Broly",
+    "titol": "Bola de Drac Super: Broly (2018)",
     "codi": "6210525",
     "edat": "10",
     "orig": "7",
@@ -1390,7 +1398,7 @@
     "mesinfo": "<b>Violència</b><br>Mitja pel·lícula és un prolongat combat cos a cos amb cops de puny, cops de cap, trets d'atacs d'energia, intents d'ofegament, explosions, etc., destrossant muntanyes o el terra. No es veu mai sang ni ferides greus; com a molt, s'escup saliva després d'un impacte fort. En una escena, un home mor un altre amb una pistola làser, i en una altra, un home mor després que un atac amb el dit li perfori el pit. Hi ha moments on es dona a entendre que un dolent ha comès un genocidi. Un home dispara contra una criatura, mutilant-li l'orella. Hi ha una escena d'assetjament sexual en què un home ebri s'apropa a una dona i li ofereix de passar-ho bé; un home es baralla amb ell per defensar-la, però és electrocutat abans no pugui fer més mal a l'assetjador.<br><br><b>Conductes i valors incívics</b><br>Es fa un comentari de culte al cos en què una dona diu que el seu somni és tenir cinc anys menys. En una altra escena, una noia roba i trenca un objecte per tal d'alliberar el seu amic del seu pare.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa, com 'merda', 'desgraciat' o 'imbècil'. Hi ha consum d'alcohol implícit, presentat negativament."
   },
   {
-    "titol": "Bola de Drac Z: La resurrecció de F",
+    "titol": "Bola de Drac Z: La resurrecció de F (2015)",
     "codi": "6210524",
     "edat": "10",
     "orig": "7",
@@ -1782,7 +1790,7 @@
     "mesinfo": "<b>Por i angoixa</b><br>Hi ha situacions dramàtiques en forma de discussions entre companys i sobre si la protagonista podrà tornar amb el seu xicot o no. Es fan al·lusions a la mort en un context distès.<br><br><b>Llenguatge groller</b><br>Es diu 'cagada', 'estúpida' i 'fotimer'.<br><br><b>Conductes i valors incívics</b><br>Un noi s'aprofita d'una noia refiant-se que ella farà tota la feina del treball en grup, cosa que no acaba passant. Una noia menteix a un company."
   },
   {
-    "titol": "Buscant la màgica Doremi",
+    "titol": "Buscant la màgica Doremi (2020)",
     "codi": "6193457",
     "edat": "13",
     "orig": "TP",
@@ -1792,7 +1800,7 @@
     "raons": "Abús de drogues lícites (alcohol) presentat de forma neutra"
   },
   {
-    "titol": "Bye Bye Monstre",
+    "titol": "Bye Bye Monstre (teatre)",
     "codi": "6258985",
     "edat": "7",
     "orig": "TP",
@@ -2018,7 +2026,7 @@
     "mesinfo": "<b>Drogues</b><br>Hi ha referències neutres al consum de pastilles, sense concretar ('les pastilles em tenen al tanto, estic flotant en pau'), i de tabac, en el videoclip 'Al tantu' de 31 Fam. Hi ha imatges de consum del que sembla ser un porro en el videoclip 'La nit està que crema' de Buhos. Hi ha imatges neutres de consum de tabac en 'Joliu' de Saüc en Flor, i 'No hi ha mirades' de Sanjosex. Hi ha imatges neutres de consum d'alcohol en 'Stronger than Ever' d'Alice & the Wonders, 'No ha existit' de Rombo i 'No hi ha mirades' de Sanjosex. Hi ha referències negatives al consum d'alcohol en 'Robot Mayordomo' de Joan Miquel Oliver.<br><br>Hi ha llenguatge groller ocasional d'intensitat alta, per 'Al tantu' de 31 Fam ('qué coño') i per 'Robot Mayordomo' de Joan Miquel Oliver ('fills de putes'). Hi ha continguts sexuals freqüents d'explicitació baixa, per 'Com la Dua Lipa' de Colomet (una dona parla de com es tocava amb la seva parella), 'Stronger than Ever' d'Alice & the Wonders (una parella es besa apassionadament), 'Coti x Coti' de The Tyets (ídem), i 'No hi ha mirades' de Sanjosex (una parella es despulla implícitament i es llencen uns sostenidors). Hi ha situacions de por i angoixa moderada i de violència versemblant, explícita, lleu i no legitimada, per 'Benvolgut' de Manel (dos nois s'empenten i un d'ells cau contra el terra, mentre un nen ho presencia; més tard hi ha una lluita de sabres i acaben amb una ferida al colze o escopint sang). Hi ha situacions de por i angoixa lleu i de violència irreal, explícita, molt lleu i legitimada, per 'Gall roig, gall negre' de La Maria (una representació entre dues persones com si fossin galls, i una d'elles acaba empenyent a l'altre, que cau a terra com si fos mort), i 'Ulleres de sol' de Lildami i 'Tres puñales' de Maria Rodés (ús de llenguatge violent)."
   },
   {
-    "titol": "Club Winx. L'aventura màgica",
+    "titol": "Club Winx. L'aventura màgica (2010)",
     "codi": "5817761",
     "edat": "7",
     "orig": "TP",
@@ -2066,12 +2074,12 @@
     "edat": "0"
   },
   {
-    "titol": "Com ensinistrar un drac: El retorn",
+    "titol": "Com ensinistrar un drac: El retorn (2019)",
     "codi": "com-ensinistrar-drac-retorn",
     "edat": "7"
   },
   {
-    "titol": "Com ensinistrar un drac: El retorn",
+    "titol": "Com ensinistrar un drac: El retorn (2019)",
     "codi": "6240719",
     "edat": "7",
     "orig": "TP",
@@ -2492,7 +2500,7 @@
     "mesinfo": "<b>Violència</b><br>Després de contraure en matrimoni concertat, un home obliga la seva dona a apujar-se el vestit perquè 'ha d'obeir el seu home' i que no 'és haram' si és davant seu, i ella ho fa però s'acaba rebel·lant, acusant-lo de tractar-la com una puta. Ell s'hi encara i li fa un petó violentament, per la força. La dona assegura penedir-se'n, diu que està orgullosa de ser seva, i tenen sexe. Més tard, la dona agafa una arma dient que està preparada per anar a lluitar, l'home li diu que això no és cosa de dones, i l'obliga a tornar a casa, que no parli de res amb ningú i que s'esperi al que decideixi, però abans, l'agafa per les cames per tornar a tenir relacions. En una escena posterior, se senten trets i es veu un home amb el cos ensangonat, en una escena implícita de violència on desmantellen una cèl·lula jihadista. Una noia fa apologia de la violència quan enregistra un vídeo on manifesta la seva voluntat de provocar un atemptat en un avió, cosa que veiem intentar, amb una bomba, però l'és frustrat.<br><br><b>Discriminació, racisme i xenofòbia</b><br>Quan descobreixen que una noia s'ha convertit a l'islam, tota la seva família comença a sospitar: l'espien, manipulen a amics i familiars per poder aconseguir la contrasenya del seu portàtil, li instal·len un programari espia... Eventualment s'assabenten que és una islamista radical i que és perillosa. Arran de la seva islamització, la noia manifesta diverses actituds masclistes: se sotmet totalment i cegament a la voluntat del marit, accepta un matrimoni concertat, i diu que dones que van amb escot són provocadores, que 'sense marit no és una dona' o que tenir actes sexuals és pecat. Tot i que es fa implícit que la pel·lícula no té la voluntat de reforçar aquests comportaments, de la mateixa manera, en cap moment no es veu representat cap musulmà que manifesti actituds que no siguin o terroristes o masclistes.<br><br>Hi ha situacions angoixants freqüents d'afectació mitjana, particularment des del moment en què la protagonista arriba a l'aeroport per preparar l'atemptat fins que l'intenta un cop és dins l'avió. Hi ha continguts sexuals ocasionals d'explicitació mitjana, en una escena on un home i una dona són sota els llençols i estan visiblement nus. Hi ha llenguatge groller ocasional d'intensitat alta ('puta', 'follem', 'i una merda', 'collons', 'hòstia'). Hi ha consum de drogues lícites (tabac i alcohol), presentat en general de manera neutra."
   },
   {
-    "titol": "Desxifrant l'Enigma",
+    "titol": "Desxifrant l'Enigma (2014)",
     "codi": "6242377",
     "edat": "10",
     "orig": "7",
@@ -2503,7 +2511,7 @@
     "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada<br>Por i angoixa freqüent d'afectació mitjana<br>Consum de drogues lícites (tabac, alcohol), presentat de manera neutra"
   },
   {
-    "titol": "Detectiu Conan: Black iron submarine",
+    "titol": "Detectiu Conan: Black iron submarine (2023)",
     "codi": "2343243243242342344325",
     "edat": "13",
     "imdb": "tt27521477",
@@ -2552,7 +2560,7 @@
     "edat": "0"
   },
   {
-    "titol": "Digimon Adventure: L'última evolució Kizuna",
+    "titol": "Digimon Adventure: L'última evolució Kizuna (2020)",
     "codi": "6211646",
     "edat": "10",
     "orig": "7",
@@ -2600,7 +2608,7 @@
     "x3": true
   },
   {
-    "titol": "Dracs: El regal de la fúria nocturna",
+    "titol": "Dracs: El regal de la fúria nocturna (2011)",
     "codi": "6202323",
     "edat": "7",
     "orig": "TP",
@@ -3148,7 +3156,7 @@
     "mesinfo": "<b>Violència</b><br>Hi ha freqüents situacions en les quals un cavaller emmascarat deixa anar unes descàrregues elèctriques que electrocuten i deixen paralitzats els personatges que es troba pel camí. Es queden pàl·lids, amb cara d'espant. No obstant això, l'efecte té poca durada i en surten sempre il·lesos. En un altre moment, el cavaller llença un gos enlaire i li fa caure una estàtua a sobre.<br><br><b>Por i angoixa</b><br>Hi ha diverses persecucions i moments de tensió lleu cada cop que apareix el cavaller en escena; vegeu 'Violència'."
   },
   {
-    "titol": "El castell al cel",
+    "titol": "El castell al cel (1986)",
     "codi": "6294297",
     "edat": "10",
     "orig": "TP",
@@ -3160,7 +3168,7 @@
     "mesinfo": "<b>Violència</b><br>Hi ha freqüents escenes d'acció, incloent-hi ús d'armes de foc, tot i que en un entorn fantasiós. Uns pirates saquegen un dirigible i hi ha intercanvi de trets. Una nena pega el cap d'un home amb una ampolla de vidre per poder-se escapar (no explícit). Dos homes comencen a pegar-se enmig del carrer al cap i al ventre i després s'hi uneixen veïns del voltant, en una escena presentada com a còmica. Dos nois són sorpresos per uns homes; un d'ells li dona un cop a l'esquena al noi amb una pistola i el deixa estabornit, i empresonen a tots dos. Un robot es desperta i comença a destruir i incendiar edificis amb el seu raig làser; un exèrcit li dispara inútilment, fins que aconsegueix perforar-li el tors i desactivar-lo. Dues naus aèries es disparen entre elles en algunes escenes; una d'elles acaba incendiada. Un noi que s'enfilava per una torre suspesa en l'aire que s'enderroca a mesura que puja és sorprès per un tret que li travessa la galta (es veu sang). Un home deixa anar una explosió nuclear enmig del mar. Una noia és tractada de males maneres per l'antagonista; l'agafa per la cua, l'empeny o li dona un cop de puny a la cara, o l'apunta a ella i al seu amic amb una pistola.<br><br><b>Por i angoixa</b><br>Diversos personatges, inclosos nens, es troben freqüentment en situació de perill. Vegeu 'Violència'.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa ('cara d'imbècil', 'ximples rematats', 'colla de babaus'). Uns pirates poca-soltes s'enamoren d'una nena de 13 anys i li diuen 'bonica'. Hi ha presència anecdòtica de consum aparent de drogues lícites en dues escenes."
   },
   {
-    "titol": "El castell ambulant",
+    "titol": "El castell ambulant (2004)",
     "codi": "6296509",
     "edat": "7",
     "orig": "7 (prèviament: TP a 3Cat)",
@@ -3172,7 +3180,7 @@
     "mesinfo": "<b>Violència</b><br>Es veuen imatges d'edificis i pobles incendiats per l'impacte de bombes llençades des de dirigibles en un context bèl·lic i alhora irreal. Una bomba cau al mar, molt a la vora d'un port. No es veuen ferits en cap moment. Dos homes intimiden i intenten lligar amb una noia pel carrer, tot ignorant el seu malestar.<br><br><b>Por i angoixa</b><br>Inclou moments de tensió i de por que, tot i ser freqüents, tenen una durada breu. Hi ha persecucions protagonitzades per uns éssers gelatinosos de color negre. Una bruixa es presenta a la casa d'una noia i li deixa anar un encanteri que la torna vella. Un home es posa trist i el seu entorn es transforma junt amb el seu estat d'ànim: apareixen uns esperits, tot es torna negre i el seu cos es torna mucós. Una dona és encerclada per un munt de bombetes que, en encendre's, li arrabassen els poders. Una dona deixa anar els protagonistes al mig del cel en una mena d'il·lusió on uns esperits comencen a encerclar-los, un d'ells pateix una transformació i esdevé un ocell gegant; gairebé l'atrapen però escapen a l'últim segon. En altres moments també es transforma, deixant unes petjades estranyes quan torna a casa completament debilitat; es preocupen per la seva salut i es pensen que pot morir. Vegeu també 'Violència'. Tots els conflictes es resolen de manera completament positiva.<br><br><b>Drogues</b><br>Una dona gran es troba un puro i el comença a fumar apassionadament, en un moment presentat com a còmic. Diversos personatges, fins i tot un gos, se li queixen per la pudor que fa.<br><br><b>Llenguatge groller</b><br>Es fan servir expressions com 'idiota' o 'estúpid' algunes vegades."
   },
   {
-    "titol": "El col·legi dels animals màgics",
+    "titol": "El col·legi dels animals màgics (2021)",
     "codi": "6298216",
     "edat": "0",
     "orig": "TP",
@@ -3266,7 +3274,7 @@
     "raons": "Consum de drogues lícites (tabac), presentat de manera positiva"
   },
   {
-    "titol": "El detectiu Conan: Història d'amor a la comissaria",
+    "titol": "El detectiu Conan: Història d'amor a la comissaria (2022)",
     "codi": "6211303",
     "edat": "13",
     "orig": "12",
@@ -3277,7 +3285,7 @@
     "mesinfo": "<b>Violència</b><br>Dues persones són assassinades per l'impacte d'explosions. Ocasionalment, es veuen imatges de persones malferides o mortes, tacades de sang negra. Es fan freqüents al·lusions al suïcidi, i es poden veure vagament els cossos de tres persones penjades al sostre, i una altra que mor en beure verí barrejat amb alcohol davant de la policia. Hi ha moments en què la policia s'encara amb els delinqüents, per reduir-los o amenaçar-los de disparar, i situacions de segrestos. En una d'elles, un home li diu a una dona que es casarà amb ella i li farà un petó si no la venen a buscar. En una altra, un home pega un altre amb un bat de beisbol i li dispara amb una pistola, però sobreviu perquè la bala no li ha impactat al cos. Gran part de la pel·lícula mostra com s'intenta salvar un policia amb perill de morir deshidratat, per l'impacte d'una explosió o per asfíxia, ja que està immobilitzat per les extremitats i el coll i es troba a metres de distància del terra i sobre una superfície fràgil. Un home dona una bufetada a una dona per fer-li entrar en raó.<br><br>Hi ha consum de tabac presentat de manera neutra; en una escena, un home, en veure un senyal de prohibit fumar, diu, com si s'adrecés a l'audiència, que 'feu veure que no ho veieu, avui'. Hi ha consum ocasional d'alcohol i es fa referència a l'alcoholisme, presentat negativament. En una escena, es diu que una bossa conté droga d'uns traficants, però no s'identifica quina. Hi ha situacions de por i angoixa freqüents amb afectació mitjana, per la tensió que poden generar les situacions i descripcions violentes. Hi ha llenguatge groller ocasional d'intensitat baixa, com 'merda', 'imbècil' o 'idiota'. Hi ha comentaris sexuals ocasionals d'explicitació baixa, com quan un home remarca que a una dona se li ha aixecat la faldilla, o es diu que un home 'seduïa' altres dones o que li agradaven 'massa'."
   },
   {
-    "titol": "El detectiu Conan: La bala escarlata",
+    "titol": "El detectiu Conan: La bala escarlata (2021)",
     "codi": "6190209",
     "edat": "13",
     "orig": "7",
@@ -3287,7 +3295,7 @@
     "raons": "Violència ocasional, versemblant, explícita, d'intensitat greu, no legitimada<br>Abús de drogues lícites (alcohol), presentat neutralment"
   },
   {
-    "titol": "El detectiu Conan: La núvia de Halloween",
+    "titol": "El detectiu Conan: La núvia de Halloween (2022)",
     "codi": "6247861",
     "edat": "13",
     "orig": "12",
@@ -3298,7 +3306,7 @@
     "mesinfo": "<b>Por i angoixa</b><br>Hi ha situacions de tensió, pràcticament de manera ininterrompuda, amb una presentació versemblant, en relació amb segrestos, amenaces de bomba i altres situacions violentes. Es comenta i es mostra -sense detalls- com un agent de policia va morir intentant desactivar una bomba, com un home va rebre un cop i li van fer empassar un verí, i com una dona va intentar suïcidar-se llençant-se al buit o prenent una droga. Un home mor arran d'una explosió i un altre perd el coneixement i vessa sang del cap en ser atropellat. Hi ha un home ferit en un edifici i hi ha intercanvi de trets i baralles, i els veïns entren en pànic. Un nen queda atrapat en una habitació amb una bomba i escapa per la finestra. Els policies reben una trucada i diuen que han segrestat a un company seu. Un policia queda retingut pels segrestadors i amenaçat a punta de pistola o amb un ganivet al coll. Hi ha un altre intercanvi de trets on una dona té un nen com a ostatge, i amenaça de 'rebentar-li el cervell'. Una dona revela que planeja cometre un atemptat terrorista en un barri fent-hi esclatar una bomba. Dues persones es barallen en un helicòpter descontrolat després de detonar-s'hi una bomba, causant desperfectes en edificis i fent fugir la gent. Una dona plora en veure la seva família morir per una explosió o quan eviten matar una terrorista per venjança. Hi ha més tensió quan els protagonistes fan esforços per contenir els efectes de l'explosió sense causar desperfectes.<br><br>Hi ha violència ocasional, versemblant, no explícita, d'intensitat greu i no legitimada, en intercanvis de foc que provoquen algunes ferides de sang; també hi ha algunes baralles cos a cos o intents d'apunyalament d'intensitat lleu. Hi ha llenguatge groller ocasional d'intensitat baixa ('merda', 'idiotes', 'burra'). Fugaçment, es mostra consum de tabac i copes amb begudes alcohòliques que no es consumeixen."
   },
   {
-    "titol": "El detectiu Conan: The Scarlet Alibi",
+    "titol": "El detectiu Conan: The Scarlet Alibi (2021)",
     "codi": "6190210",
     "edat": "13",
     "orig": "12",
@@ -3434,7 +3442,7 @@
     "x3": true
   },
   {
-    "titol": "El llibre de la selva: Xafarranxo a la selva",
+    "titol": "El llibre de la selva: Xafarranxo a la selva (2012)",
     "codi": "3886430",
     "edat": "7",
     "orig": "TP",
@@ -3445,7 +3453,7 @@
     "raons": "Violència ocasional, irreal, explícita, d'intensitat molt lleu, legitimada<br>Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa"
   },
   {
-    "titol": "El manual dels dracs",
+    "titol": "El manual dels dracs (2011)",
     "codi": "6087816",
     "edat": "7",
     "orig": "TP",
@@ -3552,7 +3560,7 @@
     "edat": "0"
   },
   {
-    "titol": "El meu gos és un detectiu",
+    "titol": "El meu gos és un detectiu (2018)",
     "codi": "6209979",
     "edat": "10",
     "orig": "7",
@@ -3564,7 +3572,7 @@
     "mesinfo": "<b>Violència</b><br>Uns homes tenen armes, però no les fan servir. Una dona li dona una puntada de peu a l'entrecuix d'un home. La dona li llença una bossa a un home, abans que ell la tanqui amb clau en una habitació. Un nen dispara un dard de joguina a un home, fent-lo caure. Un gos fa caure un home a terra. Una noia pega l'entrecuix d'un home amb un martell. Un home llença un plat sobre el cap d'un home qui, en despertar-se, es posa el coll a lloc. Un home amenaça una nena i ella respon donant-li una puntada de peu. Les escenes de violència tenen molt poca intensitat, i tenen naturalesa còmica, però es presenten en positiu, ja que qui la provoquen són els protagonistes, bons, contra els dolents, mentre es feliciten pel que han fet.<br><br><b>Conductes i valors incívics</b><br>Els gossos mascles fan constantment comentaris sobre el físic d'altres personatges femenins o per poder cridar la seva atenció ('és una dona molt atractiva', 'ella és molt guapa', 't'has de fer les ungles', '(la nena) es fa la dura, m'agrada', 'veig que has tornat, preciosa', 'la Cleo és un bombonet', etc.). Els nens protagonistes es colen d'amagat a la casa dels dolents, cosa que no rep cap càstig al final de la història ja que, gràcies als seus actes, resolen el cas i acaben amb els malfactors. L'antagonista té corromput un agent de policia i tracta amb menyspreu la gent del seu entorn, com quan suposa infundadament que alguns d'ells tenen 'problemes mentals'.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa, com 'merder'. La mort passada de la mare del protagonista menor d'edat i com ho viuen ell i el seu pare és un tema recurrent, però es presenta amb delicadesa."
   },
   {
-    "titol": "El meu veí Totoro",
+    "titol": "El meu veí Totoro (1988)",
     "codi": "6286279",
     "edat": "0",
     "orig": "TP",
@@ -3766,7 +3774,7 @@
     "mesinfo": "L'episodi mostra reiteradament elements propis de Halloween com disfresses de zombis, monstres o aranyes, però no hi ha situacions de por, el disseny és simple i amigable, i no estan presents en el relat per provocar angoixa deliberadament. En una escena, s'ensenya a decorar una pastanaga com si fos un dit de bruixa, però queda clara la presentació irreal des d'un primer moment. Durant l'episodi, es parla sovint d'agafar tots els caramels possibles, però no es fa un discurs incentivant al consum excessiu de dolços."
   },
   {
-    "titol": "El món prodigiós: Xangai, la llegenda de Ladydragon",
+    "titol": "El món prodigiós: Xangai, la llegenda de Ladydragon (2021)",
     "codi": "6129416",
     "edat": "0",
     "orig": "TP",
@@ -3830,7 +3838,7 @@
     "mesinfo": "<b>Drogues</b><br>Es veuen imatges de consum d'alcohol en contextos de celebració. Es veu en primer pla com es prepara un còctel i com el conductor del programa el consumeix.<br><br><b>Llenguatge groller</b><br>Es diu sovint 'hosti' o 'hòstia', de manera col·loquial, i 'cabreig', 'collonuda' i 'fotre' ocasionalment.<br><br>Hi ha situacions ocasionals de por i angoixa d'afectació lleu."
   },
   {
-    "titol": "El record de la Marnie",
+    "titol": "El record de la Marnie (2014)",
     "codi": "6290414",
     "edat": "10",
     "orig": "7",
@@ -3842,7 +3850,7 @@
     "mesinfo": "<b>Por i angoixa</b><br>Una noia recurrentment manifesta tenir problemes d'autoestima: s'insulta, es diu que s'odia... Es diu que no perdona que els seus pares i avis biològics morissin i l'abandonessin, i creu que els seus pares adoptius no l'estimen. Ho creu perquè un dia va descobrir que rebien una subvenció per l'adopció. S'explica que una noia era maltractada a casa per la seva minyona, que li estirava el braç i li feia mal quan la pentinava, i per les seves mainaderes, que un dia la van dur a una torre per tancar-la a dins però se'n van desdir perquè feia mal temps. Més tard es conta que aquesta noia es va casar; que, encara dolguda perquè els pares l'abandonaren, la mort del seu home va perjudicar-la encara més i va haver d'ingressar en un sanatori; que el fill que havia tingut el va haver de dur a adopció i que, quan ja es va fer gran i es van retrobar mare i filla, la filla no l'acceptava i es discutien; que la filla va morir en un accident de trànsit junt amb el seu xicot i va haver d'adoptar el net, i que la noia, ja àvia, no va poder superar mai la tragèdia, va morir eventualment d'una malaltia greu i la neta també va acabar en adopció. Les escenes que van revelant tot això són dramàtiques i les protagonistes les relaten visiblement alterades. La mateixa torre, més tard, és escenari d'una situació angoixant ja que les dues noies hi pugen i queden atrapades i aterrades per la forta pluja i el fort vent. Hi ha vegades en què algú es troba una de les noies inconscient a terra enmig del carrer.<br><br><b>Drogues</b><br>S'ensenyen ocasionalment festes on hi ha adults bevent el que sembla ser vi i fumant. En una d'elles, un adult ofereix una copa de vi a una noia menor d'edat, qui en beu una mica fins que s'adona que és alcohol; més tard se la veu una mica èbria, però tot plegat es tracta com a broma i li passa de seguida l'efecte.<br><br>Hi ha una situació de discriminació, explícitament sancionada negativament, en què una nena insulta a una altra dient-li 'vaca fastigosa'. També, uns nens petits es burlen d'un home que no acostuma a parlar amb la gent."
   },
   {
-    "titol": "El Rei Peret",
+    "titol": "El Rei Peret (2024)",
     "codi": "6281758",
     "edat": "13",
     "orig": "10",
@@ -3966,7 +3974,7 @@
     "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'merda' (més de 20 vegades, se n'abusa degut a que una de les activitats del concurs consisteix en transportar fems), 'hòstia' (7 vegades), 'joder' (3 vegades), 'collons!' (2 vegades), 'ni puto cas' (2 vegades), 'soc el puto amo' o 'me cago en la puta'. La majoria d'aquestes expressions es concentren en la primera meitat de l'episodi i es fan servir de manera gratuïta o en un context agressiu, ja que els membres d'un grup tenen freqüents discussions entre ells i amb els membres del jurat. Un d'ells té un comportament arrogant i verbalment agressiu amb la resta, però finalment es disculpa públicament."
   },
   {
-    "titol": "El vent s'aixeca",
+    "titol": "El vent s'aixeca (2013)",
     "codi": "6290568",
     "edat": "10",
     "orig": "7",
@@ -3993,7 +4001,7 @@
     "edat": "0"
   },
   {
-    "titol": "El zoo d'en Pitus",
+    "titol": "El zoo d'en Pitus (1999)",
     "codi": "4655111",
     "edat": "10",
     "orig": "TP",
@@ -4013,7 +4021,7 @@
     "x3": true
   },
   {
-    "titol": "Els consells de l'Alice",
+    "titol": "Els consells de l'Alice (2019)",
     "codi": "6288536",
     "edat": "10",
     "orig": "TP",
@@ -4067,7 +4075,7 @@
     "x3": true
   },
   {
-    "titol": "Els fantasmes de Le Havre",
+    "titol": "Els fantasmes de Le Havre (2018)",
     "codi": "6267220",
     "edat": "13",
     "orig": "10",
@@ -4088,7 +4096,7 @@
     "x3": true
   },
   {
-    "titol": "Els guardians de la nit - Kimetsu no Yaiba - La pel·lícula: El tren infinit",
+    "titol": "Els guardians de la nit - Kimetsu no Yaiba - La pel·lícula: El tren infinit (2020)",
     "codi": "6193236",
     "edat": "13",
     "orig": "16",
@@ -4158,7 +4166,7 @@
     "mesinfo": "<b>Por i angoixa</b><br>La història té lloc en un món màgic, lleugerament tenebrós, ple de personatges amb poders fantàstics, que ja de per si poden provocar confusió: poden canviar el color de pell, transformar-se en home llop, fer cruixir el cap, estirar els braços, o aparèixer i desaparèixer per sorprendre a algú. Hi ha presència breu de sang en algunes escenes. Hi ha un moment en què uns nois fan veure que es dessagnen fent servir un pot de quètxup. Hi ha alguns moments de tensió, com quan els herois han de travessar un abisme saltant sobre unes columnes invisibles, o són perseguits per un llop o acorralats per un trol gegant, i quan té lloc una batalla final contra l'antagonista, que acaba satisfactòriament per a ells, però amb un final lleugerament obert. Es diu que la mare d'un dels herois va morir en un accident.<br><br><b>Llenguatge groller</b><br>Ús ocasional d'insults com 'idiota' o 'estúpid' i expressions com 'se'n fotran de mi'. Hi ha un moment en què sembla que s'ensenya expressament el dit del mig.<br><br><b>Conductes i valors incívics</b><br>Uns abusananos de l'escola enregistren un moment en què incidentalment fan el ridícul davant de tothom, i el comparteixen amb tothom perquè se'n burlin, i també els fan bromes pesades per provocar-los.<br><br>Hi ha violència ocasional, irreal, no explícita, d'intensitat molt lleu i no legitimada."
   },
   {
-    "titol": "Els investigadors i el tresor de les profunditats marines",
+    "titol": "Els investigadors i el tresor de les profunditats marines (2020)",
     "codi": "6194917",
     "edat": "10",
     "orig": "TP",
@@ -4382,7 +4390,7 @@
     "mesinfo": "<b>Llenguatge groller</b><br>Es fan servir expressions malsonants de manera pràcticament incessant, en molts casos de manera agressiva: 'malfollada', 'follat', 'fill de puta', 'puto', 'puta', 'de puta mare', 'puteta', 'càgon la puta', 'putero', 'hòstia puta', 'li surt del cony', 'què cony', 'càgon cony', 'collons', 'acollonir', 'collonets', 'collonut', 'quins pebrots', 'hòstia', 'merda', 'hosti', 'merdeta', 'no fotis', 'fotre', 'cagalera', 'capullo', 'joder', 'la mare que l'ha parit', 'mongolo', 'tarado de mierda', 'gilipollas'...<br><br>Hi ha consum de tabac i al·lusions al consum d'alcohol, a vegades en situacions sexuals, presentat de manera neutra. Hi ha continguts sexuals ocasionals d'explicitació mitjana, parlant de les vegades que una parella s'ha estat infidel i fent al·lusió a ser 'nimfòmana' i a la prostitució, i gesticulant actes sexuals com ara fel·lacions. Hi ha violència irreal, no explícita i d'intensitat greu i, alhora, situacions de por o angoixa ocasionals d'afectació alta: es mostren parts del cos mutilades; un cap dins d'una caixa resulta ser real perquè no té ulls de plàstic; al final, un home apareix mort amb sang a la paret darrere seu. També hi ha violència verbal i referències a actes macabres que han succeït en realitat. Hi ha comportaments i comentaris masclistes presentats de manera negativa. Hi ha conductes i valors incívics presentats negativament, ja que es revela que les parelles s'han mentit entre elles durant anys."
   },
   {
-    "titol": "Escape Room: La pel·lícula",
+    "titol": "Escape Room: La pel·lícula (2022)",
     "codi": "6181591",
     "edat": "13",
     "orig": "13 (a la carta: 12) (prèviament, per televisió: 12)",
@@ -4709,10 +4717,11 @@
     "mesinfo": "<b>Sexe</b><br>Hi ha elements de sexualització, lleus però freqüents, per la vestimenta i coreografies presents en moltes de les actuacions, així com insinuacions de caràcter verbal (per exemple, 'I wanna be your sex toy', 'entre hores pots cuinar-me i menjar-me, 24/7 per fotre la cullera', 'protagonista de fantasys, treballador del clit').<br><br><b>Llenguatge groller</b><br>En una cançó s'hi diu 'hòsties', 'merda' sis vegades, i l'expressió 'negrata', sense aparent intencionalitat racista. En algunes altres cançons s'hi diu 'fotre' o 'stupid', així com l'expressió anglesa altament grollera 'fuck'.<br><br>Hi ha llenguatge violent ocasional, d'intensitat molt lleu. (S'inclouen imatges intermitents que poden afectar a espectadors susceptibles a l'epilèpsia fotosensible.)"
   },
   {
-    "titol": "Èxode",
+    "titol": "Èxode (2019)",
     "codi": "6019046",
     "edat": "18",
     "orig": "10",
+    "imdb": "tt10023746",
     "peli": true,
     "tv3": true,
     "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt greu, no legitimada",
@@ -7626,7 +7635,7 @@
     "raons": "Por i angoixa reiterada d'afectació lleu"
   },
   {
-    "titol": "Jexi",
+    "titol": "Jexi (2019)",
     "codi": "6286541",
     "edat": "18",
     "orig": "16 (per televisió, emesa parcialment sense senyalitzar i en horari protegit)",
@@ -7774,7 +7783,7 @@
     "misc": true
   },
   {
-    "titol": "Kiki, l'aprenent de bruixa",
+    "titol": "Kiki, l'aprenent de bruixa (1989)",
     "codi": "6286281",
     "edat": "0",
     "orig": "TP",
@@ -8377,7 +8386,7 @@
     "mesinfo": "<b>Por i angoixa</b><br>Hi ha freqüents situacions de tensió. Un home amb erupcions a la cara apareix de sobte i amenaça una noia. Un noi s'està ofegant i es diu que morirà, però només estava fingint.<br><br><b>Llenguatge groller</b><br>Es diu 'idiotes'."
   },
   {
-    "titol": "La casa d'Anubis: La pedra angular de Ra",
+    "titol": "La casa d'Anubis: La pedra angular de Ra (2013)",
     "codi": "5586275",
     "edat": "7",
     "orig": "7",
@@ -8421,7 +8430,7 @@
     "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, legitimada"
   },
   {
-    "titol": "La colla de la selva al rescat!: El retorn al gel",
+    "titol": "La colla de la selva al rescat!: El retorn al gel (2011)",
     "codi": "6211640",
     "edat": "7",
     "orig": "TP",
@@ -8433,7 +8442,7 @@
     "mesinfo": "<b>Violència</b><br>Uns dolents tenen amenaçat un poble i la missió dels herois és fer-los fora violentament. Es fa un ús pràcticament ininterromput de llenguatge violent ('us fotrà un mastegot', 'lluitarem cos a cos', 'm'ha trencat les costelles', 'qui s'ha mort', 'picar els dolents', 'els estomacarem', 'hauràs de passar per sobre del meu cadàver', 'revenja', 'esclaus'). Personatges es fan cops al cap, es bufetegen o juguen a ser mestres d'arts marcials. En una batalla campal on bons i dolents no paren de fer-se cops, un dels dolents envia l'heroi contra una superfície i el deixa estabornit; té intencions d'empalar-lo amb un ullal però el seu amic el salva: salta i li mossega l'ull al dolent.<br><br><b>Llenguatge groller</b><br>Es diu 'fotre' i 'idiotes'."
   },
   {
-    "titol": "La colla de la selva al rescat!: El tresor del vell Jim",
+    "titol": "La colla de la selva al rescat!: El tresor del vell Jim (2013)",
     "codi": "6212765",
     "edat": "7",
     "orig": "TP",
@@ -8527,7 +8536,7 @@
     "mesinfo": "<b>Drogues</b><br>Se serveix i es consumeix cervesa en dues de les tres vetllades que apareixen en aquest programa. Una noia diu que, tot i ser catòlica, 'jo surto de festa, bec, m'ho passo bé...'. La conductora del programa narra que una noia 'va molt forta i això que encara no s'ha pres ni el vermut'. Una dona gran pregunta si tenen alcohol. Ella diu que 'potser una mica d'alcohol m'aniria bé per animar-me una mica'; li serveixen molt poca quantitat (diu que així n'hi ha prou) o, en paraules de la veu en off, 'un culet, que encara queden dues vetllades'. Algunes cançons de fons mencionen el tabac.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa (es pregunten si 'diputada' ve de 'putada', 'perra', 'fotre'). Es fan al·lusions a la violència: una noia diu que vol fer plats vegetals sense 'animales torturados', i es diu que l'Església té una 'part fosca', sense entrar en detalls."
   },
   {
-    "titol": "La Haru al regne dels gats",
+    "titol": "La Haru al regne dels gats (2002)",
     "codi": "6286276",
     "edat": "7",
     "orig": "TP",
@@ -8551,7 +8560,7 @@
     "mesinfo": "<b>Drogues</b><br>Hi ha presència ocasional de consum d'alcohol en reunions entre adults en restaurants o bars de luxe. A vegades se'n fa èmfasi, per exemple, amb primers plans de copes servint-se fins vessar.<br><br><b>Llenguatge groller</b><br>Es diu 'puto' dues vegades. S'ensenya el dit del mig en dues ocasions. En altres moments i de manera esporàdica, es diuen 'merda', 'hòstia tu', 'no fotis', 'hòstia santa', 'imbècil', 'merdetes', 'torracollons' o 'collons'.<br><br>(S'inclouen imatges intermitents que poden afectar a espectadors susceptibles a l'epilèpsia fotosensible.)"
   },
   {
-    "titol": "La llegenda del drac trencaossos",
+    "titol": "La llegenda del drac trencaossos (2010)",
     "codi": "6087810",
     "edat": "7",
     "orig": "TP",
@@ -8734,7 +8743,7 @@
     "mesinfo": "<b>Conductes i valors incívics</b><br>Una companya de la protagonista és egoista i maleducada amb ella. Quan s'apropia del rodatge d'una pel·lícula que estaven fent els protagonistes, ells se'n vengen, espanten a tothom i sabotegen l'estudi mentre ho enregistren per enriure-se'n més endavant i 'donar-los una lliçó'. Un dels personatges és groller, expulsa ventositats o menja compulsivament. La protagonista diu que tindrà malsons durant setmanes després de veure una pel·lícula de terror, però que tant li és.<br><br>Hi ha situacions ocasionals que poden provocar por o angoixa amb una afectació lleu, ja que el fantasma principal és capaç d'adoptar aparença terrorífica, i quan s'ensenya 'sang falsa' o es parla de 'pocs caps tallats' en una pel·lícula de por. Es diu 'a la porra'."
   },
   {
-    "titol": "La Mia i el lleó blanc",
+    "titol": "La Mia i el lleó blanc (2018)",
     "codi": "6131985",
     "edat": "10",
     "orig": "TP",
@@ -8778,7 +8787,7 @@
     "x3": true
   },
   {
-    "titol": "La Ponyo al penya-segat",
+    "titol": "La Ponyo al penya-segat (2008)",
     "codi": "6290413",
     "edat": "7",
     "orig": "TP",
@@ -8790,7 +8799,7 @@
     "mesinfo": "<b>Por i angoixa</b><br>La pel·lícula inclou moments en què personatges principals semblen estar en perill i múltiples situacions sobrenaturals de llarga durada, que poden provocar confusió i angoixa. Un nen trenca una ampolla amb una pedra per tal de rescatar un peix que s'hi havia quedat encallat a dins, i es fa un petit tall de sang al dit però es cura ràpidament. Més d'un cop, el peix es queda immòbil (li diuen que no es mori) o venen unes forces en forma d'ones gegants amb ulls per endur-se-la al fons del mar. En una escena prolongada i intensa, un tsunami amenaça un poble i unes ones enormes -comandades pel peix transformat en nena- persegueixen els protagonistes, que escapen en cotxe i que en surten il·lesos. Al final, el nen es posa a plorar perquè no troba la seva mare, s'espanta en veure que el peix reverteix lentament la seva transformació, i és perseguit per un dels antagonistes que es volen endur la nena, però el final de tot plegat és positiu.<br><br><b>Llenguatge groller</b><br>Un home és anomenat 'burro' múltiples vegades en una mateixa escena. Una nena diu que una peixeta està 'grassa' i li respon escopint-la a la cara.<br><br>Hi ha un moment en què una dona, després de tenir un atac de ràbia, obre una llauna de cervesa, i després se la veu estesa al llit sense ganes de fer res, però no es veuen imatges de consum ni sembla que pugui estar èbria. També hi ha moments de conducció temerària, i un nen encén un misto sense supervisió en una escena, encara que el context de tot plegat és fantasiós."
   },
   {
-    "titol": "La princesa Mononoke",
+    "titol": "La princesa Mononoke (1997)",
     "codi": "6294298",
     "edat": "13",
     "orig": "7",
@@ -9060,7 +9069,7 @@
     "mesinfo": "<b>Llenguatge groller</b><br>Es fa un ús freqüent d'expressions d'intensitat alta, a causa de la seva naturalesa o perquè s'utilitzen en contextos agressius, com 'hòstia', 'hòstia puta', 'puta ama', 'putades', 'collons', 'és una puta màquina', 'joder', 'no me jodas', 'cabró', 'merda', 'fotre' o 'cagat'.<br><br>Hi ha situacions freqüents d'angoixa lleu."
   },
   {
-    "titol": "La Ventafocs i el príncep secret",
+    "titol": "La Ventafocs i el príncep secret (2018)",
     "codi": "6209977",
     "edat": "7",
     "orig": "TP",
@@ -9370,7 +9379,7 @@
     "mesinfo": "<b>Llenguatge groller</b><br>Es fan servir insults d'intensitat baixa: 'beneit'.<br><br>Hi ha escenes ocasionals de violència irreal, no explícita, d'intensitat molt lleu i no legitimada, escenes ocasionals de por d'afectació lleu, i conductes incíviques d'una manera fàcilment comprensible per a infants de molt poca edat."
   },
   {
-    "titol": "Leo da Vinci: Missió Mona Lisa",
+    "titol": "Leo da Vinci: Missió Mona Lisa (2018)",
     "codi": "6209978",
     "edat": "7",
     "orig": "TP",
@@ -9976,7 +9985,7 @@
     "mesinfo": "<b>Drogues</b><br>Hi ha consum freqüent d'alcohol. En una escena, un home camina per la platja amb evidents signes d'embriaguesa. Es menciona si una persona ha consumit 'coca' o 'heroïna'.<br><br><b>Llenguatge groller</b><br>Freqüent ús agressiu d'expressions com 'puta' ('per fer de puta', 'fill de puta', 'puta peça', 'què putes fas', 'puto mòbil'...), 'collons', 'collonades', 'cabró', 'merda', 'cony', 'cabró' i 'hòsties'.<br><br>Hi ha continguts sexuals ocasionals d'explicitació mitjana; es parla d'anar a fer d'escort i de fer 'mamades', i hi ha una breu escena de sexe gravada en la foscor. Hi ha conductes incíviques presentades de manera neutra. Hi ha una sobtada i breu escena de violència versemblant, no explícita i d'intensitat lleu quan un home intenta escanyar un altre. Hi ha por i angoixa mitjana en alguns moments en què sona música de suspens."
   },
   {
-    "titol": "L'origen de les curses de dracs",
+    "titol": "L'origen de les curses de dracs (2014)",
     "codi": "6087813",
     "edat": "7",
     "orig": "TP",
@@ -10439,7 +10448,7 @@
     "mesinfo": "<b>Drogues</b><br>Una dona fuma un porro i l'ofereix a una persona d'uns vint anys; la dona diu que no es ficarà en problemes mentre no n'ofereixi a un nen. La mare d'aquest noi el descobreix i el renya, ell respon que els porros no són droga i el tornen a renyar. A l'instant, la mare li demana a la primera dona que li passi un, que li hauria anat de conya i que fa molt que no en fuma, i cedeix: 'unes caladetes', 'un petit'. Més tard les veiem col·locades i mig marejades, la mare diu: 'mira que donar-me un porro que saps que em senta fatal', però juntes riuen i diuen que els fa tornar a la facultat, a l'insti i a les colònies, i que això no els ha portat problemes. Diuen que volen estar fora perquè els toqui l'aire, i perquè sinó un inspector se les pot endur a comissaria. Diu que se sent bé, i diu de fer un altre porro. Llavors crida a tot vent, rient i perdent l'equilibri: 'HOLA BARCELONA, ALGÚ TÉ UN PORRO?!'. També es diu que una persona és addicta als còctels, i veiem persones consumint-ne. Una d'elles diu que 'ni fuma ni beu', però que 'un dia és un dia'. També veiem consum d'alcohol en una reunió d'amics així com més begudes alcohòliques de fons, i un home demana una màquina de tabac.<br><br>Hi ha referències sexuals d'impacte mitjà quan una dona diu que quan parla d'unes imatges d'un home movent la cua no es refereix a una 'fotopolla', que el 'porno' ja no es veu 'pel Plus' sinó pel Tinder, que un noi té una 'mànega pastissera' des de nadó perquè ho va veure mentre li canviava els bolquers o un home dient a una dona que li veu les calces. Un home i una dona es petonegen passionalment (després que la dona tingués certa pressa per marxar, però finalment cedeix), i en el moment en què ell fica la mà per sota el vestit (no es veu gaire més), ella gemega. Hi ha llenguatge groller freqüent d'intensitat alta ('puta santa', 'hòstia', 'merda', 'fotuda', 'ni puta gràcia', 'collons', 'cabrona', 'on cony és', 'm'aniria de puta mare', 'càgun la puta', 'què collons', 'fot-te', 'cagant llets', 'puto', 'fotopolla', 'follar'). A unes persones se'ls crema el foc i corren nerviosos per apagar l'incendi. En una altra escena uns homes amenacen a un altre: li diuen que, si no paga el deute, cremarà el seu local; una d'elles juga amb una navalla durant una estona. Una dona diu que, quan li diuen mentides, té una crisi nerviosa."
   },
   {
-    "titol": "Lupin III: The First",
+    "titol": "Lupin III: The First (2019)",
     "codi": "6194572",
     "edat": "13",
     "orig": "7",
@@ -10963,7 +10972,7 @@
     "raons": "Por i angoixa freqüent d'afectació mitjana"
   },
   {
-    "titol": "Mary i la flor de la bruixa",
+    "titol": "Mary i la flor de la bruixa (2017)",
     "codi": "6211735",
     "edat": "7",
     "orig": "TP",
@@ -11003,7 +11012,7 @@
     "edat": "0"
   },
   {
-    "titol": "Mazinger Z: Infinity",
+    "titol": "Mazinger Z: Infinity (2017)",
     "codi": "6210082",
     "edat": "10",
     "orig": "7",
@@ -11074,7 +11083,7 @@
     "x3": true
   },
   {
-    "titol": "Millennium: els homes que no estimaven les dones",
+    "titol": "Millennium: els homes que no estimaven les dones (2011)",
     "codi": "32432423432434324324324",
     "edat": "18",
     "orig": "16",
@@ -11219,7 +11228,7 @@
     "mesinfo": "<b>Violència</b><br>Un ésser trenca el coll d'una dona. Hi ha apunyalaments no explícits.<br><br><b>Por i angoixa</b><br>Es manté una sensació de tensió i angoixa durant tot l'episodi, degut a que la majoria de l'acció té lloc en un entorn tancat i amb poca llum. La tensió augmenta quan les protagonistes se separen i una d'elles és atacada.<br><br>Una dona fuma tabac, sense comentaris al respecte. Hi ha llenguatge groller ocasional amb una intensitat alta, com 'puta'."
   },
   {
-    "titol": "Mortadel·lo i Filemó contra en Jimmy el Catxondo",
+    "titol": "Mortadel·lo i Filemó contra en Jimmy el Catxondo (2014)",
     "codi": "6243192",
     "edat": "13",
     "orig": "7",
@@ -11230,7 +11239,7 @@
     "mesinfo": "<b>Discriminació, racisme i xenofòbia</b><br>Múltiples personatges femenins són estereotipats per la seva aparença física, i reben comentaris indesitjats, encara que el relat els tracta com a incidentals perquè resulta que no anaven referits a elles. En una escena, un home li pregunta a una dona que acaba d'entrar 'què penses fer durant la resta de la teva vida', i ella respon 'agafar aquest esprai antivioladors'; al final de la pel·lícula, l'home acaba sortint amb ella després d'aplicar-li una droga que torna dòcil qui se l'administra. Un home gros i violent es torna -textualment- un 'primat efeminat' en el moment en què és drogat amb aquesta substància. Un home d'estatura baixa és anomenat 'senyor de joguina'. També, un altre personatge fa comentaris que insinuen que una parella de dos homes és antinatural.<br><br>Hi ha violència reiterada, irreal, no explícita, lleu i no legitimada, atès que múltiples personatges tenen accidents o reben agressions de naturalesa slapstick (es peguen, es tallen el nas, surten disparats contra parets, s'esclafen els dits, es peguen entre ells, reben cops de paella a la cara, cauen des d'una gran alçada, reben un impacte a la pelvis, s'electrocuten, s'ofeguen, es llencen ganivets, es disparen míssils i es destrueixen edificis...) durant gairebé tota la pel·lícula, sense provocar-los ferides greus i de manera còmica; a més, l'argument gira entorn a l'intent de realitzar un acte violent (penetrar el cul d'un protagonista amb la mà) per part d'un malvat al protagonista per venjança. Hi ha continguts sexuals freqüents d'explicitació baixa, en forma de dobles sentits (per exemple, quan s'al·ludeix a l'acte anteriorment descrit) i de sexualització de personatges femenins; destaca una escena en què s'hi mostra un pòster d'una dona en biquini, i un invident li grapeja accidentalment els pits. Hi ha llenguatge groller freqüent d'intensitat baixa (dit del mig, 'com el cul', 'tontada', 'no té pebrots', 'un parell d'ous', 'collonàstica', 'hosti', 'me càgon', 'colló', 'merda', 'caganer', 'cagat', 'n'estic fins a la punta de la cosa aquella', 'tarat', 'imbècil', 'capullo', 'mamó', 'te la foto', 'la clau l'hi ficaré jo a vostè però per un altre lloc', 'mare que et va parir', 'tita confitada'). Hi ha consum de drogues lícites (tabac i alcohol), presentat de manera neutra."
   },
   {
-    "titol": "Murmuris del cor",
+    "titol": "Murmuris del cor (1995)",
     "codi": "6294296",
     "edat": "7",
     "orig": "TP (tot i ser 7 a Espanya)",
@@ -11242,7 +11251,7 @@
     "mesinfo": "<b>Drogues</b><br>Una mare, quan entra al lloc de treball del pare, diu: 'bufa, quina pudor de tabac'. Se'l veu fumar en dues ocasions; en la segona, s'encén un cigarret en presència de la seva filla i la mare li demana que l'apagui. Un home gran s'encén una pipa.<br><br><b>Llenguatge groller</b><br>Es diu 'idiota' fins a nou vegades, tot i que les set primeres es diuen consecutivament en una mateixa escena. Es diu 'burra' i 'burro' un cop cadascun.<br><br>Hi ha situacions ocasionals de por i angoixa d'afectació lleu: unes noies ploren després de conèixer una notícia; dues germanes discuteixen pel fet que una d'elles hagi decidit deixar els estudis; una noia té un malson on veu una pedra transformar-se en un pollet mort; es diu que una guerra va separar la vida de dos enamorats."
   },
   {
-    "titol": "My Hero Academia: Dos herois",
+    "titol": "My Hero Academia: Dos herois (2018)",
     "codi": "6189552",
     "edat": "13",
     "orig": "12",
@@ -11253,7 +11262,7 @@
     "raons": "Violència ocasional, versemblant, explícita, d'intensitat greu, no legitimada"
   },
   {
-    "titol": "My Hero Academia: El despertar dels herois",
+    "titol": "My Hero Academia: El despertar dels herois (2019)",
     "codi": "6210526",
     "edat": "13",
     "orig": "12",
@@ -11265,7 +11274,7 @@
     "mesinfo": "<b>Violència</b><br>Hi ha incessants batalles entre personatges amb superpoders i involucrant explosions, rajos d'energia, atacs de foc, metralletes irreals, destrucció d'edificis i del terra, etc. Freqüentment, els atacs que infereixen dolents contra bons acaben amb ferides greus, que eventualment són curades, i l'aparició de sang. Hi ha una persecució de vehicles amb descarrilaments, atropellaments i explosions. Un dolent agafa persones pel cap i les hi estreny per robar-los el poder. Els herois tenen, sovint, sang al cap a causa de la violència, de ser enviats lluny i impactant contra parets o roques. Un atac frega la galta de l'heroi i li surt força sang, i després el fereixen al maluc. Es diu que un atac ha rebentat les costelles d'un heroi. Un dolent tus sang. Unes punxes impacten contra la cama d'una heroïna, li fan caure i impactar el cap contra unes roques, vessant-hi sang. Dos herois xoquen el cap i s'estan estesos a terra, vessant-hi sang. Un heroi intenta protegir uns nens i el fereixen als braços. Un dolent alça una nena i li pressiona el coll. Un atac superpoderós fa que els braços rebentin, surti sang i quedin abrasats. El malvat està molt malferit i s'arrossega per terra, deixant un rastre de sang.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa, com 'merda' o 'desgraciat'. Hi ha consum de tabac presentat de manera negativa."
   },
   {
-    "titol": "My Hero Academia: Missió mundial d'herois",
+    "titol": "My Hero Academia: Missió mundial d'herois (2021)",
     "codi": "6210284",
     "edat": "13",
     "orig": "7",
@@ -11302,7 +11311,7 @@
     "mesinfo": "<b>Llenguatge groller</b><br>Es fan servir freqüentment expressions malsonants amb certa agressivitat i gratuïtat com 'merda', 'fotre', 'hòstia', 'collons', 'putada', 'cabró' i les reproduïdes en el paràgraf següent.<br><br>Hi ha continguts sexuals ocasionals d'explicitació mitjana quan, per exemple, es comenta i s'ensenya com es reprodueixen les granotes i es fa servir l'expressió 's'escorren', o quan es diu que un animal va 'follant' pels mons. Hi ha referències a drogues lícites (tabac i alcohol) i il·lícites (al·lucinògens provinents d'algunes espècies de granota) presentades de manera negativa en un context humorístic."
   },
   {
-    "titol": "Nausicaä de la Vall del Vent",
+    "titol": "Nausicaä de la Vall del Vent (1984)",
     "codi": "6296510",
     "edat": "13",
     "orig": "7",
@@ -11343,7 +11352,7 @@
     "mesinfo": "<b>Drogues</b><br>Presentades de manera neutra, s'ensenyen ocasionalment imatges de consum de tabac i d'alcohol, i es diu que un autor va explicar en un llibre la seva addicció a l'alcohol i a la cocaïna, sense entrar en detalls. Al final del programa, s'ensenya una actuació musical d'un grup jove on fan al·lusions a l'abús d'alcohol i al consum de marihuana i de tabac, també sense sanció ('trobo a faltar liar-la ben borratxo', 'calades a la platja passant el rato', 'litro fred, fuma verd amb la click', 'Jamaica al meu cap', 'els Flashy, la banda del cubata ple').<br><br>Hi ha continguts sexuals ocasionals d'explicitació mitjana, en forma d'imatges de nuesa i d'al·lusions, com quan la presentadora es pregunta -sense entrar en detalls- què són 'pràctiques sexuals humiliants' i el 'sexe guarro' en referència a uns casos de violència sexual d'un expolític. Hi ha llenguatge groller freqüent d'intensitat baixa, ocasionalment alta ('hòstia', 'fotre', 'collons', 'puto' repetit diversos cops en una cançó que sona momentàniament, 'joder'). Hi ha por i angoixa ocasional mitjana en ensenyar imatges postapocalíptiques provinents de sèries o pel·lícules de ficció. Hi ha violència ocasional, versemblant, no explícita, lleu i no legitimada."
   },
   {
-    "titol": "Nico 2: Germà petit, problema gran",
+    "titol": "Nico 2: Germà petit, problema gran (2012)",
     "codi": "5806346",
     "edat": "7",
     "orig": "TP",
@@ -11847,7 +11856,7 @@
     "mesinfo": "<b>Drogues</b><br>Un home de la colla del protagonista apareix fumant de manera pràcticament reiterada.<br><br>Hi ha situacions freqüents de por i angoixa d'afectació lleu: es fan al·lusions a la mort, atès que a un home gran se li atura el cor i, tot i ser reviscut ràpidament, descobreixen que morirà d'aquí a uns pocs dies. Hi ha llenguatge groller ocasional d'intensitat baixa ('merda', 'burro'). Hi ha violència ocasional, irreal, no explícita, d'intensitat molt lleu i no legitimada, quan uns nois reben clatellots, cops de puny o cops de peu com a sanció per alguna cosa que han dit, de manera còmica; també es disparen canons des d'un vaixell, que no impacten contra ningú."
   },
   {
-    "titol": "One Piece: Estampida",
+    "titol": "One Piece: Estampida (2019)",
     "codi": "6210083",
     "edat": "13",
     "orig": "16",
@@ -11859,7 +11868,7 @@
     "mesinfo": "<b>Drogues</b><br>Diversos personatges es mostren fumant de forma reiterada, sigui una cigarreta, un cigar o dos cigars alhora. Alguns també tenen begudes alcohòliques, i se'n fan comentaris en positiu ('segur que hi ha licors dels bons').<br><br>Hi ha violència freqüent, irreal, explícita, d'intensitat lleu i legitimada, formada bàsicament per combats entre personatges amb superpoders i explosions, espases, cops de puny màgics, puntades de peu en flames, forats a terra, canons, amenaces de mort, etc. De tant en tant, aquesta violència comporta l'aparició de sang, com quan uns nois perden el coneixement i les forces i estan estesos a terra, però sense ferides greus. Aquestes escenes també porten associada certa tensió o angoixa, ja que el dolent principal ho arrasa tot i es transforma en un monstre gegant. Hi ha llenguatge groller freqüent d'intensitat baixa, amb expressions com 'merda', 'idiota', 'fotre', 'estúpid', 'malparit' o 'desgraciat'. Diversos personatges femenins estan sexualitzats; alguns d'ells es presenten per primer cop a l'espectador amb primers plans del seu cos."
   },
   {
-    "titol": "One Piece Film Red",
+    "titol": "One Piece Film Red (2022)",
     "codi": "6258776",
     "edat": "13",
     "orig": "13",
@@ -11896,7 +11905,7 @@
     "mesinfo": "<b>Sexe</b><br>Es revela que un membre de la família és un 'stripper'; a vegades els dedica balls on es despulla fins quedar en roba interior; alguns membres intenten fer un ball i intentar semblar suggerents, sense èxit, en situacions despreocupades que redueixen el component eròtic. Es fan comentaris com 'per dintre hi havia un...', 'està pujant la temperatura', 'a mi no m'ho ha fet mai en privat' o 'tenia el fre de mà posat, tu saps més coses'. En una altra escena, es mostren un preservatiu i un lubricant, i se'n fan comentaris ('el kit de l'amor, el circ Raluy', 'protegeixes el teu sexe'). Amb intenció còmica, dos nois es morregen acompanyats de sons exagerats, i gent que els observa comenta que s'hi volen apuntar, 'que no estan fent res mal fet', etc. Un rètol pregunta si els àngels 'tenen sexe'. Sonen gemecs superposats cada cop que es fan insinuacions sexuals. Un home pregunta si 'es pot explicar a aquesta hora' com una parella es va conèixer.<br><br><b>Llenguatge groller</b><br>Un cop cadascuna, es diuen 'ni puta idea', 'puta merda', 'a joderse' i 'quina putada'. També es diuen 'hòstia', 'merda' o 'fotut'.<br><br>Un home mostra unes birres com a 'premi' després d'haver fet esport, en una seqüència en què es presenta ell mateix per al programa. Hi ha un moment en què es diu que una bicicleta era robada. Hi ha referències i veiem a membres de la família mentir en el context competitiu del programa, que acaba sent recompensat perquè aquesta acaba guanyant." 
   },
   {
-    "titol": "Pinotxo i la seva amiga Coco",
+    "titol": "Pinotxo i la seva amiga Coco (2013)",
     "codi": "5817536",
     "edat": "7",
     "orig": "TP",
@@ -12206,7 +12215,7 @@
     "x3": true
   },
   {
-    "titol": "Porco Rosso",
+    "titol": "Porco Rosso (1992)",
     "codi": "6290411",
     "edat": "10",
     "orig": "TP",
@@ -12881,7 +12890,7 @@
     "raons": "Violència ocasional, versemblant, explícita, d'intensitat greu, no legitimada<br>Por i angoixa reiterada d'afectació mitjana<br>Al·lusions al tràfic i consum de drogues lícites (tabac) i il·lícites (marihuana), presentat de manera negativa"
   },
   {
-    "titol": "Quan Hitler em va robar el conillet rosa",
+    "titol": "Quan Hitler em va robar el conillet rosa (2019)",
     "codi": "6186075",
     "edat": "10",
     "orig": "TP",
@@ -13008,7 +13017,7 @@
     "x3": true
   },
   {
-    "titol": "Robby, Toby i el viatge fantàstic",
+    "titol": "Robby, Toby i el viatge fantàstic (2016)",
     "codi": "5807504",
     "edat": "10",
     "orig": "TP",
@@ -13972,16 +13981,18 @@
     "misc": true
   },
   {
-    "titol": "Spirit, cavalcant en llibertat: L'esperit de Nadal",
+    "titol": "Spirit, cavalcant en llibertat: L'esperit de Nadal (2019)",
     "codi": "6075676",
     "edat": "0",
     "orig": "TP",
+    "imdb": "tt11313068",
+    "csm": "tv-reviews/spirit-riding-free-spirit-of-christmas",
     "peli": true,
     "x3": true,
     "raons": "Por i angoixa ocasional d'afectació lleu"
   },
   {
-    "titol": "Spycies: Dos espies rebels",
+    "titol": "Spycies: Dos espies rebels (2020)",
     "codi": "6210962",
     "edat": "10",
     "orig": "TP",
@@ -14030,7 +14041,7 @@
     "mesinfo": "<b>Violència</b><br>Per obrir-se pas, els herois tallen els braços d'uns robots i els seus cossos per la meitat amb espases. Uns robots disparen rajos làser contra els herois.<br><br><b>Llenguatge groller</b><br>Es diu 'desgraciat' per insultar a algú."
   },
   {
-    "titol": "Super Mario Bros.: La pel·lícula",
+    "titol": "Super Mario Bros.: La pel·lícula (2023)",
     "codi": "3255555523555",
     "edat": "7",
     "imdb": "tt6718170",
@@ -14318,7 +14329,7 @@
     "raons": "Por i angoixa freqüent d'afectació lleu"
   },
   {
-    "titol": "Thor: La llegenda del martell màgic",
+    "titol": "Thor: La llegenda del martell màgic (2011)",
     "codi": "5808425",
     "edat": "7",
     "orig": "TP",
@@ -14350,7 +14361,7 @@
     "mesinfo": "Es comenta que han 'mort' tortugues per culpa de la contaminació."
   },
   {
-    "titol": "Tina Superbruixa: Nova aventura d'hivern",
+    "titol": "Tina Superbruixa: Nova aventura d'hivern (2017)",
     "codi": "6254469",
     "edat": "7",
     "orig": "TP",
@@ -14558,7 +14569,7 @@
     "mesinfo": "<b>Sexe</b><br>Es comenta que un trofeu té forma fàl·lica després que la convidada intentés representar-lo en l'aire fent gestos. Més tard, la convidada és preguntada sobre quina cosa més de dretes ha fet últimament i respon: 'Potser, a nivell sexual, la postura tradicional. És a dir, la dona a sota i els dos homes a sobre. Els missioners.'<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa: 'fote't' i 'merda' es diuen un cop cadascun. Hi ha situacions ocasionals de por o angoixa amb afectació lleu, amb bromes sobre la mort. Es menciona una guia de vins i el whisky. Inclou una situació anecdòtica de violència irreal, molt lleu i no explícita en l'animació inicial (un braç surt disparat d'un personatge i ataca a un altre). Es fa un comentari humorístic sobre matar activistes i cremar bruixes, que rep mirades de distanciament per part dels altres tertulians."
   },
   {
-    "titol": "Un cap de setmana mortal",
+    "titol": "Un cap de setmana mortal (2021)",
     "codi": "6283796",
     "edat": "13",
     "orig": "TP",
@@ -14569,7 +14580,7 @@
     "mesinfo": "<b>Violència</b><br>Una dona rep constantment missatges amenaçadors que diuen que està sent vigilada. En diverses ocasions es veu com algú la vigila o la persegueix a on passa les vacances. Hi ha un moment en què entra a on s'allotja i aconsegueix robar-li un antial·lèrgic. Més tard, li donen un pastisset amb cacauets dins i ella té una reacció al·lèrgica, té atacs de tos i s'està estona sense poder respirar fins que algú aconsegueix salvar-la. En un altre moment, li enverinen la beguda, perd el coneixement i cau estesa a terra en plena nit. Una dona s'encara amb una altra, acusant-la falsament de ser ella qui està assetjant la protagonista. Quan es despista, l'assetjadora de debò li pega al cap amb una roca, i quan es desperta, veu que està lligada de braços; aconsegueix deslligar-se i li punxa la cama amb l'antial·lèrgic; surt corrents, però l'atrapa i intenta escanyar-la; totes dues acaben en una casa, s'enfilen al primer pis, la protagonista empenta la dona contra la barana i cau estesa morta a terra.<br><br>Hi ha situacions freqüents de por i angoixa mitjana; vegeu 'Violència'. Hi ha consum freqüent de drogues lícites (alcohol) presentat de manera neutra. Hi ha referències sexuals ocasionals d'explicitació baixa. Hi ha llenguatge groller ocasional d'intensitat baixa ('què collons', 'hosti')."
   },
   {
-    "titol": "Un cel de plom",
+    "titol": "Un cel de plom (2023)",
     "codi": "6262623",
     "edat": "13",
     "orig": "16",
@@ -14596,7 +14607,18 @@
     "mesinfo": "<b>Violència</b><br>Una nena estira la corda d'un pegat pirata que un noi duu posat, amb deliberades intencions de fer-li mal. Es mostren estrelles en el moment de l'impacte.<br><br><b>Conductes i valors incívics</b><br>Els nens es comporten reiteradament de manera incívica. Els nens ideen un pla per obrir l'armari del mestre, tot ple de joguines requisades. Un dels nens aprofita tot el treball que han fet en equip per intentar escapar tot sol. La presentació d'aquestes conductes, però, és relativament inversemblant i la sanció per tot plegat és implícitament negativa al final de l'episodi, ja que acaben destruint l'escola bressol, el mestre els descobreix i s'enfada amb ells.<br><br>Hi ha situacions ocasionals de por i angoixa lleu, quan es fan bromes sobre la mort, i es mostra un ull de vidre. Hi ha estereotips negatius basats en l'aparença física d'un dels nens, i estereotips de gènere."
   },
   {
-    "titol": "Xavier Enigma i la pel·lícula secreta. Soc la senyora presidenta",
+    "titol": "Upon Entry (L'arribada) (2022)",
+    "codi": "6322856",
+    "edat": "10",
+    "orig": "7",
+    "imdb": "tt22964884",
+    "peli": true,
+    "tv3": true,
+    "raons": "Por i angoixa reiterada d'afectació lleu<br>Llenguatge groller ocasional d'intensitat alta",
+    "mesinfo": "<b>Por i angoixa</b><br>La pel·lícula és angoixant de principi a fi per la insistència i la freqüència dels interrogatoris sobre coses privades que fa que els protagonistes se sentin incòmodes, però no s'utilitzen efectes sonors ni elements de terror.<br><br><b>Llenguatge groller</b><br>Es fa servir ocasionalment llenguatge groller de manera agressiva.<br><br>Hi ha referències ocasionals a continguts sexuals d'explicitació baixa, i situacions de discriminació presentades de manera negativa en el relat."
+  },
+  {
+    "titol": "Xavier Enigma i la pel·lícula secreta. Soc la senyora presidenta (2020)",
     "codi": "6122038",
     "edat": "0",
     "orig": "TP",
@@ -14828,7 +14850,7 @@
     "mesinfo": "<b>Llenguatge groller</b><br>Tant el presentador com diferents convidats utilitzen reiteradament un llenguatge col·loquial amb ús d'expressions com 'hòstia', 'collons', 'cabrons', 'fotut' o 'cony', que s'empren sempre en un context distès i amistós i mai amb una intencionalitat ofensiva. Ocasionalment, hi ha llenguatge d'intensitat alta ('de puta madre', 'putada', 'toca els ous').<br><br>Hi ha continguts eròtics ocasionals d'explicitació baixa quan, després de fer una llarga explicació sobre adoptar nens, acaba fent-ne un resum amb una deliberada insinuació sexual: 'hi ha molta palla'. Es fa una referència passatgera i negativa al consum de tabac, i pregunten a un grup de rock si mai han pres drogues o alcohol, i responen que no."
   },
   {
-    "titol": "Yokai Watch: La pel·lícula",
+    "titol": "Yokai Watch: La pel·lícula (2014)",
     "codi": "6213073",
     "edat": "7",
     "orig": "TP",
