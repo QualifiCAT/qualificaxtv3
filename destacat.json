@@ -1,5 +1,15 @@
 [
   {
+    "titol": "La república del Mediterrani<br><small>2 episodis</small>",
+    "codi": "La república del Mediterrani##",
+    "edat": "13",
+    "sexe": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "sexe": true,
+    "3cat": true
+  },
+  {
     "titol": "Upon Entry (L'arribada)",
     "codi": "Upon Entry",
     "edat": "10",
@@ -47,16 +57,5 @@
     "orig": "TP",
     "peli": true,
     "tv3": true
-  },
-  {
-    "titol": "Punt de no retorn<br><small>Suècia, bandes criminals</small>",
-    "codi": "Punt de no retorn##",
-    "edat": "13",
-    "violencia": true,
-    "por": true,
-    "drogues": true,
-    "orig": "18",
-    "serie": true,
-    "3cat": true
   }
 ]
