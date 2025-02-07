@@ -1,12 +1,22 @@
 [
   {
+    "titol": "Nits sense ficció<br><small>Diari de la meva sextorsió</small>",
+    "codi": "Nits sense ficció##",
+    "edat": "13",
+    "drogues": true,
+    "llenguatge": true,
+    "orig": "7",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "La república del Mediterrani<br><small>2 episodis</small>",
     "codi": "La república del Mediterrani##",
     "edat": "13",
     "sexe": true,
     "llenguatge": true,
     "orig": "TP",
-    "sexe": true,
+    "serie": true,
     "3cat": true
   },
   {
@@ -47,15 +57,6 @@
     "incivisme": true,
     "orig": "TP",
     "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "Teatre<br><small>Lali Symon</small>",
-    "codi": "Lali Symon",
-    "edat": "13",
-    "llenguatge": true,
-    "orig": "TP",
-    "peli": true,
     "tv3": true
   }
 ]
