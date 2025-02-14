@@ -1,5 +1,17 @@
 [
   {
+    "titol": "Això no és una cançó<br><small>temporada 2<br>episodis 4 de 8</small>",
+    "codi": "Això no és una cançó#",
+    "edat": "7",
+    "sexe": true,
+    "por": true,
+    "drogues": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Nits sense ficció<br><small>Diari de la meva sextorsió</small>",
     "codi": "Nits sense ficció##",
     "edat": "13",
@@ -7,7 +19,8 @@
     "llenguatge": true,
     "orig": "7",
     "serie": true,
-    "tv3": true
+    "tv3": true,
+    "separat": true
   },
   {
     "titol": "La república del Mediterrani<br><small>2 episodis</small>",
@@ -45,17 +58,6 @@
     "sexe": true,
     "llenguatge": true,
     "orig": "10",
-    "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "30 minuts<br><small>Els últims venecians</small>",
-    "codi": "30 minuts##",
-    "edat": "7",
-    "drogues": true,
-    "llenguatge": true,
-    "incivisme": true,
-    "orig": "TP",
     "serie": true,
     "tv3": true
   }
