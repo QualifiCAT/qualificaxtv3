@@ -1,12 +1,9 @@
 [
   {
-    "titol": "Això no és una cançó<br><small>temporada 2<br>episodis 4 de 8</small>",
+    "titol": "Això no és una cançó<br><small>temporada 2<br>episodis 5 de 8</small>",
     "codi": "Això no és una cançó#",
-    "edat": "7",
-    "sexe": true,
-    "por": true,
+    "edat": "10",
     "drogues": true,
-    "llenguatge": true,
     "orig": "TP",
     "serie": true,
     "tv3": true
