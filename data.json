@@ -288,7 +288,7 @@
   {
     "titol": "Això no és una cançó",
     "codi": "aixo-no-es-una-canco",
-    "edat": "7",
+    "edat": "10",
     "orig": "TP",
     "serie": true,
     "tv3": true
@@ -359,6 +359,13 @@
     "edat": "7",
     "raons": "Continguts sexuals ocasionals d'explicitació baixa<br>Por i angoixa ocasional d'afectació mitjana<br>Al·lusions al consum de drogues lícites (alcohol) i il·lícites (sense concretar), presentades de manera negativa",
     "mesinfo": "<b>Sexe</b><br>Es parla d'infidelitats. En els subtítols d'una cançó, es diu que 'la va sucar'.<br><br><b>Por i angoixa</b><br>Es diu que es va produir una onada de suïcidis per tot Europa arran d'imitar el que es feia en una obra literària on un noi es llevava la vida per haver estat rebutjat per la persona qui estimava, un pensament que cap dels alumnes de l'episodi defensa, en considerar-lo una malaltia mental. Es fan també freqüents referències a la mort de manera no detallada. Un noi comenta que es va sentir sol quan la seva mare va morir quan ell tenia 7 anys. Vegeu també 'Drogues'.<br><br><b>Drogues</b><br>Es diu que una dona va tornar en una 'espiral' de consum de drogues (sense concretar-ne quines) i d'alcohol arran que la deixés el seu home. Es diu que, finalment, que l'abús d'alcohol la va matar. Es donen noms d'artistes que van morir molt joves per haver viscut una vida d'abús de drogues.<br><br>Hi ha un sol ús de llenguatge groller ('hosti')."
+  },
+  {
+    "titol": "Això no és una cançó 2x05 - Boig per l'Empordà",
+    "codi": "6323731",
+    "edat": "10",
+    "raons": "Al·lusions al consum de drogues lícites (alcohol), presentat de manera neutra",
+    "mesinfo": "<b>Drogues</b><br>Es comenta que el protagonista d'una cançó és un home alcohòlic ('cap al migdia anava ben torrat', 'varen passar ampolles i anys'), el 'borratxo' del poble, que va perdre l'esperança i volia matar-se, però que sempre se'n desdiu. Es diu que fer cançons sobre perdedors és interessant artísticament. També, l'altra cançó que es tracta té lloc en un bar, i es romantitza que a la copa s'hi veu reflectida la llum d'una persona estimada. No es fan al·lusions crítiques al consum d'alcohol en cap moment de l'episodi.<br><br>Hi ha situacions de por i angoixa ocasional mitjana, per les al·lusions al suïcidi. Hi ha llenguatge groller ocasional d'intensitat baixa ('malparits', 'hòstia', 'merda')."
   },
   {
     "titol": "Alcarràs (2022)",
