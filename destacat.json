@@ -9,6 +9,16 @@
     "tv3": true
   },
   {
+    "titol": "30 minuts<br><small>Coure, robatoris i estralls</small>",
+    "codi": "30 minuts##",
+    "edat": "7",
+    "incivisme": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true,
+    "separat": true
+  }
+  {
     "titol": "Nits sense ficció<br><small>Diari de la meva sextorsió</small>",
     "codi": "Nits sense ficció##",
     "edat": "13",
@@ -16,8 +26,7 @@
     "llenguatge": true,
     "orig": "7",
     "serie": true,
-    "tv3": true,
-    "separat": true
+    "tv3": true
   },
   {
     "titol": "La república del Mediterrani<br><small>2 episodis</small>",
@@ -45,16 +54,6 @@
     "edat": "13",
     "violencia": true,
     "orig": "13",
-    "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "APM?<br><small>29/01/2025</small>",
-    "codi": "APM?##",
-    "edat": "13",
-    "sexe": true,
-    "llenguatge": true,
-    "orig": "10",
     "serie": true,
     "tv3": true
   }
