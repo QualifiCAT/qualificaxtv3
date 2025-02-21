@@ -10080,6 +10080,29 @@
     "raons": "Violència freqüent, irreal, no explícita, d'intensitat molt lleu, legitimada"
   },
   {
+    "titol": "L'orquestreta",
+    "codi": "orquestreta",
+    "edat": "0",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
+  },
+  {
+    "titol": "L'orquestreta 1x01 - Com viatjar en el temps",
+    "codi": "6326074",
+    "edat": "0"
+  },
+  {
+    "titol": "L'orquestreta 1x02 - El trànsit d'amor",
+    "codi": "6326069",
+    "edat": "0"
+  },
+  {
+    "titol": "L'orquestreta 1x23 - El Toto es fa viral",
+    "codi": "6326096",
+    "edat": "0"
+  },
+  {
     "titol": "Lo repte",
     "codi": "lo-repte",
     "edat": "10",
