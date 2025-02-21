@@ -10098,9 +10098,15 @@
     "edat": "0"
   },
   {
+    "titol": "L'orquestreta 1x17 - El ritme a les venes",
+    "codi": "6326072",
+    "edat": "0"
+  },
+  {
     "titol": "L'orquestreta 1x23 - El Toto es fa viral",
     "codi": "6326096",
-    "edat": "0"
+    "edat": "0",
+    "mesinfo": "Hi ha un sol ús de llenguatge groller ('pringats')."
   },
   {
     "titol": "Lo repte",
