@@ -9,14 +9,23 @@
     "tv3": true
   },
   {
+    "titol": "Experiment Aüc<br><small>episodis 2 de 6</small>",
+    "codi": "Experiment Aüc#",
+    "edat": "13",
+    "por": true,
+    "orig": "TP",
+    "serie": true,
+    "3cat": true,
+    "separat": true
+  },
+  {
     "titol": "Yves Saint Laurent",
     "codi": "Yves Saint Laurent (2014)",
     "edat": "13",
     "drogues": true,
     "orig": "16",
     "peli": true,
-    "tv3": true,
-    "separat": true
+    "tv3": true
   },
   {
     "titol": "L'orquestreta<br><small>4 episodis</small>",
@@ -44,16 +53,5 @@
     "orig": "TP",
     "serie": true,
     "tv3": true
-  },
-  {
-    "titol": "La república del Mediterrani<br><small>2 episodis</small>",
-    "codi": "La república del Mediterrani##",
-    "edat": "13",
-    "sexe": true,
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "3cat": true,
-    "separat": true
   }
 ]
