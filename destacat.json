@@ -19,6 +19,15 @@
     "separat": true
   },
   {
+    "titol": "Perduda",
+    "codi": "Perduda (2014)",
+    "edat": "18",
+    "violencia": true,
+    "orig": "16",
+    "peli": true,
+    "tv3": true
+  },
+  {
     "titol": "Yves Saint Laurent",
     "codi": "Yves Saint Laurent (2014)",
     "edat": "13",
@@ -40,16 +49,6 @@
     "codi": "Joc de cartes##",
     "edat": "10",
     "drogues": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "Joc de cartes<br><small>El millor restaurant de la Franja de Ponent</small>",
-    "codi": "Joc de cartes##",
-    "edat": "10",
-    "drogues": true,
-    "incivisme": true,
     "orig": "TP",
     "serie": true,
     "tv3": true
