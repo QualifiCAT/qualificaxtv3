@@ -9,6 +9,18 @@
     "tv3": true
   },
   {
+    "titol": "Sala Polivalent<br><small>tres episodis</small>",
+    "codi": "Sala Polivalent##",
+    "edat": "13",
+    "sexe": true,
+    "por": true,
+    "llenguatge": true,
+    "orig": "10? TP?",
+    "serie": true,
+    "3cat": true,
+    "separat": true
+  },
+  {
     "titol": "Experiment Aüc<br><small>tots els episodis</small>",
     "codi": "Experiment Aüc#",
     "edat": "13",
@@ -16,8 +28,7 @@
     "llenguatge": true,
     "orig": "TP",
     "serie": true,
-    "3cat": true,
-    "separat": true
+    "3cat": true
   },
   {
     "titol": "Perduda",
@@ -44,14 +55,5 @@
     "orig": "TP",
     "serie": true,
     "x3": true
-  },
-  {
-    "titol": "Joc de cartes<br><small>El millor restaurant singular de les Terres de l'Ebre</small>",
-    "codi": "Joc de cartes##",
-    "edat": "10",
-    "drogues": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
   }
 ]
