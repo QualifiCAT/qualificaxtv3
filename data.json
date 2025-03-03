@@ -13412,6 +13412,35 @@
     "x3": true
   },
   {
+    "titol": "Sala Polivalent",
+    "codi": "sala-polivalent",
+    "edat": "13",
+    "orig": "TP (fitxa de la sèrie: 10)",
+    "serie": true,
+    "3cat": true
+  },
+  {
+    "titol": "Sala Polivalent 1x01 - Tècniques de supervivència i preparacionisme",
+    "codi": "6326707",
+    "edat": "13",
+    "raons": "Por i angoixa reiterada d'afectació mitjana<br>Llenguatge groller ocasional d'intensitat alta",
+    "mesinfo": "<b>Por i angoixa</b><br>Gran part de l'episodi mostra com una persona és apunyalada accidentalment a l'estómac i les persones que eren amb ella intenten curar-la. La noia va perdent progressivament el coneixement i sagna profundament, fins i tot arriba a vomitar sang. Tot plegat es presenta de manera còmica. També es fan referències còmiques a actes d'autolesió per supervivència i a la mort.<br><br><b>Llenguatge groller</b><br>Ús d'expressions com 'polla', 'fill de puta', 'hòstia' o 'puta'.<br><br>Hi ha al·lusions ocasionals i negatives al consum de marihuana. Hi ha violència ocasional, versemblant, no explícita, d'intensitat greu i no legitimada (vegeu 'Por i angoixa')."
+  },
+  {
+    "titol": "Sala Polivalent 1x02 - Voguing",
+    "codi": "6326710",
+    "edat": "13",
+    "raons": "Continguts sexuals freqüents d'explicitació mitjana<br>Llenguatge groller freqüent d'intensitat alta",
+    "mesinfo": "<b>Sexe</b><br>Es parla de 'follar-se' tot el que es mou, i de fer-se 'palles' entre cosins.<br><br><b>Llenguatge groller</b><br>Es diu 'no em toquis la polla', 'fills de puta', 'puto', 'follar' i es fan servir sovint expressions com 'travelo', 'maricón' i 'marica', en contextos ofensius.<br><br>Hi ha al·lusions ocasionals i neutres al consum d'alcohol. Hi ha comportaments discriminatoris amb sanció negativa. Hi ha violència ocasional, versemblant, no explícita, d'intensitat lleu i no legitimada."
+  },
+  {
+    "titol": "Sala Polivalent 1x04 - Iniciació a la ceràmica",
+    "codi": "6326712",
+    "edat": "13",
+    "raons": "Continguts sexuals reiterades d'explicitació mitjana<br>Llenguatge groller reiterat d'intensitat alta",
+    "mesinfo": "<b>Sexe</b><br>Es fan constants referències sexuals durant absolutament tot l'episodi: es parla de fer insinuacions, d'infidelitats, de fer trios, de 'posar-se catxonda' i de 'follar'; vegeu 'Llenguatge groller'.<br><br><b>Llenguatge groller</b><br>Tot l'episodi és una discussió de parella amb alt to agressiu. Es diu 'follar' fins a vint-i-dues vegades en un capítol de vint minuts de durada. També es diu 'puto', 'merda', 'hòstia', 'collons', 'cagar a les calces', 'de puta mare' i 'parides'.<br><br>Hi ha por i angoixa ocasional lleu."
+  },
+  {
     "titol": "Sálvame",
     "codi": "salvame",
     "edat": "13",
