@@ -9,11 +9,12 @@
     "tv3": true
   },
   {
-    "titol": "Sala Polivalent<br><small>tres episodis</small>",
+    "titol": "Sala Polivalent<br><small>tots els episodis</small>",
     "codi": "Sala Polivalent##",
     "edat": "13",
     "violencia": true,
     "sexe": true,
+    "discriminacio": true,
     "llenguatge": true,
     "orig": "10?",
     "serie": true,
