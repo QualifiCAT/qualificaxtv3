@@ -13415,7 +13415,7 @@
     "titol": "Sala Polivalent",
     "codi": "sala-polivalent",
     "edat": "13",
-    "orig": "TP (fitxa de la sèrie: 10)",
+    "orig": "10 o TP (els episodis no estan senyalitzats individualment, només a la fitxa de la sèrie)",
     "serie": true,
     "3cat": true
   },
@@ -13434,11 +13434,31 @@
     "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'no em toquis la polla', 'fills de puta', 'puto', 'follar' i es fan servir sovint expressions com 'travelo', 'maricón' i 'marica', en contextos ofensius.<br><br>Hi ha continguts sexuals ocasionals d'explicitació mitjana: es parla de 'follar-se' tot el que es mou, i de fer-se 'palles' entre cosins. Hi ha al·lusions ocasionals i neutres al consum d'alcohol. Hi ha comportaments discriminatoris amb sanció negativa. Hi ha violència ocasional, versemblant, no explícita, d'intensitat lleu i no legitimada."
   },
   {
+    "titol": "Sala Polivalent 1x03 - Trobada de fans de &quot;L'hora d'en Puki&quot;",
+    "codi": "6326711",
+    "edat": "13",
+    "raons": "Situacions discriminatòries amb sanció neutra",
+    "mesinfo": "<b>Discriminació, racisme i xenofòbia</b><br>Un personatge membre d'un públic fa un al·legat on creu que la manca de creativitat de la televisió infantil actual és el feminisme 'contemporani' i la inclusió forçada de personatges amb diferents capacitats, sexes o races. Durant el procés, insulta una altra persona del públic tot suposant que era discapacitada pel fet de no saber parlar en públic. Aquest personatge és confrontat per una dona també del públic, que vol fer-l'hi adonar de la incongruència de les seves idees retrògrades. No obstant això, la resta de personatges presents no intervenen o intenten finalitzar prematurament el debat i no hi ha una sanció evident, ni implícita pel relat i el context en el conjunt de l'episodi, sobre les opinions discriminatòries expressades.<br><br>Hi ha llenguatge groller ocasional d'intensitat alta ('és el puto Puki', 'és la polla')."
+  },
+  {
     "titol": "Sala Polivalent 1x04 - Iniciació a la ceràmica",
     "codi": "6326712",
     "edat": "13",
     "raons": "Continguts sexuals reiterades d'explicitació mitjana<br>Llenguatge groller reiterat d'intensitat alta",
     "mesinfo": "<b>Sexe</b><br>Es fan constants referències sexuals durant absolutament tot l'episodi: es parla de fer insinuacions, d'infidelitats, de fer trios, de 'posar-se catxonda' i de 'follar'; vegeu 'Llenguatge groller'.<br><br><b>Llenguatge groller</b><br>Tot l'episodi és una discussió de parella amb alt to agressiu. Es diu 'follar' fins a vint-i-dues vegades en un capítol de vint minuts de durada. També es diu 'puto', 'merda', 'hòstia', 'collons', 'cagar a les calces', 'de puta mare' i 'parides'.<br><br>Hi ha por i angoixa ocasional lleu."
+  },
+  {
+    "titol": "Sala Polivalent 1x05 - Ludoteca per a infants i famílies",
+    "codi": "6326708",
+    "edat": "10",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, legitimada<br>Continguts sexuals ocasionals d'explicitació mitjana<br>Al·lusions al consum de drogues il·lícites (marihuana), presentat de manera negativa<br>Llenguatge groller ocasional d'intensitat alta"
+  },
+  {
+    "titol": "Sala Polivalent 1x06 - Nit d'estrena",
+    "codi": "6326709",
+    "edat": "13",
+    "raons": "Continguts sexuals freqüents d'explicitació mitjana",
+    "mesinfo": "<b>Sexe</b><br>Una dona dona detalls explícits d'una relació sexual que va tenir amb un home, parla de les mides de penis que ella prefereix, i ensenya els pits per il·lustrar la mossegada que li han fet. Un home diu que 'se't volien follar tots'. Una dona es fa una foto dels pits per enviar-la a algú.<br><br>Hi ha llenguatge groller ocasional d'intensitat alta ('filla de puta', 'follar', 'marica'). Hi ha al consum de drogues lícites (alcohol) presentat de manera neutra."
   },
   {
     "titol": "Sálvame",
