@@ -9,6 +9,16 @@
     "tv3": true
   },
   {
+    "titol": "Nits sense ficció<br><small>Català, al resCat</small>",
+    "codi": "Nits sense ficció##",
+    "edat": "10",
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true,
+    "separat": true
+  },
+  {
     "titol": "Sala Polivalent<br><small>tots els episodis</small>",
     "codi": "Sala Polivalent##",
     "edat": "13",
@@ -18,8 +28,7 @@
     "llenguatge": true,
     "orig": "10?",
     "serie": true,
-    "3cat": true,
-    "separat": true
+    "3cat": true
   },
   {
     "titol": "Experiment Aüc<br><small>tots els episodis</small>",
@@ -48,13 +57,5 @@
     "orig": "16",
     "peli": true,
     "tv3": true
-  },
-  {
-    "titol": "L'orquestreta<br><small>4 episodis</small>",
-    "codi": "L&apos;orquestreta#",
-    "edat": "0",
-    "orig": "TP",
-    "serie": true,
-    "x3": true
   }
 ]
