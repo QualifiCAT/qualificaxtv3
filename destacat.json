@@ -1,9 +1,10 @@
 [
   {
-    "titol": "Això no és una cançó<br><small>temporada 2<br>episodis 7 de 8</small>",
+    "titol": "Això no és una cançó<br><small>temporada 2<br>tots els episodis</small>",
     "codi": "Això no és una cançó#",
     "edat": "10",
     "drogues": true,
+    "llenguatge": true,
     "orig": "TP",
     "serie": true,
     "tv3": true
@@ -15,8 +16,7 @@
     "llenguatge": true,
     "orig": "TP",
     "serie": true,
-    "tv3": true,
-    "separat": true
+    "tv3": true
   },
   {
     "titol": "Sala Polivalent<br><small>tots els episodis</small>",
