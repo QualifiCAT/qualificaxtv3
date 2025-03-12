@@ -1,5 +1,14 @@
 [
   {
+    "titol": "Nits sense ficció<br><small>Dones de la ràdio</small>",
+    "codi": "Nits sense ficció##",
+    "edat": "10",
+    "sexe": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Això no és una cançó<br><small>temporada 2<br>tots els episodis</small>",
     "codi": "Això no és una cançó#",
     "edat": "10",
@@ -45,15 +54,6 @@
     "codi": "Perduda (2014)",
     "edat": "18",
     "violencia": true,
-    "orig": "16",
-    "peli": true,
-    "tv3": true
-  },
-  {
-    "titol": "Yves Saint Laurent",
-    "codi": "Yves Saint Laurent (2014)",
-    "edat": "13",
-    "drogues": true,
     "orig": "16",
     "peli": true,
     "tv3": true
