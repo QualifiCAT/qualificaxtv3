@@ -1,5 +1,13 @@
 [
   {
+    "titol": "El programa de Ana Rosa<br><small>edicions del 7 i del 14 de març de 2025</small>",
+    "codi": "El programa de Ana Rosa##",
+    "edat": "13",
+    "violencia": true,
+    "discriminacio": true
+    "serie": true
+  },
+  {
     "titol": "Nits sense ficció<br><small>Dones de la ràdio</small>",
     "codi": "Nits sense ficció##",
     "edat": "10",
@@ -48,14 +56,5 @@
     "orig": "TP",
     "serie": true,
     "3cat": true
-  },
-  {
-    "titol": "Perduda",
-    "codi": "Perduda (2014)",
-    "edat": "18",
-    "violencia": true,
-    "orig": "16",
-    "peli": true,
-    "tv3": true
   }
 ]
