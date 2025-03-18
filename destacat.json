@@ -1,5 +1,14 @@
 [
   {
+    "titol": "Nits sense ficció<br><small>Revolució 304</small>",
+    "codi": "Nits sense ficció##",
+    "edat": "10",
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "El programa de Ana Rosa<br><small>edicions del 7 i del 14 de març de 2025</small>",
     "codi": "El programa de Ana Rosa##",
     "edat": "13",
@@ -34,18 +43,6 @@
     "orig": "TP",
     "serie": true,
     "tv3": true
-  },
-  {
-    "titol": "Sala Polivalent<br><small>tots els episodis</small>",
-    "codi": "Sala Polivalent##",
-    "edat": "13",
-    "violencia": true,
-    "sexe": true,
-    "discriminacio": true,
-    "llenguatge": true,
-    "orig": "10?",
-    "serie": true,
-    "3cat": true
   },
   {
     "titol": "442oons - Man City beat Bayern (vídeo de YouTube)",
