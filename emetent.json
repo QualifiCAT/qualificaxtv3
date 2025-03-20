@@ -17,7 +17,8 @@
   {
     "titol": "Sala polivalent",
     "edat": "13",
-    "orig": "10?"
+    "orig": "10?",
+    "novetat": true
   },
   {
     "titol": "Nervi",
@@ -25,9 +26,9 @@
     "orig": "TP"
   },
   {
-    "titol": "Cuina salvatge",
-    "edat": "10",
-    "orig": "TP"
+    "titol": "APM?",
+    "edat": "13",
+    "orig": "10"
   },
   {
     "titol": "Cita bestial",
