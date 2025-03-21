@@ -9,14 +9,6 @@
     "tv3": true
   },
   {
-    "titol": "El programa de Ana Rosa<br><small>edicions del 7 i del 14 de març de 2025</small>",
-    "codi": "El programa de Ana Rosa##",
-    "edat": "13",
-    "violencia": true,
-    "discriminacio": true,
-    "serie": true
-  },
-  {
     "titol": "Nits sense ficció<br><small>Dones de la ràdio</small>",
     "codi": "Nits sense ficció##",
     "edat": "10",
@@ -50,5 +42,13 @@
     "edat": "10",
     "drogues": true,
     "separat": true
+  },
+  {
+    "titol": "El programa de Ana Rosa<br><small>edicions del 7 i del 14 de març de 2025</small>",
+    "codi": "El programa de Ana Rosa##",
+    "edat": "13",
+    "violencia": true,
+    "discriminacio": true,
+    "serie": true
   }
 ]
