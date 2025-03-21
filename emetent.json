@@ -10,14 +10,15 @@
     "orig": "7"
   },
   {
-    "titol": "Joc de cartes",
-    "edat": "13",
-    "orig": "TP"
-  },
-  {
     "titol": "Sala polivalent",
     "edat": "13",
     "orig": "10?",
+    "novetat": true
+  },
+  {
+    "titol": "Experiment Aüc",
+    "edat": "13",
+    "orig": "TP",
     "novetat": true
   },
   {
@@ -31,9 +32,10 @@
     "orig": "10"
   },
   {
-    "titol": "Cita bestial",
-    "edat": "7",
-    "orig": "TP"
+    "titol": "Sistema solar",
+    "edat": "10",
+    "orig": "TP",
+    "novetat": true
   },
   {
     "titol": "El detectiu Conan",
