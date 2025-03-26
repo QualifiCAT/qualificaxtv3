@@ -10,6 +10,12 @@
     "orig": "7"
   },
   {
+    "titol": "Èpic nails",
+    "edat": "13",
+    "orig": "TP",
+    "novetat": true
+  },
+  {
     "titol": "Sala polivalent",
     "edat": "13",
     "orig": "10?",
@@ -30,12 +36,6 @@
     "titol": "APM?",
     "edat": "13",
     "orig": "10"
-  },
-  {
-    "titol": "Sistema solar",
-    "edat": "10",
-    "orig": "TP",
-    "novetat": true
   },
   {
     "titol": "El detectiu Conan",
