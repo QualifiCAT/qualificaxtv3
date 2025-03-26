@@ -6507,6 +6507,37 @@
     "misc": true
   },
   {
+    "titol": "Històries de l'escola",
+    "codi": "histories-de-lescola",
+    "edat": "13",
+    "orig": "TP (excepte episodi 1, en la seva emissió per televisió: 13)",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Històries de l'escola 1x01 - Institut Rocagrossa, Lloret de Mar",
+    "codi": "6329631",
+    "edat": "",
+    "orig": "TP (en la seva emissió per televisió: 13)",
+    "raons": ""
+  },
+  {
+    "titol": "Històries de l'escola 1x02 - Escola Mercè Rodoreda, Barcelona",
+    "codi": "6330002",
+    "edat": "7",
+    "orig": "TP",
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat molt lleu, no legitimada<br>Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Violència</b><br>Es relata una baralla que han mantingut tres nens de primària. Es diu que s'han insultat fent servir una expressió homòfoba i un mestre diu que no l'han de fer servir. L'expressió no es reprodueix.<br><br><b>Llenguatge groller</b><br>Es diu 'jodida' repetides vegades al final de l'episodi ja que es reprodueix una cançó que fa servir aquest terme com a tornada de manera no ofensiva. També es diu 'hosti' i 'fot' una sola vegada cadascuna en tot el programa.<br><br>Hi ha por i angoixa ocasional d'afectació lleu: una mica de tensió quan la directora corre a veure un nen que es troba malament; una dona diu que ha superat un càncer. Una dona grassa diu que l'han confós amb una dona embarassada i s'ha ofès."
+  },
+  {
+    "titol": "Històries de l'escola 1x03 - Ger i Llobera",
+    "codi": "6331919",
+    "edat": "",
+    "orig": "TP",
+    "raons": "",
+    "mesinfo": ""
+  },
+  {
     "titol": "Històries de la primària",
     "codi": "histories-de-la-primaria",
     "edat": "13",
