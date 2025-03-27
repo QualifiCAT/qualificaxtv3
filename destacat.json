@@ -1,12 +1,22 @@
 [
   {
+    "titol": "Històries de l'escola<br><small>tres de sis episodis</small>",
+    "codi": "Històries de l&quot;escola",
+    "edat": "13",
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Nits sense ficció<br><small>Revolució 304</small>",
     "codi": "Nits sense ficció##",
     "edat": "10",
     "llenguatge": true,
     "orig": "TP",
     "serie": true,
-    "tv3": true
+    "tv3": true,
+    "separat": true
   },
   {
     "titol": "Nits sense ficció<br><small>Dones de la ràdio</small>",
@@ -42,13 +52,5 @@
     "edat": "10",
     "drogues": true,
     "separat": true
-  },
-  {
-    "titol": "El programa de Ana Rosa<br><small>edicions del 7 i del 14 de març de 2025</small>",
-    "codi": "El programa de Ana Rosa##",
-    "edat": "13",
-    "violencia": true,
-    "discriminacio": true,
-    "serie": true
   }
 ]
