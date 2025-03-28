@@ -2,7 +2,8 @@
   {
     "titol": "Jo mai mai",
     "edat": "18",
-    "orig": "13"
+    "orig": "13",
+    "novetat": true
   },
   {
     "titol": "Polònia",
@@ -33,9 +34,10 @@
     "orig": "TP"
   },
   {
-    "titol": "APM?",
-    "edat": "13",
-    "orig": "10"
+    "titol": "Cuina com puguis",
+    "edat": "10",
+    "orig": "TP",
+    "novetat": true
   },
   {
     "titol": "El detectiu Conan",
