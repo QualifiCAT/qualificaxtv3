@@ -1,12 +1,8 @@
 [
   {
-    "titol": "Fuet<br><small>temporada 2<br>episodi 7</small>",
+    "titol": "Fuet<br><small>temporada 2<br>episodis 7-9</small>",
     "codi": "Fuet##",
-    "edat": "7",
-    "violencia": true,
-    "sexe": true,
-    "por": true,
-    "discriminacio": true,
+    "edat": "10",
     "llenguatge": true,
     "orig": "TP",
     "serie": true,
