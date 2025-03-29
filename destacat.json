@@ -1,5 +1,18 @@
 [
   {
+    "titol": "Fuet<br><small>temporada 2<br>episodi 7</small>",
+    "codi": "Fuet##",
+    "edat": "7",
+    "violencia": true,
+    "sexe": true,
+    "por": true,
+    "discriminacio": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "x3": true
+  },
+  {
     "titol": "Històries de l'escola<br><small>tres de sis episodis</small>",
     "codi": "Històries de l&apos;escola",
     "edat": "13",
@@ -45,12 +58,5 @@
     "orig": "TP",
     "serie": true,
     "tv3": true
-  },
-  {
-    "titol": "442oons - Man City beat Bayern (vídeo de YouTube)",
-    "codi": "MAN CITY BEAT BAYERN!",
-    "edat": "10",
-    "drogues": true,
-    "separat": true
   }
 ]
