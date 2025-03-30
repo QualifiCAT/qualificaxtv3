@@ -1,14 +1,5 @@
 [
   {
-    "titol": "Fuet<br><small>temporada 2<br>episodis 7-9</small>",
-    "codi": "Fuet##",
-    "edat": "10",
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "x3": true
-  },
-  {
     "titol": "Històries de l'escola<br><small>tres de sis episodis</small>",
     "codi": "Històries de l&apos;escola",
     "edat": "13",
@@ -18,14 +9,23 @@
     "tv3": true
   },
   {
+    "titol": "Fuet<br><small>temporada 2<br>episodis 7-12</small>",
+    "codi": "Fuet##",
+    "edat": "10",
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "x3": true,
+    "separat": true
+  },
+  {
     "titol": "Nits sense ficció<br><small>Revolució 304</small>",
     "codi": "Nits sense ficció##",
     "edat": "10",
     "llenguatge": true,
     "orig": "TP",
     "serie": true,
-    "tv3": true,
-    "separat": true
+    "tv3": true
   },
   {
     "titol": "Nits sense ficció<br><small>Dones de la ràdio</small>",
