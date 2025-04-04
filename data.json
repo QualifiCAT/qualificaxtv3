@@ -939,6 +939,21 @@
     "raons": "Violència reiterada, irreal, explícita, d'intensitat molt lleu, legitimada<br>Contingut sexual ocasional d'explicitació baixa<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
+    "titol": "Atrapa'm si pots",
+    "codi": "atrapam-si-pots",
+    "edat": "10",
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Atrapa'm si pots - 03/04/2025",
+    "codi": "6331990",
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es fa servir freqüentment, sobretot per part del presentador, 'fotre' ('veient com estic fotent la xapa', 'per fotre el germà', 'aquests dos se les van fotent', 'quin fred que fot', 'no fotis!', 'us esteu fotent un embolic, fills meus!', 'en les èpoques que estava més fotut'...), i infreqüentment 'cony', 'hosti', 'hòstia', 'cagar' ('a cagar a la via', 'quan un la cagava, l'altre també') i 'collonut'.<br><br>Hi ha al·lusions ocasionals a continguts sexuals d'explicitació baixa. Es fan al·lusions negatives al consum de drogues lícites (tabac i alcohol). Hi ha situacions ocasionals de por i angoixa d'afectació lleu, per exemple, quan un concursant reconeix haver patit una depressió."
+  },
+  {
     "titol": "Atrapats",
     "codi": "atrapats",
     "edat": "10",
@@ -13127,6 +13142,39 @@
     "edat": "7",
     "raons": "Por i angoixa freqüent d'afectació lleu<br>Conductes i valors incívics amb sanció negativa",
     "mesinfo": "<b>Por i angoixa</b><br>El protagonista de l'episodi somia que rep la visita d'uns fantasmes, i a vegades no els veu i sent rialles terrorífiques.<br><br><b>Conductes i valors incívics</b><br>Es presenta l'avarícia de manera negativa.<br><br>Es fa servir el verb 'cagar' per referir-se al tió de Nadal; degut a aquest context, no s'ha valorat com a llenguatge groller."
+  },
+  {
+    "titol": "Projecte Beta 7x01 - Inauguració desastròfica",
+    "codi": "6332404",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu",
+    "mesinfo": "<b>Por i angoixa</b><br>D'un invent en surt una pols lila que deixa a qui la respiri inconscient breument. Es parla de fantasmes i de malediccions. Una noia es posa nerviosa i crida sovint."
+  },
+  {
+    "titol": "Projecte Beta 7x02 - Cuqui life",
+    "codi": "6332407",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu",
+    "mesinfo": "<b>Por i angoixa</b><br>Breument es veu com d'un invent en surt una pols lila que deixa a qui la respiri inconscient breument. Es parla de fantasmes i de malediccions. Una noia es posa nerviosa i crida sovint. De sobte, els llums d'un establiment comencen a apagar-se i encendre's i apareixen uns píxels liles que es mouen amunt i avall."
+  },
+  {
+    "titol": "Projecte Beta 7x03 - Plaga de polls",
+    "codi": "6332411",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu",
+    "mesinfo": "<b>Por i angoixa</b><br>Els protagonistes s'emparanoien durant tot l'episodi quan són infectats pel que anomenen una 'epidèmia' de polls. Una d'ells és contrari a exterminar-los i fa una campanya en contra d''assassinar-los'."
+  },
+  {
+    "titol": "Projecte Beta 7x04 - Titó, Titó",
+    "codi": "6332432",
+    "edat": "0"
+  },
+  {
+    "titol": "Projecte Beta 7x05 - El Dia del Sí",
+    "codi": "6333178",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu",
+    "mesinfo": "<b>Por i angoixa</b><br>Una dona es pensa que un lloc està encantat perquè s'apaguen i s'encenen els llums. Una noia es posa nerviosa i crida sovint.<br><br>Diversos personatges es fan bromes pesades en un context amistós i inofensiu."
   },
   {
     "titol": "Punt de no retorn",
