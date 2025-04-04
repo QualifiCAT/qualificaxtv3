@@ -9,14 +9,32 @@
     "tv3": true
   },
   {
+    "titol": "Projecte Beta<br><small>temporada 7<br>episodis 1-5</small>",
+    "codi": "Projecte Beta##",
+    "edat": "7",
+    "por": true,
+    "orig": "TP",
+    "serie": true,
+    "x3": true,
+    "separat": true
+  },
+  {
+    "titol": "Atrapa'm si pots<br><small>03/04/2025</small>",
+    "codi": "Atrapa&apos;m si pots##",
+    "edat": "10",
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Fuet<br><small>temporada 2<br>episodis 7-12</small>",
     "codi": "Fuet##",
     "edat": "10",
     "llenguatge": true,
     "orig": "TP",
     "serie": true,
-    "x3": true,
-    "separat": true
+    "x3": true
   },
   {
     "titol": "Nits sense ficció<br><small>Revolució 304</small>",
@@ -32,25 +50,6 @@
     "codi": "Nits sense ficció##",
     "edat": "10",
     "sexe": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "Això no és una cançó<br><small>temporada 2<br>tots els episodis</small>",
-    "codi": "Això no és una cançó#",
-    "edat": "10",
-    "drogues": true,
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "Nits sense ficció<br><small>Català, al resCat</small>",
-    "codi": "Nits sense ficció##",
-    "edat": "10",
-    "llenguatge": true,
     "orig": "TP",
     "serie": true,
     "tv3": true
