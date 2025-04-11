@@ -49,6 +49,12 @@
     "orig": "10"
   },
   {
+    "titol": "Les Tortugues Ninja",
+    "edat": "10",
+    "orig": "TP",
+    "novetat": true
+  },
+  {
     "titol": "Ronja, la filla del bandoler",
     "edat": "10",
     "orig": "TP"
@@ -60,11 +66,6 @@
   },
   {
     "titol": "El carreró del misteri",
-    "edat": "7",
-    "orig": "TP"
-  },
-  {
-    "titol": "Conde & Fonde",
     "edat": "7",
     "orig": "TP"
   },
