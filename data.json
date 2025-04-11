@@ -10227,6 +10227,16 @@
     "raons": "Conductes i valors incívics amb sanció neutra"
   },
   {
+    "titol": "Les Tortugues Ninja",
+    "codi": "les-tortugues-ninja",
+    "edat": "10",
+    "orig": "7",
+    "imdb": "tt1877889",
+    "csm": "tv-reviews/teenage-mutant-ninja-turtles-0",
+    "serie": true,
+    "x3": true
+  },
+  {
     "titol": "Llim",
     "codi": "llim",
     "edat": "13",
