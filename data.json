@@ -2588,16 +2588,6 @@
     "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada<br>Por i angoixa freqüent d'afectació mitjana<br>Consum de drogues lícites (tabac, alcohol), presentat de manera neutra"
   },
   {
-    "titol": "Detectiu Conan: Black iron submarine (2023)",
-    "codi": "2343243243242342344325",
-    "edat": "13",
-    "imdb": "tt27521477",
-    "peli": true,
-    "misc": true,
-    "raons": "Violència freqüent, versemblant, no explícita, d'intensitat greu, no legitimada",
-    "mesinfo": "<b>Violència</b><br>Una dona rep un tret de bala al braç i perd sang i, en llençar-se a un riu, rep un tret al pit (es veu a càmera lenta com li surt la bala) i al cap. Una dona és segrestada després de rebre un cop sec per sorpresa. Una dona és segrestada després de ser sorpresa per dos homes, que l'obliguen a inhalar un somnífer. Un home és sorprès a la seva cambra i és forçat a inhalar un verí; més tard, unes imatges mostren com aquesta persona es pren una pastilla i cau desplomada a terra, i s'insinua que podria ser un suïcidi. Un home rep un tret d'un franctirador, però no mor. Algunes de les escenes anteriors es repeteixen, o es reprenen, en diferents moments de l'obra. Hi ha altres escenes de violència involucrant cops, amenaces amb pistola o explosions; en alguns casos, els actes els perpretren els protagonistes com a defensa pròpia.<br><br>Hi ha situacions freqüents que poden provocar por o angoixa amb una afectació mitjana. Hi ha llenguatge groller ocasional d'intensitat baixa ('merda', 'idiota'). Hi ha consum de drogues lícites (tabac i alcohol), amb presentació negativa dels seus efectes o per part d'antagonistes. Hi ha situacions de masclisme i racisme, sancionades negativament encara que, en una ocasió, es fa broma sobre l'aparença física d'un home, i es diu vehement que una dona 'és' un home per tal de desemmascarar un home infiltrat en una organització."
-  },
-  {
     "titol": "Dibuixa amb el Will Sliney",
     "codi": "dibuixa-will-sliney",
     "edat": "0",
@@ -3371,6 +3361,17 @@
     "codi": "999999999999999999999999999",
     "edat": "13",
     "raons": "Consum de drogues lícites (tabac), presentat de manera positiva"
+  },
+  {
+    "titol": "El detectiu Conan: Black Iron Submarine (2023)",
+    "codi": "6333567",
+    "edat": "13",
+    "orig": "7",
+    "imdb": "tt27521477",
+    "peli": true,
+    "x3": true,
+    "raons": "Violència freqüent, versemblant, no explícita, d'intensitat lleu, no legitimada",
+    "mesinfo": "<b>Violència</b><br>Una dona rep un tret de bala al braç i perd sang i, en llençar-se a un riu, rep un tret al pit (es veu a càmera lenta com li surt la bala) i al cap. Una dona és segrestada després de rebre un cop sec per sorpresa. Una dona és segrestada després de ser sorpresa per dos homes, que l'obliguen a inhalar un somnífer. Un home és sorprès a la seva cambra i és forçat a inhalar un verí; més tard, unes imatges mostren com aquesta persona es pren una pastilla i cau desplomada a terra, i s'insinua que podria ser un suïcidi. Un home rep un tret d'un franctirador, però no mor. Algunes de les escenes anteriors es repeteixen, o es reprenen, en diferents moments de l'obra. Hi ha altres escenes de violència involucrant cops, amenaces amb pistola o explosions; en alguns casos, els actes els perpretren els protagonistes com a defensa pròpia.<br><br>Hi ha situacions freqüents que poden provocar por o angoixa amb una afectació mitjana. Hi ha llenguatge groller ocasional d'intensitat baixa ('merda', 'idiota'). Hi ha consum de drogues lícites (tabac i alcohol), amb presentació negativa dels seus efectes o per part d'antagonistes. Hi ha situacions de masclisme i racisme, sancionades negativament encara que, en una ocasió, es fa broma sobre l'aparença física d'un home, i es diu vehement que una dona 'és' un home per tal de desemmascarar un home infiltrat en una organització."
   },
   {
     "titol": "El detectiu Conan: Història d'amor a la comissaria (2022)",
