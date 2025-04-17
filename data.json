@@ -4999,6 +4999,119 @@
     "x3": true
   },
   {
+    "titol": "Festival Òmnium de Cinema",
+    "codi": "festival-omnium-2025",
+    "edat": "18",
+    "orig": "Variable",
+    "serie": true,
+    "3cat": true
+  },
+  {
+    "titol": "Festival Òmnium de Cinema - Sushi",
+    "codi": "6329815",
+    "edat": "13",
+    "orig": "TP (ICEC: 16)",
+    "raons": "Llenguatge groller freqüent d'intensitat alta"
+  },
+  {
+    "titol": "Festival Òmnium de Cinema - El mar d'Hèrcules",
+    "codi": "6329803",
+    "edat": "13",
+    "orig": "TP",
+    "raons": "Por i angoixa reiterada d'afectació mitjana"
+  },
+  {
+    "titol": "Festival Òmnium de Cinema - Trenc d'alba",
+    "codi": "6329814",
+    "edat": "7",
+    "orig": "TP",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "Festival Òmnium de Cinema - Blava terra",
+    "codi": "6329848",
+    "edat": "10",
+    "orig": "TP (ICEC: 12/fig)",
+    "raons": "Violència freqüent, versemblant, explícita, d'intensitat molt lleu, no legitimada<br>Continguts sexuals ocasionals d'explicitació mitjana"
+  },
+  {
+    "titol": "Festival Òmnium de Cinema - Demà",
+    "codi": "6329620",
+    "edat": "7",
+    "orig": "TP (ICEC: TP)",
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat molt lleu, no legitimada<br>Al·lusions al consum de drogues lícites (tabac), presentades de manera negativa"
+  },
+  {
+    "titol": "Festival Òmnium de Cinema - El parèntesi",
+    "codi": "6329810",
+    "edat": "7",
+    "orig": "TP",
+    "raons": "Por i angoixa freqüent d'afectació lleu"
+  },
+  {
+    "titol": "Festival Òmnium de Cinema - Ei, Temi",
+    "codi": "6329813",
+    "edat": "0",
+    "orig": "TP",
+    "raons": "Por i angoixa ocasional d'afectació lleu"
+  },
+  {
+    "titol": "Festival Òmnium de Cinema - Atàvic",
+    "codi": "6329811",
+    "edat": "13",
+    "orig": "TP",
+    "raons": "Llenguatge groller reiterat d'intensitat alta"
+  },
+  {
+    "titol": "Festival Òmnium de Cinema - El bon auguri",
+    "codi": "6329812",
+    "edat": "10",
+    "orig": "TP",
+    "raons": "Por i angoixa reiterada d'afectació lleu"
+  },
+  {
+    "titol": "Festival Òmnium de Cinema - Plora aquí",
+    "codi": "6329816",
+    "edat": "13",
+    "orig": "TP",
+    "raons": "Por i angoixa reiterada d'afectació mitjana"
+  },
+  {
+    "titol": "Festival Òmnium de Cinema - Traca",
+    "codi": "6265583",
+    "edat": "18",
+    "orig": "16",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt greu, no legitimada"
+  },
+  {
+    "titol": "Festival Òmnium de Cinema - L'avenir",
+    "codi": "6265578",
+    "edat": "10",
+    "orig": "16",
+    "raons": "Continguts sexuals ocasionals d'explicitació mitjana"
+  },
+  {
+    "titol": "Festival Òmnium de Cinema - El tren de l'alegria",
+    "codi": "6265879",
+    "edat": "13",
+    "orig": "16",
+    "raons": "Por i angoixa reiterada d'afectació mitjana"
+  },
+  {
+    "titol": "Festival Òmnium de Cinema - Sisè primera",
+    "codi": "6329803",
+    "edat": "10",
+    "orig": "7 (ICAA: 7)",
+    "raons": "Continguts sexuals ocasionals d'explicitació mitjana<br>Llenguatge groller ocasional d'intensitat alta"
+  },
+  {
+    "titol": "Festival Òmnium de Cinema - Herència",
+    "codi": "6271814",
+    "edat": "13",
+    "orig": "TP",
+    "raons": "Violència freqüent, versemblant, explícita, d’intensitat greu, no legitimada"
+  },
+  {
     "titol": "FIC-CAT",
     "codi": "ficcat",
     "edat": "13",
