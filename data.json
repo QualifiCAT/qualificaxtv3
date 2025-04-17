@@ -2223,7 +2223,7 @@
     "titol": "Cuina com puguis",
     "codi": "cuina-com-puguis",
     "edat": "10",
-    "orig": "TP (temporada 2 promocionada per televisió: 7)",
+    "orig": "TP (temporada 2 breument promocionada per televisió: 7)",
     "serie": true,
     "tv3": true
   },
@@ -6715,6 +6715,14 @@
     "orig": "TP",
     "raons": "Por i angoixa freqüent d'afectació lleu",
     "mesinfo": "<b>Por i angoixa</b><br>Es parla de la dana, i un nen reconeix que va mirar imatges de la tragèdia a les notícies i que des de llavors té malsons, i creu que s'inundarà casa seva. Es fan freqüents referències a la mort, sobretot durant un debat on participen nens. Alguns d'ells parlen de la reencarnació. Un dels nens diu que, cada cop que mor algú proper a ell, li venen ganes de fer-se mal a si mateix, sense donar detalls, tot i que un dels nens diu 'suïcidar-se', i un altre diu que 'això' no ho pensen mai. Una mestra diu que no hi ha cap problema per pensar això i, parlant-ho amb aquell nen, que és bo que ho expliqui perquè així els adults poden ajudar-lo quan pugui tornar-ne a pensar i pot ajudar a altres nens que pateixen en silenci. Un nen parla amb una mestra d'una baralla verbal i 'una mica' física que ha tingut amb un altre nen.<br><br>Hi ha un sol ús de llenguatge groller ('hosti') en tot l'episodi. Es fan referències innòcues ocasionals a la reproducció i a diferents orientacions sexuals per part de nens."
+  },
+  {
+    "titol": "Històries de l'escola 1x05 - Escola Pia, Mataró",
+    "codi": "6334433",
+    "edat": "7",
+    "orig": "TP",
+    "raons": "Por i angoixa ocasional d'afectació mitjana<br>Comportaments discriminatoris amb sanció negativa<br>Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Por i angoixa</b><br>Es comenta que una cançó va sobre el suïcidi, on el cantant primer reconeix que no vol seguir viu però va evolucionant cap a tot el contrari.<br><br><b>Discriminació, racisme i xenofòbia</b><br>Es denuncien expressions masclistes que han rebut dones àrbitres, i es parla sobre el cas de Jennifer Hermoso.<br><br><b>Llenguatge groller</b><br>Es diu 'collons', 'hòstia', 'fotre', 'merda' i 'joder', de manera ocasional."
   },
   {
     "titol": "Històries de la primària",
