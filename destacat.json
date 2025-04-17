@@ -9,14 +9,23 @@
     "tv3": true
   },
   {
+    "titol": "Curtmetratges<br><small>Festival Òmnium de Cinema</small>",
+    "codi": "Festival Òmnium de Cinema#",
+    "edat": "18",
+    "violencia": true,
+    "orig": "Variable",
+    "serie": true,
+    "3cat": true,
+    "separat": true
+  },
+  {
     "titol": "Projecte Beta<br><small>temporada 7<br>episodis 1-5</small>",
     "codi": "Projecte Beta##",
     "edat": "7",
     "por": true,
     "orig": "TP",
     "serie": true,
-    "x3": true,
-    "separat": true
+    "x3": true
   },
   {
     "titol": "Atrapa'm si pots<br><small>03/04/2025</small>",
@@ -41,15 +50,6 @@
     "codi": "Nits sense ficció##",
     "edat": "10",
     "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "Nits sense ficció<br><small>Dones de la ràdio</small>",
-    "codi": "Nits sense ficció##",
-    "edat": "10",
-    "sexe": true,
     "orig": "TP",
     "serie": true,
     "tv3": true
