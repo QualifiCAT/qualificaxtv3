@@ -1,6 +1,6 @@
 [
   {
-    "titol": "Històries de l'escola<br><small>cinc de sis episodis</small>",
+    "titol": "Històries de l'escola<br><small>tots els 6 episodis</small>",
     "codi": "Històries de l&apos;escola",
     "edat": "13",
     "llenguatge": true,
@@ -15,8 +15,7 @@
     "violencia": true,
     "orig": "Variable",
     "serie": true,
-    "3cat": true,
-    "separat": true
+    "3cat": true
   },
   {
     "titol": "Projecte Beta<br><small>temporada 7<br>episodis 1-5</small>",
