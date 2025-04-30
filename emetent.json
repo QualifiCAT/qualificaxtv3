@@ -1,11 +1,5 @@
 [
   {
-    "titol": "Jo mai mai",
-    "edat": "18",
-    "orig": "13",
-    "novetat": true
-  },
-  {
     "titol": "Polònia",
     "edat": "13",
     "orig": "7"
@@ -28,15 +22,20 @@
     "orig": "10"
   },
   {
-    "titol": "Nervi",
+    "titol": "Tot torna",
     "edat": "13",
-    "orig": "TP"
+    "orig": "7"
   },
   {
     "titol": "Cuina com puguis",
     "edat": "10",
     "orig": "TP",
     "novetat": true
+  },
+  {
+    "titol": "Zona zàping",
+    "edat": "10",
+    "orig": "7"
   },
   {
     "titol": "El detectiu Conan",
@@ -55,17 +54,17 @@
     "novetat": true
   },
   {
-    "titol": "Ronja, la filla del bandoler",
-    "edat": "10",
+    "titol": "Les sisters",
+    "edat": "7",
     "orig": "TP"
   },
   {
-    "titol": "Fuet",
-    "edat": "10",
+    "titol": "Ideafix i els irreductibles",
+    "edat": "7",
     "orig": "TP"
   },
   {
-    "titol": "El carreró del misteri",
+    "titol": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
     "edat": "7",
     "orig": "TP"
   },
