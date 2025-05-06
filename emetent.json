@@ -7,14 +7,12 @@
   {
     "titol": "Èpic nails",
     "edat": "13",
-    "orig": "TP",
-    "novetat": true
+    "orig": "TP"
   },
   {
     "titol": "Sala polivalent",
     "edat": "13",
-    "orig": "10?",
-    "novetat": true
+    "orig": "10?"
   },
   {
     "titol": "APM?",
@@ -29,8 +27,7 @@
   {
     "titol": "Cuina com puguis",
     "edat": "10",
-    "orig": "TP",
-    "novetat": true
+    "orig": "TP"
   },
   {
     "titol": "Zona zàping",
@@ -50,8 +47,7 @@
   {
     "titol": "Les Tortugues Ninja",
     "edat": "10",
-    "orig": "7",
-    "novetat": true
+    "orig": "7"
   },
   {
     "titol": "Les sisters",
@@ -71,7 +67,6 @@
   {
     "titol": "Superthings: Rivals of Kaboom, Kazoom power",
     "edat": "7",
-    "orig": "TP",
-    "novetat": true
+    "orig": "TP"
   }
 ]
