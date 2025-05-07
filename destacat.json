@@ -1,5 +1,14 @@
 [
   {
+    "titol": "Nits sense ficció<br><small>Dagoll Dagom: Llegat</small>",
+    "codi": "Nits sense ficció##",
+    "edat": "10",
+    "sexe": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "30 minuts<br><small>El mal son</small>",
     "codi": "30 minuts##",
     "edat": "7",
@@ -45,14 +54,5 @@
     "orig": "TP",
     "serie": true,
     "tv3": true
-  },
-  {
-    "titol": "Fuet<br><small>temporada 2<br>episodis 7-12</small>",
-    "codi": "Fuet##",
-    "edat": "10",
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "x3": true
   }
 ]
