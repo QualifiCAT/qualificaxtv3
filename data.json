@@ -15065,6 +15065,28 @@
     "mesinfo": "<b>Drogues</b><br>Es fan referències neutres en un context humorístic al consum de marihuana quan li pregunten a un home si abans fumava, qui respon que sí, i després li pregunten: 'tabac?', i diu: 'sí, també'; també, quan diuen que la gent que va veure ovnis estava 'fumada'. Es fan referències neutres al consum de tabac quan es comenta una notícia d'un escalador que va fumar un cigarret al cim de l'Everest, i quan es fa una referència fugaç a una 'catximba'. També se'n fan a l'alcohol quan es comenta la notícia d'uns Reis Mags que van beure uns 'cigalons màgics' que els va 'ajudar' a rendir al 100% un dia de Reis afectat per la nevada.<br><br>Es fan comentaris discriminatoris amb sanció neutra en un context humorístic. Es fan referències sexuals ocasionals d'explicitació mitjana quan es fa una al·lusió a la prostitució. Hi ha llenguatge groller freqüent d'intensitat baixa ('hosti', 'fotut', 'merda', 'què collons', 'coño', 'som collonuts, som malparits', 'marietes')."
   },
   {
+    "titol": "Tria una carta",
+    "codi": "tria-carta",
+    "edat": "10",
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Tria una carta 1x01 - Comença l'entrenament",
+    "codi": "6338172",
+    "edat": "10",
+    "raons": "Al·lusions al consum de drogues lícites (alcohol), presentat de manera neutra<br>Llenguatge groller ocasional d'intensitat alta",
+    "mesinfo": "<b>Drogues</b><br>Un convidat fa una al·lusió neutra al fet d'anar borratxo a la discoteca, i ell mateix diu que enganyava als porters sent menor per poder-hi entrar.<br><br><b>Llenguatge groller</b><br>Es diu 'hòstia puta', 'acollonant', 'que no caga', 'cony', i 'hòstia' diverses vegades."
+  },
+  {
+    "titol": "Tria una carta 1x02 - Màgia a contrarellotge",
+    "codi": "6338500",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'fotre' i 'hòstia'."
+  },
+  {
     "titol": "Trollhunters: Contes d'Arcàdia",
     "codi": "trollhunters-contes-arcadia",
     "edat": "10",
