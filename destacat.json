@@ -1,5 +1,15 @@
 [
   {
+    "titol": "Tria una carta<br><small>episodis 1-2</small>",
+    "codi": "Tria una carta##",
+    "edat": "10",
+    "drogues": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Nits sense ficció<br><small>Dagoll Dagom: Llegat</small>",
     "codi": "Nits sense ficció##",
     "edat": "10",
@@ -45,14 +55,5 @@
     "orig": "TP",
     "serie": true,
     "x3": true
-  },
-  {
-    "titol": "Atrapa'm si pots<br><small>03/04/2025</small>",
-    "codi": "Atrapa&apos;m si pots##",
-    "edat": "10",
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
   }
 ]
