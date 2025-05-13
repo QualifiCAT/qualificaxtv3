@@ -1,5 +1,15 @@
 [
   {
+    "titol": "Nits sense ficció<br><small>Mãe vol dir mare</small>",
+    "codi": "Nits sense ficció##",
+    "edat": "13",
+    "por": true,
+    "drogues": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Tria una carta<br><small>episodis 1-2</small>",
     "codi": "Tria una carta##",
     "edat": "10",
@@ -46,14 +56,5 @@
     "orig": "Variable",
     "serie": true,
     "3cat": true
-  },
-  {
-    "titol": "Projecte Beta<br><small>temporada 7<br>episodis 1-5</small>",
-    "codi": "Projecte Beta##",
-    "edat": "7",
-    "por": true,
-    "orig": "TP",
-    "serie": true,
-    "x3": true
   }
 ]
