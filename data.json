@@ -11813,6 +11813,15 @@
     "raons": "Por i angoixa freqüent d'afectació lleu<br>Conductes i valors incívics amb sanció negativa"
   },
   {
+    "titol": "Nit i dia",
+    "codi": "nit-i-dia",
+    "edat": "18",
+    "orig": "13",
+    "imdb": "tt5101192",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Nits sense ficció",
     "codi": "sense-ficcio",
     "edat": "18",
