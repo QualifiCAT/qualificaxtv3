@@ -1,5 +1,15 @@
 [
   {
+    "titol": "Projecte Beta<br><small>temporada 7<br>episodis 6-10</small>",
+    "codi": "Projecte Beta##",
+    "edat": "7",
+    "por": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "x3": true
+  },
+  {
     "titol": "Nits sense ficció<br><small>Mãe vol dir mare</small>",
     "codi": "Nits sense ficció##",
     "edat": "13",
@@ -47,14 +57,5 @@
     "orig": "TP (excepte ep. 1)",
     "serie": true,
     "tv3": true
-  },
-  {
-    "titol": "Curtmetratges<br><small>Festival Òmnium de Cinema</small>",
-    "codi": "Festival Òmnium de Cinema#",
-    "edat": "18",
-    "violencia": true,
-    "orig": "Variable",
-    "serie": true,
-    "3cat": true
   }
 ]
