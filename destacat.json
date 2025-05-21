@@ -1,5 +1,14 @@
 [
   {
+    "titol": "Nits sense ficció<br><small>Plat en blanc</small>",
+    "codi": "Nits sense ficció##",
+    "edat": "10",
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Projecte Beta<br><small>temporada 7<br>episodis 6-10</small>",
     "codi": "Projecte Beta##",
     "edat": "7",
@@ -46,15 +55,6 @@
     "drogues": true,
     "llenguatge": true,
     "orig": "TP",
-    "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "Històries de l'escola<br><small>tots els 6 episodis</small>",
-    "codi": "Històries de l&apos;escola",
-    "edat": "13",
-    "llenguatge": true,
-    "orig": "TP (excepte ep. 1)",
     "serie": true,
     "tv3": true
   }
