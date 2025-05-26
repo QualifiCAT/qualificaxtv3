@@ -1,5 +1,14 @@
 [
   {
+    "titol": "L&apos;home dels nassos",
+    "codi": "L&apos;home dels nassos",
+    "edat": "13",
+    "violencia": true,
+    "orig": "12",
+    "peli": true,
+    "tv3": true
+  },
+  {
     "titol": "Nits sense ficció<br><small>Plat en blanc</small>",
     "codi": "Nits sense ficció##",
     "edat": "10",
@@ -43,17 +52,6 @@
     "codi": "Nits sense ficció##",
     "edat": "10",
     "sexe": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "30 minuts<br><small>El mal son</small>",
-    "codi": "30 minuts##",
-    "edat": "7",
-    "por": true,
-    "drogues": true,
-    "llenguatge": true,
     "orig": "TP",
     "serie": true,
     "tv3": true
