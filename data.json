@@ -14556,6 +14556,21 @@
     "mesinfo": "<b>Drogues</b><br>Es fan algunes referències negatives relatives al consum d'alcohol.<br><br>Hi ha situacions angoixants ocasionals d'afectació lleu quan es parla de 'donar armes als joves i ensenyar-los a matar'."
   },
   {
+    "titol": "Soc i seré",
+    "codi": "soc-i-sere",
+    "edat": "10",
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Soc i seré 1x03 - No parlis amb la boca plena",
+    "codi": "6341449",
+    "edat": "10",
+    "raons": "Llenguatge groller ocasional d'intensitat alta",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es fan servir expressions com 'putades', 'collons', 'hostiar' o 'joder'.<br><br>Hi ha por i angoixa lleu ocasional quan un home recorda la mort de la seva filla."
+  },
+  {
     "titol": "Somos osos",
     "codi": "somos-osos",
     "edat": "7",
