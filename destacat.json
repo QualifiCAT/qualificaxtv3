@@ -1,5 +1,14 @@
 [
   {
+    "titol": "Soc i seré<br><small>episodi 3</small>",
+    "codi": "Soc i seré##",
+    "edat": "10",
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "L&apos;home dels nassos",
     "codi": "L&apos;home dels nassos",
     "edat": "13",
@@ -43,15 +52,6 @@
     "edat": "10",
     "drogues": true,
     "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "Nits sense ficció<br><small>Dagoll Dagom: Llegat</small>",
-    "codi": "Nits sense ficció##",
-    "edat": "10",
-    "sexe": true,
     "orig": "TP",
     "serie": true,
     "tv3": true
