@@ -1,5 +1,16 @@
 [
   {
+    "titol": "Llum, foc, destrucció!<br><small>tots els episodis</small>",
+    "codi": "Llum, foc, destrucció#",
+    "edat": "10",
+    "sexe": true,
+    "drogues": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "3cat": true
+  },
+  {
     "titol": "Soc i seré<br><small>episodi 3</small>",
     "codi": "Soc i seré##",
     "edat": "10",
@@ -42,16 +53,6 @@
     "edat": "13",
     "por": true,
     "drogues": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "Tria una carta<br><small>episodis 1-2</small>",
-    "codi": "Tria una carta##",
-    "edat": "10",
-    "drogues": true,
-    "llenguatge": true,
     "orig": "TP",
     "serie": true,
     "tv3": true
