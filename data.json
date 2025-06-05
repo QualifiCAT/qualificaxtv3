@@ -446,18 +446,25 @@
     "tv3": true
   },
   {
-    "titol": "Al cotxe - Arnau Paris",
+    "titol": "Al cotxe 6x01 - Arnau Paris: &quot;Soc un friqui de la cuina&quot;",
     "codi": "6240906",
     "edat": "10",
     "raons": "Llenguatge groller freqüent d'intensitat baixa",
     "mesinfo": "<b>Llenguatge groller</b><br>Els dos protagonistes mantenen una conversació col·loquial que inclou freqüentment expressions com 'hòstia', 'merda', 'fotre' i similars.<br><br>Hi ha situacions angoixants ocasionals lleus quan es diu que els pares del convidat van passar un càncer i ho va passar malament. El convidat diu que el Follet Tortuga és un personatge 'controvertit', 'però' que és part de la seva infància."
   },
   {
-    "titol": "Al cotxe - Jim, la guanyadora d'&quot;Eufòria&quot;",
+    "titol": "Al cotxe 6x02 - Jim, la guanyadora d'&quot;Eufòria&quot;",
     "codi": "6242144",
     "edat": "7",
     "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa",
     "mesinfo": "<b>Por i angoixa</b><br>La convidada comenta com va superar l'assetjament a l'adolescència, que va estar malalta i gairebé va patir depressió i bulímia (sense donar detalls), si li van afectar els comentaris de les xarxes socials mentre participava en un concurs, i si té por o li angoixa pensar en el seu futur com a jove i famosa.<br><br><b>Llenguatge groller</b><br>Es diu 'hòstia' o 'fotre' de manera ocasional. Es menciona el nom del festival Cabró Rock."
+  },
+  {
+    "titol": "Al mar 8x17 - Albert Serra: &quot;No tinc cap respecte pel cine.&quot;",
+    "codi": "6343759",
+    "edat": "10",
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat greu, no legitimada<br>Llenguatge groller freqüent d'intensitat baixa",
+    "mesinfo": "<b>Violència</b><br>S'ensenyen ocasionalment fragments d'una pel·lícula on es veu una corrida de toros, on es veu força sang en el toro i en la cara del torero però cap estacada explícita. Es desprèn apologia de la mort de l'animal en alguns dels fragments i declaracions de l'actor; no obstant això, el conductor del programa intenta fer-li entendre que a certes persones els pot provocar rebuig aquesta activitat i més després de presenciar-la amb l'explicitació i intensitat en què ho fa la pel·lícula, i que vulguin prohibir-la, mentre que ell en defuig el debat i diu que la tauromàquia és molt més que l'acte violent en si.<br><br><b>Llenguatge groller</b><br>Es diu 'hòstia', 'fotre' i 'ole tus huevos' de manera freqüent.<br><br>Hi ha por i angoixa ocasional mitjana per les escenes violentes mencionades anteriorment. Hi ha continguts sexuals ocasionals d'explicitació baixa en un fragment molt breu d'una pel·lícula."
   },
   {
     "titol": "Al mar!",
@@ -12179,6 +12186,15 @@
     "orig": "TP",
     "raons": "Llenguatge groller reiterat d'intensitat baixa",
     "mesinfo": "<b>Llenguatge groller</b><br>En contextos col·loquials i no ofensius, es diu 'collons', 'hòstia' i 'fotre' de manera freqüent, i menys sovint, 'merda', 'joder', 'qui em va parir', 'cony', 'cabró', 'acollonant', 'acollonits', 'cagats', 'la puta hòstia', 'hòstia puta' o 'puta mare'.<br><br>Hi ha presència accessòria de consum de drogues lícites. Hi ha referències fugaces i ocasionals a patir una depressió i a la mort."
+  },
+  {
+    "titol": "Nits sense ficció - Le Mans, la tragèdia del 55",
+    "codi": "6343008",
+    "edat": "13",
+    "orig": "7",
+    "imdb": "tt31567229",
+    "raons": "Por i angoixa reiterada d'afectació mitjana",
+    "mesinfo": "<b>Por i angoixa</b><br>Es fan referències reiterades a un accident automobilístic que va acabar amb 82 morts i 120 ferits. Es veuen freqüentment imatges de l'accident, cotxes sortint volant i explotant, gent fugint pel pànic, i cadàvers estesos a terra o essent recollits. Es parla constantment sobre el dol que van passar i seguien passant alguns dels familiars dels morts, inclòs el periodista que condueix el documental. Alguns supervivents donen alguns detalls explícits, com que van veure fragments de cossos, que un nen tenia el cap mutilat, o que va quedar-se algú penjat d'una tanca pels peus.<br><br>Hi ha imatges de consum de drogues lícites (tabac i alcohol) presentat de manera neutra."
   },
   {
     "titol": "Nivell extra",
