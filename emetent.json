@@ -22,7 +22,8 @@
   {
     "titol": "Soc i seré",
     "edat": "10",
-    "orig": "TP"
+    "orig": "TP",
+    "novetat": true
   },
   {
     "titol": "Atrapa&apos;m si pots",
@@ -52,7 +53,8 @@
   {
     "titol": "Bola de drac",
     "edat": "13",
-    "orig": "7"
+    "orig": "7",
+    "novetat": true
   },
   {
     "titol": "Les Tortugues Ninja",
