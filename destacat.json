@@ -1,5 +1,16 @@
 [
   {
+    "titol": "Saben aquell",
+    "codi": "Saben aquell",
+    "edat": "10",
+    "drogues": true,
+    "discriminacio": true,
+    "llenguatge": true,
+    "orig": "7",
+    "peli": true,
+    "tv3": true
+  },
+  {
     "titol": "Al cotxe<br><small>Albert Serra</small>",
     "codi": "Al cotxe##",
     "edat": "10",
@@ -45,15 +56,6 @@
     "llenguatge": true,
     "orig": "TP",
     "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "L&apos;home dels nassos",
-    "codi": "L&apos;home dels nassos",
-    "edat": "13",
-    "violencia": true,
-    "orig": "12",
-    "peli": true,
     "tv3": true
   }
 ]
