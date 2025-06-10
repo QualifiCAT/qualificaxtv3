@@ -5,16 +5,6 @@
     "orig": "7"
   },
   {
-    "titol": "Èpic nails",
-    "edat": "13",
-    "orig": "TP"
-  },
-  {
-    "titol": "Sala polivalent",
-    "edat": "13",
-    "orig": "10?"
-  },
-  {
     "titol": "APM?",
     "edat": "13",
     "orig": "10"
@@ -28,6 +18,16 @@
     "titol": "Plats bruts",
     "edat": "13",
     "orig": "10"
+  },
+  {
+    "titol": "Soc i seré",
+    "edat": "10",
+    "orig": "TP"
+  },
+  {
+    "titol": "Atrapa&apos;m si pots",
+    "edat": "10",
+    "orig": "TP"
   },
   {
     "titol": "Zona zàping",
@@ -45,28 +45,28 @@
     "orig": "10"
   },
   {
+    "titol": "One piece",
+    "edat": "13",
+    "orig": "10"
+  },
+  {
+    "titol": "Bola de drac",
+    "edat": "13",
+    "orig": "7"
+  },
+  {
     "titol": "Les Tortugues Ninja",
+    "edat": "10",
+    "orig": "7"
+  },
+  {
+    "titol": "La casa d&apos;Anubis",
     "edat": "10",
     "orig": "7"
   },
   {
     "titol": "Fuet",
     "edat": "10",
-    "orig": "TP"
-  },
-  {
-    "titol": "La vida en calçotets",
-    "edat": "7",
-    "orig": "TP"
-  },
-  {
-    "titol": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-    "edat": "7",
-    "orig": "TP"
-  },
-  {
-    "titol": "Dracs: els nou regnes",
-    "edat": "7",
     "orig": "TP"
   }
 ]
