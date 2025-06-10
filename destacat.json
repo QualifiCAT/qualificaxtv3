@@ -1,5 +1,17 @@
 [
   {
+    "titol": "Sense ficció<br><small>Eugenio</small>",
+    "codi": "Sense ficció##",
+    "edat": "10",
+    "sexe": true,
+    "por": true,
+    "drogues": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Saben aquell",
     "codi": "Saben aquell",
     "edat": "10",
@@ -48,14 +60,5 @@
     "orig": "TP",
     "serie": true,
     "3cat": true
-  },
-  {
-    "titol": "Soc i seré<br><small>episodi 3</small>",
-    "codi": "Soc i seré##",
-    "edat": "10",
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
   }
 ]
