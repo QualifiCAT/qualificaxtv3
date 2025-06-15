@@ -1478,6 +1478,16 @@
     "tv3": true
   },
   {
+    "titol": "Bola de drac Súper",
+    "codi": "bola-de-drac-super",
+    "edat": "10",
+    "orig": "10",
+    "imdb": "tt4644488",
+    "csm": "tv-reviews/dragon-ball-super",
+    "serie": true,
+    "x3": true
+  },
+  {
     "titol": "Bola de Drac Super: Broly (2018)",
     "codi": "6210525",
     "edat": "10",
