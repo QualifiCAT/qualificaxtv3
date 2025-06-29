@@ -1,5 +1,14 @@
 [
   {
+    "titol": "30 minuts<br><small>Conills, el malson del pagès</small>",
+    "codi": "30 minuts##",
+    "edat": "10",
+    "por": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Sense ficció<br><small>Eugenio</small>",
     "codi": "&quot;Sense ficció&quot;##",
     "edat": "10",
@@ -49,16 +58,5 @@
     "orig": "12",
     "peli": true,
     "tv3": true
-  },
-  {
-    "titol": "Llum, foc, destrucció!<br><small>tots els episodis</small>",
-    "codi": "Llum, foc, destrucció#",
-    "edat": "10",
-    "sexe": true,
-    "drogues": true,
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "3cat": true
   }
 ]
