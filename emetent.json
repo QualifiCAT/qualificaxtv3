@@ -10,17 +10,18 @@
     "orig": "10"
   },
   {
-    "titol": "Està passant",
-    "edat": "13",
-    "orig": "TP"
-  },
-  {
     "titol": "Plats bruts",
     "edat": "13",
     "orig": "10"
   },
   {
     "titol": "Soc i seré",
+    "edat": "10",
+    "orig": "TP",
+    "novetat": true
+  },
+  {
+    "titol": "Llum, foc, destrucció!",
     "edat": "10",
     "orig": "TP",
     "novetat": true
