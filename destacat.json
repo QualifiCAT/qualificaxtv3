@@ -1,5 +1,15 @@
 [
   {
+    "titol": "Casa en flames",
+    "codi": "&quot;Casa en flames (2024)&quot;",
+    "edat": "13",
+    "sexe": true,
+    "llenguatge": true,
+    "orig": "16",
+    "peli": true,
+    "tv3": true
+  },
+  {
     "titol": "30 minuts<br><small>Conills, el malson del pagès</small>",
     "codi": "30 minuts##",
     "edat": "10",
@@ -48,15 +58,6 @@
     "por": true,
     "orig": "7",
     "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "El mestre que va prometre el mar",
-    "codi": "El mestre que va prometre el mar",
-    "edat": "13",
-    "violencia": true,
-    "orig": "12",
-    "peli": true,
     "tv3": true
   }
 ]
