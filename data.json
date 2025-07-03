@@ -4494,6 +4494,29 @@
     "x3": true
   },
   {
+    "titol": "Entre quatre parets",
+    "codi": "entre-quatre-parets",
+    "edat": "13",
+    "orig": "TP",
+    "serie": true,
+    "3cat": true,
+    "tv3": true
+  },
+  {
+    "titol": "Entre quatre parets 1x06 - Peyu",
+    "codi": "6330607",
+    "edat": "13",
+    "raons": "Llenguatge groller freqüent d'intensitat alta",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es fa servir sovint 'hòstia', 'merda' i 'collons', i ocasionalment, 'puta', 'subnormal' o 'donant pel cul'.<br><br>Hi ha por i angoixa ocasional mitjana per unes bromes passatgeres que es fan sobre el suïcidi i la mort."
+  },
+  {
+    "titol": "Entre quatre parets 1x08 - Bob Pop",
+    "codi": "6330603",
+    "edat": "10",
+    "raons": "Llenguatge groller ocasional d'intensitat alta",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es menciona diverses vegades el títol de la pel·lícula 'Maricón perdido'. També es diu 'follar' dues vegades.<br><br>Hi ha al·lusions sexuals ocasionals d'explicitació baixa. Hi ha situacions discriminatòries presentades negativament."
+  },
+  {
     "titol": "És pecat (It's a Sin)",
     "codi": "es-pecat",
     "edat": "13",
