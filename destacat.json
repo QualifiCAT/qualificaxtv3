@@ -1,5 +1,14 @@
 [
   {
+    "titol": "Entre quatre parets<br><small>dos episodis</small>",
+    "codi": "Entre quatre parets##",
+    "edat": "13",
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Casa en flames",
     "codi": "&quot;Casa en flames (2024)&quot;",
     "edat": "13",
@@ -48,15 +57,6 @@
     "violencia": true,
     "llenguatge": true,
     "orig": "TP",
-    "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "Nits sense ficció<br><small>Le Mans, la tragèdia del 55</small>",
-    "codi": "Nits sense ficció##",
-    "edat": "13",
-    "por": true,
-    "orig": "7",
     "serie": true,
     "tv3": true
   }
