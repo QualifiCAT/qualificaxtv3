@@ -1,5 +1,16 @@
 [
   {
+    "titol": "El crèdit",
+    "codi": "El crèdit",
+    "edat": "13",
+    "sexe": true,
+    "discriminacio": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "peli": true,
+    "tv3": true
+  },
+  {
     "titol": "Entre quatre parets<br><small>dos episodis</small>",
     "codi": "Entre quatre parets##",
     "edat": "13",
@@ -48,16 +59,6 @@
     "llenguatge": true,
     "orig": "7",
     "peli": true,
-    "tv3": true
-  },
-  {
-    "titol": "Al cotxe<br><small>Albert Serra</small>",
-    "codi": "Al cotxe##",
-    "edat": "10",
-    "violencia": true,
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
     "tv3": true
   }
 ]
