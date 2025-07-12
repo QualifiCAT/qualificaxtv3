@@ -1,5 +1,14 @@
 [
   {
+    "titol": "Fassman: l'increïble home radar",
+    "codi": "Fassman: l'increïble home radar",
+    "edat": "13",
+    "sexe": true,
+    "orig": "10",
+    "peli": true,
+    "tv3": true
+  },
+  {
     "titol": "La trinca: biografia no autoritzada",
     "codi": "La trinca: biografia no autoritzada",
     "edat": "13",
@@ -47,18 +56,6 @@
     "codi": "30 minuts##",
     "edat": "10",
     "por": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "Sense ficció<br><small>Eugenio</small>",
-    "codi": "&quot;Sense ficció&quot;##",
-    "edat": "10",
-    "sexe": true,
-    "por": true,
-    "drogues": true,
-    "llenguatge": true,
     "orig": "TP",
     "serie": true,
     "tv3": true
