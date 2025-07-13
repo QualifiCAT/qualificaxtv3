@@ -15,12 +15,6 @@
     "orig": "10"
   },
   {
-    "titol": "Soc i seré",
-    "edat": "10",
-    "orig": "TP",
-    "novetat": true
-  },
-  {
     "titol": "Llum, foc, destrucció!",
     "edat": "10",
     "orig": "TP",
@@ -33,6 +27,11 @@
   },
   {
     "titol": "Cita bestial",
+    "edat": "7",
+    "orig": "TP"
+  },
+  {
+    "titol": "Tens un minut?",
     "edat": "7",
     "orig": "TP"
   },
