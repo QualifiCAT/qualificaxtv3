@@ -1,5 +1,14 @@
 [
   {
+    "titol": "30 minuts<br><small>Fugir de Venus</small>",
+    "codi": "30 minuts##",
+    "edat": "13",
+    "drogues": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Fassman: l'increïble home radar",
     "codi": "Fassman",
     "edat": "13",
@@ -49,15 +58,6 @@
     "llenguatge": true,
     "orig": "16",
     "peli": true,
-    "tv3": true
-  },
-  {
-    "titol": "30 minuts<br><small>Conills, el malson del pagès</small>",
-    "codi": "30 minuts##",
-    "edat": "10",
-    "por": true,
-    "orig": "TP",
-    "serie": true,
     "tv3": true
   }
 ]
