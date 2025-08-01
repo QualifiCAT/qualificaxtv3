@@ -1484,17 +1484,18 @@
     "raons": "Llenguatge groller ocasional d'intensitat alta"
   },
   {
-    "titol": "Bola de drac",
+    "titol": "Bola de Drac",
     "codi": "bola-de-drac",
     "edat": "13",
     "orig": "7 (prèviament: 10) (versió censurada)",
     "imdb": "tt0088509",
     "csm": "tv-reviews/dragon-ball",
     "serie": true,
-    "tv3": true
+    "tv3": true,
+    "x3": true
   },
   {
-    "titol": "Bola de drac Súper",
+    "titol": "Bola de Drac Súper",
     "codi": "bola-de-drac-super",
     "edat": "10",
     "orig": "10",
@@ -1514,6 +1515,17 @@
     "x3": true,
     "raons": "Violència freqüent, irreal, explícita, d'intensitat lleu, legitimada<br>Conductes i valors incívics amb sanció neutra",
     "mesinfo": "<b>Violència</b><br>Mitja pel·lícula és un prolongat combat cos a cos amb cops de puny, cops de cap, trets d'atacs d'energia, intents d'ofegament, explosions, etc., destrossant muntanyes o el terra. No es veu mai sang ni ferides greus; com a molt, s'escup saliva després d'un impacte fort. En una escena, un home mor un altre amb una pistola làser, i en una altra, un home mor després que un atac amb el dit li perfori el pit. Hi ha moments on es dona a entendre que un dolent ha comès un genocidi. Un home dispara contra una criatura, mutilant-li l'orella. Hi ha una escena d'assetjament sexual en què un home ebri s'apropa a una dona i li ofereix de passar-ho bé; un home es baralla amb ell per defensar-la, però és electrocutat abans no pugui fer més mal a l'assetjador.<br><br><b>Conductes i valors incívics</b><br>Es fa un comentari de culte al cos en què una dona diu que el seu somni és tenir cinc anys menys. En una altra escena, una noia roba i trenca un objecte per tal d'alliberar el seu amic del seu pare.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa, com 'merda', 'desgraciat' o 'imbècil'. Hi ha consum d'alcohol implícit, presentat negativament."
+  },
+  {
+    "titol": "Bola de Drac Z",
+    "codi": "bola-de-drac-z",
+    "edat": "13",
+    "orig": "13",
+    "imdb": "tt0214341",
+    "csm": "tv-reviews/dragon-ball-z",
+    "serie": true,
+    "tv3": true,
+    "x3": true
   },
   {
     "titol": "Bola de Drac Z: La resurrecció de F (2015)",
@@ -8241,6 +8253,15 @@
     "mesinfo": "<b>Drogues</b><br>Hi ha consum d'alcohol com a acompanyant dels dinars i també forma part d'alguns dels plats. També hi ha referències, per exemple, en una de les cançons que sona ('posi'm un altre xarrup de rom').<br><br><b>Conductes i valors incívics</b><br>Un dels concursants parla reiteradament amb supèrbia, detectant constantment fallades als restaurants rivals, i malparlant dels seus companys i de les notes que li han posat. Aquest concursant és qui acaba guanyant aquesta edició.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa ('merda', 'collons', 'hòstia', 'fotut')."
   },
   {
+    "titol": "Joy eternal",
+    "codi": "joy-eternal",
+    "edat": "10",
+    "orig": "10",
+    "imdb": "tt30972089",
+    "serie": true,
+    "x3": true
+  },
+  {
     "titol": "Júnior (teatre)",
     "codi": "6257763",
     "edat": "13",
@@ -11028,6 +11049,16 @@
     "codi": "6090068",
     "edat": "7",
     "raons": "Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa"
+  },
+  {
+    "titol": "Lucky Fred",
+    "codi": "lucky-fred",
+    "edat": "7",
+    "orig": "TP",
+    "imdb": "tt2164295",
+    "cac": "7",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "L'última nit del karaoke",
@@ -14775,6 +14806,14 @@
     "edat": "7",
     "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, legitimada",
     "mesinfo": "<b>Violència</b><br>Una família es baralla per un pseudocomandament de televisor: un d'ells li dona una puntada de peu que el llença pels aires, dos d'ells agafen uns bastos que acaben impactant contra ells mateixos, algú li esquinça la roba a un d'ells (no explícit) i després tots es barallen entre ells formant un núvol de pols (no explícit). En aquest cas, el seu comportament és explícitament recriminat. Més endavant, però, els ossos atacaran a l'antagonista -que ha segrestat el bebè de la família- i en sortiran victoriosos. Un d'ells li llença una castanya (no explícit) i li trenca les ulleres. Un membre de la família apareix i xuta una altra castanya que li impacta a la galta i li fa saltar una dent. Els dos nois de la família apareixen i li fan un cop al cap amb els bastos (no explícit), i el fan caure a terra. Allà algú li esquinça els pantalons (no explícit) i, avergonyit, es tapa els calçotets, mentre alguns personatges riuen. Es fan també amenaces, de similar intensitat.<br><br>Hi ha situacions ocasionals de por o angoixa lleu."
+  },
+  {
+    "titol": "Sota el sofà",
+    "codi": "sota-el-sofa",
+    "edat": "0",
+    "orig": "TP",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Star contra las fuerzas del mal",
