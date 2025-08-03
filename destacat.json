@@ -48,8 +48,7 @@
     "llenguatge": true,
     "orig": "TP",
     "serie": true,
-    "tv3": true,
-    "separat": true
+    "tv3": true
   },
   {
     "titol": "Platillos volantes",
@@ -58,6 +57,7 @@
     "violencia": true,
     "sexe": true,
     "llenguatge": true,
-    "peli": true
+    "peli": true,
+    "separat": true
   }
 ]
