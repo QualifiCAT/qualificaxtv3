@@ -1,5 +1,35 @@
 [
   {
+    "titol": "Vull ser popu<br><small>quatre episodis</small>",
+    "codi": "Vull ser popu##",
+    "edat": "10",
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "x3": true
+  },
+  {
+    "titol": "La Renaixença<br><small>dos episodis</small>",
+    "codi": "La Renaixença##",
+    "edat": "13",
+    "drogues": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "33": true
+  },
+  {
+    "titol": "Catalunya aixeca el teló 2025",
+    "codi": "Catalunya aixeca el teló 2025",
+    "edat": "7",
+    "sexe": true,
+    "por": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "peli": true,
+    "tv3": true
+  },
+  {
     "titol": "30 minuts<br><small>Fugir de Venus</small>",
     "codi": "30 minuts##",
     "edat": "13",
@@ -29,35 +59,5 @@
     "orig": "10",
     "peli": true,
     "tv3": true
-  },
-  {
-    "titol": "El crèdit",
-    "codi": "El crèdit",
-    "edat": "13",
-    "sexe": true,
-    "discriminacio": true,
-    "llenguatge": true,
-    "orig": "TP",
-    "peli": true,
-    "tv3": true
-  },
-  {
-    "titol": "Entre quatre parets<br><small>dos episodis</small>",
-    "codi": "Entre quatre parets##",
-    "edat": "13",
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "Platillos volantes",
-    "codi": "&quot;Platillos volantes (2003)&quot;",
-    "edat": "13",
-    "violencia": true,
-    "sexe": true,
-    "llenguatge": true,
-    "peli": true,
-    "separat": true
   }
 ]
