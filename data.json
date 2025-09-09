@@ -15810,6 +15810,7 @@
     "codi": "vull-ser-popu",
     "edat": "10",
     "orig": "TP",
+    "imdb": "tt18327948",
     "serie": true,
     "x3": true
   },
@@ -15823,13 +15824,13 @@
   {
     "titol": "Vull ser popu 1x02 - El treball en equip fa que surti bé l'escena",
     "codi": "6355671",
-    "edat": "10",
-    "raons": "Llenguatge groller freqüent d'intensitat baixa",
-    "mesinfo": "<b>Llenguatge groller</b><br>Alguns personatges s'insulten i es fan servir expressions com 'marginada', 'merda' o 'cagar-la'.<br><br>Hi ha conductes i valors incívics com l'enveja presentades de manera negativa. Hi ha situacions ocasionals de por i angoixa lleu quan uns adolescents s'expliquen que els seus pares estan divorciats."
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Alguns personatges s'insulten i es fan servir expressions com 'marginada', 'merda' o 'cagar-la'.<br><br><b>Conductes i valors incívics</b><br>Una de les protagonistes manifesta actituds com l'enveja durant tot l'episodi que eventualment evolucionen cap a missatges positius en forma de moralitat final.<br><br>Hi ha situacions ocasionals de por i angoixa lleu quan uns adolescents s'expliquen que els seus pares estan divorciats."
   },
   {
     "titol": "Vull ser popu 1x03 - El meu art perdurarà",
-    "codi": "",
+    "codi": "6355679",
     "edat": "7",
     "raons": "Llenguatge groller ocasional d'intensitat baixa",
     "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'no fotis' un cop.<br><br>Hi ha conductes incíviques presentades de manera inversemblant, com infiltrar-se en un gimnàs escolar per cometre-hi un furt."
