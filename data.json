@@ -1,5 +1,44 @@
 [
   {
+    "titol": "3 minuts",
+    "codi": "3-minuts",
+    "edat": "13",
+    "orig": "13 (abans de l'emissió, va constar com a: TP)",
+    "serie": true,
+    "tv3": true,
+    "33": true,
+    "misc": true
+  },
+  {
+    "titol": "3 minuts - Ronda 1 - Albert Roig, Alexia Luna, Yael Brusca i Termi fa coses",
+    "codi": "6160979",
+    "edat": "13",
+    "raons": "Al·lusions sexuals freqüents d'explicitació mitjana<br>Al·lusions al consum de drogues il·lícites (marihuana), amb presentació neutra<br>Llenguatge groller reiterat d'intensitat alta",
+    "mesinfo": "<b>Sexe</b><br>Mentre la conductora eixuga un micròfon suat, diu: 'Faig fàstic fins que vols que et faci una palla'. Es parla sovint d'agafar-se a les 'polles' de tots els nòvios amb qui s'ha estat i de 'fotopolles'. Es diu 'enculus totalus' quan es bromeja en relació amb ensenyar a ser 'marica'. Es diu que el programa d'avui és 'sexual' ja que es fan moltes bromes suggerents, i això evidencia la pobre 'vida sexual' dels monologuistes. Es parla de 'tocar el paquet i el cul als tios'. Es parla de situacions d'infidelitat i de tenir la 'libido fatal', perquè 'aconseguíem plaer però el de l'altre'.<br><br><b>Drogues</b><br>Enmig d'un monòleg, la conductora fa implícit que el fet que s'acabin les existències de marihuana és quelcom dolent. Es diu, enmig d'un monòleg: 'Si no soc feliç em podria fabricar la droga.' Es fa broma sobre que una persona pregunta a una altra si té un 'porro'.<br><br><b>Llenguatge groller</b><br>En el programa es fa ús repetidament de llenguatge groller d'intensitat alta durant els monòlegs, encara que no s'empren agressivament, com 'fills de puta', 'puto', 'joder', 'de puta mare', 'follant', 'gilipolles', 'polla', 'merdes', 'hòstia' i 'fuck'. També de forma freqüent se senten expressions com 'bollera' o 'maricón', tot i que les profereixen persones del col·lectiu LGTBIQ+ per referir-s'hi a elles mateixes o per a denunciar situacions de discriminació. Igualment, es fan bromes escatològiques quan es parla de 'pixar', de 'cagar coses maques' o de 'parir patates i allioli'.<br><br>En un monòleg, un dels monologuistes denuncia implícitament que va viure situacions en què els seus companys discriminaven per raó d'orientació sexual. Una monologuista utilitza la nacionalitat per a referir-se a certes persones i bromeja en què, per exemple, lligar-se a una dona 'llatina 10 anys més jove que jo', és racisme. En una ocasió, es denuncien implícitament els casos d'assetjament sexual perpetrats per Plácido Domingo, sense donar detalls. Es bromeja sobre tenir baralles i en funerals familiars que acaben en 'menos morts'."
+  },
+  {
+    "titol": "8 coses a fer abans de morir",
+    "codi": "8-coses-a-fer-abans-de-morir",
+    "edat": "10",
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "8 coses a fer abans de morir 1x01 - Vull ser pastor",
+    "codi": "6357296",
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu sovint 'collons', 'foten', 'merder', 'hòstia' i 'coño', encara que de manera amistosa. Es fa broma sobre què una paraula sona com 'escrot'."
+  },
+  {
+    "titol": "8 coses a fer abans de morir 1x02 - Vull ser reporter",
+    "codi": "6357295",
+    "edat": "7",
+    "raons": "Continguts sexuals ocasionals d'explicitació baixa<br>Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Sexe</b><br>Es fan algunes insinuacions verbals i visuals.<br><br><b>Llenguatge groller</b><br>Es diu 'merda', 'merder' i 'hosti'."
+  },
+  {
     "titol": "12 anys d'esclavitud (2013)",
     "codi": "6188994",
     "edat": "13",
@@ -244,23 +283,6 @@
     "orig": "TP",
     "raons": "Al·lusions al tràfic i consum de drogues il·lícites (marihuana, heroïna) presentat de manera negativa",
     "mesinfo": "<b>Drogues</b><br>Una dona explica com va anar morint de cop gent molt jove que es va enganxar a l'heroïna a finals del segle XX. S'ensenya una operació dels Mossos desmantellant una plantació de marihuana. Es veuen toxicòmans rebuscant o malvivint precàriament pel carrer; s'entra en un centre de reducció de danys, on s'ensenya un kit de consum amb múltiples ítems com són xeringues amb diferents agulles, cassoletes i una goma, es donen xifres sobre els casos que han rebut i es dona la raó de la seva existència i ubicació -per controlar que els drogoaddictes no en consumeixin pel carrer-, i se segueix un equip que recull xeringues de terra per tot el barri.<br><br>Hi ha situacions freqüents de por i angoixa d'afectació lleu. Hi ha llenguatge groller ocasional d'intensitat baixa ('mierda'). Hi ha conductes i valors incívics presentats de manera negativa."
-  },
-  {
-    "titol": "3 minuts",
-    "codi": "3-minuts",
-    "edat": "13",
-    "orig": "13 (abans de l'emissió, va constar com a: TP)",
-    "serie": true,
-    "tv3": true,
-    "33": true,
-    "misc": true
-  },
-  {
-    "titol": "3 minuts - Ronda 1 - Albert Roig, Alexia Luna, Yael Brusca i Termi fa coses",
-    "codi": "6160979",
-    "edat": "13",
-    "raons": "Al·lusions sexuals freqüents d'explicitació mitjana<br>Al·lusions al consum de drogues il·lícites (marihuana), amb presentació neutra<br>Llenguatge groller reiterat d'intensitat alta",
-    "mesinfo": "<b>Sexe</b><br>Mentre la conductora eixuga un micròfon suat, diu: 'Faig fàstic fins que vols que et faci una palla'. Es parla sovint d'agafar-se a les 'polles' de tots els nòvios amb qui s'ha estat i de 'fotopolles'. Es diu 'enculus totalus' quan es bromeja en relació amb ensenyar a ser 'marica'. Es diu que el programa d'avui és 'sexual' ja que es fan moltes bromes suggerents, i això evidencia la pobre 'vida sexual' dels monologuistes. Es parla de 'tocar el paquet i el cul als tios'. Es parla de situacions d'infidelitat i de tenir la 'libido fatal', perquè 'aconseguíem plaer però el de l'altre'.<br><br><b>Drogues</b><br>Enmig d'un monòleg, la conductora fa implícit que el fet que s'acabin les existències de marihuana és quelcom dolent. Es diu, enmig d'un monòleg: 'Si no soc feliç em podria fabricar la droga.' Es fa broma sobre que una persona pregunta a una altra si té un 'porro'.<br><br><b>Llenguatge groller</b><br>En el programa es fa ús repetidament de llenguatge groller d'intensitat alta durant els monòlegs, encara que no s'empren agressivament, com 'fills de puta', 'puto', 'joder', 'de puta mare', 'follant', 'gilipolles', 'polla', 'merdes', 'hòstia' i 'fuck'. També de forma freqüent se senten expressions com 'bollera' o 'maricón', tot i que les profereixen persones del col·lectiu LGTBIQ+ per referir-s'hi a elles mateixes o per a denunciar situacions de discriminació. Igualment, es fan bromes escatològiques quan es parla de 'pixar', de 'cagar coses maques' o de 'parir patates i allioli'.<br><br>En un monòleg, un dels monologuistes denuncia implícitament que va viure situacions en què els seus companys discriminaven per raó d'orientació sexual. Una monologuista utilitza la nacionalitat per a referir-se a certes persones i bromeja en què, per exemple, lligar-se a una dona 'llatina 10 anys més jove que jo', és racisme. En una ocasió, es denuncien implícitament els casos d'assetjament sexual perpetrats per Plácido Domingo, sense donar detalls. Es bromeja sobre tenir baralles i en funerals familiars que acaben en 'menos morts'."
   },
   {
     "titol": "40 anys i una nit",
