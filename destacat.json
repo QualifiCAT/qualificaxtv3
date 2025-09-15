@@ -1,5 +1,23 @@
 [
   {
+    "titol": "8 coses a fer abans de morir<br><small>Vull ser pastor + Vull ser reporter</small>",
+    "codi": "8 coses a fer abans de morir##",
+    "edat": "10",
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Vull ser popu<br><small>quatre episodis</small>",
+    "codi": "Vull ser popu##",
+    "edat": "10",
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "x3": true
+  },
+  {
     "titol": "Vull ser popu<br><small>quatre episodis</small>",
     "codi": "Vull ser popu##",
     "edat": "10",
@@ -36,28 +54,6 @@
     "drogues": true,
     "orig": "TP",
     "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "Fassman: l'increïble home radar",
-    "codi": "Fassman",
-    "edat": "13",
-    "sexe": true,
-    "orig": "10",
-    "peli": true,
-    "tv3": true
-  },
-  {
-    "titol": "La trinca: biografia no autoritzada",
-    "codi": "La trinca: biografia no autoritzada",
-    "edat": "13",
-    "violencia": true,
-    "sexe": true,
-    "drogues": true,
-    "discriminacio": true,
-    "llenguatge": true,
-    "orig": "10",
-    "peli": true,
     "tv3": true
   }
 ]
