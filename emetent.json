@@ -1,8 +1,8 @@
 [
   {
-    "titol": "Jo mai mai",
-    "edat": "18",
-    "orig": "13"
+    "titol": "Polònia",
+    "edat": "13",
+    "orig": "7"
   },
   {
     "titol": "APM?",
@@ -10,28 +10,28 @@
     "orig": "10"
   },
   {
-    "titol": "Joc de cartes",
+    "titol": "Està passant",
     "edat": "13",
     "orig": "TP"
   },
   {
-    "titol": "Llum, foc, destrucció!",
-    "edat": "10",
+    "titol": "La selva",
+    "edat": "13",
     "orig": "TP"
+  },
+  {
+    "titol": "La travessa",
+    "edat": "13",
+    "orig": "TP"
+  },
+  {
+    "titol": "Plats bruts",
+    "edat": "13",
+    "orig": "10"
   },
   {
     "titol": "Atrapa&apos;m si pots",
     "edat": "10",
-    "orig": "TP"
-  },
-  {
-    "titol": "Cita bestial",
-    "edat": "7",
-    "orig": "TP"
-  },
-  {
-    "titol": "Tens un minut?",
-    "edat": "7",
     "orig": "TP"
   },
   {
@@ -50,17 +50,17 @@
     "orig": "10"
   },
   {
-    "titol": "La casa d&apos;Anubis",
-    "edat": "10",
-    "orig": "7"
-  },
-  {
     "titol": "Les Tortugues Ninja",
     "edat": "10",
     "orig": "7"
   },
   {
-    "titol": "Lucky Fred",
+    "titol": "Projecte Beta",
+    "edat": "10",
+    "orig": "TP"
+  },
+  {
+    "titol": "Les filles del Dad",
     "edat": "7",
     "orig": "TP"
   },
