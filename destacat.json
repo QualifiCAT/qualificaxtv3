@@ -18,15 +18,6 @@
     "x3": true
   },
   {
-    "titol": "Vull ser popu<br><small>quatre episodis</small>",
-    "codi": "Vull ser popu##",
-    "edat": "10",
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "x3": true
-  },
-  {
     "titol": "La Renaixença<br><small>dos episodis</small>",
     "codi": "La Renaixença##",
     "edat": "13",
@@ -54,6 +45,17 @@
     "drogues": true,
     "orig": "TP",
     "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "El crèdit",
+    "codi": "El crèdit",
+    "edat": "13",
+    "sexe": true,
+    "discriminacio": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "peli": true,
     "tv3": true
   }
 ]
