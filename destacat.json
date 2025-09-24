@@ -1,5 +1,15 @@
 [
   {
+    "titol": "Vinagreta<br><small>dos episodis</small>",
+    "codi": "Vinagreta##",
+    "edat": "13",
+    "sexe": true,
+    "llenguatge": true,
+    "orig": "7",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "8 coses a fer abans de morir<br><small>Vull ser pastor + Vull ser reporter</small>",
     "codi": "8 coses a fer abans de morir##",
     "edat": "10",
@@ -45,17 +55,6 @@
     "drogues": true,
     "orig": "TP",
     "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "El crèdit",
-    "codi": "El crèdit",
-    "edat": "13",
-    "sexe": true,
-    "discriminacio": true,
-    "llenguatge": true,
-    "orig": "TP",
-    "peli": true,
     "tv3": true
   }
 ]
