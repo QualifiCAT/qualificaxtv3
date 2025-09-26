@@ -4935,6 +4935,22 @@
     "raons": "Contingut sexual reiterat d'explicitació baixa"
   },
   {
+    "titol": "Eufòria Dance Kids",
+    "codi": "euforia-dance-kids",
+    "edat": "7",
+    "orig": "TP",
+    "serie": true,
+    "x3": true,
+    "tv3": true
+  },
+  {
+    "titol": "Eufòria Dance Kids - El càsting",
+    "codi": "6358975",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Una nena diu 'merda' una vegada."
+  },
+  {
     "titol": "Eufòria: el concert 2022",
     "codi": "6194729",
     "edat": "10",
