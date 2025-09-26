@@ -1,5 +1,14 @@
 [
   {
+    "titol": "Eufòria Dance Kids<br><small>El càsting</small>",
+    "codi": "Eufòria Dance Kids##",
+    "edat": "7",
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "x3": true
+  },
+  {
     "titol": "Vinagreta<br><small>dos episodis</small>",
     "codi": "Vinagreta##",
     "edat": "13",
@@ -46,15 +55,6 @@
     "llenguatge": true,
     "orig": "TP",
     "peli": true,
-    "tv3": true
-  },
-  {
-    "titol": "30 minuts<br><small>Fugir de Venus</small>",
-    "codi": "30 minuts##",
-    "edat": "13",
-    "drogues": true,
-    "orig": "TP",
-    "serie": true,
     "tv3": true
   }
 ]
