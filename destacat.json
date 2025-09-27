@@ -1,5 +1,12 @@
 [
   {
+    "titol": "En boca de todos<br><small>08/07/2025</small>",
+    "codi": "En boca de todos##",
+    "edat": "13",
+    "violencia": true,
+    "serie": true
+  },
+  {
     "titol": "Eufòria Dance Kids<br><small>El càsting + Gala 1</small>",
     "codi": "Eufòria Dance Kids##",
     "edat": "7",
@@ -45,16 +52,5 @@
     "orig": "TP",
     "serie": true,
     "33": true
-  },
-  {
-    "titol": "Catalunya aixeca el teló 2025",
-    "codi": "Catalunya aixeca el teló 2025",
-    "edat": "7",
-    "sexe": true,
-    "por": true,
-    "llenguatge": true,
-    "orig": "TP",
-    "peli": true,
-    "tv3": true
   }
 ]
