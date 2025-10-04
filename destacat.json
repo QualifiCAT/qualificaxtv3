@@ -1,5 +1,16 @@
 [
   {
+    "titol": "A contracorrent: 10 anys d'Open Arms<br><small>El càsting + Gala 1</small>",
+    "codi": "A contracorrent: 10 anys d&quot;Open Arms##",
+    "edat": "10",
+    "por": true,
+    "drogues": true,
+    "llenguatge": true,
+    "orig": "7",
+    "serie": true,
+    "3cat": true
+  },
+  {
     "titol": "En boca de todos<br><small>08/07/2025</small>",
     "codi": "En boca de todos##",
     "edat": "13",
@@ -42,15 +53,5 @@
     "orig": "TP",
     "serie": true,
     "x3": true
-  },
-  {
-    "titol": "La Renaixença<br><small>dos episodis</small>",
-    "codi": "La Renaixença##",
-    "edat": "13",
-    "drogues": true,
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "33": true
   }
 ]
