@@ -317,6 +317,21 @@
     "mesinfo": "<b>Llenguatge groller</b><br>Es fan servir expressions com 'molta merda', 'hòstia' i 'fot-li'.<br><br>En escenes fugaces, uns joves aguanten begudes alcohòliques."
   },
   {
+    "titol": "A contracorrent: 10 anys d'Open Arms",
+    "codi": "a-contracorrent-10-anys-open-arms",
+    "edat": "10",
+    "orig": "7",
+    "serie": true,
+    "3cat": true
+  },
+  {
+    "titol": "A contracorrent: 10 anys d'Open Arms 1x01 - David contra Goliat",
+    "codi": "6360423",
+    "edat": "10",
+    "raons": "Por i angoixa freqüent d'afectació mitjana<br>Consum de drogues lícites (tabac), presentat de manera neutra<br>Llenguatge groller ocasional d'intensitat alta",
+    "mesinfo": "<b>Por i angoixa</b><br>Es veuen imatges d'alguns dels rescats que l'organització ha dut a terme, enmig del mar o a la costa, així com de moments de tensió dins el vaixell perquè no podien desembarcar, amb crits, plors, persones en estat precari, etc. Es mencionen xifres de morts i es demana no mirar els cadàvers que hi ha a l'aigua. Es veu una fotografia d'un nen mort a la costa en un diari. Un polític parla de 'violadors' per referir-se a immigrants que suposadament importa l'organització.<br><br><b>Drogues</b><br>Un personatge protagonista fuma una shisha en una ocasió; la càmera en fa un primer pla. També es veu un home amb un cigarret a la mà.<br><br><b>Llenguatge groller</b><br>Es diu 'a hostias', 'putada' i 'mierda'.<br><br>Hi ha situacions discriminatòries amb sanció negativa quan s'ensenyen declaracions de polítics generalitzant negativament sobre els immigrants."
+  },
+  {
     "titol": "Agència galàctica",
     "codi": "agencia-galactica",
     "edat": "7",
@@ -441,39 +456,6 @@
     "edat": "10",
     "raons": "Llenguatge groller ocasional d'intensitat alta",
     "mesinfo": "<b>Llenguatge groller</b><br>Un noi porta una samarreta on es pot llegir la paraula 'coños' utilitzada en sentit literal. Es pot observar diferents vegades durant el capítol, tot i que mai es fa referència al text que conté. També hi ha llenguatge d'intensitat baixa ocasional, com 'merda'.<br><br>Hi ha situacions de por i angoixa ocasionals d'afectació mitjana: s'ensenyen imatges de l'interior d'unes cordes vocals; també es fan freqüents referències existencials, quan diferents persones manifesten el seu desig de conèixer per què són al món, o que 'tant de bo no hagués nascut mai', en lletres d'una cançó."
-  },
-  {
-    "titol": "Alcarràs (2022)",
-    "codi": "6252399",
-    "edat": "13",
-    "orig": "13",
-    "imdb": "tt11930126",
-    "peli": true,
-    "tv3": true,
-    "raons": "Consum de drogues lícites (tabac, alcohol) i il·lícites (marihuana), amb presentació neutra<br>Llenguatge groller freqüent d'intensitat alta"
-  },
-  {
-    "titol": "'Allo 'Allo!",
-    "codi": "allo-allo",
-    "edat": "10",
-    "orig": "TP",
-    "imdb": "tt0086659",
-    "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "'Allo 'Allo! 1x01 - Arriben els britànics",
-    "codi": "6253994",
-    "edat": "10",
-    "raons": "Referències sexuals freqüents d'explicitació baixa<br>Consum de drogues lícites presentat de manera neutra",
-    "mesinfo": "<b>Sexe</b><br>Es fan freqüents referències a continguts sexuals, incloent-hi a la prostitució, a ereccions i als pits d'una dona, però es presenten majoritàriament com a insinuacions, d'explicitació baixa i amb una intencionalitat còmica.<br><br><b>Drogues</b><br>Es fan referències i hi ha imatges de consum de tabac i d'alcohol, sense sanció en el relat.<br><br>Hi ha situacions freqüents de por i angoixa lleu, quan unes persones són amenaçades amb pistoles o quan una dona gran és maltractada verbalment, tot i que són escenes que es presenten de manera còmica. Hi ha llenguatge groller ocasional d'intensitat baixa, ja que es fan servir expressions com 'babau' o 'idiotes'."
-  },
-  {
-    "titol": "'Allo 'Allo! 1x02 - Els britànics han arribat",
-    "codi": "6253990",
-    "edat": "10",
-    "raons": "Referències sexuals freqüents d'explicitació baixa<br>Consum de drogues lícites presentat de manera neutra",
-    "mesinfo": "<b>Sexe</b><br>Es fan freqüents referències a continguts sexuals, incloent-hi a la prostitució, a ereccions, a la promiscuïtat i als pits d'una dona, però es presenten majoritàriament com a insinuacions, d'explicitació baixa i amb una intencionalitat còmica. En una escena, una dona suggereix que el vi l'està acalorant, i comença a treure's roba davant d'un home, i s'insinua a ell ensenyant-li la llenceria.<br><br><b>Drogues</b><br>Es fan referències i hi ha imatges de consum d'alcohol, sense sanció en el relat.<br><br>Hi ha situacions freqüents de por i angoixa lleu, quan es fan referències a afusellaments i tortures, sense donar detalls i amb intencionalitat còmica, i quan una dona gran és maltractada verbalment. Hi ha llenguatge groller ocasional d'intensitat baixa, ja que es fan servir expressions com 'estúpid', 'idiota' o 'tros de foca'."
   },
   {
     "titol": "Al cotxe",
@@ -620,6 +602,40 @@
     "titol": "Al mar! 1x20 - Camí a la Copa Amèrica",
     "codi": "6244571",
     "edat": "0"
+  },
+  
+  {
+    "titol": "Alcarràs (2022)",
+    "codi": "6252399",
+    "edat": "13",
+    "orig": "13",
+    "imdb": "tt11930126",
+    "peli": true,
+    "tv3": true,
+    "raons": "Consum de drogues lícites (tabac, alcohol) i il·lícites (marihuana), amb presentació neutra<br>Llenguatge groller freqüent d'intensitat alta"
+  },
+  {
+    "titol": "'Allo 'Allo!",
+    "codi": "allo-allo",
+    "edat": "10",
+    "orig": "TP",
+    "imdb": "tt0086659",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "'Allo 'Allo! 1x01 - Arriben els britànics",
+    "codi": "6253994",
+    "edat": "10",
+    "raons": "Referències sexuals freqüents d'explicitació baixa<br>Consum de drogues lícites presentat de manera neutra",
+    "mesinfo": "<b>Sexe</b><br>Es fan freqüents referències a continguts sexuals, incloent-hi a la prostitució, a ereccions i als pits d'una dona, però es presenten majoritàriament com a insinuacions, d'explicitació baixa i amb una intencionalitat còmica.<br><br><b>Drogues</b><br>Es fan referències i hi ha imatges de consum de tabac i d'alcohol, sense sanció en el relat.<br><br>Hi ha situacions freqüents de por i angoixa lleu, quan unes persones són amenaçades amb pistoles o quan una dona gran és maltractada verbalment, tot i que són escenes que es presenten de manera còmica. Hi ha llenguatge groller ocasional d'intensitat baixa, ja que es fan servir expressions com 'babau' o 'idiotes'."
+  },
+  {
+    "titol": "'Allo 'Allo! 1x02 - Els britànics han arribat",
+    "codi": "6253990",
+    "edat": "10",
+    "raons": "Referències sexuals freqüents d'explicitació baixa<br>Consum de drogues lícites presentat de manera neutra",
+    "mesinfo": "<b>Sexe</b><br>Es fan freqüents referències a continguts sexuals, incloent-hi a la prostitució, a ereccions, a la promiscuïtat i als pits d'una dona, però es presenten majoritàriament com a insinuacions, d'explicitació baixa i amb una intencionalitat còmica. En una escena, una dona suggereix que el vi l'està acalorant, i comença a treure's roba davant d'un home, i s'insinua a ell ensenyant-li la llenceria.<br><br><b>Drogues</b><br>Es fan referències i hi ha imatges de consum d'alcohol, sense sanció en el relat.<br><br>Hi ha situacions freqüents de por i angoixa lleu, quan es fan referències a afusellaments i tortures, sense donar detalls i amb intencionalitat còmica, i quan una dona gran és maltractada verbalment. Hi ha llenguatge groller ocasional d'intensitat baixa, ja que es fan servir expressions com 'estúpid', 'idiota' o 'tros de foca'."
   },
   {
     "titol": "Anfibilandia",
