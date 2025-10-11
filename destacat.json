@@ -1,5 +1,15 @@
 [
   {
+    "titol": "Equipo de investigación<br><small>La caída del gurú de las hipotecas</small>",
+    "codi": "Equipo de investigación##",
+    "edat": "13",
+    "violencia": true,
+    "por": true,
+    "drogues": true,
+    "llenguatge": true
+    "serie": true
+  },
+  {
     "titol": "A contracorrent: 10 anys d'Open Arms<br><small>un episodi</small>",
     "codi": "A contracorrent: 10 anys d&apos;Open Arms##",
     "edat": "10",
@@ -44,14 +54,5 @@
     "orig": "TP",
     "serie": true,
     "tv3": true
-  },
-  {
-    "titol": "Vull ser popu<br><small>quatre episodis</small>",
-    "codi": "Vull ser popu##",
-    "edat": "10",
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "x3": true
   }
 ]
