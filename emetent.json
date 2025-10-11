@@ -56,17 +56,18 @@
     "orig": "7"
   },
   {
+    "titol": "Vull ser popu",
+    "edat": "10",
+    "orig": "TP",
+    "novetat": true
+  },
+  {
     "titol": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
     "edat": "7",
     "orig": "TP"
   },
   {
     "titol": "Les filles del Dad",
-    "edat": "7",
-    "orig": "TP"
-  },
-  {
-    "titol": "Les sisters",
     "edat": "7",
     "orig": "TP"
   }
