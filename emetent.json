@@ -10,19 +10,21 @@
     "orig": "10"
   },
   {
-    "titol": "Vintage",
-    "edat": "13",
-    "orig": "10"
-  },
-  {
     "titol": "Està passant",
     "edat": "13",
     "orig": "TP"
   },
   {
+    "titol": "Vintage",
+    "edat": "13",
+    "orig": "10",
+    "novetat": true
+  },
+  {
     "titol": "La travessa",
     "edat": "13",
-    "orig": "7"
+    "orig": "7",
+    "novetat": true
   },
   {
     "titol": "La Renaixença",
