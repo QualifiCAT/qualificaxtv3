@@ -1,5 +1,17 @@
 [
   {
+    "titol": "30 minuts<br><small>Paraula d'adolescent</small>",
+    "codi": "30 minuts##",
+    "edat": "7",
+    "sexe": true,
+    "drogues": true,
+    "discriminacio": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Equipo de investigación<br><small>La caída del gurú de las hipotecas</small>",
     "codi": "Equipo de investigación##",
     "edat": "13",
@@ -45,14 +57,5 @@
     "orig": "7",
     "serie": true,
     "3cat": true
-  },
-  {
-    "titol": "8 coses a fer abans de morir<br><small>Vull ser pastor + Vull ser reporter</small>",
-    "codi": "8 coses a fer abans de morir##",
-    "edat": "10",
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
   }
 ]
