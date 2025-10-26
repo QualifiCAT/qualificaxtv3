@@ -1,4 +1,13 @@
 [
+   {
+    "titol": "30 minuts<br><small>Eixir del fang</small>",
+    "codi": "30 minuts##",
+    "edat": "13",
+    "por": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
   {
     "titol": "30 minuts<br><small>Paraula d'adolescent</small>",
     "codi": "30 minuts##",
@@ -47,15 +56,5 @@
     "orig": "TP",
     "serie": true,
     "x3": true
-  },
-  {
-    "titol": "Vinagreta<br><small>dos episodis</small>",
-    "codi": "Vinagreta##",
-    "edat": "13",
-    "sexe": true,
-    "llenguatge": true,
-    "orig": "7",
-    "serie": true,
-    "3cat": true
   }
 ]
