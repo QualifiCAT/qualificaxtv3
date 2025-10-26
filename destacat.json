@@ -1,5 +1,15 @@
 [
    {
+    "titol": "On era Mazón?",
+    "codi": "On era Mazón",
+    "edat": "10",
+    "por": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "peli": true,
+    "tv3": true
+  },
+   {
     "titol": "30 minuts<br><small>Eixir del fang</small>",
     "codi": "30 minuts##",
     "edat": "13",
@@ -47,14 +57,5 @@
     "edat": "13",
     "violencia": true,
     "serie": true
-  },
-  {
-    "titol": "Eufòria Dance Kids<br><small>El càsting + Gala 1</small>",
-    "codi": "Eufòria Dance Kids##",
-    "edat": "7",
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "x3": true
   }
 ]
