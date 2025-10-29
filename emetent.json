@@ -10,11 +10,6 @@
     "orig": "10"
   },
   {
-    "titol": "Està passant",
-    "edat": "13",
-    "orig": "TP"
-  },
-  {
     "titol": "Vintage",
     "edat": "13",
     "orig": "10",
@@ -35,6 +30,12 @@
   {
     "titol": "La Renaixença",
     "edat": "13",
+    "orig": "TP",
+    "novetat": true
+  },
+  {
+    "titol": "Zenit",
+    "edat": "10",
     "orig": "TP",
     "novetat": true
   },
