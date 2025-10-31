@@ -14,7 +14,7 @@
     "codi": "30 minuts##",
     "edat": "13",
     "por": true,
-    "orig": "TP",
+    "orig": "10",
     "serie": true,
     "tv3": true
   },
@@ -31,16 +31,6 @@
     "tv3": true
   },
   {
-    "titol": "Equipo de investigación<br><small>La caída del gurú de las hipotecas</small>",
-    "codi": "Equipo de investigación##",
-    "edat": "13",
-    "violencia": true,
-    "por": true,
-    "drogues": true,
-    "llenguatge": true,
-    "serie": true
-  },
-  {
     "titol": "A contracorrent: 10 anys d'Open Arms<br><small>un episodi</small>",
     "codi": "A contracorrent: 10 anys d&apos;Open Arms##",
     "edat": "10",
@@ -49,13 +39,23 @@
     "llenguatge": true,
     "orig": "7",
     "serie": true,
-    "3cat": true
+    "3cat": true,
+    "separat": true
   },
   {
-    "titol": "En boca de todos<br><small>08/07/2025</small>",
-    "codi": "En boca de todos##",
+    "titol": "El Análisis: Diario de la Noche<br><small>30/10/2025</small>",
+    "codi": "El Análisis Diario de la Noche##",
     "edat": "13",
     "violencia": true,
+    "discriminacio": true,
+    "incivisme": true,
+    "serie": true
+  }
+  {
+    "titol": "Estudio Estadio<br><small>30/10/2025</small>",
+    "codi": "Estudio Estadio##",
+    "edat": "10",
+    "llenguatge": true,
     "serie": true
   }
 ]
