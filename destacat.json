@@ -39,8 +39,7 @@
     "llenguatge": true,
     "orig": "7",
     "serie": true,
-    "3cat": true,
-    "separat": true
+    "3cat": true
   },
   {
     "titol": "El Análisis: Diario de la Noche<br><small>30/10/2025</small>",
@@ -49,7 +48,8 @@
     "violencia": true,
     "discriminacio": true,
     "incivisme": true,
-    "serie": true
+    "serie": true,
+    "separat": true
   },
   {
     "titol": "Estudio Estadio<br><small>30/10/2025</small>",
