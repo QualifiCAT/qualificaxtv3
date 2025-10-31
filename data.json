@@ -296,7 +296,7 @@
     "titol": "30 minuts - Eixir del fang",
     "codi": "6365688",
     "edat": "13",
-    "orig": "TP",
+    "orig": "10 (fins 31/10/2025: TP)",
     "raons": "Por i angoixa reiterada d'afectació mitjana",
     "mesinfo": "<b>Por i angoixa</b><br>Es mostren imatges reiterades dels desperfectes provocats per la dana, així com les riuades en si, on es veuen cotxes sent arrossegats i gent en perill, i es reprodueixen múltiples declaracions de supervivents explicant com van témer per la seva vida i quines seqüeles psicològiques han patit o segueixen patint. Per exemple, algunes persones s'emocionen explicant com va ocórrer tot o reconeixent que no paraven de plorar a les nits, o expliquen que encara no han trobat el cos d'algun familiar. També es diu que el govern autonòmic va 'assassinar' les víctimes per la seva mala actuació durant la tragèdia.<br><br>Hi ha llenguatge groller ocasional d'intensitat alta, en vídeos casolans on la gent reacciona als desperfectes provocats per la dana en directe."
   },
@@ -3233,6 +3233,21 @@
     "raons": "Violència freqüent, irreal, no explícita, d'intensitat lleu, no legitimada<br>Por i angoixa reiterada d'afectació lleu"
   },
   {
+    "titol": "El Análisis: Diario de la Noche",
+    "codi": "analisis-diario-noche",
+    "edat": "13",
+    "serie": true,
+    "telemadrid": true,
+    "misc": true
+  },
+  {
+    "titol": "El Análisis: Diario de la Noche - 30/10/2025",
+    "codi": "43543543654765677568768",
+    "edat": "13",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat greu, no legitimada<br>Comportaments discriminatoris amb sanció neutra<br>Conductes i valors incívics amb sanció positiva",
+    "mesinfo": "Senyalitzat en la seva emissió per televisió com a no recomanat per a menors de 7 anys.<br><br><b>Violència</b><br>En una ocasió, s'ensenyen repetidament imatges d'una agressió amb puntades de peu i empentes a un home, que posteriorment apareix amb l'ull ensangonat. L'agredit és entrevistat i el seu ull malferit és present en pantalla durant diversos minuts. Els tertulians ho comparen amb el terrorisme basc. A més, es dona una descripció d'una violació, donant detalls de com va acabar la víctima.<br><br><b>Discriminació, racisme i xenofòbia</b><br>El presentador dona una notícia d'una violació destacant la nacionalitat dels agressors i culpant-ne directament la política migratòria, encara que després intenta matisar-ho dient que no s'ha discriminar 'per raça però...'.<br><br><b>Conductes i valors incívics</b><br>Es fan al·lusions reiterades a suposats casos de corrupció d'un partit polític en to de crítica, així com de les suposades evasives d'un president a respondre sobre aquests casos. No obstant això, el programa sencer analitzat és essencialment una crítica mordaç i no constructiva a aquesta persona, ridiculitzant-lo de manera constant, fent inclús ús d'adjectius com 'pallassos' o 'palmeros' per descriure gent del seu entorn o dient que el president 'no sap parlar' o és 'autòcrata', 'narcissista', 'Houdini' o que està malament mentalment, tot plegat animat pel presentador, exclusivament des d'una posició ideològica concreta, i sense ànim de propiciar un debat democràtic.<br><br>Hi ha continguts sexuals ocasionals d'explicitació mitjana per al·lusions no explícites a 'negocis humits', a la prostitució i a la prostitució 'de menors'. Hi ha llenguatge groller ocasional d'intensitat alta ('puteros'). Hi ha situacions ocasionals de por i angoixa d'afectació mitjana (vegeu 'Violència')."
+  },
+  {
     "titol": "El asombroso mundo de Gumball",
     "codi": "gumball",
     "edat": "10",
@@ -4801,6 +4816,22 @@
     "edat": "10",
     "raons": "Llenguatge groller freqüent d'intensitat baixa",
     "mesinfo": "<b>Llenguatge groller</b><br>Es fan servir expressions com 'fotre hòsties', 'merda' o 'emmerdats' de manera freqüent en un context distès i sense ànim d'insultar a ningú.<br><br>Es fa una al·lusió al suïcidi en un context metafòric. Hi ha violència ocasional, irreal, no explícita, molt lleu i no legitimada en imatges d'un videojoc on ninots es peguen amb paelles o es llencen al buit."
+  },
+  {
+    "titol": "Estudio Estadio",
+    "codi": "estudio-estadio",
+    "edat": "10",
+    "orig": "TP",
+    "serie": true,
+    "tdp": true,
+    "misc": true
+  },
+  {
+    "titol": "Estudio Estadio Especial Copa del Rey 30/10/2025",
+    "codi": "49839438",
+    "edat": "10",
+    "raons": "Llenguatge groller ocasional d'intensitat alta",
+    "mesinfo": "No senyalitzat en la seva emissió per televisió, tot i no ser un programa susceptible de ser exempt de qualificació.<br><br><b>Llenguatge groller</b><br>Un entrenador fa servir les expressions 'puto' i 'puticlub' (sense donar descripcions sexuals) durant unes declaracions posteriors a un partit, que són recriminades posteriorment per un comentarista.<br><br>Hi ha situacions ocasionals de por i angoixa d'afectació lleu."
   },
   {
     "titol": "Eufòria",
