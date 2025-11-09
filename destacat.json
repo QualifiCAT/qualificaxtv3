@@ -1,5 +1,16 @@
 [
    {
+    "titol": "30 minuts<br><small>Groenlàndia no es ven</small>",
+    "codi": "30 minuts##",
+    "edat": "7",
+    "por": true,
+    "discriminacio": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+   },
+   {
     "titol": "On era Mazón?",
     "codi": "On era Mazón",
     "edat": "10",
@@ -8,7 +19,7 @@
     "orig": "TP",
     "peli": true,
     "tv3": true
-  },
+   },
    {
     "titol": "30 minuts<br><small>Eixir del fang</small>",
     "codi": "30 minuts##",
@@ -29,17 +40,6 @@
     "orig": "TP",
     "serie": true,
     "tv3": true
-  },
-  {
-    "titol": "A contracorrent: 10 anys d'Open Arms<br><small>un episodi</small>",
-    "codi": "A contracorrent: 10 anys d&apos;Open Arms##",
-    "edat": "10",
-    "por": true,
-    "drogues": true,
-    "llenguatge": true,
-    "orig": "7",
-    "serie": true,
-    "3cat": true
   },
   {
     "titol": "El Análisis: Diario de la Noche<br><small>30/10/2025</small>",
