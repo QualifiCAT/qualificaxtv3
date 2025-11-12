@@ -1,5 +1,15 @@
 [
    {
+    "titol": "Nits sense ficció<br><small>Alerta inundable</small>",
+    "codi": "Nits sense ficció##",
+    "edat": "7",
+    "por": true,
+    "incivisme": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+   },
+   {
     "titol": "30 minuts<br><small>Groenlàndia no es ven</small>",
     "codi": "30 minuts##",
     "edat": "7",
@@ -26,18 +36,6 @@
     "edat": "13",
     "por": true,
     "orig": "10",
-    "serie": true,
-    "tv3": true
-  },
-  {
-    "titol": "30 minuts<br><small>Paraula d'adolescent</small>",
-    "codi": "30 minuts##",
-    "edat": "7",
-    "sexe": true,
-    "drogues": true,
-    "discriminacio": true,
-    "llenguatge": true,
-    "orig": "TP",
     "serie": true,
     "tv3": true
   },
