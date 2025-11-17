@@ -14859,6 +14859,21 @@
     "raons": "Por i angoixa freqüent d'afectació mitjana"
   },
   {
+    "titol": "Sicília sense morts",
+    "codi": "sicilia-sense-morts",
+    "edat": "13",
+    "orig": "16",
+    "imdb": "tt15561944",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Sicília sense morts - 1x01 i 1x02 (v. TV3)",
+    "codi": "123324234324324324",
+    "edat": "13",
+    "raons": "Consum de drogues lícites (alcohol, tabac, pastilles) i il·lícites (cocaïna), presentades de manera neutra<br>Llenguatge groller freqüent d'intensitat alta"
+  },
+  {
     "titol": "Silverpoint",
     "codi": "silverpoint",
     "edat": "10",
