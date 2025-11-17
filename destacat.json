@@ -1,5 +1,15 @@
 [
    {
+    "titol": "Sicília sense morts<br><small>caps. 1 i 2 (v. TV3)</small>",
+    "codi": "Sicília sense morts##",
+    "edat": "13",
+    "drogues": true,
+    "llenguatge": true,
+    "orig": "16",
+    "serie": true,
+    "tv3": true
+   },
+   {
     "titol": "Nits sense ficció<br><small>Alerta inundable</small>",
     "codi": "Nits sense ficció##",
     "edat": "7",
@@ -31,15 +41,6 @@
     "tv3": true
    },
    {
-    "titol": "30 minuts<br><small>Eixir del fang</small>",
-    "codi": "30 minuts##",
-    "edat": "13",
-    "por": true,
-    "orig": "10",
-    "serie": true,
-    "tv3": true
-  },
-  {
     "titol": "El Análisis: Diario de la Noche<br><small>30/10/2025</small>",
     "codi": "El Análisis Diario de la Noche##",
     "edat": "13",
@@ -48,12 +49,12 @@
     "incivisme": true,
     "serie": true,
     "separat": true
-  },
-  {
+   },
+   {
     "titol": "Estudio Estadio<br><small>30/10/2025</small>",
     "codi": "Estudio Estadio##",
     "edat": "10",
     "llenguatge": true,
     "serie": true
-  }
+   }
 ]
