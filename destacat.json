@@ -1,5 +1,14 @@
 [
    {
+    "titol": "Net i polit<br><small>2 eps.</small>",
+    "codi": "Net i polit##",
+    "edat": "13",
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "3cat": true
+   },
+   {
     "titol": "Sicília sense morts<br><small>caps. 1 i 2 (v. TV3)</small>",
     "codi": "Sicília sense morts##",
     "edat": "13",
@@ -41,20 +50,12 @@
     "tv3": true
    },
    {
-    "titol": "El Análisis: Diario de la Noche<br><small>30/10/2025</small>",
-    "codi": "El Análisis Diario de la Noche##",
+    "titol": "30 minuts<br><small>Eixir del fang</small>",
+    "codi": "30 minuts##",
     "edat": "13",
-    "violencia": true,
-    "discriminacio": true,
-    "incivisme": true,
+    "por": true,
+    "orig": "10",
     "serie": true,
-    "separat": true
-   },
-   {
-    "titol": "Estudio Estadio<br><small>30/10/2025</small>",
-    "codi": "Estudio Estadio##",
-    "edat": "10",
-    "llenguatge": true,
-    "serie": true
-   }
+    "tv3": true
+  }
 ]
