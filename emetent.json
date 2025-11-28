@@ -42,14 +42,15 @@
     "orig": "7"
   },
   {
-    "titol": "Naruto",
+    "titol": "One Piece",
     "edat": "13",
     "orig": "10"
   },
   {
-    "titol": "One Piece",
-    "edat": "13",
-    "orig": "10"
+    "titol": "Fuet",
+    "edat": "10",
+    "orig": "TP",
+    "novetat": true
   },
   {
     "titol": "Vull ser popu",
