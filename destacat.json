@@ -1,5 +1,15 @@
 [
    {
+    "titol": "Vacunes, anem enrere?",
+    "codi": "Vacunes, anem enrere",
+    "edat": "7",
+    "por": true,
+    "incivisme": true,
+    "orig": "TP",
+    "peli": true,
+    "3cat": true
+   },
+   {
     "titol": "Net i polit<br><small>2 eps.</small>",
     "codi": "Net i polit##",
     "edat": "13",
@@ -48,14 +58,5 @@
     "orig": "TP",
     "peli": true,
     "tv3": true
-   },
-   {
-    "titol": "30 minuts<br><small>Eixir del fang</small>",
-    "codi": "30 minuts##",
-    "edat": "13",
-    "por": true,
-    "orig": "10",
-    "serie": true,
-    "tv3": true
-  }
+   }
 ]
