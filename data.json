@@ -15906,6 +15906,15 @@
     "mesinfo": "<b>Por i angoixa</b><br>Es veuen imatges de gent infectada per la verola. Es veuen imatges de nens dins d'un 'pulmó d'acer' infectats per la pòlio.<br><br><b>Conductes i valors incívics</b><br>Es dona veu a discursos negacionistes, que el documental s'esforça a rebatre fent servir el coneixement científic."
   },
   {
+    "titol": "Viatges Pokémon",
+    "codi": "viatges-pokemon",
+    "edat": "7",
+    "orig": "7",
+    "imdb": "tt14033496",
+    "serie": true,
+    "x3": true
+  },
+  {
     "titol": "Vicky, el viking",
     "codi": "vicky-el-viquing",
     "edat": "0",
