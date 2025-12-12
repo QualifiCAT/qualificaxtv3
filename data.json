@@ -4292,7 +4292,7 @@
     "x3": true
   },
   {
-    "titol": "Els Barrufets (2D)",
+    "titol": "Els barrufets 2D",
     "codi": "els-barrufets-2d",
     "edat": "7",
     "orig": "TP",
@@ -4301,6 +4301,16 @@
     "serie": true,
     "x3": true,
     "tv3": true
+  },
+  {
+    "titol": "Els barrufets 3D",
+    "codi": "els-barrufets-3d",
+    "edat": "7",
+    "orig": "TP",
+    "imdb": "tt14670820",
+    "csm": "tv-reviews/the-smurfs-0",
+    "serie": true,
+    "x3": true
   },
   {
     "titol": "Els consells de l'Alice (2019)",
