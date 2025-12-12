@@ -72,6 +72,7 @@
   {
     "titol": "Viatges Pokémon",
     "edat": "7",
-    "orig": "7"
+    "orig": "7",
+    "novetat": true
   }
 ]
