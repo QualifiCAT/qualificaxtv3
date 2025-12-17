@@ -1,5 +1,18 @@
 [
    {
+    "titol": "Cher Ami",
+    "codi": "Cher Ami",
+    "edat": "7",
+    "violencia": true,
+    "sexe": true,
+    "por": true,
+    "drogues": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "peli": true,
+    "x3": true
+   },
+   {
     "titol": "Vacunes, anem enrere?",
     "codi": "Vacunes, anem enrere",
     "edat": "7",
@@ -47,16 +60,6 @@
     "llenguatge": true,
     "orig": "TP",
     "serie": true,
-    "tv3": true
-   },
-   {
-    "titol": "On era Mazón?",
-    "codi": "On era Mazón",
-    "edat": "10",
-    "por": true,
-    "llenguatge": true,
-    "orig": "TP",
-    "peli": true,
     "tv3": true
    }
 ]
