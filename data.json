@@ -3095,16 +3095,6 @@
     "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'hosti' un cop."
   },
   {
-    "titol": "El 24",
-    "codi": "6316935",
-    "edat": "13",
-    "orig": "TP",
-    "peli": true,
-    "tv3": true,
-    "raons": "Llenguatge groller freqüent d'intensitat alta",
-    "mesinfo": "<b>Llenguatge groller</b><br>Hi ha una presència incessant de la paraula 'hòstia', i es fa servir ocasionalment de manera agressiva 'puta' o 'puto', 'acollonant' o similars, 'merda' o 'cojones'. Es fa una broma sobre creadors de contingut que tenen molta barra, definint-ho com a tenir 'collons' que 'els arribaven fins a terra', amb gesticulació inclosa. S'ensenya el dit del mig en una paròdia d'un tràiler d'una pel·lícula.<br><br>Hi ha continguts sexuals ocasionals d'explicitació baixa, en un moment en què s'intenta escenificar una escena de sexe. Hi ha al·lusions al consum de drogues lícites (tabac i alcohol) presentades de manera negativa. Hi ha situacions de por i angoixa ocasional mitjana quan s'ensenya un quadre semirealista d'una persona amb el cap tallat."
-  },
-  {
     "titol": "El 422",
     "codi": "422",
     "edat": "10",
@@ -3989,6 +3979,28 @@
     "codi": "6172052",
     "edat": "0",
     "raons": "Por i angoixa ocasional d'afectació lleu"
+  },
+  {
+    "titol": "El monòleg de l'any",
+    "codi": "el-monoleg-de-lany",
+    "edat": "13",
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "El monòleg de l'any - Que ens bombin a tots (2023)",
+    "codi": "6258351",
+    "edat": "13",
+    "raons": "Comentaris discriminatoris amb sanció neutra<br>Llenguatge groller freqüent d'intensitat alta",
+    "mesinfo": "<b>Discriminació, racisme i xenofòbia</b><br>Es fa un broma racista sobre un jugador de futbol, quan es diu que n'agafaran de tant joves que es podran fer ells mateixos les seves samarretes. També es fan bromes edatistes sobre un polític.<br><br><b>Llenguatge groller</b><br>Hi ha una presència incessant de la paraula 'hòstia', i també s'utilitzen 'hosti', 'collons', 'collonut', 'acollonant', 'cagar', 'fotut', 'puto', 'de puta mare', 'tocat els ous', 'agafat... pels escons', 'es toca les pilotes amb les mans' (representant-ho visualment), 'cabrons', 'gilipolles', 'merda', 'mariquitas' i 'te la pelen'.<br><br>Hi ha continguts sexuals ocasionals d'explicitació mitjana, per bromes sobre la mida del penis o mencionar 'pel·lis porno'. Hi ha violència freqüent, versemblant, no explícita, lleu i no legitimada, per referències i bromes sobre el cas de Daniel Sancho, casos d'assetjament sexual -en un cas, relacionat amb menors-, conflictes bèl·lics i càrregues policials. Hi ha referències neutres al consum d'alcohol."
+  },
+  {
+    "titol": "El monòleg de l'any - El 24 (2024)",
+    "codi": "6316935",
+    "edat": "13",
+    "raons": "Llenguatge groller freqüent d'intensitat alta",
+    "mesinfo": "<b>Llenguatge groller</b><br>Hi ha una presència incessant de la paraula 'hòstia', i es fa servir ocasionalment de manera agressiva 'puta' o 'puto', 'acollonant' o similars, 'merda' o 'cojones'. Es fa una broma sobre creadors de contingut que tenen molta barra, definint-ho com a tenir 'collons' que 'els arribaven fins a terra', amb gesticulació inclosa. S'ensenya el dit del mig en una paròdia d'un tràiler d'una pel·lícula.<br><br>Hi ha continguts sexuals ocasionals d'explicitació baixa, en un moment en què s'intenta escenificar una escena de sexe. Hi ha al·lusions al consum de drogues lícites (tabac i alcohol) presentades de manera negativa. Hi ha situacions de por i angoixa ocasional mitjana quan s'ensenya un quadre semirealista d'una persona amb el cap tallat."
   },
   {
     "titol": "El món d'en Beakman",
@@ -14029,16 +14041,6 @@
     "titol": "Què deu ser? 1x52 - Ser valent",
     "codi": "6251081",
     "edat": "0"
-  },
-  {
-    "titol": "Que ens bombin a tots",
-    "codi": "6258351",
-    "edat": "13",
-    "orig": "TP",
-    "peli": true,
-    "tv3": true,
-    "raons": "Comentaris discriminatoris amb sanció neutra<br>Llenguatge groller freqüent d'intensitat alta",
-    "mesinfo": "<b>Discriminació, racisme i xenofòbia</b><br>Es fa un broma racista sobre un jugador de futbol, quan es diu que n'agafaran de tant joves que es podran fer ells mateixos les seves samarretes. També es fan bromes edatistes sobre un polític.<br><br><b>Llenguatge groller</b><br>Hi ha una presència incessant de la paraula 'hòstia', i també s'utilitzen 'hosti', 'collons', 'collonut', 'acollonant', 'cagar', 'fotut', 'puto', 'de puta mare', 'tocat els ous', 'agafat... pels escons', 'es toca les pilotes amb les mans' (representant-ho visualment), 'cabrons', 'gilipolles', 'merda', 'mariquitas' i 'te la pelen'.<br><br>Hi ha continguts sexuals ocasionals d'explicitació mitjana, per bromes sobre la mida del penis o mencionar 'pel·lis porno'. Hi ha violència freqüent, versemblant, no explícita, lleu i no legitimada, per referències i bromes sobre el cas de Daniel Sancho, casos d'assetjament sexual -en un cas, relacionat amb menors-, conflictes bèl·lics i càrregues policials. Hi ha referències neutres al consum d'alcohol."
   },
   {
     "titol": "Ràndom",
