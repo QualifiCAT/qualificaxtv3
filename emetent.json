@@ -10,9 +10,9 @@
     "orig": "10"
   },
   {
-    "titol": "Joc de cartes",
+    "titol": "Plats bruts",
     "edat": "13",
-    "orig": "TP"
+    "orig": "10"
   },
   {
     "titol": "Vinagreta",
@@ -21,20 +21,10 @@
     "novetat": true
   },
   {
-    "titol": "La travessa",
-    "edat": "13",
-    "orig": "7"
-  },
-  {
     "titol": "La Renaixença",
     "edat": "13",
     "orig": "TP",
     "novetat": true
-  },
-  {
-    "titol": "Zenit",
-    "edat": "10",
-    "orig": "TP"
   },
   {
     "titol": "El detectiu Conan",
@@ -53,12 +43,6 @@
     "novetat": true
   },
   {
-    "titol": "Els barrufets 3D",
-    "edat": "7",
-    "orig": "TP",
-    "novetat": true
-  },
-  {
     "titol": "Els barrufets 2D",
     "edat": "7",
     "orig": "TP",
@@ -68,11 +52,5 @@
     "titol": "Lucky Fred",
     "edat": "7",
     "orig": "TP"
-  },
-  {
-    "titol": "Viatges Pokémon",
-    "edat": "7",
-    "orig": "7",
-    "novetat": true
   }
 ]
