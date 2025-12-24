@@ -27,6 +27,12 @@
     "novetat": true
   },
   {
+    "titol": "Net i polit",
+    "edat": "13",
+    "orig": "TP",
+    "novetat": true
+  },
+  {
     "titol": "Atrapa&apos;m si pots",
     "edat": "10",
     "orig": "TP"
@@ -43,6 +49,12 @@
   },
   {
     "titol": "Fuet",
+    "edat": "10",
+    "orig": "TP",
+    "novetat": true
+  },
+  {
+    "titol": "Vull ser popu",
     "edat": "10",
     "orig": "TP",
     "novetat": true
