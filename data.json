@@ -2324,6 +2324,15 @@
     "mesinfo": "<b>Drogues</b><br>Es fan al·lusions ocasionals a begudes alcohòliques presentat-ne el consum de manera irreflexiva ('teteo de mojito', 'algú porta una birra', 'el tonteo provocat pel ron', 'al bar Manolo hi ha cervesa per a tothom', 'vas amb ressaca al partit' repetit diverses vegades, 'enyoro els matins de ressaca després d'una festa', 'que toca vermutet').<br><br><b>Llenguatge groller</b><br>En una cançó es repeteix 'seria una putada', i en una altra, es diu 'al puto infern'. També es diu 'merda' i 'que te cagas'.<br><br>Hi ha al·lusions sexuals ocasionals d'explicitació baixa ('fer l'amor', 'el teu culet pom pom', 'busco una gata per donar-li tonteo, baby passarem a l'atac', 'en el club ho fem easy', 'anem a alliberar tota la tarda la nostra endorfina')."
   },
   {
+    "titol": "Concert comiat Stay Homas",
+    "codi": "6376353",
+    "edat": "10",
+    "orig": "TP",
+    "peli": true,
+    "tv3": true,
+    "raons": "Al·lusions al consum de drogues lícites (alcohol, tabac), presentat de manera neutra<br>Llenguatge groller ocasional d'intensitat alta",
+    "mesinfo": "<b>Drogues</b><br>Es fan al·lusions ocasionals a begudes alcohòliques presentat-ne el consum de manera irreflexiva ('cervecita, cukileo, chaval', 'no queda sangria', 'un altre xupito d'absenta', 'I wanna get drunk with my best friends', 'tardeo de mojito', 'cervesa i solecito'), i al tabac amb una menció neutra i negativa cadascuna ('i sortim a fumar si tu m'acompanyes, tu i jo, tu i jo', 'deixar de fumar... ho tinc pendent').<br><br><b>Llenguatge groller</b><br>Es diu 'puto' dos cops. També es diu 'merdes' i 'joder' amb relativa freqüència.<br><br>Hi ha al·lusions sexuals ocasionals d'explicitació baixa ('d'aquí a nou mesos hi haurà un baby boom', 'fer l'amor')."
+  {
     "titol": "Conde & Fonde",
     "codi": "conde-fonde",
     "edat": "7",
@@ -12614,6 +12623,14 @@
     "orig": "TP",
     "raons": "Por i angoixa freqüent d'afectació lleu<br>Conductes i valors incívics amb sanció negativa",
     "mesinfo": "<b>Por i angoixa</b><br>S'ensenyen imatges de riuades fortes que s'enduen i destrueixen tota mena de materials. Es relaten alguns casos de supervivents i on manifesten l'angoixa que van patir; per exemple, una dona recorda sentir com una altra li demanava auxili i ella, impotent, no podia sortir perquè sinó l'hagués arrossegada l'aigua, o com un gos va despertar una família just a temps per poder-se salvar, en una riuada de fa anys en què hi va haver 'molts morts'.<br><br><b>Conductes i valors incívics</b><br>Es fan referències freqüents a casos de corrupció institucional que atemptaven contra la seguretat de les persones."
+  },
+  {
+    "titol": "Nits sense ficció - Canet Rock, abans que surti el sol",
+    "codi": "6377422",
+    "edat": "13",
+    "orig": "TP",
+    "raons": "Consum de drogues lícites (alcohol), presentat de manera positiva<br>Llenguatge groller freqüent d'intensitat alta",
+    "mesinfo": "<b>Drogues</b><br>Una artista reconeguda i el seu germà beuen cervesa d'una marca coneguda abans d'un concert. Una cançó que es canta en un concert diu 'birres i platja, quina tarda vam passar', emfatitzada pel documental, ja que apareix en un moment en què es parlava de moments agradables i mentre es veuen imatges de gent alegre en el festival.<br><br><b>Llenguatge groller</b><br>Es fa un ús constant de la paraula 'hòstia' i també es diuen 'puto', 'putada', 'joder', 'de puta mare', 'cabrón', 'la mare que ens va parir', 'a cagar a la via', 'merdes', etc.<br><br>Hi ha al·lusions sexuals ocasionals d'explicitació baixa."
   },
   {
     "titol": "Nivell extra",
