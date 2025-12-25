@@ -28,7 +28,7 @@
     "discriminacio": true,
     "orig": "TP",
     "serie": true,
-    "x3": true
+    "sx3": true
    },
    {
     "titol": "Creatura",
@@ -50,7 +50,7 @@
     "llenguatge": true,
     "orig": "TP",
     "peli": true,
-    "x3": true
+    "sx3": true
    },
    {
     "titol": "Vacunes, anem enrere?",
