@@ -361,7 +361,7 @@
     "edat": "7",
     "orig": "TP",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Això no és Suècia",
@@ -516,7 +516,7 @@
     "edat": "7",
     "orig": "TP",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Al mar! 1x01 - Una classe de vela lleugera a Blanes",
@@ -684,7 +684,7 @@
     "edat": "7",
     "orig": "TP",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Animals sapastres 1x01 - Música",
@@ -722,7 +722,7 @@
     "imdb": "tt1620449",
     "csm": "movie-reviews/animals-united",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada<br>Llenguatge groller freqüent d'intensitat baixa<br>Consum de drogues lícites (alcohol) presentat negativament<br>Conductes i valors incívics amb sanció negativa"
   },
   {
@@ -886,7 +886,7 @@
     "imdb": "tt1568921",
     "csm": "movie-reviews/the-secret-world-of-arrietty",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Por i angoixa ocasional d'afectació lleu",
     "mesinfo": "<b>Por i angoixa</b><br>Hi ha moments en què sembla que la protagonista, una noia diminuta, i la seva família semblen estar en perill. Tenen un terratrèmol a casa i s'espanten una mica, però no en surten ferits. Sobtadament, un corb vola directament cap a una finestra i es queda enganxat a la mosquitera, i l'han de treure a cops d'espardenya. Una dona gran descobreix la casa dels remenuts i captura a la mare de la protagonista, la tanca en un pot de vidre i avisa al control de plagues perquè se l'enduguin a ella i cerquin la resta de la seva família, però això no acaba succeint. Alguns personatges tenen 'armes' com una agulla de cosir gegant o un arc i una fletxa, però no les utilitzen. Es diu que un noi té els pares divorciats i que sempre ha estat malalt; l'han d'operar del cor i diu que s'està morint. En una conversa que té amb la noia, li diu que la seva espècie està condemnada a extingir-se, però això només ho diu perquè està deprimit. Al final de la pel·lícula, diu que conèixer-la a ella li ha fet tornar les ganes de viure.<br><br>Hi ha consum testimonial de drogues lícites en dues escenes breus en què s'aixeca una copa de vi."
   },
@@ -898,7 +898,7 @@
     "orig": "TP",
     "imdb": "tt10151988",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Artús i els vailets de la Taula Rodona 2x01",
@@ -1028,7 +1028,7 @@
     "imdb": "tt3759416",
     "csm": "movie-reviews/asterix-the-mansions-of-the-gods",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Violència reiterada, irreal, explícita, d'intensitat molt lleu, legitimada<br>Contingut sexual ocasional d'explicitació baixa<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
@@ -1069,7 +1069,7 @@
     "imdb": "tt1695360",
     "csm": "tv-reviews/the-legend-of-korra",
     "serie": true,
-    "x3": true,
+    "sx3": true,
     "netflix": true,
     "misc": true
   },
@@ -1081,7 +1081,7 @@
     "imdb": "tt0417299",
     "csm": "tv-reviews/avatar-the-last-airbender",
     "serie": true,
-    "x3": true,
+    "sx3": true,
     "netflix": true,
     "misc": true
   },
@@ -1155,7 +1155,7 @@
     "imdb": "tt2485302",
     "csm": "tv-reviews/bushwhacked",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Bestial! 1x01 - El diable de Tasmània",
@@ -1179,7 +1179,7 @@
     "imdb": "tt7441658",
     "csm": "tv-reviews/black-clover",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Black Clover - Les veus catalanes de &quot;Black Clover&quot;",
@@ -1516,7 +1516,7 @@
     "imdb": "tt3700456",
     "csm": "movie-reviews/blinky-bill-the-movie",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
@@ -1554,7 +1554,7 @@
     "csm": "tv-reviews/dragon-ball",
     "serie": true,
     "tv3": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Bola de Drac Súper",
@@ -1564,7 +1564,7 @@
     "imdb": "tt4644488",
     "csm": "tv-reviews/dragon-ball-super",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Bola de Drac Super: Broly (2018)",
@@ -1574,7 +1574,7 @@
     "imdb": "tt7961060",
     "csm": "movie-reviews/dragon-ball-super-broly",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Violència freqüent, irreal, explícita, d'intensitat lleu, legitimada<br>Conductes i valors incívics amb sanció neutra",
     "mesinfo": "<b>Violència</b><br>Mitja pel·lícula és un prolongat combat cos a cos amb cops de puny, cops de cap, trets d'atacs d'energia, intents d'ofegament, explosions, etc., destrossant muntanyes o el terra. No es veu mai sang ni ferides greus; com a molt, s'escup saliva després d'un impacte fort. En una escena, un home mor un altre amb una pistola làser, i en una altra, un home mor després que un atac amb el dit li perfori el pit. Hi ha moments on es dona a entendre que un dolent ha comès un genocidi. Un home dispara contra una criatura, mutilant-li l'orella. Hi ha una escena d'assetjament sexual en què un home ebri s'apropa a una dona i li ofereix de passar-ho bé; un home es baralla amb ell per defensar-la, però és electrocutat abans no pugui fer més mal a l'assetjador.<br><br><b>Conductes i valors incívics</b><br>Es fa un comentari de culte al cos en què una dona diu que el seu somni és tenir cinc anys menys. En una altra escena, una noia roba i trenca un objecte per tal d'alliberar el seu amic del seu pare.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa, com 'merda', 'desgraciat' o 'imbècil'. Hi ha consum d'alcohol implícit, presentat negativament."
   },
@@ -1587,7 +1587,7 @@
     "csm": "tv-reviews/dragon-ball-z",
     "serie": true,
     "tv3": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Bola de Drac Z: La resurrecció de F (2015)",
@@ -1597,7 +1597,7 @@
     "imdb": "tt3819668",
     "csm": "movie-reviews/dragon-ball-z-resurrection-f",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Violència freqüent, irreal, explícita, d'intensitat lleu, legitimada",
     "mesinfo": "<b>Violència</b><br>Hi ha combats cos a cos, prolongats en el temps, amb cops de tot tipus i pertot arreu, arts marcials, atacs d'energia, foc i explosions, sortint volant i destrossant-ho tot. Hi ha una escena que podria considerar-se d'intensitat greu, en què disparen al pit d'un home amb una pistola de rajos, fent-lo escopir sang, i el malvat el tortura donant-li cops contínuament. És l'únic moment en què s'intueixen ferides greus o es veu sang, a part de rascades i d'un petit tall enmig d'un combat. També, el dolent dispara contra un home dels seus, matant-lo, i un altre surt violentament per la finestra. Un policia pega uns atracadors de bancs.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa, com 'merda', 'malparit' o 'escòria'. Hi ha una escena en què s'insinua el consum d'alcohol, tot i que no queda clar que ho sigui."
   },
@@ -1608,7 +1608,7 @@
     "orig": "TP",
     "imdb": "tt6056924",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Buga buga",
@@ -1672,7 +1672,7 @@
     "imdb": "tt7150060",
     "csm": "tv-reviews/find-me-in-paris",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Busca'm a París 1x01",
@@ -1988,7 +1988,7 @@
     "orig": "TP",
     "imdb": "tt11867418",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Abús de drogues lícites (alcohol) presentat de forma neutra"
   },
   {
@@ -1997,7 +1997,7 @@
     "edat": "7",
     "orig": "TP",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa",
     "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'fotre' (vuit vegades), 'estúpid', 'parides' i 'una autèntica mer...'.<br><br><b>Conductes i valors incívics</b><br>Un noi li fa la punyeta a la seva germana, intenta escapar de casa i considera 'fake news' que hi hagi 'un monstre' allà fora (en al·lusió a la pandèmia de la COVID-19), i llegeix el seu diari en veu alta sense el seu permís. Eventualment, s'acaba disculpant.<br><br>Hi ha situacions de por ocasionals lleus; per exemple, una mare crida i plora quan li diuen que no fa res en tot el dia. En una escena, s'ensenya, de manera còmica, un dibuix d'una dona amb els pits al descobert i es diu que té 'tetes'. També es fan bromes escatològiques."
   },
@@ -2045,7 +2045,7 @@
     "orig": "10",
     "imdb": "tt8943404",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Campus 12 1x01",
@@ -2128,7 +2128,7 @@
     "imdb": "tt1476250",
     "csm": "movie-reviews/the-aviators",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, legitimada<br>Continguts sexuals ocasionals d'explicitació baixa<br>Por i angoixa freqüent d'afectació lleu<br>Consum de drogues lícites (alcohol), presentat de manera negativa<br>Llenguatge groller ocasional d'intensitat baixa",
     "mesinfo": "<b>Violència</b><br>Hi ha violència irreal, explícita, d'intensitat molt lleu i legitimada en diversos moments en què els membres d'una granja la defensen llençant aliments o bombes contra els ocells enemics, o s'enfronten ocells cos a cos o s'amenacen entre ells, per exemple. En alguns moments, la violència és d'intensitat lleu, no explícita i no legitimada, quan un falcó malvat es llença contra un colom qui té acorralat, i quan es mostren tirotejos en un context bèl·lic entre humans. Tot i que no es mostren ferides, es veu gent caure o essent transportada en lliteres, tot i que en aquests casos la imatge és intencionadament fosca, i es veuen restes òssies d'ocells.<br><br><b>Sexe</b><br>Personatges femenins i masculins flirtegen sovint. Una dona colom apareix vestida de militar i la càmera l'enfoca pel darrere, i un colom que ha de ser instruït per ella diu 'una sòlida formació, sens dubte...'. Es comenta que un cabaret francès és 'suggerent' i 'l'oasi femení'.<br><br><b>Por i angoixa</b><br>Es fan al·lusions a la mort i a la guerra, i diversos personatges es troben freqüentment en perill, però per poc temps; vegeu 'Violència'. En dues ocasions, es defineix un acte de valentia i arriscat com a 'suïcidi'.<br><br><b>Drogues</b><br>En una escena còmica, li donen grans quantitats de vi a un personatge i acaba borratxo i al·lucinant, mentre li diuen que 'val més morir ben torrat que metrallat'. Els personatges positius li recriminen el mal alè i que begui 'de servei'.<br><br><b>Llenguatge groller</b><br>Un personatge negatiu fa servir insults com 'estúpid' o 'inútils'. Mentre esperava presenciar un acte heroic, una gallina s'esvera i expulsa amb força dos ous, i un personatge diu 'd'això jo en dic un parell d'ous', i tots es posen a riure. Es diu 'no te la fotis' una vegada.<br><br>Hi ha una situació de discriminació en què un personatge és anomenat 'bola de greix' per part d'un de negatiu, així com conductes incíviques irreals quan un personatge se salta classe."
   },
@@ -2255,7 +2255,7 @@
     "orig": "TP",
     "imdb": "tt1618450",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, legitimada<br>Por i angoixa freqüent d'afectació lleu<br>(Nota: Inclou reiteradament estereotips de gènere que poden ser problemàtics.)"
   },
   {
@@ -2279,7 +2279,7 @@
     "edat": "0",
     "orig": "TP",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Com dibuixar còmics amb el Will Sliney 1x01",
@@ -2309,7 +2309,7 @@
     "imdb": "tt11112140",
     "csm": "movie-reviews/how-to-train-your-dragon-homecoming",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Violència ocasional, irreal, no explícita, d'intensitat lleu, no legitimada<br>Por i angoixa freqüent d'afectació lleu",
     "mesinfo": "<b>Violència</b><br>Hi ha una escena breu en què es mostra una obra de teatre en què un drac és decapitat, amb efectes de sang falsos, i fent comentaris com 'remarem en rius de sang vostra'. També es mostra una imatge d'un home a la boca d'un drac, es fan al·lusions a 'matar' dracs, i uns dracs nadons es colpegen entre ells.<br><br><b>Por i angoixa</b><br>Li pregunten com ha perdut el peu un home que té una cama de fusta. Un escenari s'incendia i s'escampa el pànic entre els espectadors; un home vestit de drac no sap controlar la seva disfressa, els espanta amb flamarades i cau d'un penya-segat, però el final és positiu. Vegeu també 'Violència'."
   },
@@ -2339,7 +2339,7 @@
     "edat": "7",
     "orig": "TP",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Conde & Fonde 1x01 - La cua dels gossos",
@@ -2465,7 +2465,7 @@
     "edat": "7",
     "orig": "TP",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Cute 1x01 - Dessuadora amb imatge customitzada",
@@ -2501,7 +2501,7 @@
     "imdb": "tt7267968",
     "csm": "tv-reviews/detention-adventure",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "D'aventura castigats 1x01 - El catalitzador",
@@ -2761,7 +2761,7 @@
     "orig": "TP",
     "imdb": "tt14507140",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Dibuixa amb el Will Sliney 1x01 - Bob Esponja",
@@ -2801,7 +2801,7 @@
     "imdb": "tt9507234",
     "csm": "movie-reviews/digimon-adventure-last-evolution-kizuna",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Violència freqüent, irreal, explícita, d'intensitat lleu, legitimada<br>Por i angoixa freqüent d'afectació mitjana<br>Consum de drogues lícites (alcohol), presentades de manera neutra",
     "mesinfo": "<b>Violència</b><br>Hi ha escenes en què criatures fantàstiques lluiten entre si amb atacs d'energia, fletxes, cops, tirotejos amb armes fictícies i explosions. Algunes batalles tenen lloc en ciutats, i comporten la destrucció d'edificis o cotxes. En una escena, un noi surt disparat i se'l veu amb força sang a la cara.<br><br><b>Por i angoixa</b><br>Gran part de l'argument succeeix en un món ominós creat a conveniència d'una persona emocionalment afectada, que vol retenir els nens i les seves mascotes en un lloc perquè puguin viure per sempre, sense envellir i sense separar-se, però sense ànima i obeint-la a ella. Quan els herois intenten aturar-la, mitjançant la violència, els nens s'encaren amb ells per detenir-los, inexpressius i amb els ulls vermells, mentre sona una música molt dramàtica. La resolució és emotiva en tant que la temàtica principal gira entorn de deixar enrere la infància i éssers estimats. Hi ha altres situacions que poden angoixar, com unes imatges breus de gent que ha perdut el coneixement, de gent segrestada lligada a unes cadires, o presenciar atemorits com un home té una pistola real.<br><br><b>Drogues</b><br>Dos universitaris beuen una birra cadascun en un bar. Es veuen cerveses i vins en altres poques escenes, però no es consumeixen.<br><br>Hi ha una referència sexual d'explicitació baixa en una escena en què es troben unes fotografies de noies que el protagonista, avergonyit, diu que són 'coses de grans'."
   },
@@ -2811,7 +2811,7 @@
     "edat": "0",
     "orig": "TP",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Dr. W",
@@ -2819,7 +2819,7 @@
     "edat": "0",
     "orig": "TP",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Dracs: cap a nous horitzons",
@@ -2829,7 +2829,7 @@
     "imdb": "tt2325846",
     "csm": "tv-reviews/dragons-riders-of-berk",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Dracs: els defensors de l'illa del Fred",
@@ -2839,7 +2839,7 @@
     "imdb": "tt2325846",
     "csm": "tv-reviews/dragons-riders-of-berk",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Dracs: El regal de la fúria nocturna (2011)",
@@ -2849,7 +2849,7 @@
     "imdb": "tt2065968",
     "csm": "movie-reviews/dreamworks-dragons-gift-of-the-night-fury",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
@@ -2860,7 +2860,7 @@
     "imdb": "tt15758116",
     "csm": "tv-reviews/dragons-the-nine-realms",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Dracs: Els nou regnes 1x01",
@@ -3052,7 +3052,7 @@
     "imdb": "tt2325846",
     "csm": "tv-reviews/dragons-riders-of-berk",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Dummie la mòmia i l'escarabat d'or (2014)",
@@ -3061,7 +3061,7 @@
     "orig": "7",
     "imdb": "tt3627000",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa freqüent d'afectació lleu",
     "mesinfo": "<b>Violència</b><br>En una escena d'assetjament escolar, unes nenes empenten un nen i el fan caure a terra. En una altra, s'encaren verbalment amb ell i amb el seu amic, acusant-los de fer pudor. En una altra, una de les nenes lliga l'amic a una taula mentre l'altra la ruixa amb aigua sabent que no la suporta; l'amic se n'acaba lliurant, la persegueix i s'hi llença a sobre, i la fa cridar de terror. Tot i que el nen al principi no vol disculpar-se perquè va començar ella, ho acaba fent.<br><br><b>Por i angoixa</b><br>Es fan freqüents al·lusions a la mort, tot i que de manera no detallada. Un home té un accident mentre conduïa. Es comenta sovint que la mare del nen protagonista va morir quan ell era petit, i el nen no en coneix les causes fins que es discuteix amb el seu pare, qui li acaba explicant que va morir a alta mar mentre navegava enmig d'una forta pluja. Un amic del protagonista es posa malalt i es tem per la seva vida."
   },
@@ -3072,7 +3072,7 @@
     "orig": "7",
     "imdb": "tt4437298",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Conductes i valors incívics amb sanció negativa",
     "mesinfo": "<b>Conductes i valors incívics</b><br>En una escena còmica, els dos nens protagonistes es comporten incívicament en un centre comercial mentre una dependenta els persegueix, i els acaba fent fora. El pare d'un dels nois parla sobre falsejar la veritat per tal de no ofendre, quan un nen vol pintar el retrat d'una persona qui no li cau bé i no sap com demanar-l'hi sense ser desagradable. El pare els fa una demostració, fins al punt que no se sap si el que diu és realment una mentida o no, i aconsegueix convèncer aquesta persona. Quan s'adona del retrat que li han fet, se sent traïda i disgustada. També es comenta que un jurat d'un concurs està comprat pel pare d'una companya de classe consentida i que serà difícil guanyar-lo, però ho acaba aconseguint per mèrits propis.<br><br>Hi ha situacions ocasionals de por i angoixa d'afectació lleu. Per exemple, un home es trenca el braç quan corria a anar a retrobar-se amb el seu fill, qui ha sortit sa i estalvi d'una travessia en vaixell amb mala mar; és curat gairebé al moment. També es fan algunes al·lusions fugaces a la mort, en molta menys proporció que en l'anterior pel·lícula. Hi ha consum testimonial de drogues lícites quan ocasionalment es veu un mariner amb una pipa a la boca."
   },
@@ -3082,7 +3082,7 @@
     "edat": "7",
     "orig": "TP (en algunes promos: 7)",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Efecte wow 1x01",
@@ -3110,7 +3110,7 @@
     "edat": "10",
     "orig": "7",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "El 422 1x01",
@@ -3325,7 +3325,7 @@
     "imdb": "tt14760176",
     "csm": "tv-reviews/the-enchanted-village-of-pinocchio",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "El poble encantat de Pinotxo 1x01 - Una missió de confiança",
@@ -3379,7 +3379,7 @@
     "edat": "7",
     "orig": "TP",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "El carrer Scream 1",
@@ -3400,7 +3400,7 @@
     "orig": "TP",
     "imdb": "tt27996155",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "El carreró del misteri 1x01 - El lladre invisible",
@@ -3424,7 +3424,7 @@
     "imdb": "tt0092067",
     "csm": "movie-reviews/castle-in-the-sky",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Violència freqüent, irreal, explícita, d'intensitat lleu, no legitimada<br>Por i angoixa freqüent d'afectació mitjana",
     "mesinfo": "<b>Violència</b><br>Hi ha freqüents escenes d'acció, incloent-hi ús d'armes de foc, tot i que en un entorn fantasiós. Uns pirates saquegen un dirigible i hi ha intercanvi de trets. Una nena pega el cap d'un home amb una ampolla de vidre per poder-se escapar (no explícit). Dos homes comencen a pegar-se enmig del carrer al cap i al ventre i després s'hi uneixen veïns del voltant, en una escena presentada com a còmica. Dos nois són sorpresos per uns homes; un d'ells li dona un cop a l'esquena al noi amb una pistola i el deixa estabornit, i empresonen a tots dos. Un robot es desperta i comença a destruir i incendiar edificis amb el seu raig làser; un exèrcit li dispara inútilment, fins que aconsegueix perforar-li el tors i desactivar-lo. Dues naus aèries es disparen entre elles en algunes escenes; una d'elles acaba incendiada. Un noi que s'enfilava per una torre suspesa en l'aire que s'enderroca a mesura que puja és sorprès per un tret que li travessa la galta (es veu sang). Un home deixa anar una explosió nuclear enmig del mar. Una noia és tractada de males maneres per l'antagonista; l'agafa per la cua, l'empeny o li dona un cop de puny a la cara, o l'apunta a ella i al seu amic amb una pistola.<br><br><b>Por i angoixa</b><br>Diversos personatges, inclosos nens, es troben freqüentment en situació de perill. Vegeu 'Violència'.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa ('cara d'imbècil', 'ximples rematats', 'colla de babaus'). Uns pirates poca-soltes s'enamoren d'una nena de 13 anys i li diuen 'bonica'. Hi ha presència anecdòtica de consum aparent de drogues lícites en dues escenes."
   },
@@ -3436,7 +3436,7 @@
     "imdb": "tt0347149",
     "csm": "movie-reviews/howls-moving-castle",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Violència ocasional, irreal, no explícita, d'intensitat lleu, no legitimada<br>Por i angoixa freqüent d'afectació lleu<br>Consum de drogues lícites (tabac), presentat de manera negativa<br>Llenguatge groller ocasional d'intensitat baixa",
     "mesinfo": "<b>Violència</b><br>Es veuen imatges d'edificis i pobles incendiats per l'impacte de bombes llençades des de dirigibles en un context bèl·lic i alhora irreal. Una bomba cau al mar, molt a la vora d'un port. No es veuen ferits en cap moment. Dos homes intimiden i intenten lligar amb una noia pel carrer, tot ignorant el seu malestar.<br><br><b>Por i angoixa</b><br>Inclou moments de tensió i de por que, tot i ser freqüents, tenen una durada breu. Hi ha persecucions protagonitzades per uns éssers gelatinosos de color negre. Una bruixa es presenta a la casa d'una noia i li deixa anar un encanteri que la torna vella. Un home es posa trist i el seu entorn es transforma junt amb el seu estat d'ànim: apareixen uns esperits, tot es torna negre i el seu cos es torna mucós. Una dona és encerclada per un munt de bombetes que, en encendre's, li arrabassen els poders. Una dona deixa anar els protagonistes al mig del cel en una mena d'il·lusió on uns esperits comencen a encerclar-los, un d'ells pateix una transformació i esdevé un ocell gegant; gairebé l'atrapen però escapen a l'últim segon. En altres moments també es transforma, deixant unes petjades estranyes quan torna a casa completament debilitat; es preocupen per la seva salut i es pensen que pot morir. Vegeu també 'Violència'. Tots els conflictes es resolen de manera completament positiva.<br><br><b>Drogues</b><br>Una dona gran es troba un puro i el comença a fumar apassionadament, en un moment presentat com a còmic. Diversos personatges, fins i tot un gos, se li queixen per la pudor que fa.<br><br><b>Llenguatge groller</b><br>Es fan servir expressions com 'idiota' o 'estúpid' algunes vegades."
   },
@@ -3448,7 +3448,7 @@
     "imdb": "tt11455260",
     "csm": "movie-reviews/school-of-magical-animals",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Violència ocasional, versemblant, no explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa ocasional d'afectació lleu",
     "mesinfo": "<b>Violència</b><br>Hi ha algunes situacions molt lleus d'assetjament escolar, per l'entrada d'una noia nova en un institut. Hi ha moments de discussions entre amics, que posteriorment s'acaben disculpant.<br><br><b>Por i angoixa</b><br>Un home amenaça en algunes ocasions d'obrir un ninot de peluix, qui en realitat és un animal màgic, amb unes tisores. Hi ha una situació de tensió, resolta positivament, quan uns personatges s'infiltren en un institut de nit, un d'ells queda enfilat en un canaló en mal estat suspès en l'aire, i un altre intenta salvar-lo enfilant-se per la teulada i també s'hi queda penjant.<br><br>Hi ha llenguatge groller d'intensitat baixa, molt ocasional tenint en compte la durada de 90 minuts de la pel·lícula: 'estúpid' dues vegades -el primer en una discussió entre nens, i el segon per descriure al fet de robar-, i 'colla d'idiotes' un cop -en referència a quina primera impressió va tenir dels qui finalment serien amics seus-. També es fan servir termes com 'negat' o 'bojos rematats'. En una cançó subtitulada, una de les línies és: 'trontollo com un pirata borratxo'. En una discussió familiar, un home li retreu a la seva dona que vol que el seu fill actuï 'com una dona', cosa que és sancionada pel relat."
   },
@@ -3470,7 +3470,7 @@
     "cac": "13",
     "imdb": "tt0131179",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "El detectiu Conan 909 - Records de la classe dels cirerers (En Shinichi de petit)",
@@ -3551,7 +3551,7 @@
     "orig": "7",
     "imdb": "tt27521477",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Violència freqüent, versemblant, no explícita, d'intensitat lleu, no legitimada",
     "mesinfo": "<b>Violència</b><br>Una dona rep un tret de bala al braç i perd sang i, en llençar-se a un riu, rep un tret al pit (es veu a càmera lenta com li surt la bala) i al cap. Una dona és segrestada després de rebre un cop sec per sorpresa. Una dona és segrestada després de ser sorpresa per dos homes, que l'obliguen a inhalar un somnífer. Un home és sorprès a la seva cambra i és forçat a inhalar un verí; més tard, unes imatges mostren com aquesta persona es pren una pastilla i cau desplomada a terra, i s'insinua que podria ser un suïcidi. Un home rep un tret d'un franctirador, però no mor. Algunes de les escenes anteriors es repeteixen, o es reprenen, en diferents moments de l'obra. Hi ha altres escenes de violència involucrant cops, amenaces amb pistola o explosions; en alguns casos, els actes els perpretren els protagonistes com a defensa pròpia.<br><br>Hi ha situacions freqüents que poden provocar por o angoixa amb una afectació mitjana. Hi ha llenguatge groller ocasional d'intensitat baixa ('merda', 'idiota'). Hi ha consum de drogues lícites (tabac i alcohol), amb presentació negativa dels seus efectes o per part d'antagonistes. Hi ha situacions de masclisme i racisme, sancionades negativament encara que, en una ocasió, es fa broma sobre l'aparença física d'un home, i es diu vehement que una dona 'és' un home per tal de desemmascarar un home infiltrat en una organització."
   },
@@ -3562,7 +3562,7 @@
     "orig": "12",
     "imdb": "tt24634684",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Violència freqüent, versemblant, no explícita, d'intensitat greu, no legitimada",
     "mesinfo": "<b>Violència</b><br>Dues persones són assassinades per l'impacte d'explosions. Ocasionalment, es veuen imatges de persones malferides o mortes, tacades de sang negra. Es fan freqüents al·lusions al suïcidi, i es poden veure vagament els cossos de tres persones penjades al sostre, i una altra que mor en beure verí barrejat amb alcohol davant de la policia. Hi ha moments en què la policia s'encara amb els delinqüents, per reduir-los o amenaçar-los de disparar, i situacions de segrestos. En una d'elles, un home li diu a una dona que es casarà amb ella i li farà un petó si no la venen a buscar. En una altra, un home pega un altre amb un bat de beisbol i li dispara amb una pistola, però sobreviu perquè la bala no li ha impactat al cos. Gran part de la pel·lícula mostra com s'intenta salvar un policia amb perill de morir deshidratat, per l'impacte d'una explosió o per asfíxia, ja que està immobilitzat per les extremitats i el coll i es troba a metres de distància del terra i sobre una superfície fràgil. Un home dona una bufetada a una dona per fer-li entrar en raó.<br><br>Hi ha consum de tabac presentat de manera neutra; en una escena, un home, en veure un senyal de prohibit fumar, diu, com si s'adrecés a l'audiència, que 'feu veure que no ho veieu, avui'. Hi ha consum ocasional d'alcohol i es fa referència a l'alcoholisme, presentat negativament. En una escena, es diu que una bossa conté droga d'uns traficants, però no s'identifica quina. Hi ha situacions de por i angoixa freqüents amb afectació mitjana, per la tensió que poden generar les situacions i descripcions violentes. Hi ha llenguatge groller ocasional d'intensitat baixa, com 'merda', 'imbècil' o 'idiota'. Hi ha comentaris sexuals ocasionals d'explicitació baixa, com quan un home remarca que a una dona se li ha aixecat la faldilla, o es diu que un home 'seduïa' altres dones o que li agradaven 'massa'."
   },
@@ -3573,7 +3573,7 @@
     "orig": "7",
     "imdb": "tt12093860",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Violència ocasional, versemblant, explícita, d'intensitat greu, no legitimada<br>Abús de drogues lícites (alcohol), presentat neutralment"
   },
   {
@@ -3583,7 +3583,7 @@
     "orig": "12",
     "imdb": "tt19770970",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Por i angoixa reiterada d'afectació mitjana",
     "mesinfo": "<b>Por i angoixa</b><br>Hi ha situacions de tensió, pràcticament de manera ininterrompuda, amb una presentació versemblant, en relació amb segrestos, amenaces de bomba i altres situacions violentes. Es comenta i es mostra -sense detalls- com un agent de policia va morir intentant desactivar una bomba, com un home va rebre un cop i li van fer empassar un verí, i com una dona va intentar suïcidar-se llençant-se al buit o prenent una droga. Un home mor arran d'una explosió i un altre perd el coneixement i vessa sang del cap en ser atropellat. Hi ha un home ferit en un edifici i hi ha intercanvi de trets i baralles, i els veïns entren en pànic. Un nen queda atrapat en una habitació amb una bomba i escapa per la finestra. Els policies reben una trucada i diuen que han segrestat a un company seu. Un policia queda retingut pels segrestadors i amenaçat a punta de pistola o amb un ganivet al coll. Hi ha un altre intercanvi de trets on una dona té un nen com a ostatge, i amenaça de 'rebentar-li el cervell'. Una dona revela que planeja cometre un atemptat terrorista en un barri fent-hi esclatar una bomba. Dues persones es barallen en un helicòpter descontrolat després de detonar-s'hi una bomba, causant desperfectes en edificis i fent fugir la gent. Una dona plora en veure la seva família morir per una explosió o quan eviten matar una terrorista per venjança. Hi ha més tensió quan els protagonistes fan esforços per contenir els efectes de l'explosió sense causar desperfectes.<br><br>Hi ha violència ocasional, versemblant, no explícita, d'intensitat greu i no legitimada, en intercanvis de foc que provoquen algunes ferides de sang; també hi ha algunes baralles cos a cos o intents d'apunyalament d'intensitat lleu. Hi ha llenguatge groller ocasional d'intensitat baixa ('merda', 'idiotes', 'burra'). Fugaçment, es mostra consum de tabac i copes amb begudes alcohòliques que no es consumeixen."
   },
@@ -3594,7 +3594,7 @@
     "orig": "12",
     "imdb": "tt13884166",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Violència freqüent, versemblant, explícita, d'intensitat greu, no legitimada"
   },
   {
@@ -3721,7 +3721,7 @@
     "imdb": "tt1794595",
     "csm": "tv-reviews/the-jungle-book",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "El llibre de la selva: Xafarranxo a la selva (2012)",
@@ -3731,7 +3731,7 @@
     "imdb": "tt11908836",
     "csm": "movie-reviews/the-jungle-book-the-movie-2010",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Violència ocasional, irreal, explícita, d'intensitat molt lleu, legitimada<br>Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa"
   },
   {
@@ -3741,7 +3741,7 @@
     "orig": "TP",
     "imdb": "tt2113625",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, legitimada<br>Por i angoixa freqüent d'afectació lleu"
   },
   {
@@ -3762,7 +3762,7 @@
     "orig": "TP",
     "imdb": "tt7988998",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "El meu amic Marlon 1x01 - El nen nou",
@@ -3860,7 +3860,7 @@
     "imdb": "tt8064262",
     "csm": "movie-reviews/paws-pi",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, legitimada<br>Conductes i valors incívics amb sanció neutra",
     "mesinfo": "<b>Violència</b><br>Uns homes tenen armes, però no les fan servir. Una dona li dona una puntada de peu a l'entrecuix d'un home. La dona li llença una bossa a un home, abans que ell la tanqui amb clau en una habitació. Un nen dispara un dard de joguina a un home, fent-lo caure. Un gos fa caure un home a terra. Una noia pega l'entrecuix d'un home amb un martell. Un home llença un plat sobre el cap d'un home qui, en despertar-se, es posa el coll a lloc. Un home amenaça una nena i ella respon donant-li una puntada de peu. Les escenes de violència tenen molt poca intensitat, i tenen naturalesa còmica, però es presenten en positiu, ja que qui la provoquen són els protagonistes, bons, contra els dolents, mentre es feliciten pel que han fet.<br><br><b>Conductes i valors incívics</b><br>Els gossos mascles fan constantment comentaris sobre el físic d'altres personatges femenins o per poder cridar la seva atenció ('és una dona molt atractiva', 'ella és molt guapa', 't'has de fer les ungles', '(la nena) es fa la dura, m'agrada', 'veig que has tornat, preciosa', 'la Cleo és un bombonet', etc.). Els nens protagonistes es colen d'amagat a la casa dels dolents, cosa que no rep cap càstig al final de la història ja que, gràcies als seus actes, resolen el cas i acaben amb els malfactors. L'antagonista té corromput un agent de policia i tracta amb menyspreu la gent del seu entorn, com quan suposa infundadament que alguns d'ells tenen 'problemes mentals'.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa, com 'merder'. La mort passada de la mare del protagonista menor d'edat i com ho viuen ell i el seu pare és un tema recurrent, però es presenta amb delicadesa."
   },
@@ -3872,7 +3872,7 @@
     "imdb": "tt0096283",
     "csm": "movie-reviews/my-neighbor-totoro",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Por i angoixa ocasional d'afectació lleu",
     "mesinfo": "<b>Por i angoixa</b><br>Les nenes protagonistes tenen la seva mare a l'hospital. Sempre que van a visitar-la la troben perfectament, però un dia, reben un telegrama que les fa preocupar. Els comuniquen que no podrà tornar a casa el dia previst. La germana petita no ho accepta i diu que la vol a casa tant sí com no. Això fa que la nena gran s'enfadi amb ella i li pregunta si el que vol és que es mori. La nena s'escapa i desapareix durant unes hores, preocupant a la seva família i a diversos veïns. Alguns es pensen (sense dir-ho) que s'ha pogut ofegar en un bassal, perquè hi troben unes sabatetes surant. En alguns moments, les nenes ploren, aclaparades per la situació. La resolució del conflicte és positiva tant pel que fa a la nena petita com per a la salut de la mare.<br><br>Hi ha un sol ús de llenguatge groller d'intensitat baixa utilitzat de manera agressiva en tota la pel·lícula quan, en la discussió anteriorment descrita, la nena gran li diu 'estúpida' a la seva germana. També, hi ha una sola escena de violència quan un nen menteix a la seva mare i ella li dona un calbot."
   },
@@ -3883,7 +3883,7 @@
     "orig": "TP",
     "imdb": "tt10959924",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "El millor en tot 1x01",
@@ -4020,7 +4020,7 @@
     "imdb": "tt0106367",
     "csm": "tv-reviews/beakmans-world",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "El món de Pepe Rubianes",
@@ -4045,7 +4045,7 @@
     "orig": "TP",
     "imdb": "tt12822168",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "El món genial del Tom Gates 1x01 - El gat cantant",
@@ -4095,7 +4095,7 @@
     "orig": "TP",
     "imdb": "tt12816634",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa ocasional d'afectació lleu"
   },
   {
@@ -4160,7 +4160,7 @@
     "imdb": "tt3398268",
     "csm": "movie-reviews/when-marnie-was-there",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Por i angoixa freqüent d'afectació mitjana<br>Consum de drogues lícites (tabac, alcohol), presentat de manera neutra",
     "mesinfo": "<b>Por i angoixa</b><br>Una noia recurrentment manifesta tenir problemes d'autoestima: s'insulta, es diu que s'odia... Es diu que no perdona que els seus pares i avis biològics morissin i l'abandonessin, i creu que els seus pares adoptius no l'estimen. Ho creu perquè un dia va descobrir que rebien una subvenció per l'adopció. S'explica que una noia era maltractada a casa per la seva minyona, que li estirava el braç i li feia mal quan la pentinava, i per les seves mainaderes, que un dia la van dur a una torre per tancar-la a dins però se'n van desdir perquè feia mal temps. Més tard es conta que aquesta noia es va casar; que, encara dolguda perquè els pares l'abandonaren, la mort del seu home va perjudicar-la encara més i va haver d'ingressar en un sanatori; que el fill que havia tingut el va haver de dur a adopció i que, quan ja es va fer gran i es van retrobar mare i filla, la filla no l'acceptava i es discutien; que la filla va morir en un accident de trànsit junt amb el seu xicot i va haver d'adoptar el net, i que la noia, ja àvia, no va poder superar mai la tragèdia, va morir eventualment d'una malaltia greu i la neta també va acabar en adopció. Les escenes que van revelant tot això són dramàtiques i les protagonistes les relaten visiblement alterades. La mateixa torre, més tard, és escenari d'una situació angoixant ja que les dues noies hi pugen i queden atrapades i aterrades per la forta pluja i el fort vent. Hi ha vegades en què algú es troba una de les noies inconscient a terra enmig del carrer.<br><br><b>Drogues</b><br>S'ensenyen ocasionalment festes on hi ha adults bevent el que sembla ser vi i fumant. En una d'elles, un adult ofereix una copa de vi a una noia menor d'edat, qui en beu una mica fins que s'adona que és alcohol; més tard se la veu una mica èbria, però tot plegat es tracta com a broma i li passa de seguida l'efecte.<br><br>Hi ha una situació de discriminació, explícitament sancionada negativament, en què una nena insulta a una altra dient-li 'vaca fastigosa'. També, uns nens petits es burlen d'un home que no acostuma a parlar amb la gent."
   },
@@ -4296,7 +4296,7 @@
     "imdb": "tt2013293",
     "csm": "movie-reviews/the-wind-rises",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Consum de drogues lícites (tabac, alcohol), presentat de manera neutra",
     "mesinfo": "<b>Drogues</b><br>Múltiples personatges, inclòs el protagonista, fumen tabac de manera freqüent, o demanen cigarrets per fumar. Atès el context històric, molts d'ells fumen en espais tancats i a la feina. També, a vegades, es veuen adults que beuen alcohol socialment. Cap personatge, ni el relat de manera implícita, en sanciona el consum.<br><br>Hi ha situacions ocasionals de por i angoixa d'afectació mitjana: hi ha un terratrèmol i la gent surt espantada de ferrocarrils i de cases, i una noia es torça el peu; algunes escenes mostren bombardejos o accidents aeronàutics, sense que es vegi gent ferida; una noia malalta de tuberculosi vomita molta sang en una escena breu. Hi ha situacions ocasionals de discriminació implícitament sancionada negativament quan uns enginyers japonesos que estan de viatge de feina a Alemanya són tractats de males maneres o se'ls demana que se'n tornin al seu país. Hi ha una sola escena explícita de violència molt lleu quan un noi s'enfronta a uns abusananos que s'estaven burlant d'un nen."
   },
@@ -4308,7 +4308,7 @@
     "imdb": "tt0983983",
     "csm": "tv-reviews/shaun-the-sheep",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "El xai Shaun 1x01 - Comença el joc",
@@ -4321,7 +4321,7 @@
     "edat": "10",
     "orig": "TP",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Consum de tabac i abús d'alcohol, presentat de manera negativa<br>Llenguatge groller reiterat d'intensitat baixa",
     "mesinfo": "<b>Drogues</b><br>En una escena, el pare del protagonista beu múltiples copes en un bar i acaba perdent l'equilibri, davant la presència d'uns menors i tot i el rebuig del restaurador. En altres escenes, hi ha personatges que fumen puros, cigarrets o beuen alcohol, inclosos joves, encara que tenen majoritàriament un rol negatiu en el relat. Hi ha un moment en què un jove diu 'no hi ha res com una cigarreta per acabar el dia' mentre fuma una cigarreta, n'ofereix una a un nen i ell estossega.<br><br><b>Llenguatge groller</b><br>Tant nens, joves com adults fan servir expressions com 'merda', 'idiota', 'fotre', 'cagat', 'imbècil', 'burro', 'babaus', 'collonut', 'malparits', 'pebrots', 'merder', 'la mare que els va parir' o 'capullo'.<br><br>Hi ha conductes incíviques quan un nen roba un conill d'un laboratori tot i tenir la prohibició expressa d'endur-se res, o bé s'enduen animals del seu hàbitat natural; no obstant això, al final de l'obra es diu que tots ells serien retornats. Hi ha situacions ocasionals de por i angoixa moderada, quan intenten reanimar el protagonista amb un desfibril·lador a l'hospital; també es fan referències a una malaltia difícil de curar i a la desaparició d'un gos, i un jove explica una història de por sobre un assassí. Hi ha violència ocasional, versemblant, no explícita, molt lleu i no legitimada, quan dos nens es barallen o bé un grup de nois discuteixen (vegeu 'Llenguatge groller'). Hi ha situacions de discriminació per raons de rang social, d'aparença física i de gènere, amb sanció negativa; per exemple, diuen que un noi és una 'nena' perquè no fa el que li manen fer."
   },
@@ -4333,7 +4333,7 @@
     "imdb": "tt7736544",
     "csm": "tv-reviews/3below-tales-of-arcadia",
     "serie": "true",
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Els barrufets 2D",
@@ -4343,7 +4343,7 @@
     "imdb": "tt0081933",
     "cac": "7",
     "serie": true,
-    "x3": true,
+    "sx3": true,
     "tv3": true
   },
   {
@@ -4354,7 +4354,7 @@
     "imdb": "tt14670820",
     "csm": "tv-reviews/the-smurfs-0",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Els barrufets 3D 1x01 - Què &quot;nas&quot; de dir?",
@@ -4402,7 +4402,7 @@
     "orig": "TP (prèviament: 7)",
     "imdb": "tt5659248",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Els Dalton - Les vacances dels Dalton",
@@ -4436,7 +4436,7 @@
     "edat": "0",
     "orig": "TP",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Els fantasmes de Le Havre (2018)",
@@ -4457,7 +4457,7 @@
     "imdb": "tt1807859",
     "csm": "tv-reviews/wild-kratts",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Els guardians de la nit - Kimetsu no Yaiba - La pel·lícula: El tren infinit (2020)",
@@ -4467,7 +4467,7 @@
     "imdb": "tt11032374",
     "csm": "movie-reviews/demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Violència freqüent, irreal, molt explícita, d'intensitat greu, legitimada<br>Por i angoixa freqüent d'afectació alta"
   },
   {
@@ -4477,7 +4477,7 @@
     "orig": "10",
     "imdb": "tt8347410",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Els hereus de la nit 1x01 - L'Espurna",
@@ -4525,7 +4525,7 @@
     "orig": "7",
     "imdb": "tt9208214",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa",
     "mesinfo": "<b>Por i angoixa</b><br>La història té lloc en un món màgic, lleugerament tenebrós, ple de personatges amb poders fantàstics, que ja de per si poden provocar confusió: poden canviar el color de pell, transformar-se en home llop, fer cruixir el cap, estirar els braços, o aparèixer i desaparèixer per sorprendre a algú. Hi ha presència breu de sang en algunes escenes. Hi ha un moment en què uns nois fan veure que es dessagnen fent servir un pot de quètxup. Hi ha alguns moments de tensió, com quan els herois han de travessar un abisme saltant sobre unes columnes invisibles, o són perseguits per un llop o acorralats per un trol gegant, i quan té lloc una batalla final contra l'antagonista, que acaba satisfactòriament per a ells, però amb un final lleugerament obert. Es diu que la mare d'un dels herois va morir en un accident.<br><br><b>Llenguatge groller</b><br>Ús ocasional d'insults com 'idiota' o 'estúpid' i expressions com 'se'n fotran de mi'. Hi ha un moment en què sembla que s'ensenya expressament el dit del mig.<br><br><b>Conductes i valors incívics</b><br>Uns abusananos de l'escola enregistren un moment en què incidentalment fan el ridícul davant de tothom, i el comparteixen amb tothom perquè se'n burlin, i també els fan bromes pesades per provocar-los.<br><br>Hi ha violència ocasional, irreal, no explícita, d'intensitat molt lleu i no legitimada."
   },
@@ -4536,7 +4536,7 @@
     "orig": "TP",
     "imdb": "tt11300452",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Llenguatge groller freqüent d'intensitat baixa<br>Conductes i valors incívics amb sanció neutra"
   },
   {
@@ -4546,7 +4546,7 @@
     "orig": "TP",
     "imdb": "tt4576386",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Els Mini Ninges 1",
@@ -4676,7 +4676,7 @@
     "imdb": "tt0892700",
     "csm": "tv-reviews/the-penguins-of-madagascar",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "En boca de todos",
@@ -4701,7 +4701,7 @@
     "imdb": "tt6717058",
     "csm": "tv-reviews/grizzy-and-the-lemmings",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Entre quatre parets",
@@ -4830,7 +4830,7 @@
     "edat": "0",
     "orig": "TP",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Està passant",
@@ -4940,7 +4940,7 @@
     "orig": "TP",
     "imdb": "tt18358210",
     "serie": true,
-    "x3": true,
+    "sx3": true,
     "tv3": true
   },
   {
@@ -5094,7 +5094,7 @@
     "edat": "10",
     "orig": "TP",
     "serie": true,
-    "x3": true,
+    "sx3": true,
     "tv3": true
   },
   {
@@ -5133,7 +5133,7 @@
     "edat": "7",
     "orig": "TP",
     "serie": true,
-    "x3": true,
+    "sx3": true,
     "tv3": true
   },
   {
@@ -5155,7 +5155,7 @@
     "edat": "10",
     "orig": "TP",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "tv3": true,
     "raons": "Contingut sexual ocasional d'explicitació mitjana"
   },
@@ -5188,7 +5188,7 @@
     "orig": "TP (prèviament: 10)",
     "imdb": "tt0267237",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Expedient Zack 1x01",
@@ -5342,7 +5342,7 @@
     "edat": "7",
     "orig": "TP",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Faraday",
@@ -5350,7 +5350,7 @@
     "edat": "0",
     "orig": "TP",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Fassman, l'increïble home radar (2015)",
@@ -5719,7 +5719,7 @@
     "edat": "7",
     "orig": "7",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Fora de control",
@@ -5729,7 +5729,7 @@
     "imdb": "tt9184592",
     "csm": "tv-reviews/the-unlisted",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Fora de control 1",
@@ -5828,7 +5828,7 @@
     "orig": "TP",
     "serie": true,
     "tv3": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Fuet 1x01 - Catalunya i els Romans! La conquesta de dos germans",
@@ -6057,7 +6057,7 @@
     "imdb": "tt1050880",
     "csm": "tv-reviews/george-of-the-jungle",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Generació porno",
@@ -6111,7 +6111,7 @@
     "orig": "10",
     "imdb": "tt4340960",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Ghostforce",
@@ -6120,7 +6120,7 @@
     "orig": "TP",
     "imdb": "tt5797440",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Git Gud",
@@ -6128,7 +6128,7 @@
     "edat": "10",
     "orig": "TP",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Git Gud 1x01",
@@ -6276,7 +6276,7 @@
     "edat": "0",
     "orig": "TP",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Gos pudent 1",
@@ -6313,7 +6313,7 @@
     "imdb": "tt9335498",
     "csm": "tv-reviews/demon-slayer",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Guardians de la nit: Kimetsu no Yaiba 1x01 - Crueltat",
@@ -6479,7 +6479,7 @@
     "imdb": "tt3398540",
     "csm": "tv-reviews/haikyu",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Haikyu! 1x06",
@@ -6819,7 +6819,7 @@
     "orig": "TP",
     "imdb": "tt2903136",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Por i angoixa ocasional d'afectació lleu",
     "mesinfo": "<b>Por i angoixa</b><br>Hi ha alguns moments de tensió mínima quan un personatge una mica malvat activa una roca que fa transformar els humans en monstres; tot tremola, surt lava i trona i la roca parla amb veu greu. No obstant això, els monstres d'aquesta pel·lícula no fan por i es fan ràpidament amics de la nena protagonista, i la resolució de qualsevol conflicte és positiva. Hi ha moments que inclús ells s'espanten d'ella, arribant a cridar 'morirem tots plegats!'.<br><br>Hi ha moments de bromes escatològiques, quan un monstre golafre fa rots o pets, i un altre a qui li venen nàusees i vomita (no es veu el vòmit) quan, per exemple, expliquen una història d'un granet ple de pus. Hi ha un moment fugaç de violència molt lleu quan un personatge volador n'empeny un altre contra el terra perquè pesava massa i no li deixava volar."
   },
@@ -6830,7 +6830,7 @@
     "orig": "TP",
     "imdb": "tt8443880",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Heli 1x01",
@@ -6948,7 +6948,7 @@
     "orig": "TP",
     "imdb": "tt9015732",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Herois amb cua 1",
@@ -7133,7 +7133,7 @@
     "orig": "10",
     "imdb": "tt10888950",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Hoodie 1x01",
@@ -8086,7 +8086,7 @@
     "edat": "7",
     "orig": "TP",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Inazuma Eleven",
@@ -8096,7 +8096,7 @@
     "imdb": "tt2189248",
     "csm": "tv-reviews/inazuma-eleven",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Inazuma Eleven Go",
@@ -8105,7 +8105,7 @@
     "orig": "TP",
     "imdb": "tt2189266",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Inazuma Eleven Go 1",
@@ -8127,7 +8127,7 @@
     "edat": "10",
     "orig": "Variable (temporada 1: RI, temporada 2: 10)",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Influenx3r 0",
@@ -8207,7 +8207,7 @@
     "csm": "tv-reviews/inuyasha",
     "cac": "13",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Itch",
@@ -8216,7 +8216,7 @@
     "orig": "7",
     "imdb": "tt3962914",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Itch 1x10",
@@ -8291,7 +8291,7 @@
     "orig": "7",
     "imdb": "tt4900224",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Irresponsable",
@@ -8323,7 +8323,7 @@
     "orig": "TP",
     "imdb": "tt5698216",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Jamie Johnson 3x03 - L'escorpí",
@@ -8346,7 +8346,7 @@
     "orig": "10",
     "imdb": "tt8031144",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Jenny 1x01 - El meu elefant",
@@ -8400,7 +8400,7 @@
     "orig": "TP",
     "imdb": "tt11570892",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Joc de cartes",
@@ -8515,7 +8515,7 @@
     "orig": "10",
     "imdb": "tt30972089",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Júnior (teatre)",
@@ -8545,7 +8545,7 @@
     "imdb": "tt0097814",
     "csm": "movie-reviews/kikis-delivery-service",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Por i angoixa ocasional d'afectació lleu",
     "mesinfo": "<b>Por i angoixa</b><br>Hi ha alguns moments de breu durada en què la protagonista és sorpresa per una forta tempesta o gairebé és atropellada a la ciutat mentre vola en escombra. Hi ha un moment en què és empaitada per una munió de corbs que es pensen que li ha robat uns ous. Després de volar mentre plovia, la noia es refreda i es pregunta, melodramàtica, si es morirà. Al final de la pel·lícula, en algunes escenes relativament prolongades, veiem com un zepelí descontrolat provoca el caos a la ciutat i impacta contra uns edificis, mentre un noi n'hi penja d'una corda i és rescatat a l'últim segon.<br><br>Hi ha un sol ús de llenguatge groller en tota la pel·lícula quan li diuen a un noi, qui acaba de conèixer a la protagonista, si ja està lligant altre cop, i els respon 'que no, burro!'. Es presenten molt ocasionalment valors incívics d'una manera fàcilment comprensible per a infants de molt poca edat; per exemple, una noia amb un rol negatiu i minoritari menysprea un pastís que amb tant d'afecte li han preparat la seva àvia i la protagonista."
   },
@@ -8579,7 +8579,7 @@
     "imdb": "tt8271176",
     "csm": "tv-reviews/kung-fu-panda-the-paws-of-destiny",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Kung Fu Panda: llegendes increïbles",
@@ -8589,7 +8589,7 @@
     "imdb": "tt1545214",
     "csm": "tv-reviews/kung-fu-panda-legends-of-awesomeness",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Kuroko i el bàsquet",
@@ -8599,7 +8599,7 @@
     "imdb": "tt2348803",
     "csm": "tv-reviews/kurokos-basketball",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "L'acadèmia",
@@ -8729,7 +8729,7 @@
     "imdb": "tt1638319",
     "csm": "tv-reviews/house-of-anubis",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "La casa d'Anubis 1x01",
@@ -9158,7 +9158,7 @@
     "orig": "7",
     "imdb": "tt2962056",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa",
     "mesinfo": "<b>Por i angoixa</b><br>Hi ha múltiples escenes de por, amb un component sobrenatural, atès que l'argument gira entorn a una llegenda on és necessària una relíquia i un sacrifici humà perquè un déu faci ploure or, i que, si no es fa bé, provocarà la fi del món. Hi ha situacions en què una noia és posseïda, parla amb una veu greu, i té poder de fer petar els llums d'una casa, provocar terratrèmols, tancar portes i fer que altra gent se sotmeti a la seva voluntat. La resolució és positiva i hi ha moments còmics que trenquen la tensió.<br><br><b>Llenguatge groller</b><br>Es diu 'estúpid', 'idiota' i 'fote't'.<br><br>Es presenten breument conductes incíviques, com mentir, presentades negativament."
   },
@@ -9169,7 +9169,7 @@
     "orig": "TP",
     "imdb": "tt4505630",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "La colla de la selva al rescat! 1",
@@ -9203,7 +9203,7 @@
     "imdb": "tt2279083",
     "csm": "movie-reviews/the-jungle-bunch",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Violència reiterada, irreal, explícita, d'intensitat molt lleu, legitimada<br>Llenguatge groller ocasional d'intensitat baixa",
     "mesinfo": "<b>Violència</b><br>Uns dolents tenen amenaçat un poble i la missió dels herois és fer-los fora violentament. Es fa un ús pràcticament ininterromput de llenguatge violent ('us fotrà un mastegot', 'lluitarem cos a cos', 'm'ha trencat les costelles', 'qui s'ha mort', 'picar els dolents', 'els estomacarem', 'hauràs de passar per sobre del meu cadàver', 'revenja', 'esclaus'). Personatges es fan cops al cap, es bufetegen o juguen a ser mestres d'arts marcials. En una batalla campal on bons i dolents no paren de fer-se cops, un dels dolents envia l'heroi contra una superfície i el deixa estabornit; té intencions d'empalar-lo amb un ullal però el seu amic el salva: salta i li mossega l'ull al dolent.<br><br><b>Llenguatge groller</b><br>Es diu 'fotre' i 'idiotes'."
   },
@@ -9214,7 +9214,7 @@
     "orig": "TP",
     "imdb": "tt4505630",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, legitimada<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa",
     "mesinfo": "Nota: Aquesta pel·lícula per a televisió també s'inclou dins la llista de capítols de la primera temporada de la sèrie, dividida en quatre parts. S'analitza de manera compacta, en la seva versió de 42 minuts de durada.<br><br><b>Violència</b><br>Personatges, tant bons com dolents, juguen constantment a pegar-se o es dirigeixen amenaces. Per exemple, un dels goril·les bons només parla de picar, i dona cops de puny en un combat on esclafa una criatura molt més petita que ell, i més tard en una batalla campal on també hi ha explosions, projectils i puntades de peu. Un altre dels bons crida 'estic boig, us trencaré els ossos'. La protagonista rep assetjament al principi de la pel·lícula quan li diuen que el seu pare no està orgullós d'ella i que no serà mai pirata, però demostra el contrari encarant-se finalment amb els pirates malvats; en una ocasió, ataca el pirata antagonista llençant-li un moc a l'ull.<br><br><b>Llenguatge groller</b><br>Es fan servir insults com 'babau', i es diu 'fotre' ('piquem ben fort i fotem cops de sabata') en una ocasió.<br><br><b>Conductes i valors incívics</b><br>Alguns protagonistes menteixen sobre la seva identitat i sobre les seves habilitats per tal de sentir-se acceptats pel grup. També intenten cometre furts o són descuidats amb la seva higiene personal, perquè es consideren pirates. Eventualment, aquestes conductes es presenten negativament.<br><br>Hi ha situacions d'angoixa ocasional lleu quan alguns personatges es troben en perill; per exemple, una girafa queda estabornida i va enfonsant-se al mar fins que un amic la salva."
   },
@@ -9224,7 +9224,7 @@
     "edat": "10",
     "orig": "TP",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "La colla del camp 1x01",
@@ -9255,7 +9255,7 @@
     "imdb": "tt7949244",
     "csm": "tv-reviews/rainbow-butterfly-unicorn-kitty",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "La gateta Arc iris papallona unicorn 1x01 - La festa purrfecta",
@@ -9309,7 +9309,7 @@
     "imdb": "tt0347618",
     "csm": "movie-reviews/the-cat-returns",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Violència freqüent, irreal, no explícita, d'intensitat molt lleu, legitimada<br>Comportaments discriminatoris amb sanció negativa",
     "mesinfo": "<b>Violència</b><br>Un gat i un corb es barallen verbalment i físicament; un li diu 'desgraciat' i l'altre l'insulta pel seu pes; vegeu l'apartat següent. Una noia agafa un gat de males maneres en algunes ocasions per demanar-li que deixin de perseguir-la. Uns gats surten disparats per la finestra (més tard els veiem a terra, immòbils), perquè fracassen en l'intent d'entretenir a una cort reial. En un d'aquests intents, un gat llença punyals a una gata com a part d'una actuació, i cap d'ells impacta en ella tret de l'últim, que li fa caure la roba, despullant-la, i marxa avergonyida tapant-se el pit (no té òrgans sexuals però tot plegat es presenta com a broma per a adults). Hi ha diversos moments en què uns gats lluiten entre ells amb espases, fletxes, maces amb cadenes i altres armes medievals; mentre que les batalles generalment es presenten de manera no explícita i còmica, en una ocasió, l'autor dels cops és un dels personatges positius, qui pega amb el seu bastó a un dels guerrers per deixar-lo fora de combat i poder seguir en l'intent d'escapar i protegir la protagonista.<br><br><b>Discriminació, racisme i xenofòbia</b><br>Un gat amb sobrepès és objecte de múltiples bromes. Li diuen 'foca' o 'gatot'. Una multitud de gats es neguen a portar-lo a l'esquena. Com que és un golafre, hi ha un moment en què cau en una gerra gegant plena de gelatina i s'hi queda atrapat, i una noia, pensant-se que és mort, el plora i li ho recrimina: 'ets un golut i un ximple'. A vegades, ell mateix fa bromes sobre el seu 'excés de pes'. El personatge, però, es fa valer en tot moment i queda demostrat pel relat que el seu 'pes' no és impediment per complir la seva missió de salvar i protegir la protagonista, junt amb els seus amics.<br><br>Hi ha situacions ocasionals de por i angoixa d'afectació lleu en relació amb alguns dels continguts descrits en els apartats anteriors, així com en uns altres: un camió gairebé atropella una noia i un gat; una noia entra en un regne i li diuen que ha de fugir ara que pot; enderroquen una torre gegant; una noia cau d'una torre altíssima."
   },
@@ -9332,7 +9332,7 @@
     "orig": "TP",
     "imdb": "tt1744776",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, legitimada<br>Por i angoixa freqüent d'afectació lleu"
   },
   {
@@ -9342,7 +9342,7 @@
     "orig": "7",
     "imdb": "tt8591952",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "La mainadera ninja 1x01 - Benvinguts a l'Stanadís",
@@ -9517,7 +9517,7 @@
     "csm": "movie-reviews/mia-and-the-white-lion",
     "peli": true,
     "tv3": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada<br>Por i angoixa freqüent d'afectació mitjana<br>Consum de drogues lícites (alcohol), presentat de manera neutra<br>Llenguatge groller freqüent d'intensitat baixa<br>Conductes i valors incívics amb sanció neutra",
     "mesinfo": "<b>Violència</b><br>La protagonista amenaça el seu pare amb una arma i li dispara un tranquil·litzant a la cama, d'on li surt sang, i cau desmaiat. Més tard, el pare aixeca per la força uns homes i els amenaça de matar-los si han posat en perill la seva filla.<br><br><b>Por i angoixa</b><br>Hi ha presència de sang, freqüents escenes de tensió, i força moments de discussió verbal entre membres de la família. En una escena, un lleó ataca un home a la cara, es veu una mica de sang i se senten crits i plors, i el pare agafa la seva filla, l'entra a casa per la força, l'escridassa i l'empeny cap a la seva habitació. En una altra, els pares munten un escàndol que fan esverar el lleó, que fa caure el germà i es dona un cop al cap amb una pedra. Es comenta que el germà, de 15 anys, té atacs de pànic i malsons d'ençà que va veure l'assassinat d'un lleó amb els seus ulls. La protagonista es pregunta diverses vegades si un lleó mataria algú qui estima. Hi ha escenes finals tenses, quan la nena s'escapa amb el lleó i és perseguida; al final, tot de policies armats apareixen i apunten contra l'animal, i el pare el protegeix ficant-se davant i dificultant la vista dels tiradors.<br><br><b>Drogues</b><br>Es fa èmfasi en el consum d'alcohol en una escena breu en què els pares de la protagonista celebren amb xampany. Hi ha imatges de begudes alcohòliques de fons en altres parts del llargmetratge.<br><br><b>Llenguatge groller</b><br>Es fan servir expressions com 'desgraciat', 'que et bombin', 'idiota', 'burro', 'merda' o 'fot el camp' amb certa freqüència.<br><br><b>Conductes i valors incívics</b><br>La protagonista desobeeix les ordres del seu pare durant tota l'obra, amb la intenció d'estar o de protegir la seva mascota lleó. Per exemple, la nena s'escapa d'una excursió escolar per fer autoestop a l'autopista i pujar al cotxe d'uns desconeguts fins arribar a la seva destinació. No obstant això, es revela posteriorment que el pare tampoc no és un model a seguir, ja que oculta a la seva família que permet que els animals que ven acabin assassinats."
   },
@@ -9550,7 +9550,7 @@
     "imdb": "tt5721172",
     "csm": "tv-reviews/the-worst-witch",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "La Ponyo al penya-segat (2008)",
@@ -9560,7 +9560,7 @@
     "imdb": "tt0876563",
     "csm": "movie-reviews/ponyo",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa",
     "mesinfo": "<b>Por i angoixa</b><br>La pel·lícula inclou moments en què personatges principals semblen estar en perill i múltiples situacions sobrenaturals de llarga durada, que poden provocar confusió i angoixa. Un nen trenca una ampolla amb una pedra per tal de rescatar un peix que s'hi havia quedat encallat a dins, i es fa un petit tall de sang al dit però es cura ràpidament. Més d'un cop, el peix es queda immòbil (li diuen que no es mori) o venen unes forces en forma d'ones gegants amb ulls per endur-se-la al fons del mar. En una escena prolongada i intensa, un tsunami amenaça un poble i unes ones enormes -comandades pel peix transformat en nena- persegueixen els protagonistes, que escapen en cotxe i que en surten il·lesos. Al final, el nen es posa a plorar perquè no troba la seva mare, s'espanta en veure que el peix reverteix lentament la seva transformació, i és perseguit per un dels antagonistes que es volen endur la nena, però el final de tot plegat és positiu.<br><br><b>Llenguatge groller</b><br>Un home és anomenat 'burro' múltiples vegades en una mateixa escena. Una nena diu que una peixeta està 'grassa' i li respon escopint-la a la cara.<br><br>Hi ha un moment en què una dona, després de tenir un atac de ràbia, obre una llauna de cervesa, i després se la veu estesa al llit sense ganes de fer res, però no es veuen imatges de consum ni sembla que pugui estar èbria. També hi ha moments de conducció temerària, i un nen encén un misto sense supervisió en una escena, encara que el context de tot plegat és fantasiós."
   },
@@ -9572,7 +9572,7 @@
     "imdb": "tt0119698",
     "csm": "movie-reviews/princess-mononoke",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Violència freqüent, irreal, explícita, d'intensitat greu, no legitimada<br>Por i angoixa freqüent d'afectació alta",
     "mesinfo": "<b>Violència</b><br>Hi ha diverses escenes de combats amb espases i fletxes on caps i braços surten disparats com si res. Un llarg enfrontament finalitza amb un noi rebent un tret que li perfora el ventre; es veu l'esclat de sang, però no li és fatal. També hi ha combats que involucren animals; en un d'ells, un llop rep un tret i una noia amb poders li ha de treure la sang amb la boca; en un altre, un munt de senglars surten disparats pels aires després de trepitjar bombes o de rebre trets, i en veiem a molts morts.<br><br><b>Por i angoixa</b><br>En particular, són destacables les escenes que involucren senglars infectats per una mena de multitud de cucs que no paren d'entrar i sortir de l'animal i que van deixant un rastre de sang. En una d'elles, després de rebre un impacte a l'ull, el senglar es desintegra i en resta un esquelet. En una altra, un senglar gegant va dessagnant-se per nombroses ferides i vomita sang freqüentment. Hi ha un moment en què els cucs també es fiquen en la pell d'una noia. També són remarcables en aquest apartat les escenes descrites a 'Violència', el fet que es mostrin freqüentment cremades provocades per haver entrat en contacte amb els cucs paràsits, i el final de la pel·lícula, quan una massa comença a estendre's per tot arreu i amenaça la vida de qualsevol ésser viu que es troba.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa ('estúpid', 'burro', 'idiotes'). Es diu de passada que unes dones van ser recollides d'uns bordells, sense donar més detalls, i es fa una referència fugaç a recompensar uns treballadors amb alcohol."
   },
@@ -9720,7 +9720,7 @@
     "edat": "13",
     "orig": "13",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "La teva mentida a l'abril 1x01 - Monocrom / A color",
@@ -9897,7 +9897,7 @@
     "orig": "TP",
     "imdb": "tt6241270",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Violència freqüent, irreal, explícita, d'intensitat lleu, no legitimada<br>Por i angoixa freqüent d'afectació lleu",
     "mesinfo": "<b>Violència</b><br>Unes dones intenten fer fora uns ratolins amb cops d'escombra o llençant-los gots de vidre, que no impacten mai contra ells. Una bruixa llença un encanteri contra la paret que la destrossa. Un home empenta una nena que vol aturar els seus plans. Dos homes, un de bo i un de dolent, es barallen amb espases, sense impactar al cos. Acaben a una teulada i el bo desarma al dolent, que eventualment aconsegueix fer-se amb un pal i empentar al bo, que gairebé cau d'una teulada. Ell intenta fer-lo caure trepitjant-li el peu però el bo aconsegueix fer caure el dolent fent-lo perdre l'equilibri, qui sembla sobreviure a la caiguda ja que el veiem arrossegar-se per terra. En una escena posterior, una bruixa llença encanteris contra alguns personatges, que els fa impactar contra el terra o contra una columna. La bruixa segueix i una mena de màgia els envolta i els fa levitar mentre panteixen. Un atac fa caure el sostre, i la bruixa intenta aturar els herois llençant-los encanteris, però això només accelera l'enderrocament, i la seva implícita mort.<br><br><b>Por i angoixa</b><br>Un ratolí cau des d'una gran alçada, i un gat els persegueix per la casa mentre també terroritza els humans que hi viuen. Unes pomes enmig d'un bosc espanten els protagonistes en aparèixer-los-hi ulls i els persegueixen. Una nena i uns ratolins descobreixen un ombrívol passadís secret on troben una bruixa -amb una àguila que l'ajuda- que practica màgia negra, que s'adona de la seva presència i els comença a perseguir i llençar encanteris. Un home comenta que amb sis anys 'perd els pares', i es veu com la seva tutora es torna malvada i la transforma en ratolí. La protagonista també comenta que va perdre els pares. Una planta gegant apareix en un bosc i persegueix els protagonistes, atrapa a un d'ells i eventualment els fa caure a tots a un riu, però aconsegueixen salvar-se. L'àguila de la bruixa torna a aparèixer i roba un anell màgic i un dels ratolins. Uns guàrdies apareixen a casa de la protagonista i se l'enduen al castell. En l'escena de lluita a la teulada, un dels homes té por de caure, i li diu a l'altre que 'quan moris seràs recordat com un ratolí'. Una nena s'encara amb la bruixa quan revela la seva veritable identitat, i li pregunta per què la va abandonar. La confrontació dels herois amb la bruixa també pot ser angoixant i terrorífica, a més que sembla tenir un final agredolç, però que al final acaba bé per als protagonistes.<br><br>Alguns dels personatges es comporten de manera estereotipada, incloent-hi un dels ratolins protagonistes, més corpulent, que està obsessionat amb el menjar, o no és capaç de 'volar' com els altres. Un dels ratolins, mascle, se sent ridícul quan li posen un vestit de princesa. Es fan servir expressions com 'beneit', 'sonada' o 'ratolí estúpid', i en una escena un dels ratolins fa pets. Es comenta negativament que els ratolins robaven menjar."
   },
@@ -9908,7 +9908,7 @@
     "orig": "TP",
     "imdb": "tt27411279",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "La vida en calçotets 1x01 - Prohibit als menors de 12 anys",
@@ -9962,7 +9962,7 @@
     "edat": "10",
     "orig": "TP",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Lara i Kali 1x01 - Rescat a la Vall d'Aran",
@@ -10138,7 +10138,7 @@
     "edat": "10",
     "orig": "10",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Las travesuras de Jaimito",
@@ -10170,7 +10170,7 @@
     "orig": "TP",
     "imdb": "tt11521370",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Leo da Vinci 1x01 - L'arribada a Florència",
@@ -10208,7 +10208,7 @@
     "imdb": "tt7139246",
     "csm": "movie-reviews/leo-da-vinci-mission-mona-lisa",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Por i angoixa freqüent d'afectació lleu<br>Consum de drogues lícites (tabac), presentades de manera negativa<br>Llenguatge groller freqüent d'intensitat baixa",
     "mesinfo": "<b>Por i angoixa</b><br>Un noi es queda sense aire submergit a l'aigua, però es recupera ràpidament. Un incendi crema la casa d'un dels personatges principals; una noia se li ho retreu a un noi, dient que és culpa seva, i diu que no el vol veure més. Un noi espia uns pirates i acaba capturat, però més tard se n'allibera. Un noi es torna a capbussar, i troba les restes d'un vaixell enfonsat amb calaveres, esquelets i taurons que se'l volen cruspir, però la tensió es resol còmicament. Una noia plora per la situació familiar i perquè la volen casar a la força. Un pirata atrapa uns nens, els amenaça d'arrancar-los la llengua 'd'un sol cop d'espasa', i els vol llençar als taurons. Els pirates ataquen els protagonistes disparant-los canons, i a vegades els impacta directament i no saben si han sobreviscut. Hi ha moments en què els pirates brandeixen espases, però no impacten contra ningú. Qualsevol situació es resol ràpidament i positivament.<br><br><b>Drogues</b><br>Un pirata dolent fuma una pipa. En una altra situació, un pirata apaga un misto amb la boca i exhala fum.<br><br><b>Llenguatge groller</b><br>Es fan servir expressions com 'cagat', 'marrec', 'ruc' o 'inútil'.<br><br>Una nena roba un mapa als protagonistes i escapa per la taula, per poder cridar-los l'atenció i fer-se amic d'ells. Hi ha escenes de violència molt lleus en què els pirates ataquen els bons amb canons, o fugaces quan el protagonista dona una puntada a un home o un clatellot 'amistós' a un amic seu."
   },
@@ -10218,7 +10218,7 @@
     "edat": "10",
     "orig": "7",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Les aventures d'en Massagran 1",
@@ -10347,7 +10347,7 @@
     "edat": "7",
     "orig": "TP",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Les filles del Dad 1x01 - Reality Dad",
@@ -10396,7 +10396,7 @@
     "orig": "TP",
     "imdb": "tt2563792",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Les noves aventures de Peter Pan",
@@ -10405,7 +10405,7 @@
     "orig": "TP",
     "imdb": "tt2795864",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Les regles de la Floor",
@@ -10414,7 +10414,7 @@
     "orig": "TP",
     "imdb": "tt8180660",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Les regles de la Floor 1x01",
@@ -10710,7 +10710,7 @@
     "orig": "TP",
     "imdb": "tt12363714",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Les sisters 1",
@@ -10798,7 +10798,7 @@
     "imdb": "tt1877889",
     "csm": "tv-reviews/teenage-mutant-ninja-turtles-0",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Llim",
@@ -10860,7 +10860,7 @@
     "imdb": "tt4191768",
     "csm": "movie-reviews/dragons-dawn-of-the-dragon-racers",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Violència freqüent, irreal, no explícita, d'intensitat molt lleu, legitimada"
   },
   {
@@ -10869,7 +10869,7 @@
     "edat": "0",
     "orig": "TP",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "L'orquestreta 1x01 - Com viatjar en el temps",
@@ -11016,7 +11016,7 @@
     "orig": "TP",
     "imdb": "tt6852910",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Lucas etc 1",
@@ -11337,7 +11337,7 @@
     "imdb": "tt2164295",
     "cac": "7",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "L'última nit del karaoke",
@@ -11362,7 +11362,7 @@
     "imdb": "tt10621032",
     "csm": "movie-reviews/lupin-iii-the-first",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Violència freqüent, versemblant, explícita, d'intensitat lleu, legitimada"
   },
   {
@@ -11373,7 +11373,7 @@
     "imdb": "tt7736558",
     "csm": "tv-reviews/wizards-tales-of-arcadia",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "MAN CITY BEAT BAYERN! (3-0 Champions League 2023 Quarter-Final Haaland Silva Rodri goals highlights) (vídeo de YouTube)",
@@ -11391,7 +11391,7 @@
     "orig": "TP (prèviament: RI)",
     "serie": true,
     "tv3": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Manduka 33",
@@ -11513,7 +11513,7 @@
     "orig": "TP",
     "serie": true,
     "tv3": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Manduka family 1x01 - Truita de patates",
@@ -11645,7 +11645,7 @@
     "edat": "10",
     "orig": "TP",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Marika 1x01",
@@ -11895,7 +11895,7 @@
     "imdb": "tt6336356",
     "csm": "movie-reviews/mary-and-the-witchs-flower",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Por i angoixa freqüent d'afectació lleu",
     "mesinfo": "<b>Por i angoixa</b><br>La pel·lícula comença mostrant uns edificis incendiats i explosions i una nena que gairebé cau per un penya-segat mentre intenta escapar d'uns guàrdies que la segueixen; el vent i les flames fan que perdi el control i cau. Una flor blava misteriosa espurneja i, més tard, fa aparèixer una boira espessa que fa atemorir uns gats. Una nena volant en una escombra té por de caure perquè no la sap controlar i entra dins un núvol de tempesta. En una universitat, és rebuda per una dona que inicialment es presenta com un ésser aquàtic gegant, i els estudiants duen màscares tenebroses. Mentre intenta fer un encanteri, la nena crea sense voler un tornado que ho regira tot. Més tard, aquest ésser es torna a presentar davant seu per comunicar-li que han atrapat el seu amic. Quan torna a la universitat, ella és capturada i tancada junt amb el seu amic i uns animals transformats en monstres, atrapats en gàbies, que eventualment recuperen la seva forma original. Aquests animals etziben violentament una porta per escapar i ho destrossen tot. Més tard, el noi torna a ser atrapat. Ella torna a una casa i, en una dramàtica escena, parla amb una noia i una dona gran, que es preocupen per ella, per un mirall màgic. Una dona i unes criatures persegueixen i intenten sabotejar la nena, que torna a caure de l'escombra; té rascades a la mà i plora. Quan hi torna, el seu amic es troba en un recipient mentre li fan experiments, una mena de tubs aquàtics s'introdueixen dins seu. El recipient explota i la massa blava es descontrola, es fa grossa i ho ataca tot, mentre el noi fa esforços per treure el cap. La pel·lícula té una resolució positiva.<br><br>En un primer moment, la protagonista menteix sobre les seves habilitats o furta un objecte, cosa que, eventualment, li comporta conseqüències negatives."
   },
@@ -11905,7 +11905,7 @@
     "edat": "0",
     "orig": "TP",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Mascotes sapastres 1x01 - Arriben les mascotes més divertides",
@@ -11935,7 +11935,7 @@
     "imdb": "tt6470762",
     "csm": "movie-reviews/mazinger-z-infinity",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Violència freqüent, irreal, explícita, d'intensitat lleu, legitimada<br>Contingut sexual ocasional d'explicitació mitjana<br>Por i angoixa freqüent d'afectació mitjana",
     "mesinfo": "<b>Violència</b><br>Inclou freqüents escenes d'acció entre robots gegants, amb explosions, projectils, tirotejos, edificis destruïts, etc. Ocasionalment es veu sang: alguns homes es mostren amb ferides al cap, i alguns robots reben impactes més forts del normal a la boca. En una escena, hi ha un tiroteig, sense èxit, contra els protagonistes; una d'ells contraataca lluitant cos a cos contra els dolents. Un home ofereix a una dona de tenir un fill, i ella li etziba una bufetada, perquè ho ha dit públicament.<br><br><b>Sexe</b><br>De tant en tant, es fan primers plans breus, amb intenció cosificadora, de cossos femenins. En dues escenes, personatges femenins es presenten sacsejant els pits i el cul.<br><br><b>Por i angoixa</b><br>Vegeu 'Violència'."
   },
@@ -11996,7 +11996,7 @@
     "orig": "TP",
     "imdb": "tt10132918",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Millennium: els homes que no estimaven les dones (2011)",
@@ -12024,7 +12024,7 @@
     "edat": "7",
     "orig": "TP",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Missió Àrtic 1",
@@ -12094,7 +12094,7 @@
     "imdb": "tt23177868",
     "csm": "movie-reviews/mummies",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa",
     "mesinfo": "<b>Violència</b><br>L'antagonista a vegades es porta malament amb els seus ajudants: els fa xocar el cap o els dona calbots o bufetades. Un dolent dispara un dard tranquil·litzant a una noia per segrestar-la; després en dispara uns quants més als personatges que venen a rescatar-la. En una ocasió, els bons es defensen fent-los claus mestres que els llencen pels aires, i s'entén que un d'ells -una mascota cocodril- li mossega l'entrecuix a un home, tot de manera pretesament còmica. En una persecució final, el dolent dona cops de puny al protagonista i l'intenta escanyar.<br><br><b>Por i angoixa</b><br>Hi ha persecucions entre vehicles que ocasionalment provoquen la destrucció d'edificis, i situacions en què els protagonistes es troben en perill. En una cursa de cavalls, un home té un accident i surt disparat contra el terra, i des de llavors té por de conduir. Els herois són drogats amb dards tranquil·litzants, segrestats i encadenats per part del dolent; vegeu 'Violència'. S'entén que l'antagonista mor quan cau per un precipici durant la persecució final. Es fa sovint referència a l'amenaça que, si l'heroi perd un objecte valuosíssim, li tallaran la llengua i els ulls.<br><br><b>Llenguatge groller</b><br>Es fan servir ocasionalment insults com 'inútils', 'idiotes', 'imbècils' o 'estúpida', i es diu 'merda' una vegada.<br><br>La pel·lícula presenta una trama romàntica que dura de principi a fi, amb alguns petons a la boca i estereotips de gènere. També hi ha conductes incíviques en un context irreal, com quan un nen inutilitza unes càmeres de seguretat amb un esprai per poder-se colar a un edifici i salvar els seus amics."
   },
@@ -12104,7 +12104,7 @@
     "edat": "7",
     "orig": "TP",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Mòpies",
@@ -12113,7 +12113,7 @@
     "orig": "13",
     "imdb": "tt14878118",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Mòpies 1x01",
@@ -12150,7 +12150,7 @@
     "orig": "7",
     "imdb": "tt2857458",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Comportaments discriminatoris presentats de manera neutra",
     "mesinfo": "<b>Discriminació, racisme i xenofòbia</b><br>Múltiples personatges femenins són estereotipats per la seva aparença física, i reben comentaris indesitjats, encara que el relat els tracta com a incidentals perquè resulta que no anaven referits a elles. En una escena, un home li pregunta a una dona que acaba d'entrar 'què penses fer durant la resta de la teva vida', i ella respon 'agafar aquest esprai antivioladors'; al final de la pel·lícula, l'home acaba sortint amb ella després d'aplicar-li una droga que torna dòcil qui se l'administra. Un home gros i violent es torna -textualment- un 'primat efeminat' en el moment en què és drogat amb aquesta substància. Un home d'estatura baixa és anomenat 'senyor de joguina'. També, un altre personatge fa comentaris que insinuen que una parella de dos homes és antinatural.<br><br>Hi ha violència reiterada, irreal, no explícita, lleu i no legitimada, atès que múltiples personatges tenen accidents o reben agressions de naturalesa slapstick (es peguen, es tallen el nas, surten disparats contra parets, s'esclafen els dits, es peguen entre ells, reben cops de paella a la cara, cauen des d'una gran alçada, reben un impacte a la pelvis, s'electrocuten, s'ofeguen, es llencen ganivets, es disparen míssils i es destrueixen edificis...) durant gairebé tota la pel·lícula, sense provocar-los ferides greus i de manera còmica; a més, l'argument gira entorn a l'intent de realitzar un acte violent (penetrar el cul d'un protagonista amb la mà) per part d'un malvat al protagonista per venjança. Hi ha continguts sexuals freqüents d'explicitació baixa, en forma de dobles sentits (per exemple, quan s'al·ludeix a l'acte anteriorment descrit) i de sexualització de personatges femenins; destaca una escena en què s'hi mostra un pòster d'una dona en biquini, i un invident li grapeja accidentalment els pits. Hi ha llenguatge groller freqüent d'intensitat baixa (dit del mig, 'com el cul', 'tontada', 'no té pebrots', 'un parell d'ous', 'collonàstica', 'hosti', 'me càgon', 'colló', 'merda', 'caganer', 'cagat', 'n'estic fins a la punta de la cosa aquella', 'tarat', 'imbècil', 'capullo', 'mamó', 'te la foto', 'la clau l'hi ficaré jo a vostè però per un altre lloc', 'mare que et va parir', 'tita confitada'). Hi ha consum de drogues lícites (tabac i alcohol), presentat de manera neutra."
   },
@@ -12162,7 +12162,7 @@
     "imdb": "tt0113824",
     "csm": "movie-reviews/whisper-of-the-heart",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Consum de drogues lícites (tabac), presentat de manera negativa<br>Llenguatge groller ocasional d'intensitat baixa",
     "mesinfo": "<b>Drogues</b><br>Una mare, quan entra al lloc de treball del pare, diu: 'bufa, quina pudor de tabac'. Se'l veu fumar en dues ocasions; en la segona, s'encén un cigarret en presència de la seva filla i la mare li demana que l'apagui. Un home gran s'encén una pipa.<br><br><b>Llenguatge groller</b><br>Es diu 'idiota' fins a nou vegades, tot i que les set primeres es diuen consecutivament en una mateixa escena. Es diu 'burra' i 'burro' un cop cadascun.<br><br>Hi ha situacions ocasionals de por i angoixa d'afectació lleu: unes noies ploren després de conèixer una notícia; dues germanes discuteixen pel fet que una d'elles hagi decidit deixar els estudis; una noia té un malson on veu una pedra transformar-se en un pollet mort; es diu que una guerra va separar la vida de dos enamorats."
   },
@@ -12174,7 +12174,7 @@
     "imdb": "tt7745068",
     "csm": "movie-reviews/my-hero-academia-two-heroes",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Violència ocasional, versemblant, explícita, d'intensitat greu, no legitimada"
   },
   {
@@ -12185,7 +12185,7 @@
     "imdb": "tt11107074",
     "csm": "movie-reviews/my-hero-academia-heroes-rising",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Violència reiterada, irreal, explícita, d'intensitat greu, legitimada",
     "mesinfo": "<b>Violència</b><br>Hi ha incessants batalles entre personatges amb superpoders i involucrant explosions, rajos d'energia, atacs de foc, metralletes irreals, destrucció d'edificis i del terra, etc. Freqüentment, els atacs que infereixen dolents contra bons acaben amb ferides greus, que eventualment són curades, i l'aparició de sang. Hi ha una persecució de vehicles amb descarrilaments, atropellaments i explosions. Un dolent agafa persones pel cap i les hi estreny per robar-los el poder. Els herois tenen, sovint, sang al cap a causa de la violència, de ser enviats lluny i impactant contra parets o roques. Un atac frega la galta de l'heroi i li surt força sang, i després el fereixen al maluc. Es diu que un atac ha rebentat les costelles d'un heroi. Un dolent tus sang. Unes punxes impacten contra la cama d'una heroïna, li fan caure i impactar el cap contra unes roques, vessant-hi sang. Dos herois xoquen el cap i s'estan estesos a terra, vessant-hi sang. Un heroi intenta protegir uns nens i el fereixen als braços. Un dolent alça una nena i li pressiona el coll. Un atac superpoderós fa que els braços rebentin, surti sang i quedin abrasats. El malvat està molt malferit i s'arrossega per terra, deixant un rastre de sang.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa, com 'merda' o 'desgraciat'. Hi ha consum de tabac presentat de manera negativa."
   },
@@ -12197,7 +12197,7 @@
     "imdb": "tt13544716",
     "csm": "movie-reviews/my-hero-academia-world-heroes-mission",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Violència freqüent, irreal, molt explícita, d'intensitat greu, legitimada<br>Por i angoixa freqüent d'afectació alta",
     "mesinfo": "<b>Violència</b><br>Hi ha freqüents combats entre personatges amb superpoders, amb explosions, electrocutacions, incendis, tirotejos, cops de puny, fletxes, armes, atropellaments... Algunes escenes són cruents, provoquen hemorràgies abundants i es fa èmfasi en la sang. Per exemple, un dolent té una arma formada per fulles molt esmolades i travessen, freguen, i es claven, per tot el cos d'un dels herois, deixant-lo malferit per tot arreu, fins i tot a l'ull. Uns làsers travessen el cos d'un heroi per diverses zones, com el cap o les cames, i sagna profundament. També disparen a un noi i veiem com deixa un rastre de sang per les parets i pel terra mentre intenta fer passes, fins al punt que rellisca amb la seva pròpia sang, s'arrossega per terra i es dona per mort. L'heroi fa talls en els braços del dolent per rematar-lo. Claven una fletxa en el cos d'un noi i surt sang, també quan se l'arrenca per la força. En altres escenes, hi ha pànic entre la població, i un atemptat mostra com gent mor després de patir combustió espontània o provocar destrucció. Un malvat diu que va plantejar-se el suïcidi.<br><br><b>Por i angoixa</b><br>Vegeu 'Violència'.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa, com 'merda', 'merdosos' o 'idiota'. Hi ha conductes i valors incívics en forma d'actes criminals com atracaments o robatoris, presentats de manera negativa. Molt ocasionalment, es veu un bar on s'hi ofereixen i consumeixen begudes alcohòliques."
   },
@@ -12209,7 +12209,7 @@
     "imdb": "tt0409591",
     "csm": "tv-reviews/naruto",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Natura sàvia",
@@ -12234,7 +12234,7 @@
     "imdb": "tt0087544",
     "csm": "movie-reviews/nausicaa-of-the-valley-of-the-wind",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Violència freqüent, irreal, explícita, d'intensitat greu, no legitimada<br>Por i angoixa reiterada d'afectació mitjana",
     "mesinfo": "<b>Violència</b><br>Uns homes entren en una habitació i disparen a un home; quan se'l troba estès a terra, la seva filla comença a atacar indiscriminadament als soldats presents, qui apareixen morts i amb taques de sang. N'apunyala a un amb l'espasa a la mà i se li veu rajar sang. Hi ha moltes escenes de tirotejos entre naus aèries, tancs terrestres, pistoles i metralletes, i lluites d'espases entre exèrcits enemics, en un context fantasiós, i es veuen explosions, incendis, ferits, i morts. En una d'aquestes escenes, un home amenaça un soldat posant-li una espasa al coll. Un noi es fa amb una pistola per tal de coaccionar a uns homes i algú li dona un cop a l'esquena. Una nau porta penjant un insecte gegant que apareix mutilat, expulsant líquid per diverses ferides; els seus tripulants disparen contra una noia, impactant-li a l'espatlla i al peu, i perd sang. Tot i estar ocasionalment protagonitzada per personatges positius, la violència no es presenta legitimada atès que es mostra com a devastadora per al medi, i altera i torna agressives les criatures que hi conviuen.<br><br><b>Por i angoixa</b><br>Es fan al·lusions a la mort de forma reiterada; les escenes descrites a 'Violència' van acompanyades d'una tensió que no cessa pràcticament en cap moment, atès que l'amenaça de mort és present durant tota la pel·lícula. Es parla d'un aire contaminat provocat per l'antiga activitat humana, que entra als pulmons i és letal, que podria estendre's al poble on viuen. Una nau té un accident i es veuen alguns cadàvers incinerats. Es veuen imatges de pobles arrasats. Unes criatures terrorífiques gegants similars a insectes amb molts ulls hi són sempre presents i persegueixen constantment als protagonistes quan se senten amenaçats. Diversos vilatans fugen, acaben com a ostatges i es mostren espantats mentre observen el que a ells els sembla la fi del món. Vora el final, emergeix de terra un monstre enorme, però que es va desintegrant ràpidament i cau literalment a trossos, revelant inclús òrgans interns.<br><br>Hi ha llenguatge groller freqüent d'intensitat baixa ('imbècils', 'merda', 'fot', 'idiotes', 'burro', 'desgraciats')."
   },
@@ -12297,7 +12297,7 @@
     "imdb": "tt1856053",
     "csm": "movie-reviews/little-brother-big-trouble-a-christmas-adventure",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Por i angoixa freqüent d'afectació lleu<br>Conductes i valors incívics amb sanció negativa"
   },
   {
@@ -12654,7 +12654,7 @@
     "edat": "0",
     "orig": "TP",
     "peli": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Núñez",
@@ -12722,7 +12722,7 @@
     "edat": "7",
     "orig": "TP",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "On era Mazón? (2025)",
@@ -12757,7 +12757,7 @@
     "imdb": "tt0388629",
     "csm": "tv-reviews/one-piece",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "One Piece 1x01",
@@ -12900,7 +12900,7 @@
     "imdb": "tt9430698",
     "csm": "movie-reviews/one-piece-stampede",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Consum de drogues lícites (tabac, alcohol), presentades de manera positiva",
     "mesinfo": "<b>Drogues</b><br>Diversos personatges es mostren fumant de forma reiterada, sigui una cigarreta, un cigar o dos cigars alhora. Alguns també tenen begudes alcohòliques, i se'n fan comentaris en positiu ('segur que hi ha licors dels bons').<br><br>Hi ha violència freqüent, irreal, explícita, d'intensitat lleu i legitimada, formada bàsicament per combats entre personatges amb superpoders i explosions, espases, cops de puny màgics, puntades de peu en flames, forats a terra, canons, amenaces de mort, etc. De tant en tant, aquesta violència comporta l'aparició de sang, com quan uns nois perden el coneixement i les forces i estan estesos a terra, però sense ferides greus. Aquestes escenes també porten associada certa tensió o angoixa, ja que el dolent principal ho arrasa tot i es transforma en un monstre gegant. Hi ha llenguatge groller freqüent d'intensitat baixa, amb expressions com 'merda', 'idiota', 'fotre', 'estúpid', 'malparit' o 'desgraciat'. Diversos personatges femenins estan sexualitzats; alguns d'ells es presenten per primer cop a l'espectador amb primers plans del seu cos."
   },
@@ -12912,7 +12912,7 @@
     "imdb": "tt16183464",
     "csm": "movie-reviews/one-piece-film-red",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Violència ocasional, versemblant, explícita, d'intensitat greu, no legitimada",
     "mesinfo": "<b>Violència</b><br>Hi ha violència freqüent, irreal, no explícita, lleu i legitimada. No obstant això, destaquen dues escenes especialment cruents, on disparen a un home i mor dessagnat, i on apunyalen gràficament a un altre home.<br><br>Hi ha por i angoixa freqüent d'afectació mitjana, llenguatge groller freqüent d'intensitat baixa, consum de drogues lícites presentat de manera negativa, i una referència sexual d'explicitació baixa, en relació amb un personatge femení secundari presentat de manera sexualitzada durant tota la pel·lícula."
   },
@@ -12936,7 +12936,7 @@
     "imdb": "tt4677846",
     "csm": "tv-reviews/lost-in-oz",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Persona infiltrada",
@@ -12960,7 +12960,7 @@
     "orig": "TP",
     "imdb": "tt2826774",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada<br>Por i angoixa freqüent d'afectació lleu<br>Conductes i valors incívics amb sanció negativa"
   },
   {
@@ -13052,7 +13052,7 @@
     "edat": "7",
     "orig": "TP",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Polinòpolis 1x01",
@@ -13271,7 +13271,7 @@
     "edat": "0",
     "orig": "TP",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Porco Rosso (1992)",
@@ -13281,7 +13281,7 @@
     "imdb": "tt0104652",
     "csm": "movie-reviews/porco-rosso",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Violència ocasional, irreal, explícita, d'intensitat lleu, legitimada<br>Consum de drogues lícites (tabac, alcohol), presentat de manera neutra<br>Llenguatge groller freqüent d'intensitat baixa",
     "mesinfo": "<b>Violència</b><br>Hi ha algunes escenes de tirotejos i batalles campals entre pirates a bord d'hidroavions o bé per part de la policia, amb armes de foc i explosions utilitzades per a intimidar, sense impactar mai contra ningú. En destaca, però, una escena prolongada al final en què dos personatges, inclòs el protagonista, es queden sense munició en els avions i acaben barallant-se cos a cos, llençant-se objectes i donant-se cops de puny en diverses parts del cos, i se'ls veu malferits amb bonys i rascades per tota la cara. La violència en aquesta pel·lícula té un to desenfadat, fantasiós i còmic.<br><br><b>Drogues</b><br>Diversos personatges, inclòs el protagonista, consumeixen freqüentment tabac i begudes alcohòliques sense que el relat ho sancioni i sense que cap d'ells en manifesti algun efecte negatiu o positiu.<br><br><b>Llenguatge groller</b><br>Es fan servir sovint insults de poca intensitat, com 'imbècil', 'beneit', 'rucs' i expressions com 'ja en tinc els nassos plens' o 'fot-li!'. Vegeu també el paràgraf següent.<br><br>Hi ha situacions de discriminació sancionades negativament pel relat quan el protagonista fa comentaris masclistes i en un primer moment es mostra contrari al fet que un equip format completament per dones li dissenyi i construeixi un avió. Alguns d'aquests comentaris inclouen al·lusions sexuals quan, per exemple, es parla de la mida del cul d'una noia. Hi ha situacions ocasionals de por i angoixa d'afectació lleu per les escenes violentes descrites anteriorment i també per una escena retrospectiva on uns pilots volen inconscientment cap al cel representant que han mort."
   },
@@ -13292,7 +13292,7 @@
     "orig": "TP",
     "imdb": "tt14872744",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Presto! L'escola de màgia 1",
@@ -13387,7 +13387,7 @@
     "imdb": "tt2580046",
     "csm": "tv-reviews/miraculous-tales-of-ladybug-cat-noir",
     "serie": true,
-    "x3": true,
+    "sx3": true,
     "disney": true,
     "netflix": true,
     "misc": true
@@ -13433,7 +13433,7 @@
     "edat": "10",
     "orig": "TP (prèviament: RI)",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Projecte Beta 1x01",
@@ -14068,7 +14068,7 @@
     "imdb": "tt4282970",
     "csm": "tv-reviews/four-and-a-half-friends",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Què deu ser?",
@@ -14076,7 +14076,7 @@
     "edat": "0",
     "orig": "TP",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Què deu ser? 1x01 - Gran",
@@ -14094,7 +14094,7 @@
     "edat": "10",
     "orig": "7 (prèviament: 10) (prèviament a la seva primera emissió: 12)",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Ranma",
@@ -14103,7 +14103,7 @@
     "orig": "13",
     "imdb": "tt0096686",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Ranma 1",
@@ -14131,7 +14131,7 @@
     "imdb": "tt4212188",
     "csm": "tv-reviews/robin-hood-mischief-in-sherwood",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Robby, Toby i el viatge fantàstic (2016)",
@@ -14140,7 +14140,7 @@
     "orig": "TP",
     "imdb": "tt5700626",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada<br>Llenguatge groller ocasional d'intensitat alta",
     "mesinfo": "<b>Violència</b><br>El protagonista pateix assetjament escolar, i hi ha escenes en què li disparen pilotes de paintball, el llencen a les escombraries o l'insulten. Hi ha una altra escena, presentant la violència en positiu però amb intencionalitat còmica, en què una dona es baralla amb una colla de motoristes.<br><br><b>Llenguatge groller</b><br>Un noi fa servir expressions com 'fotre', 'acollonir' o 'cagar a les calces' en una sola escena, agreujades per tenir intencionalitat ofensiva i algunes per la seva naturalesa sexista. També se'n senten d'altres durant la pel·lícula, que el protagonista menor fa servir, com 'merda'.<br><br>Hi ha situacions freqüents de por i angoixa amb una afectació lleu, ja que el protagonista està sovint en perill. També es mostren conductes i valors incívics presentats de manera negativa, com quan el protagonista amaga als seus pares que pateix assetjament."
   },
@@ -14152,7 +14152,7 @@
     "imdb": "tt3503520",
     "csm": "tv-reviews/ronja-the-robbers-daughter",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Ronja, la filla del bandoler 1x01",
@@ -14316,7 +14316,7 @@
     "edat": "7",
     "orig": "TP (prèviament: 7)",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Ruta 40. Viatjant amb Catalunya Ràdio",
@@ -14346,7 +14346,7 @@
     "orig": "TP",
     "imdb": "tt14872744",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Sala polivalent",
@@ -14420,7 +14420,7 @@
     "imdb": "tt0221735",
     "comp": "tv-reviews/cardcaptor-sakura",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Sakura, la caçadora de cartes: Les cartes transparents",
@@ -14429,7 +14429,7 @@
     "orig": "7",
     "imdb": "tt6279576",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
     {
     "titol": "Sam Fox: aventures extremes",
@@ -14438,7 +14438,7 @@
     "orig": "TP",
     "imdb": "tt3852258",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Sam Fox: aventures extremes 1x01",
@@ -14603,7 +14603,7 @@
     "orig": "TP",
     "imdb": "tt15498808",
     "serie": true,
-    "x3": true,
+    "sx3": true,
     "clan": true,
     "misc": true
   },
@@ -14861,7 +14861,7 @@
     "orig": "10",
     "imdb": "tt5660604",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Sense sortida 1x01",
@@ -14994,7 +14994,7 @@
     "imdb": "tt14644726",
     "csm": "tv-reviews/silverpoint",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Sistema solar",
@@ -15029,7 +15029,7 @@
     "edat": "7",
     "orig": "TP",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Siyaya. Veniu a explorar 1x01 - A la recerca dels Set Grans (1a part): El jardí de l'Edèn",
@@ -15155,7 +15155,7 @@
     "edat": "0",
     "orig": "TP",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Star contra las fuerzas del mal",
@@ -15175,7 +15175,7 @@
     "imdb": "tt1910272",
     "csm": "tv-reviews/steinsgate",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Steins;Gate 0",
@@ -15184,7 +15184,7 @@
     "orig": "13",
     "imdb": "tt5514358",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "STEM a Mart: Missió Hypatia",
@@ -15192,7 +15192,7 @@
     "edat": "0",
     "orig": "TP",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Steven Universe",
@@ -15212,7 +15212,7 @@
     "imdb": "tt11313068",
     "csm": "tv-reviews/spirit-riding-free-spirit-of-christmas",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Por i angoixa ocasional d'afectació lleu"
   },
   {
@@ -15223,7 +15223,7 @@
     "imdb": "tt8028842",
     "csm": "movie-reviews/spycies",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Violència freqüent, irreal, explícita, d'intensitat lleu, legitimada",
     "mesinfo": "<b>Violència</b><br>Hi ha una persecució, amb edificis enfonsant-se, atropellaments i crits. Dos personatges discuteixen, es barallen físicament i un intenta donar-li un cop de puny. Els herois lluiten contra drons que treuen rajos làser, hi ha tot d'explosions, trets i tensió. L'heroi fa esnifar un somnífer al seu company. Un dolent congela un personatge amb una arma, i es tem per la seva vida; se l'intenta reviure amb un desfibril·lador. Es disparen tranquil·litzants per intentar aturar un drac fora de control. Bufetegen un personatge fins que es desperta. El dolent torna a aparèixer i intenta glaçar l'heroi i aturar-lo llençant-li objectes voluminosos a sobre; es barallen, hi ha tirotejos, cops de puny i es llencen contra la paret. En una altra batalla, tots lluiten entre ells: l'heroi esgarrapa a l'ull, dona cops de puny i fa cruixir els braços d'uns dolents; el malvat fa servir la seva arma de congelació i llença a la gent contra el terra. Hi ha més moments de tensió quan es creu que gent propera a alguns personatges mor.<br><br>Hi ha algunes actituds incíviques, contextualitzades, com quan el protagonista és arrogant amb el seu company, menteix sobre la seva identitat o juga amb un extintor per poder anar més de pressa. Hi ha llenguatge groller ocasional d'intensitat baixa, com 'estúpid' o 'burro'. Es veuen begudes alcohòliques breument en una ocasió, però no es consumeixen."
   },
@@ -15234,7 +15234,7 @@
     "orig": "TP",
     "imdb": "tt33344070",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Súper 4",
@@ -15243,7 +15243,7 @@
     "orig": "TP",
     "imdb": "tt3949728",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Súper 4 1x01",
@@ -15403,7 +15403,7 @@
     "imdb": "tt14432384",
     "csm": "tv-reviews/theodosia",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Theodosia 1",
@@ -15569,7 +15569,7 @@
     "imdb": "tt1241721",
     "csm": "movie-reviews/legends-of-valhalla-thor",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, legitimada<br>Comentaris sexuals ocasionals d'explicitació baixa<br>Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
@@ -15578,7 +15578,7 @@
     "edat": "7",
     "orig": "RI (prèviament: TP)",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Tik Tak Factory 1x01 - Fantasia",
@@ -15600,7 +15600,7 @@
     "orig": "TP",
     "imdb": "tt6299366",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Conductes i valors incívics amb sanció negativa",
     "mesinfo": "<b>Conductes i valors incívics</b><br>Durant la pel·lícula es donen missatges mixtes sobre dir la veritat o comportar-se cívicament. Per exemple, un home fantasiós, qui s'havia compromès a ser benevolent amb altri, descobreix un noi robant en una paradeta, li diu que això no està bé i rep un insult com a resposta, i ell intenta atrapar-lo, té un accident i tota la gent del seu voltant se'n riu d'ell, i tot plegat fa que juri venjar-se contra aquells que s'ha portat malament amb ell. A més, la protagonista menteix en alguna ocasió per ocultar alguna malifeta. No obstant això, el missatge final és de sanció negativa sobre aquestes conductes.<br><br>Hi ha situacions ocasionals de por i angoixa lleu i al·lusions violentes molt lleus, com quan un home és capturat i ridiculitzat per la seva aparença física, és amenaçat d'agressió i és tancat en unes masmorres, i també quan un príncep diu que els seus pares van morir ofegats intentant ajudar a un nen feble de salut. Es fan freqüents discussions en relació amb l'existència o no de personatges com el Pare Noel, com quan una àvia es disfressa per donar regals al germà de la protagonista, i es diu explícitament que són contes per il·lusionar als nens petits. Hi ha llenguatge groller d'intensitat molt lleu ('penjat', 'carallot', 'ximple', 'sonat', 'coi', 'me!'). Hi ha un moment en què una amiga de la protagonista li pregunta si li té mania perquè 'els seus pares són de fora'; respon negativament."
   },
@@ -15610,7 +15610,7 @@
     "edat": "7",
     "orig": "TP",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Top or fail 1",
@@ -15733,7 +15733,7 @@
     "imdb": "tt1734135",
     "csm": "tv-reviews/trollhunters",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Truca quan arribis",
@@ -15852,7 +15852,7 @@
     "imdb": "tt8526988",
     "csm": "tv-reviews/total-dramarama",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Un dramarama total 1x01 - El conducte de la felicitat",
@@ -15880,7 +15880,7 @@
     "imdb": "tt21212028",
     "csm": "tv-reviews/xavier-riddle-and-the-secret-movie-i-am-madam-president",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Por i angoixa ocasional d'afectació lleu"
   },
   {
@@ -15904,7 +15904,7 @@
     "edat": "7",
     "orig": "TP",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Kóreo gala 1",
@@ -15992,7 +15992,7 @@
     "orig": "7",
     "imdb": "tt14033496",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Vicky, el viking",
@@ -16002,7 +16002,7 @@
     "imdb": "tt3072988",
     "csm": "tv-reviews/vic-the-viking",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Vinagreta",
@@ -16152,7 +16152,7 @@
     "orig": "TP",
     "imdb": "tt18327948",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Vull ser popu 1x01 - Escola nova, començament nou",
@@ -16189,7 +16189,7 @@
     "orig": "TP",
     "imdb": "tt4168022",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, legitimada<br>Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa",
     "mesinfo": "<b>Violència</b><br>Diferents monstres, tant bons com dolents, s'esbatussen entre ells mitjançant cops, martellets de joguina, llamps elèctrics o explosions. Majoritàriament, ningú no surt ferit perquè alguns monstres simplement desapareixen en tocar-los, però el combat de la segona part de la pel·lícula és més prolongat i intens. Un dels bons és segrestat i amenaçat de morir cremat, de forma còmica. Hi ha una escena de violència versemblant, que es repeteix alguns cops, en què uns abusananos peguen un nen a terra, de forma no explícita, i ell s'enfada amb el seu amic perquè ha presenciat l'agressió i no l'ha ajudat. En una breu escena d'una sèrie de televisió, se senten trets i es veu una pistola, però no succeeix res més. Hi ha moments en què els monstres bons amics del protagonista són trepitjats o atropellats de forma còmica.<br><br><b>Por i angoixa</b><br>A més de les escenes de violència més tenses del final, hi ha moments en què veiem persones posseïdes, amb el rostre negre i ulls vermells, que atemoreixen els protagonistes, o quan creuen que algú els vigila. Tanmateix, en aquests casos qualsevol tensió sol ser breu i tallada ràpidament per situacions còmiques. Un dels monstres dolents té un aspecte de cara humana amb arrugues molt detallades; al final, aquest es transforma en un ésser més gros que provoca un esfondrament i tothom ha de fugir.<br><br><b>Llenguatge groller</b><br>Es diu 'fotre' ('no fotis', 'et fotré un bon crit') i 'idiotes'. També s'empren expressions com 'vell xaruc' o 'marrec', i bromes de naturalesa escatològica, concretament de fer pets i de tenir un tap al cul. En una escena, s'insinua que el fet de tenir capa de superheroi farà que totes les noies estiguin 'boges' per ell."
   },
@@ -16209,7 +16209,7 @@
     "edat": "7",
     "orig": "TP",
     "peli": true,
-    "x3": true,
+    "sx3": true,
     "raons": "Llenguatge groller ocasional d'intensitat baixa",
     "mesinfo": "<b>Llenguatge groller</b><br>En una ocasió, se senten cançons que utilitzen expressions com 'prendre pel sac' o 'merda'."
   },
@@ -16220,7 +16220,7 @@
     "orig": "13",
     "imdb": "tt3957196",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Yu Yu Hakusho: Els defensors del més enllà",
@@ -16230,7 +16230,7 @@
     "imdb": "tt0185133",
     "csm": "tv-reviews/yu-yu-hakusho",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "Zenit",
@@ -16254,7 +16254,7 @@
     "orig": "7",
     "imdb": "tt6185118",
     "serie": true,
-    "x3": true
+    "sx3": true
   },
   {
     "titol": "ZombieLars 1x01",
