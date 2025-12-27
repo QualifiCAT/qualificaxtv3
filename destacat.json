@@ -1,5 +1,14 @@
 [
    {
+    "titol": "Manduka Duo<br><small>un episodi</small>",
+    "codi": "Manduka Duo##",
+    "edat": "7",
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "sx3": true
+   },
+   {
     "titol": "Concert<br><small>comiat Stay Homas</small>",
     "codi": "Concert comiat Stay Homas",
     "edat": "10",
@@ -51,15 +60,5 @@
     "orig": "TP",
     "peli": true,
     "sx3": true
-   },
-   {
-    "titol": "Vacunes, anem enrere?",
-    "codi": "Vacunes, anem enrere",
-    "edat": "7",
-    "por": true,
-    "incivisme": true,
-    "orig": "TP",
-    "peli": true,
-    "3cat": true
    }
 ]
