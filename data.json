@@ -11507,6 +11507,21 @@
     "raons": "Referència a l'abús de drogues lícites (alcohol), presentat de manera neutra"
   },
   {
+    "titol": "Manduka Duo",
+    "codi": "manduka-duo",
+    "edat": "7",
+    "orig": "TP",
+    "serie": true,
+    "sx3": true
+  },
+  {
+    "titol": "Manduka Duo 1x01 - Neules farcides de xou",
+    "codi": "6377536",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'idiota', 'cagar-la', 'hòstia', 'va parir' i 'fot-li' algunes vegades cadascuna."
+  },
+  {
     "titol": "Manduka family",
     "codi": "manduka-family",
     "edat": "7",
