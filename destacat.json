@@ -1,5 +1,14 @@
 [
    {
+    "titol": "Joan Dausà: la gran bogeria",
+    "codi": "La gran bogeria",
+    "edat": "13",
+    "llenguatge": true,
+    "orig": "TP",
+    "peli": true,
+    "tv3": true
+   },
+   {
     "titol": "Manduka Duo<br><small>un episodi</small>",
     "codi": "Manduka Duo##",
     "edat": "7",
@@ -47,18 +56,5 @@
     "orig": "16",
     "peli": true,
     "tv3": true
-   },
-   {
-    "titol": "Cher Ami",
-    "codi": "Cher Ami",
-    "edat": "7",
-    "violencia": true,
-    "sexe": true,
-    "por": true,
-    "drogues": true,
-    "llenguatge": true,
-    "orig": "TP",
-    "peli": true,
-    "sx3": true
    }
 ]
