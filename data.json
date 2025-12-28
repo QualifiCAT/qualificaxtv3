@@ -6,7 +6,7 @@
     "orig": "13 (abans de l'emissió, va constar com a: TP)",
     "serie": true,
     "tv3": true,
-    "33": true,
+    "33": true,"
     "misc": true
   },
   {
@@ -2321,7 +2321,7 @@
     "peli": true,
     "tv3": true,
     "raons": "Al·lusions al consum de drogues lícites (alcohol), presentat de manera neutra<br>Llenguatge groller ocasional d'intensitat alta",
-    "mesinfo": "<b>Drogues</b><br>Es fan al·lusions ocasionals a begudes alcohòliques presentat-ne el consum de manera irreflexiva ('teteo de mojito', 'algú porta una birra', 'el tonteo provocat pel ron', 'al bar Manolo hi ha cervesa per a tothom', 'vas amb ressaca al partit' repetit diverses vegades, 'enyoro els matins de ressaca després d'una festa', 'que toca vermutet').<br><br><b>Llenguatge groller</b><br>En una cançó es repeteix 'seria una putada', i en una altra, es diu 'al puto infern'. També es diu 'merda' i 'que te cagas'.<br><br>Hi ha al·lusions sexuals ocasionals d'explicitació baixa ('fer l'amor', 'el teu culet pom pom', 'busco una gata per donar-li tonteo, baby passarem a l'atac', 'en el club ho fem easy', 'anem a alliberar tota la tarda la nostra endorfina')."
+    "mesinfo": "<b>Drogues</b><br>Es fan al·lusions ocasionals a begudes alcohòliques presentant-ne el consum de manera irreflexiva ('teteo de mojito', 'algú porta una birra', 'el tonteo provocat pel ron', 'al bar Manolo hi ha cervesa per a tothom', 'vas amb ressaca al partit' repetit diverses vegades, 'enyoro els matins de ressaca després d'una festa', 'que toca vermutet').<br><br><b>Llenguatge groller</b><br>En una cançó es repeteix 'seria una putada', i en una altra, es diu 'al puto infern'. També es diu 'merda' i 'que te cagas'.<br><br>Hi ha al·lusions sexuals ocasionals d'explicitació baixa ('fer l'amor', 'el teu culet pom pom', 'busco una gata per donar-li tonteo, baby passarem a l'atac', 'en el club ho fem easy', 'anem a alliberar tota la tarda la nostra endorfina')."
   },
   {
     "titol": "Concert comiat Stay Homas",
@@ -2331,7 +2331,7 @@
     "peli": true,
     "tv3": true,
     "raons": "Al·lusions al consum de drogues lícites (alcohol, tabac), presentat de manera neutra<br>Llenguatge groller ocasional d'intensitat alta",
-    "mesinfo": "<b>Drogues</b><br>Es fan al·lusions ocasionals a begudes alcohòliques presentat-ne el consum de manera irreflexiva ('cervecita, cukileo, chaval', 'no queda sangria', 'un altre xupito d'absenta', 'I wanna get drunk with my best friends', 'tardeo de mojito', 'cervesa i solecito'), i al tabac amb una menció neutra i negativa cadascuna ('i sortim a fumar si tu m'acompanyes, tu i jo, tu i jo', 'deixar de fumar... ho tinc pendent').<br><br><b>Llenguatge groller</b><br>Es diu 'puto' dos cops. També es diu 'merdes' i 'joder' amb relativa freqüència.<br><br>Hi ha al·lusions sexuals ocasionals d'explicitació baixa ('d'aquí a nou mesos hi haurà un baby boom', 'fer l'amor')."
+    "mesinfo": "<b>Drogues</b><br>Es fan al·lusions ocasionals a begudes alcohòliques presentant-ne el consum de manera irreflexiva ('cervecita, cukileo, chaval', 'no queda sangria', 'un altre xupito d'absenta', 'I wanna get drunk with my best friends', 'tardeo de mojito', 'cervesa i solecito'), i al tabac amb una menció neutra i negativa cadascuna ('i sortim a fumar si tu m'acompanyes, tu i jo, tu i jo', 'deixar de fumar... ho tinc pendent').<br><br><b>Llenguatge groller</b><br>Es diu 'puto' dos cops. També es diu 'merdes' i 'joder' amb relativa freqüència.<br><br>Hi ha al·lusions sexuals ocasionals d'explicitació baixa ('d'aquí a nou mesos hi haurà un baby boom', 'fer l'amor')."
   },
   {
     "titol": "Conde & Fonde",
@@ -8392,6 +8392,16 @@
     "edat": "18",
     "raons": "Abús de drogues lícites (alcohol) i consum de drogues il·lícites (marihuana, cocaïna), presentat de manera neutra",
     "mesinfo": "<b>Drogues</b><br>Hi ha una escena en què uns nois -alguns d'ells, menors d'edat- s'escapen d'una casa de colònies i van de festa amb uns desconeguts, que condueixen per anar a una discoteca, on abusen de l'alcohol i s'inciten entre ells a tastar el que sembla ser cocaïna. No es mostren efectes negatius derivats directament del consum d'aquestes substàncies, més enllà d'un relatiu malestar i d'un agreujament dels problemes mentals d'una companya amb pensaments autodestructius. Només són renyats per part de la protagonista pel fet d'haver marxat de casa, no per haver-se drogat o 'emborratxat', i els demana que 'no en diguin res' als seus pares. Aquest personatge, a més, apareix fumant un porro en una escena intermèdia, diluint qualsevol possible lliçó que els pugui donar i donant un missatge normalitzador de les drogues en els joves, reforçat també per les escenes introduint els continguts del segon episodi, on els nois que han pres les drogues apareixen en perfecte estat.<br><br>Hi ha continguts sexuals freqüents d'explicitació mitjana, en forma d'escenes de sexe sense genitals visibles i de referències i insinuacions verbals. Hi ha llenguatge groller reiterat d'intensitat alta. Hi ha conductes i valors incívics presentats de manera neutra. Hi ha escenes ocasionals de por i angoixa d'afectació mitjana per una escena en què una noia puja a una gran alçada i fa comentaris com si estigués contemplant suïcidar-se."
+  },
+  {
+    "titol": "Jo mai mai, Joan Dausà al Palau Sant Jordi (concert) (v. TV3)",
+    "codi": "6376809",
+    "edat": "10",
+    "orig": "TP",
+    "peli": true,
+    "tv3": true,
+    "raons": "Al·lusions al consum de drogues lícites (alcohol), presentat de manera neutra<br>Llenguatge groller ocasional d'intensitat alta",
+    "mesinfo": "Nota: S'ha analitzat el concert tal qual es va emetre per TV3. A la plataforma 3Cat, hi existeix una versió de més durada.<br><br><b>Drogues</b><br>Es fan al·lusions ocasionals a begudes alcohòliques presentant-ne el consum de manera neutra, quan el cantant anima el públic a jugar al 'jo, mai mai' però sense 'tequila' perquè no en tenen per a tothom, i animant la parella sortint a què surti 'a fer una birra', així com en la lletra d'algunes cançons ('em dona el cava', 'vull provar aquest vi... hi ha gintònics també', 'entre birres', 'amb el vi que t'agradava', 'surt volant el tap del cava').<br><br><b>Llenguatge groller</b><br>Es crida 'puto Héctor' dues vegades per part del públic i dos cops més per part del cantant quan sona la cançó 'Jo mai mai'. En altres ocasions, el cantant també diu 'joder!', 'això és la puta bomba', 'cabrona' i 'no us cagueu'.<br><br>Hi ha situacions de por i angoixa ocasionals d'afectació lleu, per al·lusions violentes i a la mort en la lletra d'algunes cançons."
   },
   {
     "titol": "Jo, Elvis Riboldi",
