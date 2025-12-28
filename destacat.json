@@ -1,5 +1,15 @@
 [
    {
+    "titol": "Manduka Duo<br><small>2 episodis</small>",
+    "codi": "Manduka Duo##",
+    "edat": "7",
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true,
+    "sx3": true
+   },
+   {
     "titol": "Concert<br><small>Jo mai mai, Joan Dausà al Palau Sant Jordi</small>",
     "codi": "Jo mai mai, Joan Dausà",
     "edat": "10",
@@ -17,16 +27,6 @@
     "orig": "TP",
     "peli": true,
     "tv3": true
-   },
-   {
-    "titol": "Manduka Duo<br><small>un episodi</small>",
-    "codi": "Manduka Duo##",
-    "edat": "7",
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true,
-    "sx3": true
    },
    {
     "titol": "Concert<br><small>comiat Stay Homas</small>",
