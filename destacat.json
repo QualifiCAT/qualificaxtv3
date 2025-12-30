@@ -1,5 +1,14 @@
 [
    {
+    "titol": "Concert<br><small>d'Oques Grasses al Palau Sant Jordi</small>",
+    "codi": "Concert d&apos;Oques Grasses",
+    "edat": "10",
+    "llenguatge": true,
+    "orig": "TP",
+    "peli": true,
+    "tv3": true
+   },
+   {
     "titol": "El monòleg de l'any<br><small>(2025) Edició De Lux</small>",
     "codi": "El monòleg de l'any##",
     "edat": "10",
@@ -45,16 +54,6 @@
     "llenguatge": true,
     "orig": "TP",
     "peli": true,
-    "tv3": true
-   },
-   {
-    "titol": "Nits sense ficció<br><small>Canet Rock, abans que surti el sol</small>",
-    "codi": "Nits sense ficció##",
-    "edat": "13",
-    "drogues": true,
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
     "tv3": true
    }
 ]
