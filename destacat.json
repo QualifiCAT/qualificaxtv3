@@ -1,6 +1,6 @@
 [
    {
-    "titol": "Concert<br><small>d'Oques Grasses al Palau Sant Jordi</small>",
+    "titol": "Concert<br><small>Oques Grasses al Palau Sant Jordi</small>",
     "codi": "Concert d&apos;Oques Grasses",
     "edat": "10",
     "llenguatge": true,
@@ -9,8 +9,8 @@
     "tv3": true
    },
    {
-    "titol": "El monòleg de l'any<br><small>(2025) Edició De Lux</small>",
-    "codi": "El monòleg de l'any##",
+    "titol": "El monòleg de l'any<br><small>Edició De Lux</small>",
+    "codi": "El monòleg de l&apos;any##",
     "edat": "10",
     "llenguatge": true,
     "orig": "TP",
