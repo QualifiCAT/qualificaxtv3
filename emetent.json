@@ -17,18 +17,16 @@
   {
     "titol": "Vinagreta",
     "edat": "13",
-    "orig": "7",
-    "novetat": true
-  },
-  {
-    "titol": "La Renaixença",
-    "edat": "13",
-    "orig": "TP",
-    "novetat": true
+    "orig": "7"
   },
   {
     "titol": "Joc de cartes",
     "edat": "13",
+    "orig": "TP"
+  },
+  {
+    "titol": "Eufòria",
+    "edat": "10",
     "orig": "TP"
   },
   {
@@ -49,8 +47,7 @@
   {
     "titol": "Fuet",
     "edat": "10",
-    "orig": "TP",
-    "novetat": true
+    "orig": "TP"
   },
   {
     "titol": "Els barrufets 3D",
