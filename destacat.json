@@ -1,5 +1,15 @@
 [
    {
+    "titol": "Fanzone<br><small>un episodi</small>",
+    "codi": "Fanzone##",
+    "edat": "10",
+    "drogues": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+   },
+   {
     "titol": "Concert<br><small>Oques Grasses al Palau Sant Jordi</small>",
     "codi": "Concert d&apos;Oques Grasses",
     "edat": "10",
@@ -41,16 +51,6 @@
     "titol": "Joan Dausà: la gran bogeria",
     "codi": "La gran bogeria",
     "edat": "13",
-    "llenguatge": true,
-    "orig": "TP",
-    "peli": true,
-    "tv3": true
-   },
-   {
-    "titol": "Concert<br><small>comiat Stay Homas</small>",
-    "codi": "Concert comiat Stay Homas",
-    "edat": "10",
-    "drogues": true,
     "llenguatge": true,
     "orig": "TP",
     "peli": true,
