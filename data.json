@@ -5362,6 +5362,21 @@
     "sx3": true
   },
   {
+    "titol": "Fanzone",
+    "codi": "fanzone",
+    "edat": "10",
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Fanzone 1x01 - Cata Coll, Diana Gómez, Íñigo Martínez",
+    "codi": "6379779",
+    "edat": "10",
+    "raons": "Al·lusions al consum de drogues lícites (alcohol), presentat de manera neutra<br>Llenguatge groller ocasional d'intensitat alta",
+    "mesinfo": "<b>Drogues</b><br>Es fan al·lusions al consum d'alcohol: una convidada diu que li agrada fer birres amb amics, ensenya unes 'birretes' que té tatuades i l'entrevistador fa unes afirmacions complaents: 'clar que sí'. També es fa una al·lusió fugaç a 'fer un piti'.<br><br><b>Llenguatge groller</b><br>Una persona d'un grup presentat com a 'Can Putades' fa servir la paraula 'putada'. També es fa servir llenguatge groller amb intensitat baixa: 'fot-li', 'cul i merda', 'cony', 'hosti' o 'collons'.<br><br>Hi ha continguts sexuals ocasionals d'explicitació baixa, per dir que unes mides són com les del Nacho Vidal (sense dir qui és), i per fer servir la paraula 'sexi'."
+  },
+  {
     "titol": "Faraday",
     "codi": "faraday",
     "edat": "0",
