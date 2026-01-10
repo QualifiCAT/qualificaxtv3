@@ -15,6 +15,11 @@
     "orig": "10"
   },
   {
+    "titol": "Està passant",
+    "edat": "13",
+    "orig": "TP"
+  },
+  {
     "titol": "Joc de cartes",
     "edat": "13",
     "orig": "TP"
@@ -26,11 +31,6 @@
   },
   {
     "titol": "Eufòria",
-    "edat": "10",
-    "orig": "TP"
-  },
-  {
-    "titol": "Atrapa&apos;m si pots",
     "edat": "10",
     "orig": "TP"
   },
