@@ -40,11 +40,6 @@
     "orig": "7"
   },
   {
-    "titol": "One Piece",
-    "edat": "13",
-    "orig": "10"
-  },
-  {
     "titol": "Fuet",
     "edat": "10",
     "orig": "TP"
@@ -63,6 +58,11 @@
   },
   {
     "titol": "Lucky Fred",
+    "edat": "7",
+    "orig": "TP"
+  },
+  {
+    "titol": "Ideafix i els irreductibles",
     "edat": "7",
     "orig": "TP"
   },
