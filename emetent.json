@@ -35,6 +35,11 @@
     "orig": "TP"
   },
   {
+    "titol": "Lo repte",
+    "edat": "10",
+    "orig": "TP"
+  },
+  {
     "titol": "El detectiu Conan",
     "edat": "13",
     "orig": "7"
@@ -68,6 +73,11 @@
   },
   {
     "titol": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+    "edat": "7",
+    "orig": "TP"
+  },
+  {
+    "titol": "Jo, Elvis Riboldi",
     "edat": "7",
     "orig": "TP"
   }
