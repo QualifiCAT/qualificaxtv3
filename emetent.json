@@ -15,11 +15,6 @@
     "orig": "10"
   },
   {
-    "titol": "Està passant",
-    "edat": "13",
-    "orig": "TP"
-  },
-  {
     "titol": "Joc de cartes",
     "edat": "13",
     "orig": "TP"
@@ -60,6 +55,11 @@
     "edat": "7",
     "orig": "TP",
     "novetat": true
+  },
+  {
+    "titol": "Ideafix i els irreductibles",
+    "edat": "7",
+    "orig": "TP"
   },
   {
     "titol": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
