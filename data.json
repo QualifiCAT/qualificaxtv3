@@ -8445,11 +8445,70 @@
   {
     "titol": "Jo, Elvis Riboldi",
     "codi": "jo-elvis-riboldi",
-    "edat": "0",
+    "edat": "7",
     "orig": "TP",
     "imdb": "tt11570892",
     "serie": true,
     "sx3": true
+  },
+  {
+    "titol": "Jo, Elvis Riboldi 1x01 - Jo, Elvis Riboldi m'emancipo",
+    "codi": "6076779",
+    "edat": "0",
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa ocasional d'afectació lleu"
+  },
+  {
+    "titol": "Jo, Elvis Riboldi 1x02 - Jo, Elvis Riboldi, i els punys d'Icària",
+    "codi": "6076781",
+    "edat": "7",
+    "raons": "Violència freqüent, irreal, no explícita, d'intensitat molt lleu, no legitimada<br>Continguts sexuals ocasionals d'explicitació baixa"
+  },
+  {
+    "titol": "Jo, Elvis Riboldi 1x03 - Jo, Elvis Riboldi, i el meu perfum",
+    "codi": "6076786",
+    "edat": "7",
+    "raons": "Conductes i valors incívics amb sanció negativa"
+  },
+  {
+    "titol": "Jo, Elvis Riboldi 1x04 - Jo, Elvis Riboldi, i els bandits peluts",
+    "codi": "6077029",
+    "edat": "0",
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa ocasional d'afectació lleu"
+  },
+  {
+    "titol": "Jo, Elvis Riboldi 1x07 - Jo, Elvis Riboldi, i els meus veïns, els Blood",
+    "codi": "6077175",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu"
+  },
+  {
+    "titol": "Jo, Elvis Riboldi 1x17 - Jo, Elvis Riboldi, i la senyoreta Jennibot",
+    "codi": "6078748",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Conductes i valors incívics amb sanció negativa"
+  },
+  {
+    "titol": "Jo, Elvis Riboldi 1x23 - Jo, Elvis Riboldi, i la maledicció dels Blood",
+    "codi": "6078766",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu"
+  },
+  {
+    "titol": "Jo, Elvis Riboldi 1x41 - Jo, Elvis Riboldi, i un Halloween molt Elvis",
+    "codi": "6080747",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "Jo, Elvis Riboldi 1x43 - Jo, Elvis Riboldi, em torno superllest",
+    "codi": "6080943",
+    "edat": "0"
+  },
+  {
+    "titol": "Jo, Elvis Riboldi 1x47 - Jo, Elvis Riboldi, contra la pubertat",
+    "codi": "6081173",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Joan Dausà, la gran bogeria (2025)",
