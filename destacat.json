@@ -1,5 +1,15 @@
 [
    {
+    "titol": "Eufòria 4<br><small>Gala 1</small>",
+    "codi": "Eufòria##",
+    "edat": "7",
+    "sexe": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+   },
+   {
     "titol": "Fanzone<br><small>dos episodis</small>",
     "codi": "Fanzone##",
     "edat": "10",
@@ -42,15 +52,6 @@
     "codi": "Jo mai mai, Joan Dausà",
     "edat": "10",
     "drogues": true,
-    "llenguatge": true,
-    "orig": "TP",
-    "peli": true,
-    "tv3": true
-   },
-   {
-    "titol": "Joan Dausà: la gran bogeria",
-    "codi": "La gran bogeria",
-    "edat": "13",
     "llenguatge": true,
     "orig": "TP",
     "peli": true,
