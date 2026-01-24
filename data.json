@@ -4951,6 +4951,147 @@
     "mesinfo": "No senyalitzat en la seva emissió per televisió, tot i no ser un programa susceptible de ser exempt de qualificació.<br><br><b>Llenguatge groller</b><br>Un entrenador fa servir les expressions 'puto' i 'puticlub' (sense donar descripcions sexuals) durant unes declaracions posteriors a un partit, que són recriminades posteriorment per un comentarista.<br><br>Hi ha situacions ocasionals de por i angoixa d'afectació lleu."
   },
   {
+    "titol": "Ets i uts",
+    "codi": "ets-i-uts",
+    "edat": "13",
+    "orig": "TP",
+    "serie": true,
+    "3cat": true
+  },
+  {
+    "titol": "Ets i uts 1x01 - Quan vaig tancar un teatre",
+    "codi": "6358972",
+    "edat": "10",
+    "raons": "Llenguatge groller ocasional d'intensitat alta",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'em sua la polla' una vegada. També es diu 'merda' i 'imbècil' una vegada cadascuna.<br><br>Hi ha continguts sexuals ocasionals d'explicitació baixa."
+  },
+  {
+    "titol": "Ets i uts 1x02 - Quan ens van detenir",
+    "codi": "6358971",
+    "edat": "10",
+    "raons": "Llenguatge groller ocasional d'intensitat alta",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'em mengen els ous' i 'puto' dos cops cadascuna durant la cançó dels crèdits. També es diu 'merda' i 'imbècil' una vegada cadascuna.<br><br>Hi ha violència ocasional, irreal, no explícita, d'intensitat molt lleu i no legitimada."
+  },
+  {
+    "titol": "Ets i uts 1x03 - Quan vam sobreviure",
+    "codi": "6358973",
+    "edat": "10",
+    "raons": "Llenguatge groller ocasional d'intensitat alta",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'de puta mare' una vegada. També es diu 'hòstia' (4 cops), 'idiota' (2) i 'collons'."
+  },
+  {
+    "titol": "Ets i uts 1x04 - Quan vam fer teràpia",
+    "codi": "6358970",
+    "edat": "10",
+    "raons": "Llenguatge groller ocasional d'intensitat alta",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'puta' una vegada. També es diu 'merda' (5 cops), 'hòstia' (2 cops) i 'imbècil'.<br><br>Hi ha al·lusions al consum de drogues lícites presentat de manera negativa."
+  },
+  {
+    "titol": "Ets i uts 1x05 - Quan vam anar a Mallorca",
+    "codi": "6358974",
+    "edat": "7",
+    "raons": "Continguts sexuals ocasionals d'explicitació baixa<br>Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Sexe</b><br>Es diu 'sexi' una vegada.<br><br><b>Llenguatge groller</b><br>Es diu 'collons' una vegada.<br><br>Hi ha violència ocasional, irreal, no explícita, d'intensitat molt lleu i no legitimada."
+  },
+  {
+    "titol": "Ets i uts 1x06 - Quan quasi li dic",
+    "codi": "6366920",
+    "edat": "10",
+    "raons": "Consum de drogues lícites (tabac), presentat de manera neutra<br>Llenguatge groller freqüent d'intensitat baixa",
+    "mesinfo": "<b>Drogues</b><br>Una panerola que parla es presenta fumant en un somni.<br><br><b>Llenguatge groller</b><br>Es diu 'merda' (4 cops), 'hòstia' (3), 'idiota', 'cagada', 'imbècil', 'collons' i 'què fots'.<br><br>Hi ha violència ocasional, irreal, no explícita, d'intensitat lleu i no legitimada. Hi ha continguts sexuals ocasionals d'explicitació baixa."
+  },
+  {
+    "titol": "Ets i uts 1x07 - Quan vam estar a punt de morir",
+    "codi": "6366919",
+    "edat": "13",
+    "raons": "Llenguatge groller freqüent d'intensitat alta",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es deixa anar un reguitzell d'insults que inclou 'puto gilipolles de merda fill de puta malparit'. També es diu 'filla de puta' i 'puto' un cop cadascuna, així com 'hòstia' i 'merda'.<br><br>Hi ha situacions de por i angoixa freqüent d'afectació lleu."
+  },
+  {
+    "titol": "Ets i uts 1x08 - Quan ens vam insultar",
+    "codi": "6366923",
+    "edat": "10",
+    "raons": "Consum de drogues lícites (alcohol), presentat de manera neutra<br>Llenguatge groller ocasional d'intensitat alta",
+    "mesinfo": "<b>Drogues</b><br>Es fan al·lusions a begudes alcohòliques i es consumeix vi en un dinar, on es juga un joc on algú ha de beure encara més si perd, i una persona acaba borratxa, tot de manera còmica.<br><br><b>Llenguatge groller</b><br>Al final de l'episodi, es diu 'què cony', 'cabró', 'putos' i 'marieta'. També es diu 'hòstia' (2 cops).<br><br>Hi ha violència ocasional, irreal, no explícita, d'intensitat lleu i no legitimada."
+  },
+  {
+    "titol": "Ets i uts 1x09 - Quan vaig fer una bona obra",
+    "codi": "6366918",
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'imbècil', 'hòstia', 'idiota' i 'ves a cagar' (2 cops).<br><br>Es fan comentaris discriminatoris amb sanció negativa."
+  },
+  {
+    "titol": "Ets i uts 1x10 - Quan ens van gentrificar la furgo",
+    "codi": "6366921",
+    "edat": "10",
+    "raons": "Llenguatge groller ocasional d'intensitat alta",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'putos' una vegada i 'merda' i 'collons' dos cops cadascuna.<br><br>Hi ha violència ocasional, irreal, no explícita, d'intensitat lleu i no legitimada."
+  },
+  {
+    "titol": "Ets i uts 1x11 - Quan vam passar por",
+    "codi": "6375187",
+    "edat": "13",
+    "raons": "Llenguatge groller reiterat d'intensitat alta",
+    "mesinfo": "<b>Llenguatge groller</b><br>Hi ha llenguatge groller de principi a fi i amb intensitat: 'cagat', 'idiotes', 'la mare que et va parir', 'que t'hi cagues', 'cony', 'collons', 'hòstia' o 'putes'. També es diu 'follar' fins a dotze vegades en un diàleg que inclou referències sexuals explícites com ara 'menja'm el cony'.<br><br>Hi ha continguts sexuals ocasionals d'explicitació mitjana. Hi ha situacions de por i angoixa reiterada d'afectació lleu."
+  },
+  {
+    "titol": "Ets i uts 1x12 - Quan vam sortir a la tele",
+    "codi": "6375186",
+    "edat": "13",
+    "raons": "Llenguatge groller freqüent d'intensitat alta",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'hòstia' (5 cops), 'cony' (4 cops: 'què cony', 'qué coño', 'ha ensenyat cony'), 'collons', 'idiota' i 'puto amo'."
+  },
+  {
+    "titol": "Ets i uts 1x13 - Quan em vaig enamorar",
+    "codi": "6375186",
+    "edat": "10",
+    "raons": "Consum de drogues lícites (alcohol), presentat de manera neutra<br>Llenguatge groller ocasional d'intensitat alta",
+    "mesinfo": "<b>Drogues</b><br><br>Dos joves queden en un bar per conèixer-se i prendre una birra.<br><br><b>Llenguatge groller</b><br>Es diu 'hòstia puta' i 'gilipolles'. També es diu 'fotre' (3 cops) i 'hòstia'.<br><br>Hi ha continguts sexuals ocasionals d'explicitació baixa."
+  },
+  {
+    "titol": "Ets i uts 1x13 - Quan em vaig enamorar",
+    "codi": "6375186",
+    "edat": "10",
+    "raons": "Consum de drogues lícites (alcohol), presentat de manera neutra<br>Llenguatge groller ocasional d'intensitat alta",
+    "mesinfo": "<b>Drogues</b><br><br>Dos joves queden en un bar per conèixer-se i prendre una birra.<br><br><b>Llenguatge groller</b><br>Es diu 'hòstia puta' i 'gilipolles'. També es diu 'fotre' (3 cops) i 'hòstia'.<br><br>Hi ha continguts sexuals ocasionals d'explicitació baixa."
+  },
+  {
+    "titol": "Ets i uts 1x14 - Quan la Moni es va enfadar",
+    "codi": "6375184",
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Apareixen en els subtítols 'fotem-ho', 'merda' (2 cops), 'qui collons' i 'cagar'.<br><br>Hi ha violència ocasional, versemblant, no explícita, d'intensitat molt lleu i no legitimada."
+  },
+  {
+    "titol": "Ets i uts 1x15 - Quan tot estava perdut",
+    "codi": "6375185",
+    "edat": "13",
+    "raons": "Llenguatge groller freqüent d'intensitat alta",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'puta' ('puta Renfe'), 'puto' (3 cops), 'es caguen', 'et menjo els ous', 'joder', 'hòstia' (2 cops), 'fotre' (2 cops) i 'merda'.<br><br>Hi ha referències sexuals i llenguatge groller en cançons cantades en anglès, sense proveir-ne una traducció."
+  },
+  {
+    "titol": "Ets i uts 1x16 - Quan la Moni em va perdonar",
+    "codi": "6381084",
+    "edat": "10",
+    "raons": "Llenguatge groller ocasional d'intensitat alta",
+    "mesinfo": "<b>Llenguatge groller</b><br>Només es diu 'puta' ('qui és la puta Emma') una vegada.<br><br>Hi ha violència ocasional, versemblant, explícita, d'intensitat molt lleu i no legitimada."
+  },
+  {
+    "titol": "Ets i uts 1x17 - Quan em van enterrar",
+    "codi": "6381086",
+    "edat": "13",
+    "raons": "Llenguatge groller freqüent d'intensitat alta",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'fotre' (2 cops), 'cabrona', 'collons' (4 cops), 'hòstia' (2 cops), 'putada' (2 cops), 'cagant' i 'puto'. També es fan comentaris escatològics.<br><br>Hi ha consum de drogues lícites (alcohol), presentat de manera neutra. Hi ha situacions de por i angoixa freqüent d'afectació lleu."
+  },
+  {
+    "titol": "Ets i uts 1x18 - Quan el públic reia",
+    "codi": "6381085",
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'merda' (2 cops), 'hòstia' (2 cops) i 'cagat'.<br><br>Hi ha continguts sexuals ocasionals d'explicitació baixa. Hi ha situacions de por i angoixa ocasional d'afectació lleu."
+  },
+  {
     "titol": "Eufòria",
     "codi": "euforia",
     "edat": "10",
