@@ -11057,6 +11057,36 @@
     "raons": "Conductes i valors incívics amb sanció neutra"
   },
   {
+    "titol": "Les tres mosqueteres",
+    "codi": "les-tres-mosqueteres",
+    "edat": "7",
+    "orig": "TP",
+    "imdb": "tt35059313",
+    "serie": true,
+    "sx3": true
+  },
+  {
+    "titol": "Les tres mosqueteres 1x01 - Una per a totes i totes per a una (primera part)",
+    "codi": "6381109",
+    "edat": "7",
+    "raons": "Violència ocasional, irreal, explícita, d'intensitat molt lleu, legitimada<br>Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Violència</b><br>Hi ha alguns moments de violència fantasiosa d'intensitat molt lleu, però legitimada, com quan unes mosqueteres lluiten amb uns guardes amb espases, fuets i caient sobre seu, o quan una nena fa caure un home fent-li la traveta.<br><br><b>Llenguatge groller</b><br>Una nena és anomenada 'ximpleta', 'pagesota estúpida', i uns guardes demanen que no siguin tractats d''idiotes'."
+  },
+  {
+    "titol": "Les tres mosqueteres 1x02 - Una per a totes i totes per a una (segona part)",
+    "codi": "6381122",
+    "edat": "7",
+    "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, legitimada<br>Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Violència</b><br>Hi ha diversos moments de violència fantasiosa d'intensitat molt lleu, però legitimada, en diversos enfrontaments entre una dona que conspira contra el rei i les mosqueteres, quan les mosqueteres lluiten amb uns guardes amb espases, rasclets, fuets o caient sobre seu, o quan un dolent dona un cop de cap a un guàrdia amb un bat per estabornir-lo i prendre-li la roba.<br><br><b>Llenguatge groller</b><br>Es fan servir insults: 'babau', 'colla de beneits', 'quisso estúpid'."
+  },
+  {
+    "titol": "Les tres mosqueteres 1x13 - Els fantasmes del Louvre",
+    "codi": "6381121",
+    "edat": "7",
+    "raons": "Violència ocasional, irreal, explícita, d'intensitat molt lleu, legitimada<br>Por i angoixa freqüent d'afectació lleu",
+    "mesinfo": "<b>Violència</b><br>En una escena, una nena protagonista li tira un canelobre a una armadura 'maleïda' que camina i li fa caure el cap, però així i tot segueix caminant.<br><br><b>Por i angoixa</b><br>Hi ha situacions en què diversos personatges són atemorits per uns sorolls que se senten al castell i una armadura sense cap que camina i parla amb to amenaçador. Tot i ser escenes d'intensitat mínima, són freqüents."
+  },
+  {
     "titol": "Les Tortugues Ninja",
     "codi": "les-tortugues-ninja",
     "edat": "10",
