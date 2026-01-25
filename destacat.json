@@ -1,5 +1,15 @@
 [
    {
+    "titol": "Les tres mosqueteres<br><small>3 episodis</small>",
+    "codi": "Les tres mosqueteres##",
+    "edat": "7",
+    "violencia": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "sx3": true
+   },
+   {
     "titol": "Ets i uts<br><small>tots els episodis</small>",
     "codi": "Ets i uts##",
     "edat": "13",
@@ -45,15 +55,5 @@
     "orig": "TP",
     "serie": true,
     "tv3": true
-   },
-   {
-    "titol": "Manduka Duo<br><small>2 episodis</small>",
-    "codi": "Manduka Duo##",
-    "edat": "7",
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true,
-    "sx3": true
    }
 ]
