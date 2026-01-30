@@ -1,6 +1,18 @@
 [
    {
-    "titol": "Les tres mosqueteres<br><small>3 episodis</small>",
+    "titol": "Concert-manifest per Palestina al Palau Sant Jordi",
+    "codi": "Concert-manifest per Palestina al Palau Sant Jordi",
+    "edat": "10",
+    "violencia": true,
+    "por": true,
+    "drogues": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "peli": true,
+    "tv3": true
+   },
+   {
+    "titol": "Les tres mosqueteres<br><small>tres episodis</small>",
     "codi": "Les tres mosqueteres##",
     "edat": "7",
     "violencia": true,
@@ -46,15 +58,6 @@
     "llenguatge": true,
     "orig": "TP",
     "peli": true,
-    "tv3": true
-   },
-   {
-    "titol": "El monòleg de l'any<br><small>Edició de Lux</small>",
-    "codi": "El monòleg de l&apos;any##",
-    "edat": "10",
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
     "tv3": true
    }
 ]
