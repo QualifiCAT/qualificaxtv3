@@ -1,5 +1,14 @@
 [
    {
+    "titol": "La catifa vermella dels XVIII Premis Gaudí",
+    "codi": "Premis Gaudí##",
+    "edat": "10",
+    "violencia": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+   },
+   {
     "titol": "30 minuts<br><small>La pesta del porc</small>",
     "codi": "30 minuts##",
     "edat": "10",
@@ -46,16 +55,6 @@
     "codi": "Eufòria##",
     "edat": "7",
     "sexe": true,
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
-   },
-   {
-    "titol": "Fanzone<br><small>dos episodis</small>",
-    "codi": "Fanzone##",
-    "edat": "10",
-    "drogues": true,
     "llenguatge": true,
     "orig": "TP",
     "serie": true,
