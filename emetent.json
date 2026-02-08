@@ -30,14 +30,20 @@
     "orig": "TP"
   },
   {
-    "titol": "Lo repte",
+    "titol": "Fanzone",
     "edat": "10",
-    "orig": "TP"
+    "orig": "TP",
+    "novetat": true
   },
   {
     "titol": "El detectiu Conan",
     "edat": "13",
     "orig": "7"
+  },
+  {
+    "titol": "One Piece",
+    "edat": "13",
+    "orig": "10"
   },
   {
     "titol": "Fuet",
@@ -51,11 +57,6 @@
   },
   {
     "titol": "Els barrufets 2D",
-    "edat": "7",
-    "orig": "TP"
-  },
-  {
-    "titol": "Ideafix i els irreductibles",
     "edat": "7",
     "orig": "TP"
   },
