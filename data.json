@@ -13623,6 +13623,21 @@
     "mesinfo": "<b>Violència</b><br>Hi ha algunes escenes de tirotejos i batalles campals entre pirates a bord d'hidroavions o bé per part de la policia, amb armes de foc i explosions utilitzades per a intimidar, sense impactar mai contra ningú. En destaca, però, una escena prolongada al final en què dos personatges, inclòs el protagonista, es queden sense munició en els avions i acaben barallant-se cos a cos, llençant-se objectes i donant-se cops de puny en diverses parts del cos, i se'ls veu malferits amb bonys i rascades per tota la cara. La violència en aquesta pel·lícula té un to desenfadat, fantasiós i còmic.<br><br><b>Drogues</b><br>Diversos personatges, inclòs el protagonista, consumeixen freqüentment tabac i begudes alcohòliques sense que el relat ho sancioni i sense que cap d'ells en manifesti algun efecte negatiu o positiu.<br><br><b>Llenguatge groller</b><br>Es fan servir sovint insults de poca intensitat, com 'imbècil', 'beneit', 'rucs' i expressions com 'ja en tinc els nassos plens' o 'fot-li!'. Vegeu també el paràgraf següent.<br><br>Hi ha situacions de discriminació sancionades negativament pel relat quan el protagonista fa comentaris masclistes i en un primer moment es mostra contrari al fet que un equip format completament per dones li dissenyi i construeixi un avió. Alguns d'aquests comentaris inclouen al·lusions sexuals quan, per exemple, es parla de la mida del cul d'una noia. Hi ha situacions ocasionals de por i angoixa d'afectació lleu per les escenes violentes descrites anteriorment i també per una escena retrospectiva on uns pilots volen inconscientment cap al cel representant que han mort."
   },
   {
+    "titol": "Premis Gaudí",
+    "codi": "premis-gaudi",
+    "edat": "10",
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Premis Gaudí - La catifa vermella dels XVIII Premis Gaudí",
+    "codi": "6385856",
+    "edat": "10",
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat greu, no legitimada",
+    "mesinfo": "<b>Violència</b><br>S'ensenyen imatges de la pel·lícula 'Tardes de soledad', on es veu una corrida de toros amb el toro i el torero coberts completament de sang. També, parlant de 'La fúria', es comenta que tracta d'una protagonista que ha patit una violació.<br><br>Es fan al·lusions i es veuen imatges de consum negatiu de drogues, lícites (alcohol) i il·lícites (sense especificar). Hi ha llenguatge groller ocasional d'intensitat baixa ('merda'). Hi ha situacions ocasionals de por i angoixa mitjana, per mencions passatgeres a la sida, agressions sexuals, al nazisme o als desnonaments, per exemple."
+  },
+  {
     "titol": "Presto! L'escola de màgia",
     "codi": "presto-escola-magia",
     "edat": "7",
