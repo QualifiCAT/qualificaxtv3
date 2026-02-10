@@ -1,5 +1,14 @@
 [
    {
+    "titol": "Nits sense ficció<br><small>Moure muntanyes</small>",
+    "codi": "Nits sense ficció##",
+    "edat": "10",
+    "por": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+   },
+   {
     "titol": "XVIII Premis Gaudí de l'Acadèmia del Cinema Català",
     "codi": "Premis Gaudí##",
     "edat": "10",
@@ -51,14 +60,5 @@
     "orig": "TP",
     "serie": true,
     "sx3": true
-   },
-   {
-    "titol": "Ets i uts<br><small>tots els episodis</small>",
-    "codi": "Ets i uts##",
-    "edat": "13",
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "3cat": true
    }
 ]
