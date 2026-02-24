@@ -66,8 +66,9 @@
     "orig": "TP"
   },
   {
-    "titol": "Jo, Elvis Riboldi",
+    "titol": "Les tres mosqueteres",
     "edat": "7",
-    "orig": "TP"
+    "orig": "TP",
+    "novetat": true
   }
 ]
