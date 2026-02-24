@@ -3,6 +3,8 @@
     "titol": "Polònia<br><small>gala dels 20 anys</small>",
     "codi": "Polònia##",
     "edat": "13",
+    "sexe": true,
+    "discriminacio": true,
     "llenguatge": true,
     "orig": "7",
     "serie": true,
