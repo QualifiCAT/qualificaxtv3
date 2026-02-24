@@ -1,5 +1,13 @@
 [
    {
+    "titol": "Hablamos de Madrid<br><small>18/02/2026</small>",
+    "codi": "Hablamos de Madrid##",
+    "edat": "13",
+    "por": true,
+    "drogues": true,
+    "serie": true
+   },
+   {
     "titol": "Nits sense ficció<br><small>Moure muntanyes</small>",
     "codi": "Nits sense ficció##",
     "edat": "10",
@@ -49,16 +57,5 @@
     "orig": "TP",
     "peli": true,
     "tv3": true
-   },
-   {
-    "titol": "Les tres mosqueteres<br><small>tres episodis</small>",
-    "codi": "Les tres mosqueteres##",
-    "edat": "7",
-    "violencia": true,
-    "por": true,
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "sx3": true
    }
 ]
