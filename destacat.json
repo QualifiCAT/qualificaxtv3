@@ -1,5 +1,14 @@
 [
    {
+    "titol": "Polònia<br><small>gala dels 20 anys</small>",
+    "codi": "Polònia##",
+    "edat": "13",
+    "llenguatge": true,
+    "orig": "7",
+    "serie": true,
+    "tv3": true
+   },
+   {
     "titol": "Hablamos de Madrid<br><small>18/02/2026</small>",
     "codi": "Hablamos de Madrid##",
     "edat": "13",
@@ -44,18 +53,6 @@
     "llenguatge": true,
     "orig": "TP",
     "serie": true,
-    "tv3": true
-   },
-   {
-    "titol": "Concert-manifest per Palestina al Palau Sant Jordi",
-    "codi": "Concert-manifest per Palestina al Palau Sant Jordi",
-    "edat": "10",
-    "violencia": true,
-    "por": true,
-    "drogues": true,
-    "llenguatge": true,
-    "orig": "TP",
-    "peli": true,
     "tv3": true
    }
 ]
