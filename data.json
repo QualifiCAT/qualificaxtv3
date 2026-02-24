@@ -6691,6 +6691,21 @@
     "raons": "Violència freqüent, irreal, molt explícita, d'intensitat greu, no legitimada<br>Por i angoixa freqüent d'afectació alta"
   },
   {
+    "titol": "Hablamos de Madrid",
+    "codi": "hablamos-de-madrid",
+    "edat": "13",
+    "serie": true,
+    "telemadrid": true,
+    "misc": true
+  },
+  {
+    "titol": "Hablamos de Madrid - 18/02/2026",
+    "codi": "43543543654765677565487683",
+    "edat": "13",
+    "raons": "Por i angoixa reiterada d'afectació mitjana<br>Abús de drogues lícites (medicaments), presentat de manera negativa",
+    "mesinfo": "Senyalitzat en la seva emissió per televisió com a no recomanat per a menors de 7 anys.<br><br><b>Por i angoixa</b><br>Durant la majoria del programa, es tracten casos que poden provocar por o angoixa en els menors, com la d'un cas de violació (donant-ne alguns detalls, com ara que hi va haver penetració 'amb dits'), l'alliberament d'un pres d'ETA, la probabilitat de patir accidents a les carreteres i la de reptes virals molt perillosos (en els quals s'inclouen autolesions i la ingesta excessiva de medicaments, acompanyat d'imatges de persones patint alguna mena d'atac i un atropellament).<br><br><b>Drogues</b><br>Vegeu 'Por i angoixa'.<br><br>Hi ha violència ocasional, versemblant, no explícita, greu i no legitimada per la descripció del cas de violació. Hi ha llenguatge groller ocasional d'intensitat alta ('gilipollas'). Hi ha situacions de discriminació presentades de manera negativa. Hi ha conductes i valors incívics (corrupció institucional) presentats de manera negativa."
+  },
+  {
     "titol": "Haikyu!",
     "codi": "haikyu",
     "edat": "10",
