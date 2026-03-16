@@ -1,5 +1,10 @@
 [
   {
+    "titol": "Jo mai mai",
+    "edat": "18",
+    "orig": "13"
+  },
+  {
     "titol": "Polònia",
     "edat": "13",
     "orig": "7"
@@ -17,11 +22,6 @@
   {
     "titol": "Joc de cartes",
     "edat": "13",
-    "orig": "TP"
-  },
-  {
-    "titol": "El foraster",
-    "edat": "10",
     "orig": "TP"
   },
   {
