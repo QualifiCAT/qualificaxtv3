@@ -1,5 +1,15 @@
 [
    {
+    "titol": "Premis Enderrock 2026",
+    "codi": "Premis Enderrock 2026",
+    "edat": "10",
+    "drogues": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "peli": true,
+    "tv3": true
+   },
+   {
     "titol": "Polònia<br><small>gala dels 20 anys</small>",
     "codi": "Polònia##",
     "edat": "13",
@@ -43,16 +53,6 @@
     "codi": "Premis Gaudí##",
     "edat": "10",
     "violencia": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
-   },
-   {
-    "titol": "30 minuts<br><small>La pesta del porc</small>",
-    "codi": "30 minuts##",
-    "edat": "10",
-    "por": true,
-    "llenguatge": true,
     "orig": "TP",
     "serie": true,
     "tv3": true
