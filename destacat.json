@@ -1,5 +1,15 @@
 [
    {
+    "titol": "El tresor de Barracuda",
+    "codi": "El tresor de Barracuda",
+    "edat": "10",
+    "violencia": true,
+    "por": true,
+    "orig": "TP",
+    "peli": true,
+    "sx3": true
+   },
+   {
     "titol": "Premis Enderrock 2026",
     "codi": "Premis Enderrock 2026",
     "edat": "10",
@@ -44,15 +54,6 @@
     "violencia": true,
     "drogues": true,
     "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
-   },
-   {
-    "titol": "La catifa vermella dels XVIII Premis Gaudí",
-    "codi": "Premis Gaudí##",
-    "edat": "10",
-    "violencia": true,
     "orig": "TP",
     "serie": true,
     "tv3": true
