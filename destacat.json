@@ -1,5 +1,16 @@
 [
    {
+    "titol": "La llum de l'Aisha",
+    "codi": "La llum de l&apos;Aisha",
+    "edat": "7",
+    "violencia": true,
+    "por": true,
+    "incivisme": true,
+    "orig": "TP",
+    "peli": true,
+    "sx3": true
+   },
+   {
     "titol": "El detectiu Conan vs. Kaito Kid",
     "codi": "El detectiu Conan vs. Kaito Kid",
     "edat": "7",
@@ -47,14 +58,5 @@
     "por": true,
     "drogues": true,
     "serie": true
-   },
-   {
-    "titol": "Nits sense ficció<br><small>Moure muntanyes</small>",
-    "codi": "Nits sense ficció##",
-    "edat": "10",
-    "por": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
    }
 ]
