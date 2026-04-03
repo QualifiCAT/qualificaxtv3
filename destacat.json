@@ -1,5 +1,15 @@
 [
    {
+    "titol": "Teatre<br><small>Un sogre de lloguer</small>",
+    "codi": "Un sogre de lloguer",
+    "edat": "10",
+    "sexe": true,
+    "drogues": true,
+    "orig": "TP",
+    "peli": true,
+    "tv3": true
+   },
+   {
     "titol": "La llum de l'Aisha",
     "codi": "La llum de l&apos;Aisha",
     "edat": "7",
@@ -50,13 +60,5 @@
     "orig": "7",
     "serie": true,
     "tv3": true
-   },
-   {
-    "titol": "Hablamos de Madrid<br><small>18/02/2026</small>",
-    "codi": "Hablamos de Madrid##",
-    "edat": "13",
-    "por": true,
-    "drogues": true,
-    "serie": true
    }
 ]
