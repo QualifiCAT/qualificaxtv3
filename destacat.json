@@ -1,5 +1,14 @@
 [
    {
+    "titol": "30 minuts<br><small>Fe a la xarxa</small>",
+    "codi": "30 minuts##",
+    "edat": "13",
+    "discriminacio": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+   },
+   {
     "titol": "Picap: 40 anys creant espai musical català",
     "codi": "Picap",
     "edat": "10",
@@ -50,15 +59,5 @@
     "orig": "TP",
     "peli": true,
     "sx3": true
-   },
-   {
-    "titol": "Premis Enderrock 2026",
-    "codi": "Premis Enderrock 2026",
-    "edat": "10",
-    "drogues": true,
-    "llenguatge": true,
-    "orig": "TP",
-    "peli": true,
-    "tv3": true
    }
 ]
