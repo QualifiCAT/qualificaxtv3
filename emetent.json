@@ -50,9 +50,9 @@
     "orig": "TP"
   },
   {
-    "titol": "Els barrufets 3D",
-    "edat": "7",
-    "orig": "TP"
+    "titol": "Les Tortugues Ninja",
+    "edat": "10",
+    "orig": "7"
   },
   {
     "titol": "Els barrufets 2D",
@@ -67,7 +67,6 @@
   {
     "titol": "Manduka Duo",
     "edat": "7",
-    "orig": "TP",
-    "novetat": true
+    "orig": "TP"
   }
 ]
