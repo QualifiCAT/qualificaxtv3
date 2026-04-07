@@ -2340,6 +2340,22 @@
     "mesinfo": "<b>Drogues</b><br>Es fan al·lusions ocasionals a begudes alcohòliques presentant-ne el consum de manera irreflexiva ('teteo de mojito', 'algú porta una birra', 'el tonteo provocat pel ron', 'al bar Manolo hi ha cervesa per a tothom', 'vas amb ressaca al partit' repetit diverses vegades, 'enyoro els matins de ressaca després d'una festa', 'que toca vermutet').<br><br><b>Llenguatge groller</b><br>En una cançó es repeteix 'seria una putada', i en una altra, es diu 'al puto infern'. També es diu 'merda' i 'que te cagas'.<br><br>Hi ha al·lusions sexuals ocasionals d'explicitació baixa ('fer l'amor', 'el teu culet pom pom', 'busco una gata per donar-li tonteo, baby passarem a l'atac', 'en el club ho fem easy', 'anem a alliberar tota la tarda la nostra endorfina')."
   },
   {
+    "titol": "Conan, el nen del futur",
+    "codi": "conan-el-nen-del-futur",
+    "edat": "10",
+    "orig": "7",
+    "imdb": "tt0077013",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Conan, el nen del futur 1x21 - Habitants sota terra",
+    "codi": "6395349",
+    "edat": "10",
+    "raons": "Violència freqüent, irreal, no explícita, d'intensitat lleu, no legitimada",
+    "mesinfo": "<b>Violència</b><br>Hi ha presència constant d'armes de foc en actitud intimidatòria i tirotejos, tot i que en un context irreal i normalment sense ferir ningú. Hi ha un tiroteig aeri i un avió explota. Un home indefens és tirat a terra i pegat per un grup de persones. Un home pressiona la sola de la sabata contra el cap d'una dona i la fa caure a terra, i ordena executar-la. Una dona estaborneix un malvat amb el braç; més tard, rep un tret i un noi que l'atén es taca de sang. Hi ha un tiroteig a on ella es trobava i no és clar què li acaba succeint.<br><br>Hi ha situacions freqüents de por i angoixa d'afectació lleu. Hi ha llenguatge groller ocasional d'intensitat baixa ('ximple', 'desgraciat')."
+  },
+  {
     "titol": "Concert comiat Stay Homas",
     "codi": "6376353",
     "edat": "10",
