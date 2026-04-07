@@ -1,5 +1,14 @@
 [
    {
+    "titol": "Conan, el nen del futur<br><small>un episodi</small>",
+    "codi": "Conan, el nen del futur",
+    "edat": "10",
+    "violencia": true,
+    "orig": "7",
+    "serie": true,
+    "tv3": true
+   },
+   {
     "titol": "El 47",
     "codi": "El 47",
     "edat": "10",
@@ -47,16 +56,6 @@
     "por": true,
     "incivisme": true,
     "orig": "TP",
-    "peli": true,
-    "sx3": true
-   },
-   {
-    "titol": "El detectiu Conan vs. Kaito Kid",
-    "codi": "El detectiu Conan vs. Kaito Kid",
-    "edat": "7",
-    "por": true,
-    "llenguatge": true,
-    "orig": "7",
     "peli": true,
     "sx3": true
    }
