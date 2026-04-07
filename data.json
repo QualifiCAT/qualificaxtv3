@@ -2349,11 +2349,18 @@
     "tv3": true
   },
   {
+    "titol": "Conan, el nen del futur 1x10 - El doctor Rao",
+    "codi": "6395213",
+    "edat": "10",
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat greu, no legitimada",
+    "mesinfo": "<b>Violència</b><br>Un home fingeix que s'ha suïcidat penjant-se a la seva cel·la per intentar escapar. En una escena d'intensitat lleu, un home rep una bufetada i una noia mossega a la mà aquest mateix home.<br><br>Hi ha situacions ocasionals de por i angoixa d'afectació mitjana, relacionades amb l'escena anterior i amb imatges de destrucció de la Terra, i amb una on un home demana que el rescatin de sota l'aigua. Hi ha llenguatge groller ocasional d'intensitat baixa ('ximple', 'ruca')."
+  },
+  {
     "titol": "Conan, el nen del futur 1x21 - Habitants sota terra",
     "codi": "6395349",
     "edat": "10",
     "raons": "Violència freqüent, irreal, no explícita, d'intensitat lleu, no legitimada",
-    "mesinfo": "<b>Violència</b><br>Hi ha presència constant d'armes de foc en actitud intimidatòria i tirotejos, tot i que en un context irreal i normalment sense ferir ningú. Hi ha un tiroteig aeri i un avió explota. Un home indefens és tirat a terra i pegat per un grup de persones. Un home pressiona la sola de la sabata contra el cap d'una dona i la fa caure a terra, i ordena executar-la. Una dona estaborneix un malvat amb el braç; més tard, rep un tret i un noi que l'atén es taca de sang. Hi ha un tiroteig a on ella es trobava i no és clar què li acaba succeint.<br><br>Hi ha situacions freqüents de por i angoixa d'afectació lleu. Hi ha llenguatge groller ocasional d'intensitat baixa ('ximple', 'desgraciat')."
+    "mesinfo": "<b>Violència</b><br>Hi ha presència constant d'armes de foc en actitud intimidatòria i tirotejos, tot i que en un context irreal i normalment sense ferir ningú. Hi ha un tiroteig aeri i un avió explota. Un home indefens és tirat a terra i pegat per un grup de persones. Un home pressiona la sola de la sabata contra el cap d'una dona i la fa caure a terra, i ordena executar-la. Una dona estaborneix un malvat amb el braç; més tard, rep un tret i un noi que l'atén es taca de sang. Hi ha un tiroteig a on ella es trobava i no és clar què li acaba succeint.<br><br>Hi ha situacions freqüents de por i angoixa d'afectació lleu, ocasionalment mitjana. Hi ha llenguatge groller ocasional d'intensitat baixa ('ximple', 'desgraciat')."
   },
   {
     "titol": "Concert comiat Stay Homas",
