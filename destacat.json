@@ -1,5 +1,14 @@
 [
    {
+    "titol": "Nits sense ficció<br><small>Els 11 del Raval</small>",
+    "codi": "Nits sense ficció##",
+    "edat": "13",
+    "por": true,
+    "orig": "10",
+    "serie": true,
+    "tv3": true
+   },
+   {
     "titol": "Conan, el nen del futur<br><small>dos episodis</small>",
     "codi": "Conan, el nen del futur",
     "edat": "10",
@@ -47,16 +56,5 @@
     "orig": "TP",
     "peli": true,
     "tv3": true
-   },
-   {
-    "titol": "La llum de l'Aisha",
-    "codi": "La llum de l&apos;Aisha",
-    "edat": "7",
-    "violencia": true,
-    "por": true,
-    "incivisme": true,
-    "orig": "TP",
-    "peli": true,
-    "sx3": true
    }
 ]
