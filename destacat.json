@@ -1,5 +1,14 @@
 [
    {
+    "titol": "30 minuts<br><small>Rodalies, la història interminable</small>",
+    "codi": "30 minuts##",
+    "edat": "10",
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+   },
+   {
     "titol": "Nits sense ficció<br><small>Els 11 del Raval</small>",
     "codi": "Nits sense ficció##",
     "edat": "13",
@@ -43,16 +52,6 @@
     "sexe": true,
     "drogues": true,
     "llenguatge": true,
-    "orig": "TP",
-    "peli": true,
-    "tv3": true
-   },
-   {
-    "titol": "Teatre<br><small>Un sogre de lloguer</small>",
-    "codi": "Un sogre de lloguer",
-    "edat": "10",
-    "sexe": true,
-    "drogues": true,
     "orig": "TP",
     "peli": true,
     "tv3": true
