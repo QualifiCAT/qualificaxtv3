@@ -1,5 +1,14 @@
 [
    {
+    "titol": "Valentina<br><small>dos capítols</small>",
+    "codi": "Valentina##",
+    "edat": "7",
+    "violencia": true,
+    "por": true,
+    "serie": true,
+    "sx3": true
+   },
+   {
     "titol": "30 minuts<br><small>Rodalies, la història interminable</small>",
     "codi": "30 minuts##",
     "edat": "10",
@@ -43,17 +52,6 @@
     "discriminacio": true,
     "orig": "TP",
     "serie": true,
-    "tv3": true
-   },
-   {
-    "titol": "Picap: 40 anys creant espai musical català",
-    "codi": "Picap",
-    "edat": "10",
-    "sexe": true,
-    "drogues": true,
-    "llenguatge": true,
-    "orig": "TP",
-    "peli": true,
     "tv3": true
    }
 ]
