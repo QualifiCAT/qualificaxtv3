@@ -15,6 +15,11 @@
     "orig": "10"
   },
   {
+    "titol": "Està passant",
+    "edat": "13",
+    "orig": "TP"
+  },
+  {
     "titol": "Plats bruts",
     "edat": "13",
     "orig": "10"
@@ -26,11 +31,6 @@
   },
   {
     "titol": "Eufòria",
-    "edat": "10",
-    "orig": "TP"
-  },
-  {
-    "titol": "Quanta guerra!",
     "edat": "10",
     "orig": "TP"
   },
