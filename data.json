@@ -5053,7 +5053,9 @@
     "edat": "13",
     "orig": "TP",
     "serie": true,
-    "3cat": true
+    "3cat": true,
+    "33": true,
+    "misc": true
   },
   {
     "titol": "Ets i uts 1x01 - Quan vaig tancar un teatre",
@@ -9945,7 +9947,9 @@
     "edat": "13",
     "orig": "10",
     "serie": true,
-    "3cat": true
+    "3cat": true,
+    "33": true,
+    "misc": true
   },
   {
     "titol": "La mirada de la Fiona 1x01",
