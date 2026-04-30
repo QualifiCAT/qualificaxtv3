@@ -15960,6 +15960,23 @@
     "mesinfo": "<b>Drogues</b><br>Un noi es burla d'uns joves que s'havien quedat adormits al bus, anomenant-los 'ressacosos'.<br><br><b>Llenguatge groller</b><br>Es diu 'què hi fots' (2 cops), 'hòstia' i 'malparit' (2 cops i en un context amistós)."
   },
   {
+    "titol": "Teories de la relativitat",
+    "codi": "teories-de-la-relativitat",
+    "edat": "13",
+    "orig": "TP",
+    "serie": true,
+    "3cat": true,
+    "33": true,
+    "misc": true
+  },
+  {
+    "titol": "Teories de la relativitat 1x01 - Sexualitat a les xarxes",
+    "codi": "6400237",
+    "edat": "13",
+    "raons": "Continguts sexuals reiterats d'explicitació mitjana",
+    "mesinfo": "<b>Sexe</b><br>Es fan referències constants verbals a continguts sexuals i sexualitzats a les xarxes en contextos d'explotació, com ara la distribució de vídeos amb càrrega sensual protagonitzats per menors, la sextorsió o la prostitució digital en una plataforma eròtica. Alguns dels continguts anteriors s'acompanyen amb imatges, que ocasionalment inclouen nuesa.<br><br>Hi ha llenguatge groller ocasional d'intensitat alta ('puta', 'cony'). Hi ha situacions de discriminació amb sanció negativa. Hi ha por i angoixa ocasional d'afectació mitjana."
+  },
+  {
     "titol": "Theodosia",
     "codi": "theodosia",
     "edat": "7",
