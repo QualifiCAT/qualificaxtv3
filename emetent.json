@@ -65,8 +65,9 @@
     "orig": "TP"
   },
   {
-    "titol": "Manduka Duo",
+    "titol": "Valentina de Montblanc",
     "edat": "7",
-    "orig": "TP"
+    "orig": "TP",
+    "estrena": true
   }
 ]
