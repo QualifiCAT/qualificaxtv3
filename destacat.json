@@ -1,5 +1,14 @@
 [
    {
+    "titol": "Teories de la relativitat<br><small>un capítol</small>",
+    "codi": "Teories de la relativitat##",
+    "edat": "13",
+    "sexe": true,
+    "orig": "TP",
+    "serie": true,
+    "3cat": true
+   },
+   {
     "titol": "Quanta guerra!<br><small>Roger Casamajor</small>",
     "codi": "Quanta guerra!##",
     "edat": "13",
@@ -47,15 +56,5 @@
     "orig": "7",
     "serie": true,
     "3cat": true
-   },
-   {
-    "titol": "Valentina de Montblanc<br><small>tots els capítols</small>",
-    "codi": "Valentina##",
-    "edat": "7",
-    "violencia": true,
-    "por": true,
-    "orig": "TP",
-    "serie": true,
-    "sx3": true
    }
 ]
