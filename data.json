@@ -659,7 +659,16 @@
     "codi": "6244571",
     "edat": "0"
   },
-  
+  {
+    "titol": "Alan, el musical (teatre)",
+    "codi": "6401228",
+    "edat": "13",
+    "orig": "TP",
+    "peli": true,
+    "sx3": true,
+    "raons": "Violència freqüent, versemblant, no explícita, d'intensitat greu i no legitimada<br>Por i angoixa reiterada d'afectació mitjana<br>Llenguatge groller freqüent d'intensitat alta",
+    "mesinfo": "<b>Violència</b><br>Vegeu 'Por i angoixa'.<br><br><b>Por i angoixa</b><br>L'obra es basa en mostrar activament l'angoixa emocional del menor protagonista afectat per reiterades situacions discriminatòries, en especial l'assetjament extrem que pateix, en forma d'acalorades discussions amb membres familiars i figures d'autoritat, atacs d'ansietat i pensaments destructius. La resolució del conflicte no és positiva ja que es resol amb el suïcidi, mostrat de manera metafòrica, encara que l'obra intenta atenuar-ho mostrant un breu 'final alternatiu' feliç on el protagonista viu amb l'acceptació automàtica de tothom.<br><br><b>Llenguatge groller</b><br>Es fan servir expressions grolleres de manera constant durant l'obra, sempre de manera agressiva i amb protagonisme de menors ('el puto patriarcat', 'quina puta merda', 'és la puta veritat', 'puto primer dia', 'ni puta idea', 'un puto segon', 'filla de puta', 'collons', 'joder', 'hòstia', 'merda', 'imbècil', 'la mare que et va parir'...), així com expressions discriminatòries dirigides al protagonista ('nenaza', 'maricón', 'travesti').<br><br>Hi ha comportaments discriminatoris amb sanció negativa. Hi ha al·lusions ocasionals a continguts sexuals d'explicitació baixa en referir-se a perdre la virginitat."
+  },
   {
     "titol": "Alcarràs (2022)",
     "codi": "6252399",
