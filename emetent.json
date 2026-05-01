@@ -30,9 +30,10 @@
     "orig": "TP"
   },
   {
-    "titol": "Eufòria",
+    "titol": "La gran cita",
     "edat": "10",
-    "orig": "TP"
+    "orig": "7",
+    "novetat": true
   },
   {
     "titol": "El detectiu Conan",
