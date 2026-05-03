@@ -1,5 +1,13 @@
 [
    {
+    "titol": "30 minuts<br><small>Català, punt crític</small>",
+    "codi": "30 minuts##",
+    "edat": "0",
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+   },
+   {
     "titol": "Alan, el musical",
     "codi": "Alan, el musical",
     "edat": "13",
@@ -43,17 +51,6 @@
     "codi": "Nits sense ficció##",
     "edat": "10",
     "drogues": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
-   },
-   {
-    "titol": "30 minuts<br><small>Poder i glòria</small>",
-    "codi": "30 minuts##",
-    "edat": "10",
-    "por": true,
-    "drogues": true,
-    "llenguatge": true,
     "orig": "TP",
     "serie": true,
     "tv3": true
