@@ -4826,12 +4826,60 @@
   {
     "titol": "En Grizzy i els Lèmmings",
     "codi": "grizzy-i-els-lemmings",
-    "edat": "0",
+    "edat": "7",
     "orig": "TP",
     "imdb": "tt6717058",
     "csm": "tv-reviews/grizzy-and-the-lemmings",
     "serie": true,
     "sx3": true
+  },
+  {
+    "titol": "En Grizzy i els Lèmmings 2x01 - Acampada salvatge",
+    "codi": "5939131",
+    "edat": "7",
+    "raons": "Violència freqüent, irreal, no explícita, d'intensitat molt lleu, no legitimada"
+  },
+  {
+    "titol": "En Grizzy i els Lèmmings 3x30 - Desglaç sorpresa",
+    "codi": "6356119",
+    "edat": "0",
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa ocasional d'afectació lleu"
+  },
+  {
+    "titol": "En Grizzy i els Lèmmings 3x32 - Un ou de substitució",
+    "codi": "6356133",
+    "edat": "7",
+    "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, no legitimada"
+  },
+  {
+    "titol": "En Grizzy i els Lèmmings 3x53 - 1 + 1 = 1",
+    "codi": "6355080",
+    "edat": "7",
+    "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, no legitimada"
+  },
+  {
+    "titol": "En Grizzy i els Lèmmings 3x54 - Lèmmings de gelatina",
+    "codi": "6356131",
+    "edat": "0",
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, no legitimada"
+  },
+  {
+    "titol": "En Grizzy i els Lèmmings 3x55 - Llançament de Lèmmings",
+    "codi": "6356128",
+    "edat": "7",
+    "raons": "Violència freqüent, irreal, no explícita, d'intensitat molt lleu, no legitimada"
+  },
+  {
+    "titol": "En Grizzy i els Lèmmings 3x56 - Franken-Grizzy",
+    "codi": "6356132",
+    "edat": "7",
+    "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, no legitimada"
+  },
+  {
+    "titol": "En Grizzy i els Lèmmings 3x69 - Lèmmings del milió",
+    "codi": "6355207",
+    "edat": "7",
+    "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, no legitimada"
   },
   {
     "titol": "Entre quatre parets",
