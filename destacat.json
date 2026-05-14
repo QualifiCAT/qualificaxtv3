@@ -1,5 +1,15 @@
 [
    {
+    "titol": "Marranàsia. Svetlana al Japó<br><small>tots els quatre episodis</small>",
+    "codi": "Marranàsia. Svetlana al Japó",
+    "edat": "13",
+    "drogues": true,
+    "llenguatge": true,
+    "orig": "7",
+    "serie": true,
+    "3cat": true
+   },
+   {
     "titol": "30 minuts<br><small>Català, punt crític</small>",
     "codi": "30 minuts##",
     "edat": "0",
@@ -42,15 +52,6 @@
     "edat": "7",
     "sexe": true,
     "por": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
-   },
-   {
-    "titol": "Nits sense ficció<br><small>Avui: 50 anys en portada</small>",
-    "codi": "Nits sense ficció##",
-    "edat": "10",
-    "drogues": true,
     "orig": "TP",
     "serie": true,
     "tv3": true
