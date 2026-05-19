@@ -1,5 +1,24 @@
 [
    {
+    "titol": "Nits sense ficció<br><small>Un ram de locura</small>",
+    "codi": "Nits sense ficció##",
+    "edat": "10",
+    "drogues": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+   },
+   {
+    "titol": "Nits sense ficció<br><small>Sopa de Cabra, tornar enrere</small>",
+    "codi": "Nits sense ficció##",
+    "edat": "13",
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+   },
+   {
     "titol": "Marranàsia. Svetlana al Japó<br><small>tots els quatre episodis</small>",
     "codi": "Marranàsia. Svetlana al Japó",
     "edat": "13",
@@ -36,24 +55,5 @@
     "orig": "TP",
     "serie": true,
     "3cat": true
-   },
-   {
-    "titol": "Quanta guerra!<br><small>Roger Casamajor</small>",
-    "codi": "Quanta guerra!##",
-    "edat": "13",
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
-   },
-   {
-    "titol": "Nits sense ficció<br><small>Seràs per sempre</small>",
-    "codi": "Nits sense ficció##",
-    "edat": "7",
-    "sexe": true,
-    "por": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
    }
 ]
