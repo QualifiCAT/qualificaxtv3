@@ -1,5 +1,14 @@
 [
    {
+    "titol": "Sí a tot<br><small>un episodi</small>",
+    "codi": "Sí a tot##",
+    "edat": "10",
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+   },
+   {
     "titol": "Nits sense ficció<br><small>Un ram de locura</small>",
     "codi": "Nits sense ficció##",
     "edat": "10",
@@ -46,14 +55,5 @@
     "orig": "TP",
     "peli": true,
     "sx3": true
-   },
-   {
-    "titol": "Teories de la relativitat<br><small>Sexualitat a les xarxes</small>",
-    "codi": "Teories de la relativitat##",
-    "edat": "13",
-    "sexe": true,
-    "orig": "TP",
-    "serie": true,
-    "3cat": true
    }
 ]
