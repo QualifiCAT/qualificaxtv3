@@ -15654,6 +15654,15 @@
     "raons": "Por i angoixa freqüent d'afectació mitjana"
   },
   {
+    "titol": "Si no t'hagués conegut",
+    "codi": "si-no-thagues-conegut",
+    "edat": "13",
+    "orig": "7",
+    "imdb": "tt8517780",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Sicília sense morts",
     "codi": "sicilia-sense-morts",
     "edat": "13",
@@ -15728,6 +15737,21 @@
     "mesinfo": "<b>Por i angoixa</b><br>Es veuen breument en primer pla dos guepards devorant les entranyes d'una presa. Es veu un ullal tacat de sang d'un elefant. Es veu un lleó corrent amb una presa a la boca."
   },
   {
+    "titol": "Sí a tot",
+    "codi": "si-a-tot",
+    "edat": "10",
+    "orig": "TP",
+    "serie": true,
+    "3cat": true
+  },
+  {
+    "titol": "Sí a tot 1x01 - Pujo a una avioneta",
+    "codi": "6403755",
+    "edat": "10",
+    "raons": "Llenguatge groller ocasional d'intensitat alta",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'hòstia' diverses vegades, i es diu 'de puta mare' una vegada.<br><br>Hi ha situacions de por freqüents per referències a patir un accident d'avió i per l'angoixa lleu que pateix la protagonista."
+  },
+  {
     "titol": "Sí, ministre",
     "codi": "si-ministre",
     "edat": "10",
@@ -15749,15 +15773,6 @@
     "edat": "7",
     "raons": "Comportaments discriminatoris amb sanció negativa",
     "mesinfo": "<b>Discriminació, racisme i xenofòbia</b><br>Es fan algunes bromes en relació amb un president que ha assolit el poder en un país africà mitjançant un cop d'estat, i sobre com podrien ser útils els seus recursos per a l'economia britànica. En una escena, el ministre li diu al president 'temps quan no veure't', i ell respon que 'no cal que em parlis com els indis'."
-  },
-  {
-    "titol": "Si no t'hagués conegut",
-    "codi": "si-no-thagues-conegut",
-    "edat": "13",
-    "orig": "7",
-    "imdb": "tt8517780",
-    "serie": true,
-    "tv3": true
   },
   {
     "titol": "Sí, primer ministre",
