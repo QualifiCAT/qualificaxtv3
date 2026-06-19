@@ -1,10 +1,5 @@
 [
   {
-    "titol": "Jo mai mai",
-    "edat": "18",
-    "orig": "13"
-  },
-  {
     "titol": "Polònia",
     "edat": "13",
     "orig": "7"
@@ -36,14 +31,14 @@
     "novetat": true
   },
   {
-    "titol": "El detectiu Conan",
-    "edat": "13",
-    "orig": "7"
+    "titol": "Cita bestial",
+    "edat": "7",
+    "orig": "TP"
   },
   {
-    "titol": "One Piece",
+    "titol": "El detectiu Conan",
     "edat": "13",
-    "orig": "10"
+    "orig": "12"
   },
   {
     "titol": "Les Tortugues Ninja",
@@ -58,6 +53,11 @@
   },
   {
     "titol": "Els barrufets 3D",
+    "edat": "7",
+    "orig": "TP"
+  },
+  {
+    "titol": "Espies de veritat",
     "edat": "7",
     "orig": "TP"
   },
