@@ -5011,6 +5011,14 @@
     "sx3": true
   },
   {
+    "titol": "Espies de veritat",
+    "codi": "espies-veritat",
+    "edat": "7",
+    "orig": "TP (prèviament: 7)",
+    "serie": true,
+    "sx3": true
+  },
+  {
     "titol": "Està passant",
     "codi": "esta-passant",
     "edat": "13",
