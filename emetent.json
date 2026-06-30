@@ -27,8 +27,7 @@
   {
     "titol": "La gran cita",
     "edat": "10",
-    "orig": "7",
-    "novetat": true
+    "orig": "7"
   },
   {
     "titol": "Cita bestial",
@@ -48,8 +47,7 @@
   {
     "titol": "Henry Danger",
     "edat": "10",
-    "orig": "7",
-    "novetat": true
+    "orig": "7"
   },
   {
     "titol": "Els barrufets 3D",
@@ -69,7 +67,6 @@
   {
     "titol": "Valentina de Montblanc",
     "edat": "7",
-    "orig": "TP",
-    "novetat": true
+    "orig": "TP"
   }
 ]
