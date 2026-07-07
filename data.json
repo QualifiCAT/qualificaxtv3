@@ -11289,6 +11289,36 @@
     "raons": "Conductes i valors incívics amb sanció neutra"
   },
   {
+    "titol": "Les Tres Bessones",
+    "codi": "les-tres-bessones",
+    "edat": "7",
+    "orig": "TP",
+    "imdb": "tt0283808",
+    "serie": true,
+    "sx3": true
+  },
+  {
+    "titol": "Les Tres Bessones 1x16 - Les Tres Bessones i la Bella Dorment",
+    "codi": "5479112",
+    "edat": "7",
+    "raons": "Consum de drogues lícites (tabac), presentat de manera negativa<br>Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Drogues</b><br>Un personatge negatiu apareix fumant diverses vegades.<br><br><b>Llenguatge groller</b><br>Les nenes diuen, referint-se a una dona: 'mala pècora'. També es diu 'desgraciat' i 'babau'.<br><br>Hi ha situacions ocasionals de por i angoixa d'afectació lleu. Hi ha violència ocasional, irreal, explícita, molt lleu i no legitimada."
+  },
+  {
+    "titol": "Les Tres Bessones 2x04 - Les Tres Bessones i el taller de Gaudí",
+    "codi": "5443031",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu",
+    "mesinfo": "<b>Por i angoixa</b><br>Les protagonistes es posen en perill quan, volant en globus, unes xemeneies cobren vida i les intenten fer caure atacant-les amb fum. En una altra escena, un home s'imagina que unes ombres amb forma de serp el persegueixen. Rescaten l'home, dient que se'l van trobar 'mig mort'. S'inclou un avançament amb algunes escenes de por del següent episodi.<br><br>Es fan bromes ocasionals sobre el pes d'un dels personatges. Un home breument exclama 'quines cuixes' observant un espectacle de dansa. En una escena, un home dormilega rep un clatellot. Un home apareix breument fumant durant els crèdits."
+  },
+  {
+    "titol": "Les Tres Bessones 2x05 - Les Tres Bessones i els fantasmes de la Pedrera",
+    "codi": "5443033",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu",
+    "mesinfo": "<b>Por i angoixa</b><br>Durant la segona meitat del capítol, un home s'imagina recurrentment que unes ombres amb forma de serp el persegueixen. Eventualment, les ombres es converteixen en fantasmes. La resolució del conflicte és positiva. En un altre moment, una de les nenes protagonistes és a punt de caure al buit fins que és rescatada.<br><br>Es fan bromes ocasionals sobre el pes d'un dels personatges. Un home apareix breument fumant durant els crèdits."
+  },
+  {
     "titol": "Les tres mosqueteres",
     "codi": "les-tres-mosqueteres",
     "edat": "7",
