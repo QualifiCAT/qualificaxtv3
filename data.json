@@ -14848,12 +14848,48 @@
   {
     "titol": "Robin Hood, el trapella de Sherwood",
     "codi": "robin-hood-mischief-sherwood",
-    "edat": "0",
+    "edat": "7",
     "orig": "TP",
     "imdb": "tt4212188",
     "csm": "tv-reviews/robin-hood-mischief-in-sherwood",
     "serie": true,
     "sx3": true
+  },
+  {
+    "titol": "Robin Hood, el trapella de Sherwood 3x01 - L'amenaça (1a part)",
+    "codi": "6153435",
+    "edat": "0",
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa ocasional d'afectació lleu"
+  },
+  {
+    "titol": "Robin Hood, el trapella de Sherwood 3x02 - L'amenaça (2a part)",
+    "codi": "6153621",
+    "edat": "7",
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, legitimada"
+  },
+  {
+    "titol": "Robin Hood, el trapella de Sherwood 3x03 - En Derke sota control",
+    "codi": "6153795",
+    "edat": "0",
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa ocasional d'afectació lleu"
+  },
+  {
+    "titol": "Robin Hood, el trapella de Sherwood 3x09 - Un brioix amb sorpresa",
+    "codi": "6154967",
+    "edat": "7",
+    "raons": "Conductes i valors incívics amb sanció negativa"
+  },
+  {
+    "titol": "Robin Hood, el trapella de Sherwood 3x28 - La llàntia misteriosa",
+    "codi": "6178862",
+    "edat": "7",
+    "raons": "Violència ocasional, irreal, explícita, d'intensitat molt lleu, legitimada<br>Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "Robin Hood, el trapella de Sherwood 3x46 - La bèstia de Sherwood",
+    "codi": "6182877",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Robby, Toby i el viatge fantàstic (2016)",
