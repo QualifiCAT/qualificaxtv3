@@ -13300,6 +13300,22 @@
     "mesinfo": "<b>Drogues</b><br>Hi ha imatges de consum de drogues lícites (alcohol, tabac) presentat de manera neutra, especialment en videoclips i fotografies d'arxiu. De manera fugaç, es fan al·lusions implícites a la marihuana.<br><br><b>Llenguatge groller</b><br>Hi ha llenguatge groller ocasional d'intensitat alta i baixa ('de puta mare', 'hòstia puta', 'cabrons', 'hòstia', 'mecàgon', 'fotem', 'merda').<br><br>Hi ha continguts sexuals ocasionals d'explicitació baixa en ensenyar no emfàticament la portada d'un disc que consisteix en un dibuix poc realista d'una dona despullada oberta de cames."
   },
   {
+    "titol": "Nits sense ficció - Un estiu per sempre",
+    "codi": "6416365",
+    "edat": "7",
+    "orig": "TP",
+    "raons": "Continguts sexuals ocasionals d'explicitació baixa<br>Al·lusions al consum de drogues lícites (alcohol), presentat de manera negativa",
+    "mesinfo": "<b>Sexe</b><br>S'ensenya una escena breu d'una sèrie de televisió on una dona segrestava homes per seduir-los i despullar-los.<br><br><b>Drogues</b><br>Es fa una referència a quan un actor es va prendre una beguda amb forta càrrega alcohòlica que el feia deixar d'estar 'serè'. De manera fugaç, en alguns moments s'aprecia consum de tabac.<br><br>Hi ha situacions ocasionals de por i angoixa d'afectació lleu per imatges i referències no explícites a la Guerra Civil. Hi ha un sol ús de llenguatge groller ('fotia')."
+  },
+  {
+    "titol": "Nits sense ficció - Franco i Hollywood",
+    "codi": "6405766",
+    "edat": "7",
+    "orig": "TP",
+    "raons": "Violència freqüent, irreal, no explícita, d'intensitat greu, no legitimada<br>Por i angoixa ocasional d'afectació mitjana<br>Comportaments discriminatoris amb sanció negativa",
+    "mesinfo": "<b>Violència</b><br>Es mostren, provinents de pel·lícules, escenes de batalles en situacions temporals llunyans a la realitat d'un menor, amb l'ús de cavalls, espases, escuts o canons, i on es veu clarament que són orquestrades i no es mostren cops explícits. No obstant això, se n'ensenyen diverses, i a vegades hi ha presència de morts (gent a terra immòbil) i s'ensenya una escena en què multitud de quadrigues cauen per un barranc. També s'ensenyen breument corrides de toros, on en un cas el torero és atacat pel toro. Finalment, en una escena, s'ensenyen homes clavats a unes creus i un d'ells porta una corona d'espines clavada al front.<br><br><b>Por i angoixa</b>Vegeu 'Violència'.<br><br><b>Discriminació, racisme i xenofòbia</b><br>Hi ha discriminació sancionada negativament quan es diu que la representació de l'expulsió d'hordes musulmanes en una pel·lícula era una bona mostra, per a Franco, de la defensa dels valors catòlics.<br><br>Hi ha imatges fugaces de consum de tabac i referències a alguns actes incívics (corrupció)."
+  },
+  {
     "titol": "Nivell extra",
     "codi": "nivell-extra",
     "edat": "10",
