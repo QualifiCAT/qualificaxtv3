@@ -1,5 +1,26 @@
 [
    {
+    "titol": "Nits sense ficció<br><small>Franco i Hollywood</small>",
+    "codi": "Nits sense ficció##",
+    "edat": "7",
+    "violencia": true,
+    "por": true,
+    "discriminacio": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+   },
+   {
+    "titol": "Nits sense ficció<br><small>Un estiu per sempre</small>",
+    "codi": "Nits sense ficció##",
+    "edat": "7",
+    "sexe": true,
+    "drogues": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+   },
+   {
     "titol": "Sí a tot<br><small>un episodi</small>",
     "codi": "Sí a tot##",
     "edat": "10",
@@ -36,24 +57,5 @@
     "orig": "13",
     "serie": true,
     "3cat": true
-   },
-   {
-    "titol": "30 minuts<br><small>Català, punt crític</small>",
-    "codi": "30 minuts##",
-    "edat": "0",
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
-   },
-   {
-    "titol": "Alan, el musical",
-    "codi": "Alan, el musical",
-    "edat": "13",
-    "violencia": true,
-    "por": true,
-    "llenguatge": true,
-    "orig": "TP",
-    "peli": true,
-    "sx3": true
    }
 ]
