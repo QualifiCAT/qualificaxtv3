@@ -1,5 +1,14 @@
 [
    {
+    "titol": "Savis i sàvies<br><small>Josep Vallverdú</small>",
+    "codi": "Savis i sàvies##",
+    "edat": "7",
+    "por": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+   },
+   {
     "titol": "Nits sense ficció<br><small>Franco i Hollywood</small>",
     "codi": "Nits sense ficció##",
     "edat": "7",
@@ -47,15 +56,5 @@
     "orig": "TP",
     "serie": true,
     "tv3": true
-   },
-   {
-    "titol": "Marranàsia. Svetlana al Japó<br><small>tots els quatre episodis</small>",
-    "codi": "Marranàsia. Svetlana al Japó",
-    "edat": "13",
-    "drogues": true,
-    "llenguatge": true,
-    "orig": "13",
-    "serie": true,
-    "3cat": true
    }
 ]
