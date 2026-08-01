@@ -1,6 +1,16 @@
 [
    {
-    "titol": "Joc de cartes estiu<br><small>Millor restaurant informal del Pirineu de Lleida</small",
+    "titol": "Zona Zàping Club<br><small>edició de l'1/8/2026</small>",
+    "codi": "Zona Zàping Club##",
+    "edat": "7",
+    "por": true,
+    "llenguatge": true,
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+   },
+   {
+    "titol": "Joc de cartes estiu<br><small>Millor restaurant informal del Pirineu de Lleida</small>",
     "codi": "Joc de cartes##",
     "edat": "13",
     "violencia": true,
@@ -47,14 +57,5 @@
     "orig": "TP",
     "serie": true,
     "tv3": true
-   },
-   {
-    "titol": "Sí a tot<br><small>un episodi</small>",
-    "codi": "Sí a tot##",
-    "edat": "10",
-    "llenguatge": true,
-    "orig": "TP",
-    "serie": true,
-    "3cat": true
    }
 ]
