@@ -1,9 +1,11 @@
 [
    {
-    "titol": "Zona Zàping Club<br><small>edició de l'1/8/2026</small>",
+    "titol": "Zona Zàping Club<br><small>edicions de l'1 i del 2/8/2026</small>",
     "codi": "Zona Zàping Club##",
     "edat": "7",
+    "sexe": true,
     "por": true,
+    "drogues": true,
     "llenguatge": true,
     "orig": "TP",
     "serie": true,
