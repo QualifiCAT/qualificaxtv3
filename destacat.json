@@ -1,5 +1,25 @@
 [
    {
+    "titol": "El club dels poetes morts",
+    "codi": "El club dels poetes morts",
+    "edat": "10",
+    "violencia": true,
+    "sexe": true,
+    "drogues": true,
+    "orig": "12",
+    "peli": true,
+    "tv3": true
+   },
+   {
+    "titol": "La vídua de Clicquot",
+    "codi": "La vídua de Clicquot",
+    "edat": "13",
+    "drogues": true,
+    "orig": "16",
+    "peli": true,
+    "tv3": true
+   },
+   {
     "titol": "Zona Zàping Club<br><small>edicions de l'1 i del 2/8/2026</small>",
     "codi": "Zona Zàping Club##",
     "edat": "7",
@@ -35,27 +55,6 @@
     "codi": "Savis i sàvies##",
     "edat": "7",
     "por": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
-   },
-   {
-    "titol": "Nits sense ficció<br><small>Franco i Hollywood</small>",
-    "codi": "Nits sense ficció##",
-    "edat": "7",
-    "violencia": true,
-    "por": true,
-    "discriminacio": true,
-    "orig": "TP",
-    "serie": true,
-    "tv3": true
-   },
-   {
-    "titol": "Nits sense ficció<br><small>Un estiu per sempre</small>",
-    "codi": "Nits sense ficció##",
-    "edat": "7",
-    "sexe": true,
-    "drogues": true,
     "orig": "TP",
     "serie": true,
     "tv3": true
