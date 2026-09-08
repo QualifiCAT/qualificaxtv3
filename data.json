@@ -1,5 +1,6 @@
 [
   {
+    "_contenidors": ["sense-ficcio", "30-minuts", "el-monoleg-de-lany", "premis-gaudi-audio", "premis-gaudi", "infok", "el-documental"],
     "_comment": "tot això són qualificacions aproximades/calculades per a l'extensió",
     "titol": "Match point",
     "codi": "6412444",
@@ -14,16 +15,6 @@
     "titol": "I l'Àliga vola: Sergi Mingote, K2 (sense ficció)",
     "codi": "6420911",
     "edat": "10"
-  },
-  {
-    "titol": "Mirall, mirall",
-    "codi": "6296765",
-    "edat": "13"
-  },
-  {
-    "titol": "Ales blanques",
-    "codi": "6421412",
-    "edat": "13"
   },
   {
     "titol": "3 minuts",
@@ -3706,7 +3697,7 @@
     "titol": "El detectiu Conan vs. Kaito Kid (2024)",
     "codi": "6394324",
     "edat": "7",
-    "orig": "7",
+    "orig": "12 (prèviament: 7)",
     "imdb": "tt30971662",
     "peli": true,
     "sx3": true,
@@ -3717,7 +3708,7 @@
     "titol": "El detectiu Conan: Black Iron Submarine (2023)",
     "codi": "6333567",
     "edat": "13",
-    "orig": "7",
+    "orig": "12 (prèviament: 7)",
     "imdb": "tt27521477",
     "peli": true,
     "sx3": true,
