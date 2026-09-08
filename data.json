@@ -1,6 +1,6 @@
 [
   {
-    "_contenidors": ["sense-ficcio", "30-minuts", "el-monoleg-de-lany", "premis-gaudi-audio", "premis-gaudi", "infok", "el-documental"],
+    "_contenidors": ["sense-ficcio", "30-minuts", "el-monoleg-de-lany", "premis-gaudi-audio", "premis-gaudi", "infok", "el-documental", "catalunya-aixeca-el-telo"],
     "_comment": "tot això són qualificacions aproximades/calculades per a l'extensió",
     "titol": "Match point",
     "codi": "6412444",
@@ -2188,7 +2188,7 @@
   },
   {
     "titol": "Catalunya aixeca el teló 2026",
-    "codi": "656546546546546",
+    "codi": "6423298",
     "edat": "10",
     "orig": "TP",
     "peli": true,
