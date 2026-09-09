@@ -2,7 +2,7 @@
   {
     "titol": "xd",
     "codi": "contenidors",
-    "edat": ["sense-ficcio", "30-minuts", "el-monoleg-de-lany", "premis-gaudi-audio", "premis-gaudi", "infok", "el-documental", "catalunya-aixeca-el-telo"]
+    "edat": ["sense-ficcio", "30-minuts", "el-monoleg-de-lany", "premis-gaudi-audio", "premis-gaudi", "el-documental", "catalunya-aixeca-el-telo"]
   },
   {
     "_comment": "tot això són qualificacions aproximades/calculades per a l'extensió",
@@ -2161,42 +2161,38 @@
     "raons": "Continguts sexuals freqüents d'explicitació mitjana<br>Llenguatge groller freqüent d'intensitat alta"
   },
   {
-    "titol": "Catalunya aixeca el teló 2023",
-    "codi": "6238543",
+    "titol": "Catalunya aixeca el teló",
+    "codi": "catalunya-aixeca-el-telo",
     "edat": "13",
     "orig": "TP",
-    "peli": true,
-    "tv3": true,
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Catalunya aixeca el teló - Catalunya aixeca el teló 2023",
+    "codi": "6238543",
+    "edat": "13",
     "raons": "Al·lusions al consum de drogues lícites (alcohol) i il·lícites (cocaïna), presentats de manera neutra<br>Llenguatge groller reiterat d'intensitat alta",
     "mesinfo": "<b>Drogues</b><br>Es fa una broma en què un home es treu alguna cosa que tenia guardada a la jaqueta, fa que el seu amic l'esnifi i es desperti a l'instant, com si acabés de consumir cocaïna, i digui 'pica un poco pero está buena', i li fan tapar la boca. En una altra ocasió, es mostra una ampolla de whisky com per dir que és quelcom necessari per poder-se refer d'una ruptura amorosa.<br><br><b>Llenguatge groller</b><br>Es fan servir constantment expressions com 'puta', 'hòstia', 'fotre', 'merda', 'de puta madre', 'me cago en la puta', 'collons', 'cabronàs' o 'la mare que em va parir', amb una intensitat alta.<br><br>Hi ha continguts sexuals ocasionals d'explicitació mitjana, en forma de bromes, com quan un home cau incidentalment sobre l'entrecuix d'una dona i ella, conseqüentment, fa una al·lusió a la prostitució, o quan un home diu que va deixar de ser lampista perquè 'no empalmava bé' o una dona diu que ha conegut un noi que l'ha 'fotut calenta'. Hi ha freqüent violència irreal, explícita, d'intensitat lleu i no legitimada, quan un home dispara a gent de l'escenari per error o els llença una ampolla de vidre sobre el cap i cauen desplomats, o hi ha esquetxos en què es disparen tàsers o colpegen repetidament el cap d'un home contra una taula, i es fa referència a actes violents i de tortura, tot en un context clarament ficcionat. Hi ha situacions angoixants freqüents d'afectació mitjana, amb bromes insensibles sobre la mort o el suïcidi, així com els esdeveniments violents descrits anteriorment."
   },
   {
-    "titol": "Catalunya aixeca el teló 2024",
+    "titol": "Catalunya aixeca el teló - Catalunya aixeca el teló 2024",
     "codi": "6299394",
     "edat": "10",
-    "orig": "TP",
-    "peli": true,
-    "tv3": true,
     "raons": "Al·lusions al consum de drogues lícites (alcohol), presentat de manera neutra<br>Llenguatge groller ocasional d'intensitat alta",
     "mesinfo": "<b>Drogues</b><br>Es fan comentaris ocasionals i passatgers al·ludint al consum d'alcohol en un context social o festiu, sense fer referència als seus efectes.<br><br><b>Llenguatge groller</b><br>Hi ha llenguatge groller ocasional d'intensitat alta en un context gratuïtament agressiu ('podeu fer el favor d'aixecar el puto teló?!', 'collons!', 'Rafel, cony!', 'putos ninyatos!', 'sí, noi, una putada', 'què cony has de sortir tu!', 'ets la rehòstia') i d'intensitat baixa ('molta merda', 'enfotre's', 'no et facis la tonta', 'hòstia', 'et fotré pel cap', 'que s'agafin l'edatisme i se'l fiquin pel misme').<br><br>Es fan referències sexuals ocasionals d'explicitació baixa."
   },
   {
-    "titol": "Catalunya aixeca el teló 2025",
+    "titol": "Catalunya aixeca el teló - Catalunya aixeca el teló 2025",
     "codi": "6357561",
     "edat": "7",
-    "orig": "TP",
-    "peli": true,
-    "tv3": true,
     "raons": "Continguts sexuals ocasionals d'explicitació baixa<br>Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa",
     "mesinfo": "<b>Sexe</b><br>En una ocasió, el presentador, aguantant una pistola que no aconsegueix de disparar, pregunta al públic: 'algú me la sabria lubricar?', seguit d'una pausa intencionada, per acabar aclarint que es referia a l'arma.<br><br><b>Por i angoixa</b><br>El presentador de la gala ensenya sovint armes de mentida, en diferents moments del seu monòleg, per intentar atemorir el públic, i intenta disparar-les més d'un cop però no ho aconsegueix. Durant un fragment d'una obra teatral, una dona és acorralada i enduta per unes criatures, i es veuen representacions de la mort amb calaveres i esquelets enduent-se gent. Una representació d'una altra obra va acompanyada completament d'una música inquietant i lúgubre, que eventualment esdevenen esbufecs, per acompanyar els moviments d'una marioneta. Una dona canta sobre una guerra amb refugiats i morts.<br><br><b>Llenguatge groller</b><br>El presentador utilitza expressions com 'no fotem', 'hòstia', 'merda', 'colló' o 'càgon' de manera còmica pràcticament cada cop que apareix.<br><br>En una cançó, una dona canta que no vol un home que 'ni fumi, ni begui ni em pegui'."
   },
   {
-    "titol": "Catalunya aixeca el teló 2026",
+    "titol": "Catalunya aixeca el teló - Catalunya aixeca el teló 2026",
     "codi": "6423298",
     "edat": "10",
-    "orig": "TP",
-    "peli": true,
-    "tv3": true,
     "raons": "Consum de drogues lícites (alcohol), presentat de manera neutra<br>Llenguatge groller ocasional d'intensitat alta",
     "mesinfo": "<b>Drogues</b><br>Diverses escenes mostren una conversa en un bar entre dues persones mentre beuen begudes alcohòliques.<br><br><b>Llenguatge groller</b><br>Es reprodueixen les famoses declaracions de Pepe Rubianes sobre la unitat d'Espanya, censurant-ne totes les grolleries verbalment excepte l'última, 'cojones', però igualment gesticulant-les totes. També es fan servir ocasionalment les expressions 'cagat', 'merda', 'hosti' i 'fotut'.<br><br>Hi ha situacions ocasionals de por i angoixa d'afectació mitjana, quan s'escenifica la mort d'una dona gran i en una referència fugaç a un 'violador'. Es fa una referència fugaç a ser 'sexi'."
   },
@@ -8659,6 +8655,14 @@
     "edat": "7",
     "raons": "Violència ocasional, irreal, explícita, d'intensitat molt lleu, legitimada<br>Llenguatge groller ocasional d'intensitat baixa",
     "mesinfo": "<b>Violència</b><br>En alguns reptes, els concursants fan bromes pesades, fàcilment imitables, als seus familiars, com fer cops al cap amb una ampolla si fallen una pregunta, bufetejar-se amb menjar o llençar-se (o escopir-se) aigua freda a sobre.<br><br><b>Llenguatge groller</b><br>En un vídeo s'ensenya el dit del mig a càmera, sense intenció ofensiva i en un context distès. També es fan algunes bromes escatològiques i es diu 'tonto' i 'fotre'.<br><br>En una situació d'angoixa d'afectació lleu, la persona guanyadora del programa plora d'emoció."
+  },
+  {
+    "titol": "InfoK",
+    "codi": "infok",
+    "edat": "0",
+    "orig": "TP (a la fitxa de 3Cat: 7)",
+    "serie": true,
+    "sx3": true
   },
   {
     "titol": "Inuyasha",
