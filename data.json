@@ -2474,6 +2474,15 @@
     "mesinfo": "<b>Por i angoixa</b><br>S'ensenyen els cranis d'uns animals qui es diu que van caure en un lloc d'on no en van poder sortir i van morir allà."
   },
   {
+    "titol": "Crackòvia",
+    "codi": "crackovia",
+    "edat": "13",
+    "orig": "7 (prèviament: TP)",
+    "cac": "13",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Creatura (2023)",
     "codi": "6318751",
     "edat": "18",
