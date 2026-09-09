@@ -1,6 +1,10 @@
 [
   {
-    "_contenidors": ["sense-ficcio", "30-minuts", "el-monoleg-de-lany", "premis-gaudi-audio", "premis-gaudi", "infok", "el-documental", "catalunya-aixeca-el-telo"],
+    "_comment": "xd",
+    "codi": "contenidors",
+    "edat": ["sense-ficcio", "30-minuts", "el-monoleg-de-lany", "premis-gaudi-audio", "premis-gaudi", "infok", "el-documental", "catalunya-aixeca-el-telo"]
+  },
+  {
     "_comment": "tot això són qualificacions aproximades/calculades per a l'extensió",
     "titol": "Match point",
     "codi": "6412444",
