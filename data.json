@@ -1,6 +1,11 @@
 [
   {
     "titol": "xd",
+    "codi": "directes",
+    "edat": ["img.3cat.cat/multimedia/jpg/0/2/1728483392720", "jocdecartes.jpg", "img.3cat.cat/multimedia/jpg/1/8/1781167470381", "doraemon.jpg", "img.3cat.cat/multimedia/jpg/1/1/1764766110211", "vinagre.jpg", "img.3cat.cat/multimedia/jpg/7/5/1762958714357", "platsbruts.jpg"]
+  },
+  {
+    "titol": "xd",
     "codi": "contenidors",
     "edat": ["sense-ficcio", "30-minuts", "el-monoleg-de-lany", "premis-gaudi-audio", "premis-gaudi", "el-documental", "catalunya-aixeca-el-telo", "punt-de-no-retorn"]
   },
