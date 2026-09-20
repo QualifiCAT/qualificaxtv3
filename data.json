@@ -39,31 +39,31 @@
     "titol": "Clip Generació P**** 1",
     "codi": "6244503",
     "edat": "13",
-    "potser": "NO MARCAR"
+    "potser": "NO FER"
   },
   {
     "titol": "Clip Generació P**** 2",
     "codi": "6244504",
     "edat": "13",
-    "potser": "NO MARCAR"
+    "potser": "NO FER"
   },
   {
     "titol": "Clip SF Pantalla",
     "codi": "6287758",
     "edat": "10",
-    "potser": "NO MARCAR"
+    "potser": "NO FER"
   },
   {
     "titol": "Clip SF Odi",
     "codi": "6129971",
     "edat": "13",
-    "potser": "NO MARCAR"
+    "potser": "NO FER"
   },
   {
     "titol": "Clip SF Diem prou",
     "codi": "6148163",
     "edat": "13",
-    "potser": "NO MARCAR"
+    "potser": "NO FER"
   },
   {
     "titol": "3 minuts",
@@ -3670,6 +3670,7 @@
     "codi": "detectiu-conan",
     "edat": "13",
     "orig": "12 (prèviament: 7, 10, 13)",
+    "potser": "violència, situacions de por i angoixa, consum de drogues i continguts discriminatoris",
     "cac": "13",
     "imdb": "tt0131179",
     "serie": true,
