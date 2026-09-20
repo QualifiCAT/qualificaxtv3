@@ -24,6 +24,12 @@
     "potser": "violència i continguts sexuals"
   },
   {
+    "titol": "Conan",
+    "codi": "conan-el-nen-del-futur",
+    "edat": "10",
+    "serie": true
+  },
+  {
     "titol": "American History X",
     "codi": "6420484",
     "edat": "18",
@@ -14337,7 +14343,7 @@
     "mesinfo": "<b>Violència</b><br>Uns nois posseïts es dirigeixen contra una heroïna, qui els immobilitza encreuant-los els braços i deixant-los a terra. Diverses escenes mostren personatges lluitant, forcejant o caient contra el terra. Un noi els dona un cop de peu a la cara. L'episodi també inclou un intent d'agressió sexual on un noi disfressat del seu cosí bessó intenta fer-li un petó no consentit a l'heroïna, es posa nerviosa però ella l'esquiva i li etziba un cop de puny. Majoritàriament, la violència no és explícita i conté elements irreals que en faciliten el distanciament.<br><br><b>Por i angoixa</b><br>La mort d'una mare i la mort del pare d'un cosí són temes recurrents en l'episodi, tot i que es tracten amb subtilesa i no s'entra en detalls. Es veu el cos de la mare en un taüt. Un malvat posseeix a unes amigues i es tornen dolentes. Algunes de les escenes violentes o incíviques tenen una durada significativa i poden provocar tensió, si bé són d'intensitat baixa, i l'episodi es resol positivament.<br><br><b>Llenguatge groller</b><br>Uns malvats insulten a uns personatges anomenant-los 'idiotes', 'filla de papà insuportable' o 'colla d'inútils'.<br><br><b>Conductes i valors incívics</b><br>Un noi li pispa el telèfon al seu cosí, elimina els seus missatges i es fa passar per ell. Hi ha un moment en què es tanca en una dutxa i, per dissimular, fa rajar aigua a tot drap tot i que no s'estigui dutxant."
   },
   {
-    "titol": "Projecte Beta",
+    "titol": "Projecte Beta. La sèrie",
     "codi": "projecte-beta",
     "edat": "10",
     "orig": "TP (prèviament: RI)",
