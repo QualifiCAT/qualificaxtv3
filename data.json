@@ -20,42 +20,50 @@
     "_comment": "tot això són qualificacions aproximades/calculades per a l'extensió",
     "titol": "Match point",
     "codi": "6412444",
-    "edat": "13"
+    "edat": "13",
+    "potser": "violència i continguts sexuals",
   },
   {
     "titol": "American History X",
     "codi": "6420484",
-    "edat": "18"
+    "edat": "18",
+    "potser": "violència i situacions de por i angoixa"
   },
   {
     "titol": "I l'Àliga vola: Sergi Mingote, K2 (sense ficció)",
     "codi": "6420911",
-    "edat": "10"
+    "edat": "10",
+    "potser": "situacions de por i angoixa i llenguatge groller"
   },
   {
     "titol": "Clip Generació P**** 1",
     "codi": "6244503",
-    "edat": "13"
+    "edat": "13",
+    "potser": "NO MARCAR"
   },
   {
     "titol": "Clip Generació P**** 2",
     "codi": "6244504",
-    "edat": "13"
+    "edat": "13",
+    "potser": "NO MARCAR"
   },
   {
     "titol": "Clip SF Pantalla",
     "codi": "6287758",
-    "edat": "10"
+    "edat": "10",
+    "potser": "NO MARCAR"
   },
   {
     "titol": "Clip SF Odi",
     "codi": "6129971",
-    "edat": "13"
+    "edat": "13",
+    "potser": "NO MARCAR"
   },
   {
     "titol": "Clip SF Diem prou",
     "codi": "6148163",
-    "edat": "13"
+    "edat": "13",
+    "potser": "NO MARCAR"
   },
   {
     "titol": "3 minuts",
@@ -14283,6 +14291,7 @@
     "codi": "aventures-ladybug-gat-noir",
     "edat": "7",
     "orig": "TP",
+    "potser": "violència, continguts sexuals, por i angoixa, llenguatge groller i conductes i valors incívics",
     "imdb": "tt2580046",
     "csm": "tv-reviews/miraculous-tales-of-ladybug-cat-noir",
     "serie": true,
@@ -14331,6 +14340,7 @@
     "codi": "projecte-beta",
     "edat": "10",
     "orig": "TP (prèviament: RI)",
+    "potser": "conductes i valors incívics",
     "serie": true,
     "sx3": true
   },
