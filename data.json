@@ -135,6 +135,182 @@
     "serie": true
   },
   {
+    "titol": "País d'altura",
+    "codi": "pais-altura",
+    "edat": "10",
+    "potser": "llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "Crida la llevadora",
+    "codi": "crida-la-llevadora",
+    "edat": "13",
+    "potser": "situacions de por i angoixa",
+    "serie": true
+  },
+  {
+    "titol": "Totes les bèsties petites i grosses",
+    "codi": "totes-les-besties-petites-i-grosses",
+    "edat": "10",
+    "potser": "situacions de por i angoixa i continguts sobre drogues",
+    "serie": true
+  },
+  {
+    "titol": "Neon Genesis Evangelion",
+    "codi": "neon-genesis-evangelion",
+    "edat": "13",
+    "potser": "violència i situacions de por i angoixa",
+    "serie": true
+  },
+  {
+    "titol": "Fullmetal Alchemist: Brotherhood",
+    "codi": "fullmetal-alchemist-brotherhood",
+    "edat": "13",
+    "potser": "violència i situacions de por i angoixa",
+    "serie": true
+  },
+  {
+    "titol": "Cucut",
+    "codi": "cucut",
+    "edat": "18",
+    "potser": "violència",
+    "serie": true
+  },
+  {
+    "titol": "Moebius",
+    "codi": "moebius",
+    "edat": "13",
+    "potser": "continguts sexuals, situacions de por i angoixa i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "La fossa",
+    "codi": "la-fossa",
+    "edat": "13",
+    "serie": true
+  },
+  {
+    "titol": "Polseres vermelles",
+    "codi": "polseres-vermelles",
+    "edat": "13",
+    "serie": true
+  },
+  {
+    "titol": "Kubala, Moreno i Manchón",
+    "codi": "kubala-moreno-i-manchon",
+    "edat": "13",
+    "serie": true
+  },
+  {
+    "titol": "Andorra. Entre el torb i la Gestapo",
+    "codi": "andorra-entre-torb-gestapo",
+    "edat": "13",
+    "serie": true
+  },
+  {
+    "titol": "La Mari",
+    "codi": "lamari",
+    "edat": "13",
+    "serie": true
+  },
+  {
+    "titol": "Barcelona, ciutat neutral",
+    "codi": "barcelona-ciutat-neutral",
+    "edat": "10",
+    "potser": "llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "Lo Cartanyà especial 20 anys",
+    "codi": "lo-cartanya-especial-20-anys",
+    "edat": "18",
+    "potser": "continguts sobre drogues",
+    "serie": true
+  },
+  {
+    "titol": "Jet lag",
+    "codi": "jet-lag",
+    "edat": "13",
+    "serie": true
+  },
+  {
+    "titol": "Nissaga: l'herència",
+    "codi": "nissaga-herencia",
+    "edat": "13",
+    "serie": true
+  },
+  {
+    "titol": "Bojos pel surf",
+    "codi": "6420479",
+    "edat": "7",
+    "potser": "continguts sexuals i llenguatge groller"
+  },
+  {
+    "titol": "Pluja de mandonguilles",
+    "codi": "6372425",
+    "edat": "7",
+    "potser": "situacions de por i angoixa, llenguatge groller i conductes i valors incívics"
+  },
+  {
+    "titol": "Wonder",
+    "codi": "6181619",
+    "edat": "10",
+    "potser": "violència, situacions de por i angoixa i continguts sobre drogues"
+  },
+  {
+    "titol": "Espies de veritat: la pel·lícula",
+    "codi": "tt1042916",
+    "edat": "7",
+    "potser": "violència"
+  },
+  {
+    "titol": "Doraemon i l'illa del tresor",
+    "codi": "6411339",
+    "edat": "7"
+  },
+  {
+    "titol": "Doraemon al regne dels gossos",
+    "codi": "6408547",
+    "edat": "7"
+  },
+  {
+    "titol": "Doraemon i el naixement del Japó",
+    "codi": "6409184",
+    "edat": "7"
+  },
+  {
+    "titol": "Doraemon i la gran aventura a l'Antàrtida",
+    "codi": "6409939",
+    "edat": "7"
+  },
+  {
+    "titol": "Doraemon i Nobita Holmes al misteriós Museu del Futur",
+    "codi": "6408546",
+    "edat": "7"
+  },
+  {
+    "titol": "Kérity, la casa dels contes",
+    "codi": "5596522",
+    "edat": "7",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "La pel·lícula Pokémon: Et trio a tu!",
+    "codi": "6394131",
+    "edat": "7",
+    "potser": "violència i situacions de por i angoixa"
+  },
+  {
+    "titol": "13 anys... i un dia",
+    "codi": "tretze-anys-i-un-dia",
+    "edat": "13",
+    "orig": "13 (prèviament: TP)",
+    "potser": "continguts sobre drogues i llenguatge groller",
+    "cac": "13",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "3 minuts",
     "codi": "3-minuts",
     "edat": "13",
@@ -156,6 +332,7 @@
     "codi": "8-coses-a-fer-abans-de-morir",
     "edat": "10",
     "orig": "TP",
+    "potser": "llenguatge groller",
     "serie": true,
     "tv3": true
   },
@@ -497,6 +674,7 @@
     "codi": "a-2-veus",
     "edat": "10",
     "orig": "TP",
+    "potser": "llenguatge groller",
     "serie": true,
     "tv3": true
   },
@@ -534,6 +712,7 @@
     "codi": "agencia-galactica",
     "edat": "7",
     "orig": "TP",
+    "potser": "llenguatge groller i conductes i valors incívics",
     "serie": true,
     "sx3": true
   },
@@ -557,6 +736,7 @@
     "codi": "aixo-no-es-una-canco",
     "edat": "10",
     "orig": "TP",
+    "potser": "llenguatge groller",
     "serie": true,
     "tv3": true
   },
@@ -660,6 +840,7 @@
     "codi": "al-cotxe",
     "edat": "10",
     "orig": "TP",
+    "potser": "violència, continguts sobre drogues i llenguatge groller",
     "serie": true,
     "tv3": true
   },
@@ -689,6 +870,7 @@
     "codi": "al-mar",
     "edat": "7",
     "orig": "TP",
+    "potser": "llenguatge groller",
     "serie": true,
     "sx3": true
   },
@@ -826,6 +1008,7 @@
     "codi": "allo-allo",
     "edat": "10",
     "orig": "TP",
+    "potser": "continguts sexuals i continguts sobre drogues",
     "imdb": "tt0086659",
     "serie": true,
     "tv3": true
@@ -866,6 +1049,7 @@
     "codi": "animals-sapastres",
     "edat": "7",
     "orig": "TP",
+    "potser": "llenguatge groller",
     "serie": true,
     "sx3": true
   },
@@ -913,6 +1097,7 @@
     "codi": "apm",
     "edat": "13",
     "orig": "10 (prèviament: 13, TP)",
+    "potser": "violència, continguts sexuals, continguts sobre drogues, continguts discriminatoris i llenguatge groller",
     "imdb": "tt0472641",
     "cac": "13",
     "serie": true,
@@ -1219,6 +1404,7 @@
     "codi": "atrapam-si-pots",
     "edat": "10",
     "orig": "TP",
+    "potser": "continguts sexuals, continguts sobre drogues i llenguatge groller",
     "serie": true,
     "tv3": true
   },
@@ -1332,7 +1518,7 @@
   },
   {
     "titol": "Bestial!",
-    "codi": "bestial",
+    "codi": "bestial-sx3",
     "edat": "7",
     "orig": "TP",
     "imdb": "tt2485302",
@@ -1707,6 +1893,7 @@
     "codi": "bob-in-translation",
     "edat": "10",
     "orig": "10",
+    "potser": "continguts sexuals i llenguatge groller",
     "serie": true,
     "tv3": true
   },
@@ -1733,6 +1920,7 @@
     "codi": "bola-de-drac",
     "edat": "13",
     "orig": "7 (prèviament: 10) (versió censurada)",
+    "potser": "violència, continguts sexuals i continguts discriminatoris",
     "imdb": "tt0088509",
     "csm": "tv-reviews/dragon-ball",
     "serie": true,
@@ -1744,6 +1932,7 @@
     "codi": "bola-de-drac-super",
     "edat": "10",
     "orig": "10",
+    "potser": "violència, continguts sexuals, situacions de por i angoixa i llenguatge groller",
     "imdb": "tt4644488",
     "csm": "tv-reviews/dragon-ball-super",
     "serie": true,
@@ -2398,6 +2587,7 @@
     "codi": "cita-bestial",
     "edat": "7",
     "orig": "TP",
+    "potser": "situacions de por i angoixa i llenguatge groller",
     "serie": true,
     "3cat": true
   },
@@ -2517,6 +2707,7 @@
     "codi": "conan-el-nen-del-futur",
     "edat": "10",
     "orig": "7",
+    "potser": "violència",
     "imdb": "tt0077013",
     "serie": true,
     "tv3": true
@@ -2570,6 +2761,7 @@
     "codi": "conde-fonde",
     "edat": "7",
     "orig": "TP",
+    "potser": "llenguatge groller",
     "serie": true,
     "sx3": true
   },
@@ -2606,16 +2798,6 @@
     "tv3": true,
     "raons": "Continguts sexuals freqüents d'explicitació alta",
     "mesinfo": "<b>Sexe</b><br>Hi ha escenes detallades de penetració vaginal, anal, masturbació i sexe en grup. En dues de les escenes, els genitals són visibles. Alguns continguts sexuals involucren menors; una nena aprèn sobre sexe i s'insinua inconscientment a membres de la família i a altres nens, i hi ha una escena imaginària on pare i filla mantenen relacions. També hi ha freqüents referències sexuals verbals d'explicitació mitjana.<br><br>Hi ha situacions reiterades de por i angoixa d'afectació mitjana, ja que la pel·lícula profunditza en el malestar emocional de la protagonista i hi ha freqüents discussions en àmbits familiars o de parella, i algunes de les escenes vinculades a 'Sexe' contenen elements pertorbadors. Hi ha abús d'alcohol, així com consum regular de tabac i una al·lusió al consum de cocaïna, tot presentat de manera neutra. Hi ha llenguatge groller freqüent d'intensitat alta. Hi ha situacions discriminatòries amb sanció negativa."
-  },
-  {
-    "titol": "Crida la llevadora",
-    "codi": "crida-la-llevadora",
-    "edat": "13",
-    "orig": "12",
-    "imdb": "tt1983079",
-    "csm": "tv-reviews/call-the-midwife",
-    "serie": true,
-    "tv3": true
   },
   {
     "titol": "Cruïlla Comedy: festival de stand-up en català - part 1",
@@ -3065,12 +3247,30 @@
     "sx3": true
   },
   {
-    "titol": "Dr. W",
-    "codi": "dr-w",
-    "edat": "0",
+    "titol": "Divendres",
+    "codi": "divendres",
+    "edat": "13",
     "orig": "TP",
+    "cac": "13",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Doraemon (sèrie del 2005)",
+    "codi": "doraemon-el-gat-cosmic",
+    "edat": "7",
+    "orig": "TP (prèviament: 7)",
+    "potser": "violència, continguts sexuals, situacions de por i angoixa, llenguatge groller i conductes i valors incívics",
+    "imdb": "tt4083422",
+    "csm": "tv-reviews/doraemon",
     "serie": true,
     "sx3": true
+  },
+  {
+    "titol": "Doraemon (sèrie del 2005) - No t'emportis les meves coses! / Una princesa per a en Nobita!",
+    "codi": "4534331",
+    "edat": "7",
+    "raons": "Continguts sexuals ocasionals d'explicitació baixa"
   },
   {
     "titol": "Dracs: cap a nous horitzons",
@@ -3702,6 +3902,15 @@
     "mesinfo": "<b>Violència</b><br>Es veuen imatges d'edificis i pobles incendiats per l'impacte de bombes llençades des de dirigibles en un context bèl·lic i alhora irreal. Una bomba cau al mar, molt a la vora d'un port. No es veuen ferits en cap moment. Dos homes intimiden i intenten lligar amb una noia pel carrer, tot ignorant el seu malestar.<br><br><b>Por i angoixa</b><br>Inclou moments de tensió i de por que, tot i ser freqüents, tenen una durada breu. Hi ha persecucions protagonitzades per uns éssers gelatinosos de color negre. Una bruixa es presenta a la casa d'una noia i li deixa anar un encanteri que la torna vella. Un home es posa trist i el seu entorn es transforma junt amb el seu estat d'ànim: apareixen uns esperits, tot es torna negre i el seu cos es torna mucós. Una dona és encerclada per un munt de bombetes que, en encendre's, li arrabassen els poders. Una dona deixa anar els protagonistes al mig del cel en una mena d'il·lusió on uns esperits comencen a encerclar-los, un d'ells pateix una transformació i esdevé un ocell gegant; gairebé l'atrapen però escapen a l'últim segon. En altres moments també es transforma, deixant unes petjades estranyes quan torna a casa completament debilitat; es preocupen per la seva salut i es pensen que pot morir. Vegeu també 'Violència'. Tots els conflictes es resolen de manera completament positiva.<br><br><b>Drogues</b><br>Una dona gran es troba un puro i el comença a fumar apassionadament, en un moment presentat com a còmic. Diversos personatges, fins i tot un gos, se li queixen per la pudor que fa.<br><br><b>Llenguatge groller</b><br>Es fan servir expressions com 'idiota' o 'estúpid' algunes vegades."
   },
   {
+    "titol": "El club",
+    "codi": "el-club",
+    "edat": "13",
+    "orig": "TP",
+    "cac": "13",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "El club dels poetes morts (1989)",
     "codi": "32432432423432432445435435435435",
     "edat": "10",
@@ -3723,6 +3932,16 @@
     "sx3": true,
     "raons": "Violència ocasional, versemblant, no explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa ocasional d'afectació lleu",
     "mesinfo": "<b>Violència</b><br>Hi ha algunes situacions molt lleus d'assetjament escolar, per l'entrada d'una noia nova en un institut. Hi ha moments de discussions entre amics, que posteriorment s'acaben disculpant.<br><br><b>Por i angoixa</b><br>Un home amenaça en algunes ocasions d'obrir un ninot de peluix, qui en realitat és un animal màgic, amb unes tisores. Hi ha una situació de tensió, resolta positivament, quan uns personatges s'infiltren en un institut de nit, un d'ells queda enfilat en un canaló en mal estat suspès en l'aire, i un altre intenta salvar-lo enfilant-se per la teulada i també s'hi queda penjant.<br><br>Hi ha llenguatge groller d'intensitat baixa, molt ocasional tenint en compte la durada de 90 minuts de la pel·lícula: 'estúpid' dues vegades -el primer en una discussió entre nens, i el segon per descriure al fet de robar-, i 'colla d'idiotes' un cop -en referència a quina primera impressió va tenir dels qui finalment serien amics seus-. També es fan servir termes com 'negat' o 'bojos rematats'. En una cançó subtitulada, una de les línies és: 'trontollo com un pirata borratxo'. En una discussió familiar, un home li retreu a la seva dona que vol que el seu fill actuï 'com una dona', cosa que és sancionada pel relat."
+  },
+  {
+    "titol": "El cor de la ciutat",
+    "codi": "el-cor-de-la-ciutat",
+    "edat": "13",
+    "orig": "13 (prèviament: 10)",
+    "potser": "violència, continguts sobre drogues i llenguatge groller",
+    "cac": "13",
+    "serie": true,
+    "tv3": true
   },
   {
     "titol": "El crèdit (2019)",
@@ -3942,6 +4161,7 @@
     "codi": "el-foraster",
     "edat": "10",
     "orig": "TP",
+    "potser": "continguts sexuals, continguts sobre drogues i llenguatge groller",
     "serie": true,
     "tv3": true
   },
@@ -4661,6 +4881,7 @@
     "codi": "els-barrufets-2d",
     "edat": "7",
     "orig": "TP",
+    "potser": "violència i situacions de por i angoixa",
     "imdb": "tt0081933",
     "cac": "7",
     "serie": true,
@@ -4672,6 +4893,7 @@
     "codi": "els-barrufets-3d",
     "edat": "7",
     "orig": "TP",
+    "potser": "violència, situacions de por i angoixa i comportaments discriminatoris",
     "imdb": "tt14670820",
     "csm": "tv-reviews/the-smurfs-0",
     "serie": true,
@@ -5019,6 +5241,7 @@
     "codi": "grizzy-i-els-lemmings",
     "edat": "7",
     "orig": "TP",
+    "potser": "violència",
     "imdb": "tt6717058",
     "csm": "tv-reviews/grizzy-and-the-lemmings",
     "serie": true,
@@ -5206,6 +5429,7 @@
     "codi": "espies-veritat",
     "edat": "7",
     "orig": "TP (prèviament: 7)",
+    "potser": "violència, situacions de por i angoixa, llenguatge groller i conductes i valors incívics",
     "imdb": "tt0283226",
     "csm": "tv-reviews/totally-spies",
     "serie": true,
@@ -5216,6 +5440,7 @@
     "codi": "esta-passant",
     "edat": "13",
     "orig": "TP",
+    "potser": "continguts sobre drogues",
     "serie": true,
     "tv3": true
   },
@@ -5474,6 +5699,7 @@
     "codi": "euforia",
     "edat": "10",
     "orig": "TP",
+    "potser": "continguts sexuals, continguts sobre drogues i llenguatge groller",
     "imdb": "tt18358210",
     "serie": true,
     "sx3": true,
@@ -5636,6 +5862,7 @@
     "codi": "euforia-street-dance",
     "edat": "10",
     "orig": "TP",
+    "potser": "continguts sexuals i llenguatge groller",
     "serie": true,
     "sx3": true,
     "tv3": true
@@ -5675,6 +5902,7 @@
     "codi": "euforia-dance-kids",
     "edat": "7",
     "orig": "TP",
+    "potser": "llenguatge groller",
     "serie": true,
     "sx3": true,
     "tv3": true
@@ -5884,6 +6112,7 @@
     "codi": "fang",
     "edat": "7",
     "orig": "TP",
+    "potser": "llenguatge groller",
     "serie": true,
     "sx3": true
   },
@@ -6391,6 +6620,7 @@
     "codi": "fuet",
     "edat": "10",
     "orig": "TP",
+    "potser": "violència i llenguatge groller",
     "serie": true,
     "tv3": true,
     "sx3": true
@@ -6875,6 +7105,7 @@
     "codi": "guardians-nit-kimetsu",
     "edat": "18",
     "orig": "18 (prèviament: 12, 13) (temporada 1)",
+    "potser": "violència",
     "imdb": "tt9335498",
     "csm": "tv-reviews/demon-slayer",
     "serie": true,
@@ -7499,6 +7730,7 @@
     "codi": "henry-danger",
     "edat": "10",
     "orig": "7",
+    "potser": "continguts discriminatoris i conductes i valors incívics",
     "imdb": "tt3596174",
     "csm": "tv-reviews/henry-danger",
     "serie": true,
@@ -9076,6 +9308,7 @@
     "codi": "joc-de-cartes",
     "edat": "13",
     "orig": "TP",
+    "potser": "continguts discriminatoris i llenguatge groller",
     "serie": true,
     "tv3": true
   },
@@ -9282,6 +9515,7 @@
     "codi": "lacademia",
     "edat": "13",
     "orig": "10",
+    "potser": "continguts sobre drogues i llenguatge groller",
     "imdb": "tt31451555",
     "serie": true,
     "tv3": true
@@ -9957,6 +10191,7 @@
     "codi": "la-gran-cita",
     "edat": "10",
     "orig": "7",
+    "potser": "continguts sexuals, continguts sobre drogues i llenguatge groller",
     "serie": true,
     "3cat": true
   },
@@ -10349,6 +10584,7 @@
     "codi": "la-renaixenca",
     "edat": "13",
     "orig": "TP",
+    "potser": "continguts sobre drogues i llenguatge groller",
     "serie": true,
     "tv3": true,
     "33": true,
@@ -10571,6 +10807,7 @@
     "codi": "la-travessa",
     "edat": "13",
     "orig": "7 (temporada 1: TP)",
+    "potser": "llenguatge groller",
     "serie": true,
     "tv3": true,
     "3cat": true
@@ -10684,6 +10921,7 @@
     "codi": "lara-i-kali",
     "edat": "10",
     "orig": "TP",
+    "potser": "llenguatge groller",
     "serie": true,
     "sx3": true
   },
@@ -11431,6 +11669,7 @@
     "codi": "les-sisters",
     "edat": "7",
     "orig": "TP",
+    "potser": "violència, continguts sexuals, llenguatge groller i conductes i valors incívics",
     "imdb": "tt12363714",
     "serie": true,
     "sx3": true
@@ -11518,6 +11757,7 @@
     "codi": "les-tres-bessones",
     "edat": "7",
     "orig": "TP",
+    "potser": "situacions de por i angoixa, continguts sobre drogues i llenguatge groller",
     "imdb": "tt0283808",
     "serie": true,
     "sx3": true
@@ -11548,6 +11788,7 @@
     "codi": "les-tres-mosqueteres",
     "edat": "7",
     "orig": "TP",
+    "potser": "violència, situacions de por i angoixa i llenguatge groller",
     "imdb": "tt35059313",
     "serie": true,
     "sx3": true
@@ -11782,6 +12023,7 @@
     "codi": "love-cost",
     "edat": "10",
     "orig": "TP",
+    "potser": "continguts sobre drogues",
     "serie": true,
     "3cat": true,
     "tv3": true
@@ -12160,6 +12402,16 @@
     "sx3": true
   },
   {
+    "titol": "Majoria absoluta",
+    "codi": "majoria-absoluta",
+    "edat": "7",
+    "orig": "TP",
+    "potser": "llenguatge groller",
+    "cac": "7",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "MAN CITY BEAT BAYERN! (3-0 Champions League 2023 Quarter-Final Haaland Silva Rodri goals highlights) (vídeo de YouTube)",
     "codi": "985495843958493589843",
     "edat": "10",
@@ -12295,6 +12547,7 @@
     "codi": "manduka-duo",
     "edat": "7",
     "orig": "TP",
+    "potser": "llenguatge groller",
     "serie": true,
     "tv3": true,
     "sx3": true
@@ -12318,6 +12571,7 @@
     "codi": "manduka-family",
     "edat": "7",
     "orig": "TP",
+    "potser": "llenguatge groller",
     "serie": true,
     "tv3": true,
     "sx3": true
@@ -12854,6 +13108,16 @@
     "mesinfo": "<b>Violència</b><br>Hi ha una violació en una escena en què una noia li fa una fel·lació a un home a canvi d'un favor. Més tard, n'hi ha una altra en què la dona va a la casa de l'home perquè li faci un altre favor, però ell l'agredeix, la reté per la força, l'emmanilla i l'emmordassa a un llit, de cap per avall, cridant, on la despulla i la viola analment. En una posterior escena, la dona hi torna, però aquest cop ella el deixa inconscient amb una tàser, i el despulla, l'emmanilla i l'emmordassa, li insereix un objecte allargat per l'anus i li tatua el tors violentament. També hi ha violència molt greu no explícita: s'ensenyen imatges de dones torturades i violades, i un gat apareix mutilat. Hi ha una escena prolongada on un home segresta un altre home, i el deixa suspès en l'aire per uns ganxos mentre li explica les violacions i tortures que va cometre; li posa una bossa al cap, li descorda la roba i l'intenta apunyalar, però una noia el salva donant-li un cop al cap de l'agressor, que escapa malferit, però la noia el segueix i el fa descarrilar, i el seu cotxe explota amb ell dins. Una noia mata el seu pare després que ell la intentés violar.<br><br>Hi ha dues escenes breus de sexe d'explicitació alta. Hi ha por i angoixa freqüent d'afectació alta; vegeu 'Violència'. Hi ha consum reiterat d'alcohol i tabac, i consum ocasional de pastilles il·lícites, presentat de manera neutra, i es fan referències negatives a l'alcoholisme. Hi ha llenguatge groller ocasional d'intensitat alta. Hi ha altres conductes incíviques, com la corrupció, presentades de manera neutra."
   },
   {
+    "titol": "Mirall trencat",
+    "codi": "mirall-trencat",
+    "edat": "13",
+    "orig": "10 (prèviament: TP)",
+    "potser": "continguts discriminatoris",
+    "cac": "13",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Miró",
     "codi": "6215459",
     "edat": "10",
@@ -13158,6 +13422,7 @@
     "codi": "nit-i-dia",
     "edat": "18",
     "orig": "13",
+    "potser": "violència i situacions de por i angoixa",
     "imdb": "tt5101192",
     "serie": true,
     "tv3": true
@@ -13671,6 +13936,7 @@
     "codi": "one-piece",
     "edat": "13",
     "orig": "10 (prèviament: 13)",
+    "potser": "violència, continguts sobre drogues i continguts discriminatoris",
     "imdb": "tt0388629",
     "csm": "tv-reviews/one-piece",
     "serie": true,
@@ -13979,6 +14245,7 @@
     "codi": "plats-bruts",
     "edat": "13",
     "orig": "10",
+    "potser": "continguts sexuals, continguts discriminatoris i llenguatge groller",
     "imdb": "tt0352089",
     "cac": "13",
     "serie": true,
@@ -14060,6 +14327,7 @@
     "codi": "polonia",
     "edat": "13",
     "orig": "7 (prèviament: TP)",
+    "potser": "continguts sobre drogues, continguts discriminatoris i llenguatge groller",
     "imdb": "tt0764959",
     "cac": "13",
     "serie": true,
@@ -14361,7 +14629,7 @@
     "codi": "aventures-ladybug-gat-noir",
     "edat": "7",
     "orig": "TP",
-    "potser": "violència, continguts sexuals, por i angoixa, llenguatge groller i conductes i valors incívics",
+    "potser": "violència, continguts sexuals, situacions de por i angoixa, llenguatge groller i conductes i valors incívics",
     "imdb": "tt2580046",
     "csm": "tv-reviews/miraculous-tales-of-ladybug-cat-noir",
     "serie": true,
@@ -16163,6 +16431,7 @@
     "codi": "soc-i-sere",
     "edat": "10",
     "orig": "TP",
+    "potser": "llenguatge groller",
     "serie": true,
     "tv3": true
   },
@@ -16394,6 +16663,16 @@
     "edat": "7",
     "raons": "Violència reiterada, irreal, explícita, d'intensitat molt lleu, no legitimada<br>Conductes i valors incívics amb sanció negativa",
     "mesinfo": "<b>Violència</b><br>L'episodi inclou reiterades situacions de violència còmica en què un personatge gegant aparentment infligeix dany de forma involuntària contra els protagonistes, que en cap cas té alguna conseqüència realista.<br><br><b>Conductes i valors incívics</b><br>Quan un dels protagonista s'adona que anar acompanyat de cert personatge fa que la cua per entrar a comprar un gelat marxi corrents, diu: 'ser amigo tuyo puede beneficiarme'. A continuació es veu un muntatge dels protagonistes quedant-se el cinema per a ells sols, estalviant-se una multa o situacions més irreals com espantant un caixer automàtic perquè expulsi diners. Més tard s'adonen que és un personatge dolent.<br><br>Es fan servir termes com 'cretinos'. Hi ha situacions ocasionals de por o angoixa lleu (un personatge vomita implícitament després de ser intoxicat i cau a terra). Es fa èmfasi breument en què un malvat molt musculat porta uns pantalons molt curts. "
+  },
+  {
+    "titol": "Temps de silenci",
+    "codi": "temps-de-silenci",
+    "edat": "10",
+    "orig": "TP",
+    "potser": "situacions de por i angoixa",
+    "cac": "10",
+    "serie": true,
+    "tv3": true
   },
   {
     "titol": "Tens un minut?",
@@ -16776,6 +17055,7 @@
     "codi": "tot-torna",
     "edat": "13",
     "orig": "7",
+    "potser": "continguts sobre drogues i llenguatge groller",
     "serie": true,
     "tv3": true,
     "3cat": true
@@ -16793,16 +17073,6 @@
     "edat": "13",
     "raons": "Al·lusions al consum de drogues lícites (alcohol) i il·lícites (marihuana), presentades de manera neutra<br>Llenguatge groller freqüent d'intensitat alta",
     "mesinfo": "<b>Drogues</b><br>Es fan referències neutres en un context humorístic al consum de marihuana quan es comenten els ulls dels furbys, 'que sembla que hagin fumat un porro de la mida del braç de Marc Gasol'. També es fan referències neutres al consum d'alcohol ('el president de Rússia, un home amb més alcohol a la sang que a la nevera', 'com el pedal que portava l'hongarès que li va comprar la patent').<br><br><b>Llenguatge groller</b><br>Es diu 'acollonit', 'fins als collons', 'gilipollas', 'me jodí', 'que les den por culo' i 'merda', entre d'altres, sovint de manera agressiva.<br><br>Es fan referències sexuals ocasionals d'explicitació mitjana en comentar el cas Lewinsky; s'ensenya un vestit tacat que es diu que és semen que un home ensuma."
-  },
-  {
-    "titol": "Totes les bèsties petites i grosses",
-    "codi": "totes-les-besties-petites-i-grosses",
-    "edat": "10",
-    "orig": "TP",
-    "imdb": "tt10590066",
-    "csm": "tv-reviews/all-creatures-great-and-small",
-    "serie": true,
-    "tv3": true
   },
   {
     "titol": "Tria una carta",
@@ -16850,6 +17120,15 @@
     "edat": "10",
     "raons": "Mencions a drogues il·lícites (cocaïna) sense referència al seu consum i amb una presentació neutra dels seus efectes<br>Llenguatge groller ocasional d'intensitat alta",
     "mesinfo": "<b>Drogues</b><br>En un dels reptes, es demana que els concursants busquin, per un poble, una capseta amb fulla de coca a dins. Es comenta que serveix per elaborar una infusió per tractar uns mals de cap. La fulla de coca conté cocaïna. No es fan referències al seu consum. A més, una noia comenta que va de 'afters' i de 'raves'.<br><br><b>Llenguatge groller</b><br>Hi ha llenguatge groller d'intensitat alta ('no teníeu ni puta idea d'on estava', 'com ens l'hagin puto robat') i baixa (degut al context en què s'utilitzen: 'cabrons', 'joder', 'hòstia', 'collons', 'what the fuck').<br><br>Hi ha continguts sexuals ocasionals d'explicitació baixa en un retall d'un vídeo breu on una noia té un dibuix d'un penis sobre el cap."
+  },
+  {
+    "titol": "Tvist",
+    "codi": "tvist",
+    "edat": "13",
+    "orig": "TP",
+    "cac": "13",
+    "serie": true,
+    "tv3": true
   },
   {
     "titol": "Últim tango a Halifax",
@@ -17156,10 +17435,21 @@
     "mesinfo": "<b>Por i angoixa</b><br>Hi ha freqüents escenes on els protagonistes són envoltats per una foscor, liderada per un monstre amb forma de llop amb veu d'eco aterridora, que els deixa sense forces. No obstant això, la resolució del conflicte és positiva.<br><br>Hi ha violència ocasional, irreal, no explícita, d'intensitat molt lleu i no legitimada."
   },
   {
+    "titol": "Ventdelplà",
+    "codi": "ventdelpla",
+    "edat": "13",
+    "orig": "10",
+    "potser": "violència, situacions de por i angoixa i llenguatge groller",
+    "cac": "13",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Viatges Pokémon",
     "codi": "pokemon",
     "edat": "7",
     "orig": "7",
+    "potser": "violència i situacions de por i angoixa",
     "imdb": "tt14033496",
     "serie": true,
     "sx3": true
@@ -17179,6 +17469,7 @@
     "codi": "vinagreta",
     "edat": "13",
     "orig": "7",
+    "potser": "continguts sexuals i llenguatge groller",
     "serie": true,
     "3cat": true
   },
@@ -17201,6 +17492,7 @@
     "codi": "vintage",
     "edat": "13",
     "orig": "10",
+    "potser": "continguts sobre drogues, comportaments discriminatoris i llenguatge groller",
     "serie": true,
     "tv3": true
   },
@@ -17320,6 +17612,7 @@
     "codi": "vull-ser-popu",
     "edat": "10",
     "orig": "TP",
+    "potser": "llenguatge groller",
     "imdb": "tt18327948",
     "serie": true,
     "sx3": true
@@ -17665,6 +17958,7 @@
     "codi": "zona-zaping",
     "edat": "10",
     "orig": "7 (prèviament: TP)",
+    "potser": "continguts sobre drogues i llenguatge groller",
     "cac": "10", 
     "serie": true,
     "tv3": true
