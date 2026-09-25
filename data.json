@@ -323,6 +323,25 @@
     "edat": "13"
   },
   {
+    "titol": "30m Ultres d'uniforme",
+    "codi": "6146126",
+    "edat": "10"
+  },
+  {
+    "titol": "Era plaça",
+    "codi": "era-placa",
+    "edat": "10",
+    "potser": "llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "Trames",
+    "codi": "trames",
+    "edat": "7",
+    "serie": true
+  },
+  {
+    "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
     "titol": "13 anys... i un dia",
     "codi": "tretze-anys-i-un-dia",
     "edat": "13",
@@ -10735,6 +10754,28 @@
     "mesinfo": "<b>Violència</b><br>Una part del programa consisteix en una tertúlia sobre un documental emès la nit anterior per TV3, qualificat 'no recomanat per a menors de 18 anys'. Es reprodueixen fragments on un home explica una agressió que va tenir amb un home armat amb una navalla que li va acabar esquinçant la mà, que inclou imatges teatralitzades de sang caient a terra, i quan es veu un ninot sent llençat escales avall o sent bufetejat representant algunes de les tortures que els testimonis van assegurar patir durant el servei militar. Es comenta el cas d'un home que va ser violat per tres homes, aquest cop sense donar detalls de l'agressió.<br><br><b>Drogues</b><br>En la mateixa tertúlia, es denuncia que molts dels agressors eren alcohòlics o que consumien o traficaven amb drogues com l'haixix i els 'porros', i es diu que qualsevol persona que hi entrava, tot i no haver consumit mai drogues en la seva vida, en sortia drogodependent.<br><br>Hi ha por i angoixa ocasional d'afectació alta (pels continguts violents), i llenguatge groller ocasional d'intensitat alta, durant la tertúlia anteriorment descrita."
   },
   {
+    "titol": "La supervivent",
+    "codi": "la-supervivent",
+    "edat": "13",
+    "orig": "7 (prèviament a la seva emissió: 13)",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "La supervivent 1x01 - Tania",
+    "codi": "6422778",
+    "edat": "13",
+    "raons": "Por i angoixa reiterada d'afectació mitjana",
+    "mesinfo": "<b>Por i angoixa</b><br>Es fan referències reiterades als atemptats de l'11 de setembre, es fa un èmfasi constant en l'afectació emocional que va tenir per als seus supervivents i s'ensenyen imatges dels atacs, incloses imatges d'un home cobert de sang de cap a peus. L'episodi es val de música de suspens constant per emfatitzar-ne la tensió."
+  },
+  {
+    "titol": "La supervivent 1x02 - Alicia",
+    "codi": "6422781",
+    "edat": "13",
+    "raons": "Por i angoixa reiterada d'afectació mitjana",
+    "mesinfo": "<b>Por i angoixa</b><br>Es fan referències reiterades als atemptats de l'11 de setembre, se n'ensenyen imatges i es fa un èmfasi constant en l'afectació emocional que van tenir les mentides perpetuades per una suposada supervivent tant per als supervivents de debò com a per a ella mateixa. En un punt del documental s'especula que la protagonista podria haver-se suïcidat, però la investigació conclou que no és cert. L'episodi es val de música de suspens constant per emfatitzar-ne la tensió.<br><br>Hi ha conductes i valors incívics amb sanció negativa."
+  },
+  {
     "titol": "La teva mentida a l'abril",
     "codi": "la-teva-mentida-a-abril",
     "edat": "13",
@@ -13915,7 +13956,7 @@
     "edat": "10",
     "orig": "12",
     "raons": "Continguts sexuals ocasionals d'explicitació mitjana<br>Llenguatge groller ocasional d'intensitat alta",
-    "mesinfo": "<b>Sexe</b><br>Es fa una referència crua a la impotència sexual i a prendre viagra per remeiar-ho.<b>Llenguatge groller</b><br><br>Es diu 'puto', 'la mare que el va parir', 'fotre', 'joder', 'mierda' i 'cagondena'.<br>Hi ha violència ocasional, versemblant, no explícita, d'intensitat molt lleu i no legitimada, per mostrar imatges dels atracaments. Hi ha situacions ocasionals de por i angoixa d'afectació mitjà quan, per exemple, es relata com uns veïns van descobrir un cadàver al seu bloc. Hi ha consum de drogues lícites (tabac) presentat de manera negativa. Hi ha conductes i valors incívics presentats de manera negativa."
+    "mesinfo": "<b>Sexe</b><br>Es fa una referència crua a la impotència sexual i a prendre viagra per remeiar-ho.<br><br><b>Llenguatge groller</b><br>Es diu 'puto', 'la mare que el va parir', 'fotre', 'joder', 'mierda' i 'cagondena'.<br>Hi ha violència ocasional, versemblant, no explícita, d'intensitat molt lleu i no legitimada, per mostrar imatges dels atracaments. Hi ha situacions ocasionals de por i angoixa d'afectació mitjà quan, per exemple, es relata com uns veïns van descobrir un cadàver al seu bloc. Hi ha consum de drogues lícites (tabac) presentat de manera negativa. Hi ha conductes i valors incívics presentats de manera negativa."
   },
   {
     "titol": "Nivell extra",
@@ -16850,6 +16891,35 @@
     "edat": "13",
     "raons": "Continguts sexuals reiterats d'explicitació mitjana",
     "mesinfo": "<b>Sexe</b><br>Es fan referències constants verbals a continguts sexuals i sexualitzats a les xarxes en contextos d'explotació, com ara la distribució de vídeos amb càrrega sensual protagonitzats per menors, la sextorsió o la prostitució digital en una plataforma eròtica. Alguns dels continguts anteriors s'acompanyen amb imatges, que ocasionalment inclouen nuesa.<br><br>Hi ha llenguatge groller ocasional d'intensitat alta ('puta', 'cony'). Hi ha situacions de discriminació amb sanció negativa. Hi ha por i angoixa ocasional d'afectació mitjana."
+  },
+  {
+    "titol": "Teresina S.A.",
+    "codi": "teresina",
+    "edat": "10",
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Teresina S.A. 1x01 - Festa major",
+    "codi": "5660947",
+    "edat": "7",
+    "raons": "Continguts sexuals ocasionals d'explicitació baixa",
+    "mesinfo": "<b>Sexe</b><br>Una dona comenta, en to humorístic, que un home ha aprofitat quan s'ha anat la llum per aixecar-li les faldilles i tocar-li les cuixes, i demana que no li ho expliquin al seu marit."
+  },
+  {
+    "titol": "Teresina S.A. 1x02 - Festa major",
+    "codi": "5661052",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'fotuda' dues vegades, 'per què cony' i 'hòstima' una vegada cadascuna.<br><br>Hi ha situacions ocasionals de por i angoixa en fer al·lusions a la mort dels marits dels personatges. Un home rep una galtada molt lleu. Les protagonistes menteixen a un delegat del govern en un context còmic i irreal, si bé l'home és conscient que l'estan mentint."
+  },
+  {
+    "titol": "Teresina S.A. 1x03 - Sants innocents",
+    "codi": "5661055",
+    "edat": "10",
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat greu, no legitimada<br>Continguts sexuals ocasionals d'explicitació mitjana<br>Al·lusions al consum de drogues lícites (alcohol), presentat de manera positiva en un context humorístic<br>Llenguatge groller ocasional d'intensitat alta",
+    "mesinfo": "<b>Violència</b><br>S'ensenya gairebé un minut d'una corrida per televisió, on es veu un toro estocat i ensangonat.<b>Sexe</b><br>S'insinua que una dona és prostituta, quan es diu que té un problema amb els homes i que 'no cobra, va amb senyors perquè li agraden'.<br><br><b>Drogues</b><br>Una dona diu que una mica de llet amb conyac li anirà bé per fer-li passar la febre, i li responen que ben segur que li anirà bé, tot plegat en un context còmic. Es fa també una referència negativa a l'abús d'alcohol.<br><br><b>Llenguatge groller</b><br>Una dona fa servir la paraula 'putot' per definir-ne una altra. També hi ha llenguatge groller ocasional d'explicitació baixa."
   },
   {
     "titol": "Theodosia",
