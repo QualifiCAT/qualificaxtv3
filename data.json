@@ -124,8 +124,7 @@
   {
     "titol": "El rastre del llop",
     "codi": "6422798",
-    "edat": "13",
-    "potser": "violència, situacions de por i angoixa i llenguatge groller"
+    "edat": "13"
   },
   {
     "titol": "Betapodcast. El món dels Beta",
@@ -299,6 +298,29 @@
     "codi": "6394131",
     "edat": "7",
     "potser": "violència i situacions de por i angoixa"
+  },
+  {
+    "titol": "La cabra d'EVA",
+    "codi": "la-cabra",
+    "edat": "13",
+    "serie": true
+  },
+  {
+    "titol": "Crims",
+    "codi": "crims",
+    "edat": "13",
+    "serie": true
+  },
+  {
+    "titol": "Titó",
+    "codi": "tito",
+    "edat": "0",
+    "serie": true
+  },
+  {
+    "titol": "SF Rèplica",
+    "codi": "6425456",
+    "edat": "13"
   },
   {
     "titol": "13 anys... i un dia",
@@ -4875,6 +4897,56 @@
     "csm": "tv-reviews/3below-tales-of-arcadia",
     "serie": "true",
     "sx3": true
+  },
+  {
+    "titol": "Elma i amics",
+    "codi": "elma-i-amics",
+    "edat": "10",
+    "orig": "TP",
+    "serie": true,
+    "3cat": true
+  },
+  {
+    "titol": "Elma i amics 1x01 - L'Elma emmarca un pòster i l'Albert presenta el nòvio a la seva àvia",
+    "codi": "6361547",
+    "edat": "10",
+    "raons": "Al·lusions al consum de drogues lícites (tabac), presentat de manera neutra"
+  },
+  {
+    "titol": "Elma i amics 1x02 - L'Elma li diu a la seva companya de pis quin és el seu estri de cuina preferit",
+    "codi": "6361548",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "Elma i amics 1x03 - L'Elma deixa la psicòloga i rep un consell per rebre els bizums",
+    "codi": "6361546",
+    "edat": "10",
+    "raons": "Al·lusions al consum de drogues lícites (alcohol), presentat de manera neutra"
+  },
+  {
+    "titol": "Elma i amics 1x04 - Nevera precària: de què parlen els aliments quan no els veiem?",
+    "codi": "6361550",
+    "edat": "10",
+    "raons": "Continguts sexuals ocasionals d'explicitació mitjana"
+  },
+  {
+    "titol": "Elma i amics 1x05 - L'Elisabet, un personatge imaginari que es va inventar l'Albert",
+    "codi": "6361551",
+    "edat": "10",
+    "raons": "Consum de drogues lícites (alcohol), presentat de manera neutra<br>Llenguatge groller freqüent d'intensitat baixa"
+  },
+  {
+    "titol": "Elma i amics 1x06 - Els pitis: la vida social i amorosa de les cigarretes",
+    "codi": "6361549",
+    "edat": "10",
+    "raons": "Al·lusions al consum de drogues lícites (alcohol), presentat de manera neutra<br>Llenguatge groller freqüent d'intensitat baixa"
+  },
+  {
+    "titol": "Elma i amics 1x07 - Uns coloms, els productes d'una dutxa, uns cafès i uns mobles",
+    "codi": "6361552",
+    "edat": "7",
+    "raons": "Continguts sexuals ocasionals d'explicitació baixa<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Els barrufets 2D",
@@ -11932,6 +12004,28 @@
     "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'cagada', 'ni puta gràcia' i 'putada'.<br><br>Hi ha continguts sexuals ocasionals d'explicitació baixa."
   },
   {
+    "titol": "Lo repte olímpic",
+    "codi": "lo-repte-olimpic",
+    "edat": "13",
+    "orig": "TP",
+    "serie": true,
+    "3cat": true
+  },
+  {
+    "titol": "Lo repte olímpic 1x01 - Fer història no és suficient: Laura Heredia qüestiona el sistema de beques",
+    "codi": "6421548",
+    "edat": "10",
+    "raons": "Llenguatge groller ocasional d'intensitat alta",
+    "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'folleu' dues vegades. També hi ha llenguatge groller ocasional d'intensitat baixa.<br><br>Hi ha continguts sexuals d'explicitació baixa quan es comenta, sense entrar en detalls, la freqüència en què els esportistes mantenen relacions sexuals."
+  },
+  {
+    "titol": "Lo repte olímpic 1x02 - De voler desaparèixer a somiar amb ser olímpica: la dura confessió de Maria Heras",
+    "codi": "6421545",
+    "edat": "13",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat greu, no legitimada",
+    "mesinfo": "<b>Violència</b><br>La protagonista relata que patia assetjament a l'escola i maltractaments a casa i que va intentar suïcidar-se dues vegades. Dona detalls sobre els intents; el primer cop, va prendre alcohol barrejat amb multitud de pastilles, i el segon cop, va llençar-se per la finestra.<br><br>Hi ha situacions freqüents de por i angoixa d'afectació mitjana lligades a la variable anterior."
+  },
+  {
     "titol": "Looney Tunes Cartoons",
     "codi": "looney-tunes-cartoons",
     "edat": "7",
@@ -13814,6 +13908,14 @@
     "orig": "TP",
     "raons": "Violència freqüent, irreal, no explícita, d'intensitat greu, no legitimada<br>Por i angoixa ocasional d'afectació mitjana<br>Comportaments discriminatoris amb sanció negativa",
     "mesinfo": "<b>Violència</b><br>Es mostren, provinents de pel·lícules, escenes de batalles en situacions temporals llunyans a la realitat d'un menor, amb l'ús de cavalls, espases, escuts o canons, i on es veu clarament que són orquestrades i no es mostren cops explícits. No obstant això, se n'ensenyen diverses, i a vegades hi ha presència de morts (gent a terra immòbil) i s'ensenya una escena en què multitud de quadrigues cauen per un barranc. També s'ensenyen breument corrides de toros, on en un cas el torero és atacat pel toro. Finalment, en una escena, s'ensenyen homes clavats a unes creus i un d'ells porta una corona d'espines clavada al front.<br><br><b>Por i angoixa</b><br>Vegeu 'Violència'.<br><br><b>Discriminació, racisme i xenofòbia</b><br>Hi ha discriminació sancionada negativament quan es diu que la representació de l'expulsió d'hordes musulmanes en una pel·lícula era una bona mostra, per a Franco, de la defensa dels valors catòlics.<br><br>Hi ha imatges fugaces de consum de tabac i referències a alguns actes incívics (corrupció). Es diu fugaçment que una actriu era 'sensual'."
+  },
+  {
+    "titol": "Nits sense ficció - El cas de l'avi pistoler",
+    "codi": "6424022",
+    "edat": "10",
+    "orig": "12",
+    "raons": "Continguts sexuals ocasionals d'explicitació mitjana<br>Llenguatge groller ocasional d'intensitat alta",
+    "mesinfo": "<b>Sexe</b><br>Es fa una referència crua a la impotència sexual i a prendre viagra per remeiar-ho.<b>Llenguatge groller</b><br><br>Es diu 'puto', 'la mare que el va parir', 'fotre', 'joder', 'mierda' i 'cagondena'.<br>Hi ha violència ocasional, versemblant, no explícita, d'intensitat molt lleu i no legitimada, per mostrar imatges dels atracaments. Hi ha situacions ocasionals de por i angoixa d'afectació mitjà quan, per exemple, es relata com uns veïns van descobrir un cadàver al seu bloc. Hi ha consum de drogues lícites (tabac) presentat de manera negativa. Hi ha conductes i valors incívics presentats de manera negativa."
   },
   {
     "titol": "Nivell extra",
