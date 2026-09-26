@@ -124,7 +124,8 @@
   {
     "titol": "El rastre del llop",
     "codi": "6422798",
-    "edat": "13"
+    "edat": "13",
+    "potser": "violència, situacions de por i angoixa i llenguatge groller"
   },
   {
     "titol": "Betapodcast. El món dels Beta",
@@ -265,27 +266,32 @@
   {
     "titol": "Doraemon i l'illa del tresor",
     "codi": "6411339",
-    "edat": "7"
+    "edat": "7",
+    "potser": "violència i situacions de por i angoixa"
   },
   {
     "titol": "Doraemon al regne dels gossos",
     "codi": "6408547",
-    "edat": "7"
+    "edat": "7",
+    "potser": "violència i situacions de por i angoixa"
   },
   {
     "titol": "Doraemon i el naixement del Japó",
     "codi": "6409184",
-    "edat": "7"
+    "edat": "7",
+    "potser": "violència i situacions de por i angoixa"
   },
   {
     "titol": "Doraemon i la gran aventura a l'Antàrtida",
     "codi": "6409939",
-    "edat": "7"
+    "edat": "7",
+    "potser": "violència i situacions de por i angoixa"
   },
   {
     "titol": "Doraemon i Nobita Holmes al misteriós Museu del Futur",
     "codi": "6408546",
-    "edat": "7"
+    "edat": "7",
+    "potser": "violència, situacions sexuals i situacions de por i angoixa"
   },
   {
     "titol": "Kérity, la casa dels contes",
@@ -320,12 +326,14 @@
   {
     "titol": "SF Rèplica",
     "codi": "6425456",
-    "edat": "13"
+    "edat": "13",
+    "potser": "continguts discriminatoris"
   },
   {
     "titol": "30m Ultres d'uniforme",
     "codi": "6146126",
-    "edat": "10"
+    "edat": "10",
+    "potser": "llenguatge groller"
   },
   {
     "titol": "Era plaça",
@@ -16904,8 +16912,8 @@
     "titol": "Teresina S.A. 1x01 - Festa major",
     "codi": "5660947",
     "edat": "7",
-    "raons": "Continguts sexuals ocasionals d'explicitació baixa",
-    "mesinfo": "<b>Sexe</b><br>Una dona comenta, en to humorístic, que un home ha aprofitat quan s'ha anat la llum per aixecar-li les faldilles i tocar-li les cuixes, i demana que no li ho expliquin al seu marit."
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada",
+    "mesinfo": "<b>Violència</b><br>Una dona comenta, en to humorístic, que un home ha aprofitat quan s'ha anat la llum per aixecar-li les faldilles i tocar-li les cuixes, i demana que no li ho expliquin al seu marit."
   },
   {
     "titol": "Teresina S.A. 1x02 - Festa major",
@@ -16919,7 +16927,35 @@
     "codi": "5661055",
     "edat": "10",
     "raons": "Violència ocasional, versemblant, no explícita, d'intensitat greu, no legitimada<br>Continguts sexuals ocasionals d'explicitació mitjana<br>Al·lusions al consum de drogues lícites (alcohol), presentat de manera positiva en un context humorístic<br>Llenguatge groller ocasional d'intensitat alta",
-    "mesinfo": "<b>Violència</b><br>S'ensenya gairebé un minut d'una corrida per televisió, on es veu un toro estocat i ensangonat.<b>Sexe</b><br>S'insinua que una dona és prostituta, quan es diu que té un problema amb els homes i que 'no cobra, va amb senyors perquè li agraden'.<br><br><b>Drogues</b><br>Una dona diu que una mica de llet amb conyac li anirà bé per fer-li passar la febre, i li responen que ben segur que li anirà bé, tot plegat en un context còmic. Es fa també una referència negativa a l'abús d'alcohol.<br><br><b>Llenguatge groller</b><br>Una dona fa servir la paraula 'putot' per definir-ne una altra. També hi ha llenguatge groller ocasional d'explicitació baixa."
+    "mesinfo": "<b>Violència</b><br>S'ensenya gairebé un minut d'una corrida per televisió, on es veu un toro estocat i ensangonat.<br><br><b>Sexe</b><br>S'insinua que una dona és prostituta, quan es diu que té un problema amb els homes i que 'no cobra, va amb senyors perquè li agraden'.<br><br><b>Drogues</b><br>Una dona diu que una mica de llet amb conyac li anirà bé per fer-li passar la febre, i li responen que ben segur que li anirà bé, tot plegat en un context còmic. Es fa també una referència negativa a l'abús d'alcohol.<br><br><b>Llenguatge groller</b><br>Una dona fa servir la paraula 'putot' per definir-ne una altra. També hi ha llenguatge groller ocasional d'explicitació baixa."
+  },
+  {
+    "titol": "Teresina S.A. 1x04 - Nadal",
+    "codi": "5661054",
+    "edat": "10",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada<br>Continguts sexuals freqüents d'explicitació baixa",
+    "mesinfo": "<b>Violència</b><br>S'ensenya una escena en un televisor on un home intenta mantenir relacions sexuals amb la seva filla.<br><br><b>Sexe</b><br>S'ensenyen diverses escenes d'una telenovel·la amorosa en un televisor on es mostren parelles insinuant-se, inclosa la escena descrita anteriorment. També es fan comentaris freqüents sobre un suposat exhibicionista que es despulla a la gent.<br><br>Hi ha al·lusions al consum de drogues lícites (alcohol), vinculades a un personatge negatiu. Hi ha llenguatge groller ocasional d'intensitat baixa."
+  },
+  {
+    "titol": "Teresina S.A. 1x05 - Carnestoltes",
+    "codi": "5661053",
+    "edat": "7",
+    "raons": "Continguts sexuals ocasionals d'explicitació baixa<br>Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Sexe</b><br>Un home breument fa veure que té el penis fora dels pantalons amb el dit.<br><br><b>Llenguatge groller</b><br>Es diu 'fotre' de manera ocasional."
+  },
+  {
+    "titol": "Teresina S.A. 1x06 - Setmana Santa",
+    "codi": "5661075",
+    "edat": "7",
+    "raons": "Continguts sexuals ocasionals d'explicitació baixa<br>Consum de drogues lícites (tabac), presentat de manera negativa",
+    "mesinfo": "<b>Sexe</b><br>Una dona ve a buscar unes calces que li han caigut d'un pis més amunt i diu que són per a un home; diuen de la dona que és una marrana.<br><br><b>Drogues</b><br>Una dona apareix fumant i li ho recriminen. També es fa una referència negativa a l'alcohol."
+  },
+  {
+    "titol": "Teresina S.A. 1x07 - Rams",
+    "codi": "5661076",
+    "edat": "7",
+    "raons": "Continguts sexuals ocasionals d'explicitació baixa<br>Al·lusions al consum de drogues lícites (tabac, alcohol), presentat de manera negativa<br>Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Sexe</b><br>Una persona malpensa quan es diu que el pèl llarg és molest per a les dones al llit.<br><br><b>Drogues</b><br>Es fan bromes sobre fumar i beure alcohol en un context que essencialment les presenta com a substàncies no desitjables.<br><br><b>Llenguatge groller</b><br>S'exclama 'hostia' un cop."
   },
   {
     "titol": "Theodosia",
