@@ -16955,7 +16955,48 @@
     "codi": "5661076",
     "edat": "7",
     "raons": "Continguts sexuals ocasionals d'explicitació baixa<br>Al·lusions al consum de drogues lícites (tabac, alcohol), presentat de manera negativa<br>Llenguatge groller ocasional d'intensitat baixa",
-    "mesinfo": "<b>Sexe</b><br>Una persona malpensa quan es diu que el pèl llarg és molest per a les dones al llit.<br><br><b>Drogues</b><br>Es fan bromes sobre fumar i beure alcohol en un context que essencialment les presenta com a substàncies no desitjables.<br><br><b>Llenguatge groller</b><br>S'exclama 'hostia' un cop."
+    "mesinfo": "<b>Sexe</b><br>Una persona malpensa quan es diu que el pèl llarg és molest per a les dones al llit.<br><br><b>Drogues</b><br>Es fan bromes sobre fumar i beure alcohol en un context que essencialment les presenta com a substàncies no desitjables.<br><br><b>Llenguatge groller</b><br>S'exclama 'hostia' un cop.<br><br>Hi ha conductes incíviques "
+  },
+  {
+    "titol": "Teresina S.A. 1x08 - Les falles",
+    "codi": "5661059",
+    "edat": "7",
+    "raons": "Consum de drogues lícites (tabac, alcohol), presentat de manera negativa<br>Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Drogues</b><br>Hi ha consum de tabac i d'alcohol per part de personatges menors i negatius. En una celebració es brinda amb cava, però no hi ha imatges de consum.<br><br><b>Llenguatge groller</b><br>Es diu 'merda', i hi ha escenes d'agressivitat verbal."
+  },
+  {
+    "titol": "Teresina S.A. 1x09 - Sant Jordi",
+    "codi": "5661074",
+    "edat": "10",
+    "raons": "Continguts sexuals freqüents d'explicitació baixa",
+    "mesinfo": "<b>Sexe</b><br>Hi ha freqüents insinuacions sexuals. Per exemple, es diu que una dona surt amb molts homes i que agafarà una malaltia. Una dona parla de com és d'atractiu per a ella un home pelut. Un home entra en una casa pensant-se que ha estat triat per ser parella d'una de les protagonistes i se li donen un seguit d'instruccions quotidianes que malinterpreta com a dobles sentits, que va in crescendo, fins que se li diu que obri els pètals d'una rosa i pregunta si és alguna mena de joc d'iniciació. Es diu que un home i una dona fa una setmana que estan tancats a un pis i que fan un rebombori que senten els veïns.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa ('collons', 'fotre')."
+  },
+  {
+    "titol": "Teresina S.A. 1x10 - Pel maig, comunions",
+    "codi": "5661058",
+    "edat": "10",
+    "raons": "Continguts sexuals ocasionals d'explicitació mitjana",
+    "mesinfo": "<b>Sexe</b><br>Es fan referències explícites a la disfunció erèctil, en llegir una carta escrita per un sexòleg. També es fan descripcions d'explicitació baixa al·ludint a l'acte sexual.<br><br>Hi ha conductes incíviques (mentir, obrir cartes alienes) en un context còmic."
+  },
+  {
+    "titol": "Teresina S.A. 1x11 - San Fermín",
+    "codi": "5661072",
+    "edat": "10",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada<br>Continguts sexuals freqüents d'explicitació baixa<br>Llenguatge groller ocasional d'intensitat alta",
+    "mesinfo": "<b>Violència</b><br>Un home entra a la casa de les protagonistes i grapeja una d'elles pensant-se que havia entrat a una casa de barrets.<br><br><b>Sexe</b><br>Uns veïns de les protagonistes munten una 'sauna relax' al seu país i sovint es veuen homes entrar-hi o sent seduïts per entrar-hi, però mai es veu què s'hi fa dins. En una ocasió, es compara el negoci amb 'un bar amb unes llumetes vermelles'. Per venjar-se'n, els propietaris envien a les protagonistes una caixa gegant de regal on, en obrir-se, en surt un home vestit en calçotets que flexiona els músculs davant d'elles i dels seus amics, i que acaba llençant-los els calçotets, quedant implícitament nu. En un altre moment, es fan comentaris sobre el físic dels veïns, dient que tenen pits de dona.<br><br><b>Llenguatge groller</b><br>Es fa servir l'expressió 'travestis', i també, durant una discussió, se'ls anomena 'depravats', però se'n defensen.<br><br>Hi ha situacions de discriminació presentades negativament en referència als continguts anteriors."
+  },
+  {
+    "titol": "Teresina S.A. 1x12 - Turisme",
+    "codi": "5661073",
+    "edat": "10",
+    "raons": "Continguts sexuals freqüents d'explicitació baixa",
+    "mesinfo": "<b>Sexe</b><br>Les protagonistes conviden un pintor que resulta ser un faldiller i s'insinua freqüentment a una d'elles. Mentre model·len figures, es comenta si ficar-li 'bultos a les parts' i a deixar-los 'ben dotats'.<br><br>Hi ha moments d'agressivitat verbal i llenguatge groller ocasional d'intensitat baixa ('beneita', 'fotre el camp', 'tonta')."
+  },
+  {
+    "titol": "Teresina S.A. 1x13 - De nou, festa major",
+    "codi": "5661056",
+    "edat": "0",
+    "mesinfo": "Hi ha al·lusions sexuals molt lleus en referència a fets introduïts en episodis anteriors, no contextualitzats en aquest episodi."
   },
   {
     "titol": "Theodosia",
