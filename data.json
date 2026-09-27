@@ -356,6 +356,133 @@
     "serie": true
   },
   {
+    "titol": "Moon",
+    "codi": "6420491",
+    "edat": "13",
+    "potser": "situacions de por i angoixa i llenguatge groller"
+  },
+  {
+    "titol": "Tren de nit a Lisboa",
+    "codi": "6360955",
+    "edat": "10",
+    "potser": "violència, situacions de por i angoixa i continguts sobre drogues"
+  },
+  {
+    "titol": "Un regne unit",
+    "codi": "6339293",
+    "edat": "10",
+    "potser": "violència, continguts sobre drogues i llenguatge groller"
+  },
+  {
+    "titol": "L'últim ballarí de Mao",
+    "codi": "6420804",
+    "edat": "7",
+    "potser": "continguts sexuals, situacions de por i angoixa, continguts discriminatoris i llenguatge groller"
+  },
+  {
+    "titol": "Bad teacher",
+    "codi": "6375311",
+    "edat": "13",
+    "potser": "continguts sexuals, continguts sobre drogues i llenguatge groller"
+  },
+  {
+    "titol": "Què se n'ha fet, dels Morgan?",
+    "codi": "6372343",
+    "edat": "10",
+    "potser": "violència"
+  },
+  {
+    "titol": "Begin again",
+    "codi": "6372025",
+    "edat": "13",
+    "potser": "llenguatge groller"
+  },
+  {
+    "titol": "L'últim soldat",
+    "codi": "6410835",
+    "edat": "10",
+    "potser": "violència, situacions de por i angoixa i llenguatge groller"
+  },
+  {
+    "titol": "Una família de Tòquio",
+    "codi": "6367890",
+    "edat": "10",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "La meva setmana amb Marilyn",
+    "codi": "6101596",
+    "edat": "10",
+    "potser": "continguts sobre drogues"
+  },
+  {
+    "titol": "Un amor",
+    "codi": "6355071",
+    "edat": "18",
+    "potser": "continguts sexuals"
+  },
+  {
+    "titol": "L'àvia i el foraster",
+    "codi": "6393646",
+    "edat": "10",
+    "potser": "llenguatge groller"
+  },
+  {
+    "titol": "Valenciana",
+    "codi": "6381097",
+    "edat": "13",
+    "potser": "continguts sexuals, continguts sobre drogues i llenguatge groller"
+  },
+  {
+    "titol": "La princesa promesa",
+    "codi": "6092910",
+    "edat": "10",
+    "potser": "violència"
+  },
+  {
+    "titol": "La furgo",
+    "codi": "6378125",
+    "edat": "10",
+    "potser": "llenguatge groller"
+  },
+  {
+    "titol": "La jove Jane Austen",
+    "codi": "6373744",
+    "edat": "10",
+    "potser": "violència, continguts sexuals i continguts sobre drogues"
+  },
+  {
+    "titol": "Soc dona",
+    "codi": "6375433",
+    "edat": "13",
+    "potser": "violència, continguts sobre drogues i llenguatge groller"
+  },
+  {
+    "titol": "Ja t'enyoro",
+    "codi": "5805850",
+    "edat": "13",
+    "potser": "continguts sexuals i llenguatge groller"
+  },
+  {
+    "titol": "Living",
+    "codi": "6304052",
+    "edat": "10",
+    "potser": "continguts sexuals i continguts sobre drogues"
+  },
+  {
+    "titol": "Freeheld",
+    "codi": "5669638",
+    "edat": "10",
+    "potser": "continguts sexuals, continguts sobre drogues i llenguatge groller"
+  },
+  {
+    "titol": "L'un per l'altre",
+    "codi": "lun-per-laltre",
+    "edat": "13",
+    "potser": "continguts sexuals, continguts sobre drogues i llenguatge groller",
+    "serie": true
+  },
+  {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
     "titol": "13 anys... i un dia",
     "codi": "tretze-anys-i-un-dia",
@@ -14265,6 +14392,17 @@
     "sx3": true,
     "raons": "Violència ocasional, versemblant, explícita, d'intensitat greu, no legitimada",
     "mesinfo": "<b>Violència</b><br>Hi ha violència freqüent, irreal, no explícita, lleu i legitimada. No obstant això, destaquen dues escenes especialment cruents, on disparen a un home i mor dessagnat, i on apunyalen gràficament a un altre home.<br><br>Hi ha por i angoixa freqüent d'afectació mitjana, llenguatge groller freqüent d'intensitat baixa, consum de drogues lícites presentat de manera negativa, i una referència sexual d'explicitació baixa, en relació amb un personatge femení secundari presentat de manera sexualitzada durant tota la pel·lícula."
+  },
+  {
+    "titol": "Paris, Texas (1984)",
+    "codi": "6420805",
+    "edat": "13",
+    "orig": "TP",
+    "imdb": "tt0087884",
+    "peli": true,
+    "tv3": true,
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat greu, no legitimada",
+    "mesinfo": "<b>Violència</b><br>En una escena, un agressor reprodueix un relat verbal i explícit de violència masclista.<br><br>Hi ha consum de drogues lícites (tabac, alcohol), presentat de manera neutra. Hi ha continguts sexuals ocasionals d'explicitació baixa. Hi ha situacions de por i angoixa ocasionals d'explicitació mitjana. Hi ha llenguatge groller ocasional d'intensitat baixa."
   },
   {
     "titol": "Pau amb xocolata (2021)",
