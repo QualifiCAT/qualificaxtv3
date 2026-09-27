@@ -483,6 +483,24 @@
     "serie": true
   },
   {
+    "titol": "Espai Eufòria",
+    "codi": "espai-euforia",
+    "edat": "10",
+    "serie": true
+  },
+  {
+    "titol": "Jo soc la Raisa",
+    "codi": "jo-soc-la-raisa",
+    "edat": "10",
+    "serie": true
+  },
+  {
+    "titol": "EVA et busca",
+    "codi": "eva-et-busca",
+    "edat": "10",
+    "serie": true
+  },
+  {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
     "titol": "13 anys... i un dia",
     "codi": "tretze-anys-i-un-dia",
