@@ -515,6 +515,110 @@
     "serie": true
   },
   {
+    "titol": "SF Llum i llibertat",
+    "codi": "6427622",
+    "edat": "10",
+    "potser": "llenguatge groller"
+  },
+  {
+    "titol": "Katalonski",
+    "codi": "katalonski",
+    "edat": "10",
+    "potser": "llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "La granja",
+    "codi": "la-granja",
+    "edat": "13",
+    "serie": true
+  },
+  {
+    "titol": "Cròniques de la veritat oculta",
+    "codi": "croniques-de-la-veritat-oculta",
+    "edat": "13",
+    "serie": true
+  },
+  {
+    "titol": "Dinamita",
+    "codi": "dinamita",
+    "edat": "13",
+    "serie": true
+  },
+  {
+    "titol": "Més dinamita",
+    "codi": "mesdinamita",
+    "edat": "13",
+    "serie": true
+  },
+  {
+    "titol": "Rosa",
+    "codi": "rosa",
+    "edat": "13",
+    "serie": true
+  },
+  {
+    "titol": "Cal trobar la Sara",
+    "codi": "cal-trobar-la-sara",
+    "edat": "13",
+    "serie": true
+  },
+  {
+    "titol": "Quico",
+    "codi": "quico",
+    "edat": "10",
+    "serie": true
+  },
+  {
+    "titol": "Arròs covat",
+    "codi": "arroscovat",
+    "edat": "13",
+    "potser": "continguts sexuals, continguts sobre drogues, continguts discriminatoris i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "Heavies tendres",
+    "codi": "heavies-tendres",
+    "edat": "13",
+    "potser": "continguts sobre drogues, continguts discriminatoris i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "Heavies tendres: La pel·lícula",
+    "codi": "6403832",
+    "edat": "13",
+    "potser": "continguts sobre drogues, continguts discriminatoris i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "Oh, Europa!",
+    "codi": "oh-europa",
+    "edat": "13",
+    "potser": "continguts sexuals, continguts sobre drogues i continguts discriminatoris",
+    "serie": true
+  },
+  {
+    "titol": "Oh, Espanya!",
+    "codi": "oh-espanya",
+    "edat": "13",
+    "potser": "continguts sobre drogues",
+    "serie": true
+  },
+  {
+    "titol": "Jokebox",
+    "codi": "jokebox",
+    "edat": "13",
+    "potser": "violència, continguts sexuals i continguts discriminatoris",
+    "serie": true
+  },
+  {
+    "titol": "Benvinguts a Patatamón!",
+    "codi": "benvinguts-a-patatamon",
+    "edat": "13",
+    "potser": "continguts sexuals, continguts sobre drogues i continguts discriminatoris",
+    "serie": true
+  },
+  {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
     "titol": "13 anys... i un dia",
     "codi": "tretze-anys-i-un-dia",
@@ -10512,6 +10616,21 @@
     "sx3": true,
     "raons": "Violència freqüent, irreal, no explícita, d'intensitat molt lleu, legitimada<br>Comportaments discriminatoris amb sanció negativa",
     "mesinfo": "<b>Violència</b><br>Un gat i un corb es barallen verbalment i físicament; un li diu 'desgraciat' i l'altre l'insulta pel seu pes; vegeu l'apartat següent. Una noia agafa un gat de males maneres en algunes ocasions per demanar-li que deixin de perseguir-la. Uns gats surten disparats per la finestra (més tard els veiem a terra, immòbils), perquè fracassen en l'intent d'entretenir a una cort reial. En un d'aquests intents, un gat llença punyals a una gata com a part d'una actuació, i cap d'ells impacta en ella tret de l'últim, que li fa caure la roba, despullant-la, i marxa avergonyida tapant-se el pit (no té òrgans sexuals però tot plegat es presenta com a broma per a adults). Hi ha diversos moments en què uns gats lluiten entre ells amb espases, fletxes, maces amb cadenes i altres armes medievals; mentre que les batalles generalment es presenten de manera no explícita i còmica, en una ocasió, l'autor dels cops és un dels personatges positius, qui pega amb el seu bastó a un dels guerrers per deixar-lo fora de combat i poder seguir en l'intent d'escapar i protegir la protagonista.<br><br><b>Discriminació, racisme i xenofòbia</b><br>Un gat amb sobrepès és objecte de múltiples bromes. Li diuen 'foca' o 'gatot'. Una multitud de gats es neguen a portar-lo a l'esquena. Com que és un golafre, hi ha un moment en què cau en una gerra gegant plena de gelatina i s'hi queda atrapat, i una noia, pensant-se que és mort, el plora i li ho recrimina: 'ets un golut i un ximple'. A vegades, ell mateix fa bromes sobre el seu 'excés de pes'. El personatge, però, es fa valer en tot moment i queda demostrat pel relat que el seu 'pes' no és impediment per complir la seva missió de salvar i protegir la protagonista, junt amb els seus amics.<br><br>Hi ha situacions ocasionals de por i angoixa d'afectació lleu en relació amb alguns dels continguts descrits en els apartats anteriors, així com en uns altres: un camió gairebé atropella una noia i un gat; una noia entra en un regne i li diuen que ha de fugir ara que pot; enderroquen una torre gegant; una noia cau d'una torre altíssima."
+  },
+  {
+    "titol": "La Huella del Crimen",
+    "codi": "la-huella-del-crimen",
+    "edat": "13",
+    "serie": true,
+    "telemadrid": true,
+    "misc": true
+  },
+  {
+    "titol": "La Huella del Crimen 1x03 - El crimen de la guardia urbana",
+    "codi": "9483954389435984359",
+    "edat": "13",
+    "raons": "Por i angoixa reiterada d'afectació mitjana",
+    "mesinfo": "<b>Por i angoixa</b><br>Es fan referències reiterades a un crim, es parla de cremar cadàvers, s'analitza superficialment el perfil psicològic d'una assassina i s'intenten recrear alguns dels esdeveniments, com ara com es podria haver disparat una bala i cap a on. No s'inclouen, però, imatges susceptibles de ferir la sensibilitat. També es fan al·lusions fugaces a un cas de pornovenjança.<br><br>Hi ha violència ocasional, versemblant, no explícita, d'intensitat greu i no legitimada, continguts sexuals ocasionals d'explicitació mitjana, al·lusions a drogues il·lícites presentades negativament, i llenguatge groller ocasional d'intensitat baixa, tot vinculat a la variable anterior."
   },
   {
     "titol": "La La Land (2016)",
