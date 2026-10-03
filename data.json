@@ -122,12 +122,6 @@
     "serie": true
   },
   {
-    "titol": "El rastre del llop",
-    "codi": "6422798",
-    "edat": "13",
-    "potser": "violència, situacions de por i angoixa i llenguatge groller"
-  },
-  {
     "titol": "Betapodcast. El món dels Beta",
     "codi": "beta",
     "edat": "7",
@@ -5050,6 +5044,13 @@
     "edat": "10",
     "raons": "Consum de drogues lícites (alcohol), presentat de manera neutra<br>Llenguatge groller freqüent d'intensitat baixa",
     "mesinfo": "<b>Drogues</b><br>Es veuen imatges de consum d'alcohol en contextos de celebració. Es veu en primer pla com es prepara un còctel i com el conductor del programa el consumeix.<br><br><b>Llenguatge groller</b><br>Es diu sovint 'hosti' o 'hòstia', de manera col·loquial, i 'cabreig', 'collonuda' i 'fotre' ocasionalment.<br><br>Hi ha situacions ocasionals de por i angoixa d'afectació lleu."
+  },
+  {
+    "titol": "El rastre del llop (2026)",
+    "codi": "6422798",
+    "edat": "13",
+    "orig": "16",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat greu, no legitimada"
   },
   {
     "titol": "El record de la Marnie (2014)",
