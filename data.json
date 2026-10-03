@@ -524,7 +524,7 @@
     "titol": "Katalonski",
     "codi": "katalonski",
     "edat": "10",
-    "potser": "llenguatge groller",
+    "potser": "continguts sobre drogues i llenguatge groller",
     "serie": true
   },
   {
@@ -616,6 +616,60 @@
     "codi": "benvinguts-a-patatamon",
     "edat": "13",
     "potser": "continguts sexuals, continguts sobre drogues i continguts discriminatoris",
+    "serie": true
+  },
+  {
+    "titol": "Món 3XL",
+    "codi": "mon3xl",
+    "edat": "13",
+    "potser": "violència",
+    "serie": true
+  },
+  {
+    "titol": "Vindrem a sopar",
+    "codi": "vindrem-a-sopar",
+    "edat": "13",
+    "potser": "violència",
+    "serie": true
+  },
+  {
+    "titol": "Cosins germans",
+    "codi": "cosins-germans",
+    "edat": "13",
+    "potser": "continguts sexuals, continguts sobre drogues i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "Gran Nord",
+    "codi": "grannord",
+    "edat": "10",
+    "potser": "continguts sexuals, continguts sobre drogues i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "La sentència",
+    "codi": "6426449",
+    "edat": "13",
+    "potser": "violència i situacions de por i angoixa"
+  },
+  {
+    "titol": "SF Guanyar la loteria",
+    "codi": "6426847",
+    "edat": "7",
+    "potser": "continguts discriminatoris i llenguatge groller"
+  },
+  {
+    "titol": "Afers interiors",
+    "codi": "afers-interiors",
+    "edat": "13",
+    "potser": "continguts sexuals i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "L'il·lusionista",
+    "codi": "illusionista",
+    "edat": "13",
+    "potser": "llenguatge groller",
     "serie": true
   },
   {
@@ -7262,6 +7316,26 @@
     "mesinfo": "<b>Sexe</b><br>Es fan constants referències explícites a actes sexuals presents en vídeos pornogràfics que adolescents comenten haver vist o haver practicat arran del seu consum, incloent-hi fel·lacions, masturbacions o sèxting. Es fa servir un llenguatge cru com 'mamada', 'córrer', 'lefa', 'paja', 'catxondo', 'follar', 'polla', etc. Es descriuen, en detall i cruament, reptes virals que involucren masturbació o penetració grupal, consum de semen o menstruació, o tenir relacions deliberadament amb una persona amb una ITS. En una xerrada protagonitzada per dos actors porno per tal d'explicar als adolescents que la pornografia és ficció, s'escenifica una escena sexual i es fan referències a penetrar múltiples penis alhora ('metiendo 5 penes a la vez', 'si puede llorar queda que te cagas'), a activitats BDSM ('me pongo a beber de un bebedero de perros', 'escupo, piso la cabeza'), a fingir orgasmes, i es mostra i s'explica que es fa servir llet condensada enlloc de semen si l'actor no està prou excitat. Es fan referències a mètodes anticonceptius i a la Viagra. Hi ha imatges il·lustratives de contingut sexual, no explícites, intercalades o parcialment ocultades pròpies de vídeos porno.<br><br><b>Llenguatge groller</b><br>Es diuen expressions com 'puta merda', 'zorra', 'cabrón', 'fotre', 'hòstia', 'perra' o 'cagar'; vegeu també 'Sexe'.<br><br>Hi ha situacions ocasionals de por i angoixa alta, quan es relaten pràctiques sexuals aberrants (vegeu 'Sexe'), de violacions sense entrar en detalls o es comenta l'afectació emocional d'algunes persones en veure com els seus vídeos sexuals han estat filtrats. Es diu que una parella van jugar a clavar-se ganivets només per morbo. Es fa menció a drogues lícites, i a situacions de discriminació, presentades de manera negativa."
   },
   {
+    "titol": "Generació selfie... per Moderna de Pueblo",
+    "codi": "moderna-de-pueblo",
+    "edat": "10",
+    "orig": "TP",
+    "potser": "continguts sobre drogues i llenguatge groller",
+    "serie": true,
+    "3cat": true
+  },
+  {
+    "titol": "Generació selfie... per Moderna de Pueblo 1x01 - La feina, segons Moderna de Pueblo",
+    "codi": "5598999",
+    "edat": "0"
+  },
+  {
+    "titol": "Generació selfie... per Moderna de Pueblo 1x02 - Els lligams",
+    "codi": "5599601",
+    "edat": "10",
+    "raons": "Consum de drogues lícites (tabac, alcohol), presentat de manera neutra<br>Llenguatge groller ocasional d'intensitat alta"
+  },
+  {
     "titol": "Germans",
     "codi": "germans",
     "edat": "10",
@@ -9968,8 +10042,9 @@
   {
     "titol": "L'eclipsi",
     "codi": "eclipsi",
-    "edat": "10",
+    "edat": "13",
     "orig": "TP",
+    "potser": "continguts sobre drogues i llenguatge groller",
     "serie": true,
     "tv3": true,
     "3cat": true
@@ -18032,6 +18107,27 @@
     "csm": "tv-reviews/vic-the-viking",
     "serie": true,
     "sx3": true
+  },
+  {
+    "titol": "Vinagre",
+    "codi": "vinagre",
+    "edat": "13",
+    "orig": "18",
+    "potser": "continguts sexuals, continguts discriminatoris i llenguatge groller",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Vinagre 1x04",
+    "codi": "3711250",
+    "edat": "13",
+    "raons": "Continguts sexuals freqüents d'explicitació mitjana<br>Continguts discriminatoris amb sanció neutra"
+  },
+  {
+    "titol": "Vinagre 1x05",
+    "codi": "719839",
+    "edat": "13",
+    "raons": "Continguts sexuals freqüents d'explicitació mitjana<br>Continguts discriminatoris amb sanció neutra<br>Llenguatge groller freqüent d'intensitat alta"
   },
   {
     "titol": "Vinagreta",
