@@ -690,7 +690,6 @@
     "orig": "13 (abans de l'emissió, va constar com a: TP)",
     "serie": true,
     "tv3": true,
-    "33": true,
     "misc": true
   },
   {
@@ -1407,7 +1406,6 @@
     "imdb": "tt8050740",
     "csm": "tv-reviews/amphibia",
     "serie": true,
-    "disney": true,
     "misc": true
   },
   {
@@ -1812,7 +1810,6 @@
     "csm": "tv-reviews/the-legend-of-korra",
     "serie": true,
     "sx3": true,
-    "netflix": true,
     "misc": true
   },
   {
@@ -1824,7 +1821,6 @@
     "csm": "tv-reviews/avatar-the-last-airbender",
     "serie": true,
     "sx3": true,
-    "netflix": true,
     "misc": true
   },
   {
@@ -1859,7 +1855,6 @@
     "edat": "0",
     "imdb": "tt11067738",
     "serie": true,
-    "disney": true,
     "misc": true
   },
   {
@@ -2782,7 +2777,6 @@
     "codi": "callejeros",
     "edat": "18",
     "serie": true,
-    "cuatro": true,
     "misc": true
   },
   {
@@ -2832,7 +2826,6 @@
     "imdb": "tt8050756",
     "csm": "tv-reviews/the-owl-house",
     "serie": true,
-    "disney": true,
     "misc": true
   },
   {
@@ -2899,7 +2892,6 @@
     "imdb": "tt10516496",
     "csm": "tv-reviews/chip-n-dale-park-life",
     "serie": true,
-    "disney": true,
     "misc": true
   },
   {
@@ -2992,7 +2984,6 @@
     "edat": "13",
     "orig": "TP",
     "serie": true,
-    "33": true,
     "misc": true
   },
   {
@@ -4110,7 +4101,6 @@
     "codi": "analisis-diario-noche",
     "edat": "13",
     "serie": true,
-    "telemadrid": true,
     "misc": true
   },
   {
@@ -4127,7 +4117,6 @@
     "imdb": "tt1942683",
     "csm": "tv-reviews/the-amazing-world-of-gumball",
     "serie": true,
-    "boing": true,
     "misc": true
   },
   {
@@ -4199,7 +4188,6 @@
     "codi": "programa-de-ar",
     "edat": "13",
     "serie": true,
-    "telecinco": true,
     "misc": true
   },
   {
@@ -4606,7 +4594,6 @@
     "imdb": "tt10919420",
     "csm": "tv-reviews/squid-game",
     "serie": true,
-    "netflix": true,
     "misc": true
   },
   {
@@ -5017,7 +5004,6 @@
     "imdb": "tt7713450",
     "csm": "tv-reviews/craig-of-the-creek",
     "serie": true,
-    "boing": true,
     "misc": true
   },
   {
@@ -5658,7 +5644,6 @@
     "codi": "en-boca-de-todos",
     "edat": "13",
     "serie": true,
-    "cuatro": true,
     "misc": true
   },
   {
@@ -5755,7 +5740,6 @@
     "codi": "equipo-de-investigacion",
     "edat": "18",
     "serie": true,
-    "lasexta": true,
     "misc": true
   },
   {
@@ -5959,7 +5943,6 @@
     "codi": "estudio-estadio",
     "edat": "10",
     "serie": true,
-    "tdp": true,
     "misc": true
   },
   {
@@ -5976,7 +5959,6 @@
     "orig": "TP",
     "serie": true,
     "3cat": true,
-    "33": true,
     "misc": true
   },
   {
@@ -7542,7 +7524,6 @@
     "imdb": "tt1865718",
     "csm": "tv-reviews/gravity-falls",
     "serie": true,
-    "disney": true,
     "misc": true
   },
   {
@@ -7724,7 +7705,6 @@
     "codi": "hablamos-de-madrid",
     "edat": "13",
     "serie": true,
-    "telemadrid": true,
     "misc": true
   },
   {
@@ -8187,7 +8167,6 @@
     "csm": "tv-reviews/henry-danger",
     "serie": true,
     "sx3": true,
-    "clan": true,
     "misc": true
   },
   {
@@ -8314,7 +8293,6 @@
     "imdb": "tt1710308",
     "csm": "tv-reviews/regular-show",
     "serie": true,
-    "boing": true,
     "misc": true
   },
   {
@@ -9343,7 +9321,6 @@
     "imdb": "tt1305826",
     "csm": "tv-reviews/adventure-time",
     "serie": true,
-    "boing": true,
     "misc": true
   },
   {
@@ -9895,7 +9872,6 @@
     "imdb": "tt14877120",
     "csm": "tv-reviews/kiff",
     "serie": true,
-    "disney": true,
     "misc": true
   },
   {
@@ -10697,7 +10673,6 @@
     "codi": "la-huella-del-crimen",
     "edat": "13",
     "serie": true,
-    "telemadrid": true,
     "misc": true
   },
   {
@@ -10896,7 +10871,6 @@
     "imdb": "tt10684374",
     "csm": "tv-reviews/the-ghost-and-molly-mcgee",
     "serie": true,
-    "disney": true,
     "misc": true
   },
   {
@@ -10933,7 +10907,6 @@
     "orig": "10",
     "serie": true,
     "3cat": true,
-    "33": true,
     "misc": true
   },
   {
@@ -11055,7 +11028,6 @@
     "potser": "continguts sobre drogues i llenguatge groller",
     "serie": true,
     "tv3": true,
-    "33": true,
     "misc": true
   },
   {
@@ -11597,7 +11569,6 @@
     "edat": "7",
     "imdb": "tt13570276",
     "serie": true,
-    "clan": true,
     "misc": true
   },
   {
@@ -12450,7 +12421,6 @@
     "imdb": "tt8543208",
     "csm": "tv-reviews/looney-tunes-cartoons",
     "serie": true,
-    "boing": true,
     "misc": true
   },
   {
@@ -12475,7 +12445,6 @@
     "csm": "tv-reviews/big-city-greens",
     "serie": true,
     "clan": true,
-    "disney": true,
     "misc": true
   },
   {
@@ -12499,7 +12468,6 @@
     "imdb": "tt13271734",
     "csm": "tv-reviews/lost-ollie",
     "serie": true,
-    "netflix": true,
     "misc": true
   },
   {
@@ -13195,7 +13163,6 @@
     "edat": "10",
     "imdb": "tt4236204",
     "serie": true,
-    "clan": true,
     "misc": true
   },
   {
@@ -13541,7 +13508,6 @@
     "codi": "43243543543543543",
     "edat": "10",
     "serie": true,
-    "la1": true,
     "misc": true
   },
   {
@@ -15180,8 +15146,6 @@
     "csm": "tv-reviews/miraculous-tales-of-ladybug-cat-noir",
     "serie": true,
     "sx3": true,
-    "disney": true,
-    "netflix": true,
     "misc": true
   },
   {
@@ -16238,7 +16202,6 @@
     "codi": "salvame",
     "edat": "13",
     "serie": true,
-    "telecinco": true,
     "misc": true
   },
   {
@@ -16440,7 +16403,6 @@
     "imdb": "tt15498808",
     "serie": true,
     "sx3": true,
-    "clan": true,
     "misc": true
   },
   {
@@ -16995,7 +16957,6 @@
     "imdb": "tt4839610",
     "csm": "tv-reviews/we-bare-bears",
     "serie": true,
-    "boing": true,
     "misc": true
   },
   {
@@ -17005,7 +16966,6 @@
     "imdb": "tt13303478",
     "csm": "tv-reviews/we-baby-bears",
     "serie": true,
-    "boing": true,
     "misc": true
   },
   {
@@ -17037,7 +16997,6 @@
     "imdb": "tt2758770",
     "csm": "tv-reviews/star-vs-the-forces-of-evil",
     "serie": true,
-    "disney": true,
     "misc": true
   },
   {
@@ -17074,7 +17033,6 @@
     "imdb": "tt3061046",
     "csm": "tv-reviews/steven-universe",
     "serie": true,
-    "boing": true,
     "misc": true
   },
   {
@@ -17161,7 +17119,6 @@
     "codi": "tardear",
     "edat": "13",
     "serie": true,
-    "telecinco": true,
     "misc": true
   },
   {
@@ -17178,8 +17135,6 @@
     "imdb": "tt2771780",
     "csm": "tv-reviews/teen-titans-go",
     "serie": true,
-    "clan": true,
-    "boing": true,
     "misc": true
   },
   {
@@ -17285,7 +17240,6 @@
     "orig": "TP",
     "serie": true,
     "3cat": true,
-    "33": true,
     "misc": true
   },
   {
