@@ -3333,6 +3333,63 @@
     "mesinfo": "<b>Llenguatge groller</b><br>Durant tot el programa, la cuinera du una samarreta on s'hi pot llegir 'qui em va parir'. També s'hi diu 'que t'hi cagues'.<br><br>Hi ha freqüents situacions de por lleu ja que es mostren les entranyes d'un precuinat de pollastre. Es cuina el pollastre amb vi."
   },
   {
+    "titol": "Curtmetratges Terror Molins",
+    "codi": "sdfkdsofkksdofkodfsk",
+    "edat": "18",
+    "orig": "Variable",
+    "serie": true,
+    "3cat": true
+  },
+  {
+    "titol": "Curtmetratges Terror Molins - Zombiosi",
+    "codi": "6306508",
+    "edat": "13",
+    "orig": "16",
+    "raons": "Violència ocasional, versemblant, molt explícita, d'intensitat greu, no legitimada<br>Continguts sexuals ocasionals d'explicitació alta<br>Por i angoixa freqüent d'afectació alta"
+  },
+  {
+    "titol": "Curtmetratges Terror Molins - La gàbia de les orenetes",
+    "codi": "6367573",
+    "edat": "13",
+    "orig": "18",
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat molt greu, no legitimada"
+  },
+  {
+    "titol": "Curtmetratges Terror Molins - Aigua seca",
+    "codi": "6367569",
+    "edat": "13",
+    "orig": "16",
+    "raons": "Por i angoixa freqüent d'afectació alta<br>Llenguatge groller freqüent d'intensitat alta"
+  },
+  {
+    "titol": "Curtmetratges Terror Molins - Aamon",
+    "codi": "6367909",
+    "edat": "13",
+    "orig": "18",
+    "raons": "Por i angoixa freqüent d'afectació alta"
+  },
+  {
+    "titol": "Curtmetratges Terror Molins - Na Ribas",
+    "codi": "6367570",
+    "edat": "10",
+    "orig": "16",
+    "raons": "Continguts sexuals ocasionals d'explicitació mitjana<br>Por i angoixa freqüent d'afectació mitjana"
+  },
+  {
+    "titol": "Curtmetratges Terror Molins - 7 minuts al paradís",
+    "codi": "6370630",
+    "edat": "13",
+    "orig": "13",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat greu, no legitimada<br>Por i angoixa freqüent d'afectació alta<br>Llenguatge groller freqüent d'intensitat alta"
+  },
+  {
+    "titol": "Curtmetratges Terror Molins - Aparcada",
+    "codi": "6371810",
+    "edat": "13",
+    "orig": "16",
+    "raons": "Por i angoixa freqüent d'afectació alta"
+  },
+  {
     "titol": "Cute",
     "codi": "cute",
     "edat": "7",
@@ -6975,7 +7032,7 @@
     "titol": "Filmets - Skin",
     "codi": "6305222",
     "edat": "13",
-    "orig": "13",
+    "orig": "16 (prèviament: 13)",
     "imdb": "tt7332306",
     "raons": "Violència ocasional, versemblant, explícita, d'intensitat greu, no legitimada"
   },
