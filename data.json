@@ -756,6 +756,7 @@
     "orig": "13 (abans de l'emissió, va constar com a: TP)",
     "serie": true,
     "tv3": true,
+    "33": true,
     "misc": true
   },
   {
@@ -1473,6 +1474,7 @@
     "imdb": "tt8050740",
     "csm": "tv-reviews/amphibia",
     "serie": true,
+    "disney": true,
     "misc": true
   },
   {
@@ -1876,8 +1878,7 @@
     "imdb": "tt1695360",
     "csm": "tv-reviews/the-legend-of-korra",
     "serie": true,
-    "sx3": true,
-    "misc": true
+    "sx3": true
   },
   {
     "titol": "Avatar: l'últim mestre de l'aire",
@@ -1887,8 +1888,7 @@
     "imdb": "tt0417299",
     "csm": "tv-reviews/avatar-the-last-airbender",
     "serie": true,
-    "sx3": true,
-    "misc": true
+    "sx3": true
   },
   {
     "titol": "Barbie (2023)",
@@ -1922,6 +1922,7 @@
     "edat": "0",
     "imdb": "tt11067738",
     "serie": true,
+    "disney": true,
     "misc": true
   },
   {
@@ -1944,7 +1945,7 @@
     "titol": "Berenàveu a les fosques (2021)",
     "codi": "6134163",
     "edat": "13",
-    "orig": "13 (prèviament: 7)",
+    "orig": "12 (prèviament: 13, 7)",
     "imdb": "tt13839388",
     "peli": true,
     "tv3": true,
@@ -2844,6 +2845,7 @@
     "codi": "callejeros",
     "edat": "18",
     "serie": true,
+    "cuatro": true,
     "misc": true
   },
   {
@@ -2893,6 +2895,7 @@
     "imdb": "tt8050756",
     "csm": "tv-reviews/the-owl-house",
     "serie": true,
+    "disney": true,
     "misc": true
   },
   {
@@ -2959,6 +2962,7 @@
     "imdb": "tt10516496",
     "csm": "tv-reviews/chip-n-dale-park-life",
     "serie": true,
+    "disney": true,
     "misc": true
   },
   {
@@ -3051,6 +3055,8 @@
     "edat": "13",
     "orig": "TP",
     "serie": true,
+    "33": true,
+    "laxarxa": true,
     "misc": true
   },
   {
@@ -4253,6 +4259,7 @@
     "codi": "analisis-diario-noche",
     "edat": "13",
     "serie": true,
+    "telemadrid": true,
     "misc": true
   },
   {
@@ -4269,6 +4276,7 @@
     "imdb": "tt1942683",
     "csm": "tv-reviews/the-amazing-world-of-gumball",
     "serie": true,
+    "boing": true,
     "misc": true
   },
   {
@@ -4340,6 +4348,7 @@
     "codi": "programa-de-ar",
     "edat": "13",
     "serie": true,
+    "telecinco": true,
     "misc": true
   },
   {
@@ -4746,6 +4755,7 @@
     "imdb": "tt10919420",
     "csm": "tv-reviews/squid-game",
     "serie": true,
+    "netflix": true,
     "misc": true
   },
   {
@@ -5156,6 +5166,7 @@
     "imdb": "tt7713450",
     "csm": "tv-reviews/craig-of-the-creek",
     "serie": true,
+    "boing": true,
     "misc": true
   },
   {
@@ -5803,6 +5814,7 @@
     "codi": "en-boca-de-todos",
     "edat": "13",
     "serie": true,
+    "cuatro": true,
     "misc": true
   },
   {
@@ -5899,6 +5911,7 @@
     "codi": "equipo-de-investigacion",
     "edat": "18",
     "serie": true,
+    "lasexta": true,
     "misc": true
   },
   {
@@ -6102,6 +6115,7 @@
     "codi": "estudio-estadio",
     "edat": "10",
     "serie": true,
+    "tdp": true,
     "misc": true
   },
   {
@@ -6118,6 +6132,7 @@
     "orig": "TP",
     "serie": true,
     "3cat": true,
+    "33": true,
     "misc": true
   },
   {
@@ -7683,6 +7698,7 @@
     "imdb": "tt1865718",
     "csm": "tv-reviews/gravity-falls",
     "serie": true,
+    "disney": true,
     "misc": true
   },
   {
@@ -7864,6 +7880,7 @@
     "codi": "hablamos-de-madrid",
     "edat": "13",
     "serie": true,
+    "telemadrid": true,
     "misc": true
   },
   {
@@ -8326,6 +8343,7 @@
     "csm": "tv-reviews/henry-danger",
     "serie": true,
     "sx3": true,
+    "clan": true,
     "misc": true
   },
   {
@@ -8452,6 +8470,7 @@
     "imdb": "tt1710308",
     "csm": "tv-reviews/regular-show",
     "serie": true,
+    "boing": true,
     "misc": true
   },
   {
@@ -9480,6 +9499,7 @@
     "imdb": "tt1305826",
     "csm": "tv-reviews/adventure-time",
     "serie": true,
+    "boing": true,
     "misc": true
   },
   {
@@ -10031,6 +10051,7 @@
     "imdb": "tt14877120",
     "csm": "tv-reviews/kiff",
     "serie": true,
+    "disney": true,
     "misc": true
   },
   {
@@ -10832,10 +10853,11 @@
     "codi": "la-huella-del-crimen (Telemadrid)",
     "edat": "13",
     "serie": true,
+    "telemadrid": true,
     "misc": true
   },
   {
-    "titol": "La Huella del Crimen 1x03 - El crimen de la guardia urbana",
+    "titol": "La Huella del Crimen (Telemadrid) 1x03 - El crimen de la guardia urbana",
     "codi": "9483954389435984359",
     "edat": "13",
     "raons": "Por i angoixa reiterada d'afectació mitjana",
@@ -11030,6 +11052,7 @@
     "imdb": "tt10684374",
     "csm": "tv-reviews/the-ghost-and-molly-mcgee",
     "serie": true,
+    "disney": true,
     "misc": true
   },
   {
@@ -11066,6 +11089,7 @@
     "orig": "10",
     "serie": true,
     "3cat": true,
+    "33": true,
     "misc": true
   },
   {
@@ -11187,6 +11211,7 @@
     "potser": "continguts sobre drogues i llenguatge groller",
     "serie": true,
     "tv3": true,
+    "33": true,
     "misc": true
   },
   {
@@ -11728,6 +11753,7 @@
     "edat": "7",
     "imdb": "tt13570276",
     "serie": true,
+    "clan": true,
     "misc": true
   },
   {
@@ -12580,6 +12606,7 @@
     "imdb": "tt8543208",
     "csm": "tv-reviews/looney-tunes-cartoons",
     "serie": true,
+    "boing": true,
     "misc": true
   },
   {
@@ -12603,6 +12630,7 @@
     "imdb": "tt7165904",
     "csm": "tv-reviews/big-city-greens",
     "serie": true,
+    "disney": true,
     "clan": true,
     "misc": true
   },
@@ -12627,6 +12655,7 @@
     "imdb": "tt13271734",
     "csm": "tv-reviews/lost-ollie",
     "serie": true,
+    "netflix": true,
     "misc": true
   },
   {
@@ -13054,8 +13083,8 @@
     "titol": "MAN CITY BEAT BAYERN! (3-0 Champions League 2023 Quarter-Final Haaland Silva Rodri goals highlights) (vídeo de YouTube)",
     "codi": "985495843958493589843",
     "edat": "10",
-    "misc": true,
     "peli": true,
+    "misc": true,
     "raons": "Consum de drogues lícites (tabac), presentat de manera neutra",
     "mesinfo": "<b>Drogues</b><br>Al final del vídeo, un personatge apareix breument fumant un puro en senyal de tranquil·litat després d'haver assolit una victòria.<br><br>Hi ha freqüents situacions de violència irreal, d'intensitat molt lleu, explícita i legitimada."
   },
@@ -13322,6 +13351,7 @@
     "edat": "10",
     "imdb": "tt4236204",
     "serie": true,
+    "clan": true,
     "misc": true
   },
   {
@@ -13667,6 +13697,7 @@
     "codi": "43243543543543543",
     "edat": "10",
     "serie": true,
+    "la1": true,
     "misc": true
   },
   {
@@ -15305,6 +15336,7 @@
     "csm": "tv-reviews/miraculous-tales-of-ladybug-cat-noir",
     "serie": true,
     "sx3": true,
+    "disney": true,
     "misc": true
   },
   {
@@ -16361,6 +16393,7 @@
     "codi": "salvame",
     "edat": "13",
     "serie": true,
+    "telecinco": true,
     "misc": true
   },
   {
@@ -16562,6 +16595,7 @@
     "imdb": "tt15498808",
     "serie": true,
     "sx3": true,
+    "clan": true,
     "misc": true
   },
   {
@@ -17116,6 +17150,7 @@
     "imdb": "tt4839610",
     "csm": "tv-reviews/we-bare-bears",
     "serie": true,
+    "boing": true,
     "misc": true
   },
   {
@@ -17125,6 +17160,7 @@
     "imdb": "tt13303478",
     "csm": "tv-reviews/we-baby-bears",
     "serie": true,
+    "boing": true,
     "misc": true
   },
   {
@@ -17156,6 +17192,7 @@
     "imdb": "tt2758770",
     "csm": "tv-reviews/star-vs-the-forces-of-evil",
     "serie": true,
+    "disney": true,
     "misc": true
   },
   {
@@ -17192,6 +17229,7 @@
     "imdb": "tt3061046",
     "csm": "tv-reviews/steven-universe",
     "serie": true,
+    "boing": true,
     "misc": true
   },
   {
@@ -17278,6 +17316,7 @@
     "codi": "tardear",
     "edat": "13",
     "serie": true,
+    "telecinco": true,
     "misc": true
   },
   {
@@ -17294,6 +17333,8 @@
     "imdb": "tt2771780",
     "csm": "tv-reviews/teen-titans-go",
     "serie": true,
+    "boing": true,
+    "clan": true,
     "misc": true
   },
   {
@@ -17399,6 +17440,7 @@
     "orig": "TP",
     "serie": true,
     "3cat": true,
+    "33": true,
     "misc": true
   },
   {
