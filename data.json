@@ -771,6 +771,38 @@
     "potser": "situacions de por i angoixa, continguts discriminatoris i conductes i valors incívics"
   },
   {
+    "titol": "60m Per què tant plàstic? El mite del reciclatge",
+    "codi": "6385155",
+    "edat": "7",
+    "potser": "conductes i valors incívics"
+  },
+  {
+    "titol": "60m Infants a les xarxes: sobreexposats en nom del like",
+    "codi": "6331447",
+    "edat": "13",
+    "potser": "continguts sexuals i situacions de por i angoixa"
+  },
+  {
+    "titol": "60m La princesa roja",
+    "codi": "6330751",
+    "edat": "10",
+    "potser": "violència"
+  },
+  {
+    "titol": "El llop",
+    "codi": "el-llop",
+    "edat": "10",
+    "potser": "violència, continguts sexuals, continguts sobre drogues i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "Ben parit",
+    "codi": "ben-parit",
+    "edat": "10",
+    "potser": "violència, continguts sexuals i llenguatge groller",
+    "serie": true
+  },
+  {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
     "titol": "13 anys... i un dia",
     "codi": "tretze-anys-i-un-dia",
