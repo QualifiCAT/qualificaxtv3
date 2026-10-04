@@ -739,6 +739,38 @@
     "potser": "situacions de por i angoixa"
   },
   {
+    "titol": "Aitana Bonmatí Conca",
+    "codi": "aitana-bonmati",
+    "edat": "10",
+    "potser": "continguts sobre drogues i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "Clímax",
+    "codi": "climax",
+    "edat": "13",
+    "serie": true
+  },
+  {
+    "titol": "Bricoheroes",
+    "codi": "bricoheroes",
+    "edat": "13",
+    "potser": "continguts sobre drogues, continguts discriminatoris i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "60m El plàstic. Un suïcidi col·lectiu?",
+    "codi": "6411968",
+    "edat": "7",
+    "potser": "situacions de por i angoixa i conductes i valors incívics"
+  },
+  {
+    "titol": "60m Lament pel Brexit",
+    "codi": "6408534",
+    "edat": "7",
+    "potser": "situacions de por i angoixa, continguts discriminatoris i conductes i valors incívics"
+  },
+  {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
     "titol": "13 anys... i un dia",
     "codi": "tretze-anys-i-un-dia",
@@ -3193,6 +3225,15 @@
     "tv3": true,
     "raons": "Llenguatge groller freqüent d'intensitat baixa",
     "mesinfo": "<b>Llenguatge groller</b><br>Una cançó repeteix l'expressió 'a la merda' més de vint vegades. En altres cançons, es fan servir també expressions com 'merdes', 'l'hòstia', 'es toca els collons', 'cagar' o 'a tomar pel cul'. En diversos moments, el cantant s'emociona i exclama 'hòstia' o 'joder'.<br><br>Hi ha continguts sexuals ocasionals d'explicitació baixa; en una cançó, es diu fugaçment 'comprar condons'. Es fa una al·lusió fugaç a una situació de discriminació quan en una cançó es parla d'una 'gàbia per a immigrants'. Hi ha situacions ocasionals de por i angoixa lleu per al·lusions a la mort i a la depressió. (S'inclouen imatges intermitents que poden afectar a espectadors susceptibles a l'epilèpsia fotosensible.)"
+  },
+  {
+    "titol": "Concert de final de gira de La Ludwig Band",
+    "codi": "6265055",
+    "edat": "10",
+    "orig": "TP",
+    "peli": true,
+    "3cat": true,
+    "raons": "Al·lusions al consum de drogues lícites (alcohol), presentat de manera neutra<br>Llenguatge groller ocasional d'intensitat alta"
   },
   {
     "titol": "Concert-manifest per Palestina al Palau Sant Jordi",
