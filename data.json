@@ -803,6 +803,41 @@
     "serie": true
   },
   {
+    "titol": "Casal Rock",
+    "codi": "casalrock",
+    "edat": "10",
+    "potser": "continguts sobre drogues i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "Incidents",
+    "codi": "incidents",
+    "edat": "13",
+    "potser": "llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "Cover",
+    "codi": "cover",
+    "edat": "13",
+    "potser": "continguts sobre drogues",
+    "serie": true
+  },
+  {
+    "titol": "300",
+    "codi": "300",
+    "edat": "13",
+    "potser": "violència",
+    "serie": true
+  },
+  {
+    "titol": "Trinxeres",
+    "codi": "trinxeres",
+    "edat": "10",
+    "potser": "violència i situacions de por i angoixa",
+    "serie": true
+  },
+  {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
     "titol": "13 anys... i un dia",
     "codi": "tretze-anys-i-un-dia",
@@ -5582,7 +5617,7 @@
     "codi": "6377104",
     "edat": "0",
     "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa ocasional d'afectació lleu",
-    "mesinfo": "<b>Violència</b><br>Un barrufet, molest perquè una idea d'un company involucrant una pinça no ha funcionat, li retorna la pinça llençant-se-li a la cara.<br><br><b>Por i angoixa</b><br>Un barrufet es fa el nas tan gros que cobra vida pròpia, atemoreix tot el poble i s'empassa uns quants barrufets per la força.<br><br>Es fan bromes escatològiques."
+    "mesinfo": "<b>Violència</b><br>Un barrufet, molest perquè una idea d'un company involucrant una pinça no ha funcionat, li retorna la pinça llençant-l'hi a la cara.<br><br><b>Por i angoixa</b><br>Un barrufet es fa el nas tan gros que cobra vida pròpia, atemoreix tot el poble i s'empassa uns quants barrufets per la força.<br><br>Es fan bromes escatològiques."
   },
   {
     "titol": "Els barrufets 3D 1x02 - El Papa Bolquers",
