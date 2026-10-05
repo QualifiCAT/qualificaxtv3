@@ -3734,6 +3734,21 @@
     "raons": "Por i angoixa ocasional d'afectació lleu"
   },
   {
+    "titol": "D_rap",
+    "codi": "d-rap",
+    "edat": "13",
+    "orig": "TP",
+    "potser": "continguts sobre drogues i llenguatge groller",
+    "serie": true,
+    "3cat": true
+  },
+  {
+    "titol": "D_rap 1x01 - No pots insultar el rei",
+    "codi": "6187925",
+    "edat": "13",
+    "raons": "Al·lusions al consum de drogues lícites (alcohol) i il·lícites (marihuana), presentades de manera neutra<br>Llenguatge groller freqüent d'intensitat alta"
+  },
+  {
     "titol": "De la cullera a la ciutat",
     "codi": "de-la-cullera-a-la-ciutat",
     "edat": "10",
@@ -14579,7 +14594,7 @@
     "edat": "10",
     "orig": "12",
     "raons": "Continguts sexuals ocasionals d'explicitació mitjana<br>Llenguatge groller ocasional d'intensitat alta",
-    "mesinfo": "<b>Sexe</b><br>Es fa una referència crua a la impotència sexual i a prendre viagra per remeiar-ho.<br><br><b>Llenguatge groller</b><br>Es diu 'puto', 'la mare que el va parir', 'fotre', 'joder', 'mierda' i 'cagondena'.<br>Hi ha violència ocasional, versemblant, no explícita, d'intensitat molt lleu i no legitimada, per mostrar imatges dels atracaments. Hi ha situacions ocasionals de por i angoixa d'afectació mitjà quan, per exemple, es relata com uns veïns van descobrir un cadàver al seu bloc. Hi ha consum de drogues lícites (tabac) presentat de manera negativa. Hi ha conductes i valors incívics presentats de manera negativa."
+    "mesinfo": "<b>Sexe</b><br>Es fa una referència crua a la impotència sexual i a prendre viagra per remeiar-ho.<br><br><b>Llenguatge groller</b><br>Es diu 'puto', 'la mare que el va parir', 'fotre', 'joder', 'mierda' i 'cagondena'.<br><br>Hi ha violència ocasional, versemblant, no explícita, d'intensitat molt lleu i no legitimada, per mostrar imatges dels atracaments. Hi ha situacions ocasionals de por i angoixa d'afectació mitjà quan, per exemple, es relata com uns veïns van descobrir un cadàver al seu bloc. Hi ha consum de drogues lícites (tabac) presentat de manera negativa. Hi ha conductes i valors incívics presentats de manera negativa."
   },
   {
     "titol": "Nivell extra",
