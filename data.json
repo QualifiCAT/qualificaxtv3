@@ -96,7 +96,7 @@
     "potser": "situacions de por i angoixa i llenguatge groller"
   },
   {
-    "titol": "Xefs. Noves generacions",
+    "titol": "Xefs: Noves generacions",
     "codi": "xefs-noves-generacions",
     "edat": "7",
     "potser": "llenguatge groller",
@@ -836,6 +836,25 @@
     "edat": "10",
     "potser": "violència i situacions de por i angoixa",
     "serie": true
+  },
+  {
+    "titol": "Pastors i ramats, un món que se'n va",
+    "codi": "pastors_i_ramats",
+    "edat": "10",
+    "potser": "llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "30m La pagesia que ve",
+    "codi": "6182009",
+    "edat": "10",
+    "potser": "llenguatge groller"
+  },
+  {
+    "titol": "eldocu L'eternitat",
+    "codi": "6157014",
+    "edat": "10",
+    "potser": "continguts sobre drogues i llenguatge groller"
   },
   {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
