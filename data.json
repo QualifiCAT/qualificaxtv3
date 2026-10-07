@@ -881,6 +881,68 @@
     "potser": "situacions de por i angoixa"
   },
   {
+    "titol": "No pot ser!",
+    "codi": "no-pot-ser",
+    "edat": "13",
+    "potser": "continguts sexuals i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "Fifes",
+    "codi": "fifes",
+    "edat": "13",
+    "potser": "llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "Sica",
+    "codi": "6381094",
+    "edat": "10",
+    "potser": "situacions de por i angoixa, continguts sobre drogues i llenguatge groller"
+  },
+  {
+    "titol": "El príncep i jo",
+    "codi": "5606250",
+    "edat": "10",
+    "potser": "continguts sexuals, continguts sobre drogues i llenguatge groller"
+  },
+  {
+    "titol": "El pacte dels estudiants",
+    "codi": "5913589",
+    "edat": "10",
+    "potser": "violència, continguts sobre drogues i llenguatge groller"
+  },
+  {
+    "titol": "La mort de Guillem",
+    "codi": "6061697",
+    "edat": "13",
+    "potser": "situacions de por i angoixa i llenguatge groller"
+  },
+  {
+    "titol": "Ara",
+    "codi": "6044420",
+    "edat": "13",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "Jo, Ramon Llull",
+    "codi": "5617793",
+    "edat": "13",
+    "potser": "violència"
+  },
+  {
+    "titol": "Jo, Ramon Llull",
+    "codi": "jo-ramon-llull",
+    "edat": "13",
+    "serie": true
+  },
+  {
+    "titol": "Baghdad Messi",
+    "codi": "6267918",
+    "edat": "10",
+    "potser": "violència"
+  },
+  {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
     "titol": "13 anys... i un dia",
     "codi": "tretze-anys-i-un-dia",
@@ -889,6 +951,15 @@
     "potser": "continguts sobre drogues i llenguatge groller",
     "cac": "13",
     "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "20.000 espècies d'abelles (2023)",
+    "codi":" 6317921",
+    "edat": "10",
+    "orig": "7",
+    "raons": "Violència verbal freqüent d'intensitat lleu<br>Consum de drogues lícites (tabac) presentat de manera neutra",
+    "peli": true,
     "tv3": true
   },
   {
@@ -1272,6 +1343,15 @@
     "edat": "7",
     "raons": "Llenguatge groller ocasional d'intensitat baixa",
     "mesinfo": "<b>Llenguatge groller</b><br>Es fan servir expressions com 'molta merda', 'hòstia' i 'fot-li'.<br><br>En escenes fugaces, uns joves aguanten begudes alcohòliques."
+  },
+  {
+    "titol": "A comuñón da prima Andrea (2021)",
+    "codi": "6267912",
+    "edat": "0",
+    "orig": "TP",
+    "raons": "Por i angoixa ocasional d'afectació lleu",
+    "peli": true,
+    "3cat": true
   },
   {
     "titol": "A contracorrent: 10 anys d'Open Arms",
@@ -3281,6 +3361,14 @@
     "sx3": true,
     "raons": "Violència ocasional, irreal, no explícita, d'intensitat lleu, no legitimada<br>Por i angoixa freqüent d'afectació lleu",
     "mesinfo": "<b>Violència</b><br>Hi ha una escena breu en què es mostra una obra de teatre en què un drac és decapitat, amb efectes de sang falsos, i fent comentaris com 'remarem en rius de sang vostra'. També es mostra una imatge d'un home a la boca d'un drac, es fan al·lusions a 'matar' dracs, i uns dracs nadons es colpegen entre ells.<br><br><b>Por i angoixa</b><br>Li pregunten com ha perdut el peu un home que té una cama de fusta. Un escenari s'incendia i s'escampa el pànic entre els espectadors; un home vestit de drac no sap controlar la seva disfressa, els espanta amb flamarades i cau d'un penya-segat, però el final és positiu. Vegeu també 'Violència'."
+  },
+  {
+    "titol": "The delay (El retard) (2022)",
+    "codi": "6267718",
+    "edat": "0",
+    "orig": "TP",
+    "peli": true,
+    "3cat": true
   },
   {
     "titol": "The Tyets: &quot;L'èpic final de gira&quot; (concert)",
@@ -5367,6 +5455,15 @@
     "mesinfo": "<b>Sexe</b><br>En una ocasió, es mostren unes fotografies. Una d'elles té connotacions sexuals ja que s'hi veu un home nu aguantant-se un penis en forma de tronc enorme.<br><br><b>Llenguatge groller</b><br>El programa inclou expressions com 'torracollons', 'hòstia', 'merda' i 'fotre'.<br><br>Es fan comentaris sobre la vida difícil de la poeta, incloent-hi la seva mort i de gent qui estimava. Es fan algunes al·lusions a l'alcohol, però no hi ha imatges de consum."
   },
   {
+    "titol": "El nostre uniforme (2023)",
+    "codi": "6323184",
+    "edat": "7",
+    "orig": "7",
+    "raons": "Continguts sexuals ocasionals d'explicitació baixa",
+    "peli": true,
+    "3cat": true
+  },
+  {
     "titol": "El nou clam",
     "codi": "el-nou-clam",
     "edat": "10",
@@ -7086,7 +7183,7 @@
   },
   {
     "titol": "FIC-CAT - No vull ser un heroi",
-    "codi": "6283534",
+    "codi": "6375427",
     "edat": "7",
     "orig": "TP",
     "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
@@ -13883,6 +13980,15 @@
     "mesinfo": "Senyalitzat en la seva emissió per televisió com a no recomanat per a menors de 7 anys.<br><br><b>Sexe</b><br>En un punt del programa, els concursants juguen un joc de 'strip poker', on es despullen per aconseguir ingredients o utensilis. Tots porten un davantal i mai es treuen els pantalons ni es veu mai nuesa, tot i que sí que alguns arriben a treure's la roba interior i són animats en tot moment amb comentaris grollers. Algunes actrius aprofiten per comentar els seus primers papers despullant-se en escenes de 'striptease'. En un altre punt del programa, un home que porta un barnús juga a ser exhibicionista i, en un altre, un home comenta que una actriu el va agafar pels testicles i que no sabia si respondre amb alegria o amb plaer.<br><br><b>Llenguatge groller</b><br>De manera constant durant el programa, tot i que de manera espaiada en el temps, se senten expressions com ara 'me han jodido', 'echar mierda', 'me cago en la leche', 'que te cagas', 'los huevos' o 'hostia'.<br><br>Hi ha situacions ocasionals de por i angoixa d'afectació lleu."
   },
   {
+    "titol": "Matchen (El partit) (2018)",
+    "codi": "6267915",
+    "edat": "7",
+    "orig": "TP",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt lleu, no legitimada",
+    "peli": true,
+    "3cat": true
+  },
+  {
     "titol": "Mazinger Z: Infinity (2017)",
     "codi": "6210082",
     "edat": "10",
@@ -16142,6 +16248,13 @@
     "edat": "13",
     "orig": "18",
     "raons": "Violència ocasional, versemblant, explícita, d'intensitat greu, no legitimada<br>Por i angoixa reiterada d'afectació mitjana<br>Al·lusions al tràfic i consum de drogues lícites (tabac) i il·lícites (marihuana), presentat de manera negativa"
+  },
+  {
+    "titol": "Punt de no retorn 3x03 - La meva parella és una IA",
+    "codi": "6427744",
+    "edat": "13",
+    "orig": "18",
+    "raons": "Continguts sexuals freqüents d'explicitació mitjana"
   },
   {
     "titol": "Quan Hitler em va robar el conillet rosa (2019)",
