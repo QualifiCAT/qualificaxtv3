@@ -90,7 +90,7 @@
     "potser": "llenguatge groller"
   },
   {
-    "titol": "30 minuts La terra crema",
+    "titol": "30m La terra crema",
     "codi": "6424999",
     "edat": "7",
     "potser": "situacions de por i angoixa i llenguatge groller"
@@ -855,6 +855,30 @@
     "codi": "6157014",
     "edat": "10",
     "potser": "continguts sobre drogues i llenguatge groller"
+  },
+  {
+    "titol": "30m Una mirada diferent",
+    "codi": "6292794",
+    "edat": "13",
+    "potser": "situacions de por i angoixa i continguts sobre drogues"
+  },
+  {
+    "titol": "SF Gàdor i els taurons",
+    "codi": "6299890",
+    "edat": "7",
+    "potser": "situacions de por i angoixa i llenguatge groller"
+  },
+  {
+    "titol": "30m Alcarràs l'altra collita",
+    "codi": "6199978",
+    "edat": "7",
+    "potser": "situacions de por i angoixa i llenguatge groller"
+  },
+  {
+    "titol": "SF El riu renascut",
+    "codi": "6297319",
+    "edat": "7",
+    "potser": "situacions de por i angoixa"
   },
   {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
@@ -6589,6 +6613,36 @@
     "mesinfo": "<b>Sexe</b><br>Algunes actuacions presenten elements de sexualització per la vestimenta i coreografies dels ballarins i els cantants. Es fan algunes insinuacions sexuals verbals, com quan un concursant es defineix com a 'sexi' o 'sensual', o en la lletra d'una cançó es diu que algú és un 'playboy'.<br><br><b>Llenguatge groller</b><br>Es diu 'la rehòstia', 'hòstia', 'merda', 'tonto', 'cabrón', 'càgon Déu', 'fotut' o 'me has cagao' de manera esporàdica.<br><br>Es fan referències fugaces a problemes de salut mental. Hi ha referències sexuals, a drogues i llenguatge groller en cançons cantades en anglès, sense proveir-ne una traducció. (S'inclouen imatges intermitents que poden afectar a espectadors susceptibles a l'epilèpsia fotosensible.)"
   },
   {
+    "titol": "Eufòria. Els concerts",
+    "codi": "euforia-els-concerts",
+    "edat": "10",
+    "orig": "TP",
+    "potser": "continguts sexuals, continguts sobre drogues i llenguatge groller",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Eufòria. Els concerts - Eufòria: el concert 2022",
+    "codi": "6194729",
+    "edat": "10",
+    "orig": "TP",
+    "peli": true,
+    "sx3": true,
+    "tv3": true,
+    "raons": "Contingut sexual ocasional d'explicitació mitjana"
+  },
+  {
+    "titol": "Eufòria. Els concerts - Eufòria: el concert 2023",
+    "codi": "6258691",
+    "edat": "10",
+    "orig": "TP",
+    "peli": true,
+    "3cat": true,
+    "tv3": true,
+    "raons": "Continguts sexuals freqüents d'explicitació baixa<br>Llenguatge groller ocasional d'intensitat alta",
+    "mesinfo": "<b>Sexe</b><br>Hi ha elements de sexualització, lleus però freqüents, per la vestimenta i coreografies presents en moltes de les actuacions, així com insinuacions de caràcter verbal (per exemple, 'I wanna be your sex toy', 'entre hores pots cuinar-me i menjar-me, 24/7 per fotre la cullera', 'protagonista de fantasys, treballador del clit').<br><br><b>Llenguatge groller</b><br>En una cançó s'hi diu 'hòsties', 'merda' sis vegades, i l'expressió 'negrata', sense aparent intencionalitat racista. En algunes altres cançons s'hi diu 'fotre' o 'stupid', així com l'expressió anglesa altament grollera 'fuck'.<br><br>Hi ha llenguatge violent ocasional, d'intensitat molt lleu. (S'inclouen imatges intermitents que poden afectar a espectadors susceptibles a l'epilèpsia fotosensible.)"
+  },
+  {
     "titol": "Eufòria Dance",
     "codi": "euforia-street-dance",
     "edat": "10",
@@ -6650,27 +6704,6 @@
     "codi": "6360006",
     "edat": "0",
     "mesinfo": "En algunes cançons que sonen en anglès es fa ús de llenguatge groller, com 'stupid' o 'motherfucker', tot i que no se'n fa referència ni èmfasi per part del programa. També hi ha alguns elements de sexualització presents en la vestimenta d'artistes majors d'edat, tot i que molt lleu."
-  },
-  {
-    "titol": "Eufòria: el concert 2022",
-    "codi": "6194729",
-    "edat": "10",
-    "orig": "TP",
-    "peli": true,
-    "sx3": true,
-    "tv3": true,
-    "raons": "Contingut sexual ocasional d'explicitació mitjana"
-  },
-  {
-    "titol": "Eufòria: el concert 2023",
-    "codi": "6258691",
-    "edat": "10",
-    "orig": "TP",
-    "peli": true,
-    "3cat": true,
-    "tv3": true,
-    "raons": "Continguts sexuals freqüents d'explicitació baixa<br>Llenguatge groller ocasional d'intensitat alta",
-    "mesinfo": "<b>Sexe</b><br>Hi ha elements de sexualització, lleus però freqüents, per la vestimenta i coreografies presents en moltes de les actuacions, així com insinuacions de caràcter verbal (per exemple, 'I wanna be your sex toy', 'entre hores pots cuinar-me i menjar-me, 24/7 per fotre la cullera', 'protagonista de fantasys, treballador del clit').<br><br><b>Llenguatge groller</b><br>En una cançó s'hi diu 'hòsties', 'merda' sis vegades, i l'expressió 'negrata', sense aparent intencionalitat racista. En algunes altres cançons s'hi diu 'fotre' o 'stupid', així com l'expressió anglesa altament grollera 'fuck'.<br><br>Hi ha llenguatge violent ocasional, d'intensitat molt lleu. (S'inclouen imatges intermitents que poden afectar a espectadors susceptibles a l'epilèpsia fotosensible.)"
   },
   {
     "titol": "Èxode (2019)",
