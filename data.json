@@ -943,6 +943,19 @@
     "potser": "violència"
   },
   {
+    "titol": "Club Tàndem",
+    "codi": "club-tandem",
+    "edat": "10",
+    "potser": "llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "SF Un altre camí per a la pau",
+    "codi": "6428181",
+    "edat": "18",
+    "potser": "violència"
+  },
+  {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
     "titol": "13 anys... i un dia",
     "codi": "tretze-anys-i-un-dia",
@@ -955,7 +968,7 @@
   },
   {
     "titol": "20.000 espècies d'abelles (2023)",
-    "codi":" 6317921",
+    "codi": "6317921",
     "edat": "10",
     "orig": "7",
     "raons": "Violència verbal freqüent d'intensitat lleu<br>Consum de drogues lícites (tabac) presentat de manera neutra",
@@ -3167,6 +3180,15 @@
     "edat": "10",
     "raons": "Consum de drogues lícites (alcohol), presentat de manera neutra<br>Llenguatge groller ocasional d'intensitat alta",
     "mesinfo": "<b>Drogues</b><br>Diverses escenes mostren una conversa en un bar entre dues persones mentre beuen begudes alcohòliques.<br><br><b>Llenguatge groller</b><br>Es reprodueixen les famoses declaracions de Pepe Rubianes sobre la unitat d'Espanya, censurant-ne totes les grolleries verbalment excepte l'última, 'cojones', però igualment gesticulant-les totes. També es fan servir ocasionalment les expressions 'cagat', 'merda', 'hosti' i 'fotut'.<br><br>Hi ha situacions ocasionals de por i angoixa d'afectació mitjana, quan s'escenifica la mort d'una dona gran i en una referència fugaç a un 'violador'. Es fa una referència fugaç a ser 'sexi'."
+  },
+  {
+    "titol": "Champion (2020)",
+    "codi": "6267914",
+    "edat": "13",
+    "orig": "TP",
+    "peli": true,
+    "3cat": true,
+    "raons": "Continguts discriminatoris amb sanció neutra"
   },
   {
     "titol": "Cher Ami (2009)",
@@ -5815,6 +5837,15 @@
     "mesinfo": "<b>Violència</b><br>Els personatges s'agredeixen o tenen accidents amb una pretesa intencionalitat còmica i de manera pràcticament ininterrompuda durant tot l'episodi. Constantment, un personatge negatiu intenta seduir una dona, fins al punt que li fa un petó a la boca sense consentiment, i ella sempre respon agredint-lo. Es mostren i es fan servir armes de diferents tipus, incloent-hi explosius, canons, roques o sabres, també amb conseqüències irreals.<br><br><b>Discriminació, racisme i xenofòbia</b><br>En una ocasió, un personatge negatiu es burla de l'alçada d'un dels protagonistes.<br><br><b>Llenguatge groller</b><br>Insults com 'burro', 'gamarús' o 'mira que ets ruc'."
   },
   {
+    "titol": "Els esborradors (2024)",
+    "codi": "6323461",
+    "edat": "13",
+    "orig": "TP",
+    "peli": true,
+    "3cat": true,
+    "raons": "Continguts sexuals freqüents d'explicitació mitjana<br>Llenguatge groller reiterat d'intensitat alta"
+  },
+  {
     "titol": "Els Estats Units contra Billie Holiday (2021)",
     "codi": "6315160",
     "edat": "18",
@@ -6073,6 +6104,15 @@
     "csm": "tv-reviews/the-penguins-of-madagascar",
     "serie": true,
     "sx3": true
+  },
+  {
+    "titol": "Els que callen (2020)",
+    "codi": "6102992",
+    "edat": "13",
+    "orig": "TP",
+    "peli": true,
+    "3cat": true,
+    "raons": "Violència freqüent, versemblant, no explícita, d'intensitat greu, no legitimada<br>Llenguatge groller freqüent d'intensitat alta"
   },
   {
     "titol": "En boca de todos",
@@ -7367,6 +7407,15 @@
     "orig": "TP",
     "imdb": "tt17162620",
     "raons": "Consum de drogues lícites (tabac), presentat de manera neutra"
+  },
+  {
+    "titol": "Flocky (2024)",
+    "codi": "6361122",
+    "edat": "7",
+    "orig": "TP",
+    "peli": true,
+    "3cat": true,
+    "raons": "Por i angoixa ocasional d'afectació mitjana"
   },
   {
     "titol": "Flying Squirrels",
@@ -11317,6 +11366,15 @@
     "edat": "10",
     "raons": "Llenguatge groller freqüent d'intensitat baixa",
     "mesinfo": "<b>Llenguatge groller</b><br>Es diu sovint 'imbècil', 'merda', 'fotre', 'sonat' i 'malparits'.<br><br>Hi ha violència ocasional, versemblant, explícita, d'intensitat molt lleu i no legitimada quan policies, lladres i ninges lluiten entre ells i es fan cops de peu, cops a l'estómac o es llencen contra el terra. Hi ha situacions angoixants ocasionals d'afectació mitjana quan una mare relata que el seu home no passava per casa i va fer que el detinguessin, i que tenia una arma però no sap si va matar mai ningú. La protagonista es cola diverses vegades a l'ajuntament per parlar amb la seva mare, quelcom presentat de manera irreal i presentant els vigilants de seguretat com a incompetents. Es mostren begudes alcohòliques en una quedada grupal, però no hi ha imatges de consum. Una dona gran comenta de broma a la seva filla que està prima i hauria de menjar més."
+  },
+  {
+    "titol": "La maleta vermella (2022)",
+    "codi": "6324758",
+    "edat": "13",
+    "orig": "18",
+    "peli": true,
+    "3cat": true,
+    "raons": "Por i angoixa reiterada d'afectació mitjana"
   },
   {
     "titol": "La maldición de Molly McGee",
@@ -16255,6 +16313,78 @@
     "edat": "13",
     "orig": "18",
     "raons": "Continguts sexuals freqüents d'explicitació mitjana"
+  },
+  {
+    "titol": "English Punt de no retorn 1x01",
+    "codi": "6224915",
+    "edat": "13",
+    "raons": "Occasional, realistic, explicit, not legitimized violence of mild intensity"
+  },
+  {
+    "titol": "English Punt de no retorn 1x02",
+    "codi": "6232041",
+    "edat": "0",
+    "raons": "Occasional fear and anxiety of mild impact"
+  },
+  {
+    "titol": "English Punt de no retorn 1x03",
+    "codi": "6238821",
+    "edat": "10",
+    "raons": "Frequent fear and anxiety of moderate impact"
+  },
+  {
+    "titol": "English Punt de no retorn 1x04",
+    "codi": "6252245",
+    "edat": "13",
+    "raons": "Occasional, realistic, explicit, legitimized violence of mild intensity<br>Repeated fear and anxiety of moderate impact",
+  },
+  {
+    "titol": "English Punt de no retorn 1x05",
+    "codi": "6258340",
+    "edat": "7",
+    "raons": "Frequent fear and anxiety of mild impact<br>Discriminatory behaviour negatively sanctioned<br>Anti-social behaviour and values negatively sanctioned"
+  },
+  {
+    "titol": "English Punt de no retorn 1x06",
+    "codi": "6266840",
+    "edat": "10",
+    "raons": "Occasional, realistic, not explicit, legitimized violence of strong intensity<br>Occasional coarse language of strong intensity"
+  },
+  {
+    "titol": "English Punt de no retorn 1x07",
+    "codi": "6266846",
+    "edat": "13",
+    "raons": "Discriminatory behaviour neutrally sanctioned"
+  },
+  {
+    "titol": "English Punt de no retorn 2x01",
+    "codi": "6293191",
+    "edat": "13",
+    "raons": "Repeated, realistic, not explicit, legitimized violence of mild intensity<br>Repeated fear and anxiety of moderate impact<br>Discriminatory behaviour neutrally sanctioned"
+  },
+  {
+    "titol": "English Punt de no retorn 2x02",
+    "codi": "6303704",
+    "edat": "13",
+    "raons": "Frequent, realistic, explicit, not legitimized violence of strong intensity<br>Frequent fear and anxiety of high impact"
+  },
+  {
+    "titol": "English Punt de no retorn 2x03",
+    "codi": "6321066",
+    "edat": "13",
+    "raons": "Occasional, realistic, explicit, not legitimized violence of strong intensity<br>Repeated fear and anxiety of moderate impact<br>Use and references to illegal drug trafficking (marijuana, cocaine), presented in a negative light"
+  },
+  {
+    "titol": "English Punt de no retorn 2x04",
+    "codi": "6321069",
+    "edat": "13",
+    "raons": "Occasional, realistic, explicit, not legitimized violence of strong intensity<br>Repeated fear and anxiety of moderate impact<br>References to trafficking and use of legal (tobacco) and illegal (marijuana) drugs, presented in a negative light"
+  },
+  {
+    "titol": "English Punt de no retorn 3x03",
+    "codi": "6427749",
+    "edat": "13",
+    "raons": "Frequent, moderately explicit sexual content"
   },
   {
     "titol": "Quan Hitler em va robar el conillet rosa (2019)",
