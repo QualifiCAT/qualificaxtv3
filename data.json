@@ -1046,6 +1046,12 @@
     "potser": "violència"
   },
   {
+    "titol": "La gent que estimo Oques Grasses documental",
+    "codi": "6275776",
+    "edat": "13",
+    "potser": "continguts sobre drogues"
+  },
+  {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
     "titol": "13 anys... i un dia",
     "codi": "tretze-anys-i-un-dia",
@@ -1064,6 +1070,26 @@
     "raons": "Violència verbal freqüent d'intensitat lleu<br>Consum de drogues lícites (tabac) presentat de manera neutra",
     "peli": true,
     "tv3": true
+  },
+  {
+    "titol": "23F: el dia més difícil del rei",
+    "codi": "23-f-dia-mes-dificil-rei",
+    "edat": "10",
+    "orig": "7",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "23F: el dia més difícil del rei 1x01",
+    "codi": "5655865",
+    "edat": "10",
+    "raons": "Consum de drogues lícites (tabac), presentat de manera neutra<br>Llenguatge groller ocasional d'intensitat alta"
+  },
+  {
+    "titol": "23F: el dia més difícil del rei 1x02",
+    "codi": "5655866",
+    "edat": "10",
+    "raons": "Por i angoixa freqüent d'afectació mitjana<br>Consum de drogues lícites (tabac), presentat de manera neutra<br>Llenguatge groller ocasional d'intensitat alta"
   },
   {
     "titol": "3 minuts",
