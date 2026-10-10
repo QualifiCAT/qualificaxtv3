@@ -1207,6 +1207,114 @@
     "potser": "violència"
   },
   {
+    "titol": "De Nicholas a Sarkozy",
+    "codi": "6415817",
+    "edat": "13",
+    "potser": "llenguatge groller"
+  },
+  {
+    "titol": "Barbacoa d'amics",
+    "codi": "6193973",
+    "edat": "13",
+    "potser": "continguts sexuals, continguts sobre drogues i llenguatge groller"
+  },
+  {
+    "titol": "Guillaume i els nois, a taula!",
+    "codi": "6399986",
+    "edat": "13",
+    "potser": "continguts sexuals, continguts discriminatoris i llenguatge groller"
+  },
+  {
+    "titol": "Quines bestioles!",
+    "codi": "6399996",
+    "edat": "7",
+    "potser": "violència, situacions de por i angoixa, continguts discriminatoris i llenguatge groller"
+  },
+  {
+    "titol": "OSS 117: perdut a Rio",
+    "codi": "6398864",
+    "edat": "13",
+    "potser": "violència, continguts discriminatoris i continguts sobre drogues"
+  },
+  {
+    "titol": "OSS 117: El Caire, niu d'espies",
+    "codi": "6398863",
+    "edat": "13",
+    "potser": "violència, continguts discriminatoris i continguts sobre drogues"
+  },
+  {
+    "titol": "Vull ser italià",
+    "codi": "6398862",
+    "edat": "10",
+    "potser": "continguts sexuals, continguts sobre drogues i llenguatge groller"
+  },
+  {
+    "titol": "Si Déu vol",
+    "codi": "6193960",
+    "edat": "13",
+    "potser": "continguts discriminatoris"
+  },
+  {
+    "titol": "Els barrufets",
+    "codi": "6193960",
+    "edat": "7",
+    "potser": "violència, continguts sexuals, situacions de por i angoixa i llenguatge groller"
+  },
+  {
+    "titol": "Els barrufets 2",
+    "codi": "6372424",
+    "edat": "7",
+    "potser": "violència, situacions de por i angoixa i llenguatge groller"
+  },
+  {
+    "titol": "Els barrufets: El poble amagat",
+    "codi": "6377570",
+    "edat": "7",
+    "potser": "violència, situacions de por i angoixa i conductes i valors incívics"
+  },
+  {
+    "titol": "El món prodigiós. París, les aventures de Toxibug i l'Urpa Noire",
+    "codi": "6423013",
+    "edat": "7",
+    "potser": "violència i situacions de por i angoixa"
+  },
+  {
+    "titol": "Un pont cap a Terabithia",
+    "codi": "6372029",
+    "edat": "10",
+    "potser": "violència i situacions de por i angoixa"
+  },
+  {
+    "titol": "Col·legues al bosc",
+    "codi": "6077800",
+    "edat": "7",
+    "potser": "violència i situacions de por i angoixa"
+  },
+  {
+    "titol": "Pérez, el ratolí dels teus somnis",
+    "codi": "5769739",
+    "edat": "7",
+    "potser": "situacions de por i angoixa i llenguatge groller"
+  },
+  {
+    "titol": "Pérez, el ratolí dels teus somnis",
+    "codi": "5769739",
+    "edat": "7",
+    "potser": "situacions de por i angoixa, continguts sobre drogues i llenguatge groller"
+  },
+  {
+    "titol": "Pérez, el ratolí dels teus somnis 2",
+    "codi": "6057261",
+    "edat": "7",
+    "potser": "situacions de por i angoixa i llenguatge groller"
+  },
+  {
+    "titol": "Espies de veritat: la pel·lícula",
+    "codi": "5588036",
+    "edat": "7",
+    "potser": "violència, situacions de por i angoixa i conductes i valors incívics"
+  },
+  {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
     "titol": "13 anys... i un dia",
     "codi": "tretze-anys-i-un-dia",
@@ -10731,7 +10839,7 @@
     "titol": "Kuroko i el bàsquet",
     "codi": "kuroko-basquet",
     "edat": "10",
-    "orig": "10",
+    "orig": "12 (prèviament: 10)",
     "imdb": "tt2348803",
     "csm": "tv-reviews/kurokos-basketball",
     "serie": true,
