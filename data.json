@@ -1126,7 +1126,8 @@
   {
     "titol": "Tulipes a la primavera",
     "codi": "6114084",
-    "edat": "0"
+    "edat": "0",
+    "potser": " "
   },
   {
     "titol": "Una història de Salzburg",
@@ -1313,6 +1314,42 @@
     "codi": "5588036",
     "edat": "7",
     "potser": "violència, situacions de por i angoixa i conductes i valors incívics"
+  },
+  {
+    "titol": "Alvin i els esquirols 3",
+    "codi": "6424778",
+    "edat": "7",
+    "potser": "situacions de por i angoixa, llenguatge groller i conductes i valors incívics"
+  },
+  {
+    "titol": "Alvin: Festa sobre rodes",
+    "codi": "6424780",
+    "edat": "7",
+    "potser": "violència, situacions de por i angoixa, continguts sobre drogues, llenguatge groller i conductes i valors incívics"
+  },
+  {
+    "titol": "Caminant junts",
+    "codi": "6289285",
+    "edat": "10",
+    "potser": "violència, situacions de por i angoixa, continguts sobre drogues i llenguatge groller"
+  },
+  {
+    "titol": "Kuroko i el bàsquet. Recopilació de la copa d'hivern. Més enllà de les portes",
+    "codi": "6297321",
+    "edat": "10",
+    "potser": "llenguatge groller"
+  },
+  {
+    "titol": "Kuroko i el bàsquet. La Copa d'Hivern. Més enllà de les llàgrimes",
+    "codi": "6297229",
+    "edat": "10",
+    "potser": "llenguatge groller"
+  },
+  {
+    "titol": "Kuroko i el bàsquet. Recopilació de la copa d'hivern. L'ombra i la llum",
+    "codi": "6297111",
+    "edat": "10",
+    "potser": "llenguatge groller"
   },
   {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
@@ -15535,6 +15572,15 @@
     "sx3": true,
     "raons": "Violència ocasional, versemblant, explícita, d'intensitat greu, no legitimada",
     "mesinfo": "<b>Violència</b><br>Hi ha violència freqüent, irreal, no explícita, lleu i legitimada. No obstant això, destaquen dues escenes especialment cruents, on disparen a un home i mor dessagnat, i on apunyalen gràficament a un altre home.<br><br>Hi ha por i angoixa freqüent d'afectació mitjana, llenguatge groller freqüent d'intensitat baixa, consum de drogues lícites presentat de manera negativa, i una referència sexual d'explicitació baixa, en relació amb un personatge femení secundari presentat de manera sexualitzada durant tota la pel·lícula."
+  },
+  {
+    "titol": "Oques Grasses: l'últim concert",
+    "codi": "6429704",
+    "edat": "10",
+    "orig": "TP",
+    "peli": true,
+    "tv3": true,
+    "raons": "Llenguatge groller ocasional d'intensitat alta"
   },
   {
     "titol": "Paris, Texas (1984)",
