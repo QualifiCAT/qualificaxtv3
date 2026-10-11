@@ -1257,7 +1257,7 @@
   },
   {
     "titol": "Els barrufets",
-    "codi": "6193960",
+    "codi": "6420497",
     "edat": "7",
     "potser": "violència, continguts sexuals, situacions de por i angoixa i llenguatge groller"
   },
@@ -1350,6 +1350,126 @@
     "codi": "6297111",
     "edat": "10",
     "potser": "llenguatge groller"
+  },
+  {
+    "titol": "10 dies més sense la mama",
+    "codi": "6428032",
+    "edat": "10",
+    "potser": "continguts sobre drogues"
+  },
+  {
+    "titol": "Res no tornarà a ser com abans",
+    "codi": "5656246",
+    "edat": "13",
+    "potser": "continguts sobre drogues i llenguatge groller"
+  },
+  {
+    "titol": "El mètode Gronholm",
+    "codi": "5415531",
+    "edat": "13",
+    "potser": "continguts discriminatoris i llenguatge groller"
+  },
+  {
+    "titol": "El nom",
+    "codi": "5760069",
+    "edat": "13",
+    "potser": "llenguatge groller"
+  },
+  {
+    "titol": "Volare",
+    "codi": "4453497",
+    "edat": "13",
+    "potser": "continguts sexuals i llenguatge groller"
+  },
+  {
+    "titol": "Menjar per a gats",
+    "codi": "3754570",
+    "edat": "13",
+    "potser": "continguts sexuals i llenguatge groller"
+  },
+  {
+    "titol": "Menjar per a gats",
+    "codi": "3754570",
+    "edat": "13",
+    "potser": "continguts sexuals i llenguatge groller"
+  },
+  {
+    "titol": "El retaule del flautista",
+    "codi": "4409591",
+    "edat": "7",
+    "potser": "violència, continguts sexuals, situacions de por i angoixa, continguts discriminatoris, llenguatge groller i conductes i valors incívics"
+  },
+  {
+    "titol": "La impaciència del cor",
+    "codi": "6316937",
+    "edat": "10",
+    "potser": "violència i continguts sobre drogues"
+  },
+  {
+    "titol": "Esperant Dalí",
+    "codi": "6288127",
+    "edat": "10",
+    "potser": "continguts sexuals, continguts sobre drogues i llenguatge groller"
+  },
+  {
+    "titol": "Cançó per a tu",
+    "codi": "5843273",
+    "edat": "13",
+    "potser": "llenguatge groller"
+  },
+  {
+    "titol": "Et dec una nit de divendres",
+    "codi": "4622351",
+    "edat": "13",
+    "potser": "continguts sobre drogues i llenguatge groller"
+  },
+  {
+    "titol": "L'enigma Verdaguer",
+    "codi": "5910726",
+    "edat": "10",
+    "potser": "llenguatge groller"
+  },
+  {
+    "titol": "Els fills del sol",
+    "codi": "5689227",
+    "edat": "10",
+    "potser": "violència, continguts sexuals, continguts sobre drogues i llenguatge groller"
+  },
+  {
+    "titol": "14 d'abril, Macià contra Companys",
+    "codi": "3764970",
+    "edat": "10",
+    "potser": "continguts sobre drogues i llenguatge groller"
+  },
+  {
+    "titol": "La dama del quadre",
+    "codi": "5905686",
+    "edat": "7",
+    "potser": "continguts sexuals i llenguatge groller"
+  },
+  {
+    "titol": "Un berenar a Ginebra",
+    "codi": "4822611",
+    "edat": "10",
+    "potser": "llenguatge groller"
+  },
+  {
+    "titol": "Vicenç Ferrer",
+    "codi": "5131951",
+    "edat": "10",
+    "potser": "continguts sobre drogues i llenguatge groller"
+  },
+  {
+    "titol": "La Xirgu",
+    "codi": "5608969",
+    "edat": "10",
+    "potser": "continguts sexuals, continguts sobre drogues i llenguatge groller"
+  },
+  {
+    "titol": "La Xirgu",
+    "codi": "5608969",
+    "edat": "10",
+    "potser": "continguts sexuals, continguts sobre drogues i llenguatge groller"
   },
   {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
@@ -4487,7 +4607,7 @@
     "tv3": true
   },
   {
-    "titol": "Doraemon (sèrie del 2005)",
+    "titol": "Doraemon, el gat còsmic (sèrie del 2005)",
     "codi": "doraemon-el-gat-cosmic",
     "edat": "7",
     "orig": "TP (prèviament: 7)",
@@ -6190,7 +6310,7 @@
     "codi": "els-barrufets-3d",
     "edat": "7",
     "orig": "TP",
-    "potser": "violència, situacions de por i angoixa i comportaments discriminatoris",
+    "potser": "violència, situacions de por i angoixa i continguts discriminatoris",
     "imdb": "tt14670820",
     "csm": "tv-reviews/the-smurfs-0",
     "serie": true,
