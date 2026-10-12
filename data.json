@@ -1514,6 +1514,13 @@
     "potser": "llenguatge groller"
   },
   {
+    "titol": "Aeroport",
+    "codi": "aeroport",
+    "edat": "10",
+    "potser": "continguts sobre drogues i llenguatge groller",
+    "serie": true
+  },
+  {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
     "titol": "13 anys... i un dia",
     "codi": "tretze-anys-i-un-dia",
@@ -15765,6 +15772,17 @@
     "tv3": true,
     "raons": "Por i angoixa freqüent d'afectació mitjana",
     "mesinfo": "<b>Por i angoixa</b><br>La pel·lícula s'obre ensenyant imatges borroses d'explosions en una guerra i de ferits sent rescatats. Se'n fan posteriors referències: es parla d'atacs suïcides a les notícies, i el protagonista comenta que van matar-hi el seu cunyat i que molta gent pateix i no ha tingut la sort que han tingut ells. Hi ha situacions d'angoixa emocional i diversos membres de la família alcen la veu quan, per exemple, reben la notícia que a una filla li han denegat el visat, o quan un fill deixa el seu pare a l'estacada i li comunica les notícies molt tard. En una escena posterior, el pare, desatès, té un ictus i acaba a l'hospital -però se'n recupera-, mentre el seu fill és detingut a la frontera acusat sense proves de terrorisme.<br><br>Hi ha violència ocasional, versemblant, no explícita, lleu i no legitimada per alguns dels continguts anteriors. Hi ha continguts sexuals ocasionals d'explicitació baixa quan un home diu erròniament que es 'tiraria' uns bombons. Hi ha situacions de discriminació sancionades negativament. Hi ha llenguatge groller ocasional d'intensitat baixa ('a la merda', 'no fotis'). Hi ha conductes i valors incívics sancionats negativament quan un home oculta informació al seu pare i l'abandona quan necessita la seva ajuda per prioritzar les seves aspiracions personals; també hi ha un moment en què manipula un telèfon mentre condueix. En una escena fugaç, un home està a punt de beure alcohol però li ho retreuen."
+  },
+  {
+    "titol": "Pau, la força d'un silenci (2017)",
+    "codi": "5695575",
+    "edat": "10",
+    "orig": "TP",
+    "imdb": "tt6189268",
+    "peli": true,
+    "tv3": true,
+    "raons": "Consum de drogues lícites (tabac), presentat de manera neutra<br>Llenguatge groller ocasional d'intensitat alta",
+    "mesinfo": "<b>Drogues</b><br>Diversos personatges secundaris apareixen fumant tabac en concordança amb els usos del context històric i social en què se situa l'obra. També el protagonista, que sovint fuma la seva característica pipa, sense que ningú ni res li ho sancioni.<br><br><b>Llenguatge groller</b><br>Es fa servir una expressió grollera d'intensitat alta una sola vegada ('fills de puta'), així com 'idiota' dues vegades.<br><br>Hi ha al·lusions sexuals ocasionals d'explicitació baixa quan una dona s'insinua a un home. Hi ha situacions ocasionals de por i angoixa d'afectació mitjana; un home es fereix els dits després de tocar les cordes d'un violoncel sense arquet, i es fan al·lusions esporàdiques amenaçant a la violència en un context bèl·lic. Hi ha situacions de discriminació quan personatges negatius es refereixen a un altre despectivament per ser jueu. Hi ha conductes incíviques, quan un aprenent menteix el seu mestre i li pren un vinil, que es presenten de manera negativa. Hi ha una escena de violència contra les coses."
   },
   {
     "titol": "Perduda (2014)",
