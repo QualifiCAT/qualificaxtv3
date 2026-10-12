@@ -14,7 +14,7 @@
   {
     "titol": "xd",
     "codi": "contenidors",
-    "edat": ["sense-ficcio", "30-minuts", "60-minuts", "el-monoleg-de-lany", "premis-gaudi-audio", "premis-gaudi", "el-documental", "catalunya-aixeca-el-telo", "punt-de-no-retorn"]
+    "edat": ["sense-ficcio", "30-minuts", "60-minuts", "el-monoleg-de-lany", "premis-gaudi-audio", "premis-gaudi", "el-documental", "catalunya-aixeca-el-telo", "punt-de-no-retorn", "savis"]
   },
   {
     "_comment": "tot això són qualificacions aproximades/calculades per a l'extensió",
@@ -1537,6 +1537,175 @@
     "codi": "6285337",
     "edat": "13",
     "potser": "violència i llenguatge groller"
+  },
+  {
+    "titol": "30m Morts de calor",
+    "codi": "6428178",
+    "edat": "7",
+    "potser": "situacions de por i angoixa i llenguatge groller"
+  },
+  {
+    "titol": "Gent amb DO",
+    "codi": "gent-amb-do",
+    "edat": "13",
+    "potser": "continguts sobre drogues"
+  },
+  {
+    "titol": "Catalunya aixeca el teló 2022",
+    "codi": "6174322",
+    "edat": "10",
+    "potser": "llenguatge groller"
+  },
+  {
+    "titol": "El viatge de Companys",
+    "codi": "el-viatge-de-companys",
+    "edat": "10",
+    "potser": "violència, situacions de por i angoixa, continguts sobre drogues i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "60m Marwan Barghouti: La llibertat del demà",
+    "codi": "6321570",
+    "edat": "13",
+    "potser": "violència i situacions de por i angoixa"
+  },
+  {
+    "titol": "60m El Líban: l'atracament del segle",
+    "codi": "6321570",
+    "edat": "10",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "60m Nicotina, una droga amb futur",
+    "codi": "6275948",
+    "edat": "10",
+    "potser": "continguts sobre drogues"
+  },
+  {
+    "titol": "60m La falsa realitat",
+    "codi": "6270507",
+    "edat": "10",
+    "potser": "violència i situacions de por i angoixa"
+  },
+  {
+    "titol": "60m Veus des de Moçambic",
+    "codi": "4854351",
+    "edat": "10",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "60m Els nens de la passarel·la",
+    "codi": "4744711",
+    "edat": "10",
+    "potser": "situacions de por i angoixa i continguts sobre drogues"
+  },
+  {
+    "titol": "60m Dins el sushi",
+    "codi": "4722431",
+    "edat": "7",
+    "potser": "conductes i valors incívics"
+  },
+  {
+    "titol": "60m L'Amazònia, l'última frontera. Primera part",
+    "codi": "3892930",
+    "edat": "7",
+    "potser": "continguts discriminatoris"
+  },
+  {
+    "titol": "60m L'Amazònia, l'última frontera. Segona part",
+    "codi": "3907350",
+    "edat": "7",
+    "potser": "violència, situacions de por i angoixa, continguts sobre drogues i continguts discriminatoris"
+  },
+  {
+    "titol": "60m L'Amazònia, l'última frontera. Segona part",
+    "codi": "3907350",
+    "edat": "7",
+    "potser": "violència, situacions de por i angoixa, continguts sobre drogues i continguts discriminatoris"
+  },
+  {
+    "titol": "60m Dones en construcció",
+    "codi": "3819330",
+    "edat": "13",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "Savis 9x01",
+    "codi": "6403253",
+    "edat": "7",
+    "potser": "continguts sexuals i situacions de por i angoixa"
+  },
+  {
+    "titol": "Savis 9x02",
+    "codi": "6403254",
+    "edat": "10",
+    "potser": "continguts sobre drogues"
+  },
+  {
+    "titol": "Savis 9x03",
+    "codi": "6403252",
+    "edat": "10",
+    "potser": "continguts sobre drogues"
+  },
+  {
+    "titol": "Savis 9x04",
+    "codi": "6404136",
+    "edat": "10",
+    "potser": "continguts sobre drogues"
+  },
+  {
+    "titol": "Savis 9x05",
+    "codi": "6404140",
+    "edat": "0",
+    "potser": "NO RES"
+  },
+  {
+    "titol": "Savis 9x06",
+    "codi": "6404138",
+    "edat": "10",
+    "potser": "violència i situacions de por i angoixa"
+  },
+  {
+    "titol": "Savis 9x07",
+    "codi": "6404141",
+    "edat": "0",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "Savis 9x09",
+    "codi": "6427532",
+    "edat": "7",
+    "potser": "continguts sexuals i situacions de por i angoixa"
+  },
+  {
+    "titol": "Savis 9x10",
+    "codi": "6427539",
+    "edat": "7",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "Savis 9x11",
+    "codi": "6427538",
+    "edat": "7",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "Savis 9x12",
+    "codi": "6427538",
+    "edat": "0",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "eldocu Supernatural",
+    "codi": "6412721",
+    "edat": "10",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "eldocu Un moment sota el sol",
+    "codi": "6412284",
+    "edat": "10",
+    "potser": "continguts sobre drogues"
   },
   {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
@@ -17854,7 +18023,7 @@
   {
     "titol": "Savis i sàvies",
     "codi": "savis",
-    "edat": "7",
+    "edat": "10",
     "orig": "TP",
     "serie": true,
     "tv3": true,
