@@ -1521,6 +1521,24 @@
     "potser": "continguts sobre drogues"
   },
   {
+    "titol": "eldocu Papallones negres",
+    "codi": "6359186",
+    "edat": "10",
+    "potser": "continguts sexuals, situacions de por i angoixa i continguts sobre drogues"
+  },
+  {
+    "titol": "Mares",
+    "codi": "6390503",
+    "edat": "10",
+    "potser": "continguts sobre drogues i llenguatge groller"
+  },
+  {
+    "titol": "Harta",
+    "codi": "6285337",
+    "edat": "13",
+    "potser": "violència i llenguatge groller"
+  },
+  {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
     "titol": "13 anys... i un dia",
     "codi": "tretze-anys-i-un-dia",
@@ -14677,6 +14695,21 @@
     "sx3": true,
     "raons": "Violència freqüent, irreal, explícita, d'intensitat lleu, legitimada<br>Contingut sexual ocasional d'explicitació mitjana<br>Por i angoixa freqüent d'afectació mitjana",
     "mesinfo": "<b>Violència</b><br>Inclou freqüents escenes d'acció entre robots gegants, amb explosions, projectils, tirotejos, edificis destruïts, etc. Ocasionalment es veu sang: alguns homes es mostren amb ferides al cap, i alguns robots reben impactes més forts del normal a la boca. En una escena, hi ha un tiroteig, sense èxit, contra els protagonistes; una d'ells contraataca lluitant cos a cos contra els dolents. Un home ofereix a una dona de tenir un fill, i ella li etziba una bufetada, perquè ho ha dit públicament.<br><br><b>Sexe</b><br>De tant en tant, es fan primers plans breus, amb intenció cosificadora, de cossos femenins. En dues escenes, personatges femenins es presenten sacsejant els pits i el cul.<br><br><b>Por i angoixa</b><br>Vegeu 'Violència'."
+  },
+  {
+    "titol": "Mecanoscrit del segon origen",
+    "codi": "mecanoscrit-del-segon-origen-miniserie",
+    "edat": "10",
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Mecanoscrit del segon origen 1x01",
+    "codi": "5620943",
+    "edat": "10",
+    "raons": "Por i angoixa freqüent d'afectació mitjana",
+    "mesinfo": "<b>Por i angoixa</b><br>Hi ha presència freqüent de cadàvers repartits pel carrer, després d'un atac alienígena. Es mostren ferides amb sang molt breument.<br><br>Hi ha violència ocasional, versemblant, no explícita, lleu i no legitimada, i situacions discriminatòries amb sanció negativa, en una escena en què dos nois n'assetgen un altre i li fan un comentari despectiu sobre el seu color de pell."
   },
   {
     "titol": "Megamix brutal",
