@@ -14945,7 +14945,7 @@
   {
     "titol": "Mecanoscrit del segon origen",
     "codi": "mecanoscrit-del-segon-origen-miniserie",
-    "edat": "10",
+    "edat": "13",
     "orig": "TP",
     "serie": true,
     "tv3": true
@@ -14956,6 +14956,37 @@
     "edat": "10",
     "raons": "Por i angoixa freqüent d'afectació mitjana",
     "mesinfo": "<b>Por i angoixa</b><br>Hi ha presència freqüent de cadàvers repartits pel carrer, després d'un atac alienígena. Es mostren ferides amb sang molt breument.<br><br>Hi ha violència ocasional, versemblant, no explícita, lleu i no legitimada, i situacions discriminatòries amb sanció negativa, en una escena en què dos nois n'assetgen un altre i li fan un comentari despectiu sobre el seu color de pell."
+  },
+  {
+    "titol": "Mecanoscrit del segon origen 1x02",
+    "codi": "5620981",
+    "edat": "7",
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada<br>Por i angoixa ocasional d'afectació mitjana"
+  },
+  {
+    "titol": "Mecanoscrit del segon origen 1x03",
+    "codi": "5620985",
+    "edat": "7",
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada<br>Por i angoixa ocasional d'afectació mitjana"
+  },
+  {
+    "titol": "Mecanoscrit del segon origen 1x04",
+    "codi": "5620982",
+    "edat": "7",
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat lleu, legitimada<br>Por i angoixa ocasional d'afectació mitjana<br>Comportaments discriminatoris amb sanció negativa"
+  },
+  {
+    "titol": "Mecanoscrit del segon origen 1x05",
+    "codi": "5620983",
+    "edat": "7",
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat lleu, legitimada<br>Por i angoixa ocasional d'afectació mitjana"
+  },
+  {
+    "titol": "Mecanoscrit del segon origen 1x06",
+    "codi": "5621004",
+    "edat": "13",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat greu, no legitimada",
+    "mesinfo": "<b>Violència</b><br>Hi ha una escena prolongada en què dos homes persegueixen una dona per violar-la. Li obren la brusa i un d'ells es col·loca sobre la seva pelvis mentre es descorda els pantalons, mentre un tercer home observa i es fica una mà a les butxaca i la comença a moure amunt i avall. Els agressors reben un tret amb una arma i acaben socarrimats i en els ossos. També hi ha una escena de violència irreal d'intensitat lleu no explícita provinent d'un episodi anterior, quan una figura és ametrallada i cau a terra.<br><br>Ignorant els continguts descrits a 'Violència', hi ha continguts sexuals ocasionals d'explicitació baixa, ja que es mostra una escena de sexe entre els protagonistes amb petons apassionats i primers plans de mans i esquenes, evitant imatges explícites. Hi ha situacions de por i angoixa ocasional d'afectació mitjana."
   },
   {
     "titol": "Megamix brutal",
@@ -19223,6 +19254,26 @@
     "edat": "13",
     "raons": "Al·lusions al consum de drogues lícites (alcohol) i il·lícites (marihuana), presentades de manera neutra<br>Llenguatge groller freqüent d'intensitat alta",
     "mesinfo": "<b>Drogues</b><br>Es fan referències neutres en un context humorístic al consum de marihuana quan es comenten els ulls dels furbys, 'que sembla que hagin fumat un porro de la mida del braç de Marc Gasol'. També es fan referències neutres al consum d'alcohol ('el president de Rússia, un home amb més alcohol a la sang que a la nevera', 'com el pedal que portava l'hongarès que li va comprar la patent').<br><br><b>Llenguatge groller</b><br>Es diu 'acollonit', 'fins als collons', 'gilipollas', 'me jodí', 'que les den por culo' i 'merda', entre d'altres, sovint de manera agressiva.<br><br>Es fan referències sexuals ocasionals d'explicitació mitjana en comentar el cas Lewinsky; s'ensenya un vestit tacat que es diu que és semen que un home ensuma."
+  },
+  {
+    "titol": "Tres estrelles",
+    "codi": "tres-estrelles",
+    "edat": "7",
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Tres estrelles 1x01 - Músics",
+    "codi": "5758986",
+    "edat": "7",
+    "raons": "Continguts sexuals ocasionals d'explicitació baixa<br>Consum de drogues lícites (tabac), presentat de manera negativa"
+  },
+  {
+    "titol": "Tres estrelles 1x01 - Músics",
+    "codi": "5758986",
+    "edat": "7",
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat lleu, legitimada<br>Continguts sexuals ocasionals d'explicitació baixa"
   },
   {
     "titol": "Tria una carta",
