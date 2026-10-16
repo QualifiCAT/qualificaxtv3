@@ -1765,6 +1765,12 @@
     "serie": true
   },
   {
+    "titol": "Delictes d'art 1x01",
+    "codi": "6345698",
+    "edat": "13",
+    "potser": "NO RES",
+  },
+  {
     "titol": "Assetjats",
     "codi": "assetjats",
     "edat": "13",
@@ -1772,11 +1778,150 @@
     "serie": true
   },
   {
+    "titol": "Assetjats 1x01",
+    "codi": "6345676",
+    "edat": "13",
+    "potser": "NO RES",
+  },
+  {
     "titol": "Dins la ment del criminal",
     "codi": "dins-la-ment-del-criminal",
     "edat": "13",
     "potser": "violència, continguts sexuals, situacions de por i angoixa i continguts sobre drogues",
     "serie": true
+  },
+  {
+    "titol": "Dins la ment del criminal 1x01",
+    "codi": "6345685",
+    "edat": "13",
+    "potser": "NO RES",
+  },
+  {
+    "titol": "Qui va matar la Meredith Kercher?",
+    "codi": "qui-va-matar-la-meredith-kercher",
+    "edat": "13",
+    "potser": "violència, situacions de por i angoixa i continguts sobre drogues",
+    "serie": true
+  },
+  {
+    "titol": "Qui va matar la Meredith Kercker? 1x01",
+    "codi": "6279390",
+    "edat": "13",
+    "potser": "NO RES"
+  },
+  {
+    "titol": "A sang freda",
+    "codi": "a-sang-freda",
+    "edat": "13",
+    "potser": "violència, situacions de por i angoixa i continguts sobre drogues",
+    "serie": true
+  },
+  {
+    "titol": "A sang freda 8x01",
+    "codi": "6345677",
+    "edat": "13",
+    "potser": "NO RES"
+  },
+  {
+    "titol": "Crims",
+    "codi": "crims-tv",
+    "edat": "13",
+    "potser": "violència, continguts sexuals, situacions de por i angoixa, continguts sobre drogues i llenguatge groller"
+  },
+  {
+    "titol": "TikTok: Assassinat viral",
+    "codi": "tiktok-assassinat-viral",
+    "edat": "13",
+    "potser": "violència i situacions de por i angoixa",
+    "serie": true
+  },
+  {
+    "titol": "TikTok: Assassinat viral 1x01",
+    "codi": "6345689",
+    "edat": "13",
+    "potser": "NO RES"
+  },
+  {
+    "titol": "Un assassí a la família",
+    "codi": "un-assassi-a-la-familia",
+    "edat": "13",
+    "potser": "violència i situacions de por i angoixa",
+    "serie": true
+  },
+  {
+    "titol": "Un assassí a la família 3x01",
+    "codi": "6345684",
+    "edat": "13",
+    "potser": "NO RES"
+  },
+  {
+    "titol": "Natascha Kampusch. Una vida a la presó",
+    "codi": "natascha-kampusch-una-vida-a-la-preso",
+    "edat": "13",
+    "potser": "violència i situacions de por i angoixa",
+    "serie": true
+  },
+  {
+    "titol": "Natascha Kampusch. Una vida a la presó 1x01",
+    "codi": "6345696",
+    "edat": "13",
+    "potser": "NO RES"
+  },
+  {
+    "titol": "El búnquer",
+    "codi": "el-bunquer",
+    "edat": "13",
+    "serie": true
+  },
+  {
+    "titol": "Bestial",
+    "codi": "bestial",
+    "edat": "10",
+    "serie": true
+  },
+  {
+    "titol": "Trencacors buidacarteres",
+    "codi": "trencacors-buidacarteres",
+    "edat": "10",
+    "potser": "situacions de por i angoixa",
+    "serie": true
+  },
+  {
+    "titol": "Trencacors buidacarteres 1x01",
+    "codi": "6345678",
+    "edat": "10",
+    "potser": "NO RES"
+  },
+  {
+    "titol": "Manson: Les cintes perdudes",
+    "codi": "manson-les-cintes-perdudes",
+    "edat": "13",
+    "potser": "violència, continguts sexuals, situacions de por i angoixa i continguts sobre drogues",
+    "serie": true
+  },
+  {
+    "titol": "Manson: Les cintes perdudes 1x01",
+    "codi": "6278922",
+    "edat": "13",
+    "potser": "NO RES"
+  },
+  {
+    "titol": "30m Juárez, crims sense resposta",
+    "codi": "200528419",
+    "edat": "13",
+    "potser": "violència i situacions de por i angoixa"
+  },
+  {
+    "titol": "30m El final de la cacera",
+    "codi": "6278322",
+    "edat": "13",
+    "potser": "violència i situacions de por i angoixa"
+  },
+  {
+    "titol": "L'última esperança de Paco",
+    "codi": "1408809",
+    "edat": "13",
+    "potser": "violència i situacions de por i angoixa"
   },
   {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
@@ -8390,6 +8535,15 @@
     "raons": "Por i angoixa freqüent d'afectació mitjana"
   },
   {
+    "titol": "Fred i Rose West: La casa dels horrors (2019)",
+    "codi": "6279145",
+    "edat": "13",
+    "orig": "18",
+    "peli": true,
+    "3cat": true,
+    "raons": "Violència freqüent, versemblant, explícita, d'intensitat molt greu, no legitimada<br>Por i angoixa reiterada d'afectació mitjana"
+  },
+  {
     "titol": "Fuet",
     "codi": "fuet",
     "edat": "10",
@@ -14986,7 +15140,13 @@
     "codi": "5621004",
     "edat": "13",
     "raons": "Violència ocasional, versemblant, explícita, d'intensitat greu, no legitimada",
-    "mesinfo": "<b>Violència</b><br>Hi ha una escena prolongada en què dos homes persegueixen una dona per violar-la. Li obren la brusa i un d'ells es col·loca sobre la seva pelvis mentre es descorda els pantalons, mentre un tercer home observa i es fica una mà a les butxaca i la comença a moure amunt i avall. Els agressors reben un tret amb una arma i acaben socarrimats i en els ossos. També hi ha una escena de violència irreal d'intensitat lleu no explícita provinent d'un episodi anterior, quan una figura és ametrallada i cau a terra.<br><br>Ignorant els continguts descrits a 'Violència', hi ha continguts sexuals ocasionals d'explicitació baixa, ja que es mostra una escena de sexe entre els protagonistes amb petons apassionats i primers plans de mans i esquenes, evitant imatges explícites. Hi ha situacions de por i angoixa ocasional d'afectació mitjana."
+    "mesinfo": "<b>Violència</b><br>Hi ha una escena prolongada en què dos homes persegueixen una dona per violar-la. Li obren la brusa i un d'ells es col·loca sobre la seva pelvis mentre es descorda els pantalons, mentre un tercer home observa i es fica una mà a les butxaca i la comença a moure amunt i avall. Els agressors reben un tret amb una arma irreal i acaben socarrimats i en els ossos. També hi ha una escena de violència irreal d'intensitat lleu no explícita provinent d'un episodi anterior, quan una figura és ametrallada i cau a terra.<br><br>Ignorant els continguts descrits a 'Violència', hi ha continguts sexuals ocasionals d'explicitació baixa, ja que es mostra una escena de sexe entre els protagonistes amb petons apassionats i primers plans de mans i esquenes, evitant imatges explícites. Hi ha situacions de por i angoixa ocasional d'afectació mitjana."
+  },
+  {
+    "titol": "Mecanoscrit del segon origen 1x07",
+    "codi": "5620986",
+    "edat": "10",
+    "raons": "Por i angoixa freqüent d'afectació mitjana"
   },
   {
     "titol": "Megamix brutal",
