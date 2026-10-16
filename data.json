@@ -1758,6 +1758,27 @@
     "potser": "violència i situacions de por i angoixa"
   },
   {
+    "titol": "Delictes d'art",
+    "codi": "delictes-dart",
+    "edat": "13",
+    "potser": "continguts sobre drogues",
+    "serie": true
+  },
+  {
+    "titol": "Assetjats",
+    "codi": "assetjats",
+    "edat": "13",
+    "potser": "situacions de por i angoixa",
+    "serie": true
+  },
+  {
+    "titol": "Dins la ment del criminal",
+    "codi": "dins-la-ment-del-criminal",
+    "edat": "13",
+    "potser": "violència, continguts sexuals, situacions de por i angoixa i continguts sobre drogues",
+    "serie": true
+  },
+  {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
     "titol": "13 anys... i un dia",
     "codi": "tretze-anys-i-un-dia",
