@@ -1548,7 +1548,8 @@
     "titol": "Gent amb DO",
     "codi": "gent-amb-do",
     "edat": "13",
-    "potser": "continguts sobre drogues"
+    "potser": "continguts sobre drogues",
+    "serie": true
   },
   {
     "titol": "Catalunya aixeca el teló 2022",
@@ -1768,7 +1769,7 @@
     "titol": "Delictes d'art 1x01",
     "codi": "6345698",
     "edat": "13",
-    "potser": "NO RES"
+    "potser": "PASSA"
   },
   {
     "titol": "Assetjats",
@@ -1781,7 +1782,7 @@
     "titol": "Assetjats 1x01",
     "codi": "6345676",
     "edat": "13",
-    "potser": "NO RES"
+    "potser": "PASSA"
   },
   {
     "titol": "Dins la ment del criminal",
@@ -1794,7 +1795,7 @@
     "titol": "Dins la ment del criminal 1x01",
     "codi": "6345685",
     "edat": "13",
-    "potser": "NO RES"
+    "potser": "PASSA"
   },
   {
     "titol": "Qui va matar la Meredith Kercher?",
@@ -1807,7 +1808,7 @@
     "titol": "Qui va matar la Meredith Kercker? 1x01",
     "codi": "6279390",
     "edat": "13",
-    "potser": "NO RES"
+    "potser": "PASSA"
   },
   {
     "titol": "A sang freda",
@@ -1820,7 +1821,7 @@
     "titol": "A sang freda 8x01",
     "codi": "6345677",
     "edat": "13",
-    "potser": "NO RES"
+    "potser": "PASSA"
   },
   {
     "titol": "Crims",
@@ -1839,7 +1840,7 @@
     "titol": "TikTok: Assassinat viral 1x01",
     "codi": "6345689",
     "edat": "13",
-    "potser": "NO RES"
+    "potser": "PASSA"
   },
   {
     "titol": "Un assassí a la família",
@@ -1852,7 +1853,7 @@
     "titol": "Un assassí a la família 3x01",
     "codi": "6345684",
     "edat": "13",
-    "potser": "NO RES"
+    "potser": "PASSA"
   },
   {
     "titol": "Natascha Kampusch. Una vida a la presó",
@@ -1865,7 +1866,7 @@
     "titol": "Natascha Kampusch. Una vida a la presó 1x01",
     "codi": "6345696",
     "edat": "13",
-    "potser": "NO RES"
+    "potser": "PASSA"
   },
   {
     "titol": "El búnquer",
@@ -1890,7 +1891,7 @@
     "titol": "Trencacors buidacarteres 1x01",
     "codi": "6345678",
     "edat": "10",
-    "potser": "NO RES"
+    "potser": "PASSA"
   },
   {
     "titol": "Manson: Les cintes perdudes",
@@ -1903,7 +1904,7 @@
     "titol": "Manson: Les cintes perdudes 1x01",
     "codi": "6278922",
     "edat": "13",
-    "potser": "NO RES"
+    "potser": "PASSA"
   },
   {
     "titol": "30m Juárez, crims sense resposta",
@@ -1922,6 +1923,164 @@
     "codi": "1408809",
     "edat": "13",
     "potser": "violència i situacions de por i angoixa"
+  },
+  {
+    "titol": "SF Ajoblanco, crònica en blanc i negre",
+    "codi": "5571036",
+    "edat": "13",
+    "potser": "continguts sobre drogues"
+  },
+  {
+    "titol": "SF Alertadors contra la corrupció",
+    "codi": "5560171",
+    "edat": "10",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "SF Ambaixadors del gust",
+    "codi": "5469916",
+    "edat": "10",
+    "potser": "continguts sobre drogues"
+  },
+  {
+    "titol": "SF Amenaça totalitària",
+    "codi": "5862766",
+    "edat": "10",
+    "potser": "violència i situacions de por i angoixa"
+  },
+  {
+    "titol": "SF American Jesus",
+    "codi": "4472711",
+    "edat": "13",
+    "potser": "continguts sobre drogues"
+  },
+  {
+    "titol": "SF Amors tutelats, somnis d'igualtat",
+    "codi": "6160770",
+    "edat": "10",
+    "potser": "continguts sexuals i llenguatge groller"
+  },
+  {
+    "titol": "SF Anatomia d'un rei",
+    "codi": "3089930",
+    "edat": "7",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "Angelo, desperta't. És Nadal!",
+    "codi": "6256802",
+    "edat": "7",
+    "potser": "llenguatge groller i conductes i valors incívics"
+  },
+  {
+    "titol": "30m Animals i companyia",
+    "codi": "6197179",
+    "edat": "10",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "30m Armes, en el punt de mira",
+    "codi": "6150946",
+    "edat": "10",
+    "potser": "violència i situacions de por i angoixa"
+  },
+  {
+    "titol": "30m Arriba España",
+    "codi": "5768163",
+    "edat": "10",
+    "potser": "violència i llenguatge groller"
+  },
+  {
+    "titol": "30m Assignatures pendents",
+    "codi": "3847310",
+    "edat": "7",
+    "potser": "llenguatge groller"
+  },
+  {
+    "titol": "30m Atrapats pel gasoil",
+    "codi": "3847310",
+    "edat": "0",
+    "potser": "NO RES"
+  },
+  {
+    "titol": "SF Avi, et trauré d'aquí!",
+    "codi": "3847310",
+    "edat": "13",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "SF Àfrica: Torneu-nos l'art robat",
+    "codi": "6345856",
+    "edat": "10",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "SF Adopcions, 18 anys després",
+    "codi": "5073958",
+    "edat": "13",
+    "potser": "continguts sobre drogues"
+  },
+  {
+    "titol": "30m A dieta",
+    "codi": "6389899",
+    "edat": "10",
+    "potser": "llenguatge groller"
+  },
+  {
+    "titol": "A la presó",
+    "codi": "alapreso",
+    "edat": "13",
+    "potser": "situacions de por i angoixa i continguts sobre drogues",
+    "serie": true
+  },
+  {
+    "titol": "30m AP-7, al límit",
+    "codi": "6411960",
+    "edat": "7",
+    "potser": "situacions de por i angoixa i conductes i valors incívics"
+  },
+  {
+    "titol": "A Pera picada",
+    "codi": "a-pera-picada",
+    "edat": "10",
+    "potser": "llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "30m A tocar del cel",
+    "codi": "6409924",
+    "edat": "0",
+    "potser": "NO RES"
+  },
+  {
+    "titol": "SF A un lloc de la ment",
+    "codi": "6407666",
+    "edat": "7",
+    "potser": "continguts sobre drogues i llenguatge groller"
+  },
+  {
+    "titol": "One Piece 7x01",
+    "codi": "6385620",
+    "edat": "13",
+    "potser": "PASSA"
+  },
+  {
+    "titol": "Conan el nen del futur 1x01",
+    "codi": "6395203",
+    "edat": "10",
+    "potser": "PASSA"
+  },
+  {
+    "titol": "Bola de Drac 1x01",
+    "codi": "3929971",
+    "edat": "13",
+    "potser": "PASSA"
+  },
+  {
+    "titol": "La teva mentida a l'abril 1x01",
+    "codi": "6315742",
+    "edat": "13",
+    "potser": "PASSA"
   },
   {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
