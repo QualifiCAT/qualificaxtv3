@@ -661,14 +661,14 @@
     "serie": true
   },
   {
-    "titol": "Oh, Europa!",
+    "titol": "Oh! Europa",
     "codi": "oh-europa",
     "edat": "13",
     "potser": "continguts sexuals, continguts sobre drogues i continguts discriminatoris",
     "serie": true
   },
   {
-    "titol": "Oh, Espanya!",
+    "titol": "Oh! Espanya",
     "codi": "oh-espanya",
     "edat": "13",
     "potser": "continguts sobre drogues",
@@ -1913,6 +1913,7 @@
     "titol": "Bestial",
     "codi": "bestial",
     "edat": "10",
+    "potser": "continguts sexuals i llenguatge groller",
     "serie": true
   },
   {
@@ -2254,6 +2255,72 @@
     "codi": "5576161",
     "edat": "10",
     "raons": "llenguatge groller"
+  },
+  {
+    "titol": "A tocar de l'aigua",
+    "codi": "a-tocar-de-laigua",
+    "edat": "10",
+    "serie": true
+  },
+  {
+    "titol": "Àngel Casas Show",
+    "codi": "angel-casas-show",
+    "edat": "13",
+    "serie": true
+  },
+  {
+    "titol": "Això no és un trio",
+    "codi": "aixo-no-es-un-trio",
+    "edat": "10",
+    "potser": "continguts sexuals i continguts sobre drogues",
+    "serie": true
+  },
+  {
+    "titol": "Anticossos",
+    "codi": "anticossos",
+    "edat": "13",
+    "potser": "violència i situacions de por i angoixa",
+    "serie": true
+  },
+  {
+    "titol": "Jugada mestra",
+    "codi": "jugada-mestra",
+    "edat": "13",
+    "potser": "continguts sobre drogues i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "Coolhunters",
+    "codi": "coolhunters",
+    "edat": "13",
+    "potser": "continguts sexuals, continguts sobre drogues i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "Bogeria a la pastisseria",
+    "codi": "bogeria-a-la-pastisseria",
+    "edat": "10",
+    "potser": "llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "Laura",
+    "codi": "laura",
+    "edat": "10",
+    "potser": "continguts sexuals, continguts sobre drogues, llenguatge groller i conductes i valors incívics",
+    "serie": true
+  },
+  {
+    "titol": "Amb l'aigua al coll",
+    "codi": "aigua-coll",
+    "edat": "7",
+    "serie": true
+  },
+  {
+    "titol": "Barçòvia",
+    "codi": "barcovia",
+    "edat": "13",
+    "serie": true
   },
   {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
@@ -3553,6 +3620,16 @@
     "mesinfo": "<b>Llenguatge groller</b><br>Es diu 'no fotis'.<br><br>Hi ha situacions ocasionals de por i angoixa lleu en comentar la mortalitat de la picada d'una aranya."
   },
   {
+    "titol": "Bestiari il·lustrat",
+    "codi": "bestiari",
+    "edat": "10",
+    "orig": "TP",
+    "cac": "10",
+    "potser": "llenguatge groller",
+    "serie": true,
+    "tv3": true
+  },
+  {
     "titol": "Black Clover",
     "codi": "black-clover",
     "edat": "13",
@@ -4374,6 +4451,16 @@
     "peli": true,
     "sx3": true,
     "raons": "Abús de drogues lícites (alcohol) presentat de forma neutra"
+  },
+  {
+    "titol": "Buscant la Trinca",
+    "codi": "buscantlatrinca",
+    "edat": "13",
+    "orig": "TP",
+    "cac": "13",
+    "potser": "llenguatge groller",
+    "serie": true,
+    "tv3": true
   },
   {
     "titol": "Bye Bye Monstre (teatre)",
