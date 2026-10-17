@@ -14,7 +14,7 @@
   {
     "titol": "xd",
     "codi": "contenidors",
-    "edat": ["sense-ficcio", "30-minuts", "60-minuts", "el-monoleg-de-lany", "premis-gaudi-audio", "premis-gaudi", "el-documental", "catalunya-aixeca-el-telo", "punt-de-no-retorn", "savis"]
+    "edat": ["sense-ficcio", "30-minuts", "60-minuts", "el-monoleg-de-lany", "premis-gaudi-audio", "premis-gaudi", "el-documental", "catalunya-aixeca-el-telo", "punt-de-no-retorn", "savis", "sala-33"]
   },
   {
     "_comment": "tota la història que s'ha de fer per a les col·leccions",
@@ -2094,6 +2094,168 @@
     "raons": "llenguatge groller"
   },
   {
+    "titol": "Bajarí",
+    "codi": "5614887",
+    "edat": "10",
+    "raons": "continguts sobre drogues i llenguatge groller"
+  },
+  {
+    "titol": "SF Balls robats",
+    "codi": "3729330",
+    "edat": "13",
+    "raons": "continguts sobre drogues"
+  },
+  {
+    "titol": "SF Balls robats",
+    "codi": "3729330",
+    "edat": "13",
+    "raons": "continguts sobre drogues"
+  },
+  {
+    "titol": "SF Barcelona 1962. L'ombra dels Creix",
+    "codi": "5307786",
+    "edat": "13",
+    "raons": "violència"
+  },
+  {
+    "titol": "30m Barcelona es lloga",
+    "codi": "5676438",
+    "edat": "0",
+    "raons": "NO RES"
+  },
+  {
+    "titol": "30m Barcelona, any 39: arriba Franco",
+    "codi": "4874291",
+    "edat": "10",
+    "raons": "situacions de por i angoixa"
+  },
+  {
+    "titol": "30m Barcelona: sobreviure a un atemptat",
+    "codi": "1461109",
+    "edat": "13",
+    "raons": "situacions de por i angoixa"
+  },
+  {
+    "titol": "SF Barraques. La ciutat oblidada",
+    "codi": "2333059",
+    "edat": "10",
+    "raons": "situacions de por i angoixa"
+  },
+  {
+    "titol": "SF Bicicleta cullera poma",
+    "codi": "5817668",
+    "edat": "10",
+    "raons": "situacions de por i angoixa i llenguatge groller"
+  },
+  {
+    "titol": "SF Bicicleta cullera poma",
+    "codi": "5817668",
+    "edat": "10",
+    "raons": "situacions de por i angoixa i llenguatge groller"
+  },
+  {
+    "titol": "Bits",
+    "codi": "6258439",
+    "edat": "10",
+    "raons": "continguts sexuals i llenguatge groller"
+  },
+  {
+    "titol": "Bits",
+    "codi": "6258439",
+    "edat": "10",
+    "raons": "continguts sexuals i llenguatge groller"
+  },
+  {
+    "titol": "SF Boris Skossyreff, l'estafador que va ser rei",
+    "codi": "6382393",
+    "edat": "13",
+    "raons": "continguts sobre drogues"
+  },
+  {
+    "titol": "SF De Badalona a Brooklyn",
+    "codi": "6409726",
+    "edat": "7",
+    "raons": "llenguatge groller"
+  },
+  {
+    "titol": "SF El petit peó",
+    "codi": "6406509",
+    "edat": "7",
+    "raons": "continguts discriminatoris"
+  },
+  {
+    "titol": "SF Moure muntanyes (VO)",
+    "codi": "6386649",
+    "edat": "10",
+    "raons": "situacions de por i angoixa"
+  },
+  {
+    "titol": "SF Moure muntanyes (LSC)",
+    "codi": "6415328",
+    "edat": "10",
+    "raons": "situacions de por i angoixa"
+  },
+  {
+    "titol": "SF Déu ho veu",
+    "codi": "6385632",
+    "edat": "10",
+    "raons": "continguts sexuals, continguts sobre drogues i llenguatge groller"
+  },
+  {
+    "titol": "SF Mentre siguis tu. L'aquí i ara de Carme Elias",
+    "codi": "6318323",
+    "edat": "10",
+    "raons": "situacions de por i angoixa"
+  },
+  {
+    "titol": "SF Respira, mama",
+    "codi": "6314551",
+    "edat": "10",
+    "raons": "situacions de por i angoixa i llenguatge groller"
+  },
+  {
+    "titol": "SF Sexe, maraques i chihuahues",
+    "codi": "5620830",
+    "edat": "10",
+    "raons": "continguts sexuals, continguts sobre drogues i llenguatge groller"
+  },
+  {
+    "titol": "SF Breathe",
+    "codi": "6150958",
+    "edat": "13",
+    "raons": "violència, situacions de por i angoixa, continguts sobre drogues i llenguatge groller"
+  },
+  {
+    "titol": "SF Broadway",
+    "codi": "6284016",
+    "edat": "10",
+    "raons": "continguts sexuals i llenguatge groller"
+  },
+  {
+    "titol": "SF Buit, ple. La ciutat arítmica",
+    "codi": "4600771",
+    "edat": "0",
+    "raons": "NO RES"
+  },
+  {
+    "titol": "30m Bullying",
+    "codi": "5441053",
+    "edat": "13",
+    "raons": "situacions de por i angoixa"
+  },
+  {
+    "titol": "30m Buscant el nen de Nagasaki",
+    "codi": "6337345",
+    "edat": "13",
+    "raons": "situacions de por i angoixa"
+  },
+  {
+    "titol": "SF Barça Dreams",
+    "codi": "5576161",
+    "edat": "10",
+    "raons": "llenguatge groller"
+  },
+  {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
     "titol": "13 anys... i un dia",
     "codi": "tretze-anys-i-un-dia",
@@ -3368,7 +3530,7 @@
   },
   {
     "titol": "Bestial!",
-    "codi": "bestial-sx3",
+    "codi": "bestial-super3",
     "edat": "7",
     "orig": "TP",
     "imdb": "tt2485302",
