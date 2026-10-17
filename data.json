@@ -2770,6 +2770,32 @@
     "mesinfo": "<b>Por i angoixa</b><br>Es veuen imatges d'alguns dels rescats que l'organització ha dut a terme, enmig del mar o a la costa, així com de moments de tensió dins el vaixell perquè no podien desembarcar, amb crits, plors, persones en estat precari, etc. Es mencionen xifres de morts i es demana no mirar els cadàvers que hi ha a l'aigua. Es veu una fotografia d'un nen mort a la costa en un diari. Un polític parla de 'violadors' per referir-se a immigrants que suposadament importa l'organització.<br><br><b>Drogues</b><br>Un personatge protagonista fuma una shisha en una ocasió; la càmera en fa un primer pla. També es veu un home amb un cigarret a la mà.<br><br><b>Llenguatge groller</b><br>Es diu 'a hostias', 'putada' i 'mierda'.<br><br>Hi ha situacions discriminatòries amb sanció negativa quan s'ensenyen declaracions de polítics generalitzant negativament sobre els immigrants."
   },
   {
+    "titol": "Agència de viatges",
+    "codi": "agencia-de-viatges",
+    "edat": "10",
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Agència de viatges 1x01 - La revolució",
+    "codi": "5929731",
+    "edat": "7",
+    "raons": "Continguts sexuals ocasionals d'explicitació baixa<br>Por i angoixa freqüent d'afectació lleu<br>Al·lusions al consum de drogues lícites (alcohol, tabac), presentat de manera negativa<br>Comportaments discriminatoris amb sanció negativa<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa"
+  },
+  {
+    "titol": "Agència de viatges 1x02 - El gat",
+    "codi": "5929738",
+    "edat": "7",
+    "raons": "Continguts sexuals ocasionals d'explicitació baixa<br>Por i angoixa freqüent d'afectació lleu<br>Comportaments discriminatoris amb sanció negativa<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa"
+  },
+  {
+    "titol": "Agència de viatges 1x13 - Tancats",
+    "codi": "5929730",
+    "edat": "10",
+    "raons": "Continguts sexuals reiterats d'explicitació baixa<br>Al·lusions al consum de drogues lícites (alcohol), presentat de manera neutra"
+  },
+  {
     "titol": "Agència galàctica",
     "codi": "agencia-galactica",
     "edat": "7",
