@@ -2323,6 +2323,36 @@
     "serie": true
   },
   {
+    "titol": "Les filles de Mohamed",
+    "codi": "3080670",
+    "edat": "10",
+    "potser": "continguts sexuals, situacions de por i angoixa, continguts sobre drogues i llenguatge groller"
+  },
+  {
+    "titol": "Nedant en llibertat",
+    "codi": "6410357",
+    "edat": "7",
+    "potser": "situacions de por i angoixa, llenguatge groller i conductes i valors incívics"
+  },
+  {
+    "titol": "Frederica Montseny, la dona que parla",
+    "codi": "6086856",
+    "edat": "10",
+    "potser": "violència, situacions de por i angoixa i continguts sobre drogues"
+  },
+  {
+    "titol": "Sis nits d'agost",
+    "codi": "6173221",
+    "edat": "13",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "Loli Tormenta",
+    "codi": "6319087",
+    "edat": "13",
+    "potser": "llenguatge groller"
+  },
+  {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
     "titol": "13 anys... i un dia",
     "codi": "tretze-anys-i-un-dia",
@@ -2774,6 +2804,7 @@
     "codi": "agencia-de-viatges",
     "edat": "10",
     "orig": "TP",
+    "potser": "continguts sexuals i continguts sobre drogues",
     "serie": true,
     "tv3": true
   },
@@ -20279,6 +20310,26 @@
     "csm": "tv-reviews/vic-the-viking",
     "serie": true,
     "sx3": true
+  },
+  {
+    "titol": "Vida privada",
+    "codi": "vidaprivada",
+    "edat": "13",
+    "orig": "13",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Vida privada 1x01",
+    "codi": "5763048",
+    "edat": "13",
+    "raons": "Continguts sexuals ocasionals d'explicitació alta<br>Consum de drogues lícites (tabac, alcohol) i il·lícites (cocaïna), presentat de manera neutra"
+  },
+  {
+    "titol": "Vida privada 1x02",
+    "codi": "5764265",
+    "edat": "13",
+    "raons": "Continguts sexuals ocasionals d'explicitació alta"
   },
   {
     "titol": "Vinagre",
