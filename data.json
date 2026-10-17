@@ -17,6 +17,82 @@
     "edat": ["sense-ficcio", "30-minuts", "60-minuts", "el-monoleg-de-lany", "premis-gaudi-audio", "premis-gaudi", "el-documental", "catalunya-aixeca-el-telo", "punt-de-no-retorn", "savis"]
   },
   {
+    "_comment": "tota la història que s'ha de fer per a les col·leccions",
+    "titol": "Manson: Les cintes perdudes 1x01",
+    "codi": "6278922PASSA",
+    "edat": "13"
+  },
+  {
+    "titol": "Delictes d'art 1x01",
+    "codi": "6345698PASSA",
+    "edat": "13"
+  },
+  {
+    "titol": "Assetjats 1x01",
+    "codi": "6345676PASSA",
+    "edat": "13"
+  },
+  {
+    "titol": "Dins la ment del criminal 1x01",
+    "codi": "6345685PASSA",
+    "edat": "13"
+  },
+  {
+    "titol": "Qui va matar la Meredith Kercker? 1x01",
+    "codi": "6279390PASSA",
+    "edat": "13"
+  },
+  {
+    "titol": "A sang freda 8x01",
+    "codi": "6345677PASSA",
+    "edat": "13"
+  },
+  {
+    "titol": "TikTok: Assassinat viral 1x01",
+    "codi": "6345689PASSA",
+    "edat": "13"
+  },
+  {
+    "titol": "Un assassí a la família 3x01",
+    "codi": "6345684PASSA",
+    "edat": "13"
+  },
+  {
+    "titol": "Natascha Kampusch. Una vida a la presó 1x01",
+    "codi": "6345696PASSA",
+    "edat": "13"
+  },
+  {
+    "titol": "One Piece 7x01",
+    "codi": "6385620PASSA",
+    "edat": "13"
+  },
+  {
+    "titol": "Conan el nen del futur 1x01",
+    "codi": "6395203PASSA",
+    "edat": "10"
+  },
+  {
+    "titol": "Trencacors buidacarteres 1x01",
+    "codi": "6345678PASSA",
+    "edat": "10"
+  },
+  {
+    "titol": "Bola de Drac 1x01",
+    "codi": "3929971PASSA",
+    "edat": "13"
+  },
+  {
+    "titol": "La teva mentida a l'abril 1x01",
+    "codi": "6315742PASSA",
+    "edat": "13"
+  },
+  {
+    "titol": "Guardians de la nit 1x01",
+    "codi": "6178403PASSA",
+    "edat": "18"
+  },
+  {
     "_comment": "tot això són qualificacions aproximades/calculades per a l'extensió",
     "titol": "Match point",
     "codi": "6412444",
@@ -1766,36 +1842,19 @@
     "serie": true
   },
   {
-    "titol": "Delictes d'art 1x01",
-    "codi": "6345698",
-    "edat": "13",
-    "potser": "PASSA"
-  },
-  {
     "titol": "Assetjats",
     "codi": "assetjats",
     "edat": "13",
     "potser": "situacions de por i angoixa",
     "serie": true
   },
-  {
-    "titol": "Assetjats 1x01",
-    "codi": "6345676",
-    "edat": "13",
-    "potser": "PASSA"
-  },
+
   {
     "titol": "Dins la ment del criminal",
     "codi": "dins-la-ment-del-criminal",
     "edat": "13",
     "potser": "violència, continguts sexuals, situacions de por i angoixa i continguts sobre drogues",
     "serie": true
-  },
-  {
-    "titol": "Dins la ment del criminal 1x01",
-    "codi": "6345685",
-    "edat": "13",
-    "potser": "PASSA"
   },
   {
     "titol": "Qui va matar la Meredith Kercher?",
@@ -1805,23 +1864,11 @@
     "serie": true
   },
   {
-    "titol": "Qui va matar la Meredith Kercker? 1x01",
-    "codi": "6279390",
-    "edat": "13",
-    "potser": "PASSA"
-  },
-  {
     "titol": "A sang freda",
     "codi": "a-sang-freda",
     "edat": "13",
     "potser": "violència, situacions de por i angoixa i continguts sobre drogues",
     "serie": true
-  },
-  {
-    "titol": "A sang freda 8x01",
-    "codi": "6345677",
-    "edat": "13",
-    "potser": "PASSA"
   },
   {
     "titol": "Crims",
@@ -1837,12 +1884,6 @@
     "serie": true
   },
   {
-    "titol": "TikTok: Assassinat viral 1x01",
-    "codi": "6345689",
-    "edat": "13",
-    "potser": "PASSA"
-  },
-  {
     "titol": "Un assassí a la família",
     "codi": "un-assassi-a-la-familia",
     "edat": "13",
@@ -1850,23 +1891,11 @@
     "serie": true
   },
   {
-    "titol": "Un assassí a la família 3x01",
-    "codi": "6345684",
-    "edat": "13",
-    "potser": "PASSA"
-  },
-  {
     "titol": "Natascha Kampusch. Una vida a la presó",
     "codi": "natascha-kampusch-una-vida-a-la-preso",
     "edat": "13",
     "potser": "violència i situacions de por i angoixa",
     "serie": true
-  },
-  {
-    "titol": "Natascha Kampusch. Una vida a la presó 1x01",
-    "codi": "6345696",
-    "edat": "13",
-    "potser": "PASSA"
   },
   {
     "titol": "El búnquer",
@@ -1888,23 +1917,11 @@
     "serie": true
   },
   {
-    "titol": "Trencacors buidacarteres 1x01",
-    "codi": "6345678",
-    "edat": "10",
-    "potser": "PASSA"
-  },
-  {
     "titol": "Manson: Les cintes perdudes",
     "codi": "manson-les-cintes-perdudes",
     "edat": "13",
     "potser": "violència, continguts sexuals, situacions de por i angoixa i continguts sobre drogues",
     "serie": true
-  },
-  {
-    "titol": "Manson: Les cintes perdudes 1x01",
-    "codi": "6278922",
-    "edat": "13",
-    "potser": "PASSA"
   },
   {
     "titol": "30m Juárez, crims sense resposta",
@@ -2059,34 +2076,9 @@
     "potser": "continguts sobre drogues i llenguatge groller"
   },
   {
-    "titol": "One Piece 7x01",
-    "codi": "6385620",
-    "edat": "13",
-    "potser": "PASSA"
-  },
-  {
-    "titol": "Conan el nen del futur 1x01",
-    "codi": "6395203",
-    "edat": "10",
-    "potser": "PASSA"
-  },
-  {
-    "titol": "Bola de Drac 1x01",
-    "codi": "3929971",
-    "edat": "13",
-    "potser": "PASSA"
-  },
-  {
-    "titol": "La teva mentida a l'abril 1x01",
-    "codi": "6315742",
-    "edat": "13",
-    "potser": "PASSA"
-  },
-  {
-    "titol": "Guardians de la nit 1x01",
-    "codi": "6178403",
-    "edat": "18",
-    "potser": "PASSA"
+    "titol": "L'excepció de la regla",
+    "codi": "6412224",
+    "edat": "18"
   },
   {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
