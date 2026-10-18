@@ -809,7 +809,7 @@
     "potser": "violència"
   },
   {
-    "titol": "Aitana Bonmatí Conca",
+    "titol": "Aitana Bonmatí",
     "codi": "aitana-bonmati",
     "edat": "10",
     "potser": "continguts sobre drogues i llenguatge groller",
@@ -2540,19 +2540,13 @@
     "codi": "celebrem",
     "edat": "10",
     "potser": "llenguatge groller",
-    "potser": true
-  },
-  {
-    "titol": "Caràcter",
-    "codi": "caracter",
-    "edat": "10",
-    "potser": true
+    "serie": true
   },
   {
     "titol": "Caràcter",
     "codi": "caracter",
     "edat": "13",
-    "potser": true
+    "serie": true
   },
   {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
@@ -4772,6 +4766,15 @@
     "edat": "7",
     "raons": "Al·lusions sexuals ocasionals d'explicitació baixa<br>Por i angoixa freqüent d'intensitat baixa<br>Llenguatge groller ocasional d'intensitat baixa",
     "mesinfo": "<b>Sexe</b><br>Parlant sobre la informació inútil que troba rebuscant sobre la vida i descendència d'un difunt, el presentador diu 'a la vida hi ha molta palla', fa una pausa i diu 'palla de..., ja m'entens'.<br><br><b>Por i angoixa</b><br>Tot el programa gira al voltant de buscar la identitat i la relació entre persones que han mort. Per tant, es fan freqüents mencions a la mort, natural o per accident, s'ensenyen cementiris i es parla d'enterraments i d'anar al front durant la guerra civil, per exemple, però tot es fa de manera respectuosa, amb una presentació neutra i sense ànim de provocar angoixa.<br><br><b>Llenguatge groller</b><br>Es diu 'hòstia' una vegada.<br><br>Parlant sobre tòpics madrilenys, el presentador pregunta còmicament si coneix algun lloc on fer una 'canyeta', i més tard, fa servir la frase feta 'aguanta'm el cubata'. No hi ha imatges de consum d'alcohol ni en cap moment es fa referència a què realment en begui durant el programa."
+  },
+  {
+    "titol": "Carme, David, cuina, menjador, llit",
+    "codi": "carme-david",
+    "edat": "13",
+    "orig": "TP",
+    "potser": "continguts discriminatoris",
+    "serie": true,
+    "tv3": true
   },
   {
     "titol": "Callejeros",
@@ -19120,7 +19123,16 @@
     "titol": "Sense ficció - 102 minuts que van canviar Amèrica",
     "codi": "6117217",
     "edat": "13",
+    "orig": "13",
     "raons": "Por i angoixa reiterada d'afectació mitjana"
+  },
+  {
+    "titol": "Sense ficció - Querida Dª Elena",
+    "codi": "1517049",
+    "edat": "13",
+    "orig": "TP",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat greu, legitimada<br>Comentaris discriminatoris amb sanció neutra",
+    "mesinfo": "<b>Violència</b><br>Es reprodueix un greu relat de violència masclista on una dona manifesta haver rebut una bufetada del seu marit i maltractaments verbals, que la dona se sacrifica per alimentar la seva família i que creu que així ha complert amb el seu deure com a mare, i que l'home va agredir un dels fills colpejant-lo a la columna vertebral. La resposta que rep d'una consultoria és que s'ha de resignar, ha de complaure el seu home i no pot dissoldre el matrimoni. En una altra consulta, s'incita els homes a respondre amb violència per demostrar la seva masculinitat, inclús contra 'su mujer', perquè no es torni a burlar d'ell. En una altra, la dona que respon diu que agrediria la persona que pregunta 'con un par de cachetitos' per la seva suposada ignorància. En una altra, una dona tem que el seu germà abusi sexualment de la seva filla d'11 anys, sense donar detalls, i es pregunta si l'hauria de perdonar.<br><br><b>Discriminació, racisme i xenofòbia</b><br>A part dels continguts descrits a 'Violència', es fan afirmacions glorificant el culte al cos, que les dones realitzen l'ideal de la seva vida a la llar, i que avortar és un 'crim' que Déu castiga. També, en una de les cartes un home afirma haver-se distanciat dels seus amics als quals considera 'de l'altra vorera', i li responen que les seves tendències són 'normals' perquè li segueixen agradant les noies. Les afirmacions masclistes i homòfobes es presenten de manera neutra, atès que el protagonisme del documental recau permanentment i completament en les narracions de les cartes del consultori i en les imatges d'arxiu que les acompanyen, sense cap veu que les desautoritzi explícitament o implícitament (l'ús de música tenebrosa durant els relats d'actes violents no és suficient per considerar-ho sanció).<br><br>Hi ha continguts sexuals ocasionals d'explicitació mitjana en fer al·lusions a la prostitució (es pregunta si els homes van a 'casas públicas y mujeres de mundo'), a tocar el 'pecho' i en mostrar imatges d'un espectacle de cabaret, així com algunes al·lusions d'explicitació baixa. Hi ha situacions ocasionals de por i angoixa mitjana per alguns continguts descrits a les variables anteriors. Hi ha llenguatge groller ocasional d'intensitat baixa ('idiota', 'tonta')."
   },
   {
     "titol": "Sense sortida",
