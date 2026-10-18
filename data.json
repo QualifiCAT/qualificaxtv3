@@ -14,7 +14,7 @@
   {
     "titol": "xd",
     "codi": "contenidors",
-    "edat": ["sense-ficcio", "30-minuts", "60-minuts", "el-monoleg-de-lany", "premis-gaudi-audio", "premis-gaudi", "el-documental", "catalunya-aixeca-el-telo", "punt-de-no-retorn", "savis", "sala-33", "companys"]
+    "edat": ["sense-ficcio", "30-minuts", "60-minuts", "el-monoleg-de-lany", "premis-gaudi-audio", "premis-gaudi", "el-documental", "catalunya-aixeca-el-telo", "punt-de-no-retorn", "savis", "sala-33", "el-convidat"]
   },
   {
     "_comment": "tota la història que s'ha de fer per a les col·leccions",
@@ -2086,175 +2086,175 @@
     "titol": "L'excepció de la regla",
     "codi": "6412224",
     "edat": "10",
-    "raons": "continguts sexuals i continguts sobre drogues"
+    "potser": "continguts sexuals i continguts sobre drogues"
   },
   {
     "titol": "El monòleg de l'any 2022 Curraràs",
     "codi": "6194224",
     "edat": "13",
-    "raons": "llenguatge groller"
+    "potser": "llenguatge groller"
   },
   {
     "titol": "Bajarí",
     "codi": "5614887",
     "edat": "10",
-    "raons": "continguts sobre drogues i llenguatge groller"
+    "potser": "continguts sobre drogues i llenguatge groller"
   },
   {
     "titol": "SF Balls robats",
     "codi": "3729330",
     "edat": "13",
-    "raons": "continguts sobre drogues"
+    "potser": "continguts sobre drogues"
   },
   {
     "titol": "SF Balls robats",
     "codi": "3729330",
     "edat": "13",
-    "raons": "continguts sobre drogues"
+    "potser": "continguts sobre drogues"
   },
   {
     "titol": "SF Barcelona 1962. L'ombra dels Creix",
     "codi": "5307786",
     "edat": "13",
-    "raons": "violència"
+    "potser": "violència"
   },
   {
     "titol": "30m Barcelona es lloga",
     "codi": "5676438",
     "edat": "0",
-    "raons": "NO RES"
+    "potser": "NO RES"
   },
   {
     "titol": "30m Barcelona, any 39: arriba Franco",
     "codi": "4874291",
     "edat": "10",
-    "raons": "situacions de por i angoixa"
+    "potser": "situacions de por i angoixa"
   },
   {
     "titol": "30m Barcelona: sobreviure a un atemptat",
     "codi": "1461109",
     "edat": "13",
-    "raons": "situacions de por i angoixa"
+    "potser": "situacions de por i angoixa"
   },
   {
     "titol": "SF Barraques. La ciutat oblidada",
     "codi": "2333059",
     "edat": "10",
-    "raons": "situacions de por i angoixa"
+    "potser": "situacions de por i angoixa"
   },
   {
     "titol": "SF Bicicleta cullera poma",
     "codi": "5817668",
     "edat": "10",
-    "raons": "situacions de por i angoixa i llenguatge groller"
+    "potser": "situacions de por i angoixa i llenguatge groller"
   },
   {
     "titol": "SF Bicicleta cullera poma",
     "codi": "5817668",
     "edat": "10",
-    "raons": "situacions de por i angoixa i llenguatge groller"
+    "potser": "situacions de por i angoixa i llenguatge groller"
   },
   {
     "titol": "Bits",
     "codi": "6258439",
     "edat": "10",
-    "raons": "continguts sexuals i llenguatge groller"
+    "potser": "continguts sexuals i llenguatge groller"
   },
   {
     "titol": "Bits",
     "codi": "6258439",
     "edat": "10",
-    "raons": "continguts sexuals i llenguatge groller"
+    "potser": "continguts sexuals i llenguatge groller"
   },
   {
     "titol": "SF Boris Skossyreff, l'estafador que va ser rei",
     "codi": "6382393",
     "edat": "13",
-    "raons": "continguts sobre drogues"
+    "potser": "continguts sobre drogues"
   },
   {
     "titol": "SF De Badalona a Brooklyn",
     "codi": "6409726",
     "edat": "7",
-    "raons": "llenguatge groller"
+    "potser": "llenguatge groller"
   },
   {
     "titol": "SF El petit peó",
     "codi": "6406509",
     "edat": "7",
-    "raons": "continguts discriminatoris"
+    "potser": "continguts discriminatoris"
   },
   {
     "titol": "SF Moure muntanyes (VO)",
     "codi": "6386649",
     "edat": "10",
-    "raons": "situacions de por i angoixa"
+    "potser": "situacions de por i angoixa"
   },
   {
     "titol": "SF Moure muntanyes (LSC)",
     "codi": "6415328",
     "edat": "10",
-    "raons": "situacions de por i angoixa"
+    "potser": "situacions de por i angoixa"
   },
   {
     "titol": "SF Déu ho veu",
     "codi": "6385632",
     "edat": "10",
-    "raons": "continguts sexuals, continguts sobre drogues i llenguatge groller"
+    "potser": "continguts sexuals, continguts sobre drogues i llenguatge groller"
   },
   {
     "titol": "SF Mentre siguis tu. L'aquí i ara de Carme Elias",
     "codi": "6318323",
     "edat": "10",
-    "raons": "situacions de por i angoixa"
+    "potser": "situacions de por i angoixa"
   },
   {
     "titol": "SF Respira, mama",
     "codi": "6314551",
     "edat": "10",
-    "raons": "situacions de por i angoixa i llenguatge groller"
+    "potser": "situacions de por i angoixa i llenguatge groller"
   },
   {
     "titol": "SF Sexe, maraques i chihuahues",
     "codi": "5620830",
     "edat": "10",
-    "raons": "continguts sexuals, continguts sobre drogues i llenguatge groller"
+    "potser": "continguts sexuals, continguts sobre drogues i llenguatge groller"
   },
   {
     "titol": "SF Breathe",
     "codi": "6150958",
     "edat": "13",
-    "raons": "violència, situacions de por i angoixa, continguts sobre drogues i llenguatge groller"
+    "potser": "violència, situacions de por i angoixa, continguts sobre drogues i llenguatge groller"
   },
   {
     "titol": "SF Broadway",
     "codi": "6284016",
     "edat": "10",
-    "raons": "continguts sexuals i llenguatge groller"
+    "potser": "continguts sexuals i llenguatge groller"
   },
   {
     "titol": "SF Buit, ple. La ciutat arítmica",
     "codi": "4600771",
     "edat": "0",
-    "raons": "NO RES"
+    "potser": "NO RES"
   },
   {
     "titol": "30m Bullying",
     "codi": "5441053",
     "edat": "13",
-    "raons": "situacions de por i angoixa"
+    "potser": "situacions de por i angoixa"
   },
   {
     "titol": "30m Buscant el nen de Nagasaki",
     "codi": "6337345",
     "edat": "13",
-    "raons": "situacions de por i angoixa"
+    "potser": "situacions de por i angoixa"
   },
   {
     "titol": "SF Barça Dreams",
     "codi": "5576161",
     "edat": "10",
-    "raons": "llenguatge groller"
+    "potser": "llenguatge groller"
   },
   {
     "titol": "A tocar de l'aigua",
@@ -2351,6 +2351,208 @@
     "codi": "6319087",
     "edat": "13",
     "potser": "llenguatge groller"
+  },
+  {
+    "titol": "SF Els internats de la por",
+    "codi": "5510334",
+    "edat": "18",
+    "potser": "violència i situacions de por i angoixa"
+  },
+  {
+    "titol": "30m Cada vegada més vegans",
+    "codi": "6205451",
+    "edat": "7",
+    "potser": "situacions de por i angoixa i llenguatge groller"
+  },
+  {
+    "titol": "SF Camping life. La ciutat efímera",
+    "codi": "6109430",
+    "edat": "0",
+    "potser": "NO RES"
+  },
+  {
+    "titol": "SF Cerdà, un visionari maleït",
+    "codi": "2594859",
+    "edat": "7",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "30m Cervesa artesana: ReEvolució",
+    "codi": "5790615",
+    "edat": "13",
+    "potser": "continguts sobre drogues"
+  },
+  {
+    "titol": "SF Christopher Reeve, el Superman etern",
+    "codi": "6407419",
+    "edat": "10",
+    "potser": "violència i continguts sexuals"
+  },
+  {
+    "titol": "SF Cíborgs entre nosaltres",
+    "codi": "5675103",
+    "edat": "7",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "30m CIE, presó administrativa",
+    "codi": "5256391",
+    "edat": "13",
+    "potser": "violència i situacions de por i angoixa"
+  },
+  {
+    "titol": "SF Ciutadà Escarré",
+    "codi": "3486810",
+    "edat": "7",
+    "potser": "violència i situacions de por i angoixa"
+  },
+  {
+    "titol": "SF Ciutat salvatge",
+    "codi": "5610928",
+    "edat": "10",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "30m Collita 2015",
+    "codi": "5610928",
+    "edat": "13",
+    "potser": "continguts sobre drogues"
+  },
+  {
+    "titol": "SF Com hem canviat",
+    "codi": "5691537",
+    "edat": "10",
+    "potser": "continguts sobre drogues"
+  },
+  {
+    "titol": "30m Començar de zero",
+    "codi": "6276356",
+    "edat": "7",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "SF Constructing Albert",
+    "codi": "5736264",
+    "edat": "13",
+    "potser": "llenguatge groller"
+  },
+  {
+    "titol": "30m Construint el canvi",
+    "codi": "6413275",
+    "edat": "7",
+    "potser": "llenguatge groller"
+  },
+  {
+    "titol": "30m Conviure amb el turisme",
+    "codi": "4689493",
+    "edat": "7",
+    "potser": "conductes i valors incívics"
+  },
+  {
+    "titol": "SF Cop al Banc Central",
+    "codi": "3097670",
+    "edat": "13",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "Cop de rock",
+    "codi": "4509551",
+    "edat": "13",
+    "potser": "continguts sobre drogues i llenguatge groller"
+  },
+  {
+    "titol": "Correspondències",
+    "codi": "correspondencies",
+    "edat": "10",
+    "serie": true
+  },
+  {
+    "titol": "Crims, la sèrie",
+    "codi": "crims-la-serie",
+    "edat": "13",
+    "serie": true
+  },
+  {
+    "titol": "Companys",
+    "codi": "companys",
+    "edat": "13",
+    "serie": true
+  },
+  {
+    "titol": "Cas obert",
+    "codi": "cas-obert",
+    "edat": "13",
+    "serie": true
+  },
+  {
+    "titol": "Català fàcil",
+    "codi": "catala-facil",
+    "edat": "7",
+    "potser": "llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "Codi 3XL",
+    "codi": "codi-3xl",
+    "edat": "13",
+    "serie": true
+  },
+  {
+    "titol": "30m Cuba, la fi de la utopia",
+    "codi": "6414593",
+    "edat": "13",
+    "potser": "continguts sobre drogues"
+  },
+  {
+    "titol": "30m Grècia, illes al límit",
+    "codi": "6415412",
+    "edat": "10",
+    "potser": "violència i continguts sobre drogues"
+  },
+  {
+    "titol": "Còmics",
+    "codi": "comics",
+    "edat": "13",
+    "potser": "llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "Còmics Show",
+    "codi": "comics-show",
+    "edat": "10",
+    "potser": "continguts sexuals i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "El convidat 5x03 Sra Rius",
+    "codi": "6413655",
+    "edat": "13",
+    "potser": "continguts sexuals"
+  },
+  {
+    "titol": "El convidat 5x03 Sra Rius antic",
+    "codi": "5270751",
+    "edat": "13",
+    "potser": "continguts sexuals"
+  },
+  {
+    "titol": "Celebrem!",
+    "codi": "celebrem",
+    "edat": "10",
+    "potser": "llenguatge groller",
+    "potser": true
+  },
+  {
+    "titol": "Caràcter",
+    "codi": "caracter",
+    "edat": "10",
+    "potser": true
+  },
+  {
+    "titol": "Caràcter",
+    "codi": "caracter",
+    "edat": "13",
+    "potser": true
   },
   {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
@@ -4766,6 +4968,17 @@
     "codi": "6281305",
     "edat": "13",
     "raons": "Violència reiterada, versemblant, no explícita, d'intensitat molt greu, no legitimada<br>Continguts sexuals reiterats d'explicitació mitjana<br>Por i angoixa reiterada d'afectació mitjana"
+  },
+  {
+    "titol": "Cinema 3",
+    "codi": "cinema-3",
+    "edat": "13",
+    "orig": "TP (algunes emissions: 13)",
+    "cac": "13",
+    "serie": true,
+    "tv3": true,
+    "33": true,
+    "misc": true
   },
   {
     "titol": "Cita bestial",
