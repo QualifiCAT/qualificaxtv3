@@ -829,31 +829,31 @@
     "serie": true
   },
   {
-    "titol": "60m El plàstic. Un suïcidi col·lectiu?",
+    "titol": "60' El plàstic. Un suïcidi col·lectiu?",
     "codi": "6411968",
     "edat": "7",
     "potser": "situacions de por i angoixa i conductes i valors incívics"
   },
   {
-    "titol": "60m Lament pel Brexit",
+    "titol": "60' Lament pel Brexit",
     "codi": "6408534",
     "edat": "7",
     "potser": "situacions de por i angoixa, continguts discriminatoris i conductes i valors incívics"
   },
   {
-    "titol": "60m Per què tant plàstic? El mite del reciclatge",
+    "titol": "60' Per què tant plàstic? El mite del reciclatge",
     "codi": "6385155",
     "edat": "7",
     "potser": "conductes i valors incívics"
   },
   {
-    "titol": "60m Infants a les xarxes: sobreexposats en nom del like",
+    "titol": "60' Infants a les xarxes: sobreexposats en nom del like",
     "codi": "6331447",
     "edat": "13",
     "potser": "continguts sexuals i situacions de por i angoixa"
   },
   {
-    "titol": "60m La princesa roja",
+    "titol": "60' La princesa roja",
     "codi": "6330751",
     "edat": "10",
     "potser": "violència"
@@ -1641,67 +1641,67 @@
     "serie": true
   },
   {
-    "titol": "60m Marwan Barghouti: La llibertat del demà",
+    "titol": "60' Marwan Barghouti: La llibertat del demà",
     "codi": "6321570",
     "edat": "13",
     "potser": "violència i situacions de por i angoixa"
   },
   {
-    "titol": "60m El Líban: l'atracament del segle",
+    "titol": "60' El Líban: l'atracament del segle",
     "codi": "6321570",
     "edat": "10",
     "potser": "situacions de por i angoixa"
   },
   {
-    "titol": "60m Nicotina, una droga amb futur",
+    "titol": "60' Nicotina, una droga amb futur",
     "codi": "6275948",
     "edat": "10",
     "potser": "continguts sobre drogues"
   },
   {
-    "titol": "60m La falsa realitat",
+    "titol": "60' La falsa realitat",
     "codi": "6270507",
     "edat": "10",
     "potser": "violència i situacions de por i angoixa"
   },
   {
-    "titol": "60m Veus des de Moçambic",
+    "titol": "60' Veus des de Moçambic",
     "codi": "4854351",
     "edat": "10",
     "potser": "situacions de por i angoixa"
   },
   {
-    "titol": "60m Els nens de la passarel·la",
+    "titol": "60' Els nens de la passarel·la",
     "codi": "4744711",
     "edat": "10",
     "potser": "situacions de por i angoixa i continguts sobre drogues"
   },
   {
-    "titol": "60m Dins el sushi",
+    "titol": "60' Dins el sushi",
     "codi": "4722431",
     "edat": "7",
     "potser": "conductes i valors incívics"
   },
   {
-    "titol": "60m L'Amazònia, l'última frontera. Primera part",
+    "titol": "60' L'Amazònia, l'última frontera. Primera part",
     "codi": "3892930",
     "edat": "7",
     "potser": "continguts discriminatoris"
   },
   {
-    "titol": "60m L'Amazònia, l'última frontera. Segona part",
+    "titol": "60' L'Amazònia, l'última frontera. Segona part",
     "codi": "3907350",
     "edat": "7",
     "potser": "violència, situacions de por i angoixa, continguts sobre drogues i continguts discriminatoris"
   },
   {
-    "titol": "60m L'Amazònia, l'última frontera. Segona part",
+    "titol": "60' L'Amazònia, l'última frontera. Segona part",
     "codi": "3907350",
     "edat": "7",
     "potser": "violència, situacions de por i angoixa, continguts sobre drogues i continguts discriminatoris"
   },
   {
-    "titol": "60m Dones en construcció",
+    "titol": "60' Dones en construcció",
     "codi": "3819330",
     "edat": "13",
     "potser": "situacions de por i angoixa"
@@ -2738,6 +2738,324 @@
     "codi": "5864948",
     "edat": "13",
     "potser": "violència i situacions de por i angoixa"
+  },
+  {
+    "titol": "30' El perdó",
+    "codi": "3980170",
+    "edat": "10",
+    "potser": "violència i situacions de por i angoixa"
+  },
+  {
+    "titol": "SF El plàstic que escanya els ossos marins",
+    "codi": "6420907",
+    "edat": "10",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "SF El preu de volar",
+    "codi": "2240259",
+    "edat": "7",
+    "potser": "llenguatge groller"
+  },
+  {
+    "titol": "SF El pati del darrere",
+    "codi": "5567858",
+    "edat": "7",
+    "potser": "llenguatge groller"
+  },
+  {
+    "titol": "30' El preu del porc",
+    "codi": "5564565",
+    "edat": "10",
+    "potser": "continguts sexuals i situacions de por i angoixa"
+  },
+  {
+    "titol": "30' El Raval: l'últim esglaó",
+    "codi": "1460729",
+    "edat": "13",
+    "potser": "continguts sobre drogues"
+  },
+  {
+    "titol": "30' El segrest invisible",
+    "codi": "6167670",
+    "edat": "7",
+    "potser": "llenguatge groller"
+  },
+  {
+    "titol": "SF El viatge de l'Unai",
+    "codi": "5623203",
+    "edat": "7",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "SF El viatge de l'Unai",
+    "codi": "5623203",
+    "edat": "7",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "30' Els dies clau",
+    "codi": "5693391",
+    "edat": "10",
+    "potser": "violència"
+  },
+  {
+    "titol": "30' Els guerrers de la Mina",
+    "codi": "6349576",
+    "edat": "7",
+    "potser": "violència i llenguatge groller"
+  },
+  {
+    "titol": "SF Els homes del silenci",
+    "codi": "5765541",
+    "edat": "10",
+    "potser": "continguts sobre drogues"
+  },
+  {
+    "titol": "30' Els horaris impossibles",
+    "codi": "6346137",
+    "edat": "10",
+    "potser": "continguts sobre drogues"
+  },
+  {
+    "titol": "30' Els nens perduts del franquisme",
+    "codi": "6312205",
+    "edat": "10",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "30' Els nous okupes",
+    "codi": "4826311",
+    "edat": "10",
+    "potser": "continguts sobre drogues"
+  },
+  {
+    "titol": "SF Els soldats de la línia Maginot",
+    "codi": "5553054",
+    "edat": "10",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "SF En lluita",
+    "codi": "5672985",
+    "edat": "10",
+    "potser": "violència"
+  },
+  {
+    "titol": "30' Entre els nostres",
+    "codi": "5688813",
+    "edat": "13",
+    "potser": "violència"
+  },
+  {
+    "titol": "Entre vinyes",
+    "codi": "6105982",
+    "edat": "13",
+    "potser": "continguts sobre drogues"
+  },
+  {
+    "titol": "30' És tard per ser mare?",
+    "codi": "5660831",
+    "edat": "7",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "Espantapànics",
+    "codi": "espantapanics",
+    "edat": "7",
+    "serie": true
+  },
+  {
+    "titol": "30' Es-Satty, retrat d'un impostor",
+    "codi": "5732387",
+    "edat": "13",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "SF Esborrats del mapa",
+    "codi": "6176458",
+    "edat": "10",
+    "potser": "situacions de por i angoixa i continguts sobre drogues"
+  },
+  {
+    "titol": "30' Escanyats per la hipoteca",
+    "codi": "3466110",
+    "edat": "13",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "30' ETA, els últims dies",
+    "codi": "5765700",
+    "edat": "13",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "30' Expats",
+    "codi": "6336759",
+    "edat": "10",
+    "potser": "continguts sobre drogues"
+  },
+  {
+    "titol": "Experiència catalana",
+    "codi": "experiencia-catalana",
+    "edat": "13",
+    "potser": "continguts sobre drogues",
+    "serie": true
+  },
+  {
+    "titol": "30' Desconstrucció",
+    "codi": "4130750",
+    "edat": "10",
+    "potser": "llenguatge groller"
+  },
+  {
+    "titol": "30' Desconnectats",
+    "codi": "6371007",
+    "edat": "10",
+    "potser": "llenguatge groller"
+  },
+  {
+    "titol": "Els dies clau",
+    "codi": "els-dies-clau",
+    "edat": "13",
+    "serie": true
+  },
+  {
+    "titol": "El suplent",
+    "codi": "el-suplent",
+    "edat": "10",
+    "potser": "continguts sexuals, continguts sobre drogues i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "60' Eichmann: Judici al nazisme",
+    "codi": "6338188",
+    "edat": "13",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "El Sàhara verd",
+    "codi": "el-sahara-verd",
+    "edat": "0",
+    "serie": true
+  },
+  {
+    "titol": "SF El Vietnam: Els nois que van dir no",
+    "codi": "6335201",
+    "edat": "13",
+    "potser": "violència"
+  },
+  {
+    "titol": "El forense",
+    "codi": "el-forense",
+    "edat": "13",
+    "serie": true
+  },
+  {
+    "titol": "En clau de vi",
+    "codi": "en-clau-de-vi",
+    "edat": "13",
+    "serie": true
+  },
+  {
+    "titol": "Emergències",
+    "codi": "emergencies",
+    "edat": "13",
+    "serie": true
+  },
+  {
+    "titol": "Enric IV",
+    "codi": "enriciv",
+    "edat": "18",
+    "serie": true
+  },
+  {
+    "titol": "El millor salt",
+    "codi": "el-millor-salt",
+    "edat": "10",
+    "potser": "llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "Dèficit d'atenció",
+    "codi": "deficit-datencio",
+    "edat": "13",
+    "serie": true
+  },
+  {
+    "titol": "Dues dones divines",
+    "codi": "divines",
+    "edat": "13",
+    "serie": true
+  },
+  {
+    "titol": "Economia en colors",
+    "codi": "economia-en-colors",
+    "edat": "13",
+    "serie": true
+  },
+  {
+    "titol": "Els herois de Vandellòs I",
+    "codi": "els-herois-de-vandellos-i",
+    "edat": "10",
+    "potser": "situacions de por i angoixa i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "Els herois de Vandellòs I",
+    "codi": "els-herois-de-vandellos-i",
+    "edat": "10",
+    "potser": "situacions de por i angoixa i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "Estranyes parelles",
+    "codi": "estranyes-parelles",
+    "edat": "13",
+    "potser": "continguts sexuals i continguts sobre drogues",
+    "serie": true
+  },
+  {
+    "titol": "El meu club, la meva vida",
+    "codi": "el-meu-club-la-meva-vida",
+    "edat": "13",
+    "potser": "continguts sobre drogues",
+    "serie": true
+  },
+  {
+    "titol": "El mur",
+    "codi": "el-mur",
+    "edat": "10",
+    "potser": "llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "Els meus pares",
+    "codi": "els-meus-pares",
+    "edat": "10",
+    "potser": "continguts sexuals, continguts sobre drogues i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "Els meus fills",
+    "codi": "els-meus-fills",
+    "edat": "13",
+    "potser": "violència i situacions de por i angoixa",
+    "serie": true
+  },
+  {
+    "titol": "El sopar",
+    "codi": "el-sopar",
+    "edat": "10",
+    "potser": "continguts sexuals, continguts sobre drogues i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "ECO",
+    "codi": "eco",
+    "edat": "7",
+    "potser": "llenguatge groller",
+    "serie": true
   },
   {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
@@ -19324,6 +19642,22 @@
     "orig": "TP",
     "raons": "Violència ocasional, versemblant, explícita, d'intensitat greu, legitimada<br>Comentaris discriminatoris amb sanció neutra",
     "mesinfo": "<b>Violència</b><br>Es reprodueix un greu relat de violència masclista on una dona manifesta haver rebut una bufetada del seu marit i maltractaments verbals, que la dona se sacrifica per alimentar la seva família i que creu que així ha complert amb el seu deure com a mare, i que l'home va agredir un dels fills colpejant-lo a la columna vertebral. La resposta que rep d'una consultoria és que s'ha de resignar, ha de complaure el seu home i no pot dissoldre el matrimoni. En una altra consulta, s'incita els homes a respondre amb violència per demostrar la seva masculinitat, inclús contra 'su mujer', perquè no es torni a burlar d'ell. En una altra, la dona que respon diu que agrediria la persona que pregunta 'con un par de cachetitos' per la seva suposada ignorància. En una altra, una dona tem que el seu germà abusi sexualment de la seva filla d'11 anys, sense donar detalls, i es pregunta si l'hauria de perdonar.<br><br><b>Discriminació, racisme i xenofòbia</b><br>A part dels continguts descrits a 'Violència', es fan afirmacions glorificant el culte al cos, que les dones realitzen l'ideal de la seva vida a la llar, i que avortar és un 'crim' que Déu castiga. També, en una de les cartes un home afirma haver-se distanciat dels seus amics als quals considera 'de l'altra vorera', i li responen que les seves tendències són 'normals' perquè li segueixen agradant les noies. Les afirmacions masclistes i homòfobes es presenten de manera neutra, atès que el protagonisme del documental recau permanentment i completament en les narracions de les cartes del consultori i en les imatges d'arxiu que les acompanyen, sense cap veu que les desautoritzi explícitament o implícitament (l'ús de música tenebrosa durant els relats d'actes violents no és suficient per considerar-ho sanció).<br><br>Hi ha continguts sexuals ocasionals d'explicitació mitjana en fer al·lusions a la prostitució (es pregunta si els homes van a 'casas públicas y mujeres de mundo'), a tocar el 'pecho' i en mostrar imatges d'un espectacle de cabaret, així com algunes al·lusions d'explicitació baixa. Hi ha situacions ocasionals de por i angoixa mitjana per alguns continguts descrits a les variables anteriors. Hi ha llenguatge groller ocasional d'intensitat baixa ('idiota', 'tonta')."
+  },
+  {
+    "titol": "Sense ficció - Torneu-me el fill! Els nens robats del franquisme",
+    "codi": "3473850",
+    "edat": "10",
+    "orig": "TP",
+    "raons": "Por i angoixa freqüent d'afectació mitjana<br>(Qualificació oficial del CAC)",
+    "mesinfo": "El següent contingut està extret dels informes 30/2012 i 43/2012 de l'Àrea de Continguts del CAC.<br><br><b>Por i angoixa</b><br>Hi ha presència freqüent de situacions susceptibles de provocar por o angoixa amb un grau d'afectació al menor mitjà, atès que es descriu com infants acabats de néixer van ser sostrets a les seves mares biològiques i donats a altres famílies a canvi de diners. Apareixen testimonis de mares que descriuen l'angoixa i la tristesa per la pèrdua dels seus fills i de persones que van ser venudes a canvi de diners quan eren nadons i van patir maltractaments per part dels seus pares adoptius.<br><br>Es detecta la presència ocasional de violència versemblant, no explícita, d'intensitat greu i no legitimada pel discurs, atès que una dona narra com va patir maltractaments i abusos per part dels seus pares adoptius i el relat s'il·lustra amb una recreació ficcionada en què un home maltracta físicament una nena."
+  },
+  {
+    "titol": "Sense ficció - Torneu-me el fill! Els nens robats del franquisme",
+    "codi": "3348490",
+    "edat": "10",
+    "orig": "TP",
+    "raons": "Por i angoixa freqüent d'afectació mitjana<br>(Qualificació oficial del CAC)",
+    "mesinfo": "El següent contingut està extret dels informes 30/2012 i 43/2012 de l'Àrea de Continguts del CAC.<br><br><b>Por i angoixa</b><br>Hi ha presència freqüent de situacions susceptibles de provocar por o angoixa amb un grau d'afectació al menor mitjà, atès que es descriu com infants acabats de néixer van ser sostrets a les seves mares biològiques i donats a altres famílies a canvi de diners. Apareixen testimonis de mares que descriuen l'angoixa i la tristesa per la pèrdua dels seus fills i de persones que van ser venudes a canvi de diners quan eren nadons i van patir maltractaments per part dels seus pares adoptius.<br><br>Es detecta la presència ocasional de violència versemblant, no explícita, d'intensitat greu i no legitimada pel discurs, atès que una dona narra com va patir maltractaments i abusos per part dels seus pares adoptius i el relat s'il·lustra amb una recreació ficcionada en què un home maltracta físicament una nena."
   },
   {
     "titol": "Sense sortida",
