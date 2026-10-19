@@ -3058,6 +3058,13 @@
     "serie": true
   },
   {
+    "titol": "La bugaderia",
+    "codi": "la-bugaderia",
+    "edat": "10",
+    "potser": "llenguatge groller",
+    "serie": true
+  },
+  {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
     "titol": "13 anys... i un dia",
     "codi": "tretze-anys-i-un-dia",
