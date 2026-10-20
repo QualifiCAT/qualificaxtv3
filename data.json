@@ -3065,6 +3065,13 @@
     "serie": true
   },
   {
+    "titol": "Gent de primera",
+    "codi": "gent-de-primera",
+    "edat": "13",
+    "potser": "continguts sobre drogues",
+    "serie": true
+  },
+  {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
     "titol": "13 anys... i un dia",
     "codi": "tretze-anys-i-un-dia",
