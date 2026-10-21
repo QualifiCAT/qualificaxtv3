@@ -3140,6 +3140,12 @@
     "serie": true
   },
   {
+    "titol": "SF La cadira buida",
+    "codi": "6430672",
+    "edat": "10",
+    "potser": "situacions de por i angoixa i llenguatge groller"
+  },
+  {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
     "titol": "13 anys... i un dia",
     "codi": "tretze-anys-i-un-dia",
@@ -8530,10 +8536,40 @@
   {
     "titol": "En sèrie",
     "codi": "en-serie",
-    "edat": "13",
+    "edat": "10",
     "orig": "TP",
     "serie": true,
     "tv3": true
+  },
+  {
+    "titol": "En sèrie 1x01 - El guió",
+    "codi": "5662991",
+    "edat": "10",
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat greu, no legitimada<br>Llenguatge groller ocasional d'intensitat alta"
+  },
+  {
+    "titol": "En sèrie 1x02 - Localitzacions",
+    "codi": "5664043",
+    "edat": "7",
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat greu, no legitimada<br>Por i angoixa ocasional d'afectació mitjana<br>Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "En sèrie 1x03 - Actors i actrius",
+    "codi": "5665531",
+    "edat": "10",
+    "raons": "Continguts sexuals ocasionals d'explicitació mitjana<br>Llenguatge groller ocasional d'intensitat alta"
+  },
+  {
+    "titol": "En sèrie 1x04 - Direcció",
+    "codi": "5666626",
+    "edat": "7",
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat greu, no legitimada<br>Por i angoixa ocasional d'afectació mitjana"
+  },
+  {
+    "titol": "En sèrie 1x05 - Equip de direcció",
+    "codi": "5668498",
+    "edat": "7",
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat greu, no legitimada<br>Por i angoixa ocasional d'afectació mitjana<br>Llenguatge groller ocasional d'intensitat baixa"
   },
   {
     "titol": "Entre quatre parets",
