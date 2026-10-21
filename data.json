@@ -3146,6 +3146,160 @@
     "potser": "situacions de por i angoixa i llenguatge groller"
   },
   {
+    "titol": "SF Generació D (2011)",
+    "codi": "3828010",
+    "edat": "13",
+    "potser": "continguts sobre drogues"
+  },
+  {
+    "titol": "SF Generació D (2019)",
+    "codi": "5807833",
+    "edat": "10",
+    "potser": "continguts sobre drogues i llenguatge groller"
+  },
+  {
+    "titol": "SF Generació D. Millors moments",
+    "codi": "5807832",
+    "edat": "13",
+    "potser": "continguts sobre drogues"
+  },
+  {
+    "titol": "30' Gens anònims",
+    "codi": "6207094",
+    "edat": "10",
+    "potser": "continguts sexuals i situacions de por i angoixa"
+  },
+  {
+    "titol": "SF Gent del barri",
+    "codi": "6037214",
+    "edat": "7",
+    "potser": "llenguatge groller i conductes i valors incívics"
+  },
+  {
+    "titol": "SF Genuïns, això és una altra lliga",
+    "codi": "6413649",
+    "edat": "13",
+    "potser": "continguts sobre drogues"
+  },
+  {
+    "titol": "SF Glance Up (Mirant amunt)",
+    "codi": "5486938",
+    "edat": "7",
+    "potser": "continguts discriminatoris i llenguatge groller"
+  },
+  {
+    "titol": "30' Goodbye Scotland?",
+    "codi": "5230251",
+    "edat": "7",
+    "potser": "continguts sobre drogues"
+  },
+  {
+    "titol": "SF Grisú, la tragèdia de Fígols",
+    "codi": "6303077",
+    "edat": "13",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "Groenlàndia, supervivència als confins de la Terra",
+    "codi": "groenlandia-supervivencia-als-confins-de-la-terra",
+    "edat": "7",
+    "potser": "situacions de por i angoixa",
+    "serie": true
+  },
+  {
+    "titol": "60' Guardians de la Revolució: els amos de l'Iran (part 1)",
+    "codi": "6397982",
+    "edat": "13",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "60' Guardians de la Revolució: els amos de l'Iran (part 2)",
+    "codi": "6397983",
+    "edat": "10",
+    "potser": "violència i situacions de por i angoixa"
+  },
+  {
+    "titol": "Glops",
+    "codi": "glops",
+    "edat": "13",
+    "potser": "continguts sobre drogues",
+    "serie": true
+  },
+  {
+    "titol": "Gent EVA",
+    "codi": "gent-eva",
+    "edat": "10",
+    "potser": "situacions de por i angoixa i continguts sobre drogues",
+    "serie": true
+  },
+  {
+    "titol": "Guaita què fan ara",
+    "codi": "guaita-que-fan-ara",
+    "edat": "10",
+    "potser": "violència, continguts sexuals, continguts sobre drogues, continguts discriminatoris i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "No passa res",
+    "codi": "no-passa-res",
+    "edat": "13",
+    "serie": true
+  },
+  {
+    "titol": "Gent de mar",
+    "codi": "gent-de-mar",
+    "edat": "10",
+    "potser": "continguts sexuals i continguts sobre drogues",
+    "serie": true
+  },
+  {
+    "titol": "60' Gaza: La guerra des de dins",
+    "codi": "6347266",
+    "edat": "13",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "Generació selfie",
+    "codi": "generacio-selfie",
+    "edat": "13",
+    "potser": "continguts sobre drogues",
+    "serie": true
+  },
+  {
+    "titol": "Gent de mercats",
+    "codi": "gent-de-mercats",
+    "edat": "10",
+    "potser": "continguts sobre drogues i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "Origen Catalunya",
+    "codi": "origen-catalunya",
+    "edat": "13",
+    "potser": "continguts sobre drogues",
+    "serie": true
+  },
+  {
+    "titol": "Gent de món",
+    "codi": "gent-de-mon",
+    "edat": "10",
+    "potser": "continguts sobre drogues i continguts discriminatoris",
+    "serie": true
+  },
+  {
+    "titol": "Karakia",
+    "codi": "karakia",
+    "edat": "10",
+    "serie": true
+  },
+  {
+    "titol": "Guimerà, el Nobel sense premi",
+    "codi": "guimera-el-nobel-sense-premi",
+    "edat": "7",
+    "potser": "llenguatge groller",
+    "serie": true
+  },
+  {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
     "titol": "13 anys... i un dia",
     "codi": "tretze-anys-i-un-dia",
@@ -5341,6 +5495,13 @@
     "tv3": true,
     "33": true,
     "misc": true
+  },
+  {
+    "titol": "Caçadors de bolets 5x07 - Tapis",
+    "codi": "",
+    "edat": "10",
+    "raons": "Llenguatge groller ocasional d'intensitat alta<br>(Qualificació oficial del CAC)",
+    "mesinfo": "El següent contingut està extret de l'informe 145/2009 de l'Àrea de Continguts del CAC.<br><br><b>Llenguatge groller</b><br>Es detecta la presència ocasional de llenguatge groller d'intensitat alta: 'són una mica imbècils!', '¡acojonante!' (2 vegades), 'no me jodas ¡coño!', 'hòstia!'.<br><br>Es detecta la presència de consum de drogues lícites (alcohol) presentat de manera negativa. Es detecta la presència de situacions de discriminació presentades de manera negativa."
   },
   {
     "titol": "Caigut del cel",
@@ -10238,9 +10399,9 @@
   {
     "titol": "Generació selfie... per Moderna de Pueblo",
     "codi": "moderna-de-pueblo",
-    "edat": "10",
+    "edat": "13",
     "orig": "TP",
-    "potser": "continguts sobre drogues i llenguatge groller",
+    "potser": "continguts sobre drogues",
     "serie": true,
     "3cat": true
   },
@@ -10440,20 +10601,11 @@
   {
     "titol": "Gos pudent",
     "codi": "gos-pudent",
-    "edat": "0",
+    "edat": "7",
     "orig": "TP",
+    "potser": "llenguatge groller i conductes i valors incívics",
     "serie": true,
     "sx3": true
-  },
-  {
-    "titol": "Gos pudent 1",
-    "codi": "6067768",
-    "edat": "0"
-  },
-  {
-    "titol": "Gos pudent 2",
-    "codi": "6067769",
-    "edat": "0"
   },
   {
     "titol": "Gravity Falls",
