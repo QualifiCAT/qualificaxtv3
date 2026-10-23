@@ -3385,6 +3385,113 @@
     "serie": true
   },
   {
+    "titol": "SF Iaies Futbol Club",
+    "codi": "6270511",
+    "edat": "7",
+    "potser": "continguts discriminatoris i llenguatge groller"
+  },
+  {
+    "titol": "SF Insostenible, rere la brossa",
+    "codi": "6226593",
+    "edat": "10",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "SF Intimitats Germans Roca. El millor restaurant del món",
+    "codi": "4934191",
+    "edat": "10",
+    "potser": "continguts sobre drogues i llenguatge groller"
+  },
+  {
+    "titol": "SF Injustícia exprés. El cas Óscar Sánchez",
+    "codi": "5112131",
+    "edat": "13",
+    "potser": "violència i continguts sobre drogues"
+  },
+  {
+    "titol": "SF Invasors",
+    "codi": "3137471",
+    "edat": "7",
+    "potser": "situacions de por i angoixa i conductes i valors incívics"
+  },
+  {
+    "titol": "30' INVENTANT EL FUTUR",
+    "codi": "3441290",
+    "edat": "10",
+    "potser": "continguts sobre drogues i llenguatge groller"
+  },
+  {
+    "titol": "SF Infància en risc",
+    "codi": "3385990",
+    "edat": "13",
+    "potser": "violència, continguts sexuals i situacions de por i angoixa"
+  },
+  {
+    "titol": "30' Indignats",
+    "codi": "3551230",
+    "edat": "10",
+    "potser": "llenguatge groller"
+  },
+  {
+    "titol": "30' Immortals?",
+    "codi": "5987667",
+    "edat": "7",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "30' Islero: la bomba atòmica made in Spain",
+    "codi": "6120590",
+    "edat": "7",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "30' Imaginar un país. El Congrés de Cultura Catalana",
+    "codi": "5771082",
+    "edat": "0",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "SF Ikea, el saqueig dels boscos",
+    "codi": "6317073",
+    "edat": "7",
+    "potser": "conductes i valors incívics"
+  },
+  {
+    "titol": "In college",
+    "codi": "in-college",
+    "edat": "7",
+    "potser": "llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "Improstarr",
+    "codi": "improstarr",
+    "edat": "10",
+    "potser": "continguts sexuals, continguts sobre drogues i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "Illes d'Amèrica, amb Martin Clunes",
+    "codi": "illes-damerica-amb-martin-clunes",
+    "edat": "13",
+    "potser": "continguts sobre drogues",
+    "serie": true
+  },
+  {
+    "titol": "Illes d'Austràlia, amb Martin Clunes",
+    "codi": "illes-australia-amb-martin-clunes",
+    "edat": "10",
+    "potser": "situacions de por i angoixa, continguts sobre drogues i conductes i valors incívics",
+    "serie": true
+  },
+  {
+    "titol": "Illes del Pacífic, amb Martin Clunes",
+    "codi": "illes-del-pacific-amb-martin-clunes",
+    "edat": "10",
+    "potser": "situacions de por i angoixa i continguts sobre drogues",
+    "serie": true
+  },
+  {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
     "titol": "13 anys... i un dia",
     "codi": "tretze-anys-i-un-dia",
@@ -8842,6 +8949,30 @@
     "raons": "Violència ocasional, irreal, explícita, d'intensitat molt greu, no legitimada"
   },
   {
+    "titol": "En sèrie 1x10 - El so",
+    "codi": "5675385",
+    "edat": "10",
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat greu, no legitimada<br>Por i angoixa ocasional d'afectació alta"
+  },
+  {
+    "titol": "En sèrie 1x11 - Edició i muntatge",
+    "codi": "5676456",
+    "edat": "13",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat greu, no legitimada"
+  },
+  {
+    "titol": "En sèrie 1x12 - Especialistes i efectes especials",
+    "codi": "5678041",
+    "edat": "13",
+    "raons": "Por i angoixa reiterada d'afectació mitjana"
+  },
+  {
+    "titol": "En sèrie 1x13 - Fi de festa",
+    "codi": "5678996",
+    "edat": "10",
+    "raons": "Continguts sexuals ocasionals d'explicitació mitjana<br>Por i angoixa freqüent d'afectació mitjana<br>Llenguatge groller ocasional d'intensitat alta"
+  },
+  {
     "titol": "Entre quatre parets",
     "codi": "entre-quatre-parets",
     "edat": "13",
@@ -12583,6 +12714,15 @@
     "edat": "7",
     "raons": "Violència freqüent, irreal, no explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa freqüent d'afectació lleu",
     "mesinfo": "<b>Violència</b><br>Vegeu 'Por i angoixa'.<br><br><b>Por i angoixa</b><br>Hi ha tensió prolongada lligada a l'aparició de personatges malvats i a que l'equip dels bons és incapaç de guanyar el partit. L'antagonista intimida i invoca xuts de pilota superpoderosos i esperits gegants i tenebrosos que ataquen impactant contra els nois de manera irreal i no detallada, acabant desplomats sense forces. Un noi de l'equip dels bons plora perquè no sap protegir els seus amics i, utilitzant l'angoixa, invoca un esperit."
+  },
+  {
+    "titol": "Incerta glòria (2017)",
+    "codi": "5791108",
+    "edat": "13",
+    "orig": "12",
+    "peli": true,
+    "tv3": true,
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat greu, no legitimada<br>Continguts sexuals ocasionals d'explicitació alta<br>Llenguatge groller freqüent d'intensitat alta"
   },
   {
     "titol": "Influenx3r",
@@ -17221,6 +17361,18 @@
     "imdb": "tt5101192",
     "serie": true,
     "tv3": true
+  },
+  {
+    "titol": "Nit i dia 1x09 - Violència de gènere",
+    "codi": "5590541",
+    "edat": "18",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt greu, no legitimada"
+  },
+  {
+    "titol": "Nit i dia 2x02 - Kevin",
+    "codi": "5663834",
+    "edat": "18",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat molt greu, no legitimada<br>Por i angoixa reiterada d'afectació alta"
   },
   {
     "titol": "Nits sense ficció",
