@@ -3300,6 +3300,91 @@
     "serie": true
   },
   {
+    "titol": "30' Habitatge, dret o negoci",
+    "codi": "6287445",
+    "edat": "7",
+    "potser": "continguts sobre drogues"
+  },
+  {
+    "titol": "SF Han robat La Gioconda",
+    "codi": "6372896",
+    "edat": "7",
+    "potser": "conductes i valors incívics"
+  },
+  {
+    "titol": "SF Història del cafè (para todos)",
+    "codi": "3692010",
+    "edat": "10",
+    "potser": "continguts sobre drogues"
+  },
+  {
+    "titol": "SF Històries de la Model",
+    "codi": "4125330",
+    "edat": "13",
+    "potser": "violència, situacions de por i angoixa i continguts sobre drogues"
+  },
+  {
+    "titol": "SF Hola, Europa!",
+    "codi": "4562951",
+    "edat": "7",
+    "potser": "llenguatge groller"
+  },
+  {
+    "titol": "30' Haití, el regne de les bandes",
+    "codi": "6380639",
+    "edat": "13",
+    "potser": "situacions de por i angoixa i continguts sobre drogues"
+  },
+  {
+    "titol": "60' Haití, la llei de les bandes",
+    "codi": "6407404",
+    "edat": "13",
+    "potser": "situacions de por i angoixa i continguts sobre drogues"
+  },
+  {
+    "titol": "SF Hvaldimir: La veritable història de la balena espia",
+    "codi": "6347801",
+    "edat": "7",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "SF Hvaldimir: La veritable història de la balena espia",
+    "codi": "6347801",
+    "edat": "7",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "Hits",
+    "codi": "6301481",
+    "edat": "10",
+    "potser": "continguts sexuals, continguts sobre drogues i llenguatge groller"
+  },
+  {
+    "titol": "SF Hola, aquí tens el meu penis",
+    "codi": "6311591",
+    "edat": "13",
+    "potser": "continguts sexuals i llenguatge groller"
+  },
+  {
+    "titol": "Hristo, l'indomable",
+    "codi": "hristo-lindomable",
+    "edat": "10",
+    "potser": "continguts sobre drogues i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "Històries de Catalunya",
+    "codi": "histories-de-catalunya",
+    "edat": "13",
+    "serie": true
+  },
+  {
+    "titol": "Històries de Catalunya",
+    "codi": "histories-de-catalunya",
+    "edat": "13",
+    "serie": true
+  },
+  {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
     "titol": "13 anys... i un dia",
     "codi": "tretze-anys-i-un-dia",
@@ -8697,7 +8782,7 @@
   {
     "titol": "En sèrie",
     "codi": "en-serie",
-    "edat": "10",
+    "edat": "13",
     "orig": "TP",
     "serie": true,
     "tv3": true
@@ -8706,7 +8791,7 @@
     "titol": "En sèrie 1x01 - El guió",
     "codi": "5662991",
     "edat": "10",
-    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat greu, no legitimada<br>Llenguatge groller ocasional d'intensitat alta"
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada<br>Llenguatge groller ocasional d'intensitat alta"
   },
   {
     "titol": "En sèrie 1x02 - Localitzacions",
@@ -8737,6 +8822,24 @@
     "codi": "5668877",
     "edat": "7",
     "raons": "Violència ocasional, irreal, no explícita, d'intensitat greu, no legitimada<br>Por i angoixa ocasional d'afectació mitjana<br>Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "En sèrie 1x07 - Fotografia",
+    "codi": "5670273",
+    "edat": "7",
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat greu, no legitimada<br>Por i angoixa ocasional d'afectació mitjana<br>Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "En sèrie 1x08 - Producció",
+    "codi": "5671408",
+    "edat": "10",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada<br>Llenguatge groller ocasional d'intensitat alta"
+  },
+  {
+    "titol": "En sèrie 1x09 - Vestuari, maquillatge i perruqueria",
+    "codi": "5673497",
+    "edat": "13",
+    "raons": "Violència ocasional, irreal, explícita, d'intensitat molt greu, no legitimada"
   },
   {
     "titol": "Entre quatre parets",
@@ -11384,6 +11487,22 @@
     "edat": "7",
     "raons": "Por i angoixa ocasional d'afectació mitjana",
     "mesinfo": "<b>Por i angoixa</b><br>Es mostren cadàvers d'animals; un llop s'alimenta d'un d'ells. Es fan referències a la hipotèrmia. Un experiment involucra una nena en una banyera glaçada per tal de mesurar-li la temperatura corporal. Un home té una congelació i mostra els seus peus amb els dits amputats. Una dramatització poc detallada mostra una parella atrapada a la neu, i es diu que un gos va excavar fins que li van sagnar les potes. Es diu que van morir anys més tard."
+  },
+  {
+    "titol": "Herois quotidians",
+    "codi": "heroisquotidians",
+    "edat": "13",
+    "orig": "TP",
+    "cac": "13",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Herois quotidians 1x02",
+    "codi": "5156073",
+    "edat": "13",
+    "raons": "Situacions d'embriaguesa en clau de paròdia presentades de manera neutra<br>(Qualificació oficial del CAC)",
+    "mesinfo": "El següent contingut està extret de l'informe 96/2008 de l'Àrea de Continguts del CAC.<br><br><b>Drogues</b><br>Es veu un grup de joves practicant el 'botellón'. Després alguns d'ells vomiten. Altres parlen a la càmera en un avançat estat d’embriaguesa.<br><br>Es detecta la presència ocasional de violència versemblant, explícita, d'intensitat lleu i no legitimada. Per exemple: un grup de malalts mentals, sotmesos a una situació angoixant, perden el control; un d'ells salta sobre un company i li pega cops de puny. Es detecta la presència ocasional de situacions susceptibles de provocar por o angoixa d'intensitat mitjana. Per exemple: es veuen diverses situacions on un grup de malalts mentals perd el control i criden, es peguen a ells mateixos i als seus companys; es veuen diverses situacions on uns joves vomiten després d'haver ingerit gran quantitat d'alcohol."
   },
   {
     "titol": "Historias corrientes",
