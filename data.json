@@ -14,7 +14,7 @@
   {
     "titol": "xd",
     "codi": "contenidors",
-    "edat": ["sense-ficcio", "30-minuts", "60-minuts", "el-monoleg-de-lany", "premis-gaudi-audio", "premis-gaudi", "el-documental", "catalunya-aixeca-el-telo", "punt-de-no-retorn", "savis", "sala-33", "el-convidat"]
+    "edat": ["sense-ficcio", "30-minuts", "60-minuts", "el-monoleg-de-lany", "premis-gaudi-audio", "premis-gaudi", "el-documental", "catalunya-aixeca-el-telo", "punt-de-no-retorn", "savis", "sala-33", "el-convidat", "daquidalla"]
   },
   {
     "_comment": "tota la història que s'ha de fer per a les col·leccions",
@@ -1695,8 +1695,8 @@
     "potser": "violència, situacions de por i angoixa, continguts sobre drogues i continguts discriminatoris"
   },
   {
-    "titol": "60' L'Amazònia, l'última frontera. Segona part",
-    "codi": "3907350",
+    "titol": "L'Amazònia, l'última frontera",
+    "codi": "6410584",
     "edat": "7",
     "potser": "violència, situacions de por i angoixa, continguts sobre drogues i continguts discriminatoris"
   },
@@ -3571,6 +3571,402 @@
     "serie": true
   },
   {
+    "titol": "L'últim autobús",
+    "codi": "6322874",
+    "edat": "10",
+    "potser": "continguts sexuals, situacions de por i angoixa, continguts sobre drogues i llenguatge groller"
+  },
+  {
+    "titol": "SF L'escletxa",
+    "codi": "6131669",
+    "edat": "10",
+    "potser": "llenguatge groller"
+  },
+  {
+    "titol": "30' L'embolic burocràtic",
+    "codi": "6327838",
+    "edat": "7",
+    "potser": "llenguatge groller"
+  },
+  {
+    "titol": "L'avi Bernat",
+    "codi": "avi-bernat",
+    "edat": "10",
+    "serie": true
+  },
+  {
+    "titol": "SF L'aventura del Romànic",
+    "codi": "3567090",
+    "edat": "7",
+    "potser": "continguts sobre drogues"
+  },
+  {
+    "titol": "L'art de la comèdia",
+    "codi": "5538388",
+    "edat": "10",
+    "potser": "situacions de por i angoixa i continguts sobre drogues"
+  },
+  {
+    "titol": "SF L'amenaça incandescent",
+    "codi": "6049603",
+    "edat": "10",
+    "potser": "situacions de por i angoixa i llenguatge groller"
+  },
+  {
+    "titol": "SF L'amarga lluita del Noi del Sucre",
+    "codi": "6253200",
+    "edat": "7",
+    "potser": "violència, situacions de por i angoixa i llenguatge groller"
+  },
+  {
+    "titol": "30' L'altra cara del somni",
+    "codi": "1402879",
+    "edat": "0",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "30' L'aeroport, en l'aire",
+    "codi": "6133884",
+    "edat": "0",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "L'adversari",
+    "codi": "6298053",
+    "edat": "13",
+    "potser": "violència i situacions de por i angoixa"
+  },
+  {
+    "titol": "SF L'illa dels Bous",
+    "codi": "6051019",
+    "edat": "10",
+    "potser": "llenguatge groller"
+  },
+  {
+    "titol": "SF L'Hospitalet, simfonia d'una ciutat",
+    "codi": "6186528",
+    "edat": "7",
+    "potser": "continguts discriminatoris i llenguatge groller"
+  },
+  {
+    "titol": "SF L'hospital que mira al mar",
+    "codi": "5548934",
+    "edat": "10",
+    "potser": "continguts sobre drogues i llenguatge groller"
+  },
+  {
+    "titol": "SF L'home que va robar el cervell d'Einstein",
+    "codi": "6289808",
+    "edat": "7",
+    "potser": "situacions de por i angoixa, continguts sobre drogues i conductes i valors incívics"
+  },
+  {
+    "titol": "SF L'home dibuixat. Una conversa amb Jaume Sisa",
+    "codi": "6130052",
+    "edat": "13",
+    "potser": "continguts sobre drogues"
+  },
+  {
+    "titol": "SF L'estelada de Verdun",
+    "codi": "5232331",
+    "edat": "10",
+    "potser": "violència i situacions de por i angoixa"
+  },
+  {
+    "titol": "SF L'últim gegant d'Europa",
+    "codi": "5705175",
+    "edat": "0",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "30' L'illa que no vol desaparèixer",
+    "codi": "6129495",
+    "edat": "7",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "SF L'últim sopar",
+    "codi": "5796166",
+    "edat": "7",
+    "potser": "continguts discriminatoris i llenguatge groller"
+  },
+  {
+    "titol": "SF La batalla per les xarxes",
+    "codi": "5960807",
+    "edat": "10",
+    "potser": "violència i situacions de por i angoixa"
+  },
+  {
+    "titol": "SF La Barceloneta, retrat d'un barri",
+    "codi": "5532346",
+    "edat": "10",
+    "potser": "continguts sobre drogues"
+  },
+  {
+    "titol": "SF La cançó censurada",
+    "codi": "5578315",
+    "edat": "10",
+    "potser": "llenguatge groller"
+  },
+  {
+    "titol": "La dona del segle",
+    "codi": "5826287",
+    "edat": "10",
+    "potser": "continguts sexuals, continguts sobre drogues i llenguatge groller"
+  },
+  {
+    "titol": "SF La clàusula Balcells",
+    "codi": "5657290",
+    "edat": "7",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "SF La ciutat dels turistes",
+    "codi": "5663250",
+    "edat": "0",
+    "potser": "NO RES"
+  },
+  {
+    "titol": "SF La Chana",
+    "codi": "5840736",
+    "edat": "10",
+    "potser": "continguts sobre drogues"
+  },
+  {
+    "titol": "SF La fibra sensible",
+    "codi": "6368784",
+    "edat": "13",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "30' La fi dels diners.",
+    "codi": "6158816",
+    "edat": "0",
+    "potser": "NO RES"
+  },
+  {
+    "titol": "30' La fi dels antibiòtics",
+    "codi": "5712853",
+    "edat": "10",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "30' La fi de la bombolla",
+    "codi": "223324222",
+    "edat": "7",
+    "potser": "llenguatge groller"
+  },
+  {
+    "titol": "30' La feina o la vida",
+    "codi": "6225255",
+    "edat": "7",
+    "potser": "violència i llenguatge groller"
+  },
+  {
+    "titol": "30' La febre dels metalls",
+    "codi": "6284224",
+    "edat": "0",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "30' La febre del bitcoin",
+    "codi": "6161213",
+    "edat": "7",
+    "potser": "conductes i valors incívics"
+  },
+  {
+    "titol": "SF La gran aventura de La Canadenca",
+    "codi": "4368090",
+    "edat": "10",
+    "potser": "continguts sexuals i continguts sobre drogues"
+  },
+  {
+    "titol": "30' La gent és el negoci",
+    "codi": "5652834",
+    "edat": "7",
+    "potser": "conductes i valors incívics"
+  },
+  {
+    "titol": "SF La generació silenciosa",
+    "codi": "6121330",
+    "edat": "13",
+    "potser": "violència"
+  },
+  {
+    "titol": "SF La generació silenciosa",
+    "codi": "6121330",
+    "edat": "13",
+    "potser": "violència"
+  },
+  {
+    "titol": "30' La gran evasió",
+    "codi": "6118255",
+    "edat": "10",
+    "potser": "llenguatge groller"
+  },
+  {
+    "titol": "SF La història de Christiane F.",
+    "codi": "6367159",
+    "edat": "18",
+    "potser": "continguts sobre drogues"
+  },
+  {
+    "titol": "SF La Jonquera: 20 anys sense frontera",
+    "codi": "5126211",
+    "edat": "10",
+    "potser": "continguts sexuals i llenguatge groller"
+  },
+  {
+    "titol": "SF La implosió del Titan: El destí final cap al Titanic",
+    "codi": "6417200",
+    "edat": "10",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "30' La màfia dels cotxes robats",
+    "codi": "6402812",
+    "edat": "7",
+    "potser": "situacions de por i angoixa i conductes i valors incívics"
+  },
+  {
+    "titol": "30' La llet no té preu",
+    "codi": "6229992",
+    "edat": "10",
+    "potser": "llenguatge groller"
+  },
+  {
+    "titol": "La Klara i el Nadal a la granja",
+    "codi": "6312363",
+    "edat": "0",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "SF La maleta mexicana",
+    "codi": "4626575",
+    "edat": "10",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "30' La narcoamenaça",
+    "codi": "6411331",
+    "edat": "10",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "SF La música és vida",
+    "codi": "5764574",
+    "edat": "10",
+    "potser": "situacions de por i angoixa, continguts sobre drogues i llenguatge groller"
+  },
+  {
+    "titol": "SF La model: 113 anys i un dia",
+    "codi": "5671724",
+    "edat": "13",
+    "potser": "continguts sobre drogues"
+  },
+  {
+    "titol": "SF La meva vida com una pel·lícula",
+    "codi": "5830515",
+    "edat": "13",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "SF La nova escola",
+    "codi": "6061523",
+    "edat": "10",
+    "potser": "llenguatge groller"
+  },
+  {
+    "titol": "SF La piràmide invisible. Les urnes de l'1-O",
+    "codi": "6176280",
+    "edat": "10",
+    "potser": "violència"
+  },
+  {
+    "titol": "SF La Pilarin",
+    "codi": "6149558",
+    "edat": "13",
+    "potser": "continguts sobre drogues"
+  },
+  {
+    "titol": "SF La Rambla: secrets d'un escenari",
+    "codi": "3815850",
+    "edat": "13",
+    "potser": "continguts sexuals"
+  },
+  {
+    "titol": "SF La Rússia de Khodorkovsky",
+    "codi": "3823510",
+    "edat": "7",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "Fugir del matrimoni",
+    "codi": "6430445",
+    "edat": "10",
+    "potser": "continguts sexuals, continguts sobre drogues i llenguatge groller"
+  },
+  {
+    "titol": "30' La revolució forestal",
+    "codi": "6164436",
+    "edat": "7",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "30' La revolució forestal",
+    "codi": "6164436",
+    "edat": "7",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "SF La Sagi, una pionera del Barça",
+    "codi": "5829196",
+    "edat": "7",
+    "potser": "continguts sexuals, continguts sobre drogues i continguts discriminatoris"
+  },
+  {
+    "titol": "30' La segona oportunitat.",
+    "codi": "6187229",
+    "edat": "10",
+    "potser": "llenguatge groller"
+  },
+  {
+    "titol": "SF La Singla",
+    "codi": "6323914",
+    "edat": "7",
+    "potser": "situacions de por i angoixa i continguts discriminatoris"
+  },
+  {
+    "titol": "SF La Víctor",
+    "codi": "5657289",
+    "edat": "10",
+    "potser": "violència i continguts sexuals"
+  },
+  {
+    "titol": "La veritat sobre la dictadura de Franco",
+    "codi": "la-veritat-sobre-la-dictadura-de-franco",
+    "edat": "10",
+    "serie": true
+  },
+  {
+    "titol": "SF Les 7 caixes",
+    "codi": "5723447",
+    "edat": "10",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "SF Les 7 caixes",
+    "codi": "5723447",
+    "edat": "10",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "SF Latitud 80º",
+    "codi": "5684891",
+    "edat": "7",
+    "potser": "situacions de por i angoixa i llenguatge groller"
+  },
+  {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
     "titol": "13 anys... i un dia",
     "codi": "tretze-anys-i-un-dia",
@@ -3890,6 +4286,13 @@
     "mesinfo": "<b>Por i angoixa</b><br>Es fan freqüents referències a trastorns del son, i com molts d'ells són incurables o generen demència. Es parla de les apnees, i s'ensenyen imatges no explícites d'una persona que actua inconscientment de manera violenta durant la nit amb la persona que té al costat. Una persona parla de com va patir un accident de trànsit per falta de son, que per sort no va ser fatal.<br><br><b>Drogues</b><br>Es fa referència fugaç a què 'beure' i 'drogar-se' al volant és molt perillós. Diversos pacients manifesten haver desenvolupat una addicció a medicaments per a la son. Es veuen begudes alcohòliques administrades de manera esporàdica durant el documental, però sense imatges de consum.<br><br><b>Llenguatge groller</b><br>Es diu 'hòstia' i 'fotre' de manera esporàdica. Una persona reacciona dient 'qué coño estás diciendo' quan veu la seva parella parlant sola a la nit."
   },
   {
+    "titol": "30 minuts - Portaventura, més enllà de l'atracció",
+    "codi": "6345455",
+    "edat": "0",
+    "orig": "TP",
+    "raons": "Absència de continguts inadequats<br>(Qualificació oficial del CAC)"
+  },
+  {
     "titol": "30 minuts - Conills, el malson del pagès",
     "codi": "6347583",
     "edat": "10",
@@ -3977,6 +4380,22 @@
     "tv3": true,
     "raons": "Llenguatge groller freqüent d'intensitat alta",
     "mesinfo": "<b>Llenguatge groller</b><br>En un gag emès al principi del programa, un imitador de Pepe Rubianes utilitza llenguatge sexual i altament groller incloent-hi 'de los cojones', 'del cojón', 'follo', 'el puto', 'los putos' o 'me sudan la polla'. Durant la resta del programa, també es fan servir expressions com 'hòstia' o 'hosti' (vora 40 vegades amb diferents intensitats), 'fotre', 'capulla', 'acollonit', 'collonut', 'de puta mare', 'cabrón', 'joder', 'torracollons', 'què collons', 'què cony', 'imbècil' o 'merder'.<br><br>Hi ha continguts sexuals ocasionals d'explicitació mitjana; per exemple, es diu que un regidor de televisió feia 'porno', que un home tenia 'cabalgadas nocturnas' amb una dona a qui li deia 'dame más placer'  o que 'se me empina', que un home era 'passiu' al llit, es recorda la notícia del vestit tacat de semen de Monika Lewinsky, i s'ensenyen imatges d'una edició d''El club' on una dona fa un striptease i es queda en calces. Hi ha referències i imatges de consum de drogues lícites (alcohol i tabac), presentades de manera neutra. Hi ha por i angoixa ocasional d'afectació mitjana; s'ensenyen imatges d'arxiu dels Telenotícies, per exemple, d'atemptats, amb gent sent arrossegada del terra o amb el cap sagnant per la repressió policial de l'1-O."
+  },
+  {
+    "titol": "60 minuts",
+    "codi": "60-minuts",
+    "edat": "18",
+    "orig": "Variable",
+    "serie": true,
+    "33": true,
+    "misc": true
+  },
+  {
+    "titol": "60 minuts - Ucraïna, sobre la pista dels botxins",
+    "codi": "6345495",
+    "edat": "18",
+    "orig": "18",
+    "raons": "Violència reiterada, versemblant, explícita, d'intensitat molt greu, no legitimada<br>Por i angoixa reiterada d'afectació alta<br>(Qualificació oficial del CAC)"
   },
   {
     "titol": "A2Veus",
@@ -17760,6 +18179,20 @@
     "imdb": "tt31567229",
     "raons": "Por i angoixa reiterada d'afectació mitjana",
     "mesinfo": "<b>Por i angoixa</b><br>Es fan referències reiterades a un accident automobilístic que va acabar amb 82 morts i 120 ferits. Es veuen freqüentment imatges de l'accident, cotxes sortint volant i explotant, gent fugint pel pànic, i cadàvers estesos a terra o essent recollits. Es parla constantment sobre el dol que van passar i seguien passant alguns dels familiars dels morts, inclòs el periodista que condueix el documental. Alguns supervivents donen alguns detalls explícits, com que van veure fragments de cossos, que un nen tenia el cap mutilat, o que va quedar-se algú penjat d'una tanca pels peus.<br><br>Hi ha imatges de consum de drogues lícites (tabac i alcohol) presentat de manera neutra."
+  },
+  {
+    "titol": "Nits sense ficció - Infància sobreexposada",
+    "codi": "6344498",
+    "edat": "13",
+    "orig": "13",
+    "raons": "Presentació no detallada de situacions relacionades amb l’exercici de la pederàstia<br>Por i angoixa reiterada d'afectació mitjana<br>(Qualificació oficial del CAC)"
+  },
+  {
+    "titol": "Nits sense ficció - La trampa del clic",
+    "codi": "6344496",
+    "edat": "13",
+    "orig": "13",
+    "raons": "Por i angoixa reiterada d'afectació mitjana<br>(Qualificació oficial del CAC)"
   },
   {
     "titol": "Nits sense ficció - Alerta inundable",
