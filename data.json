@@ -3492,6 +3492,85 @@
     "serie": true
   },
   {
+    "titol": "SF Jo també vull sexe!",
+    "codi": "5634098",
+    "edat": "13",
+    "potser": "continguts sexuals"
+  },
+  {
+    "titol": "SF Joana Biarnés, una entre tots",
+    "codi": "5599927",
+    "edat": "7",
+    "potser": "continguts discriminatoris i llenguatge groller"
+  },
+  {
+    "titol": "SF Jarabe contra el càncer",
+    "codi": "5656740",
+    "edat": "10",
+    "potser": "continguts discriminatoris i llenguatge groller"
+  },
+  {
+    "titol": "30' Kings League, comença la partida",
+    "codi": "6211169",
+    "edat": "7",
+    "potser": "llenguatge groller"
+  },
+  {
+    "titol": "30' Kings League, comença la partida",
+    "codi": "6211169",
+    "edat": "7",
+    "potser": "llenguatge groller"
+  },
+  {
+    "titol": "Jo també em quedo a casa",
+    "codi": "jo-tambe-em-quedo-a-casa",
+    "edat": "13",
+    "serie": true
+  },
+  {
+    "titol": "Judes Xanguet i les maniquins",
+    "codi": "judes-xanguet",
+    "edat": "10",
+    "serie": true
+  },
+  {
+    "titol": "SF Jordi i Nil, la conversa infinita",
+    "codi": "6403546",
+    "edat": "10",
+    "potser": "continguts sobre drogues"
+  },
+  {
+    "titol": "SF Jordi Dauder, la revolució pendent",
+    "codi": "4876371",
+    "edat": "13",
+    "potser": "continguts sobre drogues"
+  },
+  {
+    "titol": "Km33",
+    "codi": "km33",
+    "edat": "10",
+    "potser": "continguts sobre drogues i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "Jo vull ser",
+    "codi": "jo-vull-ser",
+    "edat": "13",
+    "serie": true
+  },
+  {
+    "titol": "Il·luminats",
+    "codi": "illuminats",
+    "edat": "10",
+    "serie": true
+  },
+  {
+    "titol": "Hora Q",
+    "codi": "hora-q",
+    "edat": "10",
+    "serie": true
+  },
+  {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
     "titol": "13 anys... i un dia",
     "codi": "tretze-anys-i-un-dia",
@@ -5690,7 +5769,7 @@
   },
   {
     "titol": "Caçadors de bolets 5x07 - Tapis",
-    "codi": "",
+    "codi": "1940669",
     "edat": "10",
     "raons": "Llenguatge groller ocasional d'intensitat alta<br>(Qualificació oficial del CAC)",
     "mesinfo": "El següent contingut està extret de l'informe 145/2009 de l'Àrea de Continguts del CAC.<br><br><b>Llenguatge groller</b><br>Es detecta la presència ocasional de llenguatge groller d'intensitat alta: 'són una mica imbècils!', '¡acojonante!' (2 vegades), 'no me jodas ¡coño!', 'hòstia!'.<br><br>Es detecta la presència de consum de drogues lícites (alcohol) presentat de manera negativa. Es detecta la presència de situacions de discriminació presentades de manera negativa."
