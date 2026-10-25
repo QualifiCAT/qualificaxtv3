@@ -3808,7 +3808,7 @@
     "titol": "SF La història de Christiane F.",
     "codi": "6367159",
     "edat": "18",
-    "potser": "continguts sobre drogues"
+    "potser": "situacions de por i angoixa i continguts sobre drogues"
   },
   {
     "titol": "SF La Jonquera: 20 anys sense frontera",
@@ -3965,6 +3965,278 @@
     "codi": "5684891",
     "edat": "7",
     "potser": "situacions de por i angoixa i llenguatge groller"
+  },
+  {
+    "titol": "Les cares de l'assetjament",
+    "codi": "les-cares-de-lassetjament",
+    "edat": "13",
+    "potser": "situacions de por i angoixa",
+    "serie": true
+  },
+  {
+    "titol": "SF Les Estrelles Michelin des dels fogons",
+    "codi": "6331689",
+    "edat": "7",
+    "potser": "situacions de por i angoixa, continguts sobre drogues i conductes i valors incívics"
+  },
+  {
+    "titol": "30' Les guerres del Besòs",
+    "codi": "5589038",
+    "edat": "13",
+    "potser": "continguts sobre drogues"
+  },
+  {
+    "titol": "30' Les fosses del silenci 1",
+    "codi": "5471679",
+    "edat": "13",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "30' Les fosses del silenci 2",
+    "codi": "5471672",
+    "edat": "13",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "SF Les llistes de Trias i Peitx. El Schindler català",
+    "codi": "6127907",
+    "edat": "10",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "SF Lluc, una crònica de la pastisseria",
+    "codi": "6356481",
+    "edat": "10",
+    "potser": "llenguatge groller"
+  },
+  {
+    "titol": "SF Llibertats empresonades",
+    "codi": "5809652",
+    "edat": "13",
+    "potser": "continguts sobre drogues"
+  },
+  {
+    "titol": "30' Llenguaferits",
+    "codi": "5879592",
+    "edat": "7",
+    "potser": "violència, situacions de por i angoixa i llenguatge groller"
+  },
+  {
+    "titol": "SF Lladres de temps",
+    "codi": "5801763",
+    "edat": "7",
+    "potser": "situacions de por i angoixa i conductes i valors incívics"
+  },
+  {
+    "titol": "SF Les set vides del Perich",
+    "codi": "6081624",
+    "edat": "10",
+    "potser": "violència, continguts sexuals, continguts sobre drogues i llenguatge groller"
+  },
+  {
+    "titol": "SF Les rondes, parc nacional",
+    "codi": "5670272",
+    "edat": "10",
+    "potser": "llenguatge groller"
+  },
+  {
+    "titol": "30' Les quatre nits",
+    "codi": "3511770",
+    "edat": "10",
+    "potser": "continguts sobre drogues i llenguatge groller"
+  },
+  {
+    "titol": "Les paraules de la Vero",
+    "codi": "6380634",
+    "edat": "10",
+    "potser": "llenguatge groller"
+  },
+  {
+    "titol": "SF Les pal·liatives",
+    "codi": "5793135",
+    "edat": "13",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "SF Lo Vinater",
+    "codi": "5822746",
+    "edat": "13",
+    "potser": "continguts sobre drogues"
+  },
+  {
+    "titol": "La nit bruixa",
+    "codi": "la-nit-bruixa",
+    "edat": "18",
+    "serie": true
+  },
+  {
+    "titol": "L'oblit del passat",
+    "codi": "loblit-del-passat",
+    "edat": "13",
+    "serie": true
+  },
+  {
+    "titol": "La sobretaula",
+    "codi": "la-sobretaula",
+    "edat": "13",
+    "serie": true
+  },
+  {
+    "titol": "L'aprenent",
+    "codi": "laprenent",
+    "edat": "13",
+    "serie": true
+  },
+  {
+    "titol": "La nit dels Òscars",
+    "codi": "la-nit-dels-oscars",
+    "edat": "13",
+    "serie": true
+  },
+  {
+    "titol": "L'altra cara",
+    "codi": "laltra-cara",
+    "edat": "10",
+    "potser": "situacions de por i angoixa i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "La Via Augusta",
+    "codi": "la-via-augusta",
+    "edat": "13",
+    "serie": true
+  },
+  {
+    "titol": "La partida de TV3",
+    "codi": "la-partida-de-tv3",
+    "edat": "10",
+    "serie": true
+  },
+  {
+    "titol": "La meva",
+    "codi": "lameva",
+    "edat": "10",
+    "serie": true
+  },
+  {
+    "titol": "La Lloll",
+    "codi": "la-lloll",
+    "edat": "10",
+    "serie": true
+  },
+  {
+    "titol": "La cosa nostra",
+    "codi": "la-cosa-nostra",
+    "edat": "13",
+    "serie": true
+  },
+  {
+    "titol": "Sense títol amb Andreu Buenafuente",
+    "codi": "sense-titol-amb-andreu-buenafuente",
+    "edat": "13",
+    "serie": true
+  },
+  {
+    "titol": "La mar de bé",
+    "codi": "la-mar-de-be",
+    "edat": "10",
+    "potser": "continguts sobre drogues i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "La Comunitat",
+    "codi": "la-comunitat",
+    "edat": "13",
+    "potser": "continguts sexuals",
+    "serie": true
+  },
+  {
+    "titol": "La Camarga, salvatge i fràgil",
+    "codi": "la-camarga-salvatge-i-fragil",
+    "edat": "0",
+    "serie": true
+  },
+  {
+    "titol": "La memòria dels Cargols",
+    "codi": "lamemoriadelscargols",
+    "edat": "13",
+    "potser": "continguts sexuals i continguts sobre drogues",
+    "serie": true
+  },
+  {
+    "titol": "La sagrada família",
+    "codi": "lasagradafamilia",
+    "edat": "13",
+    "serie": true
+  },
+  {
+    "titol": "Aràbia",
+    "codi": "arabia",
+    "edat": "13",
+    "potser": "continguts sobre drogues",
+    "serie": true
+  },
+  {
+    "titol": "Afers exteriors",
+    "codi": "afersexteriors",
+    "edat": "13",
+    "potser": "continguts sobre drogues i continguts discriminatoris",
+    "serie": true
+  },
+  {
+    "titol": "La Gran Barrera de Corall",
+    "codi": "la-gran-barrera-de-corall",
+    "edat": "7",
+    "potser": "situacions de por i angoixa",
+    "serie": true
+  },
+  {
+    "titol": "Ui, he canviat el món!",
+    "codi": "ui-he-canviat-el-mon",
+    "edat": "13",
+    "potser": "continguts sobre drogues",
+    "serie": true
+  },
+  {
+    "titol": "La sonora",
+    "codi": "la-sonora",
+    "edat": "10",
+    "serie": true
+  },
+  {
+    "titol": "Lokus day",
+    "codi": "lokus-day",
+    "edat": "13",
+    "potser": "continguts sexuals i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "Lokus day",
+    "codi": "lokus-day",
+    "edat": "13",
+    "potser": "continguts sexuals i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "L'arbre que amaga el bosc",
+    "codi": "larbre-que-amaga-el-bosc",
+    "edat": "10",
+    "potser": "continguts sobre drogues",
+    "serie": true
+  },
+  {
+    "titol": "Llocs recòndits",
+    "codi": "llocs-recondits",
+    "edat": "10",
+    "potser": "continguts sobre drogues",
+    "serie": true
+  },
+  {
+    "titol": "LISA, la websèrie",
+    "codi": "lisa-la-webserie",
+    "edat": "10",
+    "potser": "continguts sobre drogues i llenguatge groller",
+    "serie": true
   },
   {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
@@ -6185,13 +6457,6 @@
     "tv3": true,
     "33": true,
     "misc": true
-  },
-  {
-    "titol": "Caçadors de bolets 5x07 - Tapis",
-    "codi": "1940669",
-    "edat": "10",
-    "raons": "Llenguatge groller ocasional d'intensitat alta<br>(Qualificació oficial del CAC)",
-    "mesinfo": "El següent contingut està extret de l'informe 145/2009 de l'Àrea de Continguts del CAC.<br><br><b>Llenguatge groller</b><br>Es detecta la presència ocasional de llenguatge groller d'intensitat alta: 'són una mica imbècils!', '¡acojonante!' (2 vegades), 'no me jodas ¡coño!', 'hòstia!'.<br><br>Es detecta la presència de consum de drogues lícites (alcohol) presentat de manera negativa. Es detecta la presència de situacions de discriminació presentades de manera negativa."
   },
   {
     "titol": "Caigut del cel",
@@ -11155,6 +11420,15 @@
     "raons": "Consum de drogues lícites (tabac, alcohol), presentat de manera neutra<br>Llenguatge groller ocasional d'intensitat alta"
   },
   {
+    "titol": "Germanes (2011)",
+    "codi": "6351733",
+    "edat": "13",
+    "orig": "16",
+    "peli": true,
+    "tv3": true,
+    "raons": "Continguts sexuals freqüents d'explicitació mitjana<br>Abús de drogues lícites (tabac, alcohol) i consum de drogues il·lícites (marihuana, cocaïna), presentat de manera negativa<br>Llenguatge groller freqüent d'intensitat alta"
+  },
+  {
     "titol": "Germans",
     "codi": "germans",
     "edat": "10",
@@ -13920,6 +14194,46 @@
     "mesinfo": "<b>Violència</b><br>Vora el final de la pel·lícula, diversos civils són afusellats explícitament, i un home és torturat i posteriorment abatut d'un tret.<br><br>Hi ha situacions freqüents de por i angoixa d'afectació mitjana. Hi ha llenguatge groller ocasional d'intensitat alta. Hi ha situacions de discriminació presentades de manera negativa pel relat."
   },
   {
+    "titol": "L'origen de les curses de dracs (2014)",
+    "codi": "6087813",
+    "edat": "7",
+    "orig": "TP",
+    "imdb": "tt4191768",
+    "csm": "movie-reviews/dragons-dawn-of-the-dragon-racers",
+    "peli": true,
+    "sx3": true,
+    "raons": "Violència freqüent, irreal, no explícita, d'intensitat molt lleu, legitimada"
+  },
+  {
+    "titol": "L'orquestreta",
+    "codi": "orquestreta",
+    "edat": "0",
+    "orig": "TP",
+    "serie": true,
+    "sx3": true
+  },
+  {
+    "titol": "L'orquestreta 1x01 - Com viatjar en el temps",
+    "codi": "6326074",
+    "edat": "0"
+  },
+  {
+    "titol": "L'orquestreta 1x02 - El trànsit d'amor",
+    "codi": "6326069",
+    "edat": "0"
+  },
+  {
+    "titol": "L'orquestreta 1x17 - El ritme a les venes",
+    "codi": "6326072",
+    "edat": "0"
+  },
+  {
+    "titol": "L'orquestreta 1x23 - El Toto es fa viral",
+    "codi": "6326096",
+    "edat": "0",
+    "mesinfo": "Hi ha un sol ús de llenguatge groller ('pringats')."
+  },
+  {
     "titol": "La casa d'Anubis",
     "codi": "casa-anubis",
     "edat": "10",
@@ -15184,6 +15498,20 @@
     "mesinfo": "<b>Violència</b><br>Unes dones intenten fer fora uns ratolins amb cops d'escombra o llençant-los gots de vidre, que no impacten mai contra ells. Una bruixa llença un encanteri contra la paret que la destrossa. Un home empenta una nena que vol aturar els seus plans. Dos homes, un de bo i un de dolent, es barallen amb espases, sense impactar al cos. Acaben a una teulada i el bo desarma al dolent, que eventualment aconsegueix fer-se amb un pal i empentar al bo, que gairebé cau d'una teulada. Ell intenta fer-lo caure trepitjant-li el peu però el bo aconsegueix fer caure el dolent fent-lo perdre l'equilibri, qui sembla sobreviure a la caiguda ja que el veiem arrossegar-se per terra. En una escena posterior, una bruixa llença encanteris contra alguns personatges, que els fa impactar contra el terra o contra una columna. La bruixa segueix i una mena de màgia els envolta i els fa levitar mentre panteixen. Un atac fa caure el sostre, i la bruixa intenta aturar els herois llençant-los encanteris, però això només accelera l'enderrocament, i la seva implícita mort.<br><br><b>Por i angoixa</b><br>Un ratolí cau des d'una gran alçada, i un gat els persegueix per la casa mentre també terroritza els humans que hi viuen. Unes pomes enmig d'un bosc espanten els protagonistes en aparèixer-los-hi ulls i els persegueixen. Una nena i uns ratolins descobreixen un ombrívol passadís secret on troben una bruixa -amb una àguila que l'ajuda- que practica màgia negra, que s'adona de la seva presència i els comença a perseguir i llençar encanteris. Un home comenta que amb sis anys 'perd els pares', i es veu com la seva tutora es torna malvada i la transforma en ratolí. La protagonista també comenta que va perdre els pares. Una planta gegant apareix en un bosc i persegueix els protagonistes, atrapa a un d'ells i eventualment els fa caure a tots a un riu, però aconsegueixen salvar-se. L'àguila de la bruixa torna a aparèixer i roba un anell màgic i un dels ratolins. Uns guàrdies apareixen a casa de la protagonista i se l'enduen al castell. En l'escena de lluita a la teulada, un dels homes té por de caure, i li diu a l'altre que 'quan moris seràs recordat com un ratolí'. Una nena s'encara amb la bruixa quan revela la seva veritable identitat, i li pregunta per què la va abandonar. La confrontació dels herois amb la bruixa també pot ser angoixant i terrorífica, a més que sembla tenir un final agredolç, però que al final acaba bé per als protagonistes.<br><br>Alguns dels personatges es comporten de manera estereotipada, incloent-hi un dels ratolins protagonistes, més corpulent, que està obsessionat amb el menjar, o no és capaç de 'volar' com els altres. Un dels ratolins, mascle, se sent ridícul quan li posen un vestit de princesa. Es fan servir expressions com 'beneit', 'sonada' o 'ratolí estúpid', i en una escena un dels ratolins fa pets. Es comenta negativament que els ratolins robaven menjar."
   },
   {
+    "titol": "La vida en un pis",
+    "codi": "la-vida-en-un-pis",
+    "edat": "10",
+    "orig": "TP",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "La vida en un pis 1x10 - Pepe Rubianes",
+    "codi": "6297343",
+    "edat": "10",
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, legitimada<br>Continguts sexuals ocasionals d'explicitació mitjana<br>Comentaris discriminatoris amb sanció neutra"
+  },
+  {
     "titol": "La vida en calçotets",
     "codi": "vida-calcotets",
     "edat": "7",
@@ -16210,44 +16538,14 @@
     "mesinfo": "<b>Violència</b><br>S'ensenyen alguns fragments breus de la sèrie, on es veu un nen enviant un home contra una paret amb una puntada de peu i una grada celebrant-ho, i personatges amb sang a la cara enmig d'una batalla."
   },
   {
-    "titol": "L'origen de les curses de dracs (2014)",
-    "codi": "6087813",
+    "titol": "LMN'S (2006)",
+    "codi": "6351733",
     "edat": "7",
     "orig": "TP",
-    "imdb": "tt4191768",
-    "csm": "movie-reviews/dragons-dawn-of-the-dragon-racers",
     "peli": true,
     "sx3": true,
-    "raons": "Violència freqüent, irreal, no explícita, d'intensitat molt lleu, legitimada"
-  },
-  {
-    "titol": "L'orquestreta",
-    "codi": "orquestreta",
-    "edat": "0",
-    "orig": "TP",
-    "serie": true,
-    "sx3": true
-  },
-  {
-    "titol": "L'orquestreta 1x01 - Com viatjar en el temps",
-    "codi": "6326074",
-    "edat": "0"
-  },
-  {
-    "titol": "L'orquestreta 1x02 - El trànsit d'amor",
-    "codi": "6326069",
-    "edat": "0"
-  },
-  {
-    "titol": "L'orquestreta 1x17 - El ritme a les venes",
-    "codi": "6326072",
-    "edat": "0"
-  },
-  {
-    "titol": "L'orquestreta 1x23 - El Toto es fa viral",
-    "codi": "6326096",
-    "edat": "0",
-    "mesinfo": "Hi ha un sol ús de llenguatge groller ('pringats')."
+    "raons": "Violència ocasional, irreal, explícita, d'intensitat molt lleu, legitimada<br>Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Violència</b><br>En destaca una escena on dos robots gegants dirigits es barallen; un personatge dispara contra el braç mecànic de l'enemic sense voler i l'heroi ho aprofita per donar-li un cop que l'envia ben lluny, desmembrant-lo en el procés. També hi ha altres moments molt lleus no explícits i no legitimats.<br><br><b>Por i angoixa</b><br>Els protagonistes es troben en perill de manera gairebé reiterada atesa la naturalesa recopilatòria de la pel·lícula, però tot i la freqüència de les escenes, tenen una durada molt breu i sempre amb una resolució positiva gairebé immediata i una intensitat baixa. Es parla d'un gas que s'anomena 'assassí de científics', que algun cop s'utilitza per intimidar. Es parla de sacrificar quan l'antagonista revela que tenia un pla secret per eliminar els seus sequaços, en considerar-los ineptes.<br><br><b>Llenguatge groller</b><br>Es fan servir insults lleus, com ara 'estúpid', 'imbècil' i 'burro', així com eufemismes com ara 'n'estic fins als electrons' o 'en faré una truita amb els teus electrons'.<br><br>Hi ha una conducta incívica breu quan el protagonista enganya la professora fent-li veure que portava el material."
   },
   {
     "titol": "Lo repte",
@@ -17623,6 +17921,18 @@
     "codi": "6136851",
     "edat": "7",
     "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "Monster house (2006)",
+    "codi": "6125732",
+    "edat": "10",
+    "orig": "7",
+    "imdb": "tt0385880",
+    "csm": "movie-reviews/monster-house",
+    "peli": true,
+    "sx3": true,
+    "raons": "Por i angoixa freqüent d'afectació mitjana",
+    "mesinfo": "<b>Por i angoixa</b><br>Hi ha freqüents escenes de tensió prolongades involucrant una casa amb vida pròpia, que adopta formes aterridores i engoleix qualsevol que s'hi apropa. En un moment en què hi arriben a entrar, troben el cos cobert de ciment d'una dona, que es trenca i deixa entreveure-hi l'esquelet; es veu que el seu esperit controlava la casa, ja que va morir caient al sot on es construïa després de ser agredida. Més tard, la casa s'aixeca de terra i comença a perseguir els protagonistes, i el conflicte no s'atura fins que no li llencen dinamita al 'cor' de la casa. També hi ha un moment en què un home gran té un atac de por i es pensen que ha mort.<br><br>Hi ha continguts sexuals ocasionals d'explicitació baixa; un noi s'abraona sobre una dona, sense que es vegi res, i ella respon que no té respecte per les dones; i un nen que s'ha enamorat d'una nena diu que ella li ha tocat el cul. També hi ha un joc de paraules amb la paraula 'úvula', perquè es diu que la casa en té una i un dels protagonistes respon: 'la casa és una dona, doncs', i es fan bromes escatològiques, com quan es mostren ampolles plenes d'orina dels nois. Hi ha consum de drogues lícites (alcohol) per part d'un personatge negatiu, i quan un nen diu que vol una birra per fer-se el fatxenda. Hi ha situacions de discriminació amb sanció negativa pel relat, quan una nena jutja el comportament dels nois i els pregunta en to burleta si tenen problemes mentals, i també es fa mofa de personatges per la seva aparença física. Hi ha llenguatge groller ocasional d'intensitat baixa, com ara 'acollonit', 'merdós' o 'burro'. Hi ha una breu conducta incívica quan un nen roba medicaments de la farmàcia del seu pare per fer un experiment, i una molt breu escena de violència en un videojoc que inclou presència de sang."
   },
   {
     "titol": "Mòmies (2023)",
