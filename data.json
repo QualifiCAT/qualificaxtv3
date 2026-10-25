@@ -4239,6 +4239,24 @@
     "serie": true
   },
   {
+    "titol": "No tenim vergonya",
+    "codi": "no-tenim-vergonya",
+    "edat": "13",
+    "serie": true
+  },
+  {
+    "titol": "Col·legues al bosc: Una aventura de por",
+    "codi": "6431678",
+    "edat": "7",
+    "potser": "violència, situacions de por i angoixa i llenguatge groller"
+  },
+  {
+    "titol": "eldocu Deslligats",
+    "codi": "6430980",
+    "edat": "10",
+    "potser": "violència i continguts sobre drogues"
+  },
+  {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
     "titol": "13 anys... i un dia",
     "codi": "tretze-anys-i-un-dia",
@@ -4642,6 +4660,14 @@
     "edat": "0",
     "orig": "TP",
     "raons": "Por i angoixa ocasional d'afectació lleu"
+  },
+  {
+    "titol": "30 minuts - Llibertaris, l'amenaça ultra",
+    "codi": "6431670",
+    "edat": "10",
+    "orig": "18",
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada<br>Por i angoixa freqüent d'afectació mitjana<br>Llenguatge groller ocasional d'intensitat alta",
+    "mesinfo": "<b>Violència</b><br>S'ensenyen armes en detall i es veu com s'utilitzen contra objectes; també es mostra agressivitat verbal.<br><br><b>Por i angoixa</b><br>El reportatge utilitza música de tensió per emfatitzar algunes escenes, sobretot les relatives a la variable 'Violència' i també quan es comenten operacions perilloses i il·legals en el cos humà. Es mostra una imatge angoixant d'afectació alta d'un home rebent una injecció a l'ull.<br><br><b>Llenguatge groller</b><br>S'ensenyen dits del mig i es fan servir expressions com 'collons' de manera agressiva.<br><br>Hi ha continguts sexuals ocasionals d'explicitació baixa quan es parla d'un 'cíborg sexual' que s'implanta un aparell a la pelvis per estimular la parella. Hi ha consum de drogues lícites (tabac, alcohol) i referències a la compra de drogues il·lícites, presentades de manera negativa. Hi ha continguts discriminatoris amb sanció negativa. Hi ha conductes i valors incívics amb sanció negativa en mostrar actituds de rebuig a la ciència."
   },
   {
     "titol": "40 anys i una nit",
