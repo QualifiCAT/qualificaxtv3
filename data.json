@@ -4300,6 +4300,78 @@
     "serie": true
   },
   {
+    "titol": "Moriu-vos",
+    "codi": "6273082",
+    "edat": "10",
+    "potser": "continguts sobre drogues i llenguatge groller"
+  },
+  {
+    "titol": "Montserrat mil·lenari",
+    "codi": "montserrat-millenari",
+    "edat": "7",
+    "potser": "violència i situacions de por i angoixa"
+  },
+  {
+    "titol": "SF Montjuïc, la muntanya odiada de Barcelona",
+    "codi": "4770811",
+    "edat": "10",
+    "potser": "violència i situacions de por i angoixa"
+  },
+  {
+    "titol": "SF Món petit",
+    "codi": "4671771",
+    "edat": "13",
+    "potser": "conductes i valors incívics"
+  },
+  {
+    "titol": "SF Miró contra Miró",
+    "codi": "5844884",
+    "edat": "13",
+    "potser": "continguts sobre drogues"
+  },
+  {
+    "titol": "SF Milicianes",
+    "codi": "5816944",
+    "edat": "13",
+    "potser": "situacions de por i angoixa"
+  },
+  {
+    "titol": "SF Mil anys de presó, adeu a la mili",
+    "codi": "6159105",
+    "edat": "10",
+    "potser": "llenguatge groller"
+  },
+  {
+    "titol": "30' Més que futbol",
+    "codi": "3561150",
+    "edat": "0",
+    "potser": "NO RES"
+  },
+  {
+    "titol": "SF Més enllà de La Cubana",
+    "codi": "6151615",
+    "edat": "10",
+    "potser": "continguts sexuals i llenguatge groller"
+  },
+  {
+    "titol": "SF Merckx, pedalar o morir",
+    "codi": "6356557",
+    "edat": "10",
+    "potser": "continguts sobre drogues"
+  },
+  {
+    "titol": "SF Mercats, renovar-se per no morir",
+    "codi": "4385171",
+    "edat": "10",
+    "potser": "llenguatge groller"
+  },
+  {
+    "titol": "30' Mercats Oberts",
+    "codi": "5724965",
+    "edat": "7",
+    "potser": "llenguatge groller"
+  },
+  {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
     "titol": "13 anys... i un dia",
     "codi": "tretze-anys-i-un-dia",
@@ -10768,7 +10840,7 @@
   },
   {
     "titol": "Festival Òmnium de Cinema - Plora aquí",
-    "codi": "6329816",
+    "codi": "6431895",
     "edat": "13",
     "orig": "TP",
     "raons": "Por i angoixa reiterada d'afectació mitjana"
