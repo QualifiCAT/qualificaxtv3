@@ -4452,6 +4452,68 @@
     "potser": "situacions de por i angoixa i continguts discriminatoris"
   },
   {
+    "titol": "Més enllà de Crims",
+    "codi": "mes-enlla-de-crims",
+    "edat": "13",
+    "serie": true
+  },
+  {
+    "titol": "Matins",
+    "codi": "matins",
+    "edat": "13",
+    "serie": true
+  },
+  {
+    "titol": "Planta baixa",
+    "codi": "planta-baixa",
+    "edat": "13",
+    "serie": true
+  },
+  {
+    "titol": "Preguntes freqüents",
+    "codi": "preguntes-frequents",
+    "edat": "13",
+    "serie": true
+  },
+  {
+    "titol": "SF Liverpool català: boira, sants & rock'n'roll",
+    "codi": "6110637",
+    "edat": "13",
+    "potser": "continguts sobre drogues"
+  },
+  {
+    "titol": "Minty, la fada",
+    "codi": "minty-fada",
+    "edat": "0",
+    "serie": true
+  },
+  {
+    "titol": "Al vostre gust",
+    "codi": "al-vostre-gust",
+    "edat": "13",
+    "potser": "continguts sobre drogues",
+    "serie": true
+  },
+  {
+    "titol": "Menú degustació",
+    "codi": "menu-degustacio",
+    "edat": "13",
+    "potser": "continguts sobre drogues",
+    "serie": true
+  },
+  {
+    "titol": "Merlinari",
+    "codi": "merlinari",
+    "edat": "13",
+    "serie": true
+  },
+  {
+    "titol": "Malalts de tele",
+    "codi": "malalts-de-tele",
+    "edat": "13",
+    "serie": true
+  },
+  {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
     "titol": "13 anys... i un dia",
     "codi": "tretze-anys-i-un-dia",
