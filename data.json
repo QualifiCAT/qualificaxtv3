@@ -15909,6 +15909,27 @@
     "raons": "Por i angoixa freqüent d'afectació lleu"
   },
   {
+    "titol": "Les aventures de Pol Nord",
+    "codi": "pol-nord",
+    "edat": "10",
+    "orig": "TP",
+    "potser": "violència i llenguatge groller",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Les aventures de Pol Nord 1x01 - L'arribada a Barcelona",
+    "codi": "5731027",
+    "edat": "10",
+    "raons": "Violència freqüent, versemblant, no explícita, d'intensitat molt lleu, no legitimada<br>Llenguatge groller freqüent d'intensitat baixa"
+  },
+  {
+    "titol": "Les aventures de Pol Nord 1x02 - L'atac dels Dimitri",
+    "codi": "5731607",
+    "edat": "7",
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat molt lleu, no legitimada<br>Continguts sexuals ocasionals d'explicitació baixa<br>Consum de drogues lícites (alcohol), presentat de manera negativa<br>Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
     "titol": "Les del traster",
     "codi": "les-del-traster",
     "edat": "13",
