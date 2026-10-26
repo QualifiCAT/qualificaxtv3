@@ -14,7 +14,7 @@
   {
     "titol": "xd",
     "codi": "contenidors",
-    "edat": ["sense-ficcio", "30-minuts", "60-minuts", "el-monoleg-de-lany", "premis-gaudi-audio", "premis-gaudi", "el-documental", "catalunya-aixeca-el-telo", "punt-de-no-retorn", "savis", "sala-33", "el-convidat", "daquidalla"]
+    "edat": ["sense-ficcio", "30-minuts", "60-minuts", "el-monoleg-de-lany", "premis-gaudi-audio", "premis-gaudi", "el-documental", "catalunya-aixeca-el-telo", "punt-de-no-retorn", "sala-33", "el-convidat", "daquidalla"]
   },
   {
     "_comment": "tota la història que s'ha de fer per a les col·leccions",
@@ -1704,72 +1704,6 @@
     "titol": "60' Dones en construcció",
     "codi": "3819330",
     "edat": "13",
-    "potser": "situacions de por i angoixa"
-  },
-  {
-    "titol": "Savis 9x01",
-    "codi": "6403253",
-    "edat": "7",
-    "potser": "continguts sexuals i situacions de por i angoixa"
-  },
-  {
-    "titol": "Savis 9x02",
-    "codi": "6403254",
-    "edat": "10",
-    "potser": "continguts sobre drogues"
-  },
-  {
-    "titol": "Savis 9x03",
-    "codi": "6403252",
-    "edat": "10",
-    "potser": "continguts sobre drogues"
-  },
-  {
-    "titol": "Savis 9x04",
-    "codi": "6404136",
-    "edat": "10",
-    "potser": "continguts sobre drogues"
-  },
-  {
-    "titol": "Savis 9x05",
-    "codi": "6404140",
-    "edat": "0",
-    "potser": "NO RES"
-  },
-  {
-    "titol": "Savis 9x06",
-    "codi": "6404138",
-    "edat": "10",
-    "potser": "violència i situacions de por i angoixa"
-  },
-  {
-    "titol": "Savis 9x07",
-    "codi": "6404141",
-    "edat": "0",
-    "potser": "situacions de por i angoixa"
-  },
-  {
-    "titol": "Savis 9x09",
-    "codi": "6427532",
-    "edat": "7",
-    "potser": "continguts sexuals i situacions de por i angoixa"
-  },
-  {
-    "titol": "Savis 9x10",
-    "codi": "6427539",
-    "edat": "7",
-    "potser": "situacions de por i angoixa"
-  },
-  {
-    "titol": "Savis 9x11",
-    "codi": "6427538",
-    "edat": "7",
-    "potser": "situacions de por i angoixa"
-  },
-  {
-    "titol": "Savis 9x12",
-    "codi": "6427537",
-    "edat": "0",
     "potser": "situacions de por i angoixa"
   },
   {
@@ -5320,6 +5254,12 @@
     "codi": "6430556",
     "edat": "13",
     "raons": "Continguts sexuals freqüents d'explicitació mitjana<br>Al·lusions al consum de drogues il·lícites (marihuana), presentat de manera neutra<br>Llenguatge groller freqüent d'intensitat alta"
+  },
+  {
+    "titol": "APM? 22/10/2026",
+    "codi": "6432051",
+    "edat": "13",
+    "raons": "Al·lusions al consum de drogues lícites (tabac, alcohol) i il·lícites (marihuana), presentat de manera neutra<br>Llenguatge groller freqüent d'intensitat alta"
   },
   {
     "titol": "Arrietty i el món dels remenuts (2010)",
@@ -19319,6 +19259,12 @@
     "codi": "6429391",
     "edat": "13",
     "raons": "Al·lusions al consum de drogues il·lícites (cocaïna), presentat de manera neutra<br>Comentaris discriminatoris amb sanció neutra<br>Llenguatge groller freqüent d'intensitat alta"
+  },
+  {
+    "titol": "Polònia 22/10/2026",
+    "codi": "6432117",
+    "edat": "10",
+    "raons": "Continguts sexuals ocasionals d'explicitació mitjana<br>Llenguatge groller ocasional d'intensitat alta"
   },
   {
     "titol": "Pop, la ciutat de paper",
