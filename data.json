@@ -13413,6 +13413,22 @@
     "misc": true
   },
   {
+    "titol": "I ara què, Xènia?",
+    "codi": "ara-que-xenia",
+    "edat": "10",
+    "orig": "TP",
+    "potser": "continguts sexuals i continguts discriminatoris",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "I ara què, Xènia? 1x01 - Entrada d'artistes",
+    "codi": "5665644",
+    "edat": "10",
+    "raons": "Continguts sexuals ocasionals d'explicitació mitjana<br>Consum de drogues lícites (alcohol), presentat de manera neutra",
+    "mesinfo": "<b>Sexe</b><br>Es fa referència a treballar de meuca, que es defineix com a ofici respectable, i es fa broma sobre haver trucat a un consultori sexual. També es fan altres insinuacions d'explicitació baixa.<br><br><b>Drogues</b><br>La protagonista ofereix una copa de xampany a la seva parella, que la rebutja, i se l'acaba prenent sola per desitjar-se sort a ella mateixa.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa ('hosti', 'fotre'). Hi ha situacions angoixants ocasionals d'afectació lleu, com quan la protagonista plora o es discuteix amb la seva parella."
+  },
+  {
     "titol": "Ideafix i els irreductibles",
     "codi": "ideafix-irreductibles",
     "edat": "7",
