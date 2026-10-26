@@ -1838,6 +1838,12 @@
     "serie": true
   },
   {
+    "titol": "Natascha Kampush. Una vida a la presó",
+    "codi": "natascha-kampusch-una-vida-a-la-preso",
+    "edat": "13",
+    "serie": true
+  },
+  {
     "titol": "El búnquer",
     "codi": "el-bunquer",
     "edat": "13",
@@ -2994,8 +3000,8 @@
   {
     "titol": "La bugaderia",
     "codi": "la-bugaderia",
-    "edat": "10",
-    "potser": "llenguatge groller",
+    "edat": "13",
+    "potser": "continguts sobre drogues i llenguatge groller",
     "serie": true
   },
   {
@@ -4189,6 +4195,109 @@
     "codi": "6430980",
     "edat": "10",
     "potser": "violència i continguts sobre drogues"
+  },
+  {
+    "titol": "LOFT",
+    "codi": "loft",
+    "edat": "10",
+    "serie": true
+  },
+  {
+    "titol": "Res és impossible",
+    "codi": "res-es-impossible",
+    "edat": "10",
+    "potser": "continguts sexuals, continguts sobre drogues i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "Arrelats",
+    "codi": "arrelats",
+    "edat": "13",
+    "potser": "continguts sobre drogues",
+    "serie": true
+  },
+  {
+    "titol": "Les feres",
+    "codi": "les-feres",
+    "edat": "13",
+    "potser": "continguts sobre drogues",
+    "serie": true
+  },
+  {
+    "titol": "Les feres",
+    "codi": "les-feres",
+    "edat": "13",
+    "potser": "continguts sobre drogues",
+    "serie": true
+  },
+  {
+    "titol": "Que no surti d'aquí",
+    "codi": "que-no-surti-daqui",
+    "edat": "13",
+    "serie": true
+  },
+  {
+    "titol": "Spursito & Company",
+    "codi": "spursito-company",
+    "edat": "13",
+    "serie": true
+  },
+  {
+    "titol": "Gran",
+    "codi": "gran",
+    "edat": "10",
+    "serie": true
+  },
+  {
+    "titol": "El local",
+    "codi": "el-local",
+    "edat": "10",
+    "potser": "continguts sexuals, continguts sobre drogues i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "Les gates",
+    "codi": "les-gates",
+    "edat": "10",
+    "serie": true
+  },
+  {
+    "titol": "El camerino",
+    "codi": "el-camerino-de-cultura-jove",
+    "edat": "10",
+    "serie": true
+  },
+  {
+    "titol": "El bolo",
+    "codi": "el-bolo",
+    "edat": "10",
+    "potser": "continguts sexuals i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "La taula de Nervi",
+    "codi": "la-taula-de-nervi",
+    "edat": "13",
+    "serie": true
+  },
+  {
+    "titol": "La gran malaltia de l'amor",
+    "codi": "6357945",
+    "edat": "13",
+    "potser": "continguts sobre drogues i llenguatge groller"
+  },
+  {
+    "titol": "Replicants",
+    "codi": "replicants",
+    "edat": "10",
+    "serie": true
+  },
+  {
+    "titol": "Tres vides",
+    "codi": "tres-vides",
+    "edat": "13",
+    "potser": "violència",
+    "serie": true
   },
   {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
