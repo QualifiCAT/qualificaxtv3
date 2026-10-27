@@ -4583,6 +4583,80 @@
     "potser": "violència i situacions angoixants"
   },
   {
+    "titol": "Onze",
+    "codi": "onze",
+    "edat": "10",
+    "serie": true
+  },
+  {
+    "titol": "30' Operació Còndor, terror d'estat",
+    "codi": "1392009",
+    "edat": "13",
+    "potser": "situacions angoixants"
+  },
+  {
+    "titol": "SF On són els homes?",
+    "codi": "6209151",
+    "edat": "10",
+    "potser": "llenguatge groller"
+  },
+  {
+    "titol": "30' O rectifiquem o ens enfonsem",
+    "codi": "3713510",
+    "edat": "0",
+    "potser": "NO RES"
+  },
+  {
+    "titol": "30' O rectifiquem o ens enfonsem",
+    "codi": "3713510",
+    "edat": "0",
+    "potser": "NO RES"
+  },
+  {
+    "titol": "30' Nens que no vénen de París",
+    "codi": "5557406",
+    "edat": "13",
+    "potser": "discriminació"
+  },
+  {
+    "titol": "SF Noah",
+    "codi": "6324970",
+    "edat": "10",
+    "potser": "situacions angoixants i llenguatge groller"
+  },
+  {
+    "titol": "SF No puc tornar a casa",
+    "codi": "5648526",
+    "edat": "10",
+    "potser": "situacions angoixants"
+  },
+  {
+    "titol": "On anem",
+    "codi": "on-anem",
+    "edat": "13",
+    "potser": "drogues lícites o il·lícites",
+    "serie": true
+  },
+  {
+    "titol": "No plou prou",
+    "codi": "6209842",
+    "edat": "0",
+    "potser": "situacions angoixants"
+  },
+  {
+    "titol": "SF Nits SF Especial Gaza",
+    "codi": "6363649",
+    "edat": "13",
+    "potser": "situacions angoixants"
+  },
+  {
+    "titol": "Olor de colònia",
+    "codi": "olor-de-colonia",
+    "edat": "10",
+    "potser": "drogues lícites o il·lícites i llenguatge groller",
+    "serie": true
+  },
+  {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
     "titol": "13 anys... i un dia",
     "codi": "tretze-anys-i-un-dia",
@@ -10291,6 +10365,15 @@
     "csm": "tv-reviews/totally-spies",
     "serie": true,
     "sx3": true
+  },
+  {
+    "titol": "Esport Club",
+    "codi": "esport-club",
+    "edat": "10",
+    "orig": "TP",
+    "cac": "10",
+    "serie": true,
+    "tv3": true
   },
   {
     "titol": "Està passant",
@@ -19104,6 +19187,22 @@
     "orig": "TP",
     "peli": true,
     "sx3": true
+  },
+  {
+    "titol": "No em ratllis!",
+    "codi": "no-em-ratllis",
+    "edat": "13",
+    "orig": "TP",
+    "cac": "13",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "No em ratllis! 2x25",
+    "codi": "5771026",
+    "edat": "13",
+    "raons": "Al·lusions al consum de drogues lícites (alcohol) i il·lícites (porros) presentat de manera negativa<br>(Qualificació oficial del CAC)",
+    "mesinfo": "El següent contingut està extret de l'informe 62/2008 de l'Àrea de Continguts del CAC.<br><br><b>Drogues</b><br>Dediquen una part del programa a comentar el consum de porros entre els adolescents. Al final Júlia Otero diu: 'Al final, arriba el missatge que el porro no és dolent i és dolent'. Les persones entrevistades responen: 'És dolent. És dolent'. I afegeixen: 'Però el tabac també és dolent. I l’alcohol'.<br><br>Es detecta la presència ocasional de llenguatge groller d'intensitat alta. Es diuen paraules com: 'cony', 'gilipolles', 'puta mare', 'joder', 'putada', 'òstia puta'."
   },
   {
     "titol": "Núñez",
