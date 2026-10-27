@@ -4739,6 +4739,54 @@
     "potser": "violència i situacions angoixants"
   },
   {
+    "titol": "Pálido",
+    "codi": "6355212",
+    "edat": "18",
+    "potser": "violència i situacions angoixants"
+  },
+  {
+    "titol": "SF Passeig de Gràcia, l'escenari burgès",
+    "codi": "6006010",
+    "edat": "0",
+    "potser": "situacions angoixants"
+  },
+  {
+    "titol": "30' Parlem del 30'",
+    "codi": "6304608",
+    "edat": "10",
+    "potser": "continguts sexuals i drogues lícites o il·lícites"
+  },
+  {
+    "titol": "30' Pujol: els secrets d'Andorra",
+    "codi": "6094174",
+    "edat": "7",
+    "potser": "conductes incíviques"
+  },
+  {
+    "titol": "30' Pujol, vist per a sentència",
+    "codi": "6404631",
+    "edat": "7",
+    "potser": "conductes incíviques"
+  },
+  {
+    "titol": "SF Pujol / Catalunya. El consell de guerra",
+    "codi": "4583351",
+    "edat": "13",
+    "potser": "violència"
+  },
+  {
+    "titol": "SF Pujol / Catalunya. El consell de guerra",
+    "codi": "4583351",
+    "edat": "13",
+    "potser": "violència"
+  },
+  {
+    "titol": "SF Priorat",
+    "codi": "5640590",
+    "edat": "13",
+    "potser": "drogues lícites o il·lícites"
+  },
+  {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
     "titol": "13 anys... i un dia",
     "codi": "tretze-anys-i-un-dia",
@@ -20667,6 +20715,15 @@
     "edat": "7",
     "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa",
     "mesinfo": "<b>Por i angoixa</b><br>Una veu aterridora, un personatge disfressat d'avi esquelètic i un clon espanta els protagonistes. En una escena, el clon apareix escopint mocs per la boca fins que cau desplomat a terra.<br><br><b>Llenguatge groller</b><br>Es diu 'que us cagueu' una vegada."
+  },
+  {
+    "titol": "Pubertat",
+    "codi": "pubertat",
+    "edat": "13",
+    "orig": "13",
+    "raons": "violència, continguts sexuals, situacions angoixants i llenguatge groller",
+    "serie": true,
+    "tv3": true
   },
   {
     "titol": "Punt de no retorn",
