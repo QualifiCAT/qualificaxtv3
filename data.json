@@ -4657,6 +4657,88 @@
     "serie": true
   },
   {
+    "titol": "Signes del temps",
+    "codi": "signes-dels-temps",
+    "edat": "10",
+    "potser": "continguts sexuals i situacions angoixants",
+    "serie": true
+  },
+  {
+    "titol": "No serà fàcil",
+    "codi": "no-sera-facil",
+    "edat": "10",
+    "potser": "situacions angoixants, drogues lícites o il·lícites i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "Nens de la ruta de la seda",
+    "codi": "nens-de-la-ruta-de-la-seda",
+    "edat": "10",
+    "potser": "violència i continguts sexuals",
+    "serie": true
+  },
+  {
+    "titol": "Oh Happy Day",
+    "codi": "oh-happy-day",
+    "edat": "10",
+    "potser": "continguts sexuals, drogues lícites o il·lícites i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "Néixer de nou",
+    "codi": "neixerdenou",
+    "edat": "7",
+    "potser": "situacions angoixants i discriminació",
+    "serie": true
+  },
+  {
+    "titol": "Oh, Bongònia",
+    "codi": "oh-bongonia",
+    "edat": "10",
+    "potser": "continguts sexuals",
+    "serie": true
+  },
+  {
+    "titol": "Objectiu pastorets",
+    "codi": "objectiu-pastorets",
+    "edat": "10",
+    "potser": "continguts sexuals i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "No perdis el compàs",
+    "codi": "no-perdis-el-compas",
+    "edat": "10",
+    "potser": "continguts sexuals, drogues lícites o il·lícites i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "Nexes",
+    "codi": "nexes",
+    "edat": "13",
+    "potser": "drogues lícites o il·lícites",
+    "serie": true
+  },
+  {
+    "titol": "Globus sonda",
+    "codi": "globus-sonda",
+    "edat": "10",
+    "potser": "drogues lícites o il·lícites i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "SF Supernova: Massacre al festival de música",
+    "codi": "6302061",
+    "edat": "18",
+    "potser": "violència i situacions angoixants"
+  },
+  {
+    "titol": "SF A dins de Gaza",
+    "codi": "6363284",
+    "edat": "13",
+    "potser": "violència i situacions angoixants"
+  },
+  {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
     "titol": "13 anys... i un dia",
     "codi": "tretze-anys-i-un-dia",
