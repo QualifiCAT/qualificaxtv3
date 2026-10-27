@@ -4901,6 +4901,133 @@
     "potser": "situacions angoixants, discriminació i conductes incíviques"
   },
   {
+    "titol": "SF Pavlovsky",
+    "codi": "6036685",
+    "edat": "13",
+    "potser": "drogues lícites o il·lícites"
+  },
+  {
+    "titol": "SF Pau Casals, l'home que va fer sentir el silenci",
+    "codi": "4247930",
+    "edat": "10",
+    "potser": "situacions angoixants i drogues lícites o il·lícites"
+  },
+  {
+    "titol": "SF Patision blues, el mirall de la crisi grega",
+    "codi": "4734092",
+    "edat": "10",
+    "potser": "drogues lícites o il·lícites i llenguatge groller"
+  },
+  {
+    "titol": "Premis Vinari",
+    "codi": "premis-vinari",
+    "edat": "13",
+    "potser": "drogues lícites o il·lícites",
+    "serie": true
+  },
+  {
+    "titol": "Pop up xef",
+    "codi": "pop-up-xef",
+    "edat": "13",
+    "potser": "discriminació i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "Persones humanes",
+    "codi": "persones-humanes",
+    "edat": "13",
+    "serie": true
+  },
+  {
+    "titol": "Primera línia",
+    "codi": "primera-linia",
+    "edat": "10",
+    "potser": "situacions angoixants",
+    "serie": true
+  },
+  {
+    "titol": "Patates rosses",
+    "codi": "patates-rosses",
+    "edat": "13",
+    "potser": "continguts sexuals, drogues lícites o il·lícites i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "QuèQui",
+    "codi": "que-qui",
+    "edat": "10",
+    "potser": "continguts sexuals i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "Literal",
+    "codi": "literal",
+    "edat": "13",
+    "serie": true
+  },
+  {
+    "titol": "Veterinaris",
+    "codi": "veterinaris",
+    "edat": "10",
+    "serie": true
+  },
+  {
+    "titol": "30' Paradís en flames",
+    "codi": "6308813",
+    "edat": "13",
+    "potser": "situacions angoixants"
+  },
+  {
+    "titol": "SF Poirot, l'últim testimoni",
+    "codi": "6416204",
+    "edat": "7",
+    "potser": "continguts sexuals i situacions angoixants"
+  },
+  {
+    "titol": "Els quaderns de cuina de la Julie",
+    "codi": "els-quaderns-de-cuina-de-la-julie",
+    "edat": "13",
+    "potser": "drogues lícites o il·lícites",
+    "serie": true
+  },
+  {
+    "titol": "eldocu Binu, història de dues estrelles",
+    "codi": "6329819",
+    "edat": "10",
+    "potser": "drogues lícites o il·lícites, llenguatge groller i conductes incíviques"
+  },
+  {
+    "titol": "eldocu L'aventura del Catalunya",
+    "codi": "5604494",
+    "edat": "10",
+    "potser": "drogues lícites o il·lícites"
+  },
+  {
+    "titol": "30m Emergència climàtica: el crit de la terra",
+    "codi": "6082852",
+    "edat": "7",
+    "potser": "situacions angoixants i conductes incíviques"
+  },
+  {
+    "titol": "eldocu Utopia iogurt (llargmetratge)",
+    "codi": "6134559",
+    "edat": "10",
+    "potser": "llenguatge groller"
+  },
+  {
+    "titol": "eldocu Utopia iogurt (llargmetratge)",
+    "codi": "6134559",
+    "edat": "10",
+    "potser": "llenguatge groller"
+  },
+  {
+    "titol": "Emocionari il·lustrat",
+    "codi": "emocionari-illustrat",
+    "edat": "13",
+    "potser": "continguts sexuals",
+    "serie": true
+  },
+  {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
     "titol": "13 anys... i un dia",
     "codi": "tretze-anys-i-un-dia",
@@ -19776,7 +19903,7 @@
   {
     "titol": "Persona infiltrada",
     "codi": "persona-infiltrada",
-    "edat": "13",
+    "edat": "10",
     "orig": "TP",
     "serie": true,
     "tv3": true
