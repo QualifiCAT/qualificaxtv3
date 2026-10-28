@@ -5015,10 +5015,11 @@
     "potser": "llenguatge groller"
   },
   {
-    "titol": "eldocu Utopia iogurt (llargmetratge)",
-    "codi": "6134559",
-    "edat": "10",
-    "potser": "llenguatge groller"
+    "titol": "Emocionari il·lustrat",
+    "codi": "emocionari-illustrat",
+    "edat": "13",
+    "potser": "continguts sexuals",
+    "serie": true
   },
   {
     "titol": "Emocionari il·lustrat",
@@ -5026,6 +5027,101 @@
     "edat": "13",
     "potser": "continguts sexuals",
     "serie": true
+  },
+  {
+    "titol": "Philippe Echaroux, il·luminar el món",
+    "codi": "philippe-echaroux-illuminar-el-mon",
+    "edat": "7",
+    "potser": "discriminació",
+    "serie": true
+  },
+  {
+    "titol": "Per sempre (o no)",
+    "codi": "per-sempre-o-no",
+    "edat": "13",
+    "potser": "continguts sexuals",
+    "serie": true
+  },
+  {
+    "titol": "Unfold",
+    "codi": "unfold",
+    "edat": "10",
+    "potser": "llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "Living Europa",
+    "codi": "living-europa",
+    "edat": "10",
+    "potser": "continguts sexuals i drogues lícites o il·lícites",
+    "serie": true
+  },
+  {
+    "titol": "Pròxima estació",
+    "codi": "proxima-estacio",
+    "edat": "10",
+    "potser": "drogues lícites o il·lícites i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "Psico express",
+    "codi": "psico-express",
+    "edat": "13",
+    "potser": "continguts sexuals, drogues lícites o il·lícites, discriminació i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "Psico express",
+    "codi": "psico-express",
+    "edat": "13",
+    "potser": "continguts sexuals, drogues lícites o il·lícites, discriminació i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "Planeta dinàmic",
+    "codi": "planeta-dinamic",
+    "edat": "7",
+    "potser": "violència, situacions angoixants i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "10 cites",
+    "codi": "10cites",
+    "edat": "10",
+    "serie": true
+  },
+  {
+    "titol": "Les meravelles del mar",
+    "codi": "les-meravelles-del-mar",
+    "edat": "0",
+    "serie": true
+  },
+  {
+    "titol": "Pobles sota terra",
+    "codi": "pobles-sota-terra",
+    "edat": "10",
+    "potser": "drogues lícites o il·lícites",
+    "serie": true
+  },
+  {
+    "titol": "Per què volen els avions?",
+    "codi": "per-que-volen-els-avions",
+    "edat": "10",
+    "potser": "drogues lícites o il·lícites i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "Pop en trànsit",
+    "codi": "pop-en-transit",
+    "edat": "10",
+    "potser": "drogues lícites o il·lícites i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "SF Pòlio, crònica d'una negligència",
+    "codi": "4895511",
+    "edat": "10",
+    "potser": "situacions angoixants"
   },
   {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
