@@ -5223,6 +5223,77 @@
     "serie": true
   },
   {
+    "titol": "L'ofici de viure",
+    "codi": "lofici-de-viure",
+    "edat": "13",
+    "potser": "situacions angoixants",
+    "serie": true
+  },
+  {
+    "titol": "Quèquicom",
+    "codi": "quequicom",
+    "edat": "13",
+    "serie": true
+  },
+  {
+    "titol": "Quatre gats",
+    "codi": "quatre-gats",
+    "edat": "10",
+    "potser": "situacions angoixants i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "Rols de parella",
+    "codi": "rols-de-parella",
+    "edat": "10",
+    "potser": "continguts sexuals, drogues lícites o il·lícites i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "Retrats",
+    "codi": "retrats",
+    "edat": "13",
+    "serie": true
+  },
+  {
+    "titol": "Xplorers",
+    "codi": "xplorers",
+    "edat": "0",
+    "serie": true
+  },
+  {
+    "titol": "Qui els va parir!",
+    "codi": "qui-els-va-parir",
+    "edat": "10",
+    "potser": "continguts sexuals, drogues lícites o il·lícites, llenguatge groller i conductes incíviques",
+    "serie": true
+  },
+  {
+    "titol": "SF Ramon Trias Fargas. En primera persona",
+    "codi": "6190422",
+    "edat": "10",
+    "potser": "drogues lícites o il·lícites"
+  },
+  {
+    "titol": "SF Ramon Trias Fargas. En primera persona",
+    "codi": "6190422",
+    "edat": "10",
+    "potser": "drogues lícites o il·lícites"
+  },
+  {
+    "titol": "This is art",
+    "codi": "this-is-art",
+    "edat": "13",
+    "potser": "continguts sexuals, situacions angoixants i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "30' Ravensbrück, l'infern de les dones",
+    "codi": "6321364",
+    "edat": "13",
+    "potser": "violència i situacions angoixants"
+  },
+  {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
     "titol": "13 anys... i un dia",
     "codi": "tretze-anys-i-un-dia",
@@ -7734,6 +7805,7 @@
     "edat": "13",
     "orig": "TP (algunes emissions: 13)",
     "cac": "13",
+    "potser": "violència i continguts sexuals",
     "serie": true,
     "tv3": true,
     "33": true,
