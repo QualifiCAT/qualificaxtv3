@@ -5124,6 +5124,105 @@
     "potser": "situacions angoixants"
   },
   {
+    "titol": "Quart segona",
+    "codi": "quart-segona",
+    "edat": "10",
+    "potser": "drogues lícites o il·lícites i conductes incíviques",
+    "serie": true
+  },
+  {
+    "titol": "SF Què mengem?",
+    "codi": "4106739",
+    "edat": "10",
+    "potser": "situacions angoixants"
+  },
+  {
+    "titol": "SF Qui em pot adoptar?",
+    "codi": "6281754",
+    "edat": "10",
+    "potser": "situacions angoixants"
+  },
+  {
+    "titol": "30' Que ve el llop!",
+    "codi": "6128153",
+    "edat": "10",
+    "potser": "situacions angoixants i drogues lícites o il·lícites"
+  },
+  {
+    "titol": "SF Rebels",
+    "codi": "6322094",
+    "edat": "10",
+    "potser": "llenguatge groller"
+  },
+  {
+    "titol": "SF Rere la pista del capità Cardona",
+    "codi": "6217972",
+    "edat": "0",
+    "potser": "NO RES"
+  },
+  {
+    "titol": "30' Renovables, l'assignatura pendent",
+    "codi": "6141404",
+    "edat": "0",
+    "potser": "NO RES"
+  },
+  {
+    "titol": "SF Reiniciar les aules",
+    "codi": "6144900",
+    "edat": "10",
+    "potser": "continguts sexuals"
+  },
+  {
+    "titol": "SF Reiniciar les aules",
+    "codi": "6144900",
+    "edat": "10",
+    "potser": "continguts sexuals"
+  },
+  {
+    "titol": "30' Residències, els grans oblidats",
+    "codi": "6042198",
+    "edat": "10",
+    "potser": "situacions angoixants"
+  },
+  {
+    "titol": "SF Rialb, l'últim pantà",
+    "codi": "6225901",
+    "edat": "7",
+    "potser": "situacions angoixants i llenguatge groller"
+  },
+  {
+    "titol": "SF Revolució solar",
+    "codi": "5674068",
+    "edat": "7",
+    "potser": "llenguatge groller i conductes incíviques"
+  },
+  {
+    "titol": "eldocu Red c*nt, repensant la regla",
+    "codi": "6208699",
+    "edat": "10",
+    "potser": "continguts sexuals i llenguatge groller"
+  },
+  {
+    "titol": "Rat Rank",
+    "codi": "rat-rank",
+    "edat": "7",
+    "serie": true
+  },
+  {
+    "titol": "Quin cacau!",
+    "codi": "quin-cacau",
+    "edat": "10",
+    "potser": "llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "L'ofici de viure",
+    "codi": "lofici-de-viure",
+    "edat": "13",
+    "potser": "situacions angoixants",
+    "serie": true
+  },
+  {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
     "titol": "13 anys... i un dia",
     "codi": "tretze-anys-i-un-dia",
