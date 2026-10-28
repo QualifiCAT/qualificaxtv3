@@ -5324,6 +5324,27 @@
     "potser": "situacions angoixants, llenguatge groller i conductes incíviques"
   },
   {
+    "titol": "Històries gegants",
+    "codi": "histories-gegants",
+    "edat": "7",
+    "potser": "situacions angoixants, discriminació i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "Rauxa",
+    "codi": "rauxa",
+    "edat": "7",
+    "potser": "situacions angoixants i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "Bèsties i flames",
+    "codi": "besties-flames",
+    "edat": "10",
+    "potser": "situacions angoixants i drogues lícites o il·lícites",
+    "serie": true
+  },
+  {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
     "titol": "13 anys... i un dia",
     "codi": "tretze-anys-i-un-dia",
@@ -20132,6 +20153,15 @@
     "sx3": true,
     "raons": "Violència ocasional, versemblant, explícita, d'intensitat greu, no legitimada",
     "mesinfo": "<b>Violència</b><br>Hi ha violència freqüent, irreal, no explícita, lleu i legitimada. No obstant això, destaquen dues escenes especialment cruents, on disparen a un home i mor dessagnat, i on apunyalen gràficament a un altre home.<br><br>Hi ha por i angoixa freqüent d'afectació mitjana, llenguatge groller freqüent d'intensitat baixa, consum de drogues lícites presentat de manera negativa, i una referència sexual d'explicitació baixa, en relació amb un personatge femení secundari presentat de manera sexualitzada durant tota la pel·lícula."
+  },
+  {
+    "titol": "Òpera en texans",
+    "codi": "opera-en-texans",
+    "edat": "10",
+    "orig": "TP",
+    "serie": true,
+    "33": true,
+    "misc": true
   },
   {
     "titol": "Oques Grasses: l'últim concert",
