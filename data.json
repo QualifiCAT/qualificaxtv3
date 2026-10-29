@@ -5345,6 +5345,262 @@
     "serie": true
   },
   {
+    "titol": "Tarda oberta",
+    "codi": "tarda-oberta",
+    "edat": "10",
+    "serie": true
+  },
+  {
+    "titol": "Tabús",
+    "codi": "tabus",
+    "edat": "13",
+    "serie": true
+  },
+  {
+    "titol": "30' Sabem acollir?",
+    "codi": "5817485",
+    "edat": "10",
+    "potser": "situacions angoixants"
+  },
+  {
+    "titol": "30' Salvar la Costa Brava",
+    "codi": "5831366",
+    "edat": "7",
+    "potser": "conductes incíviques"
+  },
+  {
+    "titol": "SF Sègula. El futur de les Terres de l'Ebre",
+    "codi": "4463471",
+    "edat": "7",
+    "potser": "llenguatge groller"
+  },
+  {
+    "titol": "30' Senglar, el veí salvatge",
+    "codi": "6157010",
+    "edat": "13",
+    "potser": "situacions angoixants"
+  },
+  {
+    "titol": "SF Sense pietat: La història secreta del Monopoly",
+    "codi": "6349001",
+    "edat": "7",
+    "potser": "discriminació"
+  },
+  {
+    "titol": "SF Sense metges, camí del col·lapse",
+    "codi": "6223727",
+    "edat": "7",
+    "potser": "situacions angoixants i llenguatge groller"
+  },
+  {
+    "titol": "Sergio & Serguéi",
+    "codi": "6192571",
+    "edat": "13",
+    "potser": "drogues lícites o il·lícites"
+  },
+  {
+    "titol": "30' Sense batec",
+    "codi": "5824594",
+    "edat": "13",
+    "potser": "situacions angoixants"
+  },
+  {
+    "titol": "SF Serrat, el noi del Poble-Sec",
+    "codi": "5717566",
+    "edat": "10",
+    "potser": "continguts sexuals i drogues lícites o il·lícites"
+  },
+  {
+    "titol": "Singled (out)",
+    "codi": "5836066",
+    "edat": "10",
+    "potser": "drogues lícites o il·lícites"
+  },
+  {
+    "titol": "30' Si un sol alumne ho demana",
+    "codi": "4544311",
+    "edat": "0",
+    "potser": "situacions angoixants"
+  },
+  {
+    "titol": "30' Si un sol alumne ho demana",
+    "codi": "4544311",
+    "edat": "0",
+    "potser": "situacions angoixants"
+  },
+  {
+    "titol": "Silenci?",
+    "codi": "silenci",
+    "edat": "18",
+    "serie": true
+  },
+  {
+    "titol": "Sexes",
+    "codi": "sexes",
+    "edat": "18",
+    "serie": true
+  },
+  {
+    "titol": "Somiers",
+    "codi": "somiers",
+    "edat": "13",
+    "serie": true
+  },
+  {
+    "titol": "Set de nit",
+    "codi": "set-de-nit",
+    "edat": "13",
+    "serie": true
+  },
+  {
+    "titol": "eldocu The Unfixing",
+    "codi": "6407268",
+    "edat": "10",
+    "potser": "situacions angoixants"
+  },
+  {
+    "titol": "SF Un estel fugaç",
+    "codi": "6364034",
+    "edat": "13",
+    "potser": "situacions angoixants"
+  },
+  {
+    "titol": "Som dones",
+    "codi": "som-dones",
+    "edat": "13",
+    "potser": "continguts sexuals",
+    "serie": true
+  },
+  {
+    "titol": "Ari",
+    "codi": "6268878",
+    "edat": "10",
+    "potser": "situacions angoixants"
+  },
+  {
+    "titol": "Susi, una elefanta a l'habitació",
+    "codi": "6108005",
+    "edat": "7",
+    "potser": "situacions angoixants"
+  },
+  {
+    "titol": "Salpem!",
+    "codi": "salpem",
+    "edat": "10",
+    "serie": true
+  },
+  {
+    "titol": "SF Sting: Un home lliure",
+    "codi": "6357077",
+    "edat": "7",
+    "potser": "situacions angoixants, discriminació i llenguatge groller"
+  },
+  {
+    "titol": "SF Sota un cel tòxic",
+    "codi": "6313875",
+    "edat": "13",
+    "potser": "situacions angoixants"
+  },
+  {
+    "titol": "30' Sortir dels marges",
+    "codi": "6400930",
+    "edat": "7",
+    "potser": "discriminació"
+  },
+  {
+    "titol": "SF Solitud, la pandèmia de l'era digital",
+    "codi": "6142603",
+    "edat": "13",
+    "potser": "situacions angoixants i drogues lícites o il·lícites"
+  },
+  {
+    "titol": "30' Beirut: infàncies robades",
+    "codi": "6018967",
+    "edat": "13",
+    "potser": "violència i situacions angoixants"
+  },
+  {
+    "titol": "30' Beirut: infàncies robades",
+    "codi": "6018967",
+    "edat": "13",
+    "potser": "violència i situacions angoixants"
+  },
+  {
+    "titol": "eldocu No plorar mai",
+    "codi": "4521491",
+    "edat": "7",
+    "potser": "situacions angoixants"
+  },
+  {
+    "titol": "30' Un de cada quatre",
+    "codi": "5474974",
+    "edat": "13",
+    "potser": "situacions angoixants"
+  },
+  {
+    "titol": "SF Sol a Groenlàndia",
+    "codi": "6348824",
+    "edat": "7",
+    "potser": "llenguatge groller"
+  },
+  {
+    "titol": "SF Sobreviure a la nevera",
+    "codi": "5464431",
+    "edat": "7",
+    "potser": "conductes incíviques"
+  },
+  {
+    "titol": "30' Sixena: art de frontera",
+    "codi": "5648504",
+    "edat": "0",
+    "potser": "NO RES"
+  },
+  {
+    "titol": "30' Pintures sentenciades",
+    "codi": "6369690",
+    "edat": "0",
+    "potser": "NO RES"
+  },
+  {
+    "titol": "30' Vides en venda",
+    "codi": "6343939",
+    "edat": "13",
+    "potser": "situacions angoixants"
+  },
+  {
+    "titol": "60' Síria després d'Assad",
+    "codi": "6392573",
+    "edat": "13",
+    "potser": "violència i situacions angoixants"
+  },
+  {
+    "titol": "Sota terra",
+    "codi": "sotaterra",
+    "edat": "10",
+    "potser": "situacions angoixants i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "Senyora Isabel",
+    "codi": "senyora-isabel",
+    "edat": "10",
+    "potser": "situacions angoixants i drogues lícites o il·lícites",
+    "serie": true
+  },
+  {
+    "titol": "Secrets de Xangai",
+    "codi": "secrets-de-xangai",
+    "edat": "7",
+    "potser": "violència, situacions angoixants, drogues lícites o il·lícites, llenguatge groller i conductes incíviques",
+    "serie": true
+  },
+  {
+    "titol": "La família",
+    "codi": "familia",
+    "edat": "7",
+    "serie": true
+  },
+  {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
     "titol": "13 anys... i un dia",
     "codi": "tretze-anys-i-un-dia",
@@ -20157,11 +20413,18 @@
   {
     "titol": "Òpera en texans",
     "codi": "opera-en-texans",
-    "edat": "10",
+    "edat": "13",
     "orig": "TP",
+    "potser": "continguts sexuals i llenguatge groller",
     "serie": true,
     "33": true,
     "misc": true
+  },
+  {
+    "titol": "Òpera en texans - Lulu",
+    "codi": "4576931",
+    "edat": "13",
+    "raons": "Continguts sexuals freqüents d'explicitació mitjana"
   },
   {
     "titol": "Oques Grasses: l'últim concert",
@@ -21815,6 +22078,44 @@
     "mesinfo": "<b>Sexe</b><br>Una cançó que sona de fons inclou: 'Quan engego la moto, quin orgasme sideral'. Un presentador diu que 'en català es pot fer porno, es pot fer sexe'.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa, com 'merda', 'fins als ous', 'hosti' o 'fotre', en contextos distesos i sense intencionalitat agressiva. Hi ha situacions de por o angoixa moderades quan es mostren, de manera breu i poc detallada, imatges i narracions de successos que la ràdio ha cobert durant aquests 40 anys, incloent-hi desastres naturals, atemptats, l'atac a les Torres Bessones, accidents de tren, guerres com la d'Ucraïna o la violència policial del referèndum del 2017. Es mostren actors fumant o bevent en imatges molt fugaces provinents de pel·lícules, i es fa servir el terme 'ressaca' de manera metafòrica. En una ocasió, hi ha dones que denuncien que han patit masclisme a la feina on, per exemple, se les infravalorava per raó de sexe."
   },
   {
+    "titol": "Rupert i Sam",
+    "codi": "rupert-sam",
+    "edat": "0",
+    "orig": "TP",
+    "serie": true,
+    "sx3": true
+  },
+  {
+    "titol": "Rupert i Sam 1x01 - L'accident",
+    "codi": "5875354",
+    "edat": "0",
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, no legitimada"
+  },
+  {
+    "titol": "Rupert i Sam 1x02 - No estem sols",
+    "codi": "5875355",
+    "edat": "0",
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, no legitimada"
+  },
+  {
+    "titol": "Rupert i Sam 1x03 - Aigua no",
+    "codi": "5875949",
+    "edat": "0",
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa ocasional d'afectació lleu"
+  },
+  {
+    "titol": "Rupert i Sam 1x04 - La pilota",
+    "codi": "5875947",
+    "edat": "0",
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa ocasional d'afectació lleu"
+  },
+  {
+    "titol": "Rupert i Sam 1x23 - El fantasma",
+    "codi": "5883278",
+    "edat": "0",
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa ocasional d'afectació lleu"
+  },
+  {
     "titol": "Saben aquell",
     "codi": "6343521",
     "edat": "10",
@@ -22702,10 +23003,25 @@
   {
     "titol": "Sota el sofà",
     "codi": "sota-el-sofa",
-    "edat": "0",
+    "edat": "7",
     "orig": "TP",
+    "potser": "violència, continguts sexuals i llenguatge groller",
     "serie": true,
     "sx3": true
+  },
+  {
+    "titol": "Sota el sofà 1x17 - Les cendres de l'avi",
+    "codi": "6349031",
+    "edat": "7",
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, legitimada<br>Continguts sexuals ocasionals d'explicitació baixa<br>Llenguatge groller ocasional d'intensitat baixa",
+    "mesinfo": "<b>Violència</b><br>Es fan comentaris presentant les guerres com a emocionants i divertides, així com armes com ara bazuques o explosions. Es fan comentaris burlant-se d'un personatge que representa un avi, ja que les seves cendres cauen i qualsevol cosa que se les empassa pren el seu esperit; se'l presenta com a maldestre i poc emocionant, tot i que al final de l'episodi es dona un missatge contrari.<br><br><b>Sexe</b><br>Un personatge prem un botó del comandament i es comença a sentir música romàntica i una persona que exclama: 'al canal dels dibuixos hi surt un senyor ensenyant el cul!'.<br><br><b>Llenguatge groller</b><br>Un personatge fa un pet de forma intencionada, tot i que immediatament es disculpa. També es fan servir insults com 'truja analfabeta' o 'vell repugnant'."
+  },
+  {
+    "titol": "Sota el sofà 1x18 - El crim",
+    "codi": "6349030",
+    "edat": "7",
+    "raons": "Violència freqüent, irreal, no explícita, d'intensitat molt lleu, legitimada",
+    "mesinfo": "<b>Violència</b><br>Un personatge sovint profereix comentaris irrespectuosos i insensibles contra altres personatges. Quan aquest personatge negatiu revela que ha desaparegut per cridar la seva atenció, la resta se'n vengen. Enterrada perquè no molesti, crida que, quan surti, els tallarà el coll a tots. També, en una altra escena, un personatge perd la paciència i s'abraona contra un altre.<br><br>Hi ha situacions ocasionals de por i angoixa lleu, per fer al·lusions a la mort."
   },
   {
     "titol": "Star contra las fuerzas del mal",
@@ -22776,6 +23092,55 @@
     "sx3": true,
     "raons": "Violència freqüent, irreal, explícita, d'intensitat lleu, legitimada",
     "mesinfo": "<b>Violència</b><br>Hi ha una persecució, amb edificis enfonsant-se, atropellaments i crits. Dos personatges discuteixen, es barallen físicament i un intenta donar-li un cop de puny. Els herois lluiten contra drons que treuen rajos làser, hi ha tot d'explosions, trets i tensió. L'heroi fa esnifar un somnífer al seu company. Un dolent congela un personatge amb una arma, i es tem per la seva vida; se l'intenta reviure amb un desfibril·lador. Es disparen tranquil·litzants per intentar aturar un drac fora de control. Bufetegen un personatge fins que es desperta. El dolent torna a aparèixer i intenta glaçar l'heroi i aturar-lo llençant-li objectes voluminosos a sobre; es barallen, hi ha tirotejos, cops de puny i es llencen contra la paret. En una altra batalla, tots lluiten entre ells: l'heroi esgarrapa a l'ull, dona cops de puny i fa cruixir els braços d'uns dolents; el malvat fa servir la seva arma de congelació i llença a la gent contra el terra. Hi ha més moments de tensió quan es creu que gent propera a alguns personatges mor.<br><br>Hi ha algunes actituds incíviques, contextualitzades, com quan el protagonista és arrogant amb el seu company, menteix sobre la seva identitat o juga amb un extintor per poder anar més de pressa. Hi ha llenguatge groller ocasional d'intensitat baixa, com 'estúpid' o 'burro'. Es veuen begudes alcohòliques breument en una ocasió, però no es consumeixen."
+  },
+  {
+    "titol": "Suckers",
+    "codi": "suckers",
+    "edat": "7",
+    "orig": "TP",
+    "potser": "violència",
+    "serie": true,
+    "sx3": true
+  },
+  {
+    "titol": "Suckers 1x01 - Ventoses",
+    "codi": "3177650",
+    "edat": "0",
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, no legitimada"
+  },
+  {
+    "titol": "Suckers 1x22 - Brutícia",
+    "codi": "3268973",
+    "edat": "0"
+  },
+  {
+    "titol": "Suckers 1x44 - La dimensió Panda",
+    "codi": "3445811",
+    "edat": "7",
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat lleu, no legitimada"
+  },
+  {
+    "titol": "Suckers 1x48 - Quins ous!",
+    "codi": "3473290",
+    "edat": "0"
+  },
+  {
+    "titol": "Suckers 1x65 - Bojos pel Panda",
+    "codi": "3581011",
+    "edat": "7",
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat lleu, no legitimada"
+  },
+  {
+    "titol": "Suckers 1x81 - Càmera i acció!",
+    "codi": "3652910",
+    "edat": "0",
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, no legitimada"
+  },
+  {
+    "titol": "Suckers 1x97 - El cotxe domòtic",
+    "codi": "3776630",
+    "edat": "0",
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, no legitimada"
   },
   {
     "titol": "Superthings: Rivals of Kaboom, Kazoom power",
