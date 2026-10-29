@@ -5601,6 +5601,97 @@
     "serie": true
   },
   {
+    "titol": "Temps mort",
+    "codi": "tempsmort",
+    "edat": "13",
+    "potser": "drogues lícites o il·lícites",
+    "serie": true
+  },
+  {
+    "titol": "30' Taules parades",
+    "codi": "6124442",
+    "edat": "7",
+    "potser": "llenguatge groller"
+  },
+  {
+    "titol": "Garrick",
+    "codi": "6376590",
+    "edat": "7",
+    "potser": "continguts sexuals i llenguatge groller"
+  },
+  {
+    "titol": "SF Tricicle 40",
+    "codi": "6063587",
+    "edat": "7",
+    "potser": "continguts sexuals, drogues lícites o il·lícites i llenguatge groller"
+  },
+  {
+    "titol": "30' Tribunal de Comptes",
+    "codi": "6155183",
+    "edat": "7",
+    "potser": "situacions angoixants i conductes incíviques"
+  },
+  {
+    "titol": "30' Construint la taula",
+    "codi": "6125731",
+    "edat": "7",
+    "potser": "violència"
+  },
+  {
+    "titol": "30' Trànsit, menors transsexuals",
+    "codi": "6278328",
+    "edat": "10",
+    "potser": "situacions angoixants"
+  },
+  {
+    "titol": "30' Tombes de sorra",
+    "codi": "6138983",
+    "edat": "13",
+    "potser": "violència i situacions angoixants"
+  },
+  {
+    "titol": "SF Tomàs Alcoberro, entre l'Orient i Occident",
+    "codi": "3774150",
+    "edat": "13",
+    "potser": "violència"
+  },
+  {
+    "titol": "Tic tac",
+    "codi": "6382279",
+    "edat": "10",
+    "potser": "drogues lícites o il·lícites"
+  },
+  {
+    "titol": "30' Territori Os",
+    "codi": "5973666",
+    "edat": "10",
+    "potser": "llenguatge groller"
+  },
+  {
+    "titol": "Tempus fugit",
+    "codi": "5688066",
+    "edat": "10",
+    "potser": "drogues lícites o il·lícites, discriminació i llenguatge groller"
+  },
+  {
+    "titol": "Telenotícies",
+    "codi": "telenoticies",
+    "edat": "0",
+    "serie": true
+  },
+  {
+    "titol": "Notícies 3CatInfo",
+    "codi": "noticies-3catinfo",
+    "edat": "0",
+    "serie": true
+  },
+  {
+    "titol": "Mésnit",
+    "codi": "mesnit",
+    "edat": "0",
+    "serie": true
+  },
+  {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
     "titol": "13 anys... i un dia",
     "codi": "tretze-anys-i-un-dia",
@@ -23767,6 +23858,7 @@
     "codi": "tres-estrelles",
     "edat": "7",
     "orig": "TP",
+    "potser": "violència, continguts sexuals i drogues lícites o il·lícites",
     "serie": true,
     "tv3": true
   },
@@ -23777,8 +23869,8 @@
     "raons": "Continguts sexuals ocasionals d'explicitació baixa<br>Consum de drogues lícites (tabac), presentat de manera negativa"
   },
   {
-    "titol": "Tres estrelles 1x01 - Músics",
-    "codi": "5758986",
+    "titol": "Tres estrelles 1x02 - Arabs",
+    "codi": "5758966",
     "edat": "7",
     "raons": "Violència ocasional, irreal, no explícita, d'intensitat lleu, legitimada<br>Continguts sexuals ocasionals d'explicitació baixa"
   },
