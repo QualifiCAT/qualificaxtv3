@@ -5692,6 +5692,47 @@
     "serie": true
   },
   {
+    "titol": "Trenquin tòpics",
+    "codi": "trenquin-topics",
+    "edat": "13",
+    "potser": "drogues lícites o il·lícites i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "TV3xUnTub",
+    "codi": "tv3-x-un-tub",
+    "edat": "13",
+    "serie": true
+  },
+  {
+    "titol": "Tatuats pels Pirineus",
+    "codi": "tatuats-pels-pirineus",
+    "edat": "13",
+    "potser": "drogues lícites o il·lícites",
+    "serie": true
+  },
+  {
+    "titol": "Tot o res",
+    "codi": "tot-o-res",
+    "edat": "7",
+    "potser": "llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "Tocats de l'ala",
+    "codi": "tocats-de-lala",
+    "edat": "7",
+    "potser": "continguts sexuals i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "Tot anirà bé",
+    "codi": "tot-anira-be",
+    "edat": "13",
+    "potser": "drogues lícites o il·lícites i llenguatge groller",
+    "serie": true
+  },
+  {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
     "titol": "13 anys... i un dia",
     "codi": "tretze-anys-i-un-dia",
@@ -6140,6 +6181,13 @@
     "edat": "0",
     "orig": "TP",
     "raons": "Por i angoixa ocasional d'afectació lleu"
+  },
+  {
+    "titol": "30 minuts - Quan l'algoritme mata",
+    "codi": "6405495",
+    "edat": "13",
+    "orig": "18",
+    "raons": "Por i angoixa reiterada d'afectació mitjana"
   },
   {
     "titol": "30 minuts - Llibertaris, l'amenaça ultra",
@@ -20043,6 +20091,14 @@
     "mesinfo": "<b>Drogues</b><br>Una cançó que sona en una escena inclou referències al consum d'heroïna, sense que es faci menció sobre els seus efectes ('antes de morirte probarás el caballo, pínchate en la cara, puta, no te hará daño'). En un altre moment, sona una cançó que fa referència despreocupada al consum d'alcohol ('tengo to', tengo alcohol, buena vida...').<br><br><b>Llenguatge groller</b><br>Es fa un ús freqüent d'expressions altament grolleres com 'cony' ('fotos del meu cony', 'tothom té cony', 'com cony', 'coño'), 'puto', 'putada', 'fills de puta' o 'acojonado', entre d'altres.<br><br>Hi ha continguts sexuals freqüents d'explicitació baixa, atès que el documental tracta la filtració il·lícita d'unes fotografies íntimes, que només es mostren censurades o parcialment; també es comenta el cas d'un policia que fa intercanvi de parelles i que demana a una denunciant que li faci una foto despullat. Hi ha situacions freqüents de por i angoixa d'afectació mitjana, per la tensió que acompanya els moments en què la víctima revela que el pirata informàtic està enviant les seves fotos a cada cop més gent i l'amenaça augmenta; també es fan algunes referències al suïcidi i a la violència sexual (la víctima diu que es considera 'violada' per la sextorsió; es veu una notícia d'una dona que s'ha llevat la vida després que compartissin un vídeo sexual seu)."
   },
   {
+    "titol": "Nits sense ficció - Italo disco, el so dels 80",
+    "codi": "6324144",
+    "edat": "13",
+    "orig": "TP",
+    "raons": "Comentaris discriminatoris amb sanció neutra",
+    "mesinfo": "<b>Discriminació, racisme i xenofòbia</b><br>Una artista dels anys 80 retreu que unes 'feministes' l'agredissin perquè, segons elles, ensenyar el cos no era moral. Ella respon que moltes altres artistes ho fan i que el seu cos és seu, però que ho va fer per motius econòmics. Conclou dient que no es vol definir com a feminista o no feminista, sinó com a 'partidària de la igualtat de drets', 'drets que avui encara no tenim'.<br><br>Hi ha continguts sexuals ocasionals d'explicitació baixa, quan es comenta el 'sex appeal' d'algunes actrius, s'ensenyen fotografies lleugerament suggerents d'una cantant i es mostra una coberta d'un disc amb una dona amb els pits descoberts i els mugrons tapats. Hi ha llenguatge groller en una sola frase del documental, on es diu 'hòstia' i 'collons', així com imatges fugaces de tabac i de gerres de cervesa."
+  },
+  {
     "titol": "Nits sense ficció - Català, al resCat",
     "codi": "6328554",
     "edat": "10",
@@ -20104,7 +20160,7 @@
     "codi": "6344498",
     "edat": "13",
     "orig": "13",
-    "raons": "Presentació no detallada de situacions relacionades amb l’exercici de la pederàstia<br>Por i angoixa reiterada d'afectació mitjana<br>(Qualificació oficial del CAC)"
+    "raons": "Presentació no detallada de situacions relacionades amb l'exercici de la pederàstia<br>Por i angoixa reiterada d'afectació mitjana<br>(Qualificació oficial del CAC)"
   },
   {
     "titol": "Nits sense ficció - La trampa del clic",
@@ -22762,7 +22818,7 @@
     "edat": "13",
     "orig": "TP",
     "raons": "Violència ocasional, versemblant, explícita, d'intensitat greu, legitimada<br>Comentaris discriminatoris amb sanció neutra",
-    "mesinfo": "<b>Violència</b><br>Es reprodueix un greu relat de violència masclista on una dona manifesta haver rebut una bufetada del seu marit i maltractaments verbals, que la dona se sacrifica per alimentar la seva família i que creu que així ha complert amb el seu deure com a mare, i que l'home va agredir un dels fills colpejant-lo a la columna vertebral. La resposta que rep d'una consultoria és que s'ha de resignar, ha de complaure el seu home i no pot dissoldre el matrimoni. En una altra consulta, s'incita els homes a respondre amb violència per demostrar la seva masculinitat, inclús contra 'su mujer', perquè no es torni a burlar d'ell. En una altra, la dona que respon diu que agrediria la persona que pregunta 'con un par de cachetitos' per la seva suposada ignorància. En una altra, una dona tem que el seu germà abusi sexualment de la seva filla d'11 anys, sense donar detalls, i es pregunta si l'hauria de perdonar.<br><br><b>Discriminació, racisme i xenofòbia</b><br>A part dels continguts descrits a 'Violència', es fan afirmacions glorificant el culte al cos, que les dones realitzen l'ideal de la seva vida a la llar, i que avortar és un 'crim' que Déu castiga. També, en una de les cartes un home afirma haver-se distanciat dels seus amics als quals considera 'de l'altra vorera', i li responen que les seves tendències són 'normals' perquè li segueixen agradant les noies. Les afirmacions masclistes i homòfobes es presenten de manera neutra, atès que el protagonisme del documental recau permanentment i completament en les narracions de les cartes del consultori i en les imatges d'arxiu que les acompanyen, sense cap veu que les desautoritzi explícitament o implícitament (l'ús de música tenebrosa durant els relats d'actes violents no és suficient per considerar-ho sanció).<br><br>Hi ha continguts sexuals ocasionals d'explicitació mitjana en fer al·lusions a la prostitució (es pregunta si els homes van a 'casas públicas y mujeres de mundo'), a tocar el 'pecho' i en mostrar imatges d'un espectacle de cabaret, així com algunes al·lusions d'explicitació baixa. Hi ha situacions ocasionals de por i angoixa mitjana per alguns continguts descrits a les variables anteriors. Hi ha llenguatge groller ocasional d'intensitat baixa ('idiota', 'tonta')."
+    "mesinfo": "<b>Violència</b><br>Es reprodueix un greu relat de violència masclista on una dona manifesta haver rebut una bufetada del seu marit i maltractaments verbals, que la dona se sacrifica per alimentar la seva família i que creu que així ha complert amb el seu deure com a mare, i que l'home va agredir un dels fills colpejant-lo a la columna vertebral. La resposta que rep d'una consultoria és que s'ha de resignar, ha de complaure el seu home i no pot dissoldre el matrimoni. En una altra consulta, s'incita els homes a respondre amb violència per demostrar la seva masculinitat, inclús contra 'su mujer', perquè no es torni a burlar d'ell. En una altra, la dona que respon diu que agrediria la persona que pregunta 'con un par de cachetitos' per la seva suposada ignorància. En una altra, una dona tem que el seu germà abusi sexualment de la seva filla d'11 anys, sense donar detalls, i es pregunta si l'hauria de perdonar.<br><br><b>Discriminació, racisme i xenofòbia</b><br>A part dels continguts descrits a 'Violència', es fan afirmacions glorificant el culte al cos, que les dones realitzen l'ideal de la seva vida a la llar, i que avortar és un 'crim' que Déu castiga. També, en una de les cartes un home afirma haver-se distanciat dels seus amics als quals considera 'de l'altra vorera', i li responen que les seves tendències són 'normals' perquè li segueixen agradant les noies. Les afirmacions masclistes i homòfobes es presenten de manera neutra, atès que el protagonisme del documental recau permanentment i completament en les narracions de les cartes del consultori i en les imatges d'arxiu que les acompanyen, sense cap veu que les desautoritzi explícitament o implícitament (l'ús de música tenebrosa durant els relats d'actes violents no és suficient per considerar-ho sanció).<br><br>Hi ha continguts sexuals ocasionals d'explicitació mitjana en fer al·lusions a la prostitució (es pregunta si els homes van a 'casas públicas y mujeres de mundo'), a tocar el 'pecho' i en mostrar imatges d'un espectacle de cabaret, així com algunes al·lusions d'explicitació baixa. Hi ha situacions ocasionals de por i angoixa mitjana per alguns continguts descrits a les variables anteriors. Hi ha llenguatge groller ocasional d'intensitat baixa ('idiota', 'tonta'). Hi ha imatges fugaces de consum de tabac i alcohol."
   },
   {
     "titol": "Sense ficció - Torneu-me el fill! Els nens robats del franquisme",
