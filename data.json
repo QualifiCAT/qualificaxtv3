@@ -5980,6 +5980,12 @@
     "potser": "drogues lícites o il·lícites"
   },
   {
+    "titol": "El crac",
+    "codi": "el-crac",
+    "edat": "13",
+    "serie": true
+  },
+  {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
     "titol": "13 anys... i un dia",
     "codi": "tretze-anys-i-un-dia",
