@@ -106,6 +106,18 @@
     "serie": true
   },
   {
+    "titol": "Projecte Beta",
+    "codi": "projecte-beta",
+    "edat": "10",
+    "serie": true
+  },
+  {
+    "titol": "Betapodcast",
+    "codi": "beta",
+    "edat": "7",
+    "serie": true
+  },
+  {
     "titol": "American History X",
     "codi": "6420484",
     "edat": "18",
