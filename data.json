@@ -14,7 +14,7 @@
   {
     "titol": "xd",
     "codi": "contenidors",
-    "edat": ["sense-ficcio", "30-minuts", "60-minuts", "el-monoleg-de-lany", "premis-gaudi-audio", "premis-gaudi", "el-documental", "catalunya-aixeca-el-telo", "punt-de-no-retorn", "sala-33", "el-convidat", "daquidalla"]
+    "edat": ["sense-ficcio", "30-minuts", "60-minuts", "el-monoleg-de-lany", "premis-gaudi-audio", "premis-gaudi", "el-documental", "catalunya-aixeca-el-telo", "punt-de-no-retorn", "sala-33", "el-convidat", "daquidalla", "sputnik"]
   },
   {
     "_comment": "tota la història que s'ha de fer per a les col·leccions",
@@ -579,6 +579,13 @@
     "titol": "EVA et busca",
     "codi": "eva-et-busca",
     "edat": "10",
+    "serie": true
+  },
+  {
+    "titol": "Vèrtex",
+    "codi": "vertex",
+    "edat": "10",
+    "potser": "situacions angoixants i llenguatge groller",
     "serie": true
   },
   {
@@ -6009,6 +6016,43 @@
     "codi": "secrets-de-familia",
     "edat": "13",
     "potser": "violència, situacions angoixants i drogues lícites o il·lícites",
+    "serie": true
+  },
+  {
+    "titol": "Sobreviure a l'incendi. El documental de Zoo",
+    "codi": "6343942",
+    "edat": "10",
+    "potser": "drogues lícites o il·lícites i llenguatge groller"
+  },
+  {
+    "titol": "eldocu Revolutionary Quartet: L'enigma Gerhard",
+    "codi": "6249808",
+    "edat": "10",
+    "potser": "llenguatge groller"
+  },
+  {
+    "titol": "SF L'home orquestra",
+    "codi": "5773617",
+    "edat": "13",
+    "potser": "drogues lícites o il·lícites"
+  },
+  {
+    "titol": "sputnik Toti Soler: d'una manera silenciosa",
+    "codi": "4770932",
+    "edat": "10",
+    "potser": "drogues lícites o il·lícites i llenguatge groller"
+  },
+  {
+    "titol": "Sala 30",
+    "codi": "sala-30",
+    "edat": "10",
+    "potser": "continguts sexuals, drogues lícites o il·lícites i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "Aura",
+    "codi": "aura",
+    "edat": "0",
     "serie": true
   },
   {
@@ -15510,6 +15554,40 @@
     "raons": "Violència ocasional, versemblant, explícita, d'intensitat greu, no legitimada<br>Continguts sexuals ocasionals d'explicitació alta<br>Llenguatge groller freqüent d'intensitat alta"
   },
   {
+    "titol": "Increïble però fals",
+    "codi": "increible-pero-fals",
+    "edat": "13",
+    "orig": "TP",
+    "potser": "situacions angoixants",
+    "serie": true,
+    "3cat": true
+  },
+  {
+    "titol": "Increïble però fals 1x01 - La màgia",
+    "codi": "6433449",
+    "edat": "10",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada<br>Llenguatge groller ocasional d'intensitat alta"
+  },
+  {
+    "titol": "Increïble però fals 1x02 - Els miracles",
+    "codi": "6433444",
+    "edat": "13",
+    "raons": "Por i angoixa freqüent d'afectació alta",
+    "mesinfo": "<b>Por i angoixa</b><br>Es mostra diverses vegades i amb una durada i insistència considerable un truc de màgia en què sembla que s'insereixi una mà dins el ventre d'un home i se li estiguin extraient diversos òrgans interns.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa. Hi ha conductes i valors incívics amb sanció negativa."
+  },
+  {
+    "titol": "Increïble però fals 1x03 - Els tarotistes",
+    "codi": "6433448",
+    "edat": "10",
+    "raons": "Llenguatge groller ocasional d'intensitat alta"
+  },
+  {
+    "titol": "Increïble però fals 1x04 - Els espiritistes",
+    "codi": "6433452",
+    "edat": "10",
+    "raons": "Llenguatge groller ocasional d'intensitat alta"
+  },
+  {
     "titol": "Influenx3r",
     "codi": "influenx3r",
     "edat": "10",
@@ -23593,6 +23671,32 @@
     "raons": "Por i angoixa freqüent d'afectació mitjana"
   },
   {
+    "titol": "Sentir",
+    "codi": "sentir",
+    "edat": "7",
+    "orig": "TP",
+    "potser": "llenguatge groller",
+    "serie": true,
+    "3cat": true
+  },
+  {
+    "titol": "Sentir 1x04 - Art a la pell, per Noelia Real",
+    "codi": "6431901",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu"
+  },
+  {
+    "titol": "Sentir 1x14 - Cuinar és estimar, per Ismael Romero",
+    "codi": "6431910",
+    "edat": "0",
+    "mesinfo: "Hi ha un sol ús de llenguatge groller ('hòstia'). El protagonista beu un got amb un líquid fosc que recorda al vi, però no es menciona quina beguda és en cap moment."
+  },
+  {
+    "titol": "Sentir 1x15 - Una descàrrega de creativitat, per Xavi de la Iglesia",
+    "codi": "6431911",
+    "edat": "0"
+  },
+  {
     "titol": "Si no t'hagués conegut",
     "codi": "si-no-thagues-conegut",
     "edat": "13",
@@ -24556,6 +24660,21 @@
     "tv3": true
   },
   {
+    "titol": "Tot queda en família",
+    "codi": "tot-queda-en-familia",
+    "edat": "10",
+    "orig": "TP",
+    "potser": "continguts sexuals i drogues lícites o il·lícites",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Tot queda en família 1x03 - El sexe i la rauxa",
+    "codi": "5841632",
+    "edat": "10",
+    "raons": "Continguts sexuals reiterats d'explicitació baixa, ocasionalment mitjana<br>Consum de drogues lícites (alcohol), presentat de manera neutra"
+  },
+  {
     "titol": "Tot torna",
     "codi": "tot-torna",
     "edat": "13",
@@ -25012,6 +25131,22 @@
     "edat": "13",
     "raons": "Violència ocasional, versemblant, explícita, d'intensitat greu, no legitimada<br>Por i angoixa reiterada d'afectació mitjana<br>Llenguatge groller freqüent d'intensitat alta<br>(Qualificació oficial del CAC)",
     "mesinfo": "El següent contingut està extret de l'informe 6/2009 de l'Àrea de Continguts del CAC.<br><br><b>Violència</b><br>Una persona amenaça un home amb una pistola. Disparen dos trets a un home, que queda estès a terra i la policia no el troba fins a l'endemà, quan ja és mort. Una persona col·loca un artefacte explosiu sota un cotxe; quan el propietari entra al cotxe, aquest explota.<br><br><b>Por i angoixa</b><br>Tota la trama del capítol gira entorn a la mort violenta de dos dels protagonistes de la telesèrie i l'impacte emocional sobre la resta de personatges.<br><br><b>Llenguatge groller</b><br>Per exemple: 'no sé què collons vaig fer', 'que sí! collons!', 'cagun tot!', 'joder!', '¡coño!', 'agafi aquests assassins fills de puta!, 'ho han aconseguit aquests fills de puta', 'a què collons es dedica?'."
+  },
+  {
+    "titol": "Viatge a l'Oest",
+    "codi": "viatge-a-loest",
+    "edat": "13",
+    "orig": "TP",
+    "potser": "violència",
+    "serie": true,
+    "3cat": true
+  },
+  {
+    "titol": "Viatge a l'Oest 1x02 - Honor i venjança",
+    "codi": "6410337",
+    "edat": "13",
+    "raons": "Violència freqüent, versemblant, explícita, d'intensitat greu, no legitimada",
+    "mesinfo": "<b>Violència</b><br>Es mostren freqüentment escenes breus de pel·lícules o sèries on es mostren baralles amb espases i altres armes, sovint amb presència de sang. Per exemple, s'ensenya una escena de 'Kill Bill' on un home rep una estocada al ventre, una decapitació no explícita com a part d'un ritual, un cos dessagnat amb desenes de fletxes clavades, una escena d'un home ferit al coll d'on surt copiosament sang, i escenes de pel·lícules ambientades en un context més contemporani amb armes de foc i trets a l'estómac. També es fan referències a una tècnica de suïcidi que consisteix en tallar-se el ventre, així com a casos de violació, aquest cop sense entrar en detalls.<br><br>Hi ha continguts sexuals ocasionals d'explicitació mitjana per referències a 'barris de plaer' i a la prostitució. Hi ha por i angoixa freqüent d'afectació mitjana pels continguts violents anteriors. Hi ha un sol ús de llenguatge groller ('cagada')."
   },
   {
     "titol": "Viatges Pokémon",
