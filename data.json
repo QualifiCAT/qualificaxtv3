@@ -14,7 +14,7 @@
   {
     "titol": "xd",
     "codi": "contenidors",
-    "edat": ["sense-ficcio", "30-minuts", "60-minuts", "el-monoleg-de-lany", "premis-gaudi-audio", "premis-gaudi", "el-documental", "catalunya-aixeca-el-telo", "punt-de-no-retorn", "sala-33", "el-convidat", "daquidalla", "sputnik"]
+    "edat": ["sense-ficcio", "30-minuts", "60-minuts", "el-monoleg-de-lany", "premis-gaudi-audio", "premis-gaudi", "el-documental", "catalunya-aixeca-el-telo", "punt-de-no-retorn", "sala-33", "el-convidat", "daquidalla", "sputnik", "cronos"]
   },
   {
     "_comment": "tota la història que s'ha de fer per a les col·leccions",
@@ -4203,7 +4203,7 @@
   {
     "titol": "LOFT",
     "codi": "loft",
-    "edat": "10",
+    "edat": "13",
     "serie": true
   },
   {
@@ -6054,6 +6054,25 @@
     "codi": "aura",
     "edat": "0",
     "serie": true
+  },
+  {
+    "titol": "Òpera prima",
+    "codi": "opera-prima",
+    "edat": "10",
+    "potser": "continguts sexuals, drogues lícites o il·lícites i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "Cronos: El dia que va morir Hitler",
+    "codi": "5669222",
+    "edat": "13",
+    "potser": "situacions angoixants"
+  },
+  {
+    "titol": "Hotel Transsilvània 3: Unes vacances monstruoses",
+    "codi": "6377334",
+    "edat": "7",
+    "potser": "violència i situacions angoixants"
   },
   {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
@@ -21126,6 +21145,21 @@
     "tv3": true,
     "raons": "Violència ocasional, versemblant, explícita, d'intensitat greu, no legitimada",
     "mesinfo": "<b>Violència</b><br>En una escena, un agressor reprodueix un relat verbal i explícit de violència masclista.<br><br>Hi ha consum de drogues lícites (tabac, alcohol), presentat de manera neutra. Hi ha continguts sexuals ocasionals d'explicitació baixa. Hi ha situacions de por i angoixa ocasionals d'explicitació mitjana. Hi ha llenguatge groller ocasional d'intensitat baixa."
+  },
+  {
+    "titol": "Papawa",
+    "codi": "papawa",
+    "edat": "7",
+    "orig": "TP",
+    "potser": "violència",
+    "serie": true,
+    "sx3": true
+  },
+  {
+    "titol": "Papawa 1x39 - Gàngster Papawa",
+    "codi": "4322490",
+    "edat": "7",
+    "raons": "Violència freqüent, irreal, no explícita, d'intensitat molt lleu, legitimada"
   },
   {
     "titol": "Pau amb xocolata (2021)",
