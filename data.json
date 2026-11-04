@@ -227,7 +227,6 @@
     "titol": "Crida la llevadora",
     "codi": "crida-la-llevadora",
     "edat": "13",
-    "potser": "situacions angoixants",
     "serie": true
   },
   {
@@ -831,13 +830,6 @@
     "titol": "Clímax",
     "codi": "climax",
     "edat": "13",
-    "serie": true
-  },
-  {
-    "titol": "Bricoheroes",
-    "codi": "bricoheroes",
-    "edat": "13",
-    "potser": "drogues lícites o il·lícites, discriminació i llenguatge groller",
     "serie": true
   },
   {
@@ -5453,12 +5445,6 @@
     "serie": true
   },
   {
-    "titol": "Somiers",
-    "codi": "somiers",
-    "edat": "13",
-    "serie": true
-  },
-  {
     "titol": "Set de nit",
     "codi": "set-de-nit",
     "edat": "13",
@@ -5695,18 +5681,21 @@
     "titol": "Telenotícies",
     "codi": "telenoticies",
     "edat": "0",
+    "potser": "INFORMATIU",
     "serie": true
   },
   {
     "titol": "Notícies 3CatInfo",
     "codi": "noticies-3catinfo",
     "edat": "0",
+    "potser": "INFORMATIU",
     "serie": true
   },
   {
     "titol": "Mésnit",
     "codi": "mesnit",
     "edat": "0",
+    "potser": "INFORMATIU",
     "serie": true
   },
   {
@@ -6008,6 +5997,26 @@
     "codi": "6432155",
     "edat": "10",
     "potser": "llenguatge groller"
+  },
+  {
+    "titol": "Com som",
+    "codi": "com-som",
+    "edat": "10",
+    "potser": "continguts sexuals, drogues lícites o il·lícites i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "eldocu Morente i Barcelona",
+    "codi": "6302886",
+    "edat": "7",
+    "potser": "llenguatge groller"
+  },
+  {
+    "titol": "Secrets de família",
+    "codi": "secrets-de-familia",
+    "edat": "13",
+    "potser": "violència, situacions angoixants i drogues lícites o il·lícites",
+    "serie": true
   },
   {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
@@ -6965,7 +6974,7 @@
     "codi": "apm",
     "edat": "13",
     "orig": "13 (prèviament: 10, 13, TP) (des de setembre de 2026 senyalitzat 12 a TV3)",
-    "potser": "violència, continguts sexuals, drogues lícites o il·lícites, discriminació i llenguatge groller",
+    "potser": "violència, continguts sexuals, drogues lícites o il·lícites, discriminació i llenguatge groller (CAC)",
     "imdb": "tt0472641",
     "cac": "13",
     "serie": true,
@@ -7443,9 +7452,16 @@
     "edat": "10",
     "orig": "TP",
     "cac": "10",
-    "potser": "llenguatge groller",
+    "potser": "llenguatge groller (CAC)",
     "serie": true,
     "tv3": true
+  },
+  {
+    "titol": "Bestiari il·lustrat - &quot;L'altra vida&quot; (Bruno Oro)",
+    "codi": "3989630",
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa<br>(Qualificació oficial del CAC)",
+    "mesinfo": "El següent contingut està extret de l'informe 70/2010 de l'Àrea de Continguts del CAC.<br><br><b>Llenguatge groller</b><br>El protagonista, l'actor Bruno Oro, s'expressa en un llenguatge col·loquial i en ocasions empra interjeccions malsonants (com ara, 'hòstia', 'collons', 'cabró') en un to amistós i no ofensiu."
   },
   {
     "titol": "Black Clover",
@@ -7890,6 +7906,50 @@
     "sx3": true
   },
   {
+    "titol": "Bricoheroes",
+    "codi": "bricoheroes",
+    "edat": "13",
+    "orig": "18 (en les emissions per televisió: 13)",
+    "potser": "drogues lícites o il·lícites, discriminació i llenguatge groller (CAC)",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Bricoheroes 2x01 - Com construir una caseta de gos amb Bricoheroes",
+    "codi": "6065880",
+    "edat": "13",
+    "raons": "Expressions discriminatòries amb un posicionament neutre en el relat<br>Llenguatge groller freqüent d'intensitat alta<br>(Qualificació oficial del CAC)",
+    "mesinfo": "El següent contingut està extret de l'informe 95/2021 de l'Àrea de Continguts del CAC.<br><br><b>Discriminació, racisme i xenofòbia</b><br>S'observa la presència d'expressions susceptibles de ser interpretades com a discriminatòries amb un posicionament neutre en el relat quan en un gag amb intenció satírica en què es refereixen a les dones llatinoamericanes que surten amb homes d'avançada edat, es suggereix que s'acabaran quedant amb tots els seus diners quan es morin.<br><br><b>Llenguatge groller</b><br>Els dos presentadors fan ús d'expressions malsonants al llarg del programa, com ara: 'què passa, merdosos?' a l'inici de l'edició, a mode de salutació, 'collons', 'merda', 'capullos', 'malparit', 'puta', 'cony'.<br><br>S'ha detectat la presència ocasional d'expressions amb contingut sexual i/o eròtic amb un grau d'explicitació mitjà, donat que en el decurs del programa els dos humoristes inclouen una broma amb referències sexuals [parlen de menjar-se els ous]. Hi ha presència freqüent de situacions susceptibles de provocar por i angoixa amb un grau d'afectació mitjà en les persones menors d'edat atès que al llarg de l'edició s'inclouen diversos gags on es fa referència a les malalties i la mort. Hi ha presència ocasional de violència irreal, no explícita, d'intensitat greu i no legitimada pel discurs [una representació d'un intent d'assassinat]."
+  },
+  {
+    "titol": "Bricoheroes 2x01 - Com construir una caseta de gos amb Bricoheroes",
+    "codi": "6414598",
+    "edat": "13",
+    "raons": "Expressions discriminatòries amb un posicionament neutre en el relat<br>Llenguatge groller freqüent d'intensitat alta<br>(Qualificació oficial del CAC)",
+    "mesinfo": "El següent contingut està extret de l'informe 95/2021 de l'Àrea de Continguts del CAC.<br><br><b>Discriminació, racisme i xenofòbia</b><br>S'observa la presència d'expressions susceptibles de ser interpretades com a discriminatòries amb un posicionament neutre en el relat quan en un gag amb intenció satírica en què es refereixen a les dones llatinoamericanes que surten amb homes d'avançada edat, es suggereix que s'acabaran quedant amb tots els seus diners quan es morin.<br><br><b>Llenguatge groller</b><br>Els dos presentadors fan ús d'expressions malsonants al llarg del programa, com ara: 'què passa, merdosos?' a l'inici de l'edició, a mode de salutació, 'collons', 'merda', 'capullos', 'malparit', 'puta', 'cony'.<br><br>S'ha detectat la presència ocasional d'expressions amb contingut sexual i/o eròtic amb un grau d'explicitació mitjà, donat que en el decurs del programa els dos humoristes inclouen una broma amb referències sexuals [parlen de menjar-se els ous]. Hi ha presència freqüent de situacions susceptibles de provocar por i angoixa amb un grau d'afectació mitjà en les persones menors d'edat atès que al llarg de l'edició s'inclouen diversos gags on es fa referència a les malalties i la mort. Hi ha presència ocasional de violència irreal, no explícita, d'intensitat greu i no legitimada pel discurs [una representació d'un intent d'assassinat]."
+  },
+  {
+    "titol": "Bricoheroes 2x02 - Com construir un torrador de castanyes amb Bricoheroes",
+    "codi": "6066283",
+    "edat": "13",
+    "raons": "Consum de drogues lícites (alcohol), presentat de manera positiva<br>Expressions discriminatòries amb un posicionament neutre en el relat<br>Llenguatge groller freqüent d'intensitat alta<br>(Qualificació oficial del CAC)",
+    "mesinfo": "El següent contingut està extret de l'informe 95/2021 de l'Àrea de Continguts del CAC.<br><br><b>Drogues</b><br>S'ha detectat el consum ocasional de drogues lícites (alcohol) amb una sanció positiva en el relat quan el Jair Domínguez troba un porró amb moscatell en una prestatgeria, i en fa un glop [en Peyu li diu: 'una mica de moscatell perquè fa castanyada, això sí que t'agrada, eh, bandido?'].<br><br><b>Discriminació, racisme i xenofòbia</b><br>S'observa la presència de comportaments que podrien ser considerats discriminatoris amb un posicionament neutre en un gag formulat en un context irònic en què el Jair Domínguez critica en Peyu per construir el torrador de castanyes amb material reciclat i fa servir el terme 'gitano' com a insult.<br><br><b>Llenguatge groller</b><br>Els dos presentadors fan ús d'expressions malsonants al llarg de tot el programa, com ara: 'què passa, merdosos?' a l'inici de l'edició, a mode de salutació, 'collons', 'collonada', 'merda', 'collonut', 'malparit', 'puta', 'cony', 'puto rotllo', 'hòstia', 'me cago en Déu'.<br><br>S'ha detectat la presència ocasional d'expressions amb contingut sexual i/o eròtic amb un grau d'explicitació mitjà, donat que els dos humoristes inclouen diverses bromes amb connotacions sexuals al llarg del programa: quan atribueixen un comportament sexual a un personatge d'animació infantil [diuen que en Doraemon feia el que li sortia de la polla i que la devia tenir dins la butxaca, perquè se la remenava molt], quan descriuen les accions amb component sexual que duen a terme els convidats en les celebracions d'alguns casaments [diuen que decoraven un porró com si fos una polla amb dos ous, hi posaven nata a la punta i li deien a la núvia que begués]. Hi ha presència ocasional de situacions susceptibles de provocar por i angoixa amb un grau d'afectació lleu en les persones menors d'edat quan els dos protagonistes ensenyen la porta per on s'introdueixen les castanyes al torrador i fan referència a la perillositat que comporta introduir-hi la mà, atès que està envoltada de claus que sobresurten i vores afilades."
+  },
+  {
+    "titol": "Bricoheroes 2x03 - Com construir una mosquitera amb Bricoheroes",
+    "codi": "6067805",
+    "edat": "13",
+    "raons": "Expressions discriminatòries amb un posicionament neutre en el relat<br>Llenguatge groller freqüent d'intensitat alta<br>(Qualificació oficial del CAC)",
+    "mesinfo": "El següent contingut està extret de l'informe 95/2021 de l'Àrea de Continguts del CAC.<br><br><b>Discriminació, racisme i xenofòbia</b><br>S'observa l'ús per part dels dos presentadors d'expressions susceptibles de ser interpretades com a discriminatòries envers diversos col·lectius amb un posicionament neutre en el relat: quan, en clau irònica, fan diverses afirmacions respecte l'Àsia i els xinesos en què vinculen aquests àmbits geogràfics amb aspectes negatius, com l'origen d'espècies invasores perilloses o el coronavirus; també quan retreuen el continent africà que únicament es dediqui a demanar recursos als països desenvolupats (el to irònic del discurs queda palès quan el Peyu es pregunta si aquestes afirmacions podrien ser considerades racistes i el Jair li contesta amb un comentari crític envers la tanca fronterera de Melilla); en un gag es presenta el que podria ser considerat un estereotip negatiu envers les persones llatinoamericanes quan els dos humoristes afirmen que en aquests països el 'carácter latino' i l'anomenada 'sangre caliente' serveixen d'excusa per dur a terme comportaments sexistes i violents; en Peyu qüestiona que un home pugui dir 'estem embarassats' si l'embarassada és la dona i el Jair li contesta que actualment una persona identificada com a home ho podria estar; tot seguit en Peyu fa servir una expressió discriminatòria envers el col·lectiu LGBTI quan diu 't'estava parlant de parelles normals' per a referir-se a les parelles heterosexuals, tot i que prèviament fa notar la connotació que té l'expressió que empra; també s'ha detectat l'ús d'una expressió ofensiva envers les persones amb discapacitat intel·lectual quan el Peyu explica que durant el part de la seva parella li van encarregar abocar-li aigua per l'esquena i ell va respondre amb la frase 'Si no he de fer res, marxo, però no em donguis feines de subnormal'.<br><br><b>Llenguatge groller</b><br>Els dos presentadors fan ús d'expressions malsonants al llarg de tot el programa, com ara: 'què passa, merdosos?' a l'inici de l'edició, a mode de salutació, 'collons', 'hòstia', 'merda', 'capullos', 'malparit', 'puta', 'cony', 'me la suda'.<br><br>S'ha detectat la menció a una droga il·lícita (cocaïna) sense referència al seu consum i amb una presentació neutra dels seus efectes quan, al plantejar de quina manera pesar la mosquitera, el Jair Domínguez recomana una bàscula de cocaïna i s'insinua que en podria tenir una a casa."
+  },
+  {
+    "titol": "Bricoheroes 2x04 - Com pintar una habitació amb Bricoheroes",
+    "codi": "6069061",
+    "edat": "13",
+    "raons": "Referències al consum de drogues lícites (alcohol), presentat de manera positiva<br>Expressions discriminatòries amb un posicionament neutre en el relat<br>Llenguatge groller freqüent d'intensitat alta<br>(Qualificació oficial del CAC)",
+    "mesinfo": "El següent contingut està extret de l'informe 95/2021 de l'Àrea de Continguts del CAC.<br><br><b>Drogues</b><br>S'ha detectat la presència de tres referències al consum de drogues lícites (alcohol) amb una presentació negativa, neutra i positiva dels seus efectes. Els dos presentadors fan un discurs negatiu en relació a la ingesta abusiva d'alcohol en un gag on recorden el color de les parets dels bars quan encara s'hi podia fumar i fan referència a l'aparent mala salut d'alguns professionals de l'hostaleria que n'eren consumidors habituals. En un segon exemple s'al·ludeix de forma neutra al consum excessiu d'alcohol per part d'algunes persones que van a la platja. En una tercera ocasió s'observa una presentació positiva dels efectes del consum d'alcohol quan en Jair Domínguez esmenta la barreja amb medicaments com a mètode per dormir bé.<b>Discriminació, racisme i xenofòbia</b><br>S'observa la presència d'expressions per part dels dos humoristes que podrien ser considerades discriminatòries envers determinats col·lectius amb un posicionament neutre en el relat: quan fan un gag en què parlen de la brillantor del terra de l'aeroport d'El Prat on s'expressa un estereotip negatiu envers els homes japonesos al atribuir-los conductes sexuals considerades perversions; en un gag es fan servir expressions que poden comportar discriminació envers les persones amb discapacitat intel·lectual i el col·lectiu LGBTI per establir una comparació satírica entre la vida actual i la del 2006.<br><br><b>Llenguatge groller</b><br>Els dos presentadors fan ús d'expressions malsonants al llarg de tot el programa, com ara: 'què passa, merdosos?' a l'inici de l'edició, a mode de salutació, 'collons', 'hòstia', 'la mare que el va arribar a parir', 'merda', 'puto', 'cony'."
+  },
+  {
     "titol": "Buga buga",
     "codi": "buga-buga",
     "edat": "18",
@@ -8276,7 +8336,7 @@
     "edat": "13",
     "orig": "TP",
     "cac": "13",
-    "potser": "llenguatge groller",
+    "potser": "llenguatge groller (CAC)",
     "serie": true,
     "tv3": true
   },
@@ -8296,10 +8356,18 @@
     "edat": "10",
     "orig": "TP",
     "cac": "10",
+    "potser": "llenguatge groller (CAC)",
     "serie": true,
     "tv3": true,
     "33": true,
     "misc": true
+  },
+  {
+    "titol": "Caçadors de bolets 5x07 - Tapis",
+    "codi": "1940669",
+    "edat": "10",
+    "raons": "Llenguatge groller ocasional d'intensitat alta<br>(Qualificació oficial del CAC)",
+    "mesinfo": "El següent contingut està extret de l'informe 145/2009 de l'Àrea de Continguts del CAC.<br><br><b>Llenguatge groller</b><br>'Són una mica imbècils!', '¡Acojonante!' (2 vegades), 'No me jodas ¡Coño!', 'Hòstia!'.<br><br>Es detecta la presència de consum de drogues lícites (alcohol) presentat de manera negativa: es veu com un personatge que caricaturitza un pijo, Jacobo de Camps, dóna consells de com anar a buscar bolets; demana un gin tònic, en beu un glop i el porta a la mà durant tot el gag. Es detecta la presència de situacions de discriminació presentades de manera negativa [relacionades amb el mateix pijo que menysprea un personatge llatinoamericà i fa comentaris com ara 'Venga, home! Si al teu país coméis serpientes con patatas' o 'Hòstia! Aquesta gent la treus de los suburbios y se marean!']."
   },
   {
     "titol": "Caigut del cel",
@@ -8534,11 +8602,39 @@
     "edat": "13",
     "orig": "TP (algunes emissions: 13)",
     "cac": "13",
-    "potser": "violència i continguts sexuals",
+    "potser": "violència i continguts sexuals (CAC)",
     "serie": true,
     "tv3": true,
     "33": true,
     "misc": true
+  },
+  {
+    "titol": "Cinema 3 26/06/2010",
+    "codi": "2988450",
+    "edat": "10",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada<br>Continguts sexuals ocasionals d'explicitació mitjana<br>Llenguatge groller ocasional d'intensitat alta<br>(Qualificació oficial del CAC)",
+    "mesinfo": "El següent contingut està extret de l'informe 69/2010 de l'Àrea de Continguts del CAC.<br><br><b>Violència</b><br>Es detecta la presència ocasional de violència versemblant, explícita, d'intensitat lleu i no legitimada en els fragments que s'emeten de les pel·lícules 'Una hora más en Canarias' (una comèdia on apareix una escena d'amenaça amb arma blanca), 'Noche y día' (en la qual es produeix una baralla amb armes de foc) i 'El silencio de Lorna' (la història d'una immigrant albanesa, on es veu una baralla entre una parella).<br><br><b>Sexe</b><br>S'observa la presència ocasional de continguts sexuals o eròtics amb un grau d'explicitació mitjana en els fragments emesos de la pel·lícula 'Gaingsbourg' i de 'El silencio de Lorna'. Totes dues inclouen escenes de nuesa parcial masculina i femenina amb connotacions sexuals.<br><br><b>Llenguatge groller</b><br>També hi ha presència ocasional de llenguatge groller d'intensitat alta, en un context humorístic, en el fragment de la pel·lícula 'Una hora más en Canarias'.<br><br>Es detecta la presència ocasional de situacions susceptibles de provocar por o angoixa amb un grau d'afectació mitjà en un fragment de la pel·lícula 'Splice' (centrada en un monstre creat en un laboratori) i en els fragments inclosos en l'apartat 'Violència'."
+  },
+  {
+    "titol": "Cinema 3 01/11/2012",
+    "codi": "4314210",
+    "edat": "7",
+    "raons": "Violència freqüent, irreal, no explícita, d'intensitat greu, no legitimada<br>Continguts sexuals ocasionals d'explicitació baixa<br>Por i angoixa freqüent d'afectació lleu<br>(Qualificació oficial del CAC)",
+    "mesinfo": "El següent contingut està extret de l'informe 126/2012 de l'Àrea de Continguts del CAC.<br><br><b>Violència</b><br>Hi ha presència freqüent de violència irreal, no explícita, d'intensitat greu i no legitimada pel discurs, en diferents moments en què hi ha violència contra les persones i contra les coses, amb ús d'armes blanques i de foc.<br><br><b>Sexe</b><br>Hi ha presència ocasional de continguts sexuals amb un grau d'explicitació baix.<br><br><b>Por i angoixa</b><br>S'observa la presència freqüent de situacions susceptibles de provocar por i angoixa amb un grau d'afectació lleu en les escenes associades a la variable 'Violència'."
+  },
+  {
+    "titol": "Cinema 3 29/11/2012",
+    "codi": "4360190",
+    "edat": "10",
+    "raons": "Por i angoixa freqüent d'afectació mitjana<br>Llenguatge groller ocasional d'intensitat alta<br>(Qualificació oficial del CAC)",
+    "mesinfo": "El següent contingut està extret de l'informe 138/2012 de l'Àrea de Continguts del CAC.<br><br><b>Por i angoixa</b><br>S'observa la presència freqüent de situacions susceptibles de provocar por i angoixa amb un grau d'afectació mitjà en les escenes associades a la variable 'Violència' i en altres moments, com ara en els fragments mostrats de la pel·lícula 'Amanecer 2', sobre una saga de vampirs, o de 'César debe morir', un film que recrea el Juli Cèsar de Shakespeare amb presos reals. També es detecta aquesta variable, però en aquest cas amb un grau d'afectació lleu, en els fragments del film 'La vida de Pi', sobre la relació entre un jove i un tigre que sobreviuen a un naufragi.<br><br><b>Llenguatge groller</b><br>Es detecta la presència ocasional de llenguatge groller d'intensitat alta en un fragment del film 'Una pistola en cada mano' en què un dels personatges fa ús d'una expressió d'alta càrrega malsonant.<br><br>Hi ha presència ocasional de violència versemblant, no explícita, d'intensitat greu i nolegitimada pel discurs, en els fragments que es mostren de dues pel·lícules del director Daniel Calparsoro, que retraten conflictes bèl·lics en els quals es fa ús d'armes de foc: 'Invasor', el seu últim film d'acció situat a la guerra d'Iraq, i 'Guerreros', rodada el 2002, sobre la guerra de Bòsnia. Hi ha presència ocasional de continguts sexuals amb un grau d'explicitació baix en els fragments de la pel·lícula 'Una pistola en cada mano', de Cesc Gay, que vol ser un retrat de la vida sentimental d'un grup d'homes i donesal voltant dels 40."
+  },
+  {
+    "titol": "Cinema 3 24/01/2014",
+    "codi": "4876211",
+    "edat": "13",
+    "raons": "Continguts sexuals ocasionals d'explicitació alta<br>(Qualificació oficial del CAC)",
+    "mesinfo": "El següent contingut està extret de l'informe 5/2014 de l'Àrea de Continguts del CAC.<br><br><b>Sexe</b><br>L'edició analitzada del programa 'Cinema 3' dedica un reportatge a l'estrena de la segona part de la pel·lícula de Lars Von Trier 'Nymphomaniac', que té una qualificació oficial de 'no recomanada per a menors de 18 anys'. El reportatge, que dura 3 minuts i 12 segons (de 12.55.41 a 12.58.53 hores), emmarca aquesta obra en el context de tota la filmografia del director, i s'estructura en tres parts: 'patiment i dolor', 'sexe i religió' i 'les dones'. En el decurs d'aquest reportatge, i durant un total de 34 segons, apareixen escenes amb continguts sexuals de 'Nymphomaniac' i d'altres films del mateix director, amb una explicitació diversa que il·lustren l'off del programa i les declaracions del director i d'una de les actrius. Sis de les escenes amb contingut sexual que hi apareixen representen actes o situacions sexuals d'explicitació mitjana en què s'aprecien zones erògenes no genitals. En dues ocasions, a més, apareixen imatges d'explicitació alta. La freqüència d'aparició d'aquestes imatges és ocasional, atès que es tracta de 34 segons en el conjunt d'un programa de 30 minuts.<br><br>S'observa la presència ocasional de violència versemblant, no explícita, d'intensitat greu i no legitimada pel discurs, en dos fragments de les pel·lícules analitzades: un escena bèl·lica inclosa en el fragment de la pel·lícula 'Aquél no era yo' i quan, en un segon film, 'Oldboy', un personatge agredeix un altre amb una arma blanca. Hi ha presència ocasional de situacions susceptibles de provocar por i angoixa amb un grau d'afectació mitjà en les escenes associades a la variable 'Violència'. S'observa la presència ocasional de llenguatge groller d'intensitat alta, ja que en un fragment del film 'La gran estafa americana' presentat al programa un personatge fa servir una expressió que socialment es té per malsonant."
   },
   {
     "titol": "Cita bestial",
@@ -8761,8 +8857,23 @@
     "edat": "13",
     "orig": "7 (prèviament: TP)",
     "cac": "13",
+    "potser": "llenguatge groller (CAC)",
     "serie": true,
     "tv3": true
+  },
+  {
+    "titol": "Crackòvia 18/06/2012",
+    "codi": "4128330",
+    "edat": "10",
+    "raons": "Llenguatge groller ocasional d'intensitat alta<br>(Qualificació oficial del CAC)",
+    "mesinfo": "El següent contingut està extret de l'informe 82/2012 de l'Àrea de Continguts del CAC.<br><br><b>Llenguatge groller</b><br>Els diàlegs dels personatges inclouen expressions i interjeccions que socialment es tenen per malsonants.<br><br>Es detecta la presència ocasional de violència irreal, no explícita, d'intensitat molt lleu i legitimada pel discurs, en un context humorístic, atès que forma part d'un dels esquetxos."
+  },
+  {
+    "titol": "Crackòvia 31/03/2014",
+    "codi": "4992611",
+    "edat": "10",
+    "raons": "Llenguatge groller ocasional d'intensitat alta<br>(Qualificació oficial del CAC)",
+    "mesinfo": "El següent contingut està extret de l'informe 27/2014 de l'Àrea de Continguts del CAC.<br><br><b>Llenguatge groller</b><br>Els diàlegs dels personatges inclouen expressions i interjeccions que socialment es tenen per malsonants.<br><br>Es detecta la presència ocasional de violència irreal, no explícita, d'intensitat molt lleu i legitimada pel discurs, en un context humorístic, atès que un dels esquetxos del programa simula una baralla amb violència en un context medieval fictici."
   },
   {
     "titol": "Creatura (2023)",
@@ -10032,9 +10143,10 @@
   {
     "titol": "El club",
     "codi": "el-club",
-    "edat": "13",
+    "edat": "10",
     "orig": "TP",
-    "cac": "13",
+    "cac": "10",
+    "potser": "continguts sexuals, drogues lícites o il·lícites i llenguatge groller (CAC)",
     "serie": true,
     "tv3": true
   },
@@ -10066,10 +10178,17 @@
     "codi": "el-cor-de-la-ciutat",
     "edat": "13",
     "orig": "13 (prèviament: 10)",
-    "potser": "violència, drogues lícites o il·lícites i llenguatge groller",
+    "potser": "violència, drogues lícites o il·lícites i llenguatge groller (CAC)",
     "cac": "13",
     "serie": true,
     "tv3": true
+  },
+  {
+    "titol": "El cor de la ciutat 10x73 (21/12/2009)",
+    "codi": "1986059",
+    "edat": "13",
+    "raons": "Violència freqüent versemblant, explícita, d'intensitat greu, legitimada<br>Situacions d'addicció a drogues il·lícites (heroïna) presentat de manera negativa<br>Llenguatge groller freqüent d'intensitat alta<br>(Qualificació oficial del CAC)",
+    "mesinfo": "El següent contingut està extret de l'informe 136/2009 de l'Àrea de Continguts del CAC.<br><br><b>Violència</b><br>La Montse i el 'Sàhara' parlen sobre les violacions que ha comès el Tomàs i es produeix un flash back. Es pot veure el 'Sàhara' que discuteix amb el seu germà Tomàs i li diu que no podrà superar mai la necessitat de violar dones. De cop i volta el pica amb un bastó fins fer-lo caure a terra. Agafa una llauna de gasolina i li tira per sobre el líquid. Encèn un llumí i l'apaga, perquè no es veu en cor de cremar el seu germà. El Tomàs l'incita a encendre un altre llumí i el 'Sàhara' perd els nervis hi acaba llançant un llumí encès sobre el seu germà. Es veu el Tomàs com es crema i crida. [A més,] un noi comenta a l'Ingrid que un home paga 200 euros si li deixen el nadó, filla de l'Ingrid, dues hores. L'Ingrid li diu que el truqui perquè pateixen el síndrome d'abstinència i no tenen heroïna. Amb els 200 euros podran comprar droga. Al cap d'una estona, apareix un home de mitjana edat i li donen el nadó de l'Ingrid. A la nena li cau una sabata. L'Ingrid diu: 'Esperi! Li ha caigut una sabata'. El seu company li contesta: 'Anem a buscar material. No la necessita per res la sabata'. L'Ingrid li pren la nena dels braços al desconegut i diu: 'És la meva filla'.<br><br><b>Drogues</b><br>Es veuen dues noies i un noi asseguts en un banc públic. Estan pàl·lid[s] i els costa articular les paraules. Porten un nadó en un cotxet. Comenten que no tenen on dormir. Una de les noies, l'Ingrid, diu: 'Necessito col·locar-me ja'. El noi li dona un paquet. L'Ingrid s'arremanga el braç, s'hi lliga una cinta de goma, posa heroïna en una cullera i amb un encenedor la fa cremar. Aleshores aspira el líquid que ha obtingut amb una xeringa i se l'injecta al braç. El pla no explicita com l'Ingrid introdueix l'agulla de la xeringa al braç. Vegeu [també] l'apartat 'Violència'.<br><br><b>Llenguatge groller</b><br>Per exemple: 'jo l'única cosa que vull és que s'acabi tot d'una puta vegada, ja!', 'sentim el que ens hagi de dir aquest fill de puta!', 'aquest Nadal és una merda!', 'hosti!', 'ho dic perquè és idiota', 'fill de puta!' (3 vegades).<br><br>Es detecta la presència freqüent de situacions susceptibles de provocar por o angoixa amb un grau d'afectació mitjà. Per exemple: vegeu l'apartat 'Violència'."
   },
   {
     "titol": "El crèdit (2019)",
@@ -10086,7 +10205,7 @@
     "codi": "detectiu-conan",
     "edat": "13",
     "orig": "12 (prèviament: 7, 10, 13)",
-    "potser": "violència, situacions angoixants, drogues lícites o il·lícites i discriminació",
+    "potser": "violència, situacions angoixants, drogues lícites o il·lícites i discriminació (CAC)",
     "cac": "13",
     "imdb": "tt0131179",
     "serie": true,
@@ -10248,6 +10367,23 @@
     "csm": "tv-reviews/doc-martin",
     "serie": true,
     "tv3": true
+  },
+  {
+    "titol": "El documental",
+    "codi": "el-documental",
+    "edat": "18",
+    "orig": "Variable",
+    "serie": true,
+    "33": true,
+    "misc": true
+  },
+  {
+    "titol": "El documental - Construint llibertat",
+    "codi": "4315630",
+    "edat": "10",
+    "orig": "7",
+    "raons": "Continguts sexuals freqüents d'explicitació baixa<br>Referències verbals a drogues lícites (alcohol) i il·lícites (haixix, LSD, amfetamines i heroïna) amb una representació negativa<br>(Qualificació oficial del CAC)",
+    "mesinfo": "El següent contingut està extret de l'informe 131/2012 de l'Àrea de Continguts del CAC.<br><br><b>Sexe</b><br>S'observa la presència freqüent de continguts sexuals amb un grau d'explicitació baix atès que els testimonis fan referència a la seva joventut i retraten una època en la qual van practicar l'amor lliure en una societat de moral estricta.<br><br><b>Drogues</b><br>Hi ha presència de referències verbals al consum de drogues lícites (alcohol) i il·lícites (haixix, LSD, amfetamines i heroïna) per part dels protagonistes del documental o de persones del seu entorn amb una representació negativa dels seus efectes. Així, en la darrera part, s'al·ludeix a què en aquella època encara no es disposava de prou informació sobre les conseqüències indesitjables del consum de drogues.<br><br>Es detecta la presència ocasional de llenguatge groller d'intensitat baixa atès que s'inclou alguna expressió verbal i no verbal que es perceben com a grolleres."
   },
   {
     "titol": "El factor clau",
@@ -11075,7 +11211,7 @@
     "codi": "els-barrufets-2d",
     "edat": "7",
     "orig": "TP",
-    "potser": "violència i situacions angoixants",
+    "potser": "violència i situacions angoixants (CAC)",
     "imdb": "tt0081933",
     "cac": "7",
     "serie": true,
@@ -12598,7 +12734,7 @@
     "codi": "6271814",
     "edat": "13",
     "orig": "TP (ICEC: 16)",
-    "raons": "Violència freqüent, versemblant, explícita, d’intensitat greu, no legitimada"
+    "raons": "Violència freqüent, versemblant, explícita, d'intensitat greu, no legitimada"
   },
   {
     "titol": "FIC-CAT",
@@ -14264,6 +14400,7 @@
     "edat": "13",
     "orig": "TP",
     "cac": "13",
+    "potser": "drogues lícites o il·lícites (CAC)",
     "serie": true,
     "tv3": true
   },
@@ -14272,7 +14409,7 @@
     "codi": "5156073",
     "edat": "13",
     "raons": "Situacions d'embriaguesa en clau de paròdia presentades de manera neutra<br>(Qualificació oficial del CAC)",
-    "mesinfo": "El següent contingut està extret de l'informe 96/2008 de l'Àrea de Continguts del CAC.<br><br><b>Drogues</b><br>Es veu un grup de joves practicant el 'botellón'. Després alguns d'ells vomiten. Altres parlen a la càmera en un avançat estat d’embriaguesa.<br><br>Es detecta la presència ocasional de violència versemblant, explícita, d'intensitat lleu i no legitimada. Per exemple: un grup de malalts mentals, sotmesos a una situació angoixant, perden el control; un d'ells salta sobre un company i li pega cops de puny. Es detecta la presència ocasional de situacions susceptibles de provocar por o angoixa d'intensitat mitjana. Per exemple: es veuen diverses situacions on un grup de malalts mentals perd el control i criden, es peguen a ells mateixos i als seus companys; es veuen diverses situacions on uns joves vomiten després d'haver ingerit gran quantitat d'alcohol."
+    "mesinfo": "El següent contingut està extret de l'informe 96/2008 de l'Àrea de Continguts del CAC.<br><br><b>Drogues</b><br>Es veu un grup de joves practicant el 'botellón'. Després alguns d'ells vomiten. Altres parlen a la càmera en un avançat estat d'embriaguesa.<br><br>Es detecta la presència ocasional de violència versemblant, explícita, d'intensitat lleu i no legitimada, per exemple: un grup de malalts mentals, sotmesos a una situació angoixant, perden el control; un d'ells salta sobre un company i li pega cops de puny. Es detecta la presència ocasional de situacions susceptibles de provocar por o angoixa d'intensitat mitjana, per exemple: es veuen diverses situacions on un grup de malalts mentals perd el control i criden, es peguen a ells mateixos i als seus companys; es veuen diverses situacions on uns joves vomiten després d'haver ingerit gran quantitat d'alcohol."
   },
   {
     "titol": "Historias corrientes",
@@ -15461,6 +15598,7 @@
     "codi": "infok",
     "edat": "0",
     "orig": "TP (a la fitxa de 3Cat: 7)",
+    "potser": "INFORMATIU",
     "serie": true,
     "sx3": true
   },
@@ -17140,6 +17278,23 @@
     "edat": "13",
     "raons": "Continguts sexuals reiterats d'explicitació mitjana",
     "mesinfo": "<b>Sexe</b><br>Tot el programa està format per tertúlies on es tracten temàtiques de contingut sexual, on es parla explícitament, per exemple, de disfuncions sexuals, intercanvi de parelles, orgies, sexe en públic, masturbació, orgasmes, pornografia i joguines sexuals, i s'ensenya i s'activa un xuclador que fa sexe oral.<br><br>Hi ha al·lusions neutres al consum de drogues lícites (alcohol). Hi ha llenguatge groller ocasional d'intensitat alta ('follar', 'cony')."
+  },
+  {
+    "titol": "La Riera",
+    "codi": "la-riera",
+    "edat": "13",
+    "orig": "13",
+    "cac": "13",
+    "potser": "continguts sexuals i llenguatge groller (CAC)",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "La Riera 3x47 (10/11/2011)",
+    "codi": "3788310",
+    "edat": "13",
+    "raons": "Continguts sexuals freqüents d'explicitació mitjana<br>Llenguatge groller freqüent d'intensitat alta<br>(Qualificació oficial del CAC)",
+    "mesinfo": "El següent contingut està extret de l'informe 116/2011 de l'Àrea de Continguts del CAC.<br><br><b>Sexe</b><br>Es detecta la presència freqüent d'escenes de contingut eròtic amb explicitació mitjana, concretament en tres moments al llarg del capítol. Entre aquestes escenes hi ha aquella a la qual fa referència la queixa [un personatge es descorda els pantalons, posa la mà a dins i la comença a moure, s'ofereix un primer pla de la seva cara tancant els ulls i gemegant, en cap moment s'aprecien detalls de zones erògenes ni de genitals]. Sense constituir l'objecte directe de la queixa, s'han detectat dues seqüències més amb incidència pel que fa a la variable 'sexe': [una conversa on es parla de com 'follar-se' un tio, i una altra on es diu 'tinc ganes de tocar-te, de tenir-te, que em facis l'amor, vull que em facis tot el que vulguis, Ernest'].<br><br><b>Llenguatge groller</b><br>Els personatges fan ús d'un llenguatge col·loquial que en vàries ocasions inclou expressions malsonants.<br><br>Hi ha presència ocasional de situacions susceptibles de provocar por i angoixa amb un grau d'afectació mitjà, concretament en dos fragments. En el primer, la Imma, una de les cuineres del restaurant, li explica al pare d'un amic de la seva filla, la situació d'angoixa que està vivint per l'accident que ella mateixa va provocar i que ha conduit a l'estat de coma en què es troba en Jofre, un altre amic de la seva filla. En el segon fragment es veu com la Imma va a visitar a en Jofre a l'hospital i li pregunta preocupada al metge si el noi se'n sortirà."
   },
   {
     "titol": "La selva",
@@ -19754,10 +19909,17 @@
     "codi": "mirall-trencat",
     "edat": "13",
     "orig": "10 (prèviament: TP)",
-    "potser": "discriminació",
+    "potser": "discriminació (CAC)",
     "cac": "13",
     "serie": true,
     "tv3": true
+  },
+  {
+    "titol": "Mirall trencat 1x07",
+    "codi": "5696426",
+    "edat": "13",
+    "raons": "Comportaments discriminatoris presentats de manera neutra<br>(Qualificació oficial del CAC)",
+    "mesinfo": "El següent contingut està extret de l'informe 23/2008 de l'Àrea de Continguts del CAC.<br><br><b>Discriminació, racisme i xenofòbia</b><br>En Ramon i la Maria discriminen en Jaume perquè no és un nen com ells. Té una salut delicada i és de complexió menuda. Els germans no són renyats mai pel seu comportament. En Ramon i la Maria insulten i fuetegen el Jaume. La Maria amenaça en Jaume dient-li: 'Punxa-li el coll. A nosaltres la sang no ens fa por'.<br><br>Es detecta la presència ocasional de violència versemblant, d'intensitat greu, no explícita i no legitimada; es detecta la presència ocasional de situacions de por o angoixa d'intensitat mitja [pels continguts anteriors]. Es detecta la presència ocasional de situacions amb continguts sexuals d'explicitació baixa: la Sofia convida al seu marit a tornar a dormir al llit amb ella, l'acaricia, li descorda el pijama i li fa petons; l'Eladi, marit de la Sofia, apareix despullat, en un pla de cintura cap amunt, [i] apareix una dona d'esquena, també despullada, s'acaricien i es fan petons arreu del cos."
   },
   {
     "titol": "Miró",
@@ -20577,7 +20739,25 @@
     "codi": "5771026",
     "edat": "13",
     "raons": "Al·lusions al consum de drogues lícites (alcohol) i il·lícites (porros) presentat de manera negativa<br>(Qualificació oficial del CAC)",
-    "mesinfo": "El següent contingut està extret de l'informe 62/2008 de l'Àrea de Continguts del CAC.<br><br><b>Drogues</b><br>Dediquen una part del programa a comentar el consum de porros entre els adolescents. Al final Júlia Otero diu: 'Al final, arriba el missatge que el porro no és dolent i és dolent'. Les persones entrevistades responen: 'És dolent. És dolent'. I afegeixen: 'Però el tabac també és dolent. I l’alcohol'.<br><br>Es detecta la presència ocasional de llenguatge groller d'intensitat alta. Es diuen paraules com: 'cony', 'gilipolles', 'puta mare', 'joder', 'putada', 'òstia puta'."
+    "mesinfo": "El següent contingut està extret de l'informe 62/2008 de l'Àrea de Continguts del CAC.<br><br><b>Drogues</b><br>Dediquen una part del programa a comentar el consum de porros entre els adolescents. Al final Júlia Otero diu: 'Al final, arriba el missatge que el porro no és dolent i és dolent'. Les persones entrevistades responen: 'És dolent. És dolent'. I afegeixen: 'Però el tabac també és dolent. I l'alcohol'.<br><br>Es detecta la presència ocasional de llenguatge groller d'intensitat alta. Es diuen paraules com: 'cony', 'gilipolles', 'puta mare', 'joder', 'putada', 'òstia puta'."
+  },
+  {
+    "titol": "No t'ho perdis",
+    "codi": "nothoperdis",
+    "edat": "10",
+    "orig": "TP",
+    "cac": "10",
+    "potser": "llenguatge groller (CAC)",
+    "serie": true,
+    "33": true,
+    "misc": true
+  },
+  {
+    "titol": "No t'ho perdis 16/02/2012",
+    "codi": "3955030",
+    "edat": "10",
+    "raons": "Llenguatge groller ocasional d'intensitat alta<br>(Qualificació oficial del CAC)",
+    "mesinfo": "El següent contingut està extret de l'informe 11/2012 de l'Àrea de Continguts del CAC.<br><br><b>Llenguatge groller</b><br>Es difon part d'una obra de teatre que on els personatges fan us d'interjeccions que socialment es tenen per malsonants.<br><br>Es detecta la presència ocasional de situacions susceptibles de provocar por o angoixa amb un grau d'afectació al menor lleu, atès que es mostren escenes de la pel·lícula 'Incendies', on apareixen armes de foc i escenes de la guerra del Líban."
   },
   {
     "titol": "Núñez",
@@ -20899,6 +21079,29 @@
     "mesinfo": "<b>Drogues</b><br>Diversos personatges secundaris apareixen fumant tabac en concordança amb els usos del context històric i social en què se situa l'obra. També el protagonista, que sovint fuma la seva característica pipa, sense que ningú ni res li ho sancioni.<br><br><b>Llenguatge groller</b><br>Es fa servir una expressió grollera d'intensitat alta una sola vegada ('fills de puta'), així com 'idiota' dues vegades.<br><br>Hi ha al·lusions sexuals ocasionals d'explicitació baixa quan una dona s'insinua a un home. Hi ha situacions ocasionals de por i angoixa d'afectació mitjana; un home es fereix els dits després de tocar les cordes d'un violoncel sense arquet, i es fan al·lusions esporàdiques amenaçant a la violència en un context bèl·lic. Hi ha situacions de discriminació quan personatges negatius es refereixen a un altre despectivament per ser jueu. Hi ha conductes incíviques, quan un aprenent menteix el seu mestre i li pren un vinil, que es presenten de manera negativa. Hi ha una escena de violència contra les coses."
   },
   {
+    "titol": "Pedralbes Centre",
+    "codi": "pedralbes-centre",
+    "edat": "13",
+    "orig": "TP",
+    "potser": "drogues lícites o il·lícites i discriminació",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Pedralbes Centre 1x02",
+    "codi": "5695598",
+    "edat": "10",
+    "raons": "Continguts sexuals freqüents d'explicitació baixa<br>Al·lusions al consum de drogues lícites (alcohol), presentat de manera neutra<br>Llenguatge groller freqüent d'intensitat baixa<br>Conductes i valors incívics amb sanció neutra",
+    "mesinfo": "<b>Sexe</b><br>Es fan freqüentment insinuacions sexuals, ja que la història principal segueix una dona, que diu que se sent atreta per les persones amb poder i que no és 'una noia fàcil', que es pregunta si agrada al director i com es podria insinuar a ell. Hi ha una situació en què es queden tancats a una habitació i ella es comença a desbotonar i fa veure que es desmaia. Hi ha un moment en què algú entra i veu l'home tocant-li l'ull perquè, segons ella, li ha entrat una pestanya a l'ull, mentre ella pregunta: 'és molt grossa?', i ell diu 'quan la tregui te l'ensenyaré'.<br><br><b>Drogues</b><br>Una mare retreu a la seva filla que hagi tornat tant tard a casa després d'anar 'de copes'. No obstant això, immediatament després, la mare demana un carajillo 'ben carregat'. En la mateixa escena es veu de fons una persona fumant.<br><br><b>Llenguatge groller</b><br>Es fan servir recurrentment expressions com 'fotre', 'merda', 'imbècils', 'idiota' o 'tonto'.<br><br><b>Conductes i valors incívics</b><br>Diversos personatges es parlen recurrentment amb menyspreu i arrogància, i es manipulen l'uns als altres, com quan una dona expressament activa un micròfon que li permet al director escoltar una conversa on malparlen d'ell. No hi ha una sanció clara en el relat, només per una de les situacions, quan el director es disculpa per haver tractat malament una dependenta.<br><br>Hi ha situacions discriminatòries presentades negativament com quan, per exemple, un home menciona les relacions amoroses anteriors d'una dona quan ella fa servir la paraula 'excita', o una dona és acusada d'histèrica. Una mare diu que tenia por que la seva filla s'hagués trobat de nit un 'violador'."
+  },
+  {
+    "titol": "Pedralbes Centre 1x03",
+    "codi": "5697324",
+    "edat": "13",
+    "raons": "Abús de drogues lícites (alcohol), presentat de manera neutra<br>Situacions discriminatòries amb sanció neutra",
+    "mesinfo": "<b>Drogues</b><br>Vegeu 'Discriminació, racisme i xenofòbia'.<br><br><b>Discriminació, racisme i xenofòbia</b><br>Dos personatges japonesos es comporten reiteradament de manera estereotipada, i un home té entrebancs sovint tractant amb ells, quan confon un amb l'altre, reaccionen disgustats quan malinterpreten una cosa, o reaccionen amb una reverència quan no l'entenen. Més tard, es queden amb una dona i acaben bebent tots sake, acabant tots ebris, mentre la dona els explica que a la cultura occidental és habitual fer-se petons per saldar un tracte -puntualitzant que fins i tot entre homes-, i ho imiten amb la primera persona que troben. A més, hi ha un moment en què una dona es conté quan vol parlar de règim tenint una dona corpulenta davant, fins que la mateixa dona reconeix que és grassa, i ella reconeix que 'ho té ben assumit i jo vinga patir'.<br><br>Hi ha continguts sexuals ocasionals d'explicitació baixa. Hi ha llenguatge groller ocasional d'intensitat alta ('gilipollas'). Es fa una al·lusió al suïcidi durant una conversa en què una dona és amenaçada per la seva exparella de no pagar-li i deixar-la arruïnada. Hi ha conductes i valors incívics amb sanció neutra; una nena se salta l'escola i fa patir el seu pare durant tot l'episodi i és recompensada pel seu comportament."
+  },
+  {
     "titol": "Perduda (2014)",
     "codi": "6327013",
     "edat": "18",
@@ -21117,15 +21320,169 @@
     "codi": "polonia",
     "edat": "13",
     "orig": "7 (prèviament: TP)",
-    "potser": "drogues lícites o il·lícites, discriminació i llenguatge groller",
+    "potser": "drogues lícites o il·lícites, discriminació i llenguatge groller (CAC)",
     "imdb": "tt0764959",
     "cac": "13",
     "serie": true,
     "tv3": true
   },
   {
+    "titol": "Polònia 16/10/2008",
+    "codi": "6387597",
+    "edat": "7",
+    "raons": "Violència ocasional, irreal, explícita, d'intensitat molt lleu, no legitimada<br>Llenguatge groller ocasional d'intensitat baixa<br>(Qualificació oficial del CAC)",
+    "mesinfo": "El següent contingut està extret de l'informe 121/2008 de l'Àrea de Continguts del CAC.<br><br><b>Violència</b><br>Per exemple: El personatge que parodia a Esperanza Aguirre bufeteja en repetides ocasions el personatge que parodia a Soraya Sáenz de Santamaría i amb un efecte de càmera ràpida per a ressaltar-ne la clau humorística. El personatge que parodia al Rei llança un míssil des d'un avió i fa explosionar un edifici del centre de Madrid. El personatge que parodia al Papa intenta estrangular al personatge que parodia a Jordi Pujol i viceversa.<br><br><b>Llenguatge groller</b><br>Per exemple: 'coñazo', 'conyàs', 'imbècil', 'merda'."
+  },
+  {
+    "titol": "Polònia 13/11/2008",
+    "codi": "6387586",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa<br>(Qualificació oficial del CAC)",
+    "mesinfo": "El següent contingut està extret de l'informe 133/2008 de l'Àrea de Continguts del CAC.<br><br><b>Llenguatge groller</b><br>Per exemple: 'burro', 'ves a la merda', 'no hi ha collons', 'merdosos'."
+  },
+  {
+    "titol": "Polònia 18/12/2008",
+    "codi": "6387602",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa<br>(Qualificació oficial del CAC)",
+    "mesinfo": "El següent contingut està extret de l'informe 140/2008 de l'Àrea de Continguts del CAC.<br><br><b>Llenguatge groller</b><br>Per exemple: 'el Puigcercós diu que ets un imbècil', 'estoy puteando al PSC', '¡vaya mierda de dardo!', 'merda!', 'joder!'."
+  },
+  {
+    "titol": "Polònia 08/01/2009",
+    "codi": "6387588",
+    "edat": "13",
+    "raons": "Situacions amb al·lusions a drogues il·lícites (cocaïna) presentades de manera neutra<br>Llenguatge groller freqüent d'intensitat alta<br>(Qualificació oficial del CAC)",
+    "mesinfo": "El següent contingut està extret de l'informe 3/2009 de l'Àrea de Continguts del CAC.<br><br><b>Drogues</b><br>Per exemple: El personatge que parodia a Ramon Pellicer diu: 'Un professor britànic recomana als estudiants que prenguin drogues per millorar el rendiment als exàmens. Per fer un bon comentari de text, n'hi ha prou amb quatre ratlles'. El personatge que parodia a Artur Mas diu: 'Merda! No tinc ni una ratlleta'. El personatge que parodia a Oriol Pujol li respon: 'Em sembla que no és el moment de pensar en festetes'. La parodia d'Artur Mas li replica: 'Ni una ratlleta de cobertura'.<br><br><b>Llenguatge groller</b><br>Per exemple: 'un moment, joder!', 'hòstia!', 'collons!', 'merda!', 'lo puto rei del Polònia'."
+  },
+  {
+    "titol": "Polònia 05/02/2009",
+    "codi": "6387573",
+    "edat": "7",
+    "raons": "Conductes discriminatòries presentades de manera negativa<br>Llenguatge groller ocasional d'intensitat baixa<br>(Qualificació oficial del CAC)",
+    "mesinfo": "El següent contingut està extret de l'informe 19/2009 de l'Àrea de Continguts del CAC.<br><br><b>Discriminació, racisme i xenofòbia</b><br>Un dels gags del programa planteja la queixa d'un home per la obertura d'un establiment al barri governat per una parella homosexual. Aquest home s'expressa de la següent manera: 'A mi no m'agraden els mariques' o 'En nom de la gent normal de Catalunya' o 'No t'has de sentir amenaçat per ser raro'. Al final del gag un dels membres de la parella homosexual és el fill del denunciant.<br><br><b>Llenguatge groller</b><br>Per exemple: 'merda!', 'el informe ¡memo!'."
+  },
+  {
+    "titol": "Polònia 22/03/2009",
+    "codi": "6387656",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa<br>(Qualificació oficial del CAC)",
+    "mesinfo": "El següent contingut està extret de l'informe 39/2009 de l'Àrea de Continguts del CAC.<br><br><b>Llenguatge groller</b><br>Per exemple: 'vaja proposta de merda', 'Gallardón es imbécil', 'hòstia'.<br><br>Es detecta la presència ocasional de violència irreal, no explícita, lleu i no legitimada. Per exemple: en un gag paròdic, dos mossos d'esquadra agafen un estudiant i li claven cops de porra; quan una periodista s'hi acosta, també li claven cops. S'observa clarament que els impactes són fingits, i s'inclouen diversos efectes de so còmics."
+  },
+  {
+    "titol": "Polònia 16/04/2009",
+    "codi": "6387654",
+    "edat": "13",
+    "raons": "Llenguatge groller freqüent d'intensitat alta<br>(Qualificació oficial del CAC)",
+    "mesinfo": "El següent contingut està extret de l'informe 52/2009 de l'Àrea de Continguts del CAC.<br><br><b>Llenguatge groller</b><br>Per exemple: 'se sienten, coño! ostia!', '¿qué coño haces?', 'es una putada', '¡menuda mierda!', 'imbècil', 'joder'.<br><br>Es detecta la presència de situacions de discriminació, racisme o xenofòbia presentades de manera neutra, en un gag on el context humorístic provoca un distanciament dels menors. Es detecta la presència ocasional de violència irreal, no explícita, molt lleu i no legitimada. Per exemple: en un gag paròdic, dos mossos d'esquadra fan fora d'una sala l'actor que interpreta el conseller Joan Saura, etzibant-li empentes i cops. S'observa clarament que els impactes són fingits, i s'inclouen diversos efectes de so còmics."
+  },
+  {
+    "titol": "Polònia 14/05/2009",
+    "codi": "6387655",
+    "edat": "13",
+    "raons": "Llenguatge groller freqüent d'intensitat alta<br>(Qualificació oficial del CAC)",
+    "mesinfo": "El següent contingut està extret de l'informe 63/2009 de l'Àrea de Continguts del CAC.<br><br><b>Llenguatge groller</b><br>Per exemple: 'coño', 'imbècil', 'puto canvi econòmic', 'cabrón', 'merda'."
+  },
+  {
+    "titol": "Polònia 25/06/2009",
+    "codi": "1335999",
+    "edat": "13",
+    "raons": "Llenguatge groller freqüent d'intensitat alta<br>(Qualificació oficial del CAC)",
+    "mesinfo": "El següent contingut està extret de l'informe 67/2009 de l'Àrea de Continguts del CAC.<br><br><b>Drogues</b><br>En un gag que imita a la pel·lícula de terror Rec, una mossa d'esquadra i un càmera entren en un pis i de sobte es troben tres joves fumant porros. Els joves semblen els morts vivents de la pel·lícula. La mossa crida espantada 'Ai Déu meu, estan fumant porros!', mentre un dels joves se li acosta preguntant-li 'Vols un canu, tia?'.<br><br>Es detecta la presència ocasional de llenguatge groller d'intensitat baixa: 'maricón l'últim!, 'quina merda de poblat', 'merda', 'és una putada'."
+  },
+  {
+    "titol": "Polònia 19/11/2009",
+    "codi": "6390569",
+    "edat": "13",
+    "raons": "Llenguatge groller freqüent d'intensitat alta<br>(Qualificació oficial del CAC)",
+    "mesinfo": "El següent contingut està extret de l'informe 67/2009 de l'Àrea de Continguts del CAC.<br><br><b>Drogues</b><br>En un gag que imita a la pel·lícula de terror Rec, una mossa d'esquadra i un càmera entren en un pis i de sobte es troben tres joves fumant porros. Els joves semblen els morts vivents de la pel·lícula. La mossa crida espantada 'Ai Déu meu, estan fumant porros!', mentre un dels joves se li acosta preguntant-li 'Vols un canu, tia?'.<br><br>Es detecta la presència ocasional de llenguatge groller d'intensitat baixa: 'maricón l'últim!, 'quina merda de poblat', 'merda', 'és una putada'."
+  },
+  {
+    "titol": "Polònia 17/12/2009",
+    "codi": "6389186",
+    "edat": "10",
+    "raons": "Violència ocasional, irreal, explícita, d'intensitat lleu, legitimada<br>Consum de drogues lícites (alcohol) presentat de manera neutra<br>Llenguatge groller ocasional d'intensitat alta<br>(Qualificació oficial del CAC)",
+    "mesinfo": "El següent contingut està extret de l'informe 144/2009 de l'Àrea de Continguts del CAC.<br><br><b>Violència</b><br>En un gag del programa el personatge que caricaturitza Josep-Lluís Carod-Rovira apareix vestit de torero i el personatge que representa Joan Herrera va disfressat de toro. Plantegen unes normes per a evitar el patiment dels toros en les curses de braus. Joan Herrera diu que el toro portarà un escamot de mossos d'esquadra per a protegir-lo. L'escamot de mossos d'esquadra aixeca les seves porres i piquen a l'esquena i les cames del personatge que interpreta Carod-Rovira.<br><br><b>Drogues</b><br>Es veu com el personatge que caricaturitza el periodista Ferran Monegal beu el líquid de l'interior d'una bossa d'aigua que porta al cap i diu: 'Tranquils. No és aigua. És conyac que va molt bé pel mal d'ossos'. Es veuen els personatges que caricaturitzen els escriptors Empar Moliner, Quim Monzó, Mathew Tree i Pere Gimferrer. L'actor que representa Mathew Tree ensenya un càntir on diu que hi ha sangria de cava. L'actiu que representa Empar Moliner li diu que l'hi aboqui a la boca. El personatge que interpreta Quim Monzó afegeix: 'Som el puto motor cultural de Catalunya!'.<br><br><b>Llenguatge groller</b><br>'¡Joder! ¡Qué cruz!', 'Fill de puta!', 'Som el puto motor cultural de Catalunya!, 'Tonto! Imbècil!'"
+  },
+  {
+    "titol": "Polònia 21/01/2010",
+    "codi": "2483659",
+    "edat": "10",
+    "raons": "Comportaments discriminatoris amb sanció neutra<br>Llenguatge groller freqüent d'intensitat baixa<br>(Qualificació oficial del CAC)",
+    "mesinfo": "El següent contingut està extret de l'informe 14/2010 de l'Àrea de Continguts del CAC.<br><br><b>Discriminació, racisme i xenofòbia</b><br>En un dels gags del programa, que parodia un teleinformatiu, es fa una connexió amb Vic, on es veu una imatge on només hi ha boira. De fons, [se sent una conversa]: 'moro cabró!', (paraules inintel·ligibles en àrab), 'moraco!', (paraules inintel·ligibles en àrab). El context humorístic en què es dóna fa disminuir un grau la categoria d'edat resultant.<br><br><b>Llenguatge groller</b><br>'Collons!' (2 cops), 'Moro cabró! Moraco!', 'Idiota!' (3 cops), '¡Memo!', 'No comencem tocant els ous, eh?'."
+  },
+  {
+    "titol": "Polònia 16/09/2010",
+    "codi": "6390568",
+    "edat": "13",
+    "raons": "Llenguatge groller freqüent d'intensitat alta<br>(Qualificació oficial del CAC)",
+    "mesinfo": "El següent contingut està extret de l'informe 82/2010 de l'Àrea de Continguts del CAC.<br><br><b>Llenguatge groller</b><br>Al llarg del programa hi ha presència freqüent de llenguatge groller d'intensitat alta, especialment en el gag del programa 'El gato al agua' i en un altre que paròdia a la banda terrorista ETA, on es recorre a la idea estereotipada de què els bascos utilitzen interjeccions malsonants quan parlen.<br><br>Es detecta la presència ocasional de violència irreal, explícita, d'intensitat lleu i no legitimada, en un context humorístic: en un gag, l'imitador del president d'ERC, Joan Puigcercós, entra en una habitació on se celebra la 'Cimera per la unitat dels independentistes' i es troba amb un grup de gent barallant-se. En un altre moment, el personatge que imita el president de la Generalitat, José Montilla, somia que el ministre de Treball, Celestino Corbacho, l'assetja destrossant una porta amb un destral, parodiant l'actor Jack Nicholson en el film 'The Shining (El resplandor)'. S'observa la presència ocasional de continguts sexuals o eròtics amb un grau d'explicitació baix en un gag en què, en referència a la publicació d'unes fotografies on es mostrava la prostitució explícita al mercat de la Boqueria, apareix el personatge que imita l'alcalde de Barcelona, Jordi Hereu, amb un grup de prostitutes, que estan amagades al seu despatx i s'insinuen als funcionaris. Es detecta la presència ocasional de continguts discriminatoris presentats de manera negativa en l'emissió d'un fragment del programa 'El gato al agua' de Intereconomía, en què el personatge imitador del periodista Eduardo García Serrano, un dels tertulians del programa, comença disculpant-se pels insults proferits contra la consellera de Salut, Marina Geli, i acaba repetint el discurs vexatori. S'observa la presència ocasional de situacions susceptibles de provocar por o angoixa amb un grau d'afectació lleu, atès que estan tractades en clau d'humor (vegeu la paròdia de la pel·lícula 'El resplandor' descrita a la variable 'Violència')."
+  },
+  {
+    "titol": "Polònia 18/11/2010",
+    "codi": "3222090",
+    "edat": "10",
+    "raons": "Llenguatge groller ocasional d'intensitat alta<br>(Qualificació oficial del CAC)",
+    "mesinfo": "El següent contingut està extret de l'informe 108/2010 de l'Àrea de Continguts del CAC.<br><br><b>Llenguatge groller</b><br>S'empren expressions que socialment es consideren malsonants (com per exemple 'hòstia', 'collons', 'joder', etc.)."
+  },
+  {
+    "titol": "Polònia 09/12/2010",
+    "codi": "3259170",
+    "edat": "10",
+    "raons": "Consum de drogues lícites (alcohol) presentat de forma neutra<br>Llenguatge groller ocasional d'intensitat alta<br>(Qualificació oficial del CAC)",
+    "mesinfo": "El següent contingut està extret de l'informe 118/2010 de l'Àrea de Continguts del CAC.<br><br><b>Drogues</b><br>Una imitadora de la ministra de Defensa, Carme Chacón, consumeix alcohol per afrontar una situació difícil.<br><br><b>Llenguatge groller</b><br>S'empren expressions que socialment es consideren malsonants o de mal gust (com per exemple 'hòstia', 'collons', 'fill de puta', etc.).<br><br>Es detecta la presència ocasional de violència irreal, explícita i d'intensitat molt lleu quan en un gag uns personatges que representen els Mossos d'Esquadra colpegen un personatge que parodia el conseller d'Interior de la Generalitat, Joan Saura."
+  },
+  {
+    "titol": "Polònia 13/01/2011",
+    "codi": "3313250",
+    "edat": "10",
+    "raons": "Llenguatge groller ocasional d'intensitat alta<br>(Qualificació oficial del CAC)",
+    "mesinfo": "El següent contingut està extret de l'informe 5/2011 de l'Àrea de Continguts del CAC.<br><br><b>Llenguatge groller</b><br>En diversos gags s'empren expressions que socialment es consideren malsonants o de mal gust, algunes de les quals acompanyades amb gestos grollers.<br><br>Es detecta la presència ocasional de violència irreal, explícita, d'intensitat molt lleu i no legitimada quan en un gag un personatge que representa el conseller d'interior, Felip Puig, trenca objectes del despatx de l'exconseller Joan Saura amb un bat i l'amenaça; també quan, en un altre gag, un home i una dona disparen uns trets a l'aire per demanar que torni a governar el grup socialista."
+  },
+  {
+    "titol": "Polònia 03/11/2011",
+    "codi": "3787390",
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa<br>(Qualificació oficial del CAC)",
+    "mesinfo": "El següent contingut està extret de l'informe 98/2011 de l'Àrea de Continguts del CAC.<br><br><b>Llenguatge groller</b><br>Hi ha presència freqüent de llenguatge groller d'intensitat baixa en diferents esquetxs, però especialment en un dedicat a la negociació del conflicte basc, atès que es recorre a la idea estereotipada de què els bascos utilitzen interjeccions malsonants quan parlen.<br><br>Es detecta la presència ocasional de violència irreal, explícita, d'intensitat lleu i no legitimada pel discurs en un gag en què el personatge que representa l'exconseller d'Interior Joan Saura es mostra violent contra les coses i les persones."
+  },
+  {
+    "titol": "Polònia 01/03/2012",
+    "codi": "3978370",
+    "edat": "10",
+    "raons": "Llenguatge groller ocasional d'intensitat alta<br>(Qualificació oficial del CAC)",
+    "mesinfo": "El següent contingut està extret de l'informe 23/2012 de l'Àrea de Continguts del CAC.<br><br><b>Llenguatge groller</b><br>Es fa ús d'expressions i interjeccions que socialment es tenen per malsonants.<br><br>Es detecta la presència ocasional de violència irreal, explícita, d'intensitat lleu i no legitimada pel discurs, en un context humorístic, atès que forma part del guió d'alguns esquetxos."
+  },
+  {
+    "titol": "Polònia 22/03/2012",
+    "codi": "4013650",
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa<br>(Qualificació oficial del CAC)",
+    "mesinfo": "El següent contingut està extret de l'informe 37/2012 de l'Àrea de Continguts del CAC.<br><br><b>Llenguatge groller</b><br>Es fa ús d'expressions i interjeccions que socialment es tenen per malsonants.<br><br>Es detecta la presència ocasional de violència irreal, explícita, d'intensitat greu i no legitimada pel discurs, en un context humorístic."
+  },
+  {
+    "titol": "Polònia 10/06/2012",
+    "codi": "4119170",
+    "edat": "10",
+    "raons": "Llenguatge groller ocasional d'intensitat alta<br>(Qualificació oficial del CAC)",
+    "mesinfo": "El següent contingut està extret de l'informe 72/2012 de l'Àrea de Continguts del CAC.<br><br><b>Llenguatge groller</b><br>Es fa ús d'expressions i interjeccions que socialment es tenen per malsonants."
+  },
+  {
+    "titol": "Polònia 13/09/2012",
+    "codi": "4243570",
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa<br>(Qualificació oficial del CAC)",
+    "mesinfo": "El següent contingut està extret de l'informe 112/2012 de l'Àrea de Continguts del CAC.<br><br><b>Llenguatge groller</b><br>S'empren expressions i interjeccions que socialment es tenen per malsonants.<br><br>S'observa la presència ocasional de violència irreal, no explícita, d'intensitat greu i no legitimada pel discurs, atès que en un dels esquetxos es fa ús d'armes de foc."
+  },
+  {
+    "titol": "Polònia 29/11/2012",
+    "codi": "4360510",
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa<br>(Qualificació oficial del CAC)",
+    "mesinfo": "El següent contingut està extret de l'informe 139/2012 de l'Àrea de Continguts del CAC.<br><br><b>Llenguatge groller</b><br>S'empren expressions i interjeccions que socialment es tenen per malsonants.<br><br>S'observa la presència ocasional de violència irreal, no explícita, d'intensitat molt lleu i legitimada pel discurs, atès que, amb un tractament paròdic, s'inclou violència física en alguns dels esquetxos."
+  },
+  {
     "titol": "Polònia 15/09/2022",
-    "codi": "6153051",
+    "codi": "3787390",
     "edat": "10",
     "raons": "Violència freqüent, irreal, explícita, d'intensitat lleu, no legitimada<br>Al·lusions sexuals ocasionals d'explicitació mitjana<br>Llenguatge groller freqüent d'intensitat baixa",
     "mesinfo": "<b>Violència</b><br>Es fa una broma molt implícita sobre abús de menors, parlant de l'església. Es fan bromes sobre decapitacions. Es fa broma sobre l'afusellament de Lluís Companys, i el personatge apareix ferit, amb sang a la cara i al nas, després d'una baralla fora de càmera. Una psicòloga es llença per la finestra despreś d'escoltar a diferents pacients. Un personatge apareix maltractant el seu majordom, fins al punt d'obligar-lo a fer servir la seva mà de lavabo. Un personatge intenta escanyar a un altre amb una corda. Una escena recreant una escola mostra un home donant-li un clatellot a un altre, o assetjant a una noia nova. Un home dispara al sostre amb una pistola.<br><br><b>Sexe</b><br>Es comenta que molts monarques tenien l'afició de 'fornicar' amb membres de la família, i això els va deixar amb problemes genètics. En una escena, apareix una dona que es presenta com a 'chica del Club Sensation', que diu que han preparat 'un pole Dance a media asta a ras del suelo'. També es fan insinuacions d'explicitació baixa, quan un home li pregunta a una dona si 'vols que t'ensenyi les meves joies de la corona'.<br><br><b>Llenguatge groller</b><br>S'inclouen expressions com 'hòstia', 'mierda', 'collons', 'fotre', 'cabrón' i 'coño', i una persona ensenya el dit del mig. Tot i que a vegades s'utilitzin per insultar, generalment el context és còmic.<br><br>En un rètol d'un esquetx burlant-se de l'actuació del govern espanyol, hi apareix: 'immigrants no'."
@@ -23387,6 +23744,22 @@
     "mesinfo": "<b>Drogues</b><br>Es fan algunes referències negatives relatives al consum d'alcohol.<br><br>Hi ha situacions angoixants ocasionals d'afectació lleu quan es parla de 'donar armes als joves i ensenyar-los a matar'."
   },
   {
+    "titol": "Soc com soc",
+    "codi": "soc-com-soc",
+    "edat": "10",
+    "orig": "TP",
+    "potser": "drogues lícites o il·lícites i discriminació",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Soc com soc 1x01 - Avui fa un any",
+    "codi": "5821000",
+    "edat": "10",
+    "raons": "Consum de drogues lícites (alcohol), presentat de manera neutra<br>Comentaris discriminatoris amb sanció neutra",
+    "mesinfo": "<b>Drogues</b><br>En un sopar, una parella beu vi i en comenta positivament les propietats. Més tard, dos homes se serveixen diverses copes en un context distès.<br><br><b>Discriminació, racisme i xenofòbia</b><br>Parlant de relacions amoroses, el protagonista fa comentaris simplistes que redueixen la dona a suport de l'home.<br><br>Hi ha al·lusions sexuals ocasionals d'explicitació baixa. Hi ha situacions angoixants ocasionals d'afectació lleu per al·lusions a la mort de la dona del protagonista."
+  },
+  {
     "titol": "Soc i seré",
     "codi": "soc-i-sere",
     "edat": "10",
@@ -23401,6 +23774,23 @@
     "edat": "10",
     "raons": "Llenguatge groller ocasional d'intensitat alta",
     "mesinfo": "<b>Llenguatge groller</b><br>Es fan servir expressions com 'putades', 'collons', 'hostiar' o 'joder'.<br><br>Hi ha por i angoixa lleu ocasional quan un home parla de la seva difunta filla."
+  },
+  {
+    "titol": "Somiers",
+    "codi": "somiers",
+    "edat": "13",
+    "orig": "TP",
+    "cac": "7",
+    "potser": "continguts sexuals",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Somiers 1x02 - Somnis de por i de violència",
+    "codi": "5645945",
+    "edat": "7",
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat lleu i legitimada<br>Por i angoixa freqüent d'afectació lleu<br>(Qualificació oficial del CAC)",
+    "mesinfo": "El següent contingut està extret de l'informe 71/2008 de l'Àrea de Continguts del CAC.<br><br><b>Violència</b><br>La presentadora explica un dels seus malsons i el programa el recrea. Es troba en una platja i una parella la molesta. Ella regira la sorra, troba una pistola i els dispara. [A més,] Enric Pubill és convidat al programa per explicar un malson que tenia quan estava empresonat a la Model durant el Franquisme. El convidat també explica com va patir pallisses i tortures durant els interrogatoris que li feien.<br><br><b>Por i angoixa</b><br>Enric Pubill explica el malson recorrent que tenia quan va estar tancat a la presó Model durant el Franquisme. Explica que fugia corrent d'alguna cosa que el perseguia. Pujava una muntanya i quan arribava al cim, queia al buit i es despertava trasbalsat. El convidat diu literalment que es despertava amb una sensació 'd'angoixa i de por'. David Muñoz, component del grup musical Estopa, explica com un dia va somiar que es produïa l'apocalipsi i ell buscava la seva família, però no els trobava. Un jove explica que a partir dels vuit anys va començar a somiar que el perseguia un gegant i ell fugia. Arribava a una porta i, quan la traspassava, queia al buit. Un nen explica que va somiar que un home que no era el seu pare l'anava a buscar a l'escola. Ell cridava que no era el seu pare però no li feien cas. Una nena va somiar que la segrestaven. Un nen va somiar que l'atacaven aranyes gegants. Una nena va somiar que es quedava sola al món."
   },
   {
     "titol": "Somos osos",
@@ -24199,6 +24589,29 @@
     "mesinfo": "<b>Drogues</b><br>Es fan referències neutres en un context humorístic al consum de marihuana quan es comenten els ulls dels furbys, 'que sembla que hagin fumat un porro de la mida del braç de Marc Gasol'. També es fan referències neutres al consum d'alcohol ('el president de Rússia, un home amb més alcohol a la sang que a la nevera', 'com el pedal que portava l'hongarès que li va comprar la patent').<br><br><b>Llenguatge groller</b><br>Es diu 'acollonit', 'fins als collons', 'gilipollas', 'me jodí', 'que les den por culo' i 'merda', entre d'altres, sovint de manera agressiva.<br><br>Es fan referències sexuals ocasionals d'explicitació mitjana en comentar el cas Lewinsky; s'ensenya un vestit tacat que es diu que és semen que un home ensuma."
   },
   {
+    "titol": "Tot un senyor",
+    "codi": "tot-un-senyor",
+    "edat": "10",
+    "orig": "TP",
+    "potser": "drogues lícites o il·lícites",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Tot un senyor 1x01 - La caixa segura",
+    "codi": "5649186",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu",
+    "mesinfo": "<b>Por i angoixa</b><br>Un home explica que la seva germana i ell es van quedar orfes després que l'autobús on anaven els seus pares s'accidentés. El relat s'acompanya de rialles enllaunades.<br><br>El protagonista és breument ofert de fumar tabac."
+  },
+  {
+    "titol": "Tot un senyor 1x06 - Les aparences enganyen",
+    "codi": "5649184",
+    "edat": "10",
+    "raons": "Consum de drogues lícites (tabac), presentat de manera neutra",
+    "mesinfo: "<b>Drogues</b><br>Un personatge secundari positiu es presenta fumant tabac dins d'una fonda.<br><br>Hi ha continguts sexuals ocasionals d'explicitació baixa i situacions de discriminació amb sanció negativa, quan una treballadora és assetjada verbalment, i el protagonista la defensa amb un llarg discurs que inclou referències al dret de cuixa, al 'pitram' o a mirar 'libidosament'."
+  },
+  {
     "titol": "Tres estrelles",
     "codi": "tres-estrelles",
     "edat": "7",
@@ -24272,6 +24685,7 @@
     "edat": "13",
     "orig": "TP",
     "cac": "13",
+    "potser": "violència, drogues lícites o il·lícites i llenguatge groller (CAC)",
     "serie": true,
     "tv3": true
   },
@@ -24594,10 +25008,17 @@
     "codi": "ventdelpla",
     "edat": "13",
     "orig": "10",
-    "potser": "violència, situacions angoixants i llenguatge groller",
+    "potser": "violència, situacions angoixants i llenguatge groller (CAC)",
     "cac": "13",
     "serie": true,
     "tv3": true
+  },
+  {
+    "titol": "Ventdelplà 6x31 (11/01/2009)",
+    "codi": "5400191",
+    "edat": "13",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat greu, no legitimada<br>Por i angoixa reiterada d'afectació mitjana<br>Llenguatge groller freqüent d'intensitat alta<br>(Qualificació oficial del CAC)",
+    "mesinfo": "El següent contingut està extret de l'informe 6/2009 de l'Àrea de Continguts del CAC.<br><br><b>Violència</b><br>Una persona amenaça un home amb una pistola. Disparen dos trets a un home, que queda estès a terra i la policia no el troba fins a l'endemà, quan ja és mort. Una persona col·loca un artefacte explosiu sota un cotxe; quan el propietari entra al cotxe, aquest explota.<br><br><b>Por i angoixa</b><br>Tota la trama del capítol gira entorn a la mort violenta de dos dels protagonistes de la telesèrie i l'impacte emocional sobre la resta de personatges.<br><br><b>Llenguatge groller</b><br>Per exemple: 'no sé què collons vaig fer', 'que sí! collons!', 'cagun tot!', 'joder!', '¡coño!', 'agafi aquests assassins fills de puta!, 'ho han aconseguit aquests fills de puta', 'a què collons es dedica?'."
   },
   {
     "titol": "Viatges Pokémon",
@@ -25180,5 +25601,29 @@
     "edat": "7",
     "raons": "Continguts sexuals ocasionals d'explicitació baixa<br>Por i angoixa ocasional d'afectació mitjana<br>Al·lusions a drogues lícites (tabac, alcohol) i il·lícites (cocaïna), presentades de manera negativa<br>Llenguatge groller ocasional d'intensitat baixa",
     "mesinfo": "<b>Sexe</b><br>En un poema còmic que un col·laborador llegeix per a un convidat, es diu que 'quan tu obres el TN, a mi m'encens l'antena'.<br><br><b>Por i angoixa</b><br>S'ensenya un vídeo viral on a un home que ha caigut a un riu li llencen una soga i ell se la col·loca al coll i els col·laboradors especulen que volia acabar amb la seva vida. També s'ensenyen ocasionalment altres vídeos d'afectació lleu, com quan un home impacta amb el cap contra el terra en caure d'un gronxador, o uns nens són perseguits per una persona amb una motoserra en sortir d'alguna atracció d'un centre comercial.<br><br><b>Drogues</b><br>En ensenyar un home que, amb la seva panxa, atura el flux de l'aigua d'una atracció, un col·laborador diu que 'perquè després diguin que beure cerveses no és tan bo', comentari que retreu el presentador. També es fa un comentari negatiu sobre fumar una cigarreta. S'ensenya un vídeo d'un cap de la policia sent atacat per un gos policia, insinuant que duia substàncies il·legals a sobre, sense ser més explícit, tot i que una col·laboradora parla directament de 'quilo de farlopa'. També es comenta el cas d'un periodista que es va negar a fer-se 'la prova'.<br><br><b>Llenguatge groller</b><br>Es fa servir 'merdosa', 'no te la fotis', 'fotre't', 'fotut', 'se la fot' i 'fot-li', i es fan algunes bromes escatològiques."
+  },
+  {
+    "titol": "Zoo",
+    "codi": "zoo",
+    "edat": "13",
+    "orig": "13 (prèviament: TP)",
+    "cac": "13",
+    "potser": "situacions angoixants (CAC)",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "Zoo 1x01",
+    "codi": "5316892",
+    "edat": "13",
+    "raons": "Por i angoixa reiterada d'afectació mitjana<br>(Qualificació oficial del CAC)",
+    "mesinfo": "El següent contingut està extret de l'informe 25/2008 de l'Àrea de Continguts del CAC.<br><br><b>Por i angoixa</b><br>En Jan, que té set anys, i la Tina són atropellats per un cotxe. La Tina mor i en Jan és conduït a l'hospital en situació greu. Finalment han d'extirpar-li la melsa. Aquesta situació és el fil conductor dels dos primers capítols de la sèrie i les escenes que transcorren a l'hospital són reiterades."
+  },
+  {
+    "titol": "Zoo 1x02",
+    "codi": "5318352",
+    "edat": "13",
+    "raons": "Por i angoixa reiterada d'afectació mitjana<br>(Qualificació oficial del CAC)",
+    "mesinfo": "El següent contingut està extret de l'informe 25/2008 de l'Àrea de Continguts del CAC.<br><br><b>Por i angoixa</b><br>En Jan, que té set anys, i la Tina són atropellats per un cotxe. La Tina mor i en Jan és conduït a l'hospital en situació greu. Finalment han d'extirpar-li la melsa. Aquesta situació és el fil conductor dels dos primers capítols de la sèrie i les escenes que transcorren a l'hospital són reiterades."
   }
 ]
