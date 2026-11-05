@@ -6075,6 +6075,13 @@
     "potser": "violència i situacions angoixants"
   },
   {
+    "titol": "Cruïlla",
+    "codi": "cruilla",
+    "edat": "10",
+    "potser": "continguts sexuals, drogues lícites o il·lícites i llenguatge groller",
+    "serie": true
+  },
+  {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
     "titol": "13 anys... i un dia",
     "codi": "tretze-anys-i-un-dia",
