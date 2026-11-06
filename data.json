@@ -6226,6 +6226,12 @@
     "potser": "situacions angoixants i llenguatge groller"
   },
   {
+    "titol": "La Zona Hermètica",
+    "codi": "la-zona-hermetica",
+    "edat": "13",
+    "serie": true
+  },
+  {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
     "titol": "13 anys... i un dia",
     "codi": "tretze-anys-i-un-dia",
