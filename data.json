@@ -6077,9 +6077,153 @@
   {
     "titol": "Cruïlla",
     "codi": "cruilla",
-    "edat": "0",
-    "potser": "continguts sexuals, drogues lícites o il·lícites i llenguatge groller",
+    "edat": "13",
+    "potser": "drogues lícites o il·lícites i llenguatge groller",
     "serie": true
+  },
+  {
+    "titol": "SF Compartim la collita",
+    "codi": "6260945",
+    "edat": "7",
+    "potser": "llenguatge groller"
+  },
+  {
+    "titol": "SF Especial sequera: canvi de cicle",
+    "codi": "6268612",
+    "edat": "0",
+    "potser": "situacions angoixants"
+  },
+  {
+    "titol": "SF Matusalem (repe)",
+    "codi": "6402049",
+    "edat": "7",
+    "potser": "continguts sexuals, situacions angoixants, drogues lícites o il·lícites, discriminació i llenguatge groller"
+  },
+  {
+    "titol": "SF Toresky: el prodigi de la imaginació",
+    "codi": "6377568",
+    "edat": "10",
+    "potser": "drogues lícites o il·lícites"
+  },
+  {
+    "titol": "SF I diem prou!",
+    "codi": "6147742",
+    "edat": "13",
+    "potser": "violència, continguts sexuals i situacions angoixants"
+  },
+  {
+    "titol": "SF La capsa vermella. La guerra infinita d'Antoni Campañà",
+    "codi": "6103558",
+    "edat": "10",
+    "potser": "situacions angoixants"
+  },
+  {
+    "titol": "SF Viatjar a Mart. Salvar la Terra",
+    "codi": "6105597",
+    "edat": "7",
+    "potser": "discriminació i llenguatge groller"
+  },
+  {
+    "titol": "SF Sense ficció o ciència ficció?",
+    "codi": "6105599",
+    "edat": "7",
+    "potser": "situacions angoixants"
+  },
+  {
+    "titol": "SF Vull el divorci. 40 anys de la llei",
+    "codi": "6119354",
+    "edat": "10",
+    "potser": "violència i continguts sexuals"
+  },
+  {
+    "titol": "SF Les llavors de l'odi",
+    "codi": "6129901",
+    "edat": "13",
+    "potser": "violència"
+  },
+  {
+    "titol": "SF Robin Bank",
+    "codi": "6196227",
+    "edat": "10",
+    "potser": "discriminació i conductes incíviques"
+  },
+  {
+    "titol": "SF Adeu a les botigues?",
+    "codi": "6085327",
+    "edat": "13",
+    "potser": "discriminació"
+  },
+  {
+    "titol": "SF Un procés dins el procés",
+    "codi": "5839766",
+    "edat": "7",
+    "potser": "llenguatge groller"
+  },
+  {
+    "titol": "SF Mossos, llums i ombres",
+    "codi": "6014526",
+    "edat": "10",
+    "potser": "violència, situacions angoixants i discriminació"
+  },
+  {
+    "titol": "SF J. Pau, Jesús & Rock 'N' Roll",
+    "codi": "5994846",
+    "edat": "10",
+    "potser": "violència, continguts sexuals, situacions angoixants i drogues lícites o il·lícites"
+  },
+  {
+    "titol": "SF Fills maltractadors, pares amb pors",
+    "codi": "5971338",
+    "edat": "13",
+    "potser": "violència, situacions angoixants i drogues lícites o il·lícites"
+  },
+  {
+    "titol": "SF És a l'aire",
+    "codi": "5972247",
+    "edat": "7",
+    "potser": "drogues lícites o il·lícites i llenguatge groller"
+  },
+  {
+    "titol": "SF Història d'un assaig",
+    "codi": "6041464",
+    "edat": "10",
+    "potser": "situacions angoixants"
+  },
+  {
+    "titol": "SF Reiniciar el mon",
+    "codi": "6044581",
+    "edat": "13",
+    "potser": "drogues lícites o il·lícites"
+  },
+  {
+    "titol": "SF El virus al teatre",
+    "codi": "6047920",
+    "edat": "10",
+    "potser": "situacions angoixants"
+  },
+  {
+    "titol": "SF Els plans de Cerdà",
+    "codi": "6066109",
+    "edat": "10",
+    "potser": "drogues lícites o il·lícites i llenguatge groller"
+  },
+  {
+    "titol": "SF Ernest Lluch, lliure i atrevit",
+    "codi": "6068213",
+    "edat": "10",
+    "potser": "situacions angoixants"
+  },
+  {
+    "titol": "SF Altsasu, ferides obertes",
+    "codi": "5815016",
+    "edat": "13",
+    "potser": "violència"
+  },
+  {
+    "titol": "SF Ferran Latorre. Més enllà dels 8.000",
+    "codi": "6069403",
+    "edat": "10",
+    "potser": "situacions angoixants i llenguatge groller"
   },
   {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
@@ -7209,6 +7353,12 @@
     "codi": "6433338",
     "edat": "13",
     "raons": "Llenguatge groller freqüent d'intensitat alta"
+  },
+  {
+    "titol": "APM? 05/11/2026",
+    "codi": "6434734",
+    "edat": "10",
+    "raons": "Continguts sexuals ocasionals d'explicitació mitjana<br>Al·lusions al consum de drogues lícites (tabac) i il·lícites (marihuana), presentat de manera negativa<br>Llenguatge groller ocasional d'intensitat alta"
   },
   {
     "titol": "Arrietty i el món dels remenuts (2010)",
@@ -20530,11 +20680,11 @@
   },
   {
     "titol": "Nits sense ficció - Aitana Bonmatí Conca",
-    "codi": "11515151515151515",
+    "codi": "6278399",
     "edat": "10",
     "orig": "TP (durant una emissió per TV3: 13)",
     "raons": "Consum de drogues lícites (alcohol), presentat de manera neutra<br>Llenguatge groller ocasional d'intensitat alta",
-    "mesinfo": "Nota: S'ha analitzat el documental tal qual es va emetre per TV3. A la plataforma 3Cat, es troba dividit en dos capítols.<br><br><b>Drogues</b><br>En alguns punts del documental, uns aficionats demanen i consumeixen begudes alcohòliques. També, fugaçment, es fan referències al consum de tabac i al dopatge.<br><br><b>Llenguatge groller</b><br>Es reprodueixen imatges de l'expresident de la RFEF Luis Rubiales tocant-se els genitals per sobre dels pantalons i en públic. En altres moments del documental, diversos personatges fan servir expressions com 'hòstia', 'hòstia puta', 'malparit', 'merda', 'joder', 'collonada' o 'collonut'.<br><br>Es fa referència a situacions discriminatòries, especialment per raó de gènere, amb una sanció negativa. Per exemple, s'ensenyen i es comenten les imatges del petó forçat a Jenni Hermoso per part de Luis Rubiales. Unes noies d'una selecció comenten que al seu país d'origen les dones no poden treballar ni estudiar i no poden sortir de casa, i es diu que hi ha molts refugiats per temes de guerra i de 'violacions'. Una noia explica que, en el seu país d'origen, hi acabava de tenir lloc un atac suïcida, definit com a 'genocidi ètnic', on més de 50 persones van morir en un hospital. També, una noia diu que va haver de fugir de Rússia per la seva identitat sexual. Les al·lusions més angoixants són només ocasionals i d'afectació mitjana. Al final del documental, la protagonista fa un comentari despectiu sobre el físic d'un amic seu amb síndrome de Down, aparentment sense malícia."
+    "mesinfo": "<b>Drogues</b><br>En alguns punts del documental, uns aficionats demanen i consumeixen begudes alcohòliques. També, fugaçment, es fan referències al consum de tabac i al dopatge.<br><br><b>Llenguatge groller</b><br>Es reprodueixen imatges de l'expresident de la RFEF Luis Rubiales tocant-se els genitals per sobre dels pantalons i en públic. En altres moments del documental, diversos personatges fan servir expressions com 'hòstia', 'hòstia puta', 'malparit', 'merda', 'joder', 'collonada' o 'collonut'.<br><br>Es fa referència a situacions discriminatòries, especialment per raó de gènere, amb una sanció negativa. Per exemple, s'ensenyen i es comenten les imatges del petó forçat a Jenni Hermoso per part de Luis Rubiales. Unes noies d'una selecció comenten que al seu país d'origen les dones no poden treballar ni estudiar i no poden sortir de casa, i es diu que hi ha molts refugiats per temes de guerra i de 'violacions'. Una noia explica que, en el seu país d'origen, hi acabava de tenir lloc un atac suïcida, definit com a 'genocidi ètnic', on més de 50 persones van morir en un hospital. També, una noia diu que va haver de fugir de Rússia per la seva identitat sexual. Les al·lusions més angoixants són només ocasionals i d'afectació mitjana. Al final del documental, la protagonista fa un comentari despectiu sobre el físic d'un amic seu amb síndrome de Down, aparentment sense malícia."
   },
   {
     "titol": "Nits sense ficció - Adoptats, amb l'amor no n'hi havia prou",
@@ -21482,7 +21632,7 @@
     "mesinfo": "El següent contingut està extret de l'informe 19/2009 de l'Àrea de Continguts del CAC.<br><br><b>Discriminació, racisme i xenofòbia</b><br>Un dels gags del programa planteja la queixa d'un home per la obertura d'un establiment al barri governat per una parella homosexual. Aquest home s'expressa de la següent manera: 'A mi no m'agraden els mariques' o 'En nom de la gent normal de Catalunya' o 'No t'has de sentir amenaçat per ser raro'. Al final del gag un dels membres de la parella homosexual és el fill del denunciant.<br><br><b>Llenguatge groller</b><br>Per exemple: 'merda!', 'el informe ¡memo!'."
   },
   {
-    "titol": "Polònia 22/03/2009",
+    "titol": "Polònia 19/03/2009",
     "codi": "6387656",
     "edat": "7",
     "raons": "Llenguatge groller ocasional d'intensitat baixa<br>(Qualificació oficial del CAC)",
@@ -21506,22 +21656,22 @@
     "titol": "Polònia 25/06/2009",
     "codi": "1335999",
     "edat": "13",
-    "raons": "Llenguatge groller freqüent d'intensitat alta<br>(Qualificació oficial del CAC)",
+    "raons": "Consum de drogues il·lícites (porros) presentat de manera negativa<br>(Qualificació oficial del CAC)",
     "mesinfo": "El següent contingut està extret de l'informe 67/2009 de l'Àrea de Continguts del CAC.<br><br><b>Drogues</b><br>En un gag que imita a la pel·lícula de terror Rec, una mossa d'esquadra i un càmera entren en un pis i de sobte es troben tres joves fumant porros. Els joves semblen els morts vivents de la pel·lícula. La mossa crida espantada 'Ai Déu meu, estan fumant porros!', mentre un dels joves se li acosta preguntant-li 'Vols un canu, tia?'.<br><br>Es detecta la presència ocasional de llenguatge groller d'intensitat baixa: 'maricón l'últim!, 'quina merda de poblat', 'merda', 'és una putada'."
   },
   {
     "titol": "Polònia 19/11/2009",
     "codi": "6390569",
-    "edat": "13",
-    "raons": "Llenguatge groller freqüent d'intensitat alta<br>(Qualificació oficial del CAC)",
-    "mesinfo": "El següent contingut està extret de l'informe 67/2009 de l'Àrea de Continguts del CAC.<br><br><b>Drogues</b><br>En un gag que imita a la pel·lícula de terror Rec, una mossa d'esquadra i un càmera entren en un pis i de sobte es troben tres joves fumant porros. Els joves semblen els morts vivents de la pel·lícula. La mossa crida espantada 'Ai Déu meu, estan fumant porros!', mentre un dels joves se li acosta preguntant-li 'Vols un canu, tia?'.<br><br>Es detecta la presència ocasional de llenguatge groller d'intensitat baixa: 'maricón l'últim!, 'quina merda de poblat', 'merda', 'és una putada'."
+    "edat": "10",
+    "raons": "Llenguatge groller freqüent d'intensitat baixa<br>(Qualificació oficial del CAC)",
+    "mesinfo": "El següent contingut està extret de l'informe 128/2009 de l'Àrea de Continguts del CAC.<br><br><b>Llenguatge groller</b><br>'Toca't els collons!', 'Quina merda de polvo és aquest?', '¡Con dos cojones!', 'Què imbècils, aquests!', 'Què graciós, el Zaragoza dels collons!'."
   },
   {
     "titol": "Polònia 17/12/2009",
     "codi": "6389186",
     "edat": "10",
     "raons": "Violència ocasional, irreal, explícita, d'intensitat lleu, legitimada<br>Consum de drogues lícites (alcohol) presentat de manera neutra<br>Llenguatge groller ocasional d'intensitat alta<br>(Qualificació oficial del CAC)",
-    "mesinfo": "El següent contingut està extret de l'informe 144/2009 de l'Àrea de Continguts del CAC.<br><br><b>Violència</b><br>En un gag del programa el personatge que caricaturitza Josep-Lluís Carod-Rovira apareix vestit de torero i el personatge que representa Joan Herrera va disfressat de toro. Plantegen unes normes per a evitar el patiment dels toros en les curses de braus. Joan Herrera diu que el toro portarà un escamot de mossos d'esquadra per a protegir-lo. L'escamot de mossos d'esquadra aixeca les seves porres i piquen a l'esquena i les cames del personatge que interpreta Carod-Rovira.<br><br><b>Drogues</b><br>Es veu com el personatge que caricaturitza el periodista Ferran Monegal beu el líquid de l'interior d'una bossa d'aigua que porta al cap i diu: 'Tranquils. No és aigua. És conyac que va molt bé pel mal d'ossos'. Es veuen els personatges que caricaturitzen els escriptors Empar Moliner, Quim Monzó, Mathew Tree i Pere Gimferrer. L'actor que representa Mathew Tree ensenya un càntir on diu que hi ha sangria de cava. L'actiu que representa Empar Moliner li diu que l'hi aboqui a la boca. El personatge que interpreta Quim Monzó afegeix: 'Som el puto motor cultural de Catalunya!'.<br><br><b>Llenguatge groller</b><br>'¡Joder! ¡Qué cruz!', 'Fill de puta!', 'Som el puto motor cultural de Catalunya!, 'Tonto! Imbècil!'"
+    "mesinfo": "El següent contingut està extret de l'informe 144/2009 de l'Àrea de Continguts del CAC. [L'informe no menciona la presència de continguts sexuals d'explicitació mitjana.]<br><br><b>Violència</b><br>En un gag del programa el personatge que caricaturitza Josep-Lluís Carod-Rovira apareix vestit de torero i el personatge que representa Joan Herrera va disfressat de toro. Plantegen unes normes per a evitar el patiment dels toros en les curses de braus. Joan Herrera diu que el toro portarà un escamot de mossos d'esquadra per a protegir-lo. L'escamot de mossos d'esquadra aixeca les seves porres i piquen a l'esquena i les cames del personatge que interpreta Carod-Rovira.<br><br><b>Drogues</b><br>Es veu com el personatge que caricaturitza el periodista Ferran Monegal beu el líquid de l'interior d'una bossa d'aigua que porta al cap i diu: 'Tranquils. No és aigua. És conyac que va molt bé pel mal d'ossos'. Es veuen els personatges que caricaturitzen els escriptors Empar Moliner, Quim Monzó, Mathew Tree i Pere Gimferrer. L'actor que representa Mathew Tree ensenya un càntir on diu que hi ha sangria de cava. L'actiu que representa Empar Moliner li diu que l'hi aboqui a la boca. El personatge que interpreta Quim Monzó afegeix: 'Som el puto motor cultural de Catalunya!'.<br><br><b>Llenguatge groller</b><br>'¡Joder! ¡Qué cruz!', 'Fill de puta!', 'Som el puto motor cultural de Catalunya!, 'Tonto! Imbècil!'"
   },
   {
     "titol": "Polònia 21/01/2010",
@@ -21760,6 +21910,12 @@
   {
     "titol": "Polònia 29/10/2026",
     "codi": "6433377",
+    "edat": "13",
+    "raons": "Llenguatge groller freqüent d'intensitat alta"
+  },
+  {
+    "titol": "Polònia 05/11/2026",
+    "codi": "6434763",
     "edat": "13",
     "raons": "Llenguatge groller freqüent d'intensitat alta"
   },
