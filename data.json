@@ -6232,6 +6232,33 @@
     "serie": true
   },
   {
+    "titol": "Una casa, la família i un miracle",
+    "codi": "6378123",
+    "edat": "13",
+    "potser": "llenguatge groller"
+  },
+  {
+    "titol": "Departament Amades",
+    "codi": "departament-amades",
+    "edat": "13",
+    "potser": "continguts sexuals, drogues lícites o il·lícites i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "In vitro",
+    "codi": "in-vitro",
+    "edat": "13",
+    "potser": "continguts sexuals, drogues lícites o il·lícites i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "LIA",
+    "codi": "lia",
+    "edat": "13",
+    "potser": "continguts sexuals",
+    "serie": true
+  },
+  {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
     "titol": "13 anys... i un dia",
     "codi": "tretze-anys-i-un-dia",
@@ -15748,7 +15775,8 @@
     "titol": "Increïble però fals 1x01 - La màgia",
     "codi": "6433449",
     "edat": "10",
-    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada<br>Llenguatge groller ocasional d'intensitat alta"
+    "raons": "Llenguatge groller ocasional d'intensitat alta",
+    "mesinfo": "<b>Llenguatge groller</b><br>Hi ha llenguatge groller ocasional d'intensitat alta ('hijos de puta') i baixa ('hòstia' en un context col·loquial).<br><br>Hi ha violència ocasional, irreal, explícita, d'intensitat lleu i no legitimada, en una escena ficcionada d'una baralla en un bar. Hi ha situacions ocasionals de por i angoixa mitjana quan, per exemple, es mostra una persona combustionant, moment que es presenta com a ficcionat. Hi ha conductes incíviques (falta d'ètica personal) sancionades negativament."
   },
   {
     "titol": "Increïble però fals 1x02 - Els miracles",
