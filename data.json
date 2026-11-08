@@ -93,16 +93,14 @@
     "edat": "18"
   },
   {
-    "titol": "&quot;Crackòvia&quot; aixeca passions - 3Cat",
-    "codi": "HHHHHHHHH",
-    "edat": "13",
-    "serie": true
+    "titol": "col·lecció crackòvia aixeca passions",
+    "codi": "32850",
+    "edat": "13"
   },
   {
-    "titol": "Els concerts del Cruïlla - 3Cat",
-    "codi": "HHHHHHHHH",
-    "edat": "13",
-    "serie": true
+    "titol": "col·lecció concerts del cruïlla",
+    "codi": "5930",
+    "edat": "13"
   },
   {
     "_comment": "tot això són qualificacions aproximades/calculades per a l'extensió",
