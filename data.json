@@ -112,6 +112,12 @@
     "serie": true
   },
   {
+    "titol": "Doraemon, el gat còsmic",
+    "codi": "doraemon-el-gat-cosmic",
+    "edat": "7",
+    "serie": true
+  },
+  {
     "titol": "Betapodcast",
     "codi": "beta",
     "edat": "7",
@@ -227,6 +233,7 @@
     "titol": "Crida la llevadora",
     "codi": "crida-la-llevadora",
     "edat": "13",
+    "potser": "violència, situacions angoixants i drogues lícites o il·lícites",
     "serie": true
   },
   {
@@ -4468,6 +4475,12 @@
     "serie": true
   },
   {
+    "titol": "Els matins",
+    "codi": "matins",
+    "edat": "13",
+    "serie": true
+  },
+  {
     "titol": "Planta baixa",
     "codi": "planta-baixa",
     "edat": "13",
@@ -5984,6 +5997,7 @@
     "titol": "El crac",
     "codi": "el-crac",
     "edat": "13",
+    "potser": "continguts sexuals, drogues lícites o il·lícites i llenguatge groller",
     "serie": true
   },
   {
@@ -6291,12 +6305,24 @@
     "serie": true
   },
   {
+    "titol": "eldocu Nicaragua necessita una cançó",
+    "codi": "6433461",
+    "edat": "10",
+    "potser": "drogues lícites o il·lícites"
+  },
+  {
+    "titol": "eldocu El club",
+    "codi": "1514969",
+    "edat": "10",
+    "potser": "drogues lícites o il·lícites i llenguatge groller"
+  },
+  {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
     "titol": "13 anys... i un dia",
     "codi": "tretze-anys-i-un-dia",
     "edat": "13",
     "orig": "13 (prèviament: TP)",
-    "potser": "drogues lícites o il·lícites i llenguatge groller",
+    "potser": "drogues lícites o il·lícites i llenguatge groller (CAC)",
     "cac": "13",
     "serie": true,
     "tv3": true
@@ -6344,6 +6370,7 @@
     "codi": "3-minuts",
     "edat": "13",
     "orig": "13 (abans de l'emissió, va constar com a: TP)",
+    "potser": "continguts sexuals, drogues lícites o il·lícites i llenguatge groller",
     "serie": true,
     "tv3": true,
     "33": true,
@@ -6395,6 +6422,7 @@
     "codi": "240-nen-clonic",
     "edat": "10",
     "orig": "18",
+    "potser": "violència, continguts sexuals, situacions angoixants, drogues lícites o il·lícites, discriminació i llenguatge groller",
     "serie": true,
     "33": true,
     "misc": true
@@ -6818,6 +6846,7 @@
     "codi": "a-contracorrent-10-anys-open-arms",
     "edat": "10",
     "orig": "7",
+    "potser": "situacions angoixants, drogues lícites o il·lícites i llenguatge groller",
     "serie": true,
     "tv3": true,
     "3cat": true
@@ -6870,6 +6899,7 @@
     "codi": "aixo-no-es-suecia",
     "edat": "13",
     "orig": "13",
+    "potser": "continguts sexuals, drogues lícites o il·lícites, discriminació i llenguatge groller",
     "imdb": "tt23143876",
     "serie": true,
     "tv3": true
@@ -6987,9 +7017,9 @@
   {
     "titol": "Al cotxe",
     "codi": "al-cotxe",
-    "edat": "10",
+    "edat": "13",
     "orig": "TP",
-    "potser": "violència, drogues lícites o il·lícites i llenguatge groller",
+    "potser": "violència, continguts sexuals, situacions angoixants i llenguatge groller",
     "serie": true,
     "tv3": true
   },
@@ -7599,6 +7629,7 @@
     "codi": "atrapats",
     "edat": "10",
     "orig": "TP (anunciat com a: 7)",
+    "potser": "llenguatge groller",
     "serie": true,
     "3cat": true
   },
@@ -7614,6 +7645,7 @@
     "codi": "avatar-la-llegenda-de-la-korra",
     "edat": "10",
     "orig": "7",
+    "potser": "violència i situacions angoixants",
     "imdb": "tt1695360",
     "csm": "tv-reviews/the-legend-of-korra",
     "serie": true,
@@ -7624,6 +7656,7 @@
     "codi": "avatar-lultim-mestre-de-laire",
     "edat": "10",
     "orig": "TP (prèviament: 10)",
+    "potser": "violència i situacions angoixants",
     "imdb": "tt0417299",
     "csm": "tv-reviews/avatar-the-last-airbender",
     "serie": true,
@@ -7654,6 +7687,7 @@
     "codi": "batalla-monumental",
     "edat": "7",
     "orig": "TP",
+    "potser": "llenguatge groller",
     "serie": true,
     "tv3": true
   },
@@ -7685,6 +7719,7 @@
     "codi": "benvinguts-a-la-familia",
     "edat": "13",
     "orig": "7",
+    "potser": "continguts sexuals, drogues lícites o il·lícites i llenguatge groller",
     "imdb": "tt7490342",
     "serie": true,
     "tv3": true
@@ -7705,6 +7740,7 @@
     "codi": "bestial-super3",
     "edat": "7",
     "orig": "TP",
+    "potser": "llenguatge groller",
     "imdb": "tt2485302",
     "csm": "tv-reviews/bushwhacked",
     "serie": true,
@@ -7746,6 +7782,7 @@
     "codi": "black-clover",
     "edat": "13",
     "orig": "13 (a la carta: 12) (prèviament, per televisió: 12)",
+    "potser": "violència, continguts sexuals, situacions angoixants, drogues lícites o il·lícites i discriminació",
     "imdb": "tt7441658",
     "csm": "tv-reviews/black-clover",
     "serie": true,
@@ -8156,6 +8193,7 @@
     "codi": "bola-de-drac-z",
     "edat": "13",
     "orig": "13 (des de setembre de 2026 senyalitzat 12 al canal SX3)",
+    "potser": "violència i situacions angoixants",
     "imdb": "tt0214341",
     "csm": "tv-reviews/dragon-ball-z",
     "serie": true,
@@ -8177,7 +8215,7 @@
   {
     "titol": "Bricociència",
     "codi": "bricociencia",
-    "edat": "0",
+    "edat": "7",
     "orig": "TP",
     "imdb": "tt6056924",
     "serie": true,
@@ -8652,6 +8690,7 @@
     "codi": "caigut-del-cel",
     "edat": "7",
     "orig": "TP",
+    "potser": "continguts sexuals, situacions angoixants i llenguatge groller",
     "serie": true,
     "tv3": true
   },
@@ -8698,6 +8737,7 @@
     "codi": "campus-12",
     "edat": "10",
     "orig": "10",
+    "potser": "violència i llenguatge groller",
     "imdb": "tt8943404",
     "serie": true,
     "sx3": true
@@ -8853,6 +8893,7 @@
     "codi": "cibercrims",
     "edat": "13",
     "orig": "13",
+    "potser": "violència, continguts sexuals i situacions angoixants",
     "serie": true,
     "3cat": true
   },
@@ -8941,6 +8982,7 @@
     "codi": "clipping",
     "edat": "13",
     "orig": "TP",
+    "potser": "drogues lícites o il·lícites",
     "serie": true,
     "33": true,
     "laxarxa": true,
@@ -9189,6 +9231,7 @@
     "codi": "cuina-com-puguis",
     "edat": "10",
     "orig": "TP (temporada 2 breument promocionada per televisió: 7)",
+    "potser": "continguts sexuals, llenguatge groller i conductes incíviques",
     "serie": true,
     "tv3": true
   },
@@ -9204,6 +9247,7 @@
     "codi": "cuina-salvatge",
     "edat": "10",
     "orig": "TP",
+    "potser": "drogues lícites o il·lícites, llenguatge groller i conductes incíviques",
     "serie": true,
     "tv3": true,
     "3cat": true
@@ -9361,6 +9405,7 @@
     "codi": "cute",
     "edat": "7",
     "orig": "TP",
+    "potser": "llenguatge groller",
     "serie": true,
     "sx3": true
   },
@@ -9611,6 +9656,7 @@
     "codi": "de-la-cullera-a-la-ciutat",
     "edat": "10",
     "orig": "TP",
+    "potser": "continguts sexuals",
     "serie": true,
     "tv3": true,
     "3cat": true
@@ -9627,6 +9673,7 @@
     "codi": "de_professio_api",
     "edat": "10",
     "orig": "TP",
+    "potser": "drogues lícites o il·lícites i conductes incíviques",
     "serie": true,
     "tv3": true
   },
@@ -9656,6 +9703,7 @@
     "codi": "despres-de-tu",
     "edat": "13",
     "orig": "7 (un episodi: 13)",
+    "potser": "drogues lícites o il·lícites i llenguatge groller",
     "serie": true,
     "tv3": true
   },
@@ -9759,6 +9807,7 @@
     "codi": "divendres",
     "edat": "13",
     "orig": "TP",
+    "potser": "violència i llenguatge groller (CAC)",
     "cac": "13",
     "serie": true,
     "tv3": true
@@ -10376,6 +10425,7 @@
     "codi": "el-carrero-del-misteri",
     "edat": "7",
     "orig": "TP",
+    "potser": "violència i situacions angoixants",
     "imdb": "tt27996155",
     "serie": true,
     "sx3": true
@@ -10641,6 +10691,7 @@
     "codi": "el-doctor-martin",
     "edat": "13",
     "orig": "12",
+    "potser": "continguts sexuals, drogues lícites o il·lícites i llenguatge groller",
     "imdb": "tt0408381",
     "csm": "tv-reviews/doc-martin",
     "serie": true,
@@ -11099,6 +11150,7 @@
     "codi": "el-mon-de-pepe-rubianes",
     "edat": "13",
     "orig": "7",
+    "potser": "llenguatge groller",
     "serie": true,
     "3cat": true,
     "tv3": true
@@ -11199,6 +11251,7 @@
     "codi": "el-negre-de-banyoles",
     "edat": "10",
     "orig": "TP",
+    "potser": "continguts sexuals i llenguatge groller",
     "serie": true,
     "tv3": true
   },
@@ -11223,6 +11276,7 @@
     "codi": "el-nou-clam",
     "edat": "10",
     "orig": "TP",
+    "potser": "drogues lícites o il·lícites i llenguatge groller",
     "serie": true,
     "tv3": true
   },
@@ -11370,6 +11424,7 @@
     "codi": "el-tros",
     "edat": "10",
     "orig": "TP",
+    "potser": "drogues lícites o il·lícites i llenguatge groller",
     "serie": true,
     "tv3": true
   },
@@ -11614,6 +11669,7 @@
     "codi": "germans-kratt",
     "edat": "7",
     "orig": "TP (prèviament: 7)",
+    "potser": "conductes incíviques",
     "imdb": "tt1807859",
     "csm": "tv-reviews/wild-kratts",
     "serie": true,
@@ -11668,6 +11724,7 @@
     "codi": "els-hereus-de-la-terra",
     "edat": "18",
     "orig": "16 (abans de l'emissió, va constar com a: 13)",
+    "potser": "violència",
     "imdb": "tt13308276",
     "serie": true,
     "tv3": true
@@ -12012,6 +12069,7 @@
     "codi": "entre-quatre-parets",
     "edat": "13",
     "orig": "TP",
+    "potser": "llenguatge groller",
     "serie": true,
     "3cat": true,
     "tv3": true
@@ -12050,6 +12108,7 @@
     "codi": "epic-nails",
     "edat": "13",
     "orig": "TP",
+    "potser": "continguts sexuals i llenguatge groller",
     "serie": true,
     "3cat": true
   },
@@ -12153,6 +12212,7 @@
     "edat": "10",
     "orig": "TP",
     "cac": "10",
+    "potser": "violència i llenguatge groller (CAC)",
     "serie": true,
     "tv3": true
   },
@@ -12233,6 +12293,7 @@
     "codi": "estic-afk",
     "edat": "10",
     "orig": "TP",
+    "potser": "llenguatge groller",
     "serie": true,
     "3cat": true
   },
@@ -12851,6 +12912,7 @@
     "codi": "fanzone",
     "edat": "10",
     "orig": "TP",
+    "potser": "drogues lícites o il·lícites i llenguatge groller",
     "serie": true,
     "tv3": true
   },
@@ -12892,6 +12954,7 @@
     "codi": "favorits",
     "edat": "10",
     "orig": "TP",
+    "potser": "conductes incíviques",
     "serie": true,
     "tv3": true
   },
@@ -13373,6 +13436,7 @@
     "codi": "fotografies",
     "edat": "13",
     "orig": "TP (alguns episodis: 13, 16)",
+    "potser": "continguts sexuals",
     "serie": true,
     "tv3": true
   },
@@ -14757,6 +14821,7 @@
     "codi": "histories-de-la-primaria",
     "edat": "13",
     "orig": "TP",
+    "potser": "situacions angoixants, drogues lícites o il·lícites i discriminació",
     "serie": true,
     "tv3": true
   },
@@ -15749,6 +15814,7 @@
     "codi": "ideafix-irreductibles",
     "edat": "7",
     "orig": "TP",
+    "potser": "llenguatge groller",
     "serie": true,
     "sx3": true
   },
@@ -16124,6 +16190,7 @@
     "codi": "jo-mai-mai",
     "edat": "18",
     "orig": "13 (prèviament: 10) (inicialment promocionada com a: 13)",
+    "potser": "drogues lícites o il·lícites",
     "serie": true,
     "tv3": true
   },
@@ -16149,6 +16216,7 @@
     "codi": "jo-elvis-riboldi",
     "edat": "7",
     "orig": "TP",
+    "potser": "violència, continguts sexuals, situacions angoixants, llenguatge groller i conductes incíviques",
     "imdb": "tt11570892",
     "serie": true,
     "sx3": true
@@ -16382,6 +16450,7 @@
     "codi": "kimeres",
     "edat": "13",
     "orig": "TP",
+    "potser": "violència i situacions angoixants",
     "serie": true,
     "3cat": true
   },
@@ -16424,6 +16493,7 @@
     "codi": "kuroko-basquet",
     "edat": "10",
     "orig": "12 (prèviament: 10)",
+    "potser": "continguts sexuals, drogues lícites o il·lícites i llenguatge groller",
     "imdb": "tt2348803",
     "csm": "tv-reviews/kurokos-basketball",
     "serie": true,
@@ -16461,6 +16531,7 @@
     "codi": "au-pair",
     "edat": "10",
     "orig": "TP",
+    "potser": "drogues lícites o il·lícites, llenguatge groller i conductes incíviques",
     "serie": true,
     "tv3": true
   },
@@ -17122,6 +17193,7 @@
     "codi": "gateta-arc-iris-papallona-unicorn",
     "edat": "7",
     "orig": "TP",
+    "potser": "llenguatge groller",
     "imdb": "tt7949244",
     "csm": "tv-reviews/rainbow-butterfly-unicorn-kitty",
     "serie": true,
@@ -17177,6 +17249,7 @@
     "codi": "la-gran-vetllada",
     "edat": "10",
     "orig": "TP",
+    "potser": "drogues lícites o il·lícites i llenguatge groller",
     "serie": true,
     "tv3": true
   },
@@ -17447,6 +17520,7 @@
     "codi": "la-mirada-de-la-fiona",
     "edat": "13",
     "orig": "10",
+    "potser": "continguts sexuals i llenguatge groller",
     "serie": true,
     "3cat": true,
     "misc": true
@@ -17599,6 +17673,7 @@
     "codi": "la-republica-del-mediterrani",
     "edat": "13",
     "orig": "TP",
+    "potser": "continguts sexuals i llenguatge groller",
     "serie": true,
     "3cat": true
   },
@@ -17689,6 +17764,7 @@
     "codi": "la-teva-mentida-a-abril",
     "edat": "13",
     "orig": "13",
+    "potser": "violència i situacions angoixants",
     "serie": true,
     "sx3": true
   },
@@ -17932,6 +18008,7 @@
     "codi": "labanda-sonora",
     "edat": "10",
     "orig": "TP",
+    "potser": "llenguatge groller",
     "serie": true,
     "tv3": true
   },
@@ -18327,6 +18404,7 @@
     "codi": "les-del-traster",
     "edat": "13",
     "orig": "7",
+    "potser": "continguts sexuals i llenguatge groller",
     "serie": true,
     "3cat": true
   },
@@ -18342,6 +18420,7 @@
     "codi": "les-dones-i-els-dies-video",
     "edat": "13",
     "orig": "TP",
+    "potser": "continguts sexuals i llenguatge groller",
     "serie": true,
     "3cat": true
   },
@@ -18364,6 +18443,7 @@
     "codi": "les-filles-del-dad",
     "edat": "7",
     "orig": "TP",
+    "potser": "situacions angoixants, discriminació i llenguatge groller",
     "serie": true,
     "sx3": true
   },
@@ -18876,6 +18956,7 @@
     "codi": "les-tortugues-ninja",
     "edat": "10",
     "orig": "7",
+    "potser": "violència i situacions angoixants",
     "imdb": "tt1877889",
     "csm": "tv-reviews/teenage-mutant-ninja-turtles-0",
     "serie": true,
@@ -18886,6 +18967,7 @@
     "codi": "llim",
     "edat": "13",
     "orig": "TP",
+    "potser": "drogues lícites o il·lícites i llenguatge groller",
     "imdb": "tt30631017",
     "serie": true,
     "3cat": true
@@ -18948,6 +19030,7 @@
     "codi": "lo-repte",
     "edat": "10",
     "orig": "TP",
+    "potser": "llenguatge groller",
     "serie": true,
     "3cat": true
   },
@@ -19409,6 +19492,7 @@
     "codi": "lucky-fred",
     "edat": "7",
     "orig": "TP",
+    "potser": "situacions angoixants (CAC)",
     "imdb": "tt2164295",
     "cac": "7",
     "serie": true,
@@ -19419,6 +19503,7 @@
     "codi": "lultima-nit-del-karaoke",
     "edat": "18",
     "orig": "13",
+    "potser": "drogues lícites o il·lícites",
     "serie": true,
     "tv3": true
   },
@@ -19455,7 +19540,7 @@
     "codi": "majoria-absoluta",
     "edat": "7",
     "orig": "TP",
-    "potser": "llenguatge groller",
+    "potser": "llenguatge groller (CAC)",
     "cac": "7",
     "serie": true,
     "tv3": true
@@ -20390,6 +20475,7 @@
     "codi": "monmaker",
     "edat": "7",
     "orig": "TP",
+    "potser": "llenguatge groller",
     "serie": true,
     "sx3": true
   },
@@ -20493,6 +20579,7 @@
     "codi": "naruto",
     "edat": "13",
     "orig": "13 (prèviament: 10)",
+    "potser": "violència i discriminació",
     "imdb": "tt0409591",
     "csm": "tv-reviews/naruto",
     "serie": true,
@@ -20503,6 +20590,7 @@
     "codi": "nashville",
     "edat": "13",
     "orig": "12 (prèviament: 7)",
+    "potser": "violència, continguts sexuals i drogues lícites o il·lícites",
     "imdb": "tt2281375",
     "csm": "tv-reviews/nashville-0",
     "serie": true,
@@ -20513,6 +20601,7 @@
     "codi": "natura-savia",
     "edat": "13",
     "orig": "13 (prèviament, abans del 20/11/2024: TP)",
+    "potser": "llenguatge groller",
     "serie": true,
     "tv3": true
   },
@@ -20571,6 +20660,7 @@
     "codi": "net-i-polit",
     "edat": "13",
     "orig": "TP",
+    "potser": "llenguatge groller",
     "serie": true,
     "3cat": true
   },
@@ -21052,6 +21142,7 @@
     "codi": "nivell-extra",
     "edat": "10",
     "orig": "TP",
+    "potser": "drogues lícites o il·lícites i llenguatge groller",
     "serie": true,
     "3cat": true
   },
@@ -21075,6 +21166,7 @@
     "codi": "no-em-ratllis",
     "edat": "13",
     "orig": "TP",
+    "potser": "drogues lícites o il·lícites (CAC)",
     "cac": "13",
     "serie": true,
     "tv3": true
@@ -21187,6 +21279,7 @@
     "codi": "on-es-la-pasta",
     "edat": "13",
     "orig": "7",
+    "potser": "llenguatge groller i conductes incíviques",
     "serie": true,
     "3cat": true
   },
@@ -21488,6 +21581,7 @@
     "codi": "persona-infiltrada",
     "edat": "10",
     "orig": "TP",
+    "potser": "continguts sexuals, drogues lícites o il·lícites i llenguatge groller",
     "serie": true,
     "tv3": true
   },
@@ -21523,6 +21617,7 @@
     "codi": "pisos-destudiants",
     "edat": "13",
     "orig": "18 (prèviament: TP)",
+    "potser": "continguts sexuals, drogues lícites o il·lícites i llenguatge groller",
     "serie": true,
     "3cat": true
   },
@@ -21596,7 +21691,7 @@
     "codi": "plats-bruts",
     "edat": "13",
     "orig": "10 (des de setembre de 2026 senyalitzat 12 al 33)",
-    "potser": "continguts sexuals, drogues lícites o il·lícites i llenguatge groller",
+    "potser": "continguts sexuals, drogues lícites o il·lícites i llenguatge groller (CAC)",
     "imdb": "tt0352089",
     "cac": "13",
     "serie": true,
@@ -21609,6 +21704,7 @@
     "codi": "polinopolis",
     "edat": "7",
     "orig": "TP",
+    "potser": "situacions angoixants, llenguatge groller i conductes incíviques",
     "serie": true,
     "sx3": true
   },
@@ -22908,6 +23004,7 @@
     "codi": "quanta-guerra",
     "edat": "13",
     "orig": "TP",
+    "potser": "llenguatge groller",
     "serie": true,
     "tv3": true
   },
@@ -22937,6 +23034,7 @@
     "codi": "quatre-amics-i-mig",
     "edat": "7",
     "orig": "TP",
+    "potser": "violència i llenguatge groller",
     "imdb": "tt4282970",
     "csm": "tv-reviews/four-and-a-half-friends",
     "serie": true,
@@ -22973,6 +23071,7 @@
     "codi": "ranma",
     "edat": "13",
     "orig": "13",
+    "potser": "violència, continguts sexuals i discriminació",
     "imdb": "tt0096686",
     "serie": true,
     "sx3": true
@@ -23000,6 +23099,7 @@
     "codi": "robin-hood-mischief-sherwood",
     "edat": "7",
     "orig": "TP",
+    "potser": "violència, situacions angoixants, llenguatge groller i conductes incíviques",
     "imdb": "tt4212188",
     "csm": "tv-reviews/robin-hood-mischief-in-sherwood",
     "serie": true,
@@ -23223,6 +23323,7 @@
     "codi": "rovello",
     "edat": "7",
     "orig": "TP (prèviament: 7)",
+    "potser": "violència, situacions angoixants, llenguatge groller i conductes incíviques",
     "serie": true,
     "sx3": true
   },
@@ -23710,6 +23811,7 @@
     "codi": "savis",
     "edat": "10",
     "orig": "TP",
+    "potser": "violència, situacions angoixants i drogues lícites o il·lícites",
     "serie": true,
     "tv3": true,
     "33": true,
@@ -23970,7 +24072,6 @@
     "codi": "sentir",
     "edat": "0",
     "orig": "TP",
-    "potser": "llenguatge groller",
     "serie": true,
     "3cat": true
   },
@@ -24030,6 +24131,7 @@
     "codi": "sistema-solar",
     "edat": "10",
     "orig": "TP",
+    "potser": "llenguatge groller",
     "serie": true,
     "3cat": true
   },
@@ -24079,6 +24181,7 @@
     "codi": "si-a-tot",
     "edat": "10",
     "orig": "TP",
+    "potser": "llenguatge groller",
     "serie": true,
     "3cat": true
   },
@@ -24374,6 +24477,7 @@
     "codi": "super-4",
     "edat": "7",
     "orig": "TP",
+    "potser": "violència i llenguatge groller",
     "imdb": "tt3949728",
     "serie": true,
     "sx3": true
@@ -24475,7 +24579,7 @@
     "codi": "temps-de-silenci",
     "edat": "10",
     "orig": "TP",
-    "potser": "situacions angoixants",
+    "potser": "situacions angoixants (CAC)",
     "cac": "10",
     "serie": true,
     "tv3": true
@@ -24485,6 +24589,7 @@
     "codi": "tens-un-minut",
     "edat": "7",
     "orig": "TP",
+    "potser": "continguts sexuals i llenguatge groller",
     "serie": true,
     "tv3": true
   },
@@ -24543,6 +24648,7 @@
     "codi": "teories-de-la-relativitat",
     "edat": "13",
     "orig": "TP",
+    "potser": "continguts sexuals",
     "serie": true,
     "3cat": true,
     "33": true,
@@ -25044,6 +25150,7 @@
     "codi": "tria-carta",
     "edat": "10",
     "orig": "TP",
+    "potser": "drogues lícites o il·lícites i llenguatge groller",
     "serie": true,
     "tv3": true
   },
@@ -25076,6 +25183,7 @@
     "codi": "truca-quan-arribis",
     "edat": "10",
     "orig": "TP (anunciat com a: 13)",
+    "potser": "drogues lícites o il·lícites i llenguatge groller",
     "serie": true,
     "3cat": true
   },
@@ -25110,6 +25218,7 @@
     "codi": "una-altra-historia",
     "edat": "10",
     "orig": "TP",
+    "potser": "drogues lícites o il·lícites i llenguatge groller",
     "serie": true,
     "tv3": true
   },
@@ -25146,6 +25255,7 @@
     "codi": "una-de-les-nostres",
     "edat": "10",
     "orig": "TP",
+    "potser": "llenguatge groller",
     "serie": true,
     "tv3": true
   },
@@ -25263,6 +25373,7 @@
     "codi": "xef-marin",
     "edat": "10",
     "orig": "TP",
+    "potser": "llenguatge groller",
     "serie": true,
     "3cat": true
   },
@@ -25632,13 +25743,13 @@
     "titol": "Videoclips - Flashy Ice Cream & Swit Eme - Cops",
     "codi": "6216563",
     "edat": "10",
-    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada<br>Consum de drogues lícites (alcohol, tabac), presentat de manera neutra<br>Llenguatge groller ocasional d'intensitat alta<br>Conductes i valors incívics amb sanció neutra"
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada<br>Consum de drogues lícites (alcohol, tabac), presentat de manera neutra<br>Llenguatge groller ocasional d'intensitat alta<br>Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "Videoclips - Flashy Ice Cream & Swit Eme - Cops (versió curta)",
     "codi": "6419831",
     "edat": "10",
-    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada<br>Consum de drogues lícites (alcohol, tabac), presentat de manera neutra<br>Llenguatge groller ocasional d'intensitat alta<br>Conductes i valors incívics amb sanció neutra"
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada<br>Consum de drogues lícites (alcohol, tabac), presentat de manera neutra<br>Llenguatge groller ocasional d'intensitat alta<br>Conductes i valors incívics amb sanció neutra"
   },
   {
     "titol": "Videoclips - Malson Atmosfèric - La ciutat",
@@ -25943,6 +26054,66 @@
     "edat": "0"
   },
   {
+    "titol": "Videoclips - Kuryous Link - Cash and business",
+    "codi": "5993647",
+    "edat": "0"
+  },
+  {
+    "titol": "Videoclips - Paula Valls - Circles",
+    "codi": "6001787",
+    "edat": "0"
+  },
+  {
+    "titol": "Videoclips - Renaldo i Clara - Sense voler",
+    "codi": "5984514",
+    "edat": "0"
+  },
+  {
+    "titol": "Videoclips - Love of Lesbian - El Yin y el Yen",
+    "codi": "5984515",
+    "edat": "10",
+    "raons": "Llenguatge groller ocasional d'intensitat alta"
+  },
+  {
+    "titol": "Videoclips - Andrea Mir - Arribes tard",
+    "codi": "5999406",
+    "edat": "0"
+  },
+  {
+    "titol": "Videoclips - Carmen 113 - Discutir Desnudos",
+    "codi": "5991208",
+    "edat": "10",
+    "raons": "Continguts sexuals freqüents d'explicitació baixa<br>Consum de drogues lícites (tabac), presentat de manera neutra"
+  },
+  {
+    "titol": "Videoclips - Valtònyc - Pell de Ferro",
+    "codi": "5984506",
+    "edat": "7",
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat greu, no legitimada (al·lusió metafòrica a un acte de violació)<br>Situacions discriminatòries amb sanció negativa"
+  },
+  {
+    "titol": "Videoclips - Los Peces de Cristina - Somebody else",
+    "codi": "5999392",
+    "edat": "0"
+  },
+  {
+    "titol": "Videoclips - Elefant Dolent - Menteix-me",
+    "codi": "6030100",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu"
+  },
+  {
+    "titol": "Videoclips - Medusa Box - AMMP",
+    "codi": "5986747",
+    "edat": "10",
+    "raons": "Continguts sexuals freqüents d'explicitació baixa"
+  },
+  {
+    "titol": "Videoclips - Tancat per defunció - Vaixells de paper",
+    "codi": "6012948",
+    "edat": "0"
+  },
+  {
     "titol": "Vinagre",
     "codi": "vinagre",
     "edat": "13",
@@ -26081,6 +26252,7 @@
     "codi": "vosaltres-mateixos",
     "edat": "10",
     "orig": "TP",
+    "potser": "drogues lícites o il·lícites i llenguatge groller",
     "serie": true,
     "tv3": true,
     "3cat": true
@@ -26199,6 +26371,7 @@
     "codi": "zenit",
     "edat": "10",
     "orig": "TP",
+    "potser": "continguts sexuals, drogues lícites o il·lícites i llenguatge groller",
     "serie": true,
     "tv3": true
   },
@@ -26457,7 +26630,7 @@
     "codi": "zona-zaping",
     "edat": "10",
     "orig": "7 (prèviament: TP)",
-    "potser": "drogues lícites o il·lícites i llenguatge groller",
+    "potser": "violència, drogues lícites o il·lícites i llenguatge groller (CAC)",
     "cac": "10", 
     "serie": true,
     "tv3": true
