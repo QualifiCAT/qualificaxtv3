@@ -6259,6 +6259,38 @@
     "serie": true
   },
   {
+    "titol": "60' Al-Sisi, el nou faraó d'Egipte",
+    "codi": "6434832",
+    "edat": "13",
+    "potser": "violència"
+  },
+  {
+    "titol": "El paradís de les senyores",
+    "codi": "el-paradis-de-les-senyores",
+    "edat": "10",
+    "potser": "violència, continguts sexuals, situacions angoixants i drogues lícites o il·lícites",
+    "serie": true
+  },
+  {
+    "titol": "Com si fos ahir",
+    "codi": "com-si-fos-ahir",
+    "edat": "13",
+    "potser": "violència, continguts sexuals, drogues lícites o il·lícites i llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "Tria33",
+    "codi": "tria33",
+    "edat": "10",
+    "serie": true
+  },
+  {
+    "titol": "La gran il·lusió",
+    "codi": "la-gran-illusio",
+    "edat": "13",
+    "serie": true
+  },
+  {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
     "titol": "13 anys... i un dia",
     "codi": "tretze-anys-i-un-dia",
@@ -25450,6 +25482,465 @@
     "codi": "5764265",
     "edat": "13",
     "raons": "Continguts sexuals ocasionals d'explicitació alta"
+  },
+  {
+    "titol": "Videoclips",
+    "codi": "sjjfisjdfsdjf",
+    "edat": "13",
+    "orig": "TP",
+    "serie": true,
+    "tv3": true,
+    "33": true,
+    "misc": true
+  },
+  {
+    "titol": "Videoclips - Land Of Coconuts - Surt del meu cap",
+    "codi": "6203619",
+    "edat": "13",
+    "raons": "Violència freqüent, versemblant, no explícita, d'intensitat greu, legitimada"
+  },
+  {
+    "titol": "Videoclips - Manu Guix - Com dues gotes d'aigua",
+    "codi": "6207221",
+    "edat": "0"
+  },
+  {
+    "titol": "Videoclips - Nerea Bassart Trio - Presons",
+    "codi": "6204533",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu"
+  },
+  {
+    "titol": "Videoclips - Itaca band - Com una bala",
+    "codi": "6203632",
+    "edat": "7",
+    "raons": "Violència freqüent, irreal, explícita, d'intensitat molt lleu, no legitimada<br>Por i angoixa ocasional d'afectació mitjana"
+  },
+  {
+    "titol": "Videoclips - Marc Timón - Perfums de nit",
+    "codi": "6223496",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu"
+  },
+  {
+    "titol": "Videoclips - Yung Rajola & The Tyets - Cada dia",
+    "codi": "6208907",
+    "edat": "10",
+    "raons": "Consum de drogues lícites (tabac), presentat de manera neutra"
+  },
+  {
+    "titol": "Videoclips - Joan Masdéu - No en tens prou",
+    "codi": "6203398",
+    "edat": "7",
+    "raons": "Por i angoixa ocasional d'afectació mitjana<br>Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "Videoclips - Jazzwoman & Lildami - Anem a tots",
+    "codi": "6215671",
+    "edat": "10",
+    "raons": "Consum de drogues lícites (tabac, alcohol), presentat de manera neutra<br>Llenguatge groller freqüent d'intensitat baixa"
+  },
+  {
+    "titol": "Videoclips - Robert Poch - La porta de sortida",
+    "codi": "6203630",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "Videoclips - Alidé Sans - Passat deman",
+    "codi": "6399716",
+    "edat": "0"
+  },
+  {
+    "titol": "Videoclips - Dem feat. Sílvia Tomàs - Cap destí",
+    "codi": "6203823",
+    "edat": "0"
+  },
+  {
+    "titol": "Videoclips - Dem feat. Sílvia Tomàs - Cap destí (versió curta)",
+    "codi": "6416981",
+    "edat": "0"
+  },
+  {
+    "titol": "Videoclips - Cronopios - La sèptima creació",
+    "codi": "6207222",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa"
+  },
+  {
+    "titol": "Videoclips - Porto Bello & Nerea Rodríguez - Som de foc (versió curta)",
+    "codi": "6233925",
+    "edat": "0"
+  },
+  {
+    "titol": "Videoclips - Quartet Brossa - Incendi",
+    "codi": "6224385",
+    "edat": "0"
+  },
+  {
+    "titol": "Videoclips - P.A.W.N. Gang - Io vuldria saber",
+    "codi": "6203631",
+    "edat": "13",
+    "raons": "Al·lusions sexuals freqüents d'explicitació mitjana<br>Consum de drogues lícites (tabac) i al·lusions al consum de drogues il·lícites (sense especificar), presentat de manera neutra"
+  },
+  {
+    "titol": "Videoclips - The Tyets - De l'1 al què",
+    "codi": "6207528",
+    "edat": "13",
+    "raons": "Abús de drogues lícites (alcohol) i consum de drogues il·lícites (marihuana), presentat de manera neutra"
+  },
+  {
+    "titol": "Videoclips - Bounce Twice - No em sobren bales (versió curta)",
+    "codi": "6420984",
+    "edat": "13",
+    "raons": "Consum de drogues il·lícites (marihuana), presentat de manera neutra"
+  },
+  {
+    "titol": "Videoclips - Maria Jacobs - Sempre tornes",
+    "codi": "6223701",
+    "edat": "0"
+  },
+  {
+    "titol": "Videoclips - Xavi Sarrià - La nit ferida",
+    "codi": "6401266",
+    "edat": "0"
+  },
+  {
+    "titol": "Videoclips - Xavi Sarrià - La nit ferida (versió curta)",
+    "codi": "6218115",
+    "edat": "0"
+  },
+  {
+    "titol": "Videoclips - Xicu - Runes i glòria",
+    "codi": "6399746",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "Videoclips - Xicu - Runes i glòria (versió curta)",
+    "codi": "6217804",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "Videoclips - Pèl de Gall - Junts",
+    "codi": "6216814",
+    "edat": "10",
+    "raons": "Consum de drogues lícites (alcohol), presentat de manera neutra"
+  },
+  {
+    "titol": "Videoclips - Flashy Ice Cream & Swit Eme - Cops",
+    "codi": "6216563",
+    "edat": "10",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada<br>Consum de drogues lícites (alcohol, tabac), presentat de manera neutra<br>Llenguatge groller ocasional d'intensitat alta<br>Conductes i valors incívics amb sanció neutra"
+  },
+  {
+    "titol": "Videoclips - Flashy Ice Cream & Swit Eme - Cops (versió curta)",
+    "codi": "6419831",
+    "edat": "10",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat lleu, no legitimada<br>Consum de drogues lícites (alcohol, tabac), presentat de manera neutra<br>Llenguatge groller ocasional d'intensitat alta<br>Conductes i valors incívics amb sanció neutra"
+  },
+  {
+    "titol": "Videoclips - Malson Atmosfèric - La ciutat",
+    "codi": "6216105",
+    "edat": "10",
+    "raons": "Al·lusions sexuals ocasionals d'explicitació mitjana<br>Consum de drogues lícites (alcohol), presentat de manera neutra<br>Llenguatge groller freqüent d'intensitat baixa"
+  },
+  {
+    "titol": "Videoclips - Maria Jaume - Me desplom",
+    "codi": "6215427",
+    "edat": "0"
+  },
+  {
+    "titol": "Videoclips - Maria Jaume - Me desplom (versió curta)",
+    "codi": "6399715",
+    "edat": "0"
+  },
+  {
+    "titol": "Videoclips - New George - La humanitat",
+    "codi": "6213044",
+    "edat": "10",
+    "raons": "Llenguatge groller ocasional d'intensitat alta"
+  },
+  {
+    "titol": "Videoclips - P.A.W.N. Gang - No maspliquis (versió curta)",
+    "codi": "6421453",
+    "edat": "13",
+    "raons": "Al·lusions al consum de drogues lícites (alcohol) i il·lícites (sense especificar), presentat de manera neutra<br>Comentaris discriminatoris amb sanció neutra<br>Llenguatge groller reiterat d'intensitat alta"
+  },
+  {
+    "titol": "Videoclips - Yung Rovelló feat. Mama Dousha - Me'n recordo",
+    "codi": "6400472",
+    "edat": "10",
+    "raons": "Al·lusió al consum de drogues lícites (alcohol), presentat de manera neutra"
+  },
+  {
+    "titol": "Videoclips - Yung Rovelló feat. Mama Dousha - Me'n recordo (versió curta)",
+    "codi": "6211404",
+    "edat": "10",
+    "raons": "Al·lusió al consum de drogues lícites (alcohol), presentat de manera neutra"
+  },
+  {
+    "titol": "Videoclips - Lal'ba - Quan arribi lal'ba",
+    "codi": "6431955",
+    "edat": "0"
+  },
+  {
+    "titol": "Videoclips - Lal'ba - Quan arribi lal'ba (versió curta)",
+    "codi": "6211141",
+    "edat": "0"
+  },
+  {
+    "titol": "Videoclips - Xanguito - Eufòria",
+    "codi": "6210700",
+    "edat": "10",
+    "raons": "Consum de drogues lícites (alcohol), presentat de manera neutra"
+  },
+  {
+    "titol": "Videoclips - Xanguito - Eufòria (versió curta)",
+    "codi": "6401719",
+    "edat": "10",
+    "raons": "Consum de drogues lícites (alcohol), presentat de manera neutra"
+  },
+  {
+    "titol": "Videoclips - Vienna & Maluks - Tanta aigua tan prop de casa",
+    "codi": "6210066",
+    "edat": "0"
+  },
+  {
+    "titol": "Videoclips - Vienna & Maluks - Tanta aigua tan prop de casa (versió curta)",
+    "codi": "6404087",
+    "edat": "0"
+  },
+  {
+    "titol": "Videoclips - Pol Fuentes - La sort",
+    "codi": "6210067",
+    "edat": "0"
+  },
+  {
+    "titol": "Videoclips - Pol Fuentes - La sort (versió curta)",
+    "codi": "6402038",
+    "edat": "0"
+  },
+  {
+    "titol": "Videoclips - Quimo - Em vas fer mal",
+    "codi": "6209144",
+    "edat": "13",
+    "raons": "Al·lusions a l'abús de drogues lícites (alcohol), presentat de manera neutra"
+  },
+  {
+    "titol": "Videoclips - Lluc - Temps perdut (2034)",
+    "codi": "6400473",
+    "edat": "0"
+  },
+  {
+    "titol": "Videoclips - Lluc - Temps perdut (2034) (versió curta)",
+    "codi": "6208453",
+    "edat": "0"
+  },
+  {
+    "titol": "Videoclips - Júlia Blum - Encara he de cagar-la més",
+    "codi": "6423615",
+    "edat": "10",
+    "raons": "Consum de drogues lícites (alcohol), presentat de manera neutra"
+  },
+  {
+    "titol": "Videoclips - Júlia Blum - Encara he de cagar-la més (versió curta)",
+    "codi": "6208215",
+    "edat": "10",
+    "raons": "Consum de drogues lícites (alcohol), presentat de manera neutra"
+  },
+  {
+    "titol": "Videoclips - Rally Ray - Di Pinto (Intro)",
+    "codi": "6399723",
+    "edat": "10",
+    "raons": "Consum de drogues lícites (tabac), presentat de manera neutra"
+  },
+  {
+    "titol": "Videoclips - Rally Ray - Di Pinto (Intro) (versió curta)",
+    "codi": "6207527",
+    "edat": "10",
+    "raons": "Consum de drogues lícites (tabac), presentat de manera neutra"
+  },
+  {
+    "titol": "Videoclips - La Fúmiga - Hora blava",
+    "codi": "6207321",
+    "edat": "10",
+    "raons": "Consum de drogues lícites (alcohol), presentat de manera neutra"
+  },
+  {
+    "titol": "Videoclips - Vienna & Roserona - El bany",
+    "codi": "6207320",
+    "edat": "10",
+    "raons": "Al·lusions al consum de drogues lícites (alcohol), presentat de manera neutra"
+  },
+  {
+    "titol": "Videoclips - Julen - Una cançó",
+    "codi": "6207078",
+    "edat": "10",
+    "raons": "Al·lusions al consum de drogues lícites (alcohol), presentat de manera neutra"
+  },
+  {
+    "titol": "Videoclips - Julen - Una cançó (versió curta)",
+    "codi": "6414618",
+    "edat": "10",
+    "raons": "Al·lusions al consum de drogues lícites (alcohol), presentat de manera neutra"
+  },
+  {
+    "titol": "Videoclips - Flora - Enyor",
+    "codi": "6206854",
+    "edat": "10",
+    "raons": "Llenguatge groller ocasional d'intensitat alta"
+  },
+  {
+    "titol": "Videoclips - Txell Sota - Entre la confusió",
+    "codi": "6205789",
+    "edat": "0"
+  },
+  {
+    "titol": "Videoclips - Jordi Batiste - Com el mar",
+    "codi": "6205442",
+    "edat": "0"
+  },
+  {
+    "titol": "Videoclips - Jordi Batiste - Com el mar (versió curta)",
+    "codi": "6432345",
+    "edat": "0"
+  },
+  {
+    "titol": "Videoclips - Tramma - Voldria dir-te",
+    "codi": "6204724",
+    "edat": "10",
+    "raons": "Consum de drogues lícites (tabac, alcohol), presentat de manera neutra"
+  },
+  {
+    "titol": "Videoclips - Tramma - Voldria dir-te (versió curta)",
+    "codi": "6421688",
+    "edat": "0"
+  },
+  {
+    "titol": "Videoclips - Samantha - Soc la d'ahir",
+    "codi": "6204532",
+    "edat": "0"
+  },
+  {
+    "titol": "Videoclips - Samantha - Soc la d'ahir (versió curta)",
+    "codi": "6433657",
+    "edat": "0"
+  },
+  {
+    "titol": "Videoclips - Julen - Proposo",
+    "codi": "6204534",
+    "edat": "0"
+  },
+  {
+    "titol": "Videoclips - Guillem Roma - Un lloc",
+    "codi": "6399690",
+    "edat": "0"
+  },
+  {
+    "titol": "Videoclips - Cactus - A prova de bales",
+    "codi": "6204410",
+    "edat": "0",
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, no legitimada"
+  },
+  {
+    "titol": "Videoclips - Cactus - A prova de bales (versió curta)",
+    "codi": "6415867",
+    "edat": "0",
+    "raons": "Violència ocasional, irreal, no explícita, d'intensitat molt lleu, no legitimada"
+  },
+  {
+    "titol": "Videoclips - Intana - Què vols de mi",
+    "codi": "6204411",
+    "edat": "0"
+  },
+  {
+    "titol": "Videoclips - Intana - Què vols de mi (versió curta)",
+    "codi": "6415866",
+    "edat": "0"
+  },
+  {
+    "titol": "Videoclips - Arc de Triomf - Pols Estel·lar",
+    "codi": "6203822",
+    "edat": "10",
+    "raons": "Consum de drogues lícites (alcohol), presentat de manera neutra"
+  },
+  {
+    "titol": "Videoclips - Setembre - Sota la cendra",
+    "codi": "6203620",
+    "edat": "0"
+  },
+  {
+    "titol": "Videoclips - Setembre - Sota la cendra (versió curta)",
+    "codi": "6399714",
+    "edat": "0"
+  },
+  {
+    "titol": "Videoclips - Magalí Sare - Inframon",
+    "codi": "6203399",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu"
+  },
+  {
+    "titol": "Videoclips - Xiula - T'estimo bastant (Rat Rank)",
+    "codi": "6031202",
+    "edat": "0"
+  },
+  {
+    "titol": "Videoclips - Xiula - T'estimo bastant (versió curta)",
+    "codi": "6419838",
+    "edat": "0"
+  },
+  {
+    "titol": "Videoclips - Magalí Sare & Sebastià Gris - Sa mort de na Margalida",
+    "codi": "6035022",
+    "edat": "7",
+    "raons": "Por i angoixa freqüent d'afectació lleu"
+  },
+  {
+    "titol": "Videoclips - Joan Dausà - La gran eufòria",
+    "codi": "6031399",
+    "edat": "10",
+    "raons": "Al·lusions al consum de drogues lícites (alcohol), presentat de manera neutra"
+  },
+  {
+    "titol": "Videoclips - Txarango - Gemma Humet - Aspencat - Cesk Freixas - Les Kol·lontai - Ascensa Furore - Agafant l'horitzó",
+    "codi": "5991227",
+    "edat": "0"
+  },
+  {
+    "titol": "Videoclips - The Bird Yellow & Arnau Comas - My Matador",
+    "codi": "6034186",
+    "edat": "10",
+    "raons": "Al·lusions al consum de drogues lícites (tabac), presentat de manera neutra"
+  },
+  {
+    "titol": "Videoclips - The Bird Yellow - Roses in the Sand",
+    "codi": "5984507",
+    "edat": "10",
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, legitimada"
+  },
+  {
+    "titol": "Videoclips - Carlos Sadness - Te quiero un poco",
+    "codi": "5988986",
+    "edat": "0"
+  },
+  {
+    "titol": "Videoclips - Victoria Maldi - País Petit",
+    "codi": "5999411",
+    "edat": "0"
+  },
+  {
+    "titol": "Videoclips - Falsalarma - Vis a Vis",
+    "codi": "6029226",
+    "edat": "10",
+    "raons": "Consum de drogues lícites (tabac), presentat de manera neutra<br>Llenguatge groller ocasional d'intensitat alta"
+  },
+  {
+    "titol": "Videoclips - Projecte Mut - Pa",
+    "codi": "5978654",
+    "edat": "0"
   },
   {
     "titol": "Vinagre",
