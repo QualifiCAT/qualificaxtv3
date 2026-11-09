@@ -6339,6 +6339,12 @@
     "potser": "continguts sexuals"
   },
   {
+    "titol": "30' Tot el que sabem de tu",
+    "codi": "6067763",
+    "edat": "7",
+    "potser": "conductes incíviques"
+  },
+  {
     "titol": "Un dia de partit",
     "codi": "un-dia-de-partit",
     "edat": "10",
@@ -7054,7 +7060,6 @@
     "codi": "al-cotxe",
     "edat": "13",
     "orig": "TP",
-    "potser": "violència, continguts sexuals, situacions angoixants, discriminació i llenguatge groller",
     "serie": true,
     "tv3": true
   },
