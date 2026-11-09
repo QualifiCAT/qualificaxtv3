@@ -6396,6 +6396,12 @@
     "serie": true
   },
   {
+    "titol": "Fuet, el pòdcast",
+    "codi": "fuet-el-podcast-audio",
+    "edat": "10",
+    "serie": true
+  },
+  {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
     "titol": "13 anys... i un dia",
     "codi": "tretze-anys-i-un-dia",
