@@ -6358,6 +6358,38 @@
     "serie": true
   },
   {
+    "titol": "Tanta, tanta guerra",
+    "codi": "tanta-tanta-guerra",
+    "edat": "10",
+    "serie": true
+  },
+  {
+    "titol": "Estil de viure",
+    "codi": "estil-de-viure",
+    "edat": "10",
+    "serie": true
+  },
+  {
+    "titol": "En guàrdia!",
+    "codi": "en-guardia",
+    "edat": "13",
+    "serie": true
+  },
+  {
+    "titol": "Memòria democràtica",
+    "codi": "memoria-democratica",
+    "edat": "10",
+    "potser": "violència i situacions angoixants",
+    "serie": true
+  },
+  {
+    "titol": "Cançonarres",
+    "codi": "canconarres",
+    "edat": "10",
+    "potser": "violència i drogues lícites o il·lícites",
+    "serie": true
+  },
+  {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
     "titol": "13 anys... i un dia",
     "codi": "tretze-anys-i-un-dia",
