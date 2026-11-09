@@ -7054,7 +7054,7 @@
     "codi": "al-cotxe",
     "edat": "13",
     "orig": "TP",
-    "potser": "continguts sexuals, situacions angoixants i llenguatge groller",
+    "potser": "violència, continguts sexuals, situacions angoixants, discriminació i llenguatge groller",
     "serie": true,
     "tv3": true
   },
@@ -7071,6 +7071,13 @@
     "edat": "7",
     "raons": "Por i angoixa freqüent d'afectació lleu<br>Llenguatge groller ocasional d'intensitat baixa",
     "mesinfo": "<b>Por i angoixa</b><br>La convidada comenta com va superar l'assetjament a l'adolescència, que va estar malalta i gairebé va patir depressió i bulímia (sense donar detalls), si li van afectar els comentaris de les xarxes socials mentre participava en un concurs, i si té por o li angoixa pensar en el seu futur com a jove i famosa.<br><br><b>Llenguatge groller</b><br>Es diu 'hòstia' o 'fotre' de manera ocasional. Es menciona el nom del festival Cabró Rock."
+  },
+  {
+    "titol": "Al cotxe 6x11 - Narcís Bardalet: &quot;De petit mirava que no hi hagués un mort sota el llit&quot;",
+    "codi": "6251249",
+    "edat": "13",
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat greu, no legitimada<br>Por i angoixa reiterada d'afectació mitjana<br>Comentaris discriminatoris amb sanció neutra",
+    "mesinfo": "<b>Violència</b><br>Es descriu explícitament el cas d'una família on uns pares van matar el seu fill conflictiu tallant-li les venes i que després es van suïcidar enfonsant-se a l'aigua amb unes motxilles carregades de roques.<br><br><b>Por i angoixa</b><br>Es parla de la mort al llarg de tot l'episodi, de la quantitat de morts que ha observat el protagonista, dels casos que més li han impactat i es parla de suïcidis i d'autòpsies.<br><br><b>Discriminació, racisme i xenofòbia</b><br>El protagonista descriu un fill conflictiu com un nen que 'pobret, estava malalt, tenia autisme', i el contraposa amb l'altre fill 'sa' que estudia, sense que el conductor hi faci cap incís. També, es parla del Negre de Banyoles i el redueix a 'aquest negre'.<br><br>Hi ha llenguatge groller ocasional d'intensitat alta pel context ('hòstia', 'collons', 'acollonant')."
   },
   {
     "titol": "Al cotxe 8x17 - Albert Serra: &quot;No tinc cap respecte pel cine.&quot;",
@@ -20641,7 +20648,7 @@
     "codi": "nashville",
     "edat": "13",
     "orig": "12 (prèviament: 7)",
-    "potser": "violència, continguts sexuals i drogues lícites o il·lícites",
+    "potser": "violència i drogues lícites o il·lícites",
     "imdb": "tt2281375",
     "csm": "tv-reviews/nashville-0",
     "serie": true,
