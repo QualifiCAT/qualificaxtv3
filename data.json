@@ -602,7 +602,7 @@
     "titol": "Vèrtex",
     "codi": "vertex",
     "edat": "10",
-    "potser": "situacions angoixants i llenguatge groller",
+    "potser": "continguts sexuals, situacions angoixants i llenguatge groller",
     "serie": true
   },
   {
@@ -6327,6 +6327,31 @@
     "potser": "drogues lícites o il·lícites i llenguatge groller"
   },
   {
+    "titol": "30' La meva amiga IA",
+    "codi": "6435035",
+    "edat": "10",
+    "potser": "continguts sexuals i situacions angoixants"
+  },
+  {
+    "titol": "SF És de plàstic i l'estimo",
+    "codi": "6403026",
+    "edat": "13",
+    "potser": "continguts sexuals"
+  },
+  {
+    "titol": "Un dia de partit",
+    "codi": "un-dia-de-partit",
+    "edat": "10",
+    "serie": true
+  },
+  {
+    "titol": "Viatge de noces",
+    "codi": "viatgedenoces",
+    "edat": "10",
+    "potser": "continguts sexuals i drogues lícites o il·lícites",
+    "serie": true
+  },
+  {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
     "titol": "13 anys... i un dia",
     "codi": "tretze-anys-i-un-dia",
@@ -7029,7 +7054,7 @@
     "codi": "al-cotxe",
     "edat": "13",
     "orig": "TP",
-    "potser": "violència, continguts sexuals, situacions angoixants i llenguatge groller",
+    "potser": "continguts sexuals, situacions angoixants i llenguatge groller",
     "serie": true,
     "tv3": true
   },
@@ -7053,6 +7078,13 @@
     "edat": "10",
     "raons": "Violència ocasional, versemblant, no explícita, d'intensitat greu, no legitimada<br>Llenguatge groller freqüent d'intensitat baixa",
     "mesinfo": "<b>Violència</b><br>S'ensenyen ocasionalment fragments d'una pel·lícula on es veu una corrida de toros, on es veu força sang en el toro i en la cara del torero però cap estacada explícita. Es desprèn apologia de la mort de l'animal en alguns dels fragments i declaracions de l'actor; no obstant això, el conductor del programa intenta fer-li entendre que a certes persones els pot provocar rebuig aquesta activitat i més després de presenciar-la amb l'explicitació i intensitat en què ho fa la pel·lícula, i que vulguin prohibir-la, mentre que ell en defuig el debat i diu que la tauromàquia és molt més que l'acte violent en si.<br><br><b>Llenguatge groller</b><br>Es diu 'hòstia', 'fotre' i 'ole tus huevos' de manera freqüent.<br><br>Hi ha por i angoixa ocasional mitjana per les escenes violentes mencionades anteriorment. Hi ha continguts sexuals ocasionals d'explicitació baixa en un fragment molt breu d'una pel·lícula."
+  },
+  {
+    "titol": "Al cotxe 8x19 - Laura Fa i Marta Pontnou: &quot;Encara ara hi ha dones que no saben què és un orgasme&quot;",
+    "codi": "6346022",
+    "edat": "13",
+    "raons": "Continguts sexuals freqüents d'explicitació mitjana<br>Llenguatge groller freqüent d'intensitat alta",
+    "mesinfo": "<b>Sexe</b><br>Es fan al·lusions freqüents a orgasmes, a joguines sexuals i al sexe oral.<br><br><b>Llenguatge groller</b><br>Es parla de 'follar', 'cony' ('us menjarem el cony', 'ben lluny del cony'), 'puta', 'hòstia' i 'collons' ('per punxar-los els collons').<br><br>Hi ha referències a situacions discriminatòries amb sanció negativa."
   },
   {
     "titol": "Al mar!",
@@ -13816,6 +13848,15 @@
     "imdb": "tt5797440",
     "serie": true,
     "sx3": true
+  },
+  {
+    "titol": "Ginoide (2025)",
+    "codi": "6433668",
+    "edat": "10",
+    "orig": "7",
+    "peli": true,
+    "3cat": true,
+    "raons": "Por i angoixa freqüent d'afectació mitjana<br>Al·lusions al consum de drogues il·lícites (drogues sintètiques sense especificar), presentat de manera negativa<br>Llenguatge groller ocasional d'intensitat alta"
   },
   {
     "titol": "Git Gud",
