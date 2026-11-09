@@ -93,6 +93,11 @@
     "edat": "18"
   },
   {
+    "titol": "El foraster al Palau Sant Jordi",
+    "codi": "6434095PASSA",
+    "edat": "10"
+  },
+  {
     "titol": "col·lecció crackòvia aixeca passions",
     "codi": "32850",
     "edat": "13"
@@ -6399,6 +6404,32 @@
     "titol": "Fuet, el pòdcast",
     "codi": "fuet-el-podcast-audio",
     "edat": "10",
+    "serie": true
+  },
+  {
+    "titol": "El llenguado",
+    "codi": "el-llenguado",
+    "edat": "10", hhhhh
+    "potser": "llenguatge groller",
+    "serie": true
+  },
+  {
+    "titol": "Aleph",
+    "codi": "aleph",
+    "edat": "7",
+    "serie": true
+  },
+  {
+    "titol": "Tot el temps del món",
+    "codi": "tot-el-temps-del-mon",
+    "edat": "10",
+    "serie": true
+  },
+  {
+    "titol": "El retorn de les lluernes",
+    "codi": "el-retorn-de-les-lluernes",
+    "edat": "10",
+    "potser": "llenguatge groller",
     "serie": true
   },
   {
