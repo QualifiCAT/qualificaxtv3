@@ -6433,6 +6433,13 @@
     "serie": true
   },
   {
+    "titol": "Diari d'un actor",
+    "codi": "diari-d-un-actor",
+    "edat": "10",
+    "potser": "violència, continguts sexuals, drogues lícites o il·lícites i llenguatge groller",
+    "serie": true
+  },
+  {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
     "titol": "13 anys... i un dia",
     "codi": "tretze-anys-i-un-dia",
