@@ -6440,6 +6440,13 @@
     "serie": true
   },
   {
+    "titol": "Supervivents del franquisme",
+    "codi": "supervivents-del-franquisme",
+    "edat": "13",
+    "potser": "violència, continguts sexuals, situacions angoixants i drogues lícites o il·lícites",
+    "serie": true
+  },
+  {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
     "titol": "13 anys... i un dia",
     "codi": "tretze-anys-i-un-dia",
