@@ -6281,13 +6281,6 @@
     "serie": true
   },
   {
-    "titol": "LIA",
-    "codi": "lia",
-    "edat": "13",
-    "potser": "continguts sexuals",
-    "serie": true
-  },
-  {
     "titol": "60' Al-Sisi, el nou faraó d'Egipte",
     "codi": "6434832",
     "edat": "13",
@@ -19125,6 +19118,27 @@
     "csm": "tv-reviews/teenage-mutant-ninja-turtles-0",
     "serie": true,
     "sx3": true
+  },
+  {
+    "titol": "LIA",
+    "codi": "lia",
+    "edat": "13",
+    "orig": "12",
+    "potser": "continguts sexuals",
+    "serie": true,
+    "tv3": true
+  },
+  {
+    "titol": "LIA 1x01 - Distància de seguretat",
+    "codi": "6433503",
+    "edat": "10",
+    "raons": "Violència ocasional, versemblant, no explícita, d'intensitat lleu, no legitimada<br>Continguts sexuals ocasionals d'explicitació mitjana<br>Consum de drogues lícites (alcohol), presentat de manera neutra<br>Llenguatge groller freqüent d'intensitat baixa, ocasionalment alta"
+  },
+  {
+    "titol": "LIA 1x02 - Latència",
+    "codi": "6433508",
+    "edat": "13",
+    "raons": "Continguts sexuals ocasionals d'explicitació alta"
   },
   {
     "titol": "Llim",
