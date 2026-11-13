@@ -145,7 +145,7 @@
     "potser": "violència i situacions angoixants"
   },
   {
-    "titol": "I l'Àliga vola: Sergi Mingote, K2 (sense ficció)",
+    "titol": "SF I l'Àliga vola: Sergi Mingote, K2",
     "codi": "6420911",
     "edat": "10",
     "potser": "situacions angoixants i llenguatge groller"
@@ -6450,6 +6450,12 @@
     "codi": "llencat",
     "edat": "13",
     "serie": true
+  },
+  {
+    "titol": "La professora d'història",
+    "codi": "6434346",
+    "edat": "13",
+    "potser": "llenguatge groller"
   },
   {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
@@ -24017,6 +24023,22 @@
     "tv3": true
   },
   {
+    "titol": "Sense ficció - Torneu-me el fill! Els nens robats del franquisme",
+    "codi": "3473850",
+    "edat": "10",
+    "orig": "TP",
+    "raons": "Por i angoixa freqüent d'afectació mitjana<br>(Qualificació oficial del CAC)",
+    "mesinfo": "El següent contingut està extret dels informes 30/2012 i 43/2012 de l'Àrea de Continguts del CAC.<br><br><b>Por i angoixa</b><br>Hi ha presència freqüent de situacions susceptibles de provocar por o angoixa amb un grau d'afectació al menor mitjà, atès que es descriu com infants acabats de néixer van ser sostrets a les seves mares biològiques i donats a altres famílies a canvi de diners. Apareixen testimonis de mares que descriuen l'angoixa i la tristesa per la pèrdua dels seus fills i de persones que van ser venudes a canvi de diners quan eren nadons i van patir maltractaments per part dels seus pares adoptius.<br><br>Es detecta la presència ocasional de violència versemblant, no explícita, d'intensitat greu i no legitimada pel discurs, atès que una dona narra com va patir maltractaments i abusos per part dels seus pares adoptius i el relat s'il·lustra amb una recreació ficcionada en què un home maltracta físicament una nena."
+  },
+  {
+    "titol": "Sense ficció - Torneu-me el fill! Els nens robats del franquisme",
+    "codi": "3348490",
+    "edat": "10",
+    "orig": "TP",
+    "raons": "Por i angoixa freqüent d'afectació mitjana<br>(Qualificació oficial del CAC)",
+    "mesinfo": "El següent contingut està extret dels informes 30/2012 i 43/2012 de l'Àrea de Continguts del CAC.<br><br><b>Por i angoixa</b><br>Hi ha presència freqüent de situacions susceptibles de provocar por o angoixa amb un grau d'afectació al menor mitjà, atès que es descriu com infants acabats de néixer van ser sostrets a les seves mares biològiques i donats a altres famílies a canvi de diners. Apareixen testimonis de mares que descriuen l'angoixa i la tristesa per la pèrdua dels seus fills i de persones que van ser venudes a canvi de diners quan eren nadons i van patir maltractaments per part dels seus pares adoptius.<br><br>Es detecta la presència ocasional de violència versemblant, no explícita, d'intensitat greu i no legitimada pel discurs, atès que una dona narra com va patir maltractaments i abusos per part dels seus pares adoptius i el relat s'il·lustra amb una recreació ficcionada en què un home maltracta físicament una nena."
+  },
+  {
     "titol": "Sense ficció - Balandrau, infern glaçat",
     "codi": "6100449",
     "edat": "13",
@@ -24024,6 +24046,13 @@
     "imdb": "tt15893036",
     "raons": "Por i angoixa reiterada d'afectació mitjana",
     "mesinfo": "<b>Por i angoixa</b><br>La pel·lícula intercala testimonis verbals de la mà dels propis testimonis i dels agents de rescat, imatges d'arxiu i recreacions. El grau d'afectació mitjà es deu a la intensitat i la duresa en què els supervivents expliquen com van intentar sobreviure fins que van ser socorreguts i com amics o la parella es van haver de quedar enrere, donant detalls de com es va produir la seva mort o experiència propera a la mort.<br><br>De manera anecdòtica, es diuen 'cardar' i 'hosti'. Durant un segon, es veu un home amb una cigarreta a la boca."
+  },
+  {
+    "titol": "Sense ficció - De què es queixen les dones?",
+    "codi": "6147003",
+    "edat": "13",
+    "raons": "Al·lusions al consum de drogues lícites (alcohol) i il·lícites (marihuana), presentat de manera neutra",
+    "mesinfo": "<b>Drogues</b><br>Unes dones clamen el seu dret a tornar segures a casa, encara que vagin 'soles' i 'borratxes'. Es denuncia que una notícia culpabilitza una dona d'haver patit una agressió perquè anava beguda i havia fumat marihuana, quan només estava exercint la seva llibertat, segons el relat.<br><br>Hi ha violència ocasional, versemblant, no explícita, greu i no legitimada, en reproduir missatges desitjant la violació d'unes dones, i mostrar imatges de tocaments no desitjats al transport públic. Hi ha continguts sexuals ocasionals d'explicitació mitjana en fer al·lusió a la masturbació. Hi ha llenguatge groller ocasional d'intensitat alta ('puta', 'una puta mierda', 'gilipollas'). Hi ha reiterades referències a situacions de discriminació amb sanció negativa en el relat, en denunciar, per exemple, casos de sostre de vidre i de desigualtat salarial, missatges ofensius contra dones que també inclouen racisme, que una dona va perdre el suport d'un equip després de quedar embarassada, quan en una sentència judicial culpabilitzen una dona d'una violació, que reiterades imatges de cossos irrealment prims fomenten trastorns alimentaris, etc."
   },
   {
     "titol": "Sense ficció - Fugir",
@@ -24117,22 +24146,6 @@
     "orig": "TP",
     "raons": "Violència ocasional, versemblant, explícita, d'intensitat greu, legitimada<br>Comentaris discriminatoris amb sanció neutra",
     "mesinfo": "<b>Violència</b><br>Es reprodueix un greu relat de violència masclista on una dona manifesta haver rebut una bufetada del seu marit i maltractaments verbals, que la dona se sacrifica per alimentar la seva família i que creu que així ha complert amb el seu deure com a mare, i que l'home va agredir un dels fills colpejant-lo a la columna vertebral. La resposta que rep d'una consultoria és que s'ha de resignar, ha de complaure el seu home i no pot dissoldre el matrimoni. En una altra consulta, s'incita els homes a respondre amb violència per demostrar la seva masculinitat, inclús contra 'su mujer', perquè no es torni a burlar d'ell. En una altra, la dona que respon diu que agrediria la persona que pregunta 'con un par de cachetitos' per la seva suposada ignorància. En una altra, una dona tem que el seu germà abusi sexualment de la seva filla d'11 anys, sense donar detalls, i es pregunta si l'hauria de perdonar.<br><br><b>Discriminació, racisme i xenofòbia</b><br>A part dels continguts descrits a 'Violència', es fan afirmacions glorificant el culte al cos, que les dones realitzen l'ideal de la seva vida a la llar, i que avortar és un 'crim' que Déu castiga. També, en una de les cartes un home afirma haver-se distanciat dels seus amics als quals considera 'de l'altra vorera', i li responen que les seves tendències són 'normals' perquè li segueixen agradant les noies. Les afirmacions masclistes i homòfobes es presenten de manera neutra, atès que el protagonisme del documental recau permanentment i completament en les narracions de les cartes del consultori i en les imatges d'arxiu que les acompanyen, sense cap veu que les desautoritzi explícitament o implícitament (l'ús de música tenebrosa durant els relats d'actes violents no és suficient per considerar-ho sanció).<br><br>Hi ha continguts sexuals ocasionals d'explicitació mitjana en fer al·lusions a la prostitució (es pregunta si els homes van a 'casas públicas y mujeres de mundo'), a tocar el 'pecho' i en mostrar imatges d'un espectacle de cabaret, així com algunes al·lusions d'explicitació baixa. Hi ha situacions ocasionals de por i angoixa mitjana per alguns continguts descrits a les variables anteriors. Hi ha llenguatge groller ocasional d'intensitat baixa ('idiota', 'tonta'). Hi ha imatges fugaces de consum de tabac i alcohol."
-  },
-  {
-    "titol": "Sense ficció - Torneu-me el fill! Els nens robats del franquisme",
-    "codi": "3473850",
-    "edat": "10",
-    "orig": "TP",
-    "raons": "Por i angoixa freqüent d'afectació mitjana<br>(Qualificació oficial del CAC)",
-    "mesinfo": "El següent contingut està extret dels informes 30/2012 i 43/2012 de l'Àrea de Continguts del CAC.<br><br><b>Por i angoixa</b><br>Hi ha presència freqüent de situacions susceptibles de provocar por o angoixa amb un grau d'afectació al menor mitjà, atès que es descriu com infants acabats de néixer van ser sostrets a les seves mares biològiques i donats a altres famílies a canvi de diners. Apareixen testimonis de mares que descriuen l'angoixa i la tristesa per la pèrdua dels seus fills i de persones que van ser venudes a canvi de diners quan eren nadons i van patir maltractaments per part dels seus pares adoptius.<br><br>Es detecta la presència ocasional de violència versemblant, no explícita, d'intensitat greu i no legitimada pel discurs, atès que una dona narra com va patir maltractaments i abusos per part dels seus pares adoptius i el relat s'il·lustra amb una recreació ficcionada en què un home maltracta físicament una nena."
-  },
-  {
-    "titol": "Sense ficció - Torneu-me el fill! Els nens robats del franquisme",
-    "codi": "3348490",
-    "edat": "10",
-    "orig": "TP",
-    "raons": "Por i angoixa freqüent d'afectació mitjana<br>(Qualificació oficial del CAC)",
-    "mesinfo": "El següent contingut està extret dels informes 30/2012 i 43/2012 de l'Àrea de Continguts del CAC.<br><br><b>Por i angoixa</b><br>Hi ha presència freqüent de situacions susceptibles de provocar por o angoixa amb un grau d'afectació al menor mitjà, atès que es descriu com infants acabats de néixer van ser sostrets a les seves mares biològiques i donats a altres famílies a canvi de diners. Apareixen testimonis de mares que descriuen l'angoixa i la tristesa per la pèrdua dels seus fills i de persones que van ser venudes a canvi de diners quan eren nadons i van patir maltractaments per part dels seus pares adoptius.<br><br>Es detecta la presència ocasional de violència versemblant, no explícita, d'intensitat greu i no legitimada pel discurs, atès que una dona narra com va patir maltractaments i abusos per part dels seus pares adoptius i el relat s'il·lustra amb una recreació ficcionada en què un home maltracta físicament una nena."
   },
   {
     "titol": "Sense sortida",
