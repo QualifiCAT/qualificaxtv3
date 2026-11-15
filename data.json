@@ -13890,6 +13890,18 @@
     "raons": "Consum de drogues lícites (tabac), presentat de manera neutra<br>Llenguatge groller ocasional d'intensitat alta"
   },
   {
+    "titol": "Gènesi 1x03",
+    "codi": "6425570",
+    "edat": "10",
+    "raons": "Consum de drogues lícites (tabac, alcohol), presentat de manera neutra"
+  },
+  {
+    "titol": "Gènesi 1x04",
+    "codi": "6425568",
+    "edat": "10",
+    "raons": "Consum de drogues lícites (tabac, alcohol), presentat de manera neutra<br>Llenguatge groller ocasional d'intensitat alta"
+  },
+  {
     "titol": "George de la jungla",
     "codi": "george-jungla",
     "edat": "7",
@@ -25420,6 +25432,15 @@
     "edat": "10",
     "raons": "Mencions a drogues il·lícites (cocaïna) sense referència al seu consum i amb una presentació neutra dels seus efectes<br>Llenguatge groller ocasional d'intensitat alta",
     "mesinfo": "<b>Drogues</b><br>En un dels reptes, es demana que els concursants busquin, per un poble, una capseta amb fulla de coca a dins. Es comenta que serveix per elaborar una infusió per tractar uns mals de cap. La fulla de coca conté cocaïna. No es fan referències al seu consum. A més, una noia comenta que va de 'afters' i de 'raves'.<br><br><b>Llenguatge groller</b><br>Hi ha llenguatge groller d'intensitat alta ('no teníeu ni puta idea d'on estava', 'com ens l'hagin puto robat') i baixa (degut al context en què s'utilitzen: 'cabrons', 'joder', 'hòstia', 'collons', 'what the fuck').<br><br>Hi ha continguts sexuals ocasionals d'explicitació baixa en un retall d'un vídeo breu on una noia té un dibuix d'un penis sobre el cap."
+  },
+  {
+    "titol": "Tu no ets jo (2023)",
+    "codi": "6432158",
+    "edat": "13",
+    "orig": "16",
+    "peli": true,
+    "3cat": true,
+    "raons": "Violència ocasional, versemblant, explícita, d'intensitat greu, no legitimada<br>Continguts sexuals ocasionals d'explicitació alta<br>Por i angoixa reiterada d'afectació mitjana<br>Llenguatge groller freqüent d'intensitat alta"
   },
   {
     "titol": "Tvist",
