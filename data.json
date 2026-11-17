@@ -10866,6 +10866,82 @@
     "raons": "Violència freqüent, versemblant, explícita, d'intensitat greu, no legitimada"
   },
   {
+    "titol": "El Disc de La Marató",
+    "codi": "el-disc-de-la-marato",
+    "edat": "7",
+    "orig": "TP",
+    "serie": true,
+    "3cat": true
+  },
+  {
+    "titol": "El Disc de La Marató - Roger Mas - &quot;Ai, Dolors&quot;",
+    "codi": "6435052",
+    "edat": "7",
+    "raons": "Continguts sexuals ocasionals d'explicitació baixa<br>Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "El Disc de La Marató - Dan Peralbo i el Comboi interpreten en català &quot;La casa de la bomba&quot;",
+    "codi": "6435048",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "El Disc de La Marató - Carme Elias i el Quartet Brossa - &quot;Vestigis&quot;",
+    "codi": "6435051",
+    "edat": "0",
+    "raons": "Por i angoixa ocasional d'afectació lleu"
+  },
+  {
+    "titol": "El Disc de La Marató - Joan Dausà i la Coral Parkinsongs - &quot;Per Neuraltres i el Badal&quot;",
+    "codi": "6435044",
+    "edat": "0"
+  },
+  {
+    "titol": "El Disc de La Marató - Lax'n'Busto - &quot;No tinc temps&quot;",
+    "codi": "6435045",
+    "edat": "0"
+  },
+  {
+    "titol": "El Disc de La Marató - Montse Castellà i l'Orchestra Fireluche - &quot;Que bonic!&quot;",
+    "codi": "6435053",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "El Disc de La Marató - Ferran Palau i Mar Pujol - &quot;Barca del temps&quot;",
+    "codi": "6435043",
+    "edat": "0"
+  },
+  {
+    "titol": "El Disc de La Marató - Obeses i Original Jazz Orquestra Taller de Músics (OJO) - &quot;Se&#x27;n va anar&quot;",
+    "codi": "6435046",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "El Disc de La Marató - The Tyets, Pavvla, Javito i Marcel Lázara - &quot;La dansa del vestit&quot;",
+    "codi": "6435047",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "El Disc de La Marató - Xicu - &quot;Viatge d&#x27;un savi vilatrista cap enlloc&quot;",
+    "codi": "6435055",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
+    "titol": "El Disc de La Marató - Alosa - &quot;El pardal&quot;",
+    "codi": "6435049",
+    "edat": "0"
+  },
+  {
+    "titol": "El Disc de La Marató - Marina Rossell - &quot;Queda't de mi alguna cosa&quot;",
+    "codi": "6435050",
+    "edat": "7",
+    "raons": "Llenguatge groller ocasional d'intensitat baixa"
+  },
+  {
     "titol": "El discurs del rei (2010)",
     "codi": "6244782",
     "edat": "10",
