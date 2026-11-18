@@ -6494,6 +6494,13 @@
     "potser": "situacions angoixants i llenguatge groller"
   },
   {
+    "titol": "El doble",
+    "codi": "el-doble",
+    "edat": "10",
+    "potser": "llenguatge groller",
+    "serie": true
+  },
+  {
     "_comment": "----------------------------------------------------------------------------------------------------------------------------------",
     "titol": "13 anys... i un dia",
     "codi": "tretze-anys-i-un-dia",
