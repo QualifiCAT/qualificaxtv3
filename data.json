@@ -7918,6 +7918,21 @@
     "mesinfo": "<b>Por i angoixa</b><br>Hi ha persecucions i situacions, d'una tensió mínima, en què els protagonistes creuen que estan en perill."
   },
   {
+    "titol": "Belzebubs",
+    "codi": "belzebubs",
+    "edat": "13",
+    "orig": "12",
+    "serie": true,
+    "3cat": true
+  },
+  {
+    "titol": "Belzebubs 1x01 - Als llimbs",
+    "codi": "6434593",
+    "edat": "13",
+    "raons": "Continguts sexuals ocasionals d'explicitació alta<br>Llenguatge groller freqüent d'intensitat alta",
+    "mesinfo": "<b>Sexe</b><br>Hi ha una escena de sexe on es veu el cul de l'home i els moviments de penetració són evidents.<br><br><b>Llenguatge groller</b><br>Es fan servir expressions com 'putes', 'càgon l'hòstia santa', 'què cony', 'collonut', 'merda', etc. També hi ha presència recurrent de bromes escatològiques, ja que un dels personatges té vòmits i diarrea extrema contagioses.<br><br>Hi ha violència ocasional, irreal, explícita, greu i no legitimada en una escena imaginària on una fletxa travessa el cor d'un personatge. Hi ha consum ocasional de drogues lícites (alcohol) presentat de manera neutra, i es fan al·lusions a tenir ressaca. Hi ha situacions de por ocasionals d'afectació lleu."
+  },
+  {
     "titol": "Benvinguts a la família",
     "codi": "benvinguts-a-la-familia",
     "edat": "13",
@@ -16168,7 +16183,7 @@
     "raons": "Violència ocasional, versemblant, explícita, d'intensitat greu, no legitimada<br>Continguts sexuals ocasionals d'explicitació alta<br>Llenguatge groller freqüent d'intensitat alta"
   },
   {
-    "titol": "Increïble però fals",
+    "titol": "Increïble, però fals",
     "codi": "increible-pero-fals",
     "edat": "13",
     "orig": "TP",
@@ -16177,51 +16192,51 @@
     "3cat": true
   },
   {
-    "titol": "Increïble però fals 1x01 - La màgia",
+    "titol": "Increïble, però fals 1x01 - La màgia",
     "codi": "6433449",
     "edat": "10",
     "raons": "Llenguatge groller ocasional d'intensitat alta",
     "mesinfo": "<b>Llenguatge groller</b><br>Hi ha llenguatge groller ocasional d'intensitat alta ('hijos de puta') i baixa ('hòstia' en un context col·loquial).<br><br>Hi ha violència ocasional, irreal, explícita, d'intensitat lleu i no legitimada, en una escena ficcionada d'una baralla en un bar. Hi ha situacions ocasionals de por i angoixa mitjana quan, per exemple, es mostra una persona combustionant, moment que es presenta com a ficcionat. Hi ha conductes incíviques (falta d'ètica personal) sancionades negativament."
   },
   {
-    "titol": "Increïble però fals 1x02 - Els miracles",
+    "titol": "Increïble, però fals 1x02 - Els miracles",
     "codi": "6433444",
     "edat": "13",
     "raons": "Por i angoixa freqüent d'afectació alta",
     "mesinfo": "<b>Por i angoixa</b><br>Es mostra diverses vegades i amb una durada i insistència considerable un truc de màgia en què sembla que s'insereixi una mà dins el ventre d'un home i se li estiguin extraient diversos òrgans interns.<br><br>Hi ha llenguatge groller ocasional d'intensitat baixa. Hi ha conductes i valors incívics amb sanció negativa."
   },
   {
-    "titol": "Increïble però fals 1x03 - Els tarotistes",
+    "titol": "Increïble, però fals 1x03 - Els tarotistes",
     "codi": "6433448",
     "edat": "10",
     "raons": "Llenguatge groller ocasional d'intensitat alta"
   },
   {
-    "titol": "Increïble però fals 1x04 - Els espiritistes",
+    "titol": "Increïble, però fals 1x04 - Els espiritistes",
     "codi": "6433452",
     "edat": "10",
     "raons": "Llenguatge groller ocasional d'intensitat alta"
   },
   {
-    "titol": "Increïble però fals 1x05 - La zona de confort",
+    "titol": "Increïble, però fals 1x05 - La zona de confort",
     "codi": "6433456",
     "edat": "13",
     "raons": "Llenguatge groller freqüent d'intensitat alta"
   },
   {
-    "titol": "Increïble però fals 1x06 - Els fakequirs",
+    "titol": "Increïble, però fals 1x06 - Els fakequirs",
     "codi": "6433450",
     "edat": "10",
     "raons": "Por i angoixa freqüent d'afectació mitjana<br>Llenguatge groller ocasional d'intensitat alta"
   },
   {
-    "titol": "Increïble però fals 1x07 - Els carteristes",
+    "titol": "Increïble, però fals 1x07 - Els carteristes",
     "codi": "6433451",
     "edat": "10",
     "raons": "Llenguatge groller ocasional d'intensitat alta"
   },
   {
-    "titol": "Increïble però fals 1x08 - Els entrepreneurs",
+    "titol": "Increïble, però fals 1x08 - Els entrepreneurs",
     "codi": "6433445",
     "edat": "7",
     "raons": "Al·lusions al consum de drogues lícites (alcohol), presentat de manera negativa<br>Comentaris discriminatoris amb sanció negativa<br>Llenguatge groller ocasional d'intensitat baixa<br>Conductes i valors incívics amb sanció negativa"
